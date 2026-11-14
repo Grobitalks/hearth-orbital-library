@@ -1,0 +1,2017 @@
+HOLB1	22695	5	400	80	700	150
+4	Prologue.
+7	Act The Firs, Scene I. SIMO, SOSIA, and SERVAN
+18	Act The Firs, Scene II. Enter DAVUS.
+22	Act The Firs, Scene III. Davus.
+25	Act The Firs, Scene V. PAMPHILUS, MYSIS behind
+31	Act The Seco, Scene I. Charinus, Byrrhia.
+33	Act The Seco, Scene II. Enter PAMPHILUS.
+36	Act The Seco, Scene III. Enter DAVUS hastily.
+42	Act The Seco, Scene IV. Pamphilus. Davus.
+47	Act The Seco, Scene VI. Enter BYRRHIA behind.
+50	Act The Seco, Scene VII. Manent SIMO and DAVUS
+55	Act The Thir, Scene II. Manent SIMO, DAVUS.
+57	Act The Thir, Scene IV.
+63	Act The Thir, Scene V. Enter CHREMES.
+67	Act The Thir, Scene VI. Enter DAVUS.
+71	Act The Thir, Scene VIII. Enter PAMPHILUS; DAV
+74	Act The Four, Scene I. CHARINUS alone.
+75	Act The Four, Scene II. To him PAMPHILUS and D
+80	Act The Four, Scene III. Enter MYSIS.
+86	Act The Four, Scene VI. Re-enter DAVUS with th
+89	Act The Four, Scene VII. Enter CHREMES going t
+96	Act The Four, Scene IX. Enter CRITO.
+99	Act The Fift, Scene I. Chremes, Simo.
+101	Act The Fift, Scene II. Enter DAVUS from GLYCE
+107	Act The Fift, Scene V. Enter PAMPHILUS.
+110	Act The Fift, Scene VI. Re-enter PAMPHILUS wit
+120	Act The Fift, Scene VIII. Enter DAVUS.
+124	Prologue.
+127	Act The Firs, Scene I. Enter PHAEDRIA and PARM
+129	Act The Firs, Scene II. Enter THAIS.
+139	Act The Seco, Scene I. Phaedria, Parmeno.
+143	Act The Seco, Scene II. Enter GNATHO leading P
+150	Act The Seco, Scene III. Enter CHAEREA; PARMEN
+162	Act The Seco, Scene III. Labeled SCENE IV in 1
+165	Act The Thir, Scene I. Enter THRASO and GNATHO
+173	Act The Thir, Scene II. Enter THAIS and PYTHIA
+180	Act The Thir, Scene III. CHREMES alone.
+184	Act The Thir, Scene V. ANTIPHO alone.
+186	Act The Thir, Scene VI. Enter CHAEREA, in the 
+194	Act The Four, Scene I. Enter DORIAS, with a Ca
+196	Act The Four, Scene II. Enter PHAEDRIA.
+197	Act The Four, Scene III. Enter PYTHIAS and DOR
+200	Act The Four, Scene IV.
+208	Act The Four, Scene VI. Enter CHREMES tipsy.
+210	Act The Four, Scene VII. Enter THAIS.
+215	Act The Four, Scene VIII. Enter THRASO, GNATHO
+223	Act The Fift, Scene I. THAIS and PYTHIAS.
+226	Act The Fift, Scene II. Enter CHAEREA.
+234	Act The Fift, Scene III. Pythias, Chremes, Sop
+236	Act The Fift, Scene IV. Enter PARMENO.
+237	Act The Fift, Scene V. Pythias, Parmeno.
+242	Act The Fift, Scene VI. Enter LACHES.
+246	Act The Fift, Scene VII. Enter PYTHIAS; PARMEN
+250	Act The Fift, Scene VIII. Enter THRASO, GNATHO
+252	Act The Fift, Scene IX. Enter CHAEREA at anoth
+255	Act The Fift, Scene X. Enter PHAEDRIA.
+264	Prologue.
+267	Act The Firs, Scene I. Chremes, Menedemus.
+276	Act The Firs, Scene II. CHREMES alone.
+277	Act The Firs, Scene III. Enter CLITIPHO, speak
+281	Act The Firs, Scene IV. CLITIPHO alone.
+283	Act The Seco, Scene I. Enter CLINIA.
+285	Act The Seco, Scene II. Enter SYRUS and DROMO,
+299	Act The Seco, Scene III. Enter BACCHIS, and AN
+303	Act The Thir, Scene II. Enter MENEDEMUS.
+311	Act The Thir, Scene III. Enter SYRUS at anothe
+317	Act The Thir, Scene V. Enter CLITIPHO, and CHR
+321	Act The Thir, Scene VI. Chremes, Syrus.
+325	Act The Thir, Scene VII. Enter at a distance S
+332	Act The Four, Scene I. SYRUS, alone.
+333	Act The Four, Scene II. Enter CLINIA at anothe
+338	Act The Four, Scene III.
+344	Act The Four, Scene V. After which, enter CHRE
+351	Act The Four, Scene VI. Enter CLITIPHO.
+356	Act The Four, Scene IX. Enter MENEDEMUS.
+362	Act The Fift, Scene II. Enter CHREMES.
+372	Act The Fift, Scene III. Re-enter MENEDEMUS, w
+375	Act The Fift, Scene IV. Manent CLITIPHO, SYRUS
+379	Act The Fift, Scene VI. Enter CHREMES, SOSTRAT
+382	Act The Fift, Scene VII. Enter CLITIPHO.
+384	Act The Fift, Scene VIII. Enter MENEDEMUS.
+388	Prologue.
+390	Act The Firs, Scene I. Enter MICIO.
+394	Act The Firs, Scene II. Enter DEMEA.
+401	Act The Firs, Scene III. MICIO alone.
+402	Act The Seco, Scene I.
+408	Act The Seco, Scene II. SANNIO alone.
+409	Act The Seco, Scene III. Enter SYRUS.
+413	Act The Seco, Scene IV. Enter CTESIPHO at anot
+415	Act The Seco, Scene V. Enter AESCHINUS.
+418	Act The Thir, Scene I. Sostrata, Canthara.
+420	Act The Thir, Scene II. Enter GETA hastily at 
+426	Act The Thir, Scene III. Enter DEMEA.
+427	Act The Thir, Scene IV. Enter SYRUS at another
+437	Act The Thir, Scene VI. Enter HEGIO, GETA conv
+444	Act The Four, Scene I. Ctesipho, Syrus.
+447	Act The Four, Scene II. Enter DEMEA at another
+455	Act The Four, Scene IV. Enter MICIO and HEGIO.
+457	Act The Four, Scene V. AESCHINUS alone.
+459	Act The Four, Scene VI. Enter MICIO.
+469	Act The Four, Scene IX. Enter MICIO.
+475	Act The Four, Scene XI. Enter at a distance SY
+478	Act The Four, Scene XIV. Enter MICIO from SOST
+484	Act The Fift, Scene I. DEMEA alone.
+488	Act The Fift, Scene IV. Enter AESCHINUS.
+490	Act The Fift, Scene V. Enter MICIO.
+496	Act The Fift, Scene VI. To them SYRUS.
+501	Prologue.
+505	Act The Firs, Scene I. Philotis, Syra.
+506	Act The Firs, Scene II. Enter PARMENO.
+516	Act The Seco, Scene I. Laches, Sostrata.
+520	Act The Seco, Scene II. Enter PHIDIPPUS.
+523	Act The Seco, Scene III. Manet SOSTRATA.
+524	Act The Thir, Scene I. Enter PAMPHILUS and PAR
+529	Act The Thir, Scene III. Enter SOSTRATA.
+532	Act The Thir, Scene V. PAMPHILUS alone.
+536	Act The Thir, Scene VI.
+540	Act The Thir, Scene VIII. Enter at a distance 
+544	Act The Thir, Scene IX. Manent LACHES and PHID
+547	Act The Four, Scene II. Enter PHIDIPPUS.
+552	Act The Four, Scene IV. Sostrata, Pamphilus.
+555	Act The Four, Scene V. Enter LACHES.
+558	Act The Four, Scene VI. Enter PHIDIPPUS.
+564	Act The Four, Scene VII. Manent PHIDIPPUS, LAC
+566	Act The Four, Scene VIII. Enter BACCHIS attend
+570	Act The Four, Scene IX. Enter PHIDIPPUS and a 
+576	Act The Fift, Scene III. BACCHIS alone.
+578	Act The Fift, Scene IV. Enter at a distance PA
+583	Prologue.
+586	Act The Firs, Scene I. DAVUS alone.
+587	Act The Firs, Scene II. Enter GETA.
+596	Act The Firs, Scene III. Antipho, Phaedria.
+598	Act The Firs, Scene IV. Enter at a distance _G
+605	Act The Firs, Scene VI. Enter DEMIPHO at anoth
+613	Act The Seco, Scene I. Phormio, Geta.
+617	Act The Seco, Scene II.
+626	Act The Seco, Scene III.
+629	Act The Seco, Scene IV. Enter at a distance AN
+632	Act The Seco, Scene V. Enter, from Dorio's, DO
+639	Act The Seco, Scene VI. Phaedria, Antipho, Get
+644	Act The Thir, Scene I. Enter DEMIPHO and CHREM
+646	Act The Thir, Scene II. Enter, at another part
+647	Act The Thir, Scene III. Enter behind, ANTIPHO
+655	Act The Thir, Scene IV. Manent ANTIPHO, GETA.
+658	Act The Thir, Scene V. Re-enter DEMIPHO and CH
+660	Act The Thir, Scene VI. Enter SOPHRONA at a di
+665	Act The Four, Scene I. Demipho, Geta.
+667	Act The Four, Scene III. Enter DEMIPHO and NAU
+669	Act The Four, Scene IV. Enter CHREMES, hastily
+675	Act The Four, Scene VII. Enter, at a distance,
+<i>Harper</i>
+  Judge wrongly of these matters. 'Tis no crime
+<i>Colman 1768</i>
+  Misjudge these matters. 'Tis no heinous crime
+
+<i>Harper</i>
+  Or cease, or choose some arbiter between us
+<i>Colman 1768</i>
+  Have done, or chuse some arbiter between us
+
+<i>Harper</i>
+  MICIO. Must I still hear the same thing o'er and o'er?
+<i>Colman 1768</i>
+  MICIO. Must I be plagued with the same thing so often?]<b>SCENE III.</b>
+
+<i>MICIO alone.</i>
+
+Though what he says be not entirely true,
+There's something in it, and it touches me.
+But I dissembled my concern with him,
+Because the nature of the man is such,
+To pacify, I must oppose and thwart him;
+And even thus I scarce can teach him patience.
+But were I to inflame, or aid his anger,
+I were as great a madman as himself.
+Yet AEschinus, 'tis true, has been to blame.
+What wench is there he has not lov'd? to whom
+He has not made some present--And but lately
+(Tir'd, I suppose, and sick of wantonness)
+He told me he propos'd to take a wife.
+I hop'd the heyday of the blood was over,
+And was rejoic'd: but his intemperance
+Breaks out afresh.--Well, be it what it may,
+I'll find him out; and know it instantly,
+If he is to be met with at the Forum. (<i>Exit.</i>
+
+[Changes:<i>Harper</i>
+  What wench is there he has not lov'd? to whom
+  He has not made some present--And but lately
+<i>Colman 1768</i>
+  What wench is there but he is her gallant?
+  Or tempts her with some gift?--But lately too]
+
+ACT THE SECOND.
+
+<b>SCENE I.</b>
+
+_Enter AESCHINUS, SANNIO, PARMENO, the <i>Music-Girl</i>, and a crowd of People._
+
+SAN. Help, help, dear countrymen, for Heaven's sake! Assist a miserable, harmless man! Help the distress'd!
+
+AESCH. (<i>to the Girl</i>). Fear nothing: stand just there! Why d'ye look back? you're in no danger. Never, While I am by, shall he lay hands upon you.
+
+SAN. Aye, but I will, in spite of all the world.
+
+AESCH. Rogue as he is, he'll scarce do any thing
+To make me cudgel him again to-day.
+
+SAN. One word, Sir AEschinus! that you may not
+Pretend to ignorance of my profession;I'm a procurer.
+
+AESCH. True.
+
+SAN. And in my way
+Of as good faith as any man alive.
+Hereafter, to absolve yourself, you'll cry,
+That you repent of having wrong'd me thus.
+I sha'n't care <i>that</i> for your excuse. (<i>Snapping his fingers.</i>) Be sure
+I'll prosecute my right; nor shall fine words
+Atone for evil deeds. I know your way,
+--"I'm sorry that I did it: and I'll swear
+You are unworthy of this injury"----
+Though all the while I'm us'd most scurvily.
+
+AESCH. (<i>to PAR.</i>) Do you go forward, Parmeno, and throw The door wide open.
+
+SAN. That sha'n't signify.
+
+AESCH. (<i>to PARMENO</i>). Now in with her!
+
+SAN. (<i>stepping between</i>). I'll not allow it.
+
+AESCH. (<i>to PARMENO</i>). Here!
+Come hither, Parmeno!--you're too far off.----
+Stand close to that pimp's side--There--there--just there!And now be sure you always keep your eyes
+Steadfastly fix'd on mine; and when I wink,
+To drive your fist directly in his face.
+
+SAN. Aye, if he dare.
+
+AESCH. (<i>to PARMENO</i>). Now mind!-- (<i>To SANNIO</i>). Let go the girl (<i>SANNIO still struggling with the Girl, AESCHINUS winks, and PARMENO strikes SANNIO</i>).
+
+SAN. Oh monstrous!
+
+AESCH. He shall double it, unless
+You mend your manners.
+(<i>PARMENO strikes SANNIO again.</i>)
+
+SAN. Help, help: murder, murder!
+
+AESCH. (<i>to PARMENO</i>). I did not wink: but you had better err
+That way than t'other.--Now go in with her.
+    (<i>PARMENO leads the Girl into MICIO'S house.</i>)
+
+SAN. How's this?--Do you reign king here, AEschinus?
+
+AESCH. Did I reign king, you should be recompens'd
+According to your virtues, I assure you.SAN. What business have you with me?
+
+AESCH. None.
+
+SAN. D'ye know
+Who I am, AEschinus?
+
+AESCH. Nor want to know.
+
+SAN. Have I touch'd aught of yours, Sir?
+
+AESCH. If you had,
+You should have suffer'd for't.
+
+SAN. What greater right
+Have you to take away my slave, for whom
+I paid my money? answer me!
+
+AESCH. 'Twere best
+You'd leave off bellowing before our door:
+If you continue to be troublesome,
+I'll have you dragg'd into the house, and there
+Lash'd without mercy.
+
+SAN. How, a freeman lash'd!AESCH. Ev'n so.
+
+SAN. O monstrous tyranny! Is this,
+Is this the liberty they boast of here,
+Common to all?
+
+AESCH. If you have brawl'd enough,
+Please to indulge me with one word, you pimp.
+
+SAN. Who has brawl'd most, yourself or I?
+
+AESCH. Well, well!
+No more of that, but to the point!
+
+SAN. What point?
+What would you have?
+
+AESCH. Will you allow me then
+To speak of what concerns you?
+
+SAN. Willingly:
+Speak, but in justice.
+
+AESCH. Very fine! a pimp,
+And talks of justice!SAN. Well, I am a pimp;
+The common bane of youth, a perjurer,
+A public nuisance, I confess it: yet
+I never did you wrong.
+
+AESCH. No, that's to come.
+
+SAN. Prithee return to whence you first set out, Sir!
+
+AESCH. You, plague upon you for it! bought the girl
+For twenty minae; which sum we will give you.
+
+SAN. What if I do not choose to sell the girl?
+Will you oblige me?
+
+AESCH. No.
+
+SAN. I fear'd you would.
+
+AESCH. She's a free-woman, and should <i>not</i> be sold,
+And, as such, by due course of law I claim her.
+Now then consider which you like the best,
+To take the money, or maintain your action.
+Think on this, Pimp, till I come back again. (<i>Exit.</i><b>SCENE II.</b>
+
+<i>SANNIO alone.</i>
+
+Oh Jupiter! I do not wonder now
+That men run mad with injuries. He drags me
+Out of my own house; cudgels me most soundly;
+And carries off my slave against my will:
+And after this ill-treatment, he demands
+The Music-Girl to be made over to him
+At the same price I bought her.--He has pour'd
+His blows upon me, thick as hail; for which,
+Since he deserves so nobly at my hands,
+He should no doubt be gratified.--Nay, nay,
+Let me but touch the cash, I'm still content.
+But this I guess will be the case: as soon
+As I shall have agreed to take his price,
+He'll produce witnesses immediately,
+To prove that I have sold her--And the money
+Will be mere moonshine.--"By-and-by."--"To-morrow."
+--Yet I could bear that too, although much wrong,
+Might I but get the money after all:
+For thus it is, friend Sannio; when a man
+Has taken up this trade, he must receive,
+And pocket the affronts of young gallants.
+--But nobody will pay me, and I drawConclusions to no purpose.
+
+<b>SCENE III.</b>
+
+<i>Enter SYRUS.</i>
+
+SYRUS (<i>to AESCH. within</i>). Say no more!
+Let me alone to talk with him! I warrant
+I'll make him take the money; aye, and own
+That he's well treated too. (<i>Coming forward.</i>)
+        Why how now, Sannio?
+What's the dispute I overheard just now
+'Twixt you and my young master?
+
+SAN. Never was
+Any dispute conducted more unfairly,
+Than that between us two to-day! Poor I
+With being drubb'd, and he with drubbing me,
+'Till we were both quite weary.
+
+SYRUS. All your fault.
+
+SAN. What could I do?
+
+SYRUS. Give a young man his way.SAN. What could I give him more, who gave my face?
+
+SYRUS. Nay, but d'ye know my meaning, Sannio?
+To seem upon occasion to slight money,
+Proves in the end, sometimes, the greatest gain.
+Why prithee, blockhead, could you be afraid,
+Had you abated somewhat of your right,
+And humor'd the young gentleman, he would not
+Have paid you back again with interest?
+
+SAN. I never purchase hope with ready money.
+
+SYRUS. Away! you'll never thrive. You do not know
+How to ensnare men, Sannio.
+
+SAN. Well, perhaps,
+Your way were best: yet I was ne'er so crafty
+But I had rather, when 'twas in my power,
+Receive prompt payment.
+
+SYRUS. Pshaw! I know your spirit:
+As if you valued twenty minae now,
+So you might do a kindness to my master!
+--Besides, they say you're setting out for Cyprus. (<i>Carelessly.</i>)
+
+SAN. Ha! (<i>Alarmed.</i>)SYRUS. --And have bought up a large stock of goods
+To carry over thither.--Hir'd a vessel.
+That 'tis, I know, which keeps you in suspense:
+When you return, I hope, you'll settle this.
+
+SAN. I shall not budge a foot.--Undone by Heav'n!
+Urg'd by these hopes they've undertaken this. (<i>Aside.</i>)
+
+SYRUS. He fears. I've thrown a small rub in his way. (<i>Aside.</i>)
+
+SAN. (<i>to himself.</i>) Confusion! they have nick'd me to a hair!
+I've bought up sev'ral slaves, and other wares,
+For exportation; and to miss my time
+At Cyprus-fair would be a heavy loss.
+Then if I leave this business broken thus,
+All's over with me; and at my return
+'Twill come to nothing, grown quite cold and stale.
+"--What! come at last?--Why did you stay so long?
+Where have you been?"--that it were better lose it,
+Than wait for it so long, or sue for't then.
+
+SYRUS (<i>coming up to him.</i>) Well, have you calculated what's your due?
+
+SAN. Monstrous oppression! Is this honorable,
+Or just in AEschinus, to take away
+My property by force?SYRUS. So, so! he comes. (<i>Aside.</i>)
+--I have but one word more to say to you.
+See how you like it.--Rather, Sannio,
+Than run the risk to get or lose the whole,
+E'en halve the matter: and he shall contrive
+To scrape together by some means ten minae.
+
+SAN. Alas, alas! am I in danger then
+Of losing ev'n my very principal?
+Shame on him! he has loosen'd all my teeth:
+My head is swell'd all over like a mushroom:
+And will he cheat me too?--I'm going nowhere.
+
+SYRUS. Just as you please.--Have you aught else to say Before I go?
+
+SAN. Yes, one word, prithee Syrus!
+However things have happen'd, rather than
+I should be driven to commence a suit,
+Let him return me my bare due at least;
+The sum she cost me, Syrus.--I'm convinc'd
+You've had no tokens of my friendship yet;
+But you shall find I will not be ungrateful.
+
+SYRUS. I'll do my best. But I see Ctesipho.
+He is rejoic'd about his mistress.SAN. Say,
+Will you remember me?
+
+SYRUS. Hold, hold a little! (<i>SYRUS and SANNIO retire.</i>)
+
+[Changes:
+
+<i>Harper</i>
+  SYRUS. He fears. I've thrown a small rub in his way.
+<i>Colman 1768</i>
+  SYRUS. He fears. I hinted Cyprus. There's the rub.]
+
+<b>SCENE IV.</b>
+
+<i>Enter CTESIPHO at another part of the stage.</i>
+
+CTES. Favors are welcome in the hour of need
+From any hand; but doubly welcome when
+Conferr'd by those from whom we most expect them.
+O brother, brother, how shall I applaud thee?
+Ne'er can I rise to such a height of praise
+But your deservings will outtop me still:
+For in this point I am supremely bless'd,
+That none can boast so excellent a brother,
+So rich in all good qualities, as I.SYRUS (<i>coming forward</i>). O Ctesipho!
+
+CTES. (<i>turning round</i>). O Syrus! where's my brother?
+
+SYRUS. At home, where he expects you.
+
+CTES. Ha! (<i>Joyfully.</i>)
+
+SYRUS. What now!
+
+CTES. What now?--By his assistance I live, Syrus.
+Ah, he's a friend indeed! who disregarding
+All his own interests for my advantage,
+The scandal, infamy, intrigue, and blame,
+All due to me, has drawn upon himself!
+What could exceed it?--But who's there?--The door
+Creaks on the hinges. (<i>Offering to go off.</i>)
+
+SYRUS. Hold! 'tis AEschinus.<b>SCENE V.</b>
+
+<i>Enter AESCHINUS.</i>
+
+AESCH. Where is that rascal?
+
+SAN. (<i>behind.</i>) He inquires for me.
+Has he brought out the cash with him?--Confusion!
+I see none.
+
+AESCH. (<i>to CTESIPHO</i>). Ha! well met: I long'd to see you How is it, Ctesipho? All's safe. Away With melancholy!
+
+CTES. Melancholy! I
+Be melancholy, who have such a brother?
+Oh my dear AEschinus! thou best of brothers,
+--Ah, I'm asham'd to praise you to your face,
+Lest it appear to come from flattery,
+Rather than gratitude.
+
+AESCH. Away, you fool!
+As if we did not know each other, Ctesipho.
+It only grieves me, we so lately knew this,
+When things were almost come to such a pass,
+That all the world, had they desir'd to do it,
+Could not assist you.CTES. 'Twas my modesty.
+
+AESCH. Pshaw! it was folly, and not modesty.
+For such a trifle, almost fly your country?
+Heaven forbid it!--fie, fie, Ctesipho!
+
+CTES. I've been to blame.
+
+AESCH. Well, what says Sannio?
+
+SYRUS. He's pacified at last.
+
+AESCH. I'll to the Forum,
+And pay him off.--You, Ctesipho, go in
+To the poor girl.
+
+SAN. Now urge the matter, Syrus! (<i>Apart to SYRUS.</i>)
+
+SYRUS. Let's go; for Sannio wants to be at Cyprus.
+
+SAN. Not in such haste: though truly I have no cause To loiter here.
+
+SYRUS. You shall be paid: ne'er fear!
+
+SAN. But all?SYRUS. Yes, all: so hold your tongue, and follow!
+
+SAN. I will. (<i>Exit after AESCHINUS--SYRUS going.</i>
+
+CTES. Hist! hark ye, Syrus!
+
+SYRUS (<i>turning back.</i>) Well, what now?
+
+CTES. For Heaven's sake discharge that scurvy fellow
+Immediately; for fear, if further urg'd,
+This tale should reach my father's ears: and then
+I am undone forever.
+
+SYRUS. It sha'n't be.
+Be of good courage! meanwhile, get you in,
+And entertain yourself with her; and order
+The couches to be spread, and all prepar'd.
+For, these preliminaries once dispatch'd,
+I shall march homeward with provisions.
+
+CTES. Do!
+And since this business has turn'd out so well,
+Let's spend the day in mirth and jollity!
+(<i>Exeunt severally.</i>
+
+[Changes:<i>Harper</i>
+  SAN. Not in such haste: though truly I have no cause
+  To loiter here.
+<i>Colman 1768</i>
+  SAN. Not in such haste: though truly I've no cause
+  To loiter here.]
+
+ACT THE THIRD.
+
+<b>SCENE I.</b>
+
+<i>SOSTRATA, CANTHARA.</i>
+
+SOS. Prithee, good nurse, how will it go with her?
+
+CAN. How go with her? Why well, I warrant you.
+
+SOS. Her pains begin to come upon her, nurse.
+
+CAN. You're as much frighten'd at your time of day,
+As if you ne'er was present at a labor,
+Or never had been brought to bed yourself.
+
+SOS. Alas, I've no soul here: we're all alone.
+Geta is absent; nor is there a creature
+To fetch a midwife, or call AEschinus.CAN. He'll be here presently, I promise you:
+For he, good man, ne'er lets a single day
+Go by, but he is sure to visit us.
+
+SOS. He is my only comfort in my sorrows.
+
+CAN. Troth, as the case stands, madam, circumstances
+Could not have happen'd better than they have:
+And since your daughter suffer'd violence,
+'Twas well she met with such a man as this;
+A man of honor, rank, and family.
+
+SOS. He is, indeed, a worthy gentleman:
+The gods preserve him to us!<b>SCENE II.</b>
+
+<i>Enter GETA hastily at another part of the stage.</i>
+
+GETA. We are now
+So absolutely lost, that all the world
+Joining in consultation to apply
+Relief to the misfortune that has fallen
+On me, my mistress, and her daughter, all
+Would not avail.--Ah me! so many troubles
+Environ us at once, we sink beneath them.
+Rape, poverty, oppression, solitude,
+And infamy! oh, what an age is this!
+O wicked, oh vile race!--oh impious man!
+
+SOS. (<i>to CANTHARA</i>). Ah, why should Geta seem thus terrified And agitated?
+
+GETA (<i>to himself.</i>) Wretch! whom neither honor,
+Nor oaths, nor pity could control or move!
+Nor her approaching labor; her, on whom
+He shamefully committed violation!
+
+SOS. I don't well understand him.
+
+CAN. Prithee then
+Let us draw nearer, Sostrata!GETA (<i>to himself.</i>) Alas,
+I'm scarcely in my perfect mind, I burn
+With such fierce anger.--Oh, that I had all
+That villain-family before me now,
+That I might vent my indignation on them,
+While yet it boils within me.--There is nothing
+I'd not endure to be reveng'd on them.
+First I'd tread out the stinking snuff his father,
+Who gave the monster being.--And then, Syrus,
+Who urg'd him to it,--how I'd tear him!--First
+I'd seize him round the waist, and lift him high,
+Then dash his head against the ground, and strew
+The pavement with his brains.--For AEschinus,
+I'd tear his eyes out, and then tumble him,
+Head foremost down some precipice.--The rest
+I'd rush on, drag, crush, trample under foot.
+But why do I delay to tell my mistress
+This heavy news as soon as possible! (<i>Going.</i>)
+
+SOS. Let's call him back.--Ho, Geta!
+
+GETA. Whosoe'er
+You are, excuse me.
+
+SOS. I am Sostrata.GETA. Where, where is Sostrata? (<i>Turns about.</i>) I sought you, Madam; Impatiently I sought you: and am glad To have encounter'd you thus readily.
+
+SOS. What is the matter? why d'ye tremble thus?
+
+GETA. Alas!
+
+SOS. Take breath!--But why thus mov'd, good Geta?
+
+GETA. We're quite----
+
+SOS. Quite what?
+
+GETA. Undone: We're ruin'd, Madam.
+
+SOS. Explain, for Heaven's sake!
+
+GETA. Ev'n now----
+
+SOS. What now?
+
+GETA. AEschinus----
+
+SOS. What of AEschinus?GETA. Has quite
+Estrang'd himself from all our family.
+
+SOS. How's that? confusion! why?
+
+GETA. He loves another.
+
+SOS. Wretch that I am!
+
+GETA. Nor that clandestinely;
+But snatch'd her in the face of all the world
+From a procurer.
+
+SOS. Are you sure of this?
+
+GETA. Sure? With these very eyes I saw it, Madam.
+
+SOS. Alas, alas! What then can we believe?
+To whom give credit?--What? our AEschinus!
+Our very life, our sole support and hope!
+Who swore he could not live one day without her,
+And promis'd he would place the new-born babe
+Upon his father's lap, and in that way
+Wring from him his consent to marry her!GETA. Nay, weep not, mistress; but consider rather
+What course were best to follow: to conceal
+This wrong, or to disclose it to some friend?
+
+CAN. Disclose it! Are you mad? Is this a thing
+To be disclos'd, d'ye think?
+
+GETA. I'd not advise it.
+For first, that he has quite abandon'd us,
+The thing itself declares. If we then make
+The story known, no doubt but he'll deny it.
+Your reputation, and your daughter's life
+Will be endanger'd: or if he confess,
+Since he affects another, 'twere not good
+That he should wed your daughter.--For which reasons,
+Silence is requisite.
+
+SOS. Ah, no: not I.
+
+GETA. What mean you?
+
+SOS. To disclose the whole.
+
+GETA. How, Madam!
+Think what you are about.SOS. Whatever happens,
+The thing can't be in a worse state than now.
+In the first place my daughter has no portion,
+And that which should have been her second dowry
+Is also lost; and she can ne'er be giv'n
+In marriage as a virgin. For the rest,
+If he denies his former commerce with her,
+I have the ring he lost to vouch the fact.
+In short, since I am conscious to myself.
+That I am not to blame in this proceeding,
+And that no sordid love of gain, nor aught
+Unworthy of my daughter or myself,
+Has mix'd in this affair, I'll try it, Geta.
+
+GETA. Well, I agree, 'twere better to disclose it.
+
+SOS. You then away, as fast as possible,
+And run to Hegio our good friend and kinsman,
+To let him know the whole affair: for he
+Was the chief friend of my dear Simulus,
+And ever show'd a great regard for us.
+
+GETA. And well he does, for no one else cares for us.
+
+SOS. And you, good Canthara, away with haste,
+And call a midwife; that we may be sureOf her assistance in the time of need. (<i>Exeunt severally.</i>
+
+<b>SCENE III.</b>
+
+<i>Enter DEMEA.</i>
+
+DEM. Confusion! I have heard that Ctesipho
+Was present with his brother at this riot.
+This is the sum of all my miseries,
+If he, even he, a sober, hopeful lad,
+May be seduc'd into debaucheries.
+--But where shall I inquire for him? I warrant
+They have decoy'd him into some vile brothel.
+That profligate persuaded him, I'm sure.
+--But here comes Syrus; he can tell me all.
+And yet this slave is of the gang; and if
+He once perceives that I'm inquiring for him,
+He'll never tell me any thing; a rogue!
+I'll not discover my design.
+
+[Changes:
+
+<i>Harper</i>
+  [end of speech, from line
+  --But here comes Syrus ...]
+<i>Colman 1768</i>  --But here comes Syrus.--I shall know from him
+  What is become of Ctesipho.--And yet
+  This rascal's of the gang; and if he once
+  Perceives that I'm enquiring after him,
+  He'll never tell, a villain!--I'll take care
+  To cover my design.]
+
+<b>SCENE IV.</b>
+
+<i>Enter SYRUS at another part of the stage.</i>
+
+SYRUS (<i>to himself</i>). We've just
+Disclos'd the whole of this affair to Micio,
+Exactly as it happen'd. I ne'er saw
+The good old gentleman more pleas'd.
+
+DEM. Oh Heav'n,
+The folly of the man! (<i>Listening.</i>)
+
+SYRUS (<i>to himself</i>). He prais'd his son;
+Me, who concerted the whole scheme, he thank'd.
+
+DEM. I burst with rage. (<i>Listening.</i>)
+
+SYRUS (<i>to himself</i>). He told the money down
+Immediately, and threw us in beside,To make an entertainment, a half-mina:
+Which I've laid out according to my liking.
+
+DEM. So! if you'd have your business well ta'en care of, Commit it to this fellow!
+
+SYRUS (<i>overhearing</i>). Who's there? Demea!
+I did not see you, Sir. How goes it?
+
+DEM. How?
+I can't sufficiently admire your conduct.
+
+SYRUS (<i>negligently</i>). Silly enough, to say the truth, and idle. (<i>To servants within</i>). Cleanse you the rest of those fish, Dromo: let That large eel play a little in the water. When I return it shall be bon'd; till then It must not be.
+
+DEM. Are crimes like these----
+
+SYRUS (<i>to DEMEA</i>). Indeed
+I like them not, and oft cry shame upon them.
+--(<i>To servants within.</i>) See that those salt fish are well soak'd,
+    Stephanio.
+
+DEM. Gods! is this done on purpose? Does he think
+'Tis laudable to spoil his son? Alas!I think I see the day when AEschinus
+Shall fly for want, and list himself a soldier.
+
+SYRUS. O Demea! that is to be wise: to see,
+Not that alone which lies before your feet,
+But ev'n to pry into futurity.
+
+DEM. What! is the Music-Girl at your house?
+
+SYRUS. Aye,
+Madam's within.
+
+DEM. What! and is AEschinus
+To keep her at home with him?
+
+SYRUS. I believe so;
+Such is their madness.
+
+DEM. Is it possible?
+
+SYRUS. A fond and foolish father!
+
+DEM. I'm asham'd
+To own my brother; I'm griev'd for him.SYRUS. Ah!
+There is a deal of diff'rence, Demea,
+--Nor is't because you're present that I say this----
+There is a mighty difference between you!
+You are, from top to toe, all over wisdom:
+He a mere dotard.--Would you e'er permit
+Your boy to do such things?
+
+DEM. Permit him? I?
+Or should I not much rather smell him out
+Six months before he did but dream of it?
+
+SYRUS. Pshaw! do you boast your vigilance to me?
+
+DEM. Heav'n keep him ever as he is at present!
+
+SYRUS. As fathers form their children, so they prove.
+
+DEM. But now we're speaking of him, have you seen
+The lad to-day? (<i>With an affected carelessness.</i>)
+
+SYRUS. Your son d'ye mean?--I'll drive him
+Into the country. (<i>Aside.</i>)--He is hard at work
+Upon your grounds by this time. (<i>To DEMEA.</i>)
+
+DEM. Are you sure on't?SYRUS. Sure? I set out with him myself.
+
+DEM. Good! good!
+I was afraid he loiter'd here. (<i>Aside.</i>)
+
+SYRUS. And much
+Enrag'd, I promise you.
+
+DEM. On what account?
+
+SYRUS. A quarrel with his brother at the Forum,
+About the Music-Girl.
+
+DEM. Indeed?
+
+SYRUS. Aye, faith:
+He did not mince the matter: he spoke out;
+For as the cash was telling down, in pops,
+All unexpected, Master Ctesipho:
+Cries out--"Oh AEschinus, are these your courses?
+Do you commit these crimes? and do you bring
+Such a disgrace upon our family?"
+
+DEM. Oh, oh, I weep for joy.SYRUS. ----"You squander not
+The money only, but your life, your honor."
+
+DEM. Heav'n bless him; he is like his ancestors. (<i>Weeping.</i>)
+
+SYRUS. Father's own son, I warrant him.
+
+DEM. Oh, Syrus!
+He's full of all those precepts, he!
+
+SYRUS. No doubt on't:
+He need not go from home for good instruction.
+
+DEM. I spare no pains; neglect no means; I train him.
+--In short, I bid him look into the lives
+Of all, as in a mirror, and thence draw
+From others an example for himself.
+--"Do this."----
+
+SYRUS. Good!
+
+DEM. "Fly that."
+
+SYRUS. Very good!DEM. "This deed
+Is commendable."
+
+SYRUS. That's the thing!
+
+DEM. "That's reprehensible."
+
+SYRUS. Most excellent!
+
+DEM. "And then moreover----"
+
+SYRUS. Faith, I have not time
+To give you further audience just at present,
+I've got an admirable dish of fish;
+And I must take good care they are not spoil'd.
+For that were an offense as grievous, Demea,
+In us, as 'twere in you to leave undone
+The things you just now mentioned: and I try,
+According to my weak abilities,
+To teach my fellow-slaves the self-same way.
+--"This is too salt.--This is burnt up too much.
+That is not nice and cleanly.--That's well done.
+Mind, and do so again."--I spare no pains,
+And give them the best precepts that I can.
+In short, I bid them look into the dishes,
+As in a mirror, Demea, and thence learnThe duty of a cook.--This school of ours,
+I own, is idle: but what can you do?
+According to the man must be the lesson.
+--Would you aught else with us?
+
+DEM. Your reformation.
+
+SYRUS. Do you go hence into the country?
+
+DEM. Straight.
+
+SYRUS. For what should you do here, where nobody,
+However good your precepts, cares to mind them? (<i>Exit.</i>
+
+[Changes:
+
+<i>Harper</i>
+  SYRUS. We've just
+  Disclos'd the whole of this affair to Micio,
+<i>Colman 1768</i>
+  SYRUS. We've just disclos'd
+  The whole of this affair to Micio,
+
+<i>Harper</i>
+  DEM. So! if you'd have your business well ta'en care of,
+<i>Colman 1768</i>  DEM. So! if you'd have your business well discharg'd
+
+<i>Harper</i>
+  Cleanse you the rest of those fish, Dromo: let
+<i>Colman 1768</i>
+  Here! Hark ye, Dromo! see you gut and scale
+  The other fish immediately: But let
+
+  SYRUS. As fathers form their children, so they prove.
+_Harper text reads "as fathers from"
+
+<i>Harper</i>
+  DEM. But now we're speaking of him, have you seen
+  The lad to-day?
+  SYRUS. Your son d'ye mean?--I'll drive him
+  Into the country. --He is hard at work
+  Upon your grounds by this time.
+  DEM. Are you sure on't?
+<i>Colman 1768</i>
+  DEM. But, prithee, have you seen the lad to-day?
+  SYRUS. Your son, d'ye mean?--I'll drive him out of town.
+  He's hard at work upon your grounds by this time.
+  DEM. Ay? Are you sure he's gone into the country?]
+
+<i>Harper</i>
+  Do you commit these crimes? and do you bring  Such a disgrace upon our family?
+<i>Colman 1768</i>
+  These your persuits? enormities like these?
+  Oh shame! oh scandal to our family!
+
+<i>Harper</i>
+  Is commendable.
+<i>Colman 1768</i>
+  Is highly commendable.]
+
+SCENE V.
+
+<i>DEMEA alone.</i>
+
+I then will hence, since he, on whose account
+I hither came, is gone into the country.
+<i>He</i> is my only care, <i>He's</i> my concern.
+My brother, since he needs will have it so,
+May look to AEschinus himself.----But who
+Is coming yonder? Hegio, of our tribe?
+If I see plainly, beyond doubt 'tis he.
+Ah, we've been old acquaintance quite from boys;
+And such men nowadays are wondrous scarce.
+A citizen of ancient faith and virtue!
+The commonwealth will ne'er reap harm from him.
+How I rejoice to see but the remainsOf this old stock! Ah, life's a pleasure now.
+I'll wait, that I may ask about his health,
+And have a little conversation with him.
+
+<b>SCENE VI.</b>
+
+<i>Enter HEGIO, GETA conversing at a distance.</i>
+
+HEGIO. Good Heaven! a most unworthy action, Geta!
+
+GETA. Ev'n so.
+
+HEGIO. A deed so base
+Sprung from that family?--Oh AEschinus,
+I'm sure this was not acting like your father.
+
+DEM. (<i>behind.</i>) So! he has heard about this Music-Girl,
+And is affected at it, though a stranger,
+While his good father truly thinks it nothing.
+Oh monstrous! would that he were somewhere nigh,
+And heard all this!
+
+HEGIO. Unless they do what's just,
+They shall not carry off the matter thus.GETA. Our only hope is in you, Hegio.
+You're our sole friend, our guardian, and our father,
+The good old Simulus, on his death-bed
+Bequeath'd us to your care. If you desert us,
+We are undone indeed.
+
+HEGIO. Ah, name it not!
+I will not, and with honesty, I can not.
+
+DEM. I'll go up to him.--Save you, Hegio!
+
+HEGIO. The man I look'd for.--Save you, Demea!
+
+DEM. Your pleasure!
+
+HEGIO. AEschinus, your elder son,
+Adopted by your brother, has committed
+A deed unworthy of an honest man,
+And of a gentleman.
+
+DEM. How so?
+
+HEGIO. You knew
+Our friend and good acquaintance, Simulus?
+
+DEM. Aye, sure.HEGIO. He has debauch'd his daughter.
+
+DEM. How!
+
+HEGIO. Hold, Demea, for the worst is still to come.
+
+DEM. Is there aught worse?
+
+HEGIO. Much worse: for this perhaps
+Might be excus'd. The night, love, wine, and youth,
+Might prompt him. 'Tis the frailty of our nature.
+--Soon as his sense returning made him conscious
+Of his rash outrage, of his own accord
+He came to the girl's mother, weeping, praying.
+Entreating, vowing constancy, and swearing
+That he would take her home.--He was forgiven;
+The thing conceal'd; and his vows credited.
+The girl from that encounter prov'd with child:
+This is the tenth month.--He, good gentleman,
+Has got a music-girl, Heav'n bless the mark!
+With whom he means to live, and quit the other.
+
+DEM. And are you well assur'd of this?
+
+HEGIO. The mother,
+The girl, the fact itself, are all before you,Joining to vouch the truth on't. And besides,
+This Geta here--as servants go, no bad one,
+Nor given up to idleness--maintains them;
+The sole support of all the family.
+Here take him, bind him, force the truth from him.
+
+GETA. Aye, torture me, if 'tis not so, good Demea!
+Nay, AEschinus, I'm sure, will not deny it.
+Bring me before him.
+
+DEM. (<i>aside</i>). I'm asham'd: and what
+To do, or what to say to him, I know not.
+
+PAMPHILA (<i>within</i>). Ah me! I'm torn in pieces!--Racking pains! Juno Lucina, help me! save, I pray thee!
+
+HEGIO. Ha! Is she then in labor, Geta?
+
+GETA. Yes, Sir.
+
+HEGIO. Hark! she now calls upon your justice, Demea!
+Grant her then freely, what law else will claim.
+And Heaven send, that you may rather do
+What honor bids! but if you mean it not,
+Be sure of this; that with my utmost force
+I'll vindicate the girl, and her dead father;He was my kinsman; we were bred together
+From children; and our fortunes twin'd together
+In war, and peace, and bitter poverty.
+Wherefore I'll try, endeavor, strive, nay lose
+My life itself, before I will forsake them.
+--What is your answer?
+
+DEM. I'll find out my brother:
+What he advises, I will follow, Hegio.
+
+HEGIO. But still remember, Demea, that the more
+You live at ease; the more your pow'r, your wealth,
+Your riches, and nobility; the more
+It is your duty to act honorably,
+If you regard the name of honest men.
+
+DEM. Go to: we'll do you justice.
+
+HEGIO. 'Twill become you.
+Geta, conduct me in to Sostrata. (<i>Exit with GETA.</i>
+
+[Changes:
+
+<i>Harper</i>
+  HEGIO. Good Heaven! a most unworthy action, Geta!
+  GETA. Ev'n so.  HEGIO. A deed so base
+  Sprung from that family?--Oh AEschinus,
+  I'm sure this was not acting like your father.
+  DEM. So! he has heard about this Music-Girl,
+<i>Colman 1768</i>
+  HEGIO. Can it be true?
+  GETA. Ev'n so.
+  HEGIO. A deed so base
+  Sprung from that family?--Oh AEschinus,
+  This was not acting like your father.
+  DEM. So!
+  He has just heard about this Musick-Girl,
+
+<i>Harper</i>
+  HEGIO. Unless they do what's just
+<i>Colman 1768</i>
+  HEGIO. Unless they do you justice
+
+<i>Harper</i>
+  The good old Simulus, on his death-bed
+<i>Colman 1768</i>
+  On his death-bed, the good old Simulus
+
+<i>Harper</i>
+  HEGIO. AEschinus, your elder son,
+  Adopted by your brother, has committed<i>Colman 1768</i>
+  HEGIO. AEschinus, your elder son,
+  Your brother's by adoption, has committed
+
+  HEGIO. Ha! Is she then in labor, <i>Geta</i>?
+<i>"Geta" italicized in Harper edition</i>]
+
+SCENE VII.
+
+<i>DEMEA alone.</i>
+
+This is no more than I foretold: and well
+If his intemp'rance would stop <i>here!</i>--But this
+Immoderate indulgence must produce
+Some terrible misfortune in the end.
+--I'll hence, find out my brother, tell my news,
+And empty all my indignation on him. (<i>Exit.</i>
+
+SCENE VIII.
+
+<i>Re-enter HEGIO, speaking to SOSTRATA at the door.</i>
+
+Be of good cheer, my Sostrata; and comfort,
+As much as in your pow'r, poor Pamphila!
+I'll find out Micio, if he's at the Forum,
+And tell him the whole story: if he'll actWith honor in it, why 'tis well; if not,
+Let him but speak his mind to me, and then
+I shall know how to act accordingly. (<i>Exit.</i>
+
+ACT THE FOURTH.
+
+<b>SCENE I.</b>
+
+<i>CTESIPHO, SYRUS.</i>
+
+CTES. My father gone into the country, say you?
+
+SYRUS. Long since.
+
+CTES. Nay; speak the truth!
+
+SYRUS. He's at his farm,
+And hard at work, I warrant you.
+
+CTES. I wish,
+So that his health were not the worse for it,
+He might so heartily fatigue himself,
+As to be forc'd to keep his bed these three days!
+
+SYRUS. I wish so too; and more, if possible.CTES. With all my heart: for I would fain consume,
+As I've begun, the livelong day in pleasure.
+Nor do I hate that farm of ours so much
+For any thing, as that it is so near.
+For if 'twas at a greater distance, night
+Would come upon him ere he could return.
+But now, not finding me, I'm very sure
+He'll hobble back again immediately;
+Question me where I've been, that I've not seen him
+All the day long; and what shall I reply?
+
+SYRUS. What? can you think of nothing?
+
+CTES. No, not I.
+
+SYRUS. So much the worse.--Have you no client, friend, Or guest?
+
+CTES. I have. What then?
+
+SYRUS. You've been engag'd
+With them.
+
+CTES. When not engag'd? It can not be.
+
+SYRUS. It may.CTES. Aye, marry, for the day I grant you.
+But if I pass the night here, what excuse
+Then, Syrus?
+
+SYRUS. Ah! I would it were the custom
+To be engag'd at night too with one's friends!
+--But be at ease! I know his mind so well,
+That when he raves the loudest, I can make him
+As gentle as a lamb.
+
+CTES. How so?
+
+SYRUS. He loves
+To hear you prais'd. I sing your praises to him,
+And make you out a little God.
+
+CTES. Me!
+
+SYRUS. You.
+And then the old man blubbers like a child,
+For very joy.--But have a care! (<i>Looking out.</i>)
+
+CTES. What now?
+
+SYRUS. The wolf i' th' fable!CTES. What, my father?
+
+SYRUS. He.
+
+CTES. What's the best, Syrus?
+
+SYRUS. In! fly! I'll take care.
+
+CTES. You have not seen me, if he asks: d'ye hear?
+
+SYRUS. Can't you be quiet? (<i>Pushes out CTESIPHO.</i>)
+
+<b>SCENE II.</b>
+
+<i>Enter DEMEA at another part of the stage.</i>
+
+DEM. Verily I am
+A most unhappy man! for first of all,
+I can not find my brother any where:
+And then besides, in looking after him,
+I chanc'd on one of my day laborers,
+Who had but newly left my farm, and told me
+Ctesipho was not there. What shall I do?
+
+{<i>CTESIPHO and SYRUS apart.</i>}CTES. (<i>peeping out.</i>) Syrus?
+
+SYRUS. What?
+
+CTES. Does he seek me?
+
+SYRUS. Yes.
+
+CTES. Undone!
+
+SYRUS. Courage!
+
+DEM. (<i>to himself</i>). Plague on it, what ill luck is this?
+I can't account for it: but I believe
+That I was born for nothing but misfortunes.
+I am the first who feels our woes; the first
+Who knows of them; the first who tells the news:
+And come what may, I bear the weight alone.
+
+SYRUS (<i>behind</i>). Ridiculous! he says he knows all first; And he alone is ignorant of all.
+
+DEM. I'm now return'd to see if Micio
+Be yet come home again.
+
+{<i>CTESIPHO and SYRUS apart.</i>}CTES. (<i>peeping out</i>). Take care, good Syrus,
+He don't rush in upon us unawares!
+
+SYRUS. Peace! I'll take care.
+
+CTES. 'Faith, I'll not trust to you,
+But shut myself and her in some by-place
+Together: that's the safest.
+
+SYRUS. Well, away! (<i>CTESIPHO disappears.</i>)
+I'll drive the old man hence, I warrant you.
+
+DEM. (<i>seeing SYRUS</i>). But see that rascal Syrus coming hither!
+
+SYRUS (<i>advancing hastily, and pretending not to see DEMEA</i>).
+By Hercules, there is no living here,
+For any one, at this rate.--I'd fain know
+How many masters I'm to have.--Oh monstrous!
+
+DEM. What does he howl for? what's the meaning on't? Hark ye, my good Sir! prithee tell me if My brother be at home.
+
+SYRUS. <i>My good Sir!</i> Plague!
+Why do you come with your <i>good Sirs</i> to me?
+I'm half-kill'd.DEM. What's the matter?
+
+SYRUS. What's the matter!
+Ctesipho, vengeance on him, fell upon me,
+And cudgel'd me and the poor Music-Girl
+Almost to death.
+
+DEM. Indeed?
+
+SYRUS. Indeed. Nay see
+How he has cut my lip. (<i>Pretending to show it.</i>)
+
+DEM. On what account?
+
+SYRUS. The girl, he says, was bought by my advice.
+
+DEM. Did not you say you saw him out of town
+A little while ago?
+
+SYRUS. And so I did.
+But he came back soon after, like a madman.
+He had no mercy.--Was not he asham'd
+To beat a poor old fellow? to beat me;
+Who bore him in my arms but t'other day,
+An urchin thus high? (<i>Showing.</i>)DEM. Oh rare, Ctesipho!
+Father's own son! a man, I warrant him.
+
+SYRUS. Oh rare, d'ye cry? I' faith, if he is wise,
+He'll hold his hands another time.
+
+DEM. Oh brave!
+
+SYRUS. Oh mighty brave, indeed!--Because he beat
+A helpless girl, and me a wretched slave,
+Who durst not strike again;--oh, to be sure,
+Mighty brave, truly!
+
+DEM. Oh, most exquisite!
+My Ctesipho perceived, as well as I,
+That you was the contriver of this business.
+--But is my brother here?
+
+SYRUS. Not he. (<i>Sulkily.</i>)
+
+DEM. I'm thinking
+Where I shall seek him.
+
+SYRUS. I know where he is:
+But I'll not tell.DEM. How, Sirrah?
+
+SYRUS. Even so.
+
+DEM. I'll break your head.
+
+SYRUS. I can not tell the name
+Of him he's gone to, but I know the place.
+
+DEM. Well, where's the place?
+
+SYRUS. D'ye know the Portico
+Just by the market, down this way? (<i>Pointing.</i>)
+
+DEM. I do.
+
+SYRUS. Go up that street; keep straight along: and then
+You'll see a hill; go straight down that: and then
+On this hand, there's a chapel; and just by
+A narrow lane. (<i>Pointing.</i>)
+
+DEM. Where? (<i>Looking.</i>)
+
+SYRUS. There; by the great wild fig-tree.
+D'ye know it, Sir?DEM. I do.
+
+SYRUS. Go through that lane.
+
+DEM. That lane's no thoroughfare.
+
+SYRUS. Aye, very true:
+No more it is, Sir.--What a fool I am!
+I was mistaken--You must go quite back
+Into the portico; and after all,
+This is the nearest and the safest way.
+--D'ye know Cratinus' house? the rich man?
+
+DEM. Aye.
+
+SYRUS. When you've pass'd that, turn short upon the left.
+Keep straight along that street, and when you reach
+Diana's Temple, turn upon the right.
+And then, on this side of the city gate,
+Just by the pond, there is a baker's shop,
+And opposite a joiner's.--There he is.
+
+DEM. What business has he there?
+
+SYRUS. He has bespoke
+Some tables to be made with oaken legsTo stand the sun.
+
+DEM. For you to drink upon.
+Oh brave! But I lose time. I'll after him.
+        (<i>Exit hastily.</i>
+
+[Changes:
+
+<i>Harper</i>
+  SYRUS. Go up that street; keep straight along: and then
+<i>Colman 1768</i>
+  SYRUS. Go straight along that street: and at the end]
+
+SCENE III.
+
+<i>SYRUS alone.</i>
+
+Aye, go your ways! I'll work your old shrunk shanks
+As you deserve, old Drybones!--AEschinus
+Loiters intolerably. Dinner's spoil'd.
+Ctesipho thinks of nothing but his girl.
+'Tis time for me to look to myself too.
+Faith, then I'll in immediately; pick out
+All the tid-bits, and tossing off my cups,
+In lazy leisure lengthen out the day. (<i>Exit.</i><b>SCENE IV.</b>
+
+<i>Enter MICIO and HEGIO.</i>
+
+MICIO. I can see nothing in this matter, Hegio,
+Wherein I merit so much commendation.
+'Tis but my duty, to redress the wrongs
+That we have caus'd: unless perhaps you took me
+For one of those who, having injur'd you,
+Term fair expostulation an affront;
+And having first offended, are the first
+To turn accusers.--I've not acted thus:
+And is't for this that I am thank'd?
+
+HEGIO. Ah, no;
+I never thought you other than you are.
+But let me beg you, Micio, go with me
+To the young woman's mother, and repeat
+Yourself to her what you have just told me:
+--That the suspicion, fall'n on AEschinus,
+Sprung from his brother and the Music-Girl.
+
+MICIO. If you believe I ought, or think it needful,
+Let's go!HEGIO. 'Tis very kind in you: for thus
+You'll raise her spirit drooping with the load
+Of grief and misery, and have perform'd
+Ev'ry good office of benevolence.
+But if you like it not, I'll go myself,
+And tell her the whole story.
+
+MICIO. No, I'll go.
+
+HEGIO. 'Tis good and tender in your nature, Micio.
+For they, whose fortunes are less prosperous,
+Are all I know not how, the more suspicious;
+And think themselves neglected and contemn'd,
+Because of their distress and poverty.
+Wherefore I think 'twould satisfy them more
+If you would clear up this affair yourself.
+
+MICIO. What you have said is just, and very true.
+
+HEGIO. Let me conduct you in!
+
+MICIO. With all my heart. (<i>Exeunt.</i><b>SCENE V.</b>
+
+<i>AESCHINUS alone.</i>
+
+Oh torture to my mind! that this misfortune
+Should come thus unexpectedly upon me!
+I know not what to do, which way to turn.
+Fear shakes my limbs, amazement fills my soul,
+And in my breast despair shuts out all counsel.
+Ah, by what means can I acquit myself?
+Such a suspicion is now fallen on me;
+And that too grounded on appearances.
+Sostrata thinks that on my own account
+I bought the Music-Girl. That's plain enough
+From the old nurse. For meeting her by chance,
+As she was sent from hence to call a midwife,
+I ran, and ask'd her of my Pamphila.
+--"Is she in labor? are you going now
+To call a midwife?"--"Go, go, AEschinus!
+Away, you have deceiv'd us long enough,
+Fool'd us enough with your fine promises,"
+Cried she.--"What now?" says I.--"Farewell, enjoy
+The girl that you're so taken with!"--I saw
+Immediately their cause of jealousy:
+Yet I contain'd myself, nor would disclose
+My brother's business to a tattling gossip,By whom the knowledge on't might be betray'd.
+--But what shall I do now? shall I confess
+The girl to be my brother's; an affair
+Which should by no means be reveal'd?--But not
+To dwell on that.--Perhaps they'd not disclose it.
+Nay, I much doubt if they would credit it:
+So many proofs concur against myself.----
+I bore her off: I paid the money down;
+She was brought home to me.--All this, I own,
+Is my own fault. For should I not have told
+My father, be it as it might, the whole?
+I should, I doubt not, have obtain'd his leave
+To marry Pamphila.--What indolence,
+Ev'n, till this hour! now, AEschinus, awake!
+--But first I'll go and clear myself to them.
+I'll to the door. (<i>Goes up.</i>) Confusion! how I tremble!
+How guilty like I seem when I approach
+This house! (<i>Knocks.</i>) Holloa! within! 'Tis I;
+'Tis AEschinus. Come, open somebody
+The door immediately!--Who's here? A stranger!
+I'll step aside. (<i>Retires.</i>)<b>SCENE VI.</b>
+
+<i>Enter MICIO.</i>
+
+MICIO (<i>to SOSTRATA, within</i>). Do as I have told you, Sostrata. I'll find out AEschinus, and tell him all. --But who knock'd at the door? (<i>Coming forward.</i>)
+
+AESCH. (<i>behind</i>). By Heav'n, my father!
+Confusion!
+
+MICIO (<i>seeing him</i>). AEschinus!
+
+AESCH. What does he here? (<i>Aside.</i>)
+
+MICIO. Was't you that knock'd? What, not a word! Suppose
+I banter him a little. He deserves it,
+For never trusting this affair to me. (<i>Aside.</i>)
+--Why don't you speak?
+
+AESCH. Not I, as I remember. (<i>Disordered.</i>)
+
+MICIO. No, I dare say, not you: for I was wond'ring What business could have brought you here.--He blushes. All's safe, I find. (<i>Aside.</i>)AESCH. (<i>recovering.</i>) But prithee, tell me, Sir,
+What brought you here?
+
+MICIO. No business of my own.
+But a friend drew me hither from the Forum,
+To be his advocate.
+
+AESCH. In what?
+
+MICIO. I'll tell you.
+This house is tenanted by some poor women,
+Whom, I believe, you know not;--Nay, I'm sure on't,
+For 'twas but lately they came over hither.
+
+AESCH. Well?
+
+MICIO. A young woman and her mother.
+
+AESCH. Well?
+
+MICIO. The father's dead.--This friend of mine, it seems, Being her next relation, by the law Is forc'd to marry her.
+
+AESCH. Confusion! (<i>Aside.</i>)
+
+MICIO. How?AESCH. Nothing.--Well?--pray go on, Sir!----
+
+MICIO. He's now come
+To take her home, for he is of Miletus.
+
+AESCH. How! take her home with him?
+
+MICIO. Yes, take her home.
+
+AESCH. What, to Miletus?
+
+MICIO. Aye.
+
+AESCH. Oh torture! (<i>Aside.</i>)-- Well?
+What say the women?
+
+MICIO. Why, what should they? Nothing.
+Indeed the mother has devis'd a tale
+About her daughter's having had a child
+By some one else, but never mentions whom:
+His claim, she says, is prior; and my friend
+Ought not to have her.
+
+AESCH. Well? and did not this
+Seem a sufficient reason?MICIO. No.
+
+AESCH. No, Sir?
+And shall this next relation take her off?
+
+MICIO. Aye, to be sure: why not?
+
+AESCH. Oh barbarous, cruel!
+And to speak plainly, Sir--ungenerous!
+
+MICIO. Why so?
+
+AESCH. Why so, Sir?--What d'ye think
+Will come of him, the poor unhappy youth
+Who was connected with her first--who still
+Loves her, perhaps, as dearly as his life;----
+When he shall see her torn out of his arms,
+And borne away forever?--Oh shame, shame!
+
+MICIO. Where is the shame on't?--Who betroth'd, who gave her? When was she married? and to whom? Where is he, And wherefore did he wed another's right?
+
+AESCH. Was it for her, a girl of such an age,
+To sit at home, expecting till a kinsman
+Came, nobody knows whence, to marry her?
+--This, Sir, it was your business to have said,And to have dwelt on it.
+
+MICIO. Ridiculous!
+Should I have pleaded against him to whom
+I came an advocate?--But after all,
+What's this affair to us? or, what have we
+To do with them? let's go!--Ha! why those tears?
+
+AESCH. Father, beseech you, hear me!
+
+MICIO. AEschinus,
+I have heard all, and I know all, already:
+For I do love you; wherefore all your actions
+Touch me the more.
+
+AESCH. So may you ever love me,
+And so may I deserve your love, my father,
+As I am sorry to have done this fault,
+And am asham'd to see you!
+
+MICIO. I believe it;
+For well I know you have a liberal mind:
+But I'm afraid you are too negligent,
+For in what city do you think you live?
+You have abus'd a virgin, whom the law
+Forbade your touching.--'Twas a fault, a great one;But yet a natural failing. Many others,
+Some not bad men, have often done the same.
+--But after this event, can you pretend
+You took the least precaution? or consider'd
+What should be done, or how?--If shame forbade
+Your telling me yourself, you should have found
+Some other means to let me know of it.
+Lost in these doubts, ten months have slipp'd away.
+You have betray'd, as far as in you lay,
+Yourself, the poor young woman, and your child.
+What! did you think the Gods would bring about
+This business in your sleep; and that your wife,
+Without your stir, would be convey'd to you
+Into your bed-chamber?--I would not have you
+Thus negligent in other matters.--Come,
+Cheer up, son! you shall wed her.
+
+AESCH. How!
+
+MICIO. Cheer up,
+I say!
+
+AESCH. Nay, prithee, do not mock me, father!
+
+MICIO. Mock you? I? wherefore?AESCH. I don't know; unless
+That I so much desire it may be true,
+I therefore fear it more.
+
+MICIO. --Away; go home;
+And pray the Gods, that you may call your wife
+Away!
+
+AESCH. How's that? my wife? what! now?
+
+MICIO. Now.
+
+AESCH. Now?
+
+MICIO. Ev'n now, as soon as possible.
+
+AESCH. May all
+The Gods desert me, Sir, but I do love you,
+More than my eyes!
+
+MICIO. Than her?
+
+AESCH. As well.
+
+MICIO. That's much.AESCH. But where is that Milesian?
+
+MICIO. Gone:
+Vanish'd: on board the ship.--But why d'ye loiter?
+
+AESCH. Ah, Sir, you rather go, and pray the Gods;
+For, being a much better man than I,
+They will the sooner hear your pray'rs.
+
+MICIO. I'll in,
+To see the needful preparations made.
+You, if you're wise, do as I said. (<i>Exit.</i>
+
+[Changes:
+
+  More than my eyes!
+<i>Harper edition has question mark</i>
+
+SCENE VII.
+
+<i>AESCHINUS alone.</i>
+
+How's this?
+Is this to be a father? Or is this
+To be a son?--Were he my friend or brother,
+Could he be more complacent to my wish?Should I not love him? bear him in my bosom!
+Ah! his great kindness has so wrought upon me,
+That it shall be the study of my life
+To shun all follies, lest they give him pain.
+--But I'll in straight, that I may not retard
+My marriage by my own delay. (<i>Exit.</i>
+
+[Changes:
+
+<i>Harper</i>
+  --But I'll in straight, that I may not retard
+  My marriage by my own delay.
+<i>Colman 1768</i>
+  But wherefore do I loiter here, and thus
+  Retard my marriage by my own delay?
+
+SCENE VIII.
+
+<i>DEMEA alone.</i>
+
+I'm tir'd
+With walking.--Now great Jove confound you, Syrus;
+You and your blind directions! I have crawl'd
+All the town over: to the gate; the pond;
+Where not? No sign of any shop was there,
+Nor any person who had seen my brother.--Now I'll in, therefore, and set up my rest
+In his own house, till he comes home again. (<i>Going.</i>
+
+[Changes:
+
+<i>Harper</i>
+  I'm tir'd
+  With walking.--Now great Jove confound you, Syrus;
+<i>Colman 1768</i>
+  I've walk'd, and walk'd, till I'm quite tir'd with walking.
+  --Almighty Jove confound you, Syrus, I say;]<b>SCENE IX.</b>
+
+<i>Enter MICIO.</i>
+
+MICIO. I'll go and let the women know we're ready.
+
+DEM. But here he is.--I have long sought you, Micio.
+
+MICIO. What now?
+
+DEM. I bring you more offenses: great ones;
+Of that sweet youth----
+
+MICIO. See there!
+
+DEM. New; capital!
+
+MICIO. Nay, nay, no more!
+
+DEM. Ah, you don't know----
+
+MICIO. I do.
+
+DEM. O fool, you think I mean the Music-Girl.
+This is a rape upon a citizen.MICIO. I know it.
+
+DEM. How? d'ye know it, and endure it?
+
+MICIO. Why not endure it?
+
+DEM. Tell me, don't you rave?
+Don't you go mad?
+
+MICIO. No: to be sure I'd rather----
+
+DEM. There's a child born.
+
+MICIO. Heav'n bless it!
+
+DEM. And the girl
+Has nothing.
+
+MICIO. I have heard so.
+
+DEM. And is he
+To marry her without a fortune?
+
+MICIO. Aye.
+
+DEM. What's to be done then?MICIO. What the case requires.
+The girl shall be brought over here.
+
+DEM. Oh Jove!
+Can that be proper?
+
+MICIO. What can I do else?
+
+DEM. What can you do!--If you're not really griev'd, It were at least your duty to appear so.
+
+MICIO. I have contracted the young woman to him:
+The thing is settled: 'tis their wedding-day:
+And all their apprehensions I've remov'd.
+This is still more my duty.
+
+DEM. Are you pleas'd then
+With this adventure, Micio?
+
+MICIO. Not at all,
+If I could help it: now 'tis past all cure,
+I bear it patiently. The life of man
+Is like a game at tables. If the cast
+Which is most necessary be not thrown,
+That which chance sends you must correct by art.DEM. Oh rare <i>Corrector!</i>--By your <i>art</i> no less
+Than twenty minae have been thrown away
+On yonder Music-wench; who out of hand,
+Must be sent packing; if no buyer, gratis.
+
+MICIO. Not in the least; nor do I mean to sell her.
+
+DEM. What will you do, then?
+
+MICIO. Keep her in my house.
+
+DEM. Oh Heav'n and earth! a harlot and a wife
+In the same house!
+
+MICIO. Why not?
+
+DEM. Have you your wits?
+
+MICIO. Truly I think so.
+
+DEM. Now, so help me Heav'n,
+Seeing your folly, I believe you keep her
+To sing with you.
+
+MICIO. Why not?DEM. And the young bride
+Shall be her pupil?
+
+MICIO. To be sure.
+
+DEM. And you
+Dance hand in hand with them?
+
+MICIO. Aye.
+
+DEM. Aye?
+
+MICIO. And you
+Make one among us too upon occasion.
+
+DEM. Ah! are you not asham'd on't?
+
+MICIO. Patience, Demea!
+Lay by your wrath, and seem, as it becomes you,
+Cheerful and free of heart at your son's wedding.
+--I'll but speak with the bride and Sostrata,
+And then return to you immediately. (<i>Exit.</i>
+
+[Changes:<i>Harper</i>
+  --I'll but speak with the bride and Sostrata
+<i>Colman 1768</i>
+  --I'll go and warn the bride and Sostrata]
+
+SCENE X.
+
+<i>DEMEA alone.</i>
+
+Jove, what a life! what manners! what distraction!
+A bride just coming home without a portion;
+A Music-Girl already there in keeping:
+A house of waste; the youth a libertine;
+Th' old man a dotard!--'Tis not in the pow'r
+Of Providence herself, howe'er desirous,
+To save from ruin such a family.<b>SCENE XI.</b>
+
+<i>Enter at a distance SYRUS, drunk.</i>
+
+SYRUS. (<i>to himself</i>). Faith, little Syrus, you've ta'en special care Of your sweet self, and play'd your part most rarely. --Well, go your ways:--but having had my fill Of ev'ry thing within, I've now march'd forth To take a turn or two abroad.
+
+DEM. (<i>behind</i>). Look there!
+A pattern of instruction!
+
+SYRUS. (<i>seeing him</i>). But see there: Yonder's old Demea. (<i>Going up to him.</i>) What's the matter now? And why so melancholy?
+
+DEM. Oh thou villain!
+
+SYRUS. What! are you spouting sentences, old wisdom?
+
+DEM. Were you my servant----
+
+SYRUS. You'd be plaguy rich,
+And settle your affairs most wonderfully.
+
+DEM. I'd make you an example.SYRUS. Why? for what?
+
+DEM. Why, Sirrah?--In the midst of the disturbance,
+And in the heat of a most heavy crime,
+While all is yet confusion, you've got drunk,
+As if for joy, you rascal!
+
+SYRUS. Why the plague
+Did not I keep within? (<i>Aside.</i>)
+
+SCENE XII.
+
+<i>Enter DROMO, hastily.</i>
+
+DROMO. Here! hark ye, Syrus!
+Ctesipho begs that you'd come back.
+
+SYRUS. Away! (<i>Pushes him off.</i>)
+
+DEM. What's this he says of Ctesipho?
+
+SYRUS. Pshaw! nothing.
+
+DEM. How! dog, is Ctesipho within?
+
+SYRUS. Not he.DEM. Why does he name him then?
+
+SYRUS. It is another.
+Of the same name--a little parasite----
+D'ye know him?
+
+DEM. But I will immediately. (<i>Going.</i>)
+
+SYRUS. (<i>stopping him</i>). What now? where now?
+
+{<i>DEMEA and SYRUS struggling.</i>}
+
+DEM. Let me alone.
+
+SYRUS. Don't go!
+
+DEM. Hands off! what won't you? must I brain you, rascal?
+    (<i>Disengages himself from SYRUS, and Exit.</i>
+
+SCENE XIII.
+
+<i>SYRUS alone.</i>
+
+He's gone--gone in--and faith no welcome roarer----
+--Especially to Ctesipho.--But what
+Can I do now; unless, till this blows over,I sneak into some corner, and sleep off
+This wine that lies upon my head?--I'll do't.
+        (<i>Exit reeling.</i>
+
+<b>SCENE XIV.</b>
+
+<i>Enter MICIO from SOSTRATA.</i>
+
+MICIO. (<i>to SOSTRATA within</i>).
+All is prepar'd: and we are ready, Sostrata,
+As I have already told you, when you please. (<i>Comes forward.</i>)
+But who's this forces open our street door
+With so much violence?
+
+<i>Enter DEMEA on t'other side.</i>
+
+DEM. Confusion! death!
+What shall I do? or how resolve? where vent
+My cries and exclamations? Heav'n! Earth! Sea!
+
+MICIO (<i>behind.</i>) So! all's discover'd: that's the thing he raves at. --Now for a quarrel!--I must help the boy.
+
+DEM. (<i>seeing him.</i>) Oh, there's the grand corrupter of our children!
+
+MICIO. Appease your wrath, and be yourself again!DEM. Well, I've appeas'd it; I'm myself again;
+I spare reproaches; let us to the point!
+It was agreed between us, and it was
+Your own proposal too, that you should never
+Concern yourself with Ctesipho, nor I
+With AEschinus. Say, was't not so?
+
+MICIO. It was.
+I don't deny it.
+
+DEM. Why does Ctesipho
+Revel with you then? Why do you receive him?
+Buy him a mistress, Micio?--Is not justice
+My due from you, as well as yours from me?
+Since I do not concern myself with yours,
+Meddle not you with mine!
+
+MICIO. This is not fair;
+Indeed it is not. Think on the old saying,
+"All things are common among friends."
+
+DEM. How smart!
+Put off with quips and sentences at last!
+
+MICIO. Nay, hear me, if you can have patience, Demea.
+--First, if you're griev'd at their extravagance,

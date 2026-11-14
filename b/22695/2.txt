@@ -1,0 +1,1990 @@
+HOLB1	22695	2	160	80	700	150
+4	Prologue.
+7	Act The Firs, Scene I. SIMO, SOSIA, and SERVAN
+18	Act The Firs, Scene II. Enter DAVUS.
+22	Act The Firs, Scene III. Davus.
+25	Act The Firs, Scene V. PAMPHILUS, MYSIS behind
+31	Act The Seco, Scene I. Charinus, Byrrhia.
+33	Act The Seco, Scene II. Enter PAMPHILUS.
+36	Act The Seco, Scene III. Enter DAVUS hastily.
+42	Act The Seco, Scene IV. Pamphilus. Davus.
+47	Act The Seco, Scene VI. Enter BYRRHIA behind.
+50	Act The Seco, Scene VII. Manent SIMO and DAVUS
+55	Act The Thir, Scene II. Manent SIMO, DAVUS.
+57	Act The Thir, Scene IV.
+63	Act The Thir, Scene V. Enter CHREMES.
+67	Act The Thir, Scene VI. Enter DAVUS.
+71	Act The Thir, Scene VIII. Enter PAMPHILUS; DAV
+74	Act The Four, Scene I. CHARINUS alone.
+75	Act The Four, Scene II. To him PAMPHILUS and D
+80	Act The Four, Scene III. Enter MYSIS.
+86	Act The Four, Scene VI. Re-enter DAVUS with th
+89	Act The Four, Scene VII. Enter CHREMES going t
+96	Act The Four, Scene IX. Enter CRITO.
+99	Act The Fift, Scene I. Chremes, Simo.
+101	Act The Fift, Scene II. Enter DAVUS from GLYCE
+107	Act The Fift, Scene V. Enter PAMPHILUS.
+110	Act The Fift, Scene VI. Re-enter PAMPHILUS wit
+120	Act The Fift, Scene VIII. Enter DAVUS.
+124	Prologue.
+127	Act The Firs, Scene I. Enter PHAEDRIA and PARM
+129	Act The Firs, Scene II. Enter THAIS.
+139	Act The Seco, Scene I. Phaedria, Parmeno.
+143	Act The Seco, Scene II. Enter GNATHO leading P
+150	Act The Seco, Scene III. Enter CHAEREA; PARMEN
+162	Act The Seco, Scene III. Labeled SCENE IV in 1
+165	Act The Thir, Scene I. Enter THRASO and GNATHO
+173	Act The Thir, Scene II. Enter THAIS and PYTHIA
+180	Act The Thir, Scene III. CHREMES alone.
+184	Act The Thir, Scene V. ANTIPHO alone.
+186	Act The Thir, Scene VI. Enter CHAEREA, in the 
+194	Act The Four, Scene I. Enter DORIAS, with a Ca
+196	Act The Four, Scene II. Enter PHAEDRIA.
+197	Act The Four, Scene III. Enter PYTHIAS and DOR
+200	Act The Four, Scene IV.
+208	Act The Four, Scene VI. Enter CHREMES tipsy.
+210	Act The Four, Scene VII. Enter THAIS.
+215	Act The Four, Scene VIII. Enter THRASO, GNATHO
+223	Act The Fift, Scene I. THAIS and PYTHIAS.
+226	Act The Fift, Scene II. Enter CHAEREA.
+234	Act The Fift, Scene III. Pythias, Chremes, Sop
+236	Act The Fift, Scene IV. Enter PARMENO.
+237	Act The Fift, Scene V. Pythias, Parmeno.
+242	Act The Fift, Scene VI. Enter LACHES.
+246	Act The Fift, Scene VII. Enter PYTHIAS; PARMEN
+250	Act The Fift, Scene VIII. Enter THRASO, GNATHO
+252	Act The Fift, Scene IX. Enter CHAEREA at anoth
+255	Act The Fift, Scene X. Enter PHAEDRIA.
+264	Prologue.
+267	Act The Firs, Scene I. Chremes, Menedemus.
+276	Act The Firs, Scene II. CHREMES alone.
+277	Act The Firs, Scene III. Enter CLITIPHO, speak
+281	Act The Firs, Scene IV. CLITIPHO alone.
+283	Act The Seco, Scene I. Enter CLINIA.
+285	Act The Seco, Scene II. Enter SYRUS and DROMO,
+299	Act The Seco, Scene III. Enter BACCHIS, and AN
+303	Act The Thir, Scene II. Enter MENEDEMUS.
+311	Act The Thir, Scene III. Enter SYRUS at anothe
+317	Act The Thir, Scene V. Enter CLITIPHO, and CHR
+321	Act The Thir, Scene VI. Chremes, Syrus.
+325	Act The Thir, Scene VII. Enter at a distance S
+332	Act The Four, Scene I. SYRUS, alone.
+333	Act The Four, Scene II. Enter CLINIA at anothe
+338	Act The Four, Scene III.
+344	Act The Four, Scene V. After which, enter CHRE
+351	Act The Four, Scene VI. Enter CLITIPHO.
+356	Act The Four, Scene IX. Enter MENEDEMUS.
+362	Act The Fift, Scene II. Enter CHREMES.
+372	Act The Fift, Scene III. Re-enter MENEDEMUS, w
+375	Act The Fift, Scene IV. Manent CLITIPHO, SYRUS
+379	Act The Fift, Scene VI. Enter CHREMES, SOSTRAT
+382	Act The Fift, Scene VII. Enter CLITIPHO.
+384	Act The Fift, Scene VIII. Enter MENEDEMUS.
+388	Prologue.
+390	Act The Firs, Scene I. Enter MICIO.
+394	Act The Firs, Scene II. Enter DEMEA.
+401	Act The Firs, Scene III. MICIO alone.
+402	Act The Seco, Scene I.
+408	Act The Seco, Scene II. SANNIO alone.
+409	Act The Seco, Scene III. Enter SYRUS.
+413	Act The Seco, Scene IV. Enter CTESIPHO at anot
+415	Act The Seco, Scene V. Enter AESCHINUS.
+418	Act The Thir, Scene I. Sostrata, Canthara.
+420	Act The Thir, Scene II. Enter GETA hastily at 
+426	Act The Thir, Scene III. Enter DEMEA.
+427	Act The Thir, Scene IV. Enter SYRUS at another
+437	Act The Thir, Scene VI. Enter HEGIO, GETA conv
+444	Act The Four, Scene I. Ctesipho, Syrus.
+447	Act The Four, Scene II. Enter DEMEA at another
+455	Act The Four, Scene IV. Enter MICIO and HEGIO.
+457	Act The Four, Scene V. AESCHINUS alone.
+459	Act The Four, Scene VI. Enter MICIO.
+469	Act The Four, Scene IX. Enter MICIO.
+475	Act The Four, Scene XI. Enter at a distance SY
+478	Act The Four, Scene XIV. Enter MICIO from SOST
+484	Act The Fift, Scene I. DEMEA alone.
+488	Act The Fift, Scene IV. Enter AESCHINUS.
+490	Act The Fift, Scene V. Enter MICIO.
+496	Act The Fift, Scene VI. To them SYRUS.
+501	Prologue.
+505	Act The Firs, Scene I. Philotis, Syra.
+506	Act The Firs, Scene II. Enter PARMENO.
+516	Act The Seco, Scene I. Laches, Sostrata.
+520	Act The Seco, Scene II. Enter PHIDIPPUS.
+523	Act The Seco, Scene III. Manet SOSTRATA.
+524	Act The Thir, Scene I. Enter PAMPHILUS and PAR
+529	Act The Thir, Scene III. Enter SOSTRATA.
+532	Act The Thir, Scene V. PAMPHILUS alone.
+536	Act The Thir, Scene VI.
+540	Act The Thir, Scene VIII. Enter at a distance 
+544	Act The Thir, Scene IX. Manent LACHES and PHID
+547	Act The Four, Scene II. Enter PHIDIPPUS.
+552	Act The Four, Scene IV. Sostrata, Pamphilus.
+555	Act The Four, Scene V. Enter LACHES.
+558	Act The Four, Scene VI. Enter PHIDIPPUS.
+564	Act The Four, Scene VII. Manent PHIDIPPUS, LAC
+566	Act The Four, Scene VIII. Enter BACCHIS attend
+570	Act The Four, Scene IX. Enter PHIDIPPUS and a 
+576	Act The Fift, Scene III. BACCHIS alone.
+578	Act The Fift, Scene IV. Enter at a distance PA
+583	Prologue.
+586	Act The Firs, Scene I. DAVUS alone.
+587	Act The Firs, Scene II. Enter GETA.
+596	Act The Firs, Scene III. Antipho, Phaedria.
+598	Act The Firs, Scene IV. Enter at a distance _G
+605	Act The Firs, Scene VI. Enter DEMIPHO at anoth
+613	Act The Seco, Scene I. Phormio, Geta.
+617	Act The Seco, Scene II.
+626	Act The Seco, Scene III.
+629	Act The Seco, Scene IV. Enter at a distance AN
+632	Act The Seco, Scene V. Enter, from Dorio's, DO
+639	Act The Seco, Scene VI. Phaedria, Antipho, Get
+644	Act The Thir, Scene I. Enter DEMIPHO and CHREM
+646	Act The Thir, Scene II. Enter, at another part
+647	Act The Thir, Scene III. Enter behind, ANTIPHO
+655	Act The Thir, Scene IV. Manent ANTIPHO, GETA.
+658	Act The Thir, Scene V. Re-enter DEMIPHO and CH
+660	Act The Thir, Scene VI. Enter SOPHRONA at a di
+665	Act The Four, Scene I. Demipho, Geta.
+667	Act The Four, Scene III. Enter DEMIPHO and NAU
+669	Act The Four, Scene IV. Enter CHREMES, hastily
+675	Act The Four, Scene VII. Enter, at a distance,
+PAR. I'm ruin'd: fool, what have I done? Nay, whither D'ye push me thus? You'll throw me down. Nay, stay!
+
+CHAER. Away.
+
+PAR. Nay, prithee!
+
+CHAER. I'm resolv'd.
+
+PAR. Consider;
+You carry this too far.
+
+CHAER. No, not at all.
+Give way!
+
+PAR. And Parmeno must pay for all.
+Ah, we do wrong!
+
+CHAER. Is it then wrong for me
+To be convey'd into a house of harlots,
+And turn those very arts on them, with which
+They hamper us, and turn our youth to scorn?
+Can it be wrong for me too, in my turn,
+To deceive them, by whom we're all deceiv'd?
+No, rather let it be! 'tis just to play
+This trick upon them: which, if gray-beards know,They'll blame indeed, but all will think well done.
+
+PAR. Well, if you must, you must; but do not then,
+After all's over, throw the blame on me.
+
+CHAER. No, no!
+
+PAR. But do you order me?
+
+CHAER. I do:
+Order, command, force.
+
+PAR. Oh, I'll not dispute
+Your pow'r. So, follow me.
+
+CHAER. Heav'n speed the plow.
+
+[Changes:<b>SCENE III.</b>
+<b>Labeled SCENE IV in 1768 edition.</b>
+
+  You know you've often told me; "Chaerea,
+  ...
+  And mark how I will serve you!" ...
+<i>Quotation marks supplied from 1768 edition</i>
+
+<i>Harper</i>
+  CHAER. Oh most unhappily! for other ills
+  May be told, Parmeno!--I could swear too
+<i>Colman 1768</i>
+  CHAER. Oh most unhappily! for lighter ills
+  May pass for inconvenient, Parmeno.
+  Nay, I could swear, with a safe conscience too
+
+  He hobbled up to me.--"Holo! ho! Chaerea!"----
+<i>All quotation marks in this speech supplied from 1768 edition</i>
+
+<i>Harper</i>
+  CHAER. Soon as I
+  Came hither, she was out of sight.
+  PAR. Had she
+  Any attendants?
+<i>Colman 1768</i>
+  CHAER. When I reach'd  This place, the girl was vanish'd.
+  PAR. Had your lady
+  Any attendants?
+
+<i>Harper</i>
+  He and his gift together--I ne'er knew
+  Till now that Thais was our neighbor.
+  PAR. She
+  Has not been long so.
+<i>Colman 1768</i>
+  He and his gift together--But till now
+  I never knew this Thais was our neighbour.
+  PAR. She came but lately.
+
+  PAR. Yes, faith.
+<i>Harper edition has question mark</i>
+
+<i>Harper</i>
+  His fellow-servant, see her, speak with her,
+  Be with her in the same house all day long,
+  And sometimes eat, and sometimes sleep by her.
+<i>Colman 1768</i>
+  His fellow-servant, see her all day long,
+  Converse with her, dwell under the same roof,
+  And sometimes eat, and sometimes sleep by her.<i>Harper</i>
+  Order, command, force.
+  PAR. Oh, I'll not dispute
+  Your pow'r. So, follow me.
+  CHAER. Heav'n speed the plow.
+<i>Colman 1768</i>
+  Order, command, compel you; nor will e'er
+  Deny, or disavow my putting-on.
+  PAR. Come on then: follow me!
+  CHAER. Heav'n grant success!]
+
+ACT THE THIRD.<b>SCENE I.</b>
+
+<i>Enter THRASO and GNATHO.</i>
+
+THRASO. And Thais then returns me many thanks?
+
+GNAT. Ten thousand.
+
+THRA. Say, is she delighted with it?
+
+GNAT. Not so much with the gift itself, as that
+By you 'twas given: but therein she triumphs.
+
+<i>Enter PARMENO behind.</i>
+
+PAR. I'm come to look about me, and observe
+A proper opportunity to bring
+My presents. But behold the Captain!
+
+THRA. 'Tis
+Something, I know not how, peculiar to me,
+That all I do 's agreeable.
+
+GNAT. In truth
+I have observ'd it.THRA. E'en the King always
+Held himself much obliged, whate'er I did:
+Not so to others.
+
+GNAT. Men of wit, like you,
+The glory, got by others' care and toil,
+Often transfer unto themselves.
+
+THRA. You've hit it.
+
+GNAT. The king then held you----
+
+THRA. Certainly.
+
+GNAT. Most dear.
+
+THRA. Most near. He trusted his whole army to me,
+His counsels.----
+
+GNAT. Wonderful!
+
+THRA. And then whene'er
+Satiety of company, or hate
+Of business seiz'd him--when he would repose----
+As if----you understand me.GNAT. Perfectly.
+When he would--in a manner--clear his stomach
+Of all uneasiness.
+
+THRA. The very thing.
+On such occasions he chose none but me.
+
+GNAT. Hui! there's a king indeed! a king of taste!
+
+THRA. One of a thousand.
+
+GNAT. Of a million sure!
+--If he could live with you. (<i>Aside.</i>)
+
+THRA. The courtiers all
+Began to envy me, and rail'd in secret:
+I car'd not; whence their spleen increas'd the more.
+One in particular, who had the charge
+Of th' Indian elephants; who grew at last
+So very troublesome, "I prithee, Strato,
+Are you so savage, and so fierce, (says I,)
+Because you're governor of the wild beasts?"
+
+GNAT. Oh, finely said! and shrewdly! excellent!
+Too hard upon him!--what said he to't?THRA. Nothing.
+
+GNAT. And how the devil should he?
+
+PAR. Gracious Heav'n!
+The stupid coxcomb!--and that rascal too! (<i>Aside.</i>)
+
+THRA. Aye! but the story of the Rhodian, Gnatho!
+How smart I was upon him at a feast----
+Did I ne'er tell you?
+
+GNAT. Never: but pray do!
+--I've heard it o'er and o'er a thousand times. (<i>Aside.</i>)
+
+THRA. We were by chance together at a feast----
+This Rhodian, that I told you of and I.----
+I, as it happen'd, had a wench: the spark
+Began to toy with her, and laugh at me.
+"Why how now, Impudence! (said I,) are you
+A <i>hare</i> yourself, and yet would hunt for <i>game</i>?"
+
+GNAT. Ha! ha! ha!
+
+THRA. What's the matter?GNAT. Ha! ha! ha!
+Witty! smart! excellent! incomparable!
+Is it your own? I swear I thought 'twas old.
+
+THRA. Why, did you ever hear it?
+
+GNAT. Very often;
+And reckon'd admirable.
+
+THRA. 'Tis my own.
+
+GNAT. And yet 'twas pity to be so severe
+On a young fellow, and a gentleman.
+
+PAR. Ah! devil take you! (<i>Aside.</i>)
+
+GNAT. What became of him?
+
+THRA. It did for him. The company were all
+Ready to die with laughing:--in a word,
+They dreaded me.
+
+GNAT. No wonder.
+
+THRA. Harkye, Gnatho!
+Thais, you know, suspects I love this girl.Shall I acquit myself?
+
+GNAT. On no account.
+Rather increase her jealousy.
+
+THRA. And why?
+
+GNAT. Why?--do you ask?--as if you didn't know!----
+Whene'er she mentions Phaedria, or whene'er
+She praises him, to vex you----
+
+THRA. I perceive.
+
+GNAT. To hinder that, you've only this resource.
+When she names Phaedria, name you Pamphila.
+If she should say, "come! let's have Phaedria
+To dinner with us!"--"aye, and Pamphila
+To sing to us!"--if she praise Phaedria's person,
+Praise you the girl's! so give her tit for tat,
+And gall her in her turn.
+
+THRA. Suppose she lov'd me,
+This might avail me, Gnatho!
+
+GNAT. While she loves
+The presents which you give, expecting more,So long she loves you; and so long you may
+Have pow'r to vex her. She will always fear
+To make you angry, lest some other reap
+The harvest, which she now enjoys alone.
+
+THRA. You're right: and yet I never thought of it.
+
+GNAT. Ridiculous! because you did not turn
+Your thoughts that way; or with how much more ease
+Would you have hit on this device yourself!
+
+[Changes:
+
+<i>Harper</i>
+  GNAT. Not so much with the gift itself, as that
+  By you 'twas given: but therein she triumphs.
+  <i>Enter PARMENO behind.</i>
+  PAR. I'm come to look about me, and observe
+  A proper opportunity to bring
+  My presents. But behold the Captain!
+  THRA. 'Tis
+  Something, I know not how, peculiar to me,
+  That all I do 's agreeable.
+  GNAT. In truth
+  I have observ'd it.
+  THRA. E'en the King always<i>Colman 1768</i>
+  GNAT. Not for the present's sake so much, as that
+  From you it was presented: But therein
+  She truly triumphs.
+  <i>Enter PARMENO behind.</i>
+  PAR. I'm upon the watch,
+  To mark a proper opportunity
+  To bring my presents. But behold the Captain? [with question mark]
+  THRA. It is, indeed, something, I know not how,
+  Peculiar to me, do whate'er I please,
+  It will appear agreeable.
+  GNAT. In truth
+  I always have observ'd it.
+  THRA. Ev'n the King
+
+<i>Harper</i>
+  THRA. One of a thousand.
+  GNAT. Of a million sure!
+  --If he could live with you.
+<i>Colman 1768</i>
+  THRA. No general man, I promise you.
+  GNAT. Oh no!
+  He must have been particular indeed,
+  If he convers'd with You.  If she should say, "come! let's have Phaedria
+  ...
+<i>quotation marks in this speech supplied from 1768 edition</i>]
+
+<b>SCENE II.</b>
+
+<i>Enter THAIS and PYTHIAS.</i>
+
+THAIS. I thought I heard the Captain's voice: and see! Good-day, my Thraso!
+
+THRA. Oh my Thais, welcome!
+How does my sweeting?--are you fond of me
+For sending you that music-girl?
+
+PAR. Oh brave!
+He sets out nobly!
+
+THAIS. For your worth I love you.
+
+GNAT. Come, let's to supper? why do you delay?
+
+PAR. Mark t'other! he's a chip of the old block.
+
+THAIS. I'm ready when you please.PAR. I'll up to her,
+And seem as if but now come forth.--Ha! Thais,
+Where are you gadding?
+
+THAIS. Well met, Parmeno!
+I was just going----
+
+PAR. Whither?
+
+THAIS. Don't you see
+The Captain?
+
+PAR. Yes, I see him--to my sorrow.
+The presents from my master wait your pleasure.
+
+THRA. Why do we stop thus? wherefore go not hence?
+(<i>Angrily.</i>)
+
+PAR. Beseech you, Captain, let us, with your leave,
+Produce our presents, treat, and parley with her!
+
+THRA. Fine gifts, I warrant you, compar'd with mine!
+
+PAR. They'll answer for themselves--Holo, there! order The slaves, I told you, to come forth.--Here, this way!<i>Enter a BLACK GIRL.</i>
+
+Do you stand forward!--This girl, ma'am, comes quite From Ethiopia.
+
+THRA. Worth about three Minae.
+
+GNAT. Scarce.
+
+PAR. Ho! where are you, Dorus?--Oh, come hither!
+
+<i>Enter CHAEREA in the Eunuch's habit.</i>
+
+An Eunuch, Madam! of a lib'ral air,
+And in his prime!
+
+THAIS. Now as I live, he's handsome!
+
+PAR. What say you, Gnatho? Is he despicable?
+Or, Captain, what say you?--Dumb?--Praise sufficient;
+Try him in letters, exercises, music:
+In all the arts, a gentleman should know,
+I'll warrant him accomplish'd.
+
+THRA. Troth, that Eunuch
+Is well enough.PAR. And he, who sends these presents,
+Requires you not to live for him alone,
+And for his sake to shut out all mankind:
+Nor does he tell his battles, show his wounds,
+Or shackle your free will, as some folks do.
+
+(<i>Looking at THRASO.</i>)
+
+But when 'twill not be troublesome, or when
+You've leisure, in due season, he's content
+If then he is admitted.
+
+THRA. This poor fellow
+Seems to belong to a poor wretched master.
+
+GNAT. Beyond all doubt; for who that could obtain
+Another, would endure a slave like this?
+
+PAR. Peace, wretch, that art below the meanest slave!
+You that could bring your mind so very low,
+As to cry aye and no at yon fool's bidding,
+I'm sure, might get your bread out o'the fire.
+
+THRA. Why don't we go? (<i>Impatiently.</i>)THAIS. Let me but carry in
+These first, and give some orders in the house,
+And I'll attend you. (<i>Exit with CHAEREA, and the Ethiopian.</i>
+
+THRA. I'll depart from hence.
+Gnatho, wait you for her!
+
+PAR. It ill beseems
+The dignity of a renown'd commander,
+T' escort his mistress in the street.
+
+THRA. Away,
+Slave! you're beneath my notice--like your master.
+(<i>Exit PARMENO.</i>
+
+GNAT. Ha! ha! ha! ha!
+
+THRA. What moves your laughter?
+
+GNAT. That
+You said just now: and then the Rhodian came
+Across my mind.----But Thais comes.
+
+THRA. Go run,
+And see that ev'ry thing's prepar'd at home!GNAT. It shall be done. (<i>Exit.</i>
+
+THAIS (<i>entering with PYTHIAS</i>). Take care now, Pythias,
+Great care, if Chremes come, to press him stay;
+Or, if that's inconvenient, to return:
+If that's impossible, then bring him to me!
+
+PYTH. I'll do so.
+
+THAIS. Hold! what else had I to say?
+Take care, be sure, of yonder virgin! see,
+You keep at home.
+
+THRA. Let's go.
+
+THAIS. Girls, follow me!
+
+(<i>Exit, attended by Servants and THRASO.</i>
+
+[Changes:
+
+<i>Harper</i>
+  PAR. They'll answer for themselves--Holo, there! order
+  The slaves, I told you, to come forth.--Here, this way!
+  <i>Enter a BLACK GIRL.</i>
+  Do you stand forward!--This girl, ma'am, comes quite  From Ethiopia.
+  THRA. Worth about three Minae.
+<i>Colman 1768</i>
+  PAR. They'll answer for themselves--Ho, there! within!
+  Order the slaves, I told you, to come forth.
+  <i>Enter a BLACK GIRL.</i>
+  This way! do you stand forward!--This girl, ma'am,
+  Comes quite from AEthiopia.
+  THRA. Worth three Minae.
+
+<i>Harper</i>
+  THAIS. Let me but carry in
+<i>Colman 1768</i>
+  THAIS. Let me but introduce
+
+<i>Harper</i>
+  THRA. What moves your laughter?
+  GNAT. That
+  You said just now: and then the Rhodian came
+<i>Colman 1768</i>
+  THRA. What moves your laughter, Gnatho?
+  GNAT. Your speech but now: and then the Rhodian came]<b>SCENE III.</b>
+
+<i>CHREMES alone.</i>
+
+In truth the more and more I think, the more
+I am convinc'd that Thais means me ill:
+So plain I see her arts to draw me in.
+Ev'n when she first invited me, (and when
+Had any ask'd, <i>What business have you there?</i>
+The question would have stagger'd me,) she fram'd
+Sev'ral excuses to detain me there.
+Said she had made a sacrifice, and had
+Affairs of consequence to settle with me.
+--Oho! thought I immediately, I smell
+A trick upon me!--down she sat, behav'd
+Familiarly, and tried to beat about
+For conversation. Being at a loss,
+She ask'd, how long my parents had been dead?
+--I told her, long time since:--on which she ask'd,
+Whether I had a country-house at Sunium?
+--And how far from the sea?--I half believe
+She likes my villa, and would wheedle me
+To give it her.--Her final questions were,
+If I ne'er lost a little sister thence?
+--Who was miss'd with her?--what she had when lost?
+If any one could know her? Why should ThaisDemand all this, unless,--a saucy baggage!----
+She means to play the counterfeit, and feign
+Herself that sister?--but if she's alive,
+She is about sixteen, not more; Thais
+Is elder than myself.--She sent beside
+To beg I'd come again.--Or, let her say
+What she would have; or, not be troublesome!
+I'll not return a third time.--Ho! who's there?
+Here am I! Chremes!
+
+[Changes:
+
+<i>Harper</i>
+  If any one could know her? Why should Thais
+  Demand all this, unless,--a saucy baggage!----
+  She means to play the counterfeit, and feign
+  Herself that sister?--but if she's alive,
+  She is about sixteen, not more; Thais
+  Is elder than myself.--She sent beside
+  To beg I'd come again.--Or, let her say
+  What she would have; or, not be troublesome!
+<i>Colman 1768</i>
+  --If there was any body capable
+  Of recollecting her?--Why all these questions?
+  Unless perhaps she means,--a saucy baggage!--
+  To play the counterfeit, and feign herself  That sister, who was lost so long ago?
+  But she, if living, is about sixteen;
+  Not more: and Thais older than myself.
+  She sent beside to press me earnestly
+  To visit her again.--Or, let her say
+  What she would have; or, trouble me no more!]
+
+SCENE IV.
+
+<i>Enter PYTHIAS.</i>
+
+PYTH. Oh, sweet, charming, Sir!
+
+CHRE. A coaxing hussy!
+
+PYTH. Thais begs and prays
+You'd come again to-morrow.
+
+CHRE. I am going
+Into the country.
+
+PYTH. Nay, now prithee come?
+
+CHRE. I can't, I tell you.PYTH. Walk in, then, and stay
+Till she returns herself.
+
+CHRE. Not I.
+
+PYTH. And why,
+Dear Chremes?
+
+CHRE. Go, and hang yourself!
+
+PYTH. Well, Sir,
+Since you're so positive, shall I entreat you
+To go to her?
+
+CHRE. I will.
+
+PYTH. Here, Dorias! (<i>A maid-servant enters.</i>)
+Conduct this gentleman to Captain Thraso's.
+
+(<i>PYTHIAS re-enters.--CHREMES goes out another way with DORIAS.</i>)
+
+[Changes:
+
+<i>Harper</i>
+  CHRE. Go, and hang yourself!
+<i>Colman 1768</i>  CHRE. Off, you saucy slut!]
+
+<b>SCENE V.</b>
+
+<i>ANTIPHO alone.</i>
+
+But yesterday a knot of us young fellows
+Assembled at Piraeus, and agreed
+To club together for a feast to-day.
+Chaerea had charge of all; the rings were given,
+And time and place appointed.--The time's past;
+No entertainment's at the place; and Chaerea
+Is nowhere to be found.--I can't tell what
+To think on't.--Yet the rest of my companions
+Have all commission'd me to seek him out.
+I'll see if he's at home;--but who comes here
+From Thais?--Is it he, or no?--'Tis he.----
+--What manner of man's here?--what habit's that?
+--What mischief has the rogue been at? I'm all
+Astonishment, and can not guess.--But I'll
+Withdraw a while, and try to find it out. (<i>Retires.</i>)
+
+[Changes:
+
+<i>Harper</i>
+  Is nowhere to be found.--I can't tell what  To think on't.--Yet the rest of my companions
+  Have all commission'd me to seek him out.
+<i>Colman 1768</i>
+  Is no where to be met with.--For my part,
+  I'm quite to seek in this; and what to say,
+  Or guess, I know not.--Yet the company
+  Have all commission'd me to find him out.
+
+<i>Harper</i>
+  --What mischief has the rogue been at? I'm all
+  Astonishment, and can not guess.--But I'll
+  Withdraw a while, and try to find it out.
+<i>Colman 1768</i>
+  --What mischief is the meaning of all this?
+  I'm all astonishment, and can not guess.
+  But I'll withdraw a while, and try to learn.]<b>SCENE VI.</b>
+
+<i>Enter CHAEREA, in the Eunuch's habit.</i>
+
+CHAER. (<i>looking about</i>). Is any body here?--No, nobody.
+Does any follow me?--No, nobody.
+May I then let my ecstasy break forth!
+O Jupiter! 'tis now the very time,
+When I could suffer to be put to death,
+Lest not another transport like to this,
+Remain in life to come.--But is there not
+Some curious impertinent to come
+Across me now, and murder me with questions?
+--To ask, why I'm so flutter'd? why so joyful?
+Whither I'm going? whence I came? and where
+I got this habit? what I'm looking after?
+Whether I'm in my senses? or stark mad?
+
+ANTI. I'll go myself, and do that kindness to him.
+Chaerea, (<i>advancing</i>,) what's all this flutter? what's this dress?
+What is't transports you? what d'ye want? art mad?
+Why do ye start at me? and why not speak?
+
+CHAER. O happy, happy day!--Save you, dear friend!
+There's not a man on earth I'd rather see
+This moment than yourself.ANTI. Come, tell me all!
+
+CHAER. Tell you! I will beseech you give me hearing. D'ye know my brother's mistress here?
+
+ANTI. Yes: Thais,
+Or I'm deceiv'd.
+
+CHAER. The same.
+
+ANTI. I do remember.
+
+CHAER. To-day a girl was sent a present to her.
+Why need I speak or praise her beauty now
+To you, that know me, and my taste so well?
+She set me all on fire.
+
+ANTI. Is she so handsome?
+
+CHAER. Most exquisite: Oh, had you but once seen her,
+You would pronounce her, I am confident,
+The first of womankind.--But to be brief,
+I fell in love with her.--By great good luck
+There was at home an Eunuch, which my brother
+Had bought for Thais, but not yet sent thither.
+--I had a gentle hint from Parmeno,Which I seiz'd greedily.
+
+ANTI. And what was that?
+
+CHAER. Peace, and I'll tell you.--To change dresses with him, And order Parmeno to carry me Instead of him.
+
+ANTI. How? for an Eunuch, you?
+
+CHAER. E'en so.
+
+ANTI. What good could you derive from that?
+
+CHAER. What good!--why, see, and hear, and be with her
+I languish'd for, my Antipho!--was that
+An idle reason, or a trivial good?
+--To Thais I'm deliver'd; she receives me,
+And carries me with joy into her house;
+Commits the charming girl----
+
+ANTI. To whom?----to you?
+
+CHAER. To me.
+
+ANTI. In special hands, I must confess.CHAER. --Enjoins me to permit no man come near her;
+Nor to depart, myself, one instant from her;
+But in an inner chamber to remain
+Alone with her alone. I nod, and look
+Bashfully on the ground.
+
+ANTI. Poor simple soul!
+
+CHAER. I am bid forth, says she; and carries off
+All her maid-servants with her, save some few
+Raw novices, who straight prepar'd the bath.
+I bade them haste; and while it was preparing,
+In a retiring-room the Virgin sat;
+Viewing a picture, where the tale was drawn
+Of Jove's descending in a golden show'r
+To Danae's bosom.----I beheld it too,
+And because he of old the like game play'd,
+I felt my mind exult the more within me,
+That Jove should change himself into a man,
+And steal in secret through a stranger-roof,
+With a mere woman to intrigue.--Great Jove,
+Who shakes the highest heav'ns with his thunder!
+And I, poor mortal man, not do the same!----
+I did it, and with all my heart I did it.
+--While thoughts, like these, possess'd my soul, they call'd
+The girl to bathe. She goes, bathes, then returns:Which done, the servants put her into bed.
+I stand to wait their orders. Up comes one,
+"Here, harkye, Dorus! take this fan and mark
+You cool her gently thus, while we go bathe.
+When we have bath'd, you, if you please, bathe too,"
+I, with a sober air, receive the fan.
+
+ANTI. Then would I fain have seen your simple face!
+I should have been delighted to behold
+How like an ass you look'd, and held the fan.
+
+CHAER. Scarce had she spoke, when all rush'd out o' doors;
+Away they go to bathe; grow full of noise,
+As servants use, when masters are abroad.
+Meanwhile sleep seiz'd the virgin: I, by stealth,
+Peep'd through the fan-sticks thus; then looking round,
+And seeing all was safe, made fast the door.
+
+ANTI. What then?
+
+CHAER. What then, fool!
+
+ANTI. I confess.
+
+CHAER. D'ye think,
+Bless'd with an opportunity like this,So short, so wish'd for, yet so unexpected,
+I'd let it slip? No. Then I'd been, indeed,
+The thing I counterfeited.
+
+ANTI. Very true.
+But what's become of our club-supper?
+
+CHAER. Ready.
+
+ANTI. An honest fellow! where? at your own house?
+
+CHAER. At Freeman Discus's.
+
+ANTI. A great way off.
+
+CHAER. Then we must make more haste.
+
+ANTI. But change your dress.
+
+CHAER. Where can I change it? I'm distress'd. From home I must play truant, lest I meet my brother. My father too, perhaps, is come to town.
+
+ANTI. Come then to my house! that's the nearest place Where you may shift.
+
+CHAER. With all my heart! let's go!
+And at the same time, I'll consult with youHow to enjoy this dear girl.
+
+ANTI. Be it so.
+
+[Changes:
+
+<i>Harper</i>
+  Whither I'm going? whence I came? and where
+<i>Colman 1768</i>
+  Whither I'm going? from whence I came? and where
+
+<i>Harper</i>
+  ANTI. Yes: Thais,
+  Or I'm deceiv'd.
+  CHAER. The same.
+  ANTI. I do remember.
+<i>Colman 1768</i>
+  ANTI. I do:
+  Thais, I think.
+  CHAER. The same.
+  ANTI. I recollect.
+
+<i>Harper</i>
+  The first of womankind.--But to be brief
+<i>Colman 1768</i>
+  The first of womankind.--But in a word  To Danae's bosom.
+<i>Harper edition misprints "Danae's"</i>
+
+  "Here, harkye, Dorus! take this fan ...
+<i>quotation marks in this speech supplied from 1768 edition</i>
+
+<i>Harper</i>
+  ANTI. Come then to my house! that's the nearest place
+<i>Colman 1768</i>
+  ANTI. Come to my house then! that's the nearest place]
+
+ACT THE FOURTH.<b>SCENE I.</b>
+
+<i>Enter DORIAS, with a Casket.</i>
+
+DORIAS.
+
+Now, as I hope for mercy, I'm afraid,
+From what I've seen, lest yonder swaggerer
+Make some disturbance, or do violence
+To Thais. For as soon as Chremes came,
+(The youth that's brother to the virgin,) she
+Beseech'd of Thraso he might be admitted.
+This piqu'd him; yet he durst not well refuse.
+She, fearing Chremes should not be detain'd,
+Till she had time and opportunity
+To tell him all she wish'd about his sister,
+Urg'd Thraso more and more to ask him in.
+The Captain coldly asks him; down he sat;
+And Thais enter'd into chat with him.
+The Captain, fancying a rival brought
+Before his face, resolv'd to vex her too:
+"Here, boy," said he, "let Pamphila be call'd
+To entertain us!"--"Pamphila!" cries Thais;
+"She at a banquet?--No it must not be."----
+Thraso insisting on't, a broil ensued:
+On which my mistress slyly slipping offHer jewels, gave them me to bear away;
+Which is, I know, a certain sign, she will,
+As soon as possible, sneak off herself. <i>Exit.</i>)
+
+[Changes:
+
+<i>all quotation marks isupplied from 1768 edition</i>
+
+<i>Harper</i>
+  (The youth that's brother to the virgin,) she
+  Beseech'd of Thraso he might be admitted.
+<i>Colman 1768</i>
+  (Chremes, the youth that's brother to the virgin,)
+  She beg'd of Thraso, he might be admitted.]<b>SCENE II.</b>
+
+<i>Enter PHAEDRIA.</i>
+
+PHAED. Going into the country, I began
+(As happens when the mind is ill at ease)
+To ponder with myself upon the road,
+Tossing from thought to thought, and viewing all
+In the worst light. While thus I ruminate,
+I pass unconsciously my country-house,
+And had got far beyond, ere I perceiv'd it.
+I turn'd about, but with a heavy heart;
+And soon as to the very spot I came
+Where the roads part, I stop. Then paus'd a while:
+"Alas! thought I, and must I here remain]
+Two days? alone: without her?--Well! what then?
+That's nothing.--What, is't nothing?--If I've not
+The privilege to touch her, shall I not
+Behold her neither?--If <i>one</i> may not be,
+At least the <i>other</i> shall.--And certainly
+Love, in its last degree, is something still."
+--Then I, on purpose, pass'd the house.--But see!
+Pythias breaks forth affrighted.--What means this?
+
+[Changes:  "Alas! thought I ...
+<i>quotation marks in this speech supplied from 1768 edition</i>
+
+<b>SCENE III.</b>
+
+<i>Enter PYTHIAS and DORIAS; PHAEDRIA at a distance.</i>
+
+PYTH. Where shall I find, unhappy that I am, Where seek this rascal-slave?--this slave, that durst To do a deed like this?--Undone! undone!
+
+PHAED. What this may be, I dread.
+
+PYTH. And then the villain,
+After he had abused the virgin, tore
+The poor girl's clothes, and dragg'd her by the hair.
+
+PHAED. How's this!
+
+PYTH. Who, were he now within my reach,
+How could I fly upon the vagabond,
+And tear the villain's eyes out with my nails?
+
+PHAED. What tumult's this, arisen in my absence? I'll go and ask her.-- (<i>Going up.</i>) What's the matter, Pythias? Why thus disturb'd? and whom is it you seek?PYTH. Whom do I seek? Away, Sir Phaedria!
+You and your gifts together!
+
+PHAED. What's the matter?
+
+PYTH. The matter, Sir! the Eunuch, that you sent us, Has made fine work here! the young virgin, whom The Captain gave my mistress, he has ravish'd.
+
+PHAED. Ravish'd? How say you?
+
+PYTH. Ruin'd, and undone!
+
+PHAED. You're drunk.
+
+PYTH. Would those who wish me ill were so!
+
+DORI. Ah Pythias! what strange prodigy is this?
+
+PHAED. You're mad: how could an Eunuch----
+
+PYTH. I don't know
+Or who, or what he was.--What he has done,
+The thing itself declares.----The virgin weeps,
+Nor, when you ask what ails her, dare she tell.
+But he, good man, is nowhere to be found:
+And I fear too, that when he stole away,He carried something off.
+
+PHAED. I can't conceive
+Whither the rascal can have flown, unless
+He to our house, perhaps, slunk back again.
+
+PYTH. See now, I pray you, if he has.
+
+PHAED. I will. (<i>Exit.</i>
+
+DORI. Good lack! so strange a thing I never heard.
+
+PYTH. I've heard, that they lov'd women mightily
+But could do nothing; yet I never thought on't:
+For if I had, I'd have confin'd him close
+In some by-place, nor trusted the girl to him.<b>SCENE IV.</b>
+
+<i>Re-enter PHAEDRIA, with DORUS the Eunuch, in CHAEREA'S clothes.</i>
+
+PHAED. Out, rascal, out!--What are you resty, Sirrah? Out, thou vile bargain!
+
+DOR. Dear Sir! (<i>Crying.</i>)
+
+PHAED. See the wretch!
+What a wry mouth he makes!--Come, what's the meaning
+Of your returning? and your change of dress?
+What answer, Sirrah!--If I had delay'd
+A minute longer, Pythias, I had miss'd him,
+He was equipp'd so bravely for his flight.
+
+PYTH. What, have you got the rogue?
+
+PHAED. I warrant you.
+
+PYTH. Well done! well done!
+
+DORI. Aye, marry, very well.
+
+PYTH. Where is he?
+
+PHAED. Don't you see him?PYTH. See him? whom?
+
+PHAED. This fellow, to be sure.
+
+PYTH. This man! who is he?
+
+PHAED. He that was carried to your house to-day.
+
+PYTH. None of our people ever laid their eyes
+Upon this fellow, Phaedria!
+
+PHAED. Never saw him?
+
+PYTH. Why, did you think this fellow had been brought To us?
+
+PHAED. Yes, surely; for I had no other.
+
+PYTH. Oh dear! this fellow's not to be compar'd
+To t'other.--He was elegant, and handsome.
+
+PHAED. Aye, so he might appear a while ago,
+Because he had gay clothes on: now he seems
+Ugly, because he's stripped.
+
+PYTH. Nay, prithee, peace!
+As if the diff'rence was so very small!----The youth conducted to our house to-day,
+'Twould do you good to cast your eyes on, Phaedria:
+This is a drowsy, wither'd, weasel-fac'd,
+Old fellow.
+
+PHAED. How?----you drive me to that pass,
+That I scarce know what I have done myself.
+--Did not I buy you, rascal? (<i>To DORUS.</i>)
+
+DOR. Yes, Sir.
+
+PYTH. Order him
+To answer me.
+
+PHAED. Well, question him.
+
+PYTH. (<i>to DORUS</i>). Was you
+Brought here to-day? (<i>Shakes his head.</i>) See there! Not he. It was
+Another, a young lad, about sixteen,
+Whom Parmeno brought with him.
+
+PHAED. (<i>to DORUS</i>). Speak to me! First tell me, whence had you that coat? What, dumb? I'll make you speak, you villain? (<i>Beating him.</i>)
+
+DOR. Chaerea came---- (<i>Crying.</i>)PHAED. My brother?
+
+DOR. Yes, Sir!
+
+PHAED. When?
+
+DOR. To-day.
+
+PHAED. How long since?
+
+DOR. Just now.
+
+PHAED. With whom?
+
+DOR. With Parmeno.
+
+PHAED. Did you
+Know him before?
+
+DOR. No, Sir; nor e'er heard of him.
+
+PHAED. How did you know then that he was my brother?
+
+DOR. Parmeno told me so; and Chaerea
+Gave me these clothes----PHAED. Confusion! (<i>Aside.</i>)
+
+DOR. Put on mine;
+And then they both went out o' doors together.
+
+PYTH. Now, Sir, do you believe that I am sober?
+Now do you think, I've told no lie? And now
+Are you convinc'd the girl has been abus'd!
+
+PHAED. Away, fool! d'ye believe what this wretch says?
+
+PYTH. What signifies belief?--It speaks itself.
+
+PHAED. (<i>apart to DORUS</i>). Come this way--hark ye! ----further still. ----Enough. Tell me once more. ----Did Chaerea strip you?
+
+DOR. Yes.
+
+PHAED. And put your clothes on?
+
+DOR. Yes, Sir!
+
+PHAED. And was brought
+In your stead hither?
+
+DOR. Yes.PHAED. Great Jupiter! (<i>Pretending to be in a passion with him.</i>) What a most wicked scoundrel's this?
+
+PYTH. Alas!
+Don't you believe, then, we've been vilely us'd?
+
+PHAED. No wonder if you credit what he says. I don't know what to do. (<i>Aside.</i>)--Here, harkye, Sirrah! Deny it all again. (<i>Apart to DORUS.</i>)--What! can't I beat The truth out of you, rascal?--have you seen My brother Chaerea? (<i>Aloud, and beating him.</i>)
+
+DOR. No, Sir! (<i>Crying.</i>)
+
+PHAED. So! I see He won't confess without a beating.--This way! (<i>Apart.</i>) Now He owns it; now denies it.--Ask my pardon! (<i>Apart.</i>)
+
+DOR. Beseech you, Sir, forgive me!
+
+PHAED. Get you gone. (<i>Kicking him.</i>)
+Oh me! oh dear! (<i>Exit, howling.</i>
+
+PHAED. (<i>aside</i>). I had no other way
+To come off handsomely.--We're all undone.
+--D'ye think to play your tricks on me, you rascal?
+  (<i>Aloud, and Exit after DORUS.</i>[Changes:
+
+<i>Harper</i>
+  PHAED. How did you know then that he was my brother?
+<i>Colman 1768</i>
+  PHAED. How did you know he was my brother then?]
+
+SCENE V.
+
+<i>Manent PYTHIAS and DORIAS.</i>
+
+PYTH. As sure as I'm alive, this is a trick
+Of Parmeno's.
+
+DORI. No doubt on't.
+
+PYTH. I'll devise
+Some means to-day to fit him for't.--But now
+What would you have me do?
+
+DORI. About the girl!
+
+PYTH. Aye; shall I tell; or keep the matter secret?
+
+DORI. Troth, if you're wise you know not what you know,
+Nor of the Eunuch, nor the ravishment:So shall you clear yourself of all this trouble,
+And do a kindness to our mistress too.
+Say nothing, but that Dorus is gone off.
+
+PYTH. I'll do so.
+
+DORI. Prithee is not Chremes yonder?
+Thais will soon be here.
+
+PYTH. How so?
+
+DORI. Because
+When I came thence, a quarrel was abroach
+Among them.
+
+PYTH. Carry in the jewels, Dorias.
+Meanwhile I'll learn of Chremes what has happen'd.
+  (<i>Exit DORIAS.</i><b>SCENE VI.</b>
+
+<i>Enter CHREMES tipsy.</i>
+
+CHREM. So! so!--I'm in for't--and the wine I've drank
+Has made me reel again.--Yet while I sat,
+How sober I suppos'd myself!--But I
+No sooner rose, than neither foot, nor head,
+Knew their own business!
+
+PYTH. Chremes!
+
+CHREM. Who's that?--Ha!
+Pythias!--How much more handsome you seem now,
+Than you appear'd a little while ago!
+
+PYTH. I'm sure you seem a good deal merrier.
+
+CHREM. I'faith it's an old saying, and a true one,
+"Ceres and Bacchus are warm friends of Venus."
+--But, pray, has Thais been here long before me?
+
+PYTH. Has she yet left the Captain's?
+
+CHREM. Long time since:
+An age ago. They've had a bloody quarrel.PYTH. Did not she bid you follow her?
+
+CHREM. Not she:
+Only she made a sign to me at parting.
+
+PYTH. Well, wasn't that enough?
+
+CHREM. No, faith! I did not
+At all conceive her meaning, till the Captain
+Gave me the hint, and kick'd me out o' doors!
+--But here she is! I wonder how it was,
+I overtook her!
+
+[Changes:
+
+<i>Harper</i>
+  CHREM. No, faith! I did not
+  At all conceive her meaning, till the Captain
+<i>Colman 1768</i>
+  CHREM. No, faith! I never
+  At all conceiv'd her meaning, till the Captain]<b>SCENE VII.</b>
+
+<i>Enter THAIS.</i>
+
+THAIS. I am apt to think,
+The Captain will soon follow me, to take
+The virgin from me: Well then, let him come!
+But if he does but lay a finger on her,
+We'll tear his eyes out.--His impertinence.
+And big words, while mere words, I can endure;
+But if he comes to action, woe be to him!
+
+CHREM. Thais, I have been here some time.
+
+THAIS. My Chremes!
+The very man I wanted!--Do you know
+That you have been th' occasion of this quarrel?
+And that this whole affair relates to you?
+
+CHREM. To me! how so?
+
+THAIS. Because, while I endeavor,
+And study to restore your sister to you,
+This and much more I've suffer'd.
+
+CHREM. Where's my sister?THAIS. Within, at my house.
+
+CHREM. Ha! (<i>With concern.</i>)
+
+THAIS. Be not alarm'd:
+She has been well brought up, and in a manner
+Worthy herself and you.
+
+CHREM. Indeed?
+
+THAIS. 'Tis true:
+And now most freely I restore her to you,
+Demanding nothing of you in return.
+
+CHREM. I feel your goodness, Thais, and shall ever
+Remain much bounden to you.
+
+THAIS. Aye, but now
+Take heed, my Chremes, lest ere you receive
+The maid from me, you lose her! for 'tis she,
+Whom now the Captain comes to take by storm.
+--Pythias, go, fetch the casket with the proofs!
+
+CHREM. D'ye see him, Thais? (<i>Looking out.</i>)
+
+PYTH. Where's the casket plac'd?THAIS. Plac'd in the cabinet.--D'ye loiter, hussy?
+(<i>Exit PYTHIAS.</i>
+
+CHREM. What force the Captain brings with him against you! Good Heav'n!
+
+THAIS. Are you afraid, young gentleman?
+
+CHREM. Away!--who? I? afraid?--There is no man
+Alive less so.
+
+THAIS. You'd need be stout at present.
+
+CHREM. What kind of man d'ye take me for?
+
+THAIS. Consider,
+He, whom you've now to cope with, is a stranger
+Less powerful than you, less known, and less
+Befriended here than you!
+
+CHREM. I know all that:
+But why, like fools, admit what we may shun?
+Better prevent a wrong, than afterward
+Revenge it, when receiv'd----Do you step in,
+And bolt the door, while I run to the Forum,
+And call some officers to our assistance. (<i>Going.</i>)THAIS. Stay! (<i>Holding him.</i>)
+
+CHREM. 'Twill be better.
+
+THAIS. Hold!
+
+CHREM. Nay, let me go!
+I'll soon be back.
+
+THAIS. We do not want them, Chremes.
+Say, only, that this maiden is your sister,
+And that you lost her when a child, and now
+Know her again for yours.
+
+<i>Enter PYTHIAS.</i>
+
+THAIS (<i>to PYTH.</i>) Produce the proofs!
+
+PYTH. Here they are.
+
+THAIS. Take them, Chremes!--If the Captain
+Attempts to do you any violence,
+Lead him before a magistrate. D'ye mark me?
+
+CHREM. I do.THAIS. Be sure now speak with a good courage!
+
+CHREM. I will.
+
+THAIS. Come, gather up your cloak.----Undone!
+I've got a champion, who wants help himself.
+
+(<i>Exeunt.</i>
+
+[Changes:
+
+  THAIS. 'Tis true:
+<i>opening apostrophe missing in Harper edition</i>
+
+<i>Harper</i>
+  PYTH. Where's the casket plac'd?
+  THAIS. Plac'd in the cabinet.--D'ye loiter, hussy?
+<i>Colman 1768</i>
+  PYTH. Where does the casket stand?
+  THAIS. Upon the cabinet.--D'ye loiter, hussy?
+
+<i>Harper</i>
+  CHREM. Away!--who? I? afraid?--There is no man
+  Alive less so.
+  THAIS. You'd need be stout at present.
+<i>Colman 1768</i>  CHREM. Away!--who? I? afraid?--No mortal less.
+  THAIS. Nay, you had need be stout at present, Chremes.]
+
+<i>Harper</i>
+  I've got a champion, who wants help himself.
+<i>Colman 1768</i>
+  My champion wants a champion for himself.]
+
+<b>SCENE VIII.</b>
+
+<i>Enter THRASO, GNATHO, SANGA, etc.</i>
+
+THRASO. Shall I put up with an affront so gross,
+So monstrous, Gnatho?--No, I'd rather die.
+Simalio, Donax, Syrus, follow me!
+First, I will storm their castle.
+
+GNAT. Excellent!
+
+THRA. Next carry off the Virgin.
+
+GNAT. Admirable!
+
+THRA. Then punish Thais herself.
+
+GNAT. Incomparable!THRA. Here, in the centre, Donax, with your club!
+Do you, Simalio, charge on the left wing!
+You, Syrus, on the right!--Bring up the rest!
+Where's the Centurion Sanga, and his band
+Of rascal runaways?
+
+SAN. Here, Sir!
+
+THRA. How now?
+Think'st thou to combat with a dish-clout, slave!
+That thus thou bring'st it here?
+
+SAN. Ah, Sir! I knew
+The valor of the gen'ral and his troops;
+And seeing this affair must end in blood,
+I brought a clout, to wipe the wounds withal.
+
+THRA. Where are the rest?
+
+SAN. Rest! Plague, whom d'ye mean?
+There's nobody, but Sannio, left at home.
+
+THRA. Lead you the van (<i>to GNATHO</i>); and I'll bring up the rear: Thence give the word to all.GNAT. What wisdom is!
+Now he has drawn up these in rank and file,
+His post behind secures him a retreat.
+
+THRA. Just so his line of battle Pyrrhus form'd.
+
+(<i>CHREMES and THAIS appear above at a window.</i>)
+
+CHREM. D'ye see, my Thais, what he is about?
+To bar and bolt the doors was good advice.
+
+THAIS. Tut, man! you fool, that seems so mighty brave, Is a mere coward. Do not be afraid!
+
+THRA. What were best? (<i>To GNATHO.</i>)
+
+GNAT. Troth, I wish you had a sling:
+That you from far in ambush might attack them!
+They'd soon fly then, I warrant you.
+
+THRA. But see!
+Thais appears.
+
+GNAT. Let's charge them then! Come on!THRA. Halt!--'Tis the part of a wise general
+To try all methods, ere he come to arms.
+How do you know, but Thais may obey
+My orders without force?
+
+GNAT. Oh, gracious Heavens!
+Of what advantage is it to be wise!
+I ne'er approach but I go wiser from you.
+
+THRA. Thais, first answer this! Did you, or no,
+When I presented you the Virgin, promise,
+To give yourself some days to me alone?
+
+THAIS. What then?
+
+THRA. Is that a question, when you durst
+To bring a rival to my face?
+
+THAIS. And what
+Business have you with him?
+
+THRA. ----And then stole off
+In company with him?
+
+THAIS. It was my pleasure.THRA. Therefore, restore my Pamphila; unless
+You choose to see her carried off by force.
+
+CHREM. She restore Pamphila to you? Or you
+Attempt to touch her, rascal?
+
+GNAT. Ah, beware!
+Peace, peace, young gentleman!
+
+THRA. (<i>to CHREM.</i>) What is't you mean?
+Shall I not touch my own?
+
+CHREM. Your own, you scoundrel?
+
+GNAT. Take heed! you know not whom you rail at thus.
+
+CHREM. Won't you be gone?--here, hark ye, Sir! d'ye know
+How matters stand with you?--if you attempt
+To raise a riot in this place to-day,
+I'll answer for it, that you shall remember
+This place, to-day, and me, your whole life-long.
+
+GNAT. I pity you: to make so great a man
+Your enemy!
+
+CHREM. Hence! or I'll break your head.GNAT. How's that, you hang-dog? Are you for that sport?
+
+THRA. Who are you, fellow?--what d'ye mean?--and what Have you to do with Pamphila?
+
+CHREM. I'll tell you,
+First, I declare, that she's a free-born woman!
+
+THRA. How?
+
+CHREM. And a citizen of Athens.
+
+THRA. Hui!
+
+CHREM. My sister.
+
+THRA. Impudence!
+
+CHREM. So, Captain, now
+I give you warning, offer her no force!
+--Thais, I'll now to Sophrona, the Nurse,
+And bring her here with me to see the proofs.
+
+THRA. And you prohibit me to touch my own?
+
+CHREM. Yes, I prohibit you.GNAT. D'ye hear? he owns
+The robbery himself. Isn't that sufficient?
+
+THRA. And, Thais, you maintain the same?
+
+THAIS. Ask those
+Who care to answer. (<i>Shuts down the window.</i>)
+
+<i>Manent THRASO and GNATHO, etc.</i>
+
+THRA. What shall we do now?
+
+GNAT. Why--e'en go back again!--This harlot here
+Will soon be with you to request forgiveness.
+
+THRA. D'ye think so?
+
+GNAT. Aye, most certainly. I know
+The ways of women.--When you will, they won't;
+And when you won't, they're dying for you.
+
+THRA. True.
+
+GNAT. Shall I disband the army?
+
+THRA. When you will.GNAT. Sanga, as well becomes a brave militia,
+Take to your houses and firesides again.
+
+SAN. My mind was like a sop i' th' pan, long since.
+
+GNAT. Good fellow!
+
+SAN. To the right about there! march!
+(<i>Exit, with GNATHO and THRASO at the head of the troops.</i>
+
+[Changes:
+
+<i>Harper</i>
+  THRA. Is that a question, when you durst
+  To bring a rival to my face?
+  THAIS. And what
+  Business have you with him?
+  THRA. ----And then stole off
+  In company with him?
+  THAIS. It was my pleasure.
+  THRA. Therefore, restore my Pamphila ...
+<i>Colman 1768</i>
+  THRA. Is that a question, when you brought
+  Your lover to affront me to my face?--
+  THAIS. What business have you with him?
+  THRA. ----And stole off  In company with him?
+  THAIS. It was my pleasure.
+  THRA. Therefore, restore me Pamphila ...]
+
+ACT THE FIFTH.
+
+<b>SCENE I.</b>
+
+<i>THAIS and PYTHIAS.</i>
+
+THAIS. Still, still, you, baggage, will you shuffle with me?
+--"I know--I don't know--he's gone off--I've heard----
+I was not present"--Be it what it may,
+Can't you inform me openly?--The Virgin,
+Her clothes all torn, in sullen silence weeps.
+The Eunuch's fled.--What means all this? and what
+Has happen'd?--Won't you answer me?
+
+PYTH. Alas!
+What can I answer you?--He was, they say,
+No Eunuch.
+
+THAIS. What then?
+
+PYTH. Chaerea.THAIS. Chaerea!
+What Chaerea?
+
+PYTH. Phaedria's younger brother.
+
+THAIS. How!
+What's that, hag?
+
+PYTH. I've discover'd it: I'm sure on't.
+
+THAIS. Why, what had he to do with us? or why
+Was he brought hither?
+
+PYTH. That I can not tell;
+Unless, as I suppose, for love of Pamphila.
+
+THAIS. Alas! I am undone; undone, indeed,
+If that, which you have told me now, be true.
+Is't that the girl bemoans thus?
+
+PYTH. I believe so.
+
+THAIS. How, careless wretch! was that the charge I gave you At my departure?
+
+PYTH. What could I do? She
+Was trusted, as you bade, to him alone.THAIS. Oh, jade, you set the wolf to keep the sheep
+--I'm quite asham'd to 've been so poorly bubbled.
+
+PYTH. Who comes here?--Hist! peace, madam, I beseech you!
+We're safe: we have the very man.
+    (<i>Seeing CHAEREA at a distance.</i>)
+
+THAIS. Where is he?
+
+PYTH. Here, on the left; d'ye see him, ma'am?
+
+THAIS. I see him.
+
+PYTH. Let him be seiz'd immediately!
+
+THAIS. And what
+Can we do to him, fool?
+
+PYTH. Do to him, say you?
+--See, what a saucy face the rogue has got!
+Ha'nt he?--and then how settled an assurance?<b>SCENE II.</b>
+
+<i>Enter CHAEREA.</i>
+
+CHAER. At Antipho's, as if for spite, there were
+His father and his mother both at home,
+So that I could by no means enter, but
+They must have seen me. Meanwhile, as I stood
+Before the door, came by an old acquaintance,
+At sight of whom I flew, with all my speed,
+Into a narrow, unfrequented alley;
+And thence into another, and another,
+Frighten'd and flurried as I scampered on,
+Lest any one should know me.--But is that
+Thais? 'Tis she herself. I'm all aground.
+What shall I do?--Pshaw! what have I to care?
+What can she do to me?
+
+THAIS. Let's up to him.
+Oh, Dorus! good Sir, welcome!--And so, Sirrah,
+You ran away.
+
+CHAER. Yes, madam!
+
+THAIS. And you think
+It was a clever trick?CHAER. No, madam!
+
+THAIS. Can you
+Believe that you shall go unpunish'd for it?
+
+CHAER. Forgive me this one fault! If I commit
+Another, kill me!
+
+THAIS. Do you dread my cruelty?
+
+CHAER. No, ma'am!
+
+THAIS. What then?
+
+CHAER. I was afraid, lest She
+Accuse me to you. (<i>Pointing to PYTHIAS.</i>)
+
+THAIS. Upon what account?
+
+CHAER. A little matter.
+
+PYTH. Rogue! a little matter?
+Is it so little, think you, to abuse
+A virgin, and a citizen!CHAER. I thought
+She was my fellow-servant.
+
+PYTH. Fellow-servant!
+I can scarce hold from flying at his hair.
+Monstrous! he's come to make his sport of us.
+
+THAIS. Away! you rave.
+
+PYTH. Why so? if I had done 't,
+I should have still been in the monster's debt;
+Particularly, as he owns himself
+Your servant.
+
+THAIS. Well--no more of this.--Oh, Chaerea,
+You've done a deed unworthy of yourself:
+For granting I, perhaps, might well deserve
+This injury, it was not honorable
+In you to do it.--As I live, I know not
+What counsel to pursue about this girl;
+You've so destroy'd my measures, that I can't
+Restore her, without blushing to her friends,
+Nor so deliver her, as I propos'd,
+To make them thank me for my kindness, Chaerea!CHAER. Henceforth, I hope, eternal peace shall be
+Betwixt us, Thais! Oft from things like these,
+And bad beginnings, warmest friendships rise.
+What if some God hath order'd this?
+
+THAIS. Indeed,
+I'll so interpret it, and wish it so.
+
+CHAER. I prithee do!--and be assured of this,
+That naught I did in scorn, but all in love.
+
+THAIS. I do believe it; and, on that account,
+More readily forgive you: for oh! Chaerea,
+I am not form'd of an ungentle nature,
+Nor am I now to learn the pow'r of love.
+
+CHAER. Now, Thais, by my life, I love thee too.
+
+PYTH. Then, by my troth, you must take care of him.
+
+CHAER. I durst not----
+
+PYTH. I don't mind a word you say.
+
+THAIS. Have done!CHAER. But now, in this one circumstance,
+Let me beseech you to assist me! I
+Commit myself entirely to your care:
+Invoke you, as my patroness; implore you.
+Perdition seize me, but I'll marry her!
+
+THAIS. But if your father----
+
+CHAER. What of him? I know
+He'll soon consent, provided it appears
+That she's a citizen.
+
+THAIS. If you will wait
+A little while, her brother will be here:
+He's gone to fetch the nurse that brought her up;
+And you shall witness the discovery.
+
+CHAER. I will remain then.
+
+THAIS. But, in the mean time,
+Had you not rather wait within, than here
+Before the door?
+
+CHAER. Much rather.PYTH. What the plague
+Are you about?
+
+THAIS. What now?
+
+PYTH. What now, indeed?
+Will you let him within your doors again?
+
+THAIS. Why not?
+
+PYTH. Remember that I prophesy,
+He'll make some fresh disturbance.
+
+THAIS. Prithee, peace!
+
+PYTH. It seems, you have not had sufficient proof
+Of his assurance.
+
+CHAER. I'll do no harm, Pythias!
+
+PYTH. I'll not believe it, Chaerea, till I see it.
+
+CHAER. But you shall keep me, Pythias!
+
+PYTH. No, not I.
+For, by my troth, I would trust nothing with you,Neither to keep, nor be kept by you.--Hence!
+Away!
+
+THAIS. Oh brave! the brother's here! (<i>Looking out.</i>)
+
+CHAER. Confusion!
+Let's in, dear Thais! I'd not have him see me
+Here in this dress.
+
+THAIS. Why so? Are you asham'd?
+
+CHAER. I am indeed.
+
+PYTH. Indeed! asham'd! oh dear!
+Think of the girl!
+
+THAIS. Go in! I'll follow you.
+Pythias, do you stay here to bring in Chremes.
+    (<i>Exeunt THAIS and CHAEREA.</i>
+
+[Changes:
+
+<i>Harper</i>
+  Lest any one should know me.--But is that
+  Thais? 'Tis she herself. I'm all aground.
+<i>Colman 1768</i>  Lest any one should know me in this habit.
+  But is that Thais? She. I'm all aground.
+
+<i>Harper</i>
+  It was a clever trick?
+  CHAER. No, madam!
+  THAIS. Can you
+  Believe that you shall go unpunish'd for it?
+<i>Colman 1768</i>
+  It was a clever trick, I warrant you?
+  CHAER. No, madam!
+  THAIS. Can you believe that you shall go unpunish'd?
+
+<i>Harper</i>
+  THAIS. Upon what account?
+<i>Colman 1768</i>
+  THAIS. Of what crime?
+
+<i>Harper</i>
+  PYTH. Why so? if I had done 't
+<i>Colman 1768</i>
+  PYTH. Not I. if I had done 't
+
+<i>Harper</i>
+  Let me beseech you to assist me! I
+  Commit myself entirely to your care:<i>Colman 1768</i>
+  Let me beseech you to assist me, Thais!
+  I trust myself entirely to your care:
+
+<i>Harper</i>
+  PYTH. I'll not believe it, Chaerea, till I see it.
+<i>Colman 1768</i>
+  PYTH. I'll not believe it, till I see it, Chaerea.]
+
+<b>SCENE III.</b>
+
+<i>PYTHIAS, CHREMES, SOPHRONA.</i>
+
+PYTH. What can I think of? what can I devise?
+Some trick now to be even with that rogue
+Who palm'd this young spark on us.
+
+CHREM. (<i>leading the nurse</i>). Nay, but stir
+Your stumps a little faster, nurse!
+
+SOPH. I come.
+
+CHREM. Aye, marry; but you don't come on a jot.
+
+PYTH. Well! have you shown the tokens to the nurse?CHREM. I have.
+
+PYTH. And pray what says she? Did she know them?
+
+CHREM. At first sight.
+
+PYTH. Oh brave news! I'm glad to hear it;
+For I've a kindness for the girl. Go in;
+My mistress is impatient for your coming.
+(<i>Exeunt CHREMES and SOPHRONA.</i>
+See, yonder's my good master Parmeno,
+Marching this way: How unconcern'd, forsooth,
+He stalks along!--But I've devis'd, I hope,
+The means to vex him sorely.--First I'll in,
+To know the truth of this discovery,
+And then return to terrify this rascal. (<i>Exit.</i><b>SCENE IV.</b>
+
+<i>Enter PARMENO.</i>
+
+PAR. I'm come to see what Chaerea has been doing:
+Who, if he has but manag'd matters well,
+Good Heav'ns, how much, and what sincere applause
+Shall Parmeno acquire!--For not to mention,
+In an intrigue so difficult as this,
+Of so much probable expense at least,
+Since with a griping harlot he'd have bargain'd,
+That I've procur'd for him the girl he lov'd,
+Without cost, charge, or trouble; t'other point,
+That, that I hold my master-piece, there think
+I've gain'd the prize, in showing a young spark
+The dispositions and the ways of harlots:
+Which having early learn'd, he'll ever shun.
+(<i>Enter PYTHIAS behind.</i>)
+When they're abroad, forsooth, there's none so clean,
+Nothing so trim, so elegant, as they;
+Nor, when they sup with a gallant, so nice!
+To see these very creatures' gluttony,
+Filth, poverty, and meanness, when at home;
+So eager after food, that they devour
+From yesterday's stale broth the coarse black bread:--
+All this to know is safety to young men.<b>SCENE V.</b>
+
+<i>PYTHIAS, PARMENO.</i>
+
+PYTH. (<i>behind</i>). 'Faith, Sirrah, I'll be handsomely revenged
+For all you've done and said. You shall not boast
+Your tricks on us without due punishment.
+  (<i>Aloud, coming forward.</i>)
+Oh Heav'ns! oh dreadful deed! oh hapless youth!
+Oh wicked Parmeno, that brought him here!
+
+PAR. What now?
+
+PYTH. It mov'd me so. I could not bear
+To see it: therefore I flew out o' doors.
+What an example will they make of him!
+
+PAR. Oh Jupiter! What tumult can this be?
+Am I undone, or no?--I'll e'en inquire.
+Pythias! (<i>going up.</i>) What now? what is't you rave about?
+Who's to be made this terrible example?
+
+PYTH. Who? most audacious monster! while you meant
+To play your tricks on us, you have destroyed
+The youth whom you brought hither for the Eunuch.PAR. How so? and what has happen'd? Prithee tell me!
+
+PYTH. Tell you? D'ye know the virgin, that was sent
+To-day to Thais, is a citizen?
+Her brother too a man of the first rank?
+
+PAR. I did not know it.
+
+PYTH. Aye, but so it seems.
+The poor young spark abus'd the girl; a thing
+No sooner known, than he, the furious brother----
+
+PAR. Did what?
+
+PYTH. First bound him hand and foot----
+
+PAR. How! bound him!
+
+PYTH. And now, though Thais begged him not to do it----
+
+PAR. How! what!
+
+PYTH. Moreover threatens, he will serve him
+After the manner of adulterers;
+A thing I ne'er saw done, and ne'er desire.PAR. How durst he offer at an act so monstrous?
+
+PYTH. And why so monstrous?
+
+PAR. Is it not most monstrous?
+Who ever saw a young man seiz'd and bound
+For rapes and lewdness in a house of harlots?
+
+PYTH. I don't know.
+
+PAR. Aye; but you must all know this.
+I tell you, and foretell you, that young spark
+Is my old master's son.
+
+PYTH. Indeed, is he?
+
+PAR. And let not Thais suffer any one
+To do him violence!--But why don't I
+Rush in myself?
+
+PYTH. Ah! take care, Parmeno,
+What you're about; lest you do him no good,
+And hurt yourself: for they imagine you,
+Whatever has been done, the cause of all.

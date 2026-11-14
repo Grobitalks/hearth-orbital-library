@@ -1,0 +1,2029 @@
+HOLB1	22695	7	560	80	700	150
+4	Prologue.
+7	Act The Firs, Scene I. SIMO, SOSIA, and SERVAN
+18	Act The Firs, Scene II. Enter DAVUS.
+22	Act The Firs, Scene III. Davus.
+25	Act The Firs, Scene V. PAMPHILUS, MYSIS behind
+31	Act The Seco, Scene I. Charinus, Byrrhia.
+33	Act The Seco, Scene II. Enter PAMPHILUS.
+36	Act The Seco, Scene III. Enter DAVUS hastily.
+42	Act The Seco, Scene IV. Pamphilus. Davus.
+47	Act The Seco, Scene VI. Enter BYRRHIA behind.
+50	Act The Seco, Scene VII. Manent SIMO and DAVUS
+55	Act The Thir, Scene II. Manent SIMO, DAVUS.
+57	Act The Thir, Scene IV.
+63	Act The Thir, Scene V. Enter CHREMES.
+67	Act The Thir, Scene VI. Enter DAVUS.
+71	Act The Thir, Scene VIII. Enter PAMPHILUS; DAV
+74	Act The Four, Scene I. CHARINUS alone.
+75	Act The Four, Scene II. To him PAMPHILUS and D
+80	Act The Four, Scene III. Enter MYSIS.
+86	Act The Four, Scene VI. Re-enter DAVUS with th
+89	Act The Four, Scene VII. Enter CHREMES going t
+96	Act The Four, Scene IX. Enter CRITO.
+99	Act The Fift, Scene I. Chremes, Simo.
+101	Act The Fift, Scene II. Enter DAVUS from GLYCE
+107	Act The Fift, Scene V. Enter PAMPHILUS.
+110	Act The Fift, Scene VI. Re-enter PAMPHILUS wit
+120	Act The Fift, Scene VIII. Enter DAVUS.
+124	Prologue.
+127	Act The Firs, Scene I. Enter PHAEDRIA and PARM
+129	Act The Firs, Scene II. Enter THAIS.
+139	Act The Seco, Scene I. Phaedria, Parmeno.
+143	Act The Seco, Scene II. Enter GNATHO leading P
+150	Act The Seco, Scene III. Enter CHAEREA; PARMEN
+162	Act The Seco, Scene III. Labeled SCENE IV in 1
+165	Act The Thir, Scene I. Enter THRASO and GNATHO
+173	Act The Thir, Scene II. Enter THAIS and PYTHIA
+180	Act The Thir, Scene III. CHREMES alone.
+184	Act The Thir, Scene V. ANTIPHO alone.
+186	Act The Thir, Scene VI. Enter CHAEREA, in the 
+194	Act The Four, Scene I. Enter DORIAS, with a Ca
+196	Act The Four, Scene II. Enter PHAEDRIA.
+197	Act The Four, Scene III. Enter PYTHIAS and DOR
+200	Act The Four, Scene IV.
+208	Act The Four, Scene VI. Enter CHREMES tipsy.
+210	Act The Four, Scene VII. Enter THAIS.
+215	Act The Four, Scene VIII. Enter THRASO, GNATHO
+223	Act The Fift, Scene I. THAIS and PYTHIAS.
+226	Act The Fift, Scene II. Enter CHAEREA.
+234	Act The Fift, Scene III. Pythias, Chremes, Sop
+236	Act The Fift, Scene IV. Enter PARMENO.
+237	Act The Fift, Scene V. Pythias, Parmeno.
+242	Act The Fift, Scene VI. Enter LACHES.
+246	Act The Fift, Scene VII. Enter PYTHIAS; PARMEN
+250	Act The Fift, Scene VIII. Enter THRASO, GNATHO
+252	Act The Fift, Scene IX. Enter CHAEREA at anoth
+255	Act The Fift, Scene X. Enter PHAEDRIA.
+264	Prologue.
+267	Act The Firs, Scene I. Chremes, Menedemus.
+276	Act The Firs, Scene II. CHREMES alone.
+277	Act The Firs, Scene III. Enter CLITIPHO, speak
+281	Act The Firs, Scene IV. CLITIPHO alone.
+283	Act The Seco, Scene I. Enter CLINIA.
+285	Act The Seco, Scene II. Enter SYRUS and DROMO,
+299	Act The Seco, Scene III. Enter BACCHIS, and AN
+303	Act The Thir, Scene II. Enter MENEDEMUS.
+311	Act The Thir, Scene III. Enter SYRUS at anothe
+317	Act The Thir, Scene V. Enter CLITIPHO, and CHR
+321	Act The Thir, Scene VI. Chremes, Syrus.
+325	Act The Thir, Scene VII. Enter at a distance S
+332	Act The Four, Scene I. SYRUS, alone.
+333	Act The Four, Scene II. Enter CLINIA at anothe
+338	Act The Four, Scene III.
+344	Act The Four, Scene V. After which, enter CHRE
+351	Act The Four, Scene VI. Enter CLITIPHO.
+356	Act The Four, Scene IX. Enter MENEDEMUS.
+362	Act The Fift, Scene II. Enter CHREMES.
+372	Act The Fift, Scene III. Re-enter MENEDEMUS, w
+375	Act The Fift, Scene IV. Manent CLITIPHO, SYRUS
+379	Act The Fift, Scene VI. Enter CHREMES, SOSTRAT
+382	Act The Fift, Scene VII. Enter CLITIPHO.
+384	Act The Fift, Scene VIII. Enter MENEDEMUS.
+388	Prologue.
+390	Act The Firs, Scene I. Enter MICIO.
+394	Act The Firs, Scene II. Enter DEMEA.
+401	Act The Firs, Scene III. MICIO alone.
+402	Act The Seco, Scene I.
+408	Act The Seco, Scene II. SANNIO alone.
+409	Act The Seco, Scene III. Enter SYRUS.
+413	Act The Seco, Scene IV. Enter CTESIPHO at anot
+415	Act The Seco, Scene V. Enter AESCHINUS.
+418	Act The Thir, Scene I. Sostrata, Canthara.
+420	Act The Thir, Scene II. Enter GETA hastily at 
+426	Act The Thir, Scene III. Enter DEMEA.
+427	Act The Thir, Scene IV. Enter SYRUS at another
+437	Act The Thir, Scene VI. Enter HEGIO, GETA conv
+444	Act The Four, Scene I. Ctesipho, Syrus.
+447	Act The Four, Scene II. Enter DEMEA at another
+455	Act The Four, Scene IV. Enter MICIO and HEGIO.
+457	Act The Four, Scene V. AESCHINUS alone.
+459	Act The Four, Scene VI. Enter MICIO.
+469	Act The Four, Scene IX. Enter MICIO.
+475	Act The Four, Scene XI. Enter at a distance SY
+478	Act The Four, Scene XIV. Enter MICIO from SOST
+484	Act The Fift, Scene I. DEMEA alone.
+488	Act The Fift, Scene IV. Enter AESCHINUS.
+490	Act The Fift, Scene V. Enter MICIO.
+496	Act The Fift, Scene VI. To them SYRUS.
+501	Prologue.
+505	Act The Firs, Scene I. Philotis, Syra.
+506	Act The Firs, Scene II. Enter PARMENO.
+516	Act The Seco, Scene I. Laches, Sostrata.
+520	Act The Seco, Scene II. Enter PHIDIPPUS.
+523	Act The Seco, Scene III. Manet SOSTRATA.
+524	Act The Thir, Scene I. Enter PAMPHILUS and PAR
+529	Act The Thir, Scene III. Enter SOSTRATA.
+532	Act The Thir, Scene V. PAMPHILUS alone.
+536	Act The Thir, Scene VI.
+540	Act The Thir, Scene VIII. Enter at a distance 
+544	Act The Thir, Scene IX. Manent LACHES and PHID
+547	Act The Four, Scene II. Enter PHIDIPPUS.
+552	Act The Four, Scene IV. Sostrata, Pamphilus.
+555	Act The Four, Scene V. Enter LACHES.
+558	Act The Four, Scene VI. Enter PHIDIPPUS.
+564	Act The Four, Scene VII. Manent PHIDIPPUS, LAC
+566	Act The Four, Scene VIII. Enter BACCHIS attend
+570	Act The Four, Scene IX. Enter PHIDIPPUS and a 
+576	Act The Fift, Scene III. BACCHIS alone.
+578	Act The Fift, Scene IV. Enter at a distance PA
+583	Prologue.
+586	Act The Firs, Scene I. DAVUS alone.
+587	Act The Firs, Scene II. Enter GETA.
+596	Act The Firs, Scene III. Antipho, Phaedria.
+598	Act The Firs, Scene IV. Enter at a distance _G
+605	Act The Firs, Scene VI. Enter DEMIPHO at anoth
+613	Act The Seco, Scene I. Phormio, Geta.
+617	Act The Seco, Scene II.
+626	Act The Seco, Scene III.
+629	Act The Seco, Scene IV. Enter at a distance AN
+632	Act The Seco, Scene V. Enter, from Dorio's, DO
+639	Act The Seco, Scene VI. Phaedria, Antipho, Get
+644	Act The Thir, Scene I. Enter DEMIPHO and CHREM
+646	Act The Thir, Scene II. Enter, at another part
+647	Act The Thir, Scene III. Enter behind, ANTIPHO
+655	Act The Thir, Scene IV. Manent ANTIPHO, GETA.
+658	Act The Thir, Scene V. Re-enter DEMIPHO and CH
+660	Act The Thir, Scene VI. Enter SOPHRONA at a di
+665	Act The Four, Scene I. Demipho, Geta.
+667	Act The Four, Scene III. Enter DEMIPHO and NAU
+669	Act The Four, Scene IV. Enter CHREMES, hastily
+675	Act The Four, Scene VII. Enter, at a distance,
+PAM. Although my mind was in suspense before,
+My doubts all vanish now. I'll ne'er recall her,
+Since she brings home with her another's child. (<i>Aside.</i>)
+
+LACH. There is no room for choice now, Pamphilus.
+
+PAM. Confusion! (<i>Aside.</i>)
+
+LACH. We've oft wish'd to see the day
+When you should have a child to call you father.
+That day's now come. The Gods be thank'd!
+
+PAM. Undone! (<i>Aside.</i>)
+
+LACH. Recall your wife, and don't oppose my will.
+
+PAM. If she had wish'd for children by me, father,
+Or to remain my wife, I'm very sure
+She never would have hid this matter from me:
+But now I see her heart divorc'd from me,
+And think we never can agree hereafter,
+Wherefore should I recall her?
+
+LACH. A young woman
+Did as her mother had persuaded her.
+Is that so wonderful? and do you thinkTo find a woman without any fault?
+--Or is't because the <i>men</i> are ne'er to blame? (<i>Ironically.</i>)
+
+PHID. Consider with yourselves then, gentlemen,
+Whether you'll part with her, or call her home.
+What my wife does, I can not help, you know.
+Settle it as you please, you've my consent,
+But for the child, what shall be done with him?
+
+LACH. A pretty question truly! come what may,
+Send his own bantling home to him of course,
+That we may educate him.
+
+PAM. When his own
+Father abandons him, I educate him?
+
+LACH. What said you? how! not educate him, say you?
+Shall we expose him rather, Pamphilus?
+What madness is all this?--My breath and blood!
+I can contain no longer. You oblige me
+To speak, against my will, before Phidippus:
+Think you I'm ignorant whence flow those tears?
+Or why you're thus disorder'd and distress'd?
+First, when you gave as a pretense, _you could not
+Recall your wife from reverence to your mother_,
+She promis'd to retire into the country.But now, since that excuse is taken from you,
+You've made <i>her private lying-in</i> another.
+You are mistaken if you think me blind
+To your intentions--That you might at last
+Bring home your stray affections to your wife,
+How long a time to wean you from your mistress
+Did I allow? your wild expense upon her
+How patiently I bore? I press'd, entreated,
+That you would take a wife. 'Twas time, I said.
+At my repeated instances, you married,
+And, as in duty bound to do, complied:
+But now your heart is gone abroad again
+After your mistress, whom to gratify,
+You throw this wanton insult on your wife.
+For I can plainly see you are relaps'd
+Into your former life again.
+
+PAM. Me?
+
+LACH. You.
+And 'tis base in you to invent false causes
+Of quarrel with your wife, that you may live
+In quiet with your mistress, having put
+This witness from you. This your wife perceiv'd.
+For was there any other living reason
+Wherefore she should depart from you?PHID. He's right,
+That was the very thing.
+
+PAM. I'll take my oath
+'Twas none of those that you have mention'd.
+
+LACH. Ah!
+Recall your wife: or tell me why you will not.
+
+PAM. 'Tis not convenient now.
+
+LACH. Take home the child then;
+For <i>he</i> at least is not in fault. I'll see
+About the mother afterward.
+
+PAM. (<i>to himself</i>). Ev'ry way
+I am a wretch, nor know I what to do:
+My father has me in the toils, and I,
+By struggling to get loose, am more entangled.
+I'll hence, since present I shall profit little.
+For I believe they'll hardly educate
+The child against my will; especially
+Seeing my step-mother will second me. (<i>Exit.</i>
+
+[Changes:<i>Harper</i>
+  How much I think she was to blame.
+<i>Colman 1768</i>
+  How very much I think she was to blame.]
+
+<b>SCENE VII.</b>
+
+<i>Manent PHIDIPPUS, LACHES.</i>
+
+LACH. Going? how's that? and give me no plain answer! --D'ye think he's in his senses?--Well--send home The child to me, Phidippus. I'll take care on't.
+
+PHID. I will.--I can not wonder that my wife
+Took this so ill. Women are passionate,
+And can't away with such affronts as these.
+This was their quarrel: nay she told me so,
+Though before him I did not care to speak on't:
+Nor did I credit it at first; but now
+'Tis evident, and I can plainly see
+He has no stomach to a wife.
+
+LACH. Phidippus,
+How shall I act? What's your advice?
+
+PHID. How act?
+I think 'twere best to seek this wench, his mistress.Let us expostulate the matter with her,
+Speak to her roundly, nay, e'en threaten her,
+If she has aught to do with him hereafter.
+
+LACH. I'll follow your advice.--Ho, boy! (<i>Enter a boy</i>) run over To Bacchis. Tell her to come forth to me. (<i>Exit boy.</i> --I must beseech you also to continue Your kind assistance to me in this business.
+
+PHID. Ah, Laches! I have told you all along.
+And I repeat it now, that 'tis my wish
+To render our alliance firm and lasting,
+If possible, as I have hopes it will be.
+--But would you have me present at your conference
+With Bacchis?
+
+LACH. No; go, seek the child a nurse. (<i>Exit PHIDIPPUS.</i><b>SCENE VIII.</b>
+
+<i>Enter BACCHIS attended by her Women.</i>
+
+BACCH. (<i>to herself</i>). 'Tis not for nothing Laches wants to see me; And, or I'm much deceiv'd, I guess the cause.
+
+LACH. (<i>to himself</i>). I must take care my anger don't transport me
+Beyond the bounds of prudence, which may hinder
+My gaining my design on her, and urge me
+To do what I may afterward repent.
+I'll to her.-- (<i>Going up.</i>) Save you, Bacchis!
+
+BACCH. Save you, Laches!
+
+LACH. Bacchis, I do not doubt but you're surpris'd
+That I should send the boy to call you forth.
+
+BACCH. Aye, and I'm fearful too, when I reflect
+Both who and what I am: lest my vocation
+Should prejudice me in your good opinion.
+My conduct I can fully justify.
+
+LACH. If you speak truth, you're in no danger, woman.
+For I'm arriv'd at that age when a trespass
+Would not be easily forgiven in me.Wherefore I study to proceed with caution,
+And to do nothing rashly. If you act,
+And will continue to act honestly,
+It were ungenerous to do you wrong,
+And seeing you deserve it not, unjust.
+
+BACCH. Truly, this conduct asks my highest thanks;
+For he who does the wrong, and then asks pardon,
+Makes but a sorry reparation for it.
+But what's your pleasure?
+
+LACH. You receive the visits
+Of my son Pamphilus----
+
+BACCH. Ah!----
+
+LACH. Let me speak.
+Before he married I endur'd your love.
+--Stay! I've not finish'd all I have to say.----
+He is now married. You then, while 'tis time,
+Seek out another and more constant friend.
+For he will not be fond of you forever,
+Nor you, good faith, forever in your bloom.
+
+BACCH. Who tells you that I still receive the visits Of Pamphilus?LACH. His step-mother.
+
+BACCH. I?
+
+LACH. You.
+And therefore has withdrawn her daughter: therefore
+Meant secretly to kill the new-born child.
+
+BACCH. Did I know any thing, to gain your credit,
+More sacred than an oath, I'd use it, Laches,
+In solemn protestation to assure you
+That I have had no commerce with your son
+Since he was married.
+
+LACH. Good girl! but dy'e know
+What I would farther have you do?
+
+BACCH. Inform me.
+
+LACH. Go to the women here, and offer them
+The same oath. Satisfy their minds, and clear
+Yourself from all reproach in this.
+
+BACCH. I'll do't;
+Although I'm sure no other of my calling
+Would show herself before a married womanUpon the same occasion.--But it hurts me
+To see your son suspected on false grounds;
+And that, to those who owe him better thoughts,
+His conduct should seem light. For he deserves
+All my best offices.
+
+LACH. Your conversation has much wrought upon me,
+Gain'd my good-will, and alter'd my opinion.
+For not the women only thought thus of you,
+But I believ'd it too. Now therefore, since
+I've found you better than my expectation,
+Prove still the same, and make my friendship sure.
+If otherwise--But I'll contain myself. I'll not
+Say any thing severe.--But I advise you,
+Rather experience what a friend I am,
+Than what an enemy.
+
+BACCH. I'll do my best.
+
+[Changes:
+
+<i>Harper</i>
+  LACH. If you speak truth, you're in no danger, woman.
+<i>Colman 1768</i>
+  LACH. Speak but the truth, you're in no danger, woman.]<b>SCENE IX.</b>
+
+<i>Enter PHIDIPPUS and a Nurse.</i>
+
+PHID. (<i>to the Nurse</i>). Nay, you shall want for nothing at my house;
+I'll give you all that's needful in abundance;
+But when you've eat and drank your fill yourself,
+Take care to satisfy the infant too.
+
+LACH. I see the father of Philumena
+Coming this way. He brings the child a nurse.
+--Phidippus, Bacchis swears most solemnly----
+
+PHID. Is this she?
+
+LACH. Aye.
+
+PHID. They never mind the Gods,
+Nor do I think the Gods mind them.
+
+BACCH. Here are
+My waiting-women: take them, and extort
+By any kind of torment the truth from them.
+--Our present business is, I take it, this:
+That I should win the wife of Pamphilus
+To return home; which so I but effect,I sha'n't regret the same of having done
+What others of my calling would avoid.
+
+LACH. Phidippus, we've discover'd that in fact
+We both suspected our wives wrongfully.
+Let's now try her: for if your wife perceives
+Her own suspicions also are unjust,
+She'll drop her anger. If my son's offended
+Because his wife conceal'd her labor from him,
+That's but a trifle; he'll be soon appeas'd.
+--And truly I see nothing in this matter
+That need occasion a divorce.
+
+PHID. 'Fore Heaven,
+I wish that all may end well.
+
+LACH. Here she is:
+Examine her; she'll give you satisfaction.
+
+PHID. What needs all this to Me! You know my mind
+Already, Laches: do but make them easy.
+
+LACH. Bacchis, be sure you keep your promise with me.
+
+BACCH. Shall I go in then for that purpose?LACH. Aye.
+Go in; remove their doubts, and satisfy them.
+
+BACCH. I will; although I'm very sure my presence
+Will be unwelcome to them; for a wife,
+When parted from her husband, to a mistress
+Is a sure enemy.
+
+LACH. They'll be your friends,
+When once they know the reason of your coming.
+
+PHID. Aye, aye, they'll be your friends, I promise you, When they once learn your errand; for you'll free Them from mistake, yourself from all suspicion.
+
+BACCH. I'm cover'd with confusion. I'm asham'd
+To see Philumena.-- (<i>To her women.</i>) You two in after me.
+        (<i>Exeunt PHIDIPPUS, BACCHIS, etc.</i>
+
+<i>LACHES alone.</i>
+
+What is there that could please me more than this,
+That Bacchis, without any loss, should gain
+Favor from them, and do me service too?
+For if she really has withdrawn herself
+From Pamphilus, it will increase, she knows,
+Her reputation, interest, and honor:Since by this generous act she will at once
+Oblige my son, and make us all her friends. (<i>Exit.</i>
+
+ACT THE FIFTH.
+
+SCENE I.
+
+<i>PARMENO alone.</i>
+
+I' faith my master holds my labor cheap,
+To send me to the Citadel for nothing,
+Where I have waited the whole day in vain
+For his Myconian, Callidemides.
+There was I sitting, gaping like a fool,
+And running up, if any one appear'd,
+--"Are you, Sir, a Myconian?"--"No, not I."----
+--"But your name's Callidemides?"--"Not it."----
+"And have not you a guest here of the name
+Of Pamphilus?"--All answer'd, No.
+In short, I don't believe there's such a man.
+At last I grew asham'd, and so sneak'd off.
+--But is't not Bacchis that I see come forth
+From our new kinsman? What can she do there?
+
+[Changes:<i>Harper</i>
+  Of Pamphilus?"--All answer'd, No.
+<i>Colman 1768</i>
+  Of Pamphilus?"--No--no--All No.]
+
+SCENE II.
+
+<i>Enter BACCHIS.</i>
+
+BACCH. Oh Parmeno, I'm glad I've met with you.
+Run quick to Pamphilus.
+
+PAR. On what account?
+
+BACCH. Tell him that I desire he'd come.
+
+PAR. To you?
+
+BACCH. No; to Philumena.
+
+PAR. Why? what's the matter?
+
+BACCH. Nothing to you; so ask no questions.
+
+PAR. Must I
+Say nothing else?BACCH. Yes; tell him too,
+That Myrrhina acknowledges the ring,
+Which formerly he gave me, as her daughter's.
+
+PAR. I understand you. But is that all?
+
+BACCH. All.
+He'll come the moment that you tell him that.
+What! do you loiter?
+
+PAR. No, i' faith, not I.
+I have not had it in my pow'r, I've been
+So bandied to and fro, sent here and there,
+Trotting, and running up and down all day. (<i>Exit.</i><b>SCENE III.</b>
+
+<i>BACCHIS alone.</i>
+
+What joy have I procur'd to Pamphilus
+By coming here to-day! what blessings brought him!
+And from how many sorrows rescued him!
+His son, by his and their means nearly lost,
+I've sav'd; a wife he meant to put away,
+I have restor'd; and from the strong suspicions
+Of Laches and Phidippus set him free.
+--Of all these things the ring has been the cause.
+For I remember, near ten months ago,
+That he came running home to me one evening,
+Breathless, alone, and much inflam'd with wine,
+Bringing this ring. I was alarm'd at it.
+"Prithee, my dearest Pamphilus, said I,
+Whence comes all this confusion? whence this ring?
+Tell me, my love."--He put me off at first:
+Perceiving this, it made me apprehend
+Something of serious import, and I urg'd him
+More earnestly to tell me.--He confess'd
+That, as he came along, he had committed
+A rape upon a virgin--whom he knew not----
+And as she struggled, forc'd from her that ring:
+Which Myrrhina now seeing on my finger,Immediately acknowledg'd, and inquir'd
+How I came by it. I told all this story:
+Whence 'twas discover'd that Philumena
+Was she who had been ravish'd, and the child
+Conceiv'd from that encounter.--That I've been
+The instrument of all these joys I'm glad,
+Though other courtesans would not be so;
+Nor is it for our profit and advantage
+That lovers should be happy in their marriage.
+But never will I, for my calling's sake,
+Suffer ingratitude to taint my mind.
+I found him, while occasion gave him leave,
+Kind, pleasant, and good-humor'd: and this marriage
+Happen'd unluckily, I must confess.
+Yet I did nothing to estrange his love;
+And since I have receiv'd much kindness from him,
+'Tis fit I should endure this one affliction.
+
+[Changes:
+
+<i>Harper</i>
+  I've sav'd; a wife he meant to put away
+<i>Colman 1768</i>
+  I sav'd; a wife he meant to put away]<b>SCENE IV.</b>
+
+<i>Enter at a distance PAMPHILUS and PARMENO.</i>
+
+PAM. Be sure you prove this to me, Parmeno;
+Prithee, be sure on't. Do not bubble me
+With false and short-liv'd joy.
+
+PAR. 'Tis even so.
+
+PAM. For certain?
+
+PAR. Aye, for certain.
+
+PAM. I'm in heaven,
+If this be so.
+
+PAR. You'll find it very true.
+
+PAM. Hold, I beseech you.--I'm afraid I think
+One thing, while you relate another.
+
+PAR. Well?
+
+PAM. You said, I think, "that Myrrhina discover'd
+The ring on Bacchis' finger was her own."PAR. She did.
+
+PAM. "The same I gave her formerly.
+--And Bacchis bade you run and tell me this."
+Is it not so?
+
+PAR. I tell you, Sir, it is.
+
+PAM. Who is more fortunate, more bless'd than I?
+--What shall I give you for this news? what? what?
+I don't know.
+
+PAR. But I know.
+
+PAM. What?
+
+PAR. Just nothing.
+For I see nothing of advantage to you,
+Or in the message, or myself.
+
+PAM. Shall I
+Permit you to go unrewarded; you,
+Who have restor'd me ev'n from death to life?
+Ah, Parmeno, d'ye think me so ungrateful?
+--But yonder's Bacchis standing at the door.
+She waits for me, I fancy. I'll go to her.BACCH. (<i>seeing him</i>). Pamphilus, save you.
+
+PAM. Bacchis! my dear Bacchis!
+My guardian! my protectress!
+
+BACCH. All is well:
+And I'm o'erjoy'd at it.
+
+PAM. Your actions speak it.
+You're still the charming girl I ever found you.
+Your presence, company, and conversation,
+Come where you will, bring joy and pleasure with them.
+
+BACCH. And you, in faith, are still the same as ever, The sweetest, most engaging man on earth.
+
+PAM. Ha! ha! ha! that speech from you, dear Bacchis?
+
+BACCH. You lov'd your wife with reason, Pamphilus:
+Never that I remember, did I see her
+Before to-day; and she's a charming woman.
+
+PAM. Speak truth.
+
+BACCH. So Heaven help me, Pamphilus!PAM. Say, have you told my father any part
+Of this tale?
+
+BACCH. Not a word.
+
+PAM. Nor is there need.
+Let all be hush! I would not have it here,
+As in a comedy, where every thing
+Is known to every body. Here those persons
+Whom it concerns already know it; they,
+Who 'twere not meet should know it, never shall.
+
+BACCH. I promise you it may with ease be hid.
+Myrrhina told Phidippus that my oath
+Convinc'd her, and she held you clear.
+
+PAM. Good! good!
+All will be well, and all, I hope, end well.
+
+PAR. May I know, Sir, what good I've done to-day?
+And what's the meaning of your conversation?
+
+PAM. No.
+
+PAR. I suspect, however.--"I restore him
+From death to life"--which way?----PAM. Oh, Parmeno,
+You can't conceive the good you've done to-day;
+From what distress you have deliver'd me.
+
+PAR. Ah, but I know, and did it with design.
+
+PAM. Oh, I'm convinced of that. (<i>Ironically.</i>)
+
+PAR. Did Parmeno
+Ever let slip an opportunity
+Of doing what he ought, Sir?
+
+PAM. Parmeno,
+In after me!
+
+PAR. I follow.--By my troth,
+I've done more good to-day, without design,
+Than ever with design in all my life.----
+Clap your hands!
+
+* * * * *
+    * * * *
+
+PHORMIO.
+
+PERSONS REPRESENTED.PROLOGUE.
+DEMIPHO.
+CHREMES.
+ANTIPHO.
+PHAEDRIA.
+CRATINUS.
+CRITO.
+HEGIO.
+PHORMIO.
+DORIO.
+GETA.
+DAVUS, <i>and other Servants.</i>
+
+NAUSISTRATA.
+SOPHRONA.
+
+SCENE, ATHENS.
+
+<b>PROLOGUE.</b>
+
+The Old Bard finding it impossible
+To draw our Poet from the love of verse,
+And bury him in indolence, attempts
+By calumny to scare him from the stage;
+Pretending that in all his former plays
+The characters are low, and mean the style;Because he ne'er describ'd a mad-brain'd youth,
+Who in his fits of frenzy thought he saw
+A hind, the dogs in full cry after her;
+Her too imploring and beseeching him
+To give her aid.--But did he understand
+That, when the piece was first produc'd, it ow'd
+More to the actor than himself its safety,
+He would not be thus bold to give offense.
+--But if there's any one who says, or thinks,
+"That had not the Old Bard assail'd him first,
+Our Poet could not have devis'd a Prologue,
+Having no matter for abuse;"--let such
+Receive for answer, "that although the prize
+To all advent'rers is held out in common,
+The Veteran Poet meant to drive our Bard
+From study into want: <i>He</i> therefore chose
+To answer, though he would not first offend.
+And had his adversary but have prov'd
+A generous rival, he had had due praise;
+Let him then bear these censures, and reflect
+Of his own slanders 'tis the due return.
+But henceforth I shall cease to speak of him,
+Although he ceases not himself to rail."
+But now what I'd request of you, attend:
+To-day I bring a new play, which the GreeksCall Epidicazomenos; the Latins,
+From the chief character, name Phormio:
+Phormio, whom you will find a parasite,
+And the chief engine of the plot.--And now,
+If to our Poet you are well inclin'd,
+Give ear; be favorable; and be silent!
+Let us not meet the same ill fortune now
+That we before encounter'd, when our troop
+Was by a tumult driven from their place;
+To which the actor's merit, seconded
+By your good-will and candor, has restor'd us.
+
+ACT THE FIRST.<b>SCENE I.</b>
+
+<i>DAVUS alone.</i>
+
+Geta, my worthy friend and countryman,
+Came to me yesterday: for some time past
+I've ow'd him some small balance of account:
+This he desir'd I would make up: I have;
+And brought it with me: for his master's son,
+I am inform'd, has lately got a wife:
+So I suppose this sum is scrap'd together
+For a bride-gift. Alack, how hard it is
+That he, who is already poor, should still
+Throw in his mite to swell the rich man's heap!
+What he scarce, ounce by ounce, from short allowance,
+Sorely defrauding his own appetite,
+Has spar'd, poor wretch! shall she sweep all at once,
+Unheeding with what labor it was got?
+Geta, moreover, shall be struck for more;
+Another gift, when madam's brought to bed;
+Another too, when master's birthday's kept,
+And they initiate him.----All this mamma
+Shall carry off, the bantling her excuse.
+But is that Geta?<b>SCENE II.</b>
+
+<i>Enter GETA.</i>
+
+GETA (<i>at entering.</i>) If a red-hair'd man
+Inquire for me----
+
+DAVUS. No more! he's here.
+
+GETA. Oh, Davus!
+The very man that I was going after.
+
+DAVUS. Here, take this! (<i>Gives a purse.</i>) 'Tis all told: you'll find it right; The sum I ow'd you.
+
+GETA. Honest, worthy Davus!
+I thank you for your punctuality.
+
+DAVUS. And well you may, as men and times go now,
+Things, by my troth, are come to such a pass,
+If a man pays you what he owes, you're much
+Beholden to him.--But, pray, why so sad?
+
+GETA. I?--You can scarce imagine in what dread.
+What danger I am in.DAVUS. How so?
+
+GETA. I'll tell you,
+So you will keep it secret.
+
+DAVUS. Away, fool!
+The man whose faith in money you have tried,
+D'ye fear to trust with words?--And to what end
+Should I deceive you?
+
+GETA. List, then!
+
+DAVUS. I'm all ear.
+
+GETA. D'ye know our old man's elder brother, Chremes?
+
+DAVUS. Know him? aye, sure.
+
+GETA. You do?--And his son Phaedria?
+
+DAVUS. As well as I know you.
+
+GETA. It so fell out,
+Both the old men were forc'd to journey forth
+At the same season. He to Lemnos, ours
+Into Cilicia, to an old acquaintanceWho had decoy'd the old curmudgeon thither
+By wheedling letters, almost promising
+Mountains of gold.
+
+DAVUS. To one that had so much
+More than enough already?
+
+GETA. Prithee, peace!
+Money's his passion.
+
+DAVUS. Oh, would I had been
+A man of fortune, I!
+
+GETA. At their departure,
+The two old gentlemen appointed me
+A kind of governor to both their sons.
+
+DAVUS. A hard task, Geta!
+
+GETA. Troth, I found it so.
+My angry Genius for my sins ordain'd it.
+At first I took upon me to oppose:
+In short, while I was trusty to th' old man,
+The young one made my shoulders answer for it.DAVUS. So I suppose: for what a foolish task
+To kick against the pricks!
+
+GETA. I then resolv'd
+To give them their own way in every thing.
+
+DAVUS. Aye, then you made your market.
+
+GETA. Our young spark
+Play'd no mad pranks at first: but Phaedria
+Got him immediately a music-girl:
+Fond of her to distraction! she belong'd
+To a most avaricious, sordid pimp;
+Nor had we aught to give;--th' old gentleman
+Had taken care of that. Naught else remain'd,
+Except to feed his eyes, to follow her,
+To lead her out to school, and hand her home.
+We too, for lack of other business, gave
+Our time to Phaedria. Opposite the school,
+Whither she went to take her lessons, stood
+A barber's shop, wherein most commonly
+We waited her return. Hither one day
+Came a young man in tears: we were amaz'd,
+And ask'd the cause. Never (said he, and wept)
+Did I suppose the weight of poverty
+A load so sad, <i>so</i> insupportable,As it appear'd but now.--I saw but now,
+Not far from hence, a miserable virgin
+Lamenting her dead mother. Near the corpse
+She sat; nor friend, nor kindred, nor acquaintance,
+Except one poor old woman, was there near
+To aid the funeral. I pitied her:
+Her beauty, too, was exquisite.--In short,
+He mov'd us all: and Antipho at once
+Cried, "Shall we go and visit her?"--Why, aye,
+"I think so," said the other; "let us go!"
+"Conduct us, if you please."--We went, arriv'd.
+And saw her.--Beautiful she was indeed!
+More justly to be reckon'd so, for she
+Had no additions to set off her beauty.
+Her hair dishevel'd, barefoot, woe-begone,
+In tears, and miserably clad: that if
+The life and soul of beauty had not dwelt
+Within her very form, all these together
+Must have extinguish'd it.--The spark, possess'd
+Already with the music-girl, just cried,
+"She's well enough."--But our young gentleman----
+
+DAVUS. Fell, I suppose, in love.
+
+GETA. In love, indeed.
+But mark the end! next day, away he goesTo the old woman straight, beseeching her
+To let him have the girl.--"Not she, indeed!
+Nor was it like a gentleman," she said,
+"For him to think on't: She's a citizen,
+An honest girl, and born of honest parents:----
+If he would marry her indeed, by law
+He might do <i>that</i>; on no account, aught else."
+--Our spark, distracted, knew not what to do:
+At once he long'd to marry her, at once
+Dreaded his absent father.
+
+DAVUS. Would not he,
+Had he return'd, have giv'n consent?
+
+GETA. To wed
+A girl of neither family nor fortune?
+Never.
+
+DAVUS. What then?
+
+GETA. What then! There is a parasite,
+One Phormio, a bold, enterprising fellow,
+Who--all the Gods confound him!----
+
+DAVUS. What did he?GETA. Gave us the following counsel.--"There's a law
+That orphan Girls should wed their next of kin,
+Which law obliges too their next of kin
+To marry them."--I'll say that you're her kinsman,
+And sue a writ against you. I'll pretend
+To be her father's friend, and bring the cause
+Before the judges. Who her father was,
+Her mother who, and how she's your relation,
+All this sham evidence I'll forge; by which
+The cause will turn entirely in my favor.
+You shall disprove no tittle of the charge;
+So I succeed.--Your father will return;
+Prosecute me;--what then?--The girl's our own."
+
+DAVUS. A pleasant piece of impudence!
+
+GETA. It pleas'd
+Our spark at least: he put it into practice;
+Came into court; and he was cast; and married.
+
+DAVUS. How say you?
+
+GETA. Just as you have heard.
+
+DAVUS. Oh Geta,
+What will become of you?GETA. I don't know, faith.
+But only this I know, what'er chance brings,
+I'll patiently endure.
+
+DAVUS. Why, that's well said,
+And like a man.
+
+GETA. All my dependence is
+Upon myself.
+
+DAVUS. And that's the best.
+
+GETA. I might
+Beg one indeed to intercede for me,
+Who may plead thus--"Nay, pardon him this once!
+But if he fails again, I've not a word
+To say for him."--And well if he don't add,
+"When I go hence e'en hang him!"
+
+DAVUS. What of him,
+Gentleman-usher to the music-girl?
+How goes he on?
+
+GETA. So, so!DAVUS. He has not much
+To give, perhaps.
+
+GETA. Just nothing, but mere hope.
+
+DAVUS. His father too, is he return'd?
+
+GETA. Not yet.
+
+DAVUS. Nor your old man, when do you look for him?
+
+GETA. I don't know certainly: but I have heard
+That there's a letter from him come to port,
+Which I am going for.
+
+DAVUS. Would you aught else
+With me, good Geta?
+
+GETA. Nothing, but farewell! (<i>Exit DAVUS.</i> Ho, boy! what, nobody at home! (<i>Enter boy.</i>) Take this And give it Dorcium. (<i>Gives the Purse, and Exit.</i>)
+
+[Changes:
+
+To marry them."
+<i>close quote missing in Harper text</i>  You shall disprove no tittle of the charge
+<i>Harper text reads "no title"</i>]
+
+<b>SCENE III.</b>
+
+<i>ANTIPHO, PHAEDRIA.</i>
+
+ANT. Is it come to this?
+My father, Phaedria!--my best friend!--That I
+Should tremble, when I think of his return!
+When, had I not been inconsiderate,
+I, as 'tis meet, might have expected him.
+
+PHAED. What now?
+
+ANT. Is that a question? and from you?
+Who know the atrocious fault I have committed?
+Oh, that it ne'er had enter'd Phormio's mind
+To give such counsel! nor to urge me on,
+In the extravagance of blind desire,
+To this rash act, the source of my misfortunes!
+I should not have possess'd her: that indeed
+Had made me wretched some few days.--But then
+This constant anguish had not torn my mind.----
+
+PHAED. I hear you.ANT. --While each moment I expect
+His coming to divorce me.
+
+PHAED. Other men,
+For lack of what they love, are miserable;
+Abundance is your grievance. You're too rich
+A lover, Antipho! For your condition
+Is to be wish'd and pray'd for. Now, by Heaven,
+Might I, so long as you have done, enjoy
+My love, it were bought cheaply with my life.
+How hard my lot, unsatisfied, unbless'd!
+How happy yours, in full possession!--One
+Of lib'ral birth, ingenuous disposition,
+And honest fame, without expense, you've got:
+The wife, whom you desir'd!--in all things bless'd,
+But want the disposition to believe so.
+Had you, like me, a scoundrel pimp to deal with,
+Then you'd perceive--But sure 'tis in our nature
+Never to be contented.
+
+ANT. Now to me,
+Phaedria, 'tis you appear the happy man.
+Still quite at large, free to consider still,
+To keep, pursue, or quit her: I, alas!
+Have so entangled and perplex'd myself,
+That I can neither keep nor let her go.--What now? isn't that our Geta, whom I see
+Running this way?--'Tis he himself-- Ah me,
+How do I fear what news he brings!
+
+<b>SCENE IV.</b>
+
+_Enter at a distance _GETA, <i>running.</i>
+
+GETA. Confusion!
+A quick thought, Geta, or you're quite undone,
+So many evils take you unprepar'd;
+Which I know neither how to shun nor how
+To extricate myself: for this bold stroke
+Of ours can't long be hid.
+
+ANT. What's this confusion?
+
+GETA. Then I have scarce a moment's time to think.
+My master is arriv'd.
+
+ANT. What mischief's that?
+
+GETA. Who, when he shall have heard it, by what art
+Shall I appease his anger?--Shall I speak?
+'Twill irritate him.--Hold my peace?--enrage him.----
+Defend myself?--impossible?--Oh, wretch!Now for myself in pain, now Antipho
+Distracts my mind.--But him I pity most;
+For him I fear; 'tis he retains me here:
+For, were it not for him, I'd soon provide
+For my own safety--aye, and be reveng'd
+On the old graybeard--carry something off,
+And show my master a light pair of heels.
+
+ANT. What scheme to rob and run away is this?
+
+GETA. But where shall I find Antipho? where seek him?
+
+PHAED. He mentions you.
+
+ANT. I know not what, but doubt
+That he's the messenger of some ill news.
+
+PHAED. Have you your wits?
+
+GETA. I'll home: he's chiefly there.
+
+PHAED. Let's call him back!
+
+ANT. Holloa, you! stop!GETA. Heyday!
+Authority enough, be who you will.
+
+ANT. Geta!
+
+GETA (<i>turning</i>). The very man I wish'd to meet!
+
+ANT. Tell us, what news?--in one word, if you can.
+
+GETA. I'll do it.
+
+ANT. Speak!
+
+GETA. This moment at the port----
+
+ANT. My father?
+
+GETA. Even so.
+
+ANT. Undone!
+
+PHAED. Heyday!
+
+ANT. What shall I do?
+
+PHAED. What say you? (<i>To GETA.</i>)GETA. That I've seen
+His father, Sir,--your uncle.
+
+ANT. How shall I,
+Wretch that I am! oppose this sudden evil!
+Should I be so unhappy to be torn
+From thee, my Phanium, life's not worth my care.
+
+GETA. Since that's the case then, Antipho, you ought To be the more upon your guard.
+
+ANT. Alas!
+I'm not myself.
+
+GETA. But now you should be most so, Antipho.
+For if your father should discern your fear,
+He'll think you conscious of a fault.
+
+PHAED. That's true.
+
+ANT. I can not help it, nor seem otherwise.
+
+GETA. How would you manage in worse difficulties?
+
+ANT. Since I'm not equal to bear this, to those
+I should be more unequal.GETA. This is nothing.
+Pooh, Phaedria, let him go! why waste our time?
+I will be gone. (<i>Going.</i>)
+
+PHAED. And I. (<i>Going.</i>)
+
+ANT. Nay, prithee, stay!
+What if I should dissemble?--Will that do?
+
+(<i>Endeavoring to assume another air.</i>
+
+GETA. Ridiculous!
+
+ANT. Nay, look at me! will that
+Suffice?
+
+GETA. Not it.
+
+ANT. Or this?
+
+GETA. Almost.
+
+ANT. Or this?
+
+GETA. Aye! now you've hit it. Do but stick to that;
+Answer him boldly; give him hit for dash,Nor let him bear you down with angry words.
+
+ANT. I understand you.
+
+GETA. "Forc'd"--"against your will"----
+"By law"--"by sentence of the court"--d'ye take me?
+--But what old gentleman is that I see
+At t'other end o' th' street?
+
+ANT. 'Tis he himself.
+I dare not face him. (<i>Going.</i>)
+
+GETA. Ah! what is't you do?
+Where d'ye run, Antipho! stay, stay, I say.
+
+ANT. I know myself and my offense too well:
+To you, then, I commend my life and love. (<i>Exit.</i>
+
+[Changes:
+
+<i>Harper</i>
+  At t'other end o' th' street?
+  ANT. 'Tis he himself.
+<i>Colman 1768</i>
+  Turning the corner of the street?
+  ANT. 'Tis he.]SCENE V.
+
+<i>Manent PHAEDRIA and GETA.</i>
+
+PHAED. Geta, what now?
+
+GETA. You shall be roundly chid;
+I soundly drubb'd; or I am much deceiv'd.
+--But what e'en now we counsel'd Antipho,
+It now behooves ourselves to practice, Phaedria.
+
+PHAED. Talk not of what behooves, but say at once
+What you would have me do.
+
+GETA. Do you remember
+The plea whereon you both agreed to rest,
+At your first vent'ring on this enterprise?
+"That Phormio's suit was just, sure, equitable,
+Not to be controverted."----
+
+PHAED. I remember.
+
+GETA. Now then that plea! or, if it's possible,
+One better or more plausible.
+
+PHAED. I'll do't.GETA. Do you attack him first! I'll lie in ambush,
+To reinforce you, if you give ground.
+
+PHAED. Well. (<i>They retire.</i>)
+
+<b>SCENE VI.</b>
+
+<i>Enter DEMIPHO at another part of the stage.</i>
+
+DEM. How's this? a wife! what, Antipho! and ne'er
+Ask my consent?--nor my authority----
+Or, grant we pass authority, not dread
+My wrath at least?--To have no sense of shame?
+--Oh, impudence!--Oh, Geta, rare adviser!
+
+GETA. Geta at last.
+
+DEM. What they will say to me,
+Or what excuse they will devise, I wonder.
+
+GETA. Oh, we have settled that already: think
+Of something else.
+
+DEM. Will he say this to me,
+--"Against my will I did it"--"Forc'd by law"----
+--I hear you: I confess it.GETA. Very well.
+
+DEM. But conscious of the fraud, without a word
+In answer or defense, to yield the cause
+Tamely to your opponents--did the law
+Force you to <i>that</i> too?
+
+PHAED. That's home.
+
+GETA. Give me leave.
+I'll manage it.
+
+DEM. I know not what to do:
+This stroke has come so unawares upon me,
+Beyond all expectation, past belief.
+--I'm so enrag'd, I can't compose my mind
+To think upon it.--Wherefore ev'ry man,
+When his affairs go on most swimmingly,
+Ev'n then it most behooves to arm himself
+Against the coming storm: loss, danger, exile,
+Returning ever let him look to meet;
+His son in fault, wife dead, or daughter sick----
+All common accidents, and may have happen'd;
+That nothing should seem new or strange. But if
+Aught has fall'n out beyond his hopes, all that
+Let him account clear gain.GETA. Oh, Phaedria,
+'Tis wonderful how much a wiser man
+I am than my old master. My misfortunes
+I have consider'd well.--At his return
+Doom'd to grind ever in the mill, beat, chain'd,
+Or set to labor in the fields; of these
+Nothing will happen new. If aught falls out
+Beyond my hopes, all that I'll count clear gain.
+--But why delay t'accost th' old gentleman,
+And speak him fair at first? (<i>PHAEDRIA goes forward.</i>)
+
+DEM. Methinks I see
+My nephew Phaedria.
+
+PHAED. My good Uncle, welcome!
+
+DEM. Your servant!--But where's Antipho?
+
+PHAED. I'm glad
+To see you safe----
+
+DEM. Well, well!--But answer me.
+
+PHAED. He's well: hard by.--But have affairs turn'd out According to your wishes?DEM. Would they had!
+
+PHAED. Why, what's the matter?
+
+DEM. What's the matter, Phaedria?
+You've clapp'd up a fine marriage in my absence.
+
+PHAED. What! are you angry with him about that?
+
+GETA. Well counterfeited!
+
+DEM. Should I not be angry?
+Let me but set eyes on him, he shall know
+That his offenses have converted me
+From a mild father to a most severe one.
+
+PHAED. He has done nothing, Uncle, to offend you.
+
+DEM. See, all alike! the whole gang hangs together:
+Know one, and you know all.
+
+PHAED. Nay, 'tis not so.
+
+DEM. One does a fault, the other's hard at hand
+To bear him out: when t'other slips, <i>he's</i> ready:
+Each in their turn!GETA. I' faith th' old gentleman
+Has blunder'd on their humors to a hair.
+
+DEM. If 'twere not so, you'd not defend him, Phaedria.
+
+PHAED. If, Uncle, Antipho has done a wrong,
+Or to his interest or reputation,
+I am content he suffer as he may:
+But if another, with malicious fraud,
+Has laid a snare for unexperienced youth,
+And triumph'd o'er it; can you lay the blame
+On us, or on the judges, who oft take
+Through envy from the rich, or from compassion
+Add to the poor?
+
+GETA. Unless I knew the cause,
+I should imagine this was truth he spoke.
+
+DEM. What judge can know the merits on your side,
+When you put in no plea; as he has done?
+
+PHAED. He has behav'd like an ingenuous youth.
+When he came into court, he wanted pow'r
+To utter what he had prepar'd, so much
+He was abash'd by fear and modesty.GETA. Oh brave!--But why, without more loss of time, Don't I accost th' old man! (<i>Going up.</i>) My master, welcome! I am rejoic'd to see you safe return'd.
+
+DEM. What! my good master Governor! your slave!
+The prop! the pillar of our family!
+To whom, at my departure hence, I gave
+My son in charge.
+
+GETA. I've heard you for some time
+Accuse us all quite undeservedly,
+And me, of all, most undeservedly.
+For what could I have done in this affair?
+A slave the laws will not allow to plead;
+Nor can he be an evidence.
+
+DEM. I grant it.
+Nay more--the boy was bashful--I allow it.
+--You but a slave.--But if she had been prov'd
+Ever so plainly a relation, why
+Needed he marry her? and why not rather
+Give her, according to the law, a portion,
+And let her seek some other for a husband?
+Why did he rather bring a beggar home?
+
+GETA. 'Twas not the thought, but money that was wanting.DEM. He might have borrow'd it!
+
+GETA. Have borrow'd it!
+Easily said.
+
+DEM. If not to be had else,
+On interest.
+
+GETA. Nay, now indeed you've hit it!
+Who would advance him money in your life?
+
+DEM. Well, well, it shall not, and it can not be,
+That I should suffer her to live with him
+As wife a single day. There is no cause.
+--Would I might see that fellow, or could tell
+Where he resides!
+
+GETA. What, Phormio!
+
+DEM. The girl's Patron.
+
+GETA. He shall be with you straight.
+
+DEM. Where's Antipho?
+
+PHAED. Abroad.DEM. Go, Phaedria; find him, bring him here.
+
+PHAED. I'll go directly. (<i>Exit</i>
+
+GETA (<i>aside</i>). Aye, to Pamphila. (<i>Exit</i>
+
+[Changes:
+
+<i>Harper</i>
+  DEM. If 'twere not so, you'd not defend him, Phaedria.
+<i>Colman 1768</i>
+  DEM. For, were't not so, you'd not defend him, Phaedria.]
+
+SCENE VII.
+
+<i>DEMIPHO alone.</i>
+
+I'll home, and thank the Gods for my return:
+Thence to the Forum, and convene some friends,
+Who may be present at this interview,
+That Phormio may not take me unprepar'd. (<i>Exit.</i>
+
+ACT THE SECOND.<b>SCENE I.</b>
+
+<i>PHORMIO, GETA.</i>
+
+PHOR. And Antipho, you say, has slunk away,
+Fearing his father's presence?
+
+GETA. Very true.
+
+PHOR. Poor Phanium left alone?
+
+GETA. 'Tis even so.
+
+PHOR. And the old gentleman enrag'd!
+
+GETA. Indeed.
+
+PHOR. The sum of all then, Phormio, rests on you:
+On you, and you alone. You've bak'd this cake;
+E'en eat it for your pains. About it then!
+
+GETA. I do beseech you.
+
+PHOR. (<i>to himself.</i>) What if he inquire?----
+
+GETA. Our only hope's in you.PHOR. (<i>to himself</i>). I have it!--Then,
+Suppose he offer to return the girl?----
+
+GETA. You urg'd us to it.
+
+PHOR. (<i>to himself</i>). Aye! it shall be so.
+
+GETA. Assist us!
+
+PHOR. Let him come, old gentleman!
+'Tis here: it is engender'd: I am arm'd
+With all my counsels.
+
+GETA. What d'ye mean to do?
+
+PHOR. What would you have me do, unless contrive
+That Phanium may remain, that Antipho
+Be freed from blame, and all the old man's rage
+Turn'd upon me?
+
+GETA. Brave fellow! friend indeed!
+And yet I often tremble for you, Phormio,
+Lest all this noble confidence of yours
+End in the stocks at last.PHOR. Ah, 'tis not so.
+I'm an old stager too, and know my road.
+How many men d'ye think I've bastinadoed
+Almost to death? Aliens and citizens?
+The oft'ner, still the safer.--Tell me then,
+Didst ever hear of actions for assault
+And batt'ry brought against me?
+
+GETA. How comes that?
+
+PHOR. Because the net's not stretch'd to catch the hawk,
+Or kite, who do us wrong; but laid for those
+Who do us none at all: In them there's profit,
+In those mere labor lost. Thus other men
+May be in danger who have aught to lose;
+I, the world knows, have nothing.--You will say,
+They'll seize my person.--No, they won't maintain
+A fellow of my stomach.--And they're wise,
+In my opinion, if for injuries
+They'll not return the highest benefit.
+
+GETA. It is impossible for Antipho
+To give you thanks sufficient.
+
+PHOR. Rather say,
+No man sufficiently can thank his patron.You at free cost to come! anointed, bath'd,
+Easy and gay! while he's eat up with care
+And charge, to cater for your entertainment!
+He gnaws his heart, you laugh; eat first, sit first,
+And see a doubtful banquet plac'd before you!
+
+GETA. Doubtful! what phrase is that?
+
+PHOR. Where you're in doubt,
+What you shall rather choose. Delights like these
+When you but think how sweet, how dear, they are;
+Him that affords them must you not suppose
+A very deity?
+
+GETA. The old man's here.
+Mind what you do! the first attack's the fiercest:
+Sustain but that, the rest will be mere play. (<i>They retire.</i>)
+
+[Changes:
+
+<i>Harper</i>
+  In those mere labor lost. Thus other men
+<i>Colman 1768</i>
+  In these mere labor lost. Thus other men]<b>SCENE II.</b>
+
+<i>Enter at a distance DEMIPHO--HEGIO, CRATINUS, CRITO, following.</i>
+
+DEM. Was ever man so grossly treated, think ye?
+--This way, Sirs, I beseech you.
+
+GETA. He's enrag'd!
+
+PHOR. Hist! mind your cue: I'll work him.
+--(<i>Coming forward, and speaking loud.</i>) Oh, ye Gods!
+Does he deny that Phanium's his relation?
+What, Demipho! does Demipho deny
+That Phanium is his kinswoman?
+
+GETA. He does.
+
+PHOR. And who her father was, he does not know?
+
+GETA. No.
+
+DEM. (<i>to the Lawyers</i>). Here's the very fellow, I believe, Of whom I have been speaking.--Follow me!
+
+PHOR. (<i>aloud</i>). And that he does not know who Stilpho was?GETA. No.
+
+PHOR. Ah! because, poor thing, she's left in want,
+Her father is unknown, and she despis'd.
+What will not avarice do?
+
+GETA. If you insinuate
+My master's avaricious, woe be to you!
+
+DEM. (<i>behind</i>). Oh impudence! he dares accuse me first.
+
+PHOR. As to the youth, I can not take offense,
+If he had not much knowledge of him; since,
+Now in the vale of years, in want, his work
+His livelihood, he nearly altogether
+Liv'd in the country: where he held a farm
+Under my father. I have often heard
+The poor old man complain that this his kinsman
+Neglected him.--But what a man! A man
+Of most exceeding virtue.
+
+GETA. Much at one:
+Yourself and he you praise so much.
+
+PHOR. Away!
+Had I not thought him what I've spoken of him,I would not for his daughter's sake have drawn
+So many troubles on our family,
+Whom this old cuff now treats so scandalously.
+
+GETA. What, still abuse my absent master, rascal!
+
+PHOR. It is no more than he deserves.
+
+GETA. How, villain!
+
+DEM. Geta! (<i>Calling.</i>)
+
+GETA. Rogue, robber, pettifogger! (<i>To PHORMIO pretending not to hear DEMIPHO.</i>)
+
+DEM. Geta!
+
+PHOR. Answer. (<i>Apart to GETA.</i>)
+
+GETA (<i>turning</i>). Who's that?--Oh!
+
+DEM. Peace!
+
+GETA. Behind your back
+All day without cessation has this knave
+Thrown scurvy terms upon you, such as noneBut men like him can merit.
+
+DEM. Well! have done.
+(<i>Putting GETA by, then addressing PHORMIO.</i>)
+Young man! permit me first to ask one question.
+And, if you please, vouchsafe to answer me.
+--Who was this friend of yours? Explain! and how
+Might he pretend that I was his relation?
+
+PHOR. So! you fish for't, as if you did not know. (<i>Sneeringly.</i>)
+
+DEM. Know! I!
+
+PHOR. Aye; you.
+
+DEM. Not I: You that maintain
+I ought, instruct me how to recollect.
+
+PHOR. What! not acquainted with your cousin?
+
+DEM. Plague!
+Tell me his name.
+
+PHOR. His name? aye!
+
+DEM. Well, why don't you?PHOR. Confusion! I've forgot the name. (<i>Apart.</i>)
+
+DEM. What say you?
+
+PHOR. Geta, if you remember, prompt me.
+        (<i>Apart to GETA.</i>)--Pshaw,
+I will not tell.--As if you did not know,
+You're come to try me. (<i>Loud to DEMIPHO.</i>)
+
+DEM. How! try you?
+
+GETA. Stilpho. (<i>Whispering PHORMIO.</i>)
+
+PHOR. What is't to me?--Stilpho.
+
+DEM. Whom say you?
+
+PHOR. Stilpho:
+Did you know Stilpho, Sir?
+
+DEM. I neither know him,
+Nor ever had I kinsman of that name.
+
+PHOR. How! are you not asham'd?--But if, poor man,
+Stilpho had left behind him an estate
+Of some ten talents----DEM. Out upon you!
+
+PHOR. Then
+You would have been the first to trace your line
+Quite from your grandsire and great grandsire.
+
+DEM. True.
+Had I then come, I'd have explain'd at large
+How she was my relation: so do you!
+Say, how is she my kinswoman?
+
+GETA. Well said!
+Master, you're right.--Take heed! (<i>Apart to PHORMIO.</i>)
+
+PHOR. I have explain'd
+All that most clearly, where I ought, in court.
+If it were false, why did not then your son
+Refute it?
+
+DEM. Do you tell me of my son?
+Whose folly can't be spoke of as it ought.
+
+PHOR. But you, who are so wise, go seek the judge:
+Ask sentence in the self-same cause again:
+Because you're lord alone, and have alone
+Pow'r to obtain judgment of the courtTwice in one cause.
+
+DEM. Although I have been wrong'd,
+Yet, rather than engage in litigation,
+And rather than hear you; as if she were
+Indeed related to us, as the law
+Ordains, I'll pay her dowry: take her hence,
+And with her take five minae.
+
+PHOR. Ha! ha! ha!
+A pleasant gentleman!
+
+DEM. Why, what's the matter?
+Have I demanded any thing unjust?
+Sha'n't I obtain this neither, which is law?
+
+PHOR. Is't even so, Sir?--Like a common harlot,
+When you've abus'd her, does the law ordain
+That you should pay her hire and whistle her off?
+Or, lest a citizen through poverty
+Bring shame upon her honor, does it order
+That she be given to her next of kin
+To pass her life with him? which you forbid.
+
+DEM. Aye; to her next of kin: But why to us;
+Or wherefore?PHOR. Oh! that matter is all settled:
+Think on't no more.
+
+DEM. Not think on't! I shall think
+Of nothing else till there's an end of this.
+
+PHOR. Words, words!
+
+DEM. I'll make them good.
+
+PHOR. But, after all,
+With you I have no business, Demipho!
+Your son is cast, not you: for at your age
+The coupling-time is over.
+
+DEM. Be assur'd
+That all I've said he says: or I'll forbid
+Him and this wife of his my house.
+
+GETA. He's angry. (<i>Apart.</i>)
+
+PHOR. No; you'll think better on't.
+
+DEM. Are you resolv'd,
+Wretch that you are, to thwart me ev'ry way?{<i>PHORMIO and GETA apart.</i>}
+
+PHOR. He fears, though he dissembles.
+
+GETA. Well begun!
+
+PHOR. Well; but what can't be cur'd must be endur'd: 'Twere well, and like yourself, that we were friends.
+
+DEM. I! friend to you? or choose to see or hear you!
+
+PHOR. Do but agree with her, you'll have a girl
+To comfort your old age. Your years, consider!
+
+DEM. Plague on your comfort! take her to yourself!
+
+PHOR. Ah! don't be angry!
+
+DEM. One word more, I've done.
+See that you fetch away this wench, and soon,
+Or I shall turn her headlong out o'doors.
+So much for Phormio!
+
+PHOR. Offer but to touch her
+In any other manner than beseems
+A gentlewoman and a citizen,And I shall bring a swinging writ against you.
+So much for Demipho!--If I am wanted,
+I am at home, d'ye hear? (<i>Apart to GETA.</i>)
+
+GETA. I understand. (<i>Apart.</i>) (<i>Exit PHORMIO.</i>
+
+<b>SCENE III.</b>
+
+DEM. With how much care, and what solicitude,
+My son affects me, with this wretched match
+Having embroil'd himself and me! nor comes
+Into my sight, that I might know at least
+Or what he says, or thinks of this affair.
+Go you, and see if he's come home or no.
+
+GETA. I'm gone. (<i>Exit.</i>
+
+DEM. You see, Sirs, how this matter stands.
+What shall I do? Say, Hegio!
+
+HEGIO. Meaning me?
+Cratinus, please you, should speak first.
+
+DEM. Say then,
+Cratinus!CRA. Me d'ye question?
+
+DEM. You.
+
+CRA. Then I,
+Whatever steps are best I'd have you take.
+Thus it appears to me. Whate'er your son
+Has in your absence done is null and void,
+In law and equity.--And so you'll find.
+That's my opinion.
+
+DEM. Say now, Hegio!
+
+HEGIO. He has, I think, pronounc'd most learnedly.
+But so 'tis: many men, and many minds!
+Each has his fancy: Now, in my opinion,
+Whate'er is done by law can't be undone.
+'Tis shameful to attempt it.
+
+DEM. Say you, Crito!
+
+CRITO. The case, I think, asks more deliberation.
+'Tis a nice point.
+
+HEGIO. Would you aught else with us?DEM. You've utter'd oracles. (<i>Exeunt Lawyers.</i>) I'm more uncertain Now than I was before.
+
+<i>Re-enter GETA.</i>
+
+GETA. He's not return'd.
+
+DEM. My brother, as I hope, will soon arrive:
+Whate'er advice he gives me, that I'll follow.
+I'll to the Port, and ask when they expect him. (<i>Exit.</i>
+
+GETA. And I'll go find out Antipho, and tell him
+All that has pass'd.--But here he comes in time.<b>SCENE IV.</b>
+
+<i>Enter at a distance ANTIPHO.</i>
+
+ANT. (<i>to himself</i>). Indeed, indeed, my Antipho,
+You're much to blame, to be so poor in spirit.
+What! steal away so guilty-like! and trust
+Your life and safety to the care of others!
+Would they be touch'd more nearly than yourself?
+Come what come might of ev'ry thing beside,
+Could you abandon the dear maid at home?
+Could you so far deceive her easy faith,
+And leave her to misfortune and distress?
+Her, who plac'd all her hopes in you alone?
+
+GETA (<i>coming forward</i>). I' faith, Sir, we have thought you much to blame For your long absence.----
+
+ANT. You're the very man
+That I was looking for.
+
+GETA. --But ne'ertheless
+We've miss'd no opportunity.
+
+ANT. Oh, speak!
+How go my fortunes, Geta? has my fatherAny suspicion that I was in league
+With Phormio?
+
+GETA. Not a jot.
+
+ANT. And may I hope?
+
+GETA. I don't know.
+
+ANT. Ah!
+
+GETA. Unless that Phaedria
+Did all he could do for you.----
+
+ANT. Nothing new.
+
+GETA. --And Phormio has on all occasions else.
+Prov'd himself a brave fellow.
+
+ANT. What did he?
+
+GETA. Out-swagger'd your hot father.
+
+ANT. Well said, Phormio!
+
+GETA. --I did the best I could too.ANT. Honest Geta,
+I am much bounden to you all.
+
+GETA. Thus, Sir,
+Stand things at present. As yet all is calm.
+Your father means to wait your uncle's coming.
+
+ANT. For what?
+
+GETA. For his advice, as he propos'd;
+By which he will be rul'd in this affair.
+
+ANT. How do I dread my uncle's coming, Geta.
+Since by his sentence I must live or die!
+
+GETA. But here comes Phaedria.
+
+ANT. Where?
+
+GETA. From his old school. (<i>They retire.</i>)<b>SCENE V.</b>
+
+<i>Enter, from Dorio's, DORIO, PHAEDRIA following.</i>
+
+PHAED. Nay, hear me, Dorio!
+
+DORIO. Not I.
+
+PHAED. But a word!
+
+DORIO. Let me alone.
+
+PHAED. Pray hear me!
+
+DORIO. I am tir'd
+With hearing the same thing a thousand times.
+
+PHAED. But what I'd say you would be glad to hear.
+
+DORIO. Speak then! I hear.
+
+PHAED. Can't I prevail on you
+To stay but these three days?-- Nay, where d'ye go?
+
+DORIO. I should have wonder'd had you said aught new.ANT. (<i>behind</i>). This pimp, I fear, will work himself no good.
+
+GETA. I fear so too.
+
+PHAED. Won't you believe me?
+
+DORIO. Guess.
+
+PHAED. Upon my honor.
+
+DORIO. Nonsense.
+
+PHAED. 'Tis a kindness
+Shall be repaid with interest.
+
+DORIO. Words, words!
+
+PHAED. You'll be glad on't; you will, believe me.
+
+DORIO. Pshaw!
+
+PHAED. Try; 'tis not long.
+
+DORIO. You're in the same tune still.
+
+PHAED. My kinsman, parent, friend!----DORIO. Aye, talk away.
+
+PHAED. Can you be so inflexible, so cruel.
+That neither pity nor entreaties touch you?
+
+DORIO. And can you be so inconsiderate,
+And so unconscionable, Phaedria,
+To think that you can talk me to your purpose,
+And wheedle me to give the girl for nothing?
+
+ANT. (<i>behind</i>). Poor Phaedria!
+
+PHAED. (<i>to himself</i>). Alas! he speaks the truth.
+
+GETA (<i>to ANTIPHO</i>). How well they each support their characters!
+
+PHAED. (<i>to himself</i>). Then that this evil should have come upon me, When Antipho was in the like distress!
+
+ANT. (<i>going up</i>). Ha! what now, Phaedria?
+
+PHAED. Happy, happy Antipho!----
+
+ANT. I?PHAED. Who have her you love in your possession,
+Nor e'er had plagues like these to struggle with!
+
+ANT. In my possession? yes, I have, indeed,
+As the old saying goes, a wolf by th' ears:
+For I can neither part with her nor keep her.
+
+DORIO. 'Tis just my case with him.
+
+ANT. (<i>to DORIO</i>). Thou thorough bawd!
+--(<i>To PHAEDRIA.</i>) What has he done?
+
+PHAED. Done?--The inhuman wretch
+Has sold my Pamphila.
+
+GETA. What! sold her?
+
+ANT. Sold her?
+
+PHAED. Yes; sold her.
+
+DORIO (<i>laughing</i>). Sold her.--What a monstrous crime! A wench he paid his ready money for.
+
+PHAED. I can't prevail upon him to wait for me,
+And to stave off his bargain but three days;Till I obtain the money from my friends,
+According to their promise.--If I do not
+Pay it you then, don't wait a moment longer.
+
+DORIO. You stun me.
+
+ANT. 'Tis a very little time
+For which he asks your patience, Dorio.
+Let him prevail on you; your complaisance
+Shall be requited doubly.
+
+DORIO. Words; mere words!
+
+ANT. Can you then bear to see your Pamphila
+Torn from this city, Phaedria?--Can you, Dorio,
+Divide their loves
+
+DORIO. Nor I, nor you.
+
+GETA. Plague on you!
+
+DORIO (<i>to PHAEDRIA</i>). I have, against my natural disposition,
+Borne with you several months, still promising,
+Whimpering, and ne'er performing any thing:
+Now, on the contrary, I've found a spark,
+Who'll prove a ready-paymaster, no sniveler:Give place then to your betters!
+
+ANT. Surely, Phaedria,
+There was, if I remember, a day settled
+That you should pay the money down.
+
+PHAED. There was.
+
+DORIO. Do I deny it?
+
+ANT. Is the day past?
+
+DORIO. No.
+But this has come before it.
+
+ANT. Infamous!
+Ar'n't you asham'd of such base treachery?
+
+DORIO. Not I, while I can get by't.
+
+GETA. Scavenger!
+
+PHAED. Is this just dealing, Dorio?
+
+DORIO. 'Tis my way:
+So, if you like me, use me.ANT. Can you deceive him thus?
+
+DORIO. Nay, Antipho,
+'Tis he deceives me: he was well aware
+What kind of man I was, but I believ'd
+Him diff'rent. He has disappointed me,
+But I am still the same to him as ever.
+However, thus much I can do for him;
+The Captain promis'd to pay down the money
+To-morrow morning. But now, Phaedria,
+If you come first, I'll follow my old rule,
+"The first to pay shall be first serv'd." Farewell. (<i>Exit.</i><b>SCENE VI.</b>
+
+<i>PHAEDRIA, ANTIPHO, GETA.</i>
+
+PHAED. What shall I do? Unhappy that I am,
+How shall I, who am almost worse than nothing,
+Raise such a sum so suddenly?--Alas!
+Had I prevail'd on him to wait three days,
+I had a promise of it.
+
+ANT. Shall we, Geta,
+Suffer my Phaedria to be miserable?
+My best friend Phaedria, who but now, you said,
+Assisted me so heartily?--No--Rather
+Let us, since there is need, return his kindness!
+
+GETA. It is but just, I must confess.
+
+ANT. Come then;
+'Tis you alone can save him.
+
+GETA. By what means?
+
+ANT. Procure the money.
+
+GETA. Willingly: but whence?

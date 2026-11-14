@@ -1,0 +1,863 @@
+HOLB1	1938	5	400	80	753	129
+2	Chapter I. Maslova In Prison.
+7	Chapter II. Maslova’s Early Life.
+14	Chapter III. Nekhludoff.
+21	Chapter IV. Missy.
+25	Chapter V. The Jurymen.
+29	Chapter VI. The Judges.
+34	Chapter VII. The Officials Of The Court.
+39	Chapter VIII. Swearing In The Jury.
+43	Chapter IX. The Trial--the Prisoners Questione…
+51	Chapter X. The Trial--the Indictment.
+55	Chapter XI. The Trial--maslova Cross-examined.
+66	Chapter XII. Twelve Years Before.
+73	Chapter XIII. Life In The Army.
+78	Chapter XIV. The Second Meeting With Maslova.
+84	Chapter XV. The Early Mass.
+90	Chapter XVI. The First Step.
+95	Chapter XVII. Nekhludoff And Katusha.
+99	Chapter XVIII. Afterwards.
+103	Chapter XIX. The Trial--resumption.
+107	Chapter XX. The Trial--the Medical Report.
+113	Chapter XXI.
+120	Chapter XXII. The Trial--the Summing Up.
+124	Chapter XXIII. The Trial--the Verdict.
+136	Chapter XXIV. The Trial--the Sentence.
+140	Chapter XXV. Nekhludoff Consults An Advocate.
+143	Chapter XXVI. The House Of Korchagin.
+151	Chapter XXVII. Missy’s Mother.
+158	Chapter XXVIII. The Awakening.
+166	Chapter XXIX. Maslova In Prison.
+171	Chapter XXX. The Cell.
+175	Chapter XXXI. The Prisoners.
+179	Chapter XXXII. A Prison Quarrel.
+186	Chapter XXXIII.
+192	Chapter XXXIV.
+198	Chapter XXXV.
+203	Chapter XXXVI. Nekhludoff Endeavours To Visit…
+207	Chapter XXXVII. Maslova Recalls The Past.
+212	Chapter XXXVIII. Sunday In Prison--preparing F…
+215	Chapter XXXIX.
+220	Chapter XL. The Husks Of Religion.
+224	Chapter XLI. Visiting Day--the Men’s Ward.
+231	Chapter XLII. Visiting Day--the Women’s Ward.
+235	Chapter XLIII. Nekhludoff Visits Maslova.
+244	Chapter XLIV. Maslova’s View Of Life.
+247	Chapter XLV. Fanarin, The Advocate--the Petiti…
+257	Chapter XLVI. A Prison Flogging.
+261	Chapter XLVII. Nekhludoff Again Visits Maslova…
+266	Chapter XLVIII. Maslova Refuses To Marry.
+272	Chapter XLIX. Vera Doukhova.
+276	Chapter L. The Vice-governor Of The Prison.
+282	Chapter LI. The Cells.
+288	Chapter LII. No. 21.
+292	Chapter LIII. Victims Of Government.
+297	Chapter LIV. Prisoners And Friends.
+301	Chapter LV. Vera Doukhova Explains.
+305	Chapter LVI. Nekhludoff And The Prisoners.
+309	Chapter LVII. The Vice-governor’s “at-home”.
+315	Chapter LVIII. The Vice-governor Suspicious.
+320	Chapter LIX.
+327	Chapter I. Property In Land.
+335	Chapter II. Efforts At Land Restoration.
+341	Chapter III. Old Associations.
+345	Chapter IV. The Peasants’ Lot.
+352	Chapter V. Maslova’s Aunt.
+358	Chapter VI. Reflections Of A Landlord.
+366	Chapter VII. The Disinherited.
+372	Chapter VIII. God’s Peace In The Heart.
+377	Chapter IX. The Land Settlement.
+386	Chapter X. Nekhludoff Returns To Town.
+393	Chapter XI.
+397	Chapter XII. Why The Peasants Flock To Town.
+401	Chapter XIII. Nurse Maslova.
+411	Chapter XIV. An Aristocratic Circle.
+420	Chapter XV. An Average Statesman.
+427	Chapter XVI. An Up-to-date Senator.
+433	Chapter XVII.
+437	Chapter XVIII. Officialdom.
+443	Chapter XIX. An Old General Of Repute.
+453	Chapter XX. Maslova’s Appeal.
+459	Chapter XXI. The Appeal Dismissed.
+464	Chapter XXII. An Old Friend.
+469	Chapter XXIII. The Public Prosecutor.
+475	Chapter XXIV. Mariette Tempts Nekhludoff.
+486	Chapter XXV. Lydia Shoustova’s Home.
+493	Chapter XXVI. Lydia’s Aunt.
+496	Chapter XXVII. The State Church And The People…
+505	Chapter XXVIII. The Meaning Of Mariette’s Attr…
+511	Chapter XXIX. For Her Sake And For God’s.
+520	Chapter XXX.
+527	Chapter XXXI. Nekhludoff’s Sister And Her Husb…
+531	Chapter XXXII. Nekhludoff’s Anarchism.
+540	Chapter XXXIII. The Aim Of The Law.
+547	Chapter XXXIV. The Prisoners Start For Siberia…
+554	Chapter XXXV. Not Men But Strange And Terrible…
+559	Chapter XXXVI. The Tender Mercies Of The Lord.
+566	Chapter XXXVII. Spilled Like Water On The Grou…
+574	Chapter XXXVIII. The Convict Train.
+580	Chapter XXXIX. Brother And Sister.
+589	Chapter XL. The Fundamental Law Of Human Life.
+595	Chapter XLI. Taras’s Story.
+604	Chapter XLII. Le Vrai Grand Monde.
+610	Chapter I. Maslova Makes New Friends.
+614	Chapter II. An Incident Of The March.
+618	Chapter III. Mary Pavlovna.
+622	Chapter IV. Simonson.
+626	Chapter V. The Political Prisoners.
+632	Chapter VI. Kryltzoff’s Story.
+638	Chapter VII.
+642	Chapter VIII. Nekhludoff And The Officer.
+648	Chapter IX. The Political Prisoners.
+652	Chapter X. Makar Devkin.
+655	Chapter XI. Maslova And Her Companions.
+661	Chapter XII. Nabatoff And Markel.
+668	Chapter XIII. Love Affairs Of The Exiles.
+671	Chapter XIV. Conversations In Prison.
+675	Chapter XV. Novodvoroff.
+678	Chapter XVI. Simonson Speaks To Nekhludoff.
+685	Chapter XVII. “i Have Nothing More To Say.”
+689	Chapter XVIII. Neveroff’s Fate.
+694	Chapter XIX. Why Is It Done?
+701	Chapter XX. The Journey Resumed.
+706	Chapter XXI. “just A Worthless Tramp.”
+711	Chapter XXII. Nekhludoff Sees The General.
+718	Chapter XXIII. The Sentence Commuted.
+723	Chapter XXIV. The General’s Household.
+731	Chapter XXV. Maslova’s Decision.
+737	Chapter XXVI. The English Visitor.
+740	Chapter XXVII. Kryltzoff At Rest.
+744	Chapter XXVIII. A New Life Dawns For Nekhludof…
+“We have a desiatin per man, sir,” he said. “Our family have three men’s shares of the land. My father and a brother are at home, and manage the land, and another brother is serving in the army. But there’s nothing to manage. My brother has had thoughts of coming to Moscow, too.”
+
+“And cannot land be rented?”
+
+“How’s one to rent it nowadays? The gentry, such as they were, have squandered all theirs. Men of business have got it all into their own hands. One can’t rent it from them. They farm it themselves. We have a Frenchman ruling in our place; he bought the estate from our former landlord, and won’t let it--and there’s an end of it.”
+
+“Who’s that Frenchman?”
+
+“Dufour is the Frenchman’s name. Perhaps you’ve heard of him. He makes wigs for the actors in the big theatre; it is a good business, so he’s prospering. He bought it from our lady, the whole of the estate, and now he has us in his power; he just rides on us as he pleases. The Lord be thanked, he is a good man himself; only his wife, a Russian, is such a brute that--God have mercy on us. She robs the people. It’s awful. Well, here’s the prison. Am I to drive you to the entrance? I’m afraid they’ll not let us do it, though.”<b>CHAPTER XIII.</b>
+
+NURSE MASLOVA.
+
+When he rang the bell at the front entrance Nekhludoff’s heart stood still with horror as he thought of the state he might find Maslova in to-day, and at the mystery that he felt to be in her and in the people that were collected in the prison. He asked the jailer who opened the door for Maslova. After making the necessary inquiry the jailer informed him that she was in the hospital. Nekhludoff went there. A kindly old man, the hospital doorkeeper, let him in at once and, after asking Nekhludoff whom he wanted, directed him to the children’s ward. A young doctor saturated with carbolic acid met Nekhludoff in the passage and asked him severely what he wanted. This doctor was always making all sorts of concessions to the prisoners, and was therefore continually coming into conflict with the prison authorities and even with the head doctor. Fearing lest Nekhludoff should demand something unlawful, and wishing to show that he made no exceptions for any one, he pretended to be cross. “There are no women here; it is the children’s ward,” he said.
+
+“Yes, I know; but a prisoner has been removed here to be an assistant nurse.”
+
+“Yes, there are two such here. Then whom do you want?”
+
+“I am closely connected with one of them, named Maslova,” Nekhludoff answered, “and should like to speak to her. I am going to Petersburg to hand in an appeal to the Senate about her case and should like to give her this.It is only a photo,” Nekhludoff said, taking an envelope out of his pocket.
+
+“All right, you may do that,” said the doctor, relenting, and turning to an old woman with a white apron, he told her to call the prisoner--Nurse Maslova.
+
+“Will you take a seat, or go into the waiting-room?”
+
+“Thanks,” said Nekhludoff, and profiting by the favourable change in the manner of the doctor towards him asked how they were satisfied with Maslova in the hospital.
+
+“Oh, she is all right. She works fairly well, if you the conditions of her former life into account. But here she is.”
+
+The old nurse came in at one of the doors, followed by Maslova, who wore a blue striped dress, a white apron, a kerchief that quite covered her hair. When she saw Nekhludoff her face flushed, and she stopped as if hesitating, then frowned, and with downcast eyes went quickly towards him along the strip of carpet in the middle of the passage. When she came up to Nekhludoff she did not wish to give him her hand, and then gave it, growing redder still. Nekhludoff had not seen her since the day when she begged forgiveness for having been in a passion, and he expected to find her the same as she was then. But to-day she was quite different. There was something new in the expression of her face, reserve and shyness, and, as it seemed to him, animosity towards him.He told her what he had already said to the doctor, i.e., that he was going to Petersburg, and he handed her the envelope with the photograph which he had brought from Panovo.
+
+“I found this in Panovo--it’s an old photo; perhaps you would like it. Take it.”
+
+Lifting her dark eyebrows, she looked at him with surprise in her squinting eyes, as if asking, “What is this for?” took the photo silently and put it in the bib of her apron.
+
+“I saw your aunt there,” said Nekhludoff.
+
+“Did you?” she said, indifferently.
+
+“Are you all right here?” Nekhludoff asked.
+
+“Oh, yes, it’s all right,” she said.
+
+“Not too difficult?”
+
+“Oh, no. But I am not used to it yet.”
+
+“I am glad, for your sake. Anyhow, it is better than there.”
+
+“Than where--there?” she asked, her face flushing again.“There--in the prison,” Nekhludoff hurriedly answered.
+
+“Why better?” she asked.
+
+“I think the people are better. Here are none such as there must be there.”
+
+“There are many good ones there,” she said.
+
+“I have been seeing about the Menshoffs, and hope they will be liberated,” said Nekhludoff.
+
+“God grant they may. Such a splendid old woman,” she said, again repeating her opinion of the old woman, and slightly smiling.
+
+“I am going to Petersburg to-day. Your case will come on soon, and I hope the sentence will be repealed.”
+
+“Whether it is repealed or not won’t matter now,” she said.
+
+“Why not now?”
+
+“So,” she said, looking with a quick, questioning glance into his eyes.
+
+Nekhludoff understood the word and the look to mean that she wished to know whether he still kept firm to his decision or had accepted her refusal.“I do not know why it does not matter to you,” he said. “It certainly does not matter as far as I am concerned whether you are acquitted or not. I am ready to do what I told you in any case,” he said decidedly.
+
+She lifted her head and her black squinting eyes remained fixed on him and beyond him, and her face beamed with joy. But the words she spoke were very different from what her eyes said.
+
+“You should not speak like that,” she said.
+
+“I am saying it so that you should know.”
+
+“Everything has been said about that, and there is no use speaking,” she said, with difficulty repressing a smile.
+
+A sudden noise came from the hospital ward, and the sound of a child crying.
+
+“I think they are calling me,” she said, and looked round uneasily.
+
+“Well, good-bye, then,” he said. She pretended not to see his extended hand, and, without taking it, turned away and hastily walked along the strip of carpet, trying to hide the triumph she felt.
+
+“What is going on in her? What is she thinking? What does she feel? Does she mean to prove me, or can she really not forgive me? Is it that she cannot or that she will not express what she feels and thinks?Has she softened or hardened?” he asked himself, and could find no answer. He only knew that she had altered and that an important change was going on in her soul, and this change united him not only to her but also to Him for whose sake that change was being wrought. And this union brought on a state of joyful animation and tenderness.
+
+When she returned to the ward, in which there stood eight small beds, Maslova began, in obedience to the nurse’s order, to arrange one of the beds; and, bending over too far with the sheet, she slipped and nearly fell down.
+
+A little convalescent boy with a bandaged neck, who was looking at her, laughed. Maslova could no longer contain herself and burst into loud laughter, and such contagious laughter that several of the children also burst out laughing, and one of the sisters rebuked her angrily.
+
+“What are you giggling at? Do you think you are where you used to be? Go and fetch the food.” Maslova obeyed and went where she was sent; but, catching the eye of the bandaged boy who was not allowed to laugh, she again burst out laughing.
+
+Whenever she was alone Maslova again and again pulled the photograph partly out of the envelope and looked at it admiringly; but only in the evening when she was off duty and alone in the bedroom which she shared with a nurse, did she take it quite out of the envelope and gaze long at the faded yellow photograph, caressing with, her eyes every detail of faces and clothing, the steps of the veranda,and the bushes which served as a background to his and hers and his aunts’ faces, and could not cease from admiring especially herself--her pretty young face with the curly hair round the forehead. She was so absorbed that she did not hear her fellow-nurse come into the room.
+
+“What is it that he’s given you?” said the good-natured, fat nurse, stooping over the photograph.
+
+“Who’s this? You?”
+
+“Who else?” said Maslova, looking into her companion’s face with a smile.
+
+“And who’s this?”
+
+“Himself.”
+
+“And is this his mother?”
+
+“No, his aunt. Would you not have known me?”
+
+“Never. The whole face is altered. Why, it must be 10 years since then.”
+
+“Not years, but a lifetime,” said Maslova. And suddenly her animation went, her face grew gloomy, and a deep line appeared between her brows.
+
+“Why so? Your way of life must have been an easy one.”“Easy, indeed,” Maslova reiterated, closing her eyes and shaking her head. “It is hell.”
+
+“Why, what makes it so?”
+
+“What makes it so! From eight till four in the morning, and every night the same!”
+
+“Then why don’t they give it up?”
+
+“They can’t give it up if they want to. But what’s the use of talking?” Maslova said, jumping up and throwing the photograph into the drawer of the table. And with difficulty repressing angry tears, she ran out into the passage and slammed the door.
+
+While looking at the group she imagined herself such as she was there and dreamt of her happiness then and of the possibility of happiness with him now. But her companion’s words reminded her of what she was now and what she had been, and brought back all the horrors of that life, which she had felt but dimly, and not allowed herself to realise.
+
+It was only now that the memory of all those terrible nights came vividly back to her, especially one during the carnival when she was expecting a student who had promised to buy her out.She remembered how she--wearing her low necked silk dress stained with wine, a red bow in her untidy hair, wearied, weak, half tipsy, having seen her visitors off, sat down during an interval in the dancing by the piano beside the bony pianiste with the blotchy face, who played the accompaniments to the violin, and began complaining of her hard fate; and how this pianiste said that she, too, was feeling how heavy her position was and would like to change it; and how Clara suddenly came up to them; and how they all three decided to change their life. They thought that the night was over, and were about to go away, when suddenly the noise of tipsy voices was heard in the ante-room. The violinist played a tune and the pianiste began hammering the first figure of a quadrille on the piano, to the tune of a most merry Russian song. A small, perspiring man, smelling of spirits, with a white tie and swallow-tail coat, which he took off after the first figure, came up to her, hiccoughing, and caught her up, while another fat man, with a beard, and also wearing a dress-coat (they had come straight from a ball) caught Clara up, and for a long time they turned, danced, screamed, drank. . . . And so it went on for another year, and another, and a third. How could she help changing? And he was the cause of it all. And, suddenly, all her former bitterness against him reawoke; she wished to scold, to reproach him. She regretted having neglected the opportunity of repeating to him once more that she knew him, and would not give in to him--would not let him make use of her spiritually as he had done physically.And she longed for drink in order to stifle the feeling of pity to herself and the useless feeling of reproach to him. And she would have broken her word if she had been inside the prison. Here she could not get any spirits except by applying to the medical assistant, and she was afraid of him because he made up to her, and intimate relations with men were disgusting to her now. After sitting a while on a form in the passage she returned to her little room, and without paying any heed to her companion’s words, she wept for a long time over her wrecked life.<b>CHAPTER XIV.</b>
+
+AN ARISTOCRATIC CIRCLE.
+
+Nekhludoff had four matters to attend to in Petersburg. The first was the appeal to the Senate in Maslova’s case; the second, to hand in Theodosia Birukoff’s petition to the committee; the third, to comply with Vera Doukhova’s requests--i.e., try to get her friend Shoustova released from prison, and get permission for a mother to visit her son in prison. Vera Doukhova had written to him about this, and he was going to the Gendarmerie Office to attend to these two matters, which he counted as one.
+
+The fourth matter he meant to attend to was the case of some sectarians who had been separated from their families and exiled to the Caucasus because they read and discussed the Gospels. It was not so much to them as to himself he had promised to do all he could to clear up this affair.
+
+Since his last visit to Maslennikoff, and especially since he had been in the country, Nekhludoff had not exactly formed a resolution but felt with his whole nature a loathing for that society in which he had lived till then, that society which so carefully hides the sufferings of millions in order to assure ease and pleasure to a small number of people, that the people belonging to this society do not and cannot see these sufferings, nor the cruelty and wickedness of their life. Nekhludoff could no longer move in this society without feeling ill at ease and reproaching himself.And yet all the ties of relationship and friendship, and his own habits, were drawing him back into this society. Besides, that which alone interested him now, his desire to help Maslova and the other sufferers, made it necessary to ask for help and service from persons belonging to that society, persons whom he not only could not respect, but who often aroused in him indignation and a feeling of contempt.
+
+When he came to Petersburg and stopped at his aunt’s--his mother’s sister, the Countess Tcharsky, wife of a former minister--Nekhludoff at once found himself in the very midst of that aristocratic circle which had grown so foreign to him. This was very unpleasant, but there was no possibility of getting out of it. To put up at an hotel instead of at his aunt’s house would have been to offend his aunt, and, besides, his aunt had important connections and might be extremely useful in all these matters he meant to attend to.
+
+“What is this I hear about you? All sorts of marvels,” said the Countess Katerina Ivanovna Tcharsky, as she gave him his coffee immediately after his arrival. “<i>Vous posez pour un Howard</i>. Helping criminals, going the round of prisons, setting things right.”
+
+“Oh, no. I never thought of it.”
+
+“Why not? It is a good thing, only there seems to be some romantic story connected with it. Let us hear all about it.”
+
+Nekhludoff told her the whole truth about his relations to Maslova.“Yes, yes, I remember your poor mother telling me about it. That was when you were staying with those old women. I believe they wished to marry you to their ward (the Countess Katerina Ivanovna had always despised Nekhludoff’s aunts on his father’s side). So it’s she. <i>Elle est encore jolie?</i>”
+
+Katerina Ivanovna was a strong, bright, energetic, talkative woman of 60. She was tall and very stout, and had a decided black moustache on her lip. Nekhludoff was fond of her and had even as a child been infected by her energy and mirth.
+
+“No, ma tante, that’s at an end. I only wish to help her, because she is innocently accused. I am the cause of it and the cause of her fate being what it is. I feel it my duty to do all I can for her.”
+
+“But what is this I have heard about your intention of marrying her?”
+
+“Yes, it was my intention, but she does not wish it.”
+
+Katerina Ivanovna looked at her nephew with raised brows and drooping eyeballs, in silent amazement. Suddenly her face changed, and with a look of pleasure she said: “Well, she is wiser than you. Dear me, you are a fool. And you would have married her?”
+
+“Most certainly.”
+
+“After her having been what she was?”“All the more, since I was the cause of it.”
+
+“Well, you are a simpleton,” said his aunt, repressing a smile, “a terrible simpleton; but it is just because you are such a terrible simpleton that I love you.” She repeated the word, evidently liking it, as it seemed to correctly convey to her mind the idea of her nephew’s moral state. “Do you know--What a lucky chance. Aline has a wonderful home--the Magdalene Home. I went there once. They are terribly disgusting. After that I had to pray continually. But Aline is devoted to it, body and soul, so we shall place her there--yours, I mean.”
+
+“But she is condemned to Siberia. I have come on purpose to appeal about it. This is one of my requests to you.”
+
+“Dear me, and where do you appeal to in this case?”
+
+“To the Senate.”
+
+“Ah, the Senate! Yes, my dear Cousin Leo is in the Senate, but he is in the heraldry department, and I don’t know any of the real ones. They are all some kind of Germans--Gay, Fay, Day--tout l’alphabet, or else all sorts of Ivanoffs, Simenoffs, Nikitines, or else Ivanenkos, Simonenkos, Nikitenkos, pour varier. Des gens de l’autre monde. Well, it is all the same. I’ll tell my husband, he knows them. He knows all sorts of people. I’ll tell him, but you will have to explain, he never understands me. Whatever I may say, he always maintains he does not understand it. C’est un parti pris, every one understands but only not he.”At this moment a footman with stockinged legs came in with a note on a silver platter.
+
+“There now, from Aline herself. You’ll have a chance of hearing Kiesewetter.”
+
+“Who is Kiesewetter?”
+
+“Kiesewetter? Come this evening, and you will find out who he is. He speaks in such a way that the most hardened criminals sink on their knees and weep and repent.”
+
+The Countess Katerina Ivanovna, however strange it may seem, and however little it seemed in keeping with the rest of her character, was a staunch adherent to that teaching which holds that the essence of Christianity lies in the belief in redemption. She went to meetings where this teaching, then in fashion, was being preached, and assembled the “faithful” in her own house. Though this teaching repudiated all ceremonies, icons, and sacraments, Katerina Ivanovna had icons in every room, and one on the wall above her bed, and she kept all that the Church prescribed without noticing any contradiction in that.
+
+“There now; if your Magdalene could hear him she would be converted,” said the Countess. “Do stay at home to-night; you will hear him. He is a wonderful man.”
+
+“It does not interest me, ma tante.”“But I tell you that it is interesting, and you must come home. Now you may go. What else do you want of me? <i>Videz votre sac</i>.”
+
+“The next is in the fortress.”
+
+“In the fortress? I can give you a note for that to the Baron Kriegsmuth. <i>Cest un tres brave homme</i>. Oh, but you know him; he was a comrade of your father’s. <i>Il donne dans le spiritisme</i>. But that does not matter, he is a good fellow. What do you want there?”
+
+“I want to get leave for a mother to visit her son who is imprisoned there. But I was told that this did not depend on Kriegsmuth but on Tcherviansky.”
+
+“I do not like Tcherviansky, but he is Mariette’s husband; we might ask her. She will do it for me. <i>Elle est tres gentille</i>.”
+
+“I have also to petition for a woman who is imprisoned there without knowing what for.”
+
+“No fear; she knows well enough. They all know it very well, and it serves them right, those short-haired [many advanced women wear their hair short, like men] ones.”
+
+“We do not know whether it serves them right or not. But they suffer. You are a Christian and believe in the Gospel teaching and yet you are so pitiless.”“That has nothing to do with it. The Gospels are the Gospels, but what is disgusting remains disgusting. It would be worse if I pretended to love Nihilists, especially short-haired women Nihilists, when I cannot bear them.”
+
+“Why can you not bear them?”
+
+“You ask why, after the 1st of March?” [The Emperor Alexander II was killed on the first of March, old style.]
+
+“They did not all take part in it on the 1st of March.”
+
+“Never mind; they should not meddle with what is no business of theirs. It’s not women’s business.”
+
+“Yet you consider that Mariette may take part in business.”
+
+“Mariette? Mariette is Mariette, and these are goodness knows what. Want to teach everybody.”
+
+“Not to teach but simply to help the people.”
+
+“One knows whom to help and whom not to help without them.”
+
+“But the peasants are in great need. I have just returned from the country. Is it necessary,that the peasants should work to the very limits of their strength and never have sufficient to eat while we are living in the greatest luxury?” said Nekhludoff, involuntarily led on by his aunt’s good nature into telling her what he was in his thoughts.
+
+“What do you want, then? That I should work and not eat anything?”
+
+“No, I do not wish you not to eat. I only wish that we should all work and all eat.” He could not help smiling as he said it.
+
+Again raising her brow and drooping her eyeballs his aunt looked at him curiously. “<i>Mon cher vous finirez mal</i>,” she said.
+
+Just then the general, and former minister, Countess Tcharsky’s husband, a tall, broad-shouldered man, came into the room.
+
+“Ah, Dmitri, how d’you do?” he said, turning his freshly-shaved cheek to Nekhludoff to be kissed. “When did you get here?” And he silently kissed his wife on the forehead.
+
+“<i>Non il est impayable</i>,” the Countess said, turning to her husband. “He wants me to go and wash clothes and live on potatoes. He is an awful fool, but all the same do what he is going to ask of you. A terrible simpleton,” she added. “Have you heard? Kamenskaya is in such despair that they fear for her life,” she said to her husband. “You should go and call there.”“Yes; it is dreadful,” said her husband.
+
+“Go along, then, and talk to him. I must write some letters.”
+
+Hardly had Nekhludoff stepped into the room next the drawing-room than she called him back.
+
+“Shall I write to Mariette, then?”
+
+“Please, ma tante.”
+
+“I shall leave a blank for what you want to say about the short-haired one, and she will give her husband his orders, and he’ll do it. Do not think me wicked; they are all so disgusting, your prologues, but <i>je ne leur veux pas de mal</i>, bother them. Well, go, but be sure to stay at home this evening to hear Kiesewetter, and we shall have some prayers. And if only you do not resist <i>cela vous fera beaucoup de bien</i>. I know your poor mother and all of you were always very backward in these things.”<b>CHAPTER XV.</b>
+
+AN AVERAGE STATESMAN.
+
+Count Ivan Michaelovitch had been a minister, and was a man of strong convictions. The convictions of Count Ivan Michaelovitch consisted in the belief that, just as it was natural for a bird to feed on worms, to be clothed in feathers and down, and to fly in the air, so it was natural for him to feed on the choicest and most expensive food, prepared by highly-paid cooks, to wear the most comfortable and most expensive clothing, to drive with the best and fastest horses, and that, therefore, all these things should be ready found for him. Besides this, Count Ivan Michaelovitch considered that the more money he could get out of the treasury by all sorts of means, the more orders he had, including different diamond insignia of something or other, and the oftener he spoke to highly-placed individuals of both sexes, so much the better it was.
+
+All the rest Count Ivan Michaelovitch considered insignificant and uninteresting beside these dogmas. All the rest might be as it was, or just the reverse. Count Ivan Michaelovitch lived and acted according to these lights for 40 years, and at the end of 40 years reached the position of a Minister of State. The chief qualities that enabled Count Ivan Michaelovitch to reach this position were his capacity of understanding the meaning of documents and laws and of drawing up, though clumsily, intelligible State papers, and of spelling them correctly; secondly, his very stately appearance, which enabled him, when necessary, to seem not only extremely proud, but unapproachable and majestic, while at other times he could be abjectly and almost passionately servile;thirdly, the absence of any general principles or rules, either of personal or administrative morality, which made it possible for him either to agree or disagree with anybody according to what was wanted at the time. When acting thus his only endeavour was to sustain the appearance of good breeding and not to seem too plainly inconsistent. As for his actions being moral or not, in themselves, or whether they were going to result in the highest welfare or greatest evil for the whole of the Russian Empire, or even the entire world, that was quite indifferent to him. When he became minister, not only those dependent on him (and there were great many of them) and people connected with him, but many strangers and even he himself were convinced that he was a very clever statesman. But after some time had elapsed and he had done nothing and had nothing to show, and when in accordance with the law of the struggle for existence others, like himself, who had learnt to write and understand documents, stately and unprincipled officials, had displaced him, he turned out to be not only far from clever but very limited and badly educated. Though self-assured, his views hardly reaching the level of those in the leading articles of the Conservative papers, it became apparent that there was nothing in him to distinguish him from those other badly-educated and self-assured officials who had pushed him out, and he himself saw it. But this did not shake his conviction that he had to receive a great deal of money out of the Treasury every year, and new decorations for his dress clothes.This conviction was so firm that no one had the pluck to refuse these things to him, and he received yearly, partly in form of a pension, partly as a salary for being a member in a Government institution and chairman of all sorts of committees and councils, several tens of thousands of roubles, besides the right--highly prized by him--of sewing all sorts of new cords to his shoulders and trousers, and ribbons to wear under and enamel stars to fix on to his dress coat. In consequence of this Count Ivan Michaelovitch had very high connections.
+
+Count Ivan Michaelovitch listened to Nekhludoff as he was wont to listen to the reports of the permanent secretary of his department, and, having heard him, said he would give him two notes, one to the Senator Wolff, of the Appeal Department. “All sorts of things are reported of him, but dans tous les cas c’est un homme tres comme ii faut,” he said. “He is indebted to me, and will do all that is possible.” The other note Count Ivan Michaelovitch gave Nekhludoff was to an influential member of the Petition Committee. The story of Theodosia Birukoff as told by Nekhludoff interested him very much. When Nekhludoff said that he thought of writing to the Empress, the Count replied that it certainly was a very touching story, and might, if occasion presented itself, he told her, but he could not promise. Let the petition be handed in in due form.
+
+Should there be an opportunity, and if a petit comite were called on Thursday, he thought he would tell her the story. As soon as Nekhludoff had received these two notes, and a note to Mariette from his aunt, he at once set off to these different places.First he went to Mariette’s. He had known her as a half-grown girl, the daughter of an aristocratic but not wealthy family, and had heard how she had married a man who was making a career, whom Nekhludoff had heard badly spoken of; and, as usual, he felt it hard to ask a favour of a man he did not esteem. In these cases he always felt an inner dissension and dissatisfaction, and wavered whether to ask the favour or not, and always resolved to ask. Besides feeling himself in a false position among those to whose set he no longer regarded himself as belonging, who yet regarded him as belonging to them, he felt himself getting into the old accustomed rut, and in spite of himself fell into the thoughtless and immoral tone that reigned in that circle. He felt that from the first, with his aunt, he involuntarily fell into a bantering tone while talking about serious matters.
+
+Petersburg in general affected him with its usual physically invigorating and mentally dulling effect.
+
+Everything so clean, so comfortably well-arranged and the people so lenient in moral matters, that life seemed very easy.
+
+A fine, clean, and polite isvostchik drove him past fine, clean, polite policemen, along the fine, clean, watered streets, past fine, clean houses to the house in which Mariette lived. At the front door stood a pair of English horses, with English harness, and an English-looking coachman on the box, with the lower part of his face shaved, proudly holding a whip.The doorkeeper, dressed in a wonderfully clean livery, opened the door into the hall, where in still cleaner livery with gold cords stood the footman with his splendid whiskers well combed out, and the orderly on duty in a brand-new uniform. “The general does not receive, and the generaless does not receive either. She is just going to drive out.”
+
+Nekhludoff took out Katerina Ivanovna’s letter, and going up to a table on which lay a visitors’ book, began to write that he was sorry not to have been able to see any one; when the footman went up the staircase the doorkeeper went out and shouted to the coachman, and the orderly stood up rigid with his arms at his sides following with his eyes a little, slight lady, who was coming down the stairs with rapid steps not in keeping with all the grandeur.
+
+Mariette had a large hat on, with feathers, a black dress and cape, and new black gloves. Her face was covered by a veil.
+
+When she saw Nekhludoff she lifted the veil off a very pretty face with bright eyes that looked inquiringly at him.
+
+“Ah, Prince Dmitri Ivanovitch Nekhludoff,” she said, with a soft, pleasant voice. “I should have known--”
+
+“What! you even remember my name?”
+
+“I should think so. Why, I and my sisters have even been in love with you,” she said, in French. “But, dear me, how you have altered.Oh, what a pity I have to go out. But let us go up again,” she said and stopped hesitatingly. Then she looked at the clock. “No, I can’t. I am going to Kamenskaya’s to attend a mass for the dead. She is terribly afflicted.”
+
+“Who is this Kamenskaya?”
+
+“Have you not heard? Her son was killed in a duel. He fought Posen. He was the only son. Terrible I The mother is very much afflicted.”
+
+“Yes. I have heard of it.”
+
+“No, I had better go, and you must come again, to-night or to-morrow,” she said, and went to the door with quick, light steps.
+
+“I cannot come to-night,” he said, going out after her; “but I have a request to make you,” and he looked at the pair of bays that were drawing up to the front door.
+
+“What is this?”
+
+“This is a letter from aunt to you,” said Nekhludoff, handing her a narrow envelope, with a large crest. “You’ll find all about it in there.”
+
+“I know Countess Katerina Ivanovna thinks I have some influence with my husband in business matters. She is mistaken. I can do nothing and do not like to interfere.But, of course, for you I am willing to be false to my principle. What is this business about?” she said, searching in vain for her pocket with her little black gloved hand.
+
+“There is a girl imprisoned in the fortress, and she is ill and innocent.”
+
+“What is her name?”
+
+“Lydia Shoustova. It’s in the note.”
+
+“All right; I’ll see what I can do,” she said, and lightly jumped into her little, softly upholstered, open carriage, its brightly-varnished splash-guards glistening in the sunshine, and opened her parasol. The footman got on the box and gave the coachman a sign. The carriage moved, but at that moment she touched the coachman with her parasol and the slim-legged beauties, the bay mares, stopped, bending their beautiful necks and stepping from foot to foot.
+
+“But you must come, only, please, without interested motives,” and she looked at him with a smile, the force of which she well knew, and, as if the performance over and she were drawing the curtain, she dropped the veil over her face again. “All right,” and she again touched the coachman.
+
+Nekhludoff raised his hat, and the well-bred bays, slightly snorting, set off, their shoes clattering on the pavement, and the carriage rolled quickly and smoothly on its new rubber tyres, giving a jump only now and then over some unevenness of the road.<b>CHAPTER XVI.</b>
+
+AN UP-TO-DATE SENATOR.
+
+When Nekhludoff remembered the smiles that had passed between him and Mariette, he shook his head.
+
+“You have hardly time to turn round before you are again drawn into this life,” he thought, feeling that discord and those doubts which the necessity to curry favour from people he did not esteem caused.
+
+After considering where to go first, so as not to have to retrace his steps, Nekhludoff set off for the Senate. There he was shown into the office where he found a great many very polite and very clean officials in the midst of a magnificent apartment. Maslova’s petition was received and handed on to that Wolf, to whom Nekhludoff had a letter from his uncle, to be examined and reported on.
+
+“There will be a meeting of the Senate this week,” the official said to Nekhludoff, “but Maslova’s case will hardly come before that meeting.”
+
+“It might come before the meeting on Wednesday, by special request,” one of the officials remarked.
+
+During the time Nekhludoff waited in the office, while some information was being taken,he heard that the conversation in the Senate was all about the duel, and he heard a detailed account of how a young man, Kaminski, had been killed. It was here he first heard all the facts of the case which was exciting the interest of all Petersburg. The story was this: Some officers were eating oysters and, as usual, drinking very much, when one of them said something ill-natured about the regiment to which Kaminski belonged, and Kaminski called him a liar. The other hit Kaminski. The next day they fought. Kaminski was wounded in the stomach and died two hours later. The murderer and the seconds were arrested, but it was said that though they were arrested and in the guardhouse they would be set free in a fortnight.
+
+From the Senate Nekhludoff drove to see an influential member of the petition Committee, Baron Vorobioff, who lived in a splendid house belonging to the Crown. The doorkeeper told Nekhludoff in a severe tone that the Baron could not be seen except on his reception days; that he was with His Majesty the Emperor to-day, and the next day he would again have to deliver a report. Nekhludoff left his uncle’s letter with the doorkeeper and went on to see the Senator Wolf. Wolf had just had his lunch, and was as usual helping digestion by smoking a cigar and pacing up and down the room, when Nekhludoff came in. Vladimir Vasilievitch Wolf was certainly <i>un homme tres comme il faut</i>, and prized this quality very highly, and from that elevation he looked down at everybody else. He could not but esteem this quality of his very highly, because it was thanks to it alone that he had made a brilliant career, the very career he desired, i.e., by marriage he obtained a fortune which brought him in 18,000 roubles a year, and by his own exertions the post of a senator. He considered himself not only <i>un homme tres comme il faut</i>, but also a man of knightly honour.By honour he understood not accepting secret bribes from private persons. But he did not consider it dishonest to beg money for payment of fares and all sorts of travelling expenses from the Crown, and to do anything the Government might require of him in return. To ruin hundreds of innocent people, to cause them to be imprisoned, to be exiled because of their love for their people and the religion of their fathers, as he had done in one of the governments of Poland when he was governor there. He did not consider it dishonourable, but even thought it a noble, manly and patriotic action. Nor did he consider it dishonest to rob his wife and sister-in-law, as he had done, but thought it a wise way of arranging his family life. His family consisted of his commonplace wife, his sister-in-law, whose fortune he had appropriated by selling her estate and putting the money to his account, and his meek, frightened, plain daughter, who lived a lonely, weary life, from which she had lately begun to look for relaxation in evangelicism, attending meetings at Aline’s, and the Countess Katerina Ivanovna. Wolf’s son, who had grown a beard at the age of 15, and had at that age begun to drink and lead a depraved life, which he continued to do till the age of 20, when he was turned out by his father because he never finished his studies, moved in a low set and made debts which committed the father. The father had once paid a debt of 250 roubles for his son, then another of 600 roubles, but warned the son that he did it for the last time, and that if the son did not reform he would be turned out of the house and all further intercourse between him and his family would he put a stop to. The son did not reform, but made a debt of a thousand roubles, and took the liberty of telling his father that life at home was a torment anyhow.Then Wolf declared to his son that he might go where he pleased--that he was no son of his any longer. Since then Wolf pretended he had no son, and no one at home dared speak to him about his son, and Vladimir Vasilievitch Wolf was firmly convinced that he had arranged his family life in the best way. Wolf stopped pacing up and down his study, and greeted Nekhludoff with a friendly though slightly ironical smile. This was his way of showing how comme il faut he was, and how superior to the majority of men. He read the note which Nekhludoff handed to him.
+
+“Please take a seat, and excuse me if I continue to walk up and down, with your permission,” he said, putting his hands into his coat pockets, and began again to walk with light, soft steps across his large, quietly and stylishly furnished study. “Very pleased to make your acquaintance and of course very glad to do anything that Count Ivan Michaelovitch wishes,” he said, blowing the fragrant blue smoke out of his mouth and removing his cigar carefully so as not to drop the ash.
+
+“I should only like to ask that the case might come on soon, so that if the prisoner has to go to Siberia she might set off early,” said Nekhludoff.
+
+“Yes, yes, with one of the first steamers from Nijni. I know,” said Wolf, with his patronising smile, always knowing in advance whatever one wanted to tell him.
+
+“What is the prisoner’s name?”“Maslova.”
+
+Wolf went up to the table and looked at a paper that lay on a piece of cardboard among other business papers.
+
+“Yes, yes. Maslova. All right, I will ask the others. We shall hear the case on Wednesday.”
+
+“Then may I telegraph to the advocate?”
+
+“The advocate! What’s that for? But if you like, why not?”
+
+“The causes for appeal may be insufficient,” said Nekhludoff, “but I think the case will show that the sentence was passed owing to a misunderstanding.”
+
+“Yes, yes; it may be so, but the Senate cannot decide the case on its merits,” said Wolf, looking seriously at the ash of his cigar. “The Senate only considers the exactness of the application of the laws and their right interpretation.”
+
+“But this seems to me to be an exceptional case.”
+
+“I know, I know! All cases are exceptional. We shall do our duty. That’s all.” The ash was still holding on, but had began breaking, and was in danger of falling.“Do you often come to Petersburg?” said Wolf, holding his cigar so that the ash should not fall. But the ash began to shake, and Wolf carefully carried it to the ashpan, into which it fell.
+
+“What a terrible thing this is with regard to Kaminski,” he said. “A splendid young man. The only son. Especially the mother’s position,” he went on, repeating almost word for word what every one in Petersburg was at that time saying about Kaminski. Wolf spoke a little about the Countess Katerina Ivanovna and her enthusiasm for the new religious teaching, which he neither approved nor disapproved of, but which was evidently needless to him who was so comme il faut, and then rang the bell.
+
+Nekhludoff bowed.
+
+“If it is convenient, come and dine on Wednesday, and I will give you a decisive answer,” said Wolf, extending his hand.
+
+It was late, and Nekhludoff returned to his aunt’s.<b>CHAPTER XVII.</b>
+
+COUNTESS KATERINA IVANOVNA’S DINNER PARTY.
+
+Countess Katerina Ivanovna’s dinner hour was half-past seven, and the dinner was served in a new manner that Nekhludoff had not yet seen anywhere. After they had placed the dishes on the table the waiters left the room and the diners helped themselves. The men would not let the ladies take the trouble of moving, and, as befitted the stronger sex, they manfully took on themselves the burden of putting the food on the ladies’ plates and of filling their glasses. When one course was finished, the Countess pressed the button of an electric bell fitted to the table and the waiters stepped in noiselessly and quickly carried away the dishes, changed the plates, and brought in the next course. The dinner was very refined, the wines very costly. A French chef was working in the large, light kitchens, with two white-clad assistants. There were six persons at dinner, the Count and Countess, their son (a surly officer in the Guards who sat with his elbows on the table), Nekhludoff, a French lady reader, and the Count’s chief steward, who had come up from the country. Here, too, the conversation was about the duel, and opinions were given as to how the Emperor regarded the case. It was known that the Emperor was very much grieved for the mother’s sake, and all were grieved for her, and as it was also known that the Emperor did not mean to be very severe to the murderer, who defended the honour of his uniform, all were also lenient to the officer who had defended the honour of his uniform. Only the Countess Katerina Ivanovna, with her free thoughtlessness, expressed her disapproval.“They get drunk, and kill unobjectionable young men. I should not forgive them on any account,” she said.
+
+“Now, that’s a thing I cannot understand,” said the Count.
+
+“I know that you never can understand what I say,” the Countess began, and turning to Nekhludoff, she added:
+
+“Everybody understands except my husband. I say I am sorry for the mother, and I do not wish him to be contented, having killed a man.” Then her son, who had been silent up to then, took the murderer’s part, and rudely attacked his mother, arguing that an officer could not behave in any other way, because his fellow-officers would condemn him and turn him out of the regiment. Nekhludoff listened to the conversation without joining in. Having been an officer himself, he understood, though he did not agree with, young Tcharsky’s arguments, and at the same time he could not help contrasting the fate of the officer with that of a beautiful young convict whom he had seen in the prison, and who was condemned to the mines for having killed another in a fight. Both had turned murderers through drunkenness. The peasant had killed a man in a moment of irritation, and he was parted from his wife and family, had chains on his legs, and his head shaved, and was going to hard labour in Siberia, while the officer was sitting in a fine room in the guardhouse, eating a good dinner, drinking good wine, and reading books, and would be set free in a day or two to live as he had done before, having only become more interesting by the affair.Nekhludoff said what he had been thinking, and at first his aunt, Katerina Ivanovna, seemed to agree with him, but at last she became silent as the rest had done, and Nekhludoff felt that he had committed something akin to an impropriety. In the evening, soon after dinner, the large hall, with high-backed carved chairs arranged in rows as for a meeting, and an armchair next to a little table, with a bottle of water for the speaker, began to fill with people come to hear the foreigner, Kiesewetter, preach. Elegant equipages stopped at the front entrance. In the hall sat richly-dressed ladies in silks and velvets and lace, with false hair and false busts and drawn-in waists, and among them men in uniform and evening dress, and about five persons of the common class, i.e., two men-servants, a shop-keeper, a footman, and a coachman. Kiesewetter, a thick-set, grisly man, spoke English, and a thin young girl, with a pince-nez, translated it into Russian promptly and well. He was saying that our sins were so great, the punishment for them so great and so unavoidable, that it was impossible to live anticipating such punishment. “Beloved brothers and sisters, let us for a moment consider what we are doing, how we are living, how we have offended against the all-loving Lord, and how we make Christ suffer, and we cannot but understand that there is no forgiveness possible for us, no escape possible, that we are all doomed to perish. A terrible fate awaits us---everlasting torment,” he said, with tears in his trembling voice. “Oh, how can we be saved, brothers? How can we be saved from this terrible, unquenchable fire? The house is in flames; there is no escape.”He was silent for a while, and real tears flowed down his cheeks. It was for about eight years that each time when he got to this part of his speech, which he himself liked so well, he felt a choking in his throat and an irritation in his nose, and the tears came in his eyes, and these tears touched him still more. Sobs were heard in the room. The Countess Katerina Ivanovna sat with her elbows on an inlaid table, leaning her head on her hands, and her shoulders were shaking. The coachman looked with fear and surprise at the foreigner, feeling as if he was about to run him down with the pole of his carriage and the foreigner would not move out of his way. All sat in positions similar to that Katerina Ivanovna had assumed. Wolf’s daughter, a thin, fashionably-dressed girl, very like her father, knelt with her face in her hands.
+
+The orator suddenly uncovered his face, and smiled a very real-looking smile, such as actors express joy with, and began again with a sweet, gentle voice:
+
+“Yet there is a way to be saved. Here it is--a joyful, easy way. The salvation is the blood shed for us by the only son of God, who gave himself up to torments for our sake. His sufferings, His blood, will save us. Brothers and sisters,” he said, again with tears in his voice, “let us praise the Lord, who has given His only begotten son for the redemption of mankind. His holy blood . . .”
+
+Nekhludoff felt so deeply disgusted that he rose silently, and frowning and keeping back a groan of shame, he left on tiptoe, and went to his room.<b>CHAPTER XVIII.</b>
+
+OFFICIALDOM.
+
+Hardly had Nekhludoff finished dressing the next morning, just as he was about to go down, the footman brought him a card from the Moscow advocate. The advocate had come to St. Petersburg on business of his own, and was going to be present when Maslova’s case was examined in the Senate, if that would be soon. The telegram sent by Nekhludoff crossed him on the way. Having found out from Nekhludoff when the case was going to be heard, and which senators were to be present, he smiled. “Exactly, all the three types of senators,” he said. “Wolf is a Petersburg official; Skovorodnikoff is a theoretical, and Bay a practical lawyer, and therefore the most alive of them all,” said the advocate. “There is most hope of him. Well, and how about the Petition Committee?”
+
+“Oh, I’m going to Baron Vorobioff to-day. I could not get an audience with him yesterday.”
+
+“Do you know why he is <i>Baron</i> Vorobioff?” said the advocate, noticing the slightly ironical stress that Nekhludoff put on this foreign title, followed by so very Russian a surname.
+
+“That was because the Emperor Paul rewarded the grandfather--I think he was one of the Court footmen--by giving him this title. He managed to please him in some way, so he made him a baron. ‘It’s my wish, so don’t gainsay me!’ And so there’s a <i>Baron</i> Vorobioff, and very proud of the title.He is a dreadful old humbug.”
+
+“Well, I’m going to see him,” said Nekhludoff.
+
+“That’s good; we can go together. I shall give you a lift.”
+
+As they were going to start, a footman met Nekhludoff in the ante-room, and handed him a note from Mariette:
+
+<i>Pour vous faire plaisir, f’ai agi tout a fait contre mes principes et j’ai intercede aupres de mon mari pour votre protegee. Il se trouve que cette personne pout etre relaxee immediatement. Mon mari a ecrit au commandant. Venez donc disinterestedly. Je vous attends.</i>
+
+<i>M.</i>
+
+“Just fancy!” said Nekhludoff to the advocate. “Is this not dreadful? A woman whom they are keeping in solitary confinement for seven months turns out to be quite innocent, and only a word was needed to get her released.”
+
+“That’s always so. Well, anyhow, you have succeeded in getting what you wanted.”
+
+“Yes, but this success grieves me. Just think what must be going on there. Why have they been keeping her?”“Oh, it’s best not to look too deeply into it. Well, then, I shall give you a lift, if I may,” said the advocate, as they left the house, and a fine carriage that the advocate had hired drove up to the door. “It’s Baron Vorobioff you are going to see?”
+
+The advocate gave the driver his directions, and the two good horses quickly brought Nekhludoff to the house in which the Baron lived. The Baron was at home. A young official in uniform, with a long, thin neck, a much protruding Adam’s apple, and an extremely light walk, and two ladies were in the first room.
+
+“Your name, please?” the young man with the Adam’s apple asked, stepping with extreme lightness and grace across from the ladies to Nekhludoff.
+
+Nekhludoff gave his name.
+
+“The Baron was just mentioning you,” said the young man, the Baron’s adjutant, and went out through an inner door. He returned, leading a weeping lady dressed in mourning. With her bony fingers the lady was trying to pull her tangled veil over her face in order to hide her tears.
+
+“Come in, please,” said the young man to Nekhludoff, lightly stepping up to the door of the study and holding it open. When Nekhludoff came in, he saw before him a thick-set man of medium height, with short hair, in a frock coat, who was sitting in an armchair opposite a large writing-table, and looking gaily in front of himself.The kindly, rosy red face, striking by its contrast with the white hair, moustaches, and beard, turned towards Nekhludoff with a friendly smile.
+
+“Very glad to see you. Your mother and I were old acquaintances and friends. I have seen you as a boy, and later on as an officer. Sit down and tell me what I can do for you. Yes, yes,” he said, shaking his cropped white head, while Nekhludoff was telling him Theodosia’s story. “Go on, go on. I quite understand. It is certainly very touching. And have you handed in the petition?”
+
+“I have got the petition ready,” Nekhludoff said, getting it out of his pocket; “but I thought of speaking to you first in hopes that the case would then get special attention paid to it.”
+
+“You have done very well. I shall certainly report it myself,” said the Baron, unsuccessfully trying to put an expression of pity on his merry face. “Very touching! It is clear she was but a child; the husband treated her roughly, this repelled her, but as time went on they fell in love with each other. Yes I will report the case.”
+
+“Count Ivan Michaelovitch was also going to speak about it.”
+
+Nekhludoff had hardly got these words out when the Baron’s face changed.
+
+“You had better hand in the petition into the office, after all, and I shall do what I can,” he said.At this moment the young official again entered the room, evidently showing off his elegant manner of walking.
+
+“That lady is asking if she may say a few words more.”
+
+“Well, ask her in. Ah, mon cher, how many tears we have to see shed! If only we could dry them all. One does all that lies within one’s power.”
+
+The lady entered.
+
+“I forgot to ask you that he should not be allowed to give up the daughter, because he is ready . . .”
+
+“But I have already told you that I should do all I can.”
+
+“Baron, for the love of God! You will save the mother?”
+
+She seized his hand, and began kissing it.
+
+“Everything shall be done.”
+
+When the lady went out Nekhludoff also began to take leave.
+
+“We shall do what we can. I shall speak about it at the Ministry of Justice, and when we get their answer we shall do what we can.”Nekhludoff left the study, and went into the office again. Just as in the Senate office, he saw, in a splendid apartment, a number of very elegant officials, clean, polite, severely correct and distinguished in dress and in speech.
+
+“How many there are of them; how very many and how well fed they all look! And what clean shirts and hands they all have, and how well all their boots are polished! Who does it for them? How comfortable they all are, as compared not only with the prisoners, but even with the peasants!” These thoughts again involuntarily came to Nekhludoff’s mind.<b>CHAPTER XIX.</b>
+
+AN OLD GENERAL OF REPUTE.
+
+The man on whom depended the easing of the fate of the Petersburg prisoners was an old General of repute--a baron of German descent, who, as it was said of him, had outlived his wits. He had received a profusion of orders, but only wore one of them, the Order of the White Cross. He had received this order, which he greatly valued, while serving in the Caucasus, because a number of Russian peasants, with their hair cropped, and dressed in uniform and armed with guns and bayonets, had killed at his command more than a thousand men who were defending their liberty, their homes, and their families. Later on he served in Poland, and there also made Russian peasants commit many different crimes, and got more orders and decorations for his uniform. Then he served somewhere else, and now that he was a weak, old man he had this position, which insured him a good house, an income and respect. He strictly observed all the regulations which were prescribed “from above,” and was very zealous in the fulfilment of these regulations, to which he ascribed a special importance, considering that everything else in the world might be changed except the regulations prescribed “from above.” His duty was to keep political prisoners, men and women, in solitary confinement in such a way that half of them perished in 10 years’ time, some going out of their minds, some dying of consumption, some committing suicide by starving themselves to death, cutting their veins with bits of glass, hanging, or burning themselves to death.The old General was not ignorant of this; it all happened within his knowledge; but these cases no more touched his conscience than accidents brought on by thunderstorms, floods, etc. These cases occurred as a consequence of the fulfilment of regulations prescribed “from above” by His Imperial Majesty. These regulations had to be carried out without fail, and therefore it was absolutely useless to think of the consequences of their fulfilment. The old General did not even allow himself to think of such things, counting it his patriotic duty as a soldier not to think of them for fear of getting weak in the carrying out of these, according to his opinion, very important obligations. Once a week the old General made the round of the cells, one of the duties of his position, and asked the prisoners if they had any requests to make. The prisoners had all sorts of requests. He listened to them quietly, in impenetrable silence, and never fulfilled any of their requests, because they were all in disaccord with the regulations. Just as Nekhludoff drove up to the old General’s house, the high notes of the bells on the belfry clock chimed “Great is the Lord,” and then struck two. The sound of these chimes brought back to Nekhludoff’s mind what he had read in the notes of the Decembrists [the Decembrists were a group who attempted, but failed, to put an end to absolutism in Russia at the time of the accession of Nicholas the First] about the way this sweet music repeated every hour re-echoes in the hearts of those imprisoned for life.Meanwhile the old General was sitting in his darkened drawing-room at an inlaid table, turning a saucer on a piece of paper with the aid of a young artist, the brother of one of his subordinates. The thin, weak, moist fingers of the artist were pressed against the wrinkled and stiff-jointed fingers of the old General, and the hands joined in this manner were moving together with the saucer over a paper that had all the letters of the alphabet written on it. The saucer was answering the questions put by the General as to how souls will recognise each other after death.
+
+When Nekhludoff sent in his card by an orderly acting as footman, the soul of Joan of Arc was speaking by the aid of the saucer. The soul of Joan of Arc had already spelt letter by letter the words: “They well knew each other,” and these words had been written down. When the orderly came in the saucer had stopped first on b, then on y, and began jerking hither and thither. This jerking was caused by the General’s opinion that the next letter should be b, i.e., Joan of Arc ought to say that the souls will know each other by being cleansed of all that is earthly, or something of the kind, clashing with the opinion of the artist, who thought the next letter should be l, i.e., that the souls should know each other by light emanating from their astral bodies. The General, with his bushy grey eyebrows gravely contracted, sat gazing at the hands on the saucer, and, imagining that it was moving of its own accord, kept pulling the saucer towards b. The pale-faced young artist, with his thin hair combed back behind his cars, was looking with his lifeless blue eyes into a dark corner of the drawing-room, nervously moving his lips and pulling the saucer towards l.The General made a wry face at the interruption, but after a moment’s pause he took the card, put on his pince-nez, and, uttering a groan, rose, in spite of the pain in his back, to his full height, rubbing his numb fingers.
+
+“Ask him into the study.”
+
+“With your excellency’s permission I will finish it alone,” said the artist, rising. “I feel the presence.”
+
+“All right, finish alone,” the General said, severely and decidedly, and stepped quickly, with big, firm and measured strides, into his study.
+
+“Very pleased to see you,” said the General to Nekhludoff, uttering the friendly words in a gruff tone, and pointing to an armchair by the side of the writing-table. “Have you been in Petersburg long?”
+
+Nekhludoff replied that he had only lately arrived.
+
+“Is the Princess, your mother, well?”
+
+“My mother is dead.”
+
+“Forgive me; I am very sorry. My son told me he had met you.”
+
+The General’s son was making the same kind of career for himself that the father had done, and, having passed the Military Academy,was now serving in the Inquiry Office, and was very proud of his duties there. His occupation was the management of Government spies.
+
+“Why, I served with your father. We were friends--comrades. And you; are you also in the Service?”
+
+“No, I am not.”
+
+The General bent his head disapprovingly.
+
+“I have a request to make, General.”
+
+“Very pleased. In what way can I be of service to you?”
+
+“If my request is out of place pray pardon me. But I am obliged to make it.”
+
+“What is it?”
+
+“There is a certain Gourkevitch imprisoned in the fortress; his mother asks for an interview with him, or at least to be allowed to send him some books.”
+
+The General expressed neither satisfaction nor dissatisfaction at Nekhludoff’s request, but bending his head on one side he closed his eyes as if considering. In reality he was not considering anything, and was not even interested in Nekhludoff’s questions, well knowing that he would answer them according to the law. He was simply resting mentally and not thinking at all.“You see,” he said at last, “this does not depend on me. There is a regulation, confirmed by His Majesty, concerning interviews; and as to books, we have a library, and they may have what is permitted.”
+
+“Yes, but he wants scientific books; he wishes to study.”
+
+“Don’t you believe it,” growled the General. “It’s not study he wants; it is just only restlessness.”
+
+“But what is to be done? They must occupy their time somehow in their hard condition,” said Nekhludoff.
+
+“They are always complaining,” said the General. “We know them.”
+
+He spoke of them in a general way, as if they were all a specially bad race of men. “They have conveniences here which can be found in few places of confinement,” said the General, and he began to enumerate the comforts the prisoners enjoyed, as if the aim of the institution was to give the people imprisoned there a comfortable home.
+
+“It is true it used to be rather rough, but now they are very well kept here,” he continued. “They have three courses for dinner--and one of them meat--cutlets, or rissoles; and on Sundays they get a fourth--a sweet dish. God grant every Russian may eat as well as they do.”Like all old people, the General, having once got on to a familiar topic, enumerated the various proofs he had often given before of the prisoners being exacting and ungrateful.
+
+“They get books on spiritual subjects and old journals. We have a library. Only they rarely read. At first they seem interested, later on the new books remain uncut, and the old ones with their leaves unturned. We tried them,” said the old General, with the dim likeness of a smile. “We put bits of paper in on purpose, which remained just as they had been placed. Writing is also not forbidden,” he continued. “A slate is provided, and a slate pencil, so that they can write as a pastime. They can wipe the slate and write again. But they don’t write, either. Oh, they very soon get quite tranquil. At first they seem restless, but later on they even grow fat and become very quiet.” Thus spoke the General, never suspecting the terrible meaning of his words.
+
+Nekhludoff listened to the hoarse old voice, looked at the stiff limbs, the swollen eyelids under the grey brows, at the old, clean-shaved, flabby jaw, supported by the collar of the military uniform, at the white cross that this man was so proud of, chiefly because he had gained it by exceptionally cruel and extensive slaughter, and knew that it was useless to reply to the old man or to explain the meaning of his own words to him.
+
+He made another effort, and asked about the prisoner Shoustova, for whose release, as he had been informed that morning, orders were given.“Shoustova--Shoustova? I cannot remember all their names, there are so many of them,” he said, as if reproaching them because there were so many. He rang, and ordered the secretary to be called. While waiting for the latter, he began persuading Nekhludoff to serve, saying that “honest noblemen,” counting himself among the number, “were particularly needed by the Tsar and--the country,” he added, evidently only to round off his sentence. “I am old, yet I am serving still, as well as my strength allows.”
+
+The secretary, a dry, emaciated man, with restless, intelligent eyes, came in and reported that Shoustova was imprisoned in some queer, fortified place, and that he had received no orders concerning her.
+
+“When we get the order we shall let her out the same day. We do not keep them; we do not value their visits much,” said the General, with another attempt at a playful smile, which only distorted his old face.
+
+Nekhludoff rose, trying to keep from expressing the mixed feelings of repugnance and pity which he felt towards this terrible old man. The old man on his part considered that he should not be too severe on the thoughtless and evidently misguided son of his old comrade, and should not leave him without advice.
+
+“Good-bye, my dear fellow; do not take it amiss. It is my affection that makes me say it. Do not keep company with such people as we have at our place here. There are no innocent ones among them. All these people are most immoral. We know them,” he said, in a tone that admitted no possibility of doubt.And he did not doubt, not because the thing was so, but because if it was not so, he would have to admit himself to be not a noble hero living out the last days of a good life, but a scoundrel, who sold, and still continued in his old age to sell, his conscience.
+
+“Best of all, go and serve,” he continued; “the Tsar needs honest men--and the country,” he added. “Well, supposing I and the others refused to serve, as you are doing? Who would be left? Here we are, finding fault with the order of things, and yet not wishing to help the Government.”
+
+With a deep sigh Nekhludoff made a low bow, shook the large, bony hand condescendingly stretched out to him and left the room.
+
+The General shook his head reprovingly, and rubbing his back, he again went into the drawing-room where the artist was waiting for him. He had already written down the answer given by the soul of Joan of Arc. The General put on his pince-nez and read, “Will know one another by light emanating from their astral bodies.”
+
+“Ah,” said the General, with approval, and closed his eyes. “But how is one to know if the light of all is alike?” he asked, and again crossed fingers with the artist on the saucer.
+
+The isvostchik drove Nekhludoff out of the gate.It is dull here, sir, he said, turning to Nekhludoff. “I almost wished to drive off without waiting for you.”
+
+Nekhludoff agreed. “Yes, it is dull,” and he took a deep breath, and looked up with a sense of relief at the grey clouds that were floating in the sky, and at the glistening ripples made by the boats and steamers on the Neva.<b>CHAPTER XX.</b>
+
+MASLOVA’S APPEAL.
+
+The next day Maslova’s case was to be examined at the Senate, and Nekhludoff and the advocate met at the majestic portal of the building, where several carriages were waiting. Ascending the magnificent and imposing staircase to the first floor, the advocate, who knew all the ins and outs of the place, turned to the left and entered through a door which had the date of the introduction of the Code of Laws above it.
+
+After taking off his overcoat in the first narrow room, he found out from the attendant that the Senators had all arrived, and that the last had just come in. Fanarin, in his swallow-tail coat, a white tie above the white shirt-front, and a self-confident smile on his lips, passed into the next room. In this room there were to the right a large cupboard and a table, and to the left a winding staircase, which an elegant official in uniform was descending with a portfolio under his arm. In this room an old man with long, white hair and a patriarchal appearance attracted every one’s attention. He wore a short coat and grey trousers. Two attendants stood respectfully beside him. The old man with white hair entered the cupboard and shut himself in.
+
+Fanarin noticed a fellow-advocate dressed in the same way as himself, with a white tie and dress coat, and at once entered into an animated conversation with him.Nekhludoff was meanwhile examining the people in the room. The public consisted of about 15 persons, of whom two were ladies--a young one with a pince-nez, and an old, grey-haired one.
+
+A case of libel was to be heard that day, and therefore the public were more numerous than usual--chiefly persons belonging to the journalistic world.
+
+The usher, a red-cheeked, handsome man in a fine uniform, came up to Fanarin and asked him what his business was. When he heard that it was the case of Maslova, he noted something down and walked away. Then the cupboard door opened and the old man with the patriarchal appearance stepped out, no longer in a short coat but in a gold-trimmed attire, which made him look like a bird, and with metal plates on his breast. This funny costume seemed to make the old man himself feel uncomfortable, and, walking faster than his wont, he hurried out of the door opposite the entrance.
+
+“That is Bay, a most estimable man,” Fanarin said to Nekhludoff, and then having introduced him to his colleague, he explained the case that was about to be heard, which he considered very interesting.
+
+The hearing of the case soon commenced, and Nekhludoff, with the public, entered the left side of the Senate Chamber. They all, including Fanarin, took their places behind a grating. Only the Petersburg advocate went up to a desk in front of the grating.The Senate Chamber was not so big as the Criminal Court; and was more simply furnished, only the table in front of the senators was covered with crimson, gold-trimmed velvet, instead of green cloth; but the attributes of all places of judgment, i.e., the mirror of justice, the icon, the emblem of hypocrisy, and the Emperor’s portrait, the emblem of servility, were there.
+
+The usher announced, in the same solemn manner: “The Court is coming.” Every one rose in the same way, and the senators entered in their uniforms and sat down on highbacked chairs and leant on the table, trying to appear natural, just in the same way as the judges in the Court of Law. There were four senators present--Nikitin, who took the chair, a clean-shaved man with a narrow face and steely eyes; Wolf, with significantly compressed lips, and little white hands, with which he kept turning over the pages of the business papers; Skovorodnikoff, a heavy, fat, pockmarked man--the learned lawyer; and Bay, the patriarchal-looking man who had arrived last.
+
+With the advocates entered the chief secretary and public prosecutor, a lean, clean-shaven young man of medium height, a very dark complexion, and sad, black eyes. Nekhludoff knew him at once, in spite of his curious uniform and the fact that he had not seen him for six years. He had been one of his best friends in Nekhludoff’s student days.
+
+“The public prosecutor Selenin?” Nekhludoff asked, turning to the advocate.
+
+“Yes. Why?”“I know him well. He is a fine fellow.”
+
+“And a good public prosecutor; business-like. Now he is the man you should have interested.”
+
+“He will act according to his conscience in any case,” said Nekhludoff, recalling the intimate relations and friendship between himself and Selenin, and the attractive qualities of the latter--purity, honesty, and good breeding in its best sense.
+
+“Yes, there is no time now,” whispered Fanarin, who was listening to the report of the case that had commenced.
+
+The Court of Justice was accused of having left a decision of the Court of Law unaltered.
+
+Nekhludoff listened and tried to make out the meaning of what was going on; but, just as in the Criminal Court, his chief difficulty was that not the evidently chief point, but some side issues, were being discussed. The case was that of a newspaper which had published the account of a swindle arranged by a director of a limited liability company. It seemed that the only important question was whether the director of the company really abused his trust, and how to stop him from doing it.But the questions under consideration were whether the editor had a right to publish this article of his contributor, and what he had been guilty of in publishing it: slander or libel, and in what way slander included libel, or libel included slander, and something rather incomprehensible to ordinary people about all sorts of statutes and resolutions passed by some General Department.
+
+The only thing clear to Nekhludoff was that, in spite of what Wolf had so strenuously insisted on, the day before, i.e., that the Senate could not try a case on its merits, in this case he was evidently strongly in favour of repealing the decision of the Court of Justice, and that Selenin, in spite of his characteristic reticence, stated the opposite opinion with quite unexpected warmth. The warmth, which surprised Nekhludoff, evinced by the usually self-controlled Selenin, was due to his knowledge of the director’s shabbiness in money matters, and the fact, which had accidentally come to his cars, that Wolf had been to a swell dinner party at the swindler’s house only a few days before.
+
+Now that Wolf spoke on the case, guardedly enough, but with evident bias, Selenin became excited, and expressed his opinion with too much nervous irritation for an ordinary business transaction.
+
+It was clear that Selenin’s speech had offended Wolf. He grew red, moved in his chair, made silent gestures of surprise, and at last rose, with a very dignified and injured look, together with the other senators, and went out into the debating-room.“What particular case have you come about?” the usher asked again, addressing Fanarin.
+
+“I have already told you: Maslova’s case.”
+
+“Yes, quite so. It is to be heard to-day, but--”
+
+“But what?” the advocate asked.
+
+“Well, you see, this case was to be examined without taking sides, so that the senators will hardly come out again after passing the resolution. But I will inform them.”
+
+“What do you mean?”
+
+“I’ll inform them; I’ll inform them.” And the usher again put something down on his paper.
+
+The Senators really meant to pronounce their decision concerning the libel case, and then to finish the other business, Maslova’s case among it, over their tea and cigarettes, without leaving the debating-room.<b>CHAPTER XXI.</b>
+
+THE APPEAL DISMISSED.
+
+As soon as the Senators were seated round the table in the debating-room, Wolf began to bring forward with great animation all the motives in favour of a repeal. The chairman, an ill-natured man at best, was in a particularly bad humour that day. His thoughts were concentrated on the words he had written down in his memoranda on the occasion when not he but Viglanoff was appointed to the important post he had long coveted. It was the chairman, Nikitin’s, honest conviction that his opinions of the officials of the two upper classes with which he was in connection would furnish valuable material for the historians. He had written a chapter the day before in which the officials of the upper classes got it hot for preventing him, as he expressed it, from averting the ruin towards which the present rulers of Russia were driving it, which simply meant that they had prevented his getting a better salary. And now he was considering what a new light to posterity this chapter would shed on events.
+
+“Yes, certainly,” he said, in reply to the words addressed to him by Wolf, without listening to them.
+
+Bay was listening to Wolf with a sad face and drawing a garland on the paper that lay before him. Bay was a Liberal of the very first water. He held sacred the Liberal traditions of the sixth decade of this century, and if he ever overstepped the limits of strict neutrality it was always in the direction of Liberalism.So in this case; beside the fact that the swindling director, who was prosecuting for libel, was a bad lot, the prosecution of a journalist for libel in itself tending, as it did, to restrict the freedom of the press, inclined Bay to reject the appeal.
+
+When Wolf concluded his arguments Bay stopped drawing his garland and began in a sad and gentle voice (he was sad because he was obliged to demonstrate such truisms) concisely, simply and convincingly to show how unfounded the accusation was, and then, bending his white head, he continued drawing his garland.
+
+Skovorodnikoff, who sat opposite Wolf, and, with his fat fingers, kept shoving his beard and moustaches into his mouth, stopped chewing his beard as soon as Bay was silent, and said with a loud, grating voice, that, notwithstanding the fact of the director being a terrible scoundrel, he would have been for the repeal of the sentence if there were any legal reasons for it; but, as there were none, he was of Bay’s opinion. He was glad to put this spoke in Wolf’s wheel.
+
+The chairman agreed with Skovorodnikoff, and the appeal was rejected.
+
+Wolf was dissatisfied, especially because it was like being caught acting with dishonest partiality; so he pretended to be indifferent, and, unfolding the document which contained Maslova’s case, he became engrossed in it. Meanwhile the Senators rang and ordered tea, and began talking about the event that, together with the duel, was occupying the Petersburgers.It was the case of the chief of a Government department, who was accused of the crime provided for in Statute 995.
+
+“What nastiness,” said Bay, with disgust.
+
+“Why; where is the harm of it? I can show you a Russian book containing the project of a German writer, who openly proposes that it should not be considered a crime,” said Skovorodnikoff, drawing in greedily the fumes of the crumpled cigarette, which he held between his fingers close to the palm, and he laughed boisterously.
+
+“Impossible!” said Bay.
+
+“I shall show it you,” said Skovorodnikoff, giving the full title of the book, and even its date and the name of its editor.
+
+“I hear he has been appointed governor to some town in Siberia.”
+
+“That’s fine. The archdeacon will meet him with a crucifix. They ought to appoint an archdeacon of the same sort,” said Skovorodnikoff. “I could recommend them one,” and he threw the end of his cigarette into his saucer, and again shoved as much of his beard and moustaches as he could into his mouth and began chewing them.
+
+The usher came in and reported the advocate’s and Nekhludoff’s desire to be present at the examination of Maslova’s case.“This case,” Wolf said, “is quite romantic,” and he told them what he knew about Nekhludoff’s relations with Maslova. When they had spoken a little about it and finished their tea and cigarettes, the Senators returned into the Senate Chamber and proclaimed their decision in the libel case, and began to hear Maslova’s case.
+
+Wolf, in his thin voice, reported Maslova’s appeal very fully, but again not without some bias and an evident wish for the repeal of the sentence.
+
+“Have you anything to add?” the chairman said, turning to Fanarin. Fanarin rose, and standing with his broad white chest expanded, proved point by point, with wonderful exactness and persuasiveness, how the Court had in six points strayed from the exact meaning of the law; and besides this he touched, though briefly, on the merits of the case, and on the crying injustice of the sentence. The tone of his speech was one of apology to the Senators, who, with their penetration and judicial wisdom, could not help seeing and understanding it all better than he could. He was obliged to speak only because the duty he had undertaken forced him to do so.
+
+After Fanarin’s speech one might have thought that there could not remain the least doubt that the Senate ought to repeal the decision of the Court. When he had finished his speech, Fanarin looked round with a smile of triumph, seeing which Nekhludoff felt certain that the case was won. But when he looked at the Senators he saw that Fanarin smiled and triumphed all alone.The Senators and the Public Prosecutor did not smile nor triumph, but looked like people wearied, and who were thinking “We have often heard the like of you; it is all in vain,” and were only too glad when he stopped and ceased uselessly detaining them there. Immediately after the end of the advocate’s speech the chairman turned to the Public Prosecutor. Selenin briefly and clearly expressed himself in favour of leaving the decision of the Court unaltered, as he considered all the reasons for appealing inadequate. After this the Senators went out into the debating-room. They were divided in their opinions. Wolf was in favour of altering the decision. Bay, when he had understood the case, took up the same side with fervour, vividly presenting the scene at the court to his companions as he clearly saw it himself. Nikitin, who always was on the side of severity and formality, took up the other side. All depended on Skovorodnikoff’s vote, and he voted for rejecting the appeal, because Nekhludoff’s determination to marry the woman on moral grounds was extremely repugnant to him.
+
+Skovorodnikoff was a materialist, a Darwinian, and counted every manifestation of abstract morality, or, worse still, religion, not only as a despicable folly, but as a personal affront to himself. All this bother about a prostitute, and the presence of a celebrated advocate and Nekhludoff in the Senate were in the highest degree repugnant to him. So he shoved his beard into his mouth and made faces, and very skilfully pretended to know nothing of this case, excepting that the reasons for an appeal were insufficient, and that he, therefore, agreed with the chairman to leave the decision of the Court unaltered.
+
+So the sentence remained unrepealed.<b>CHAPTER XXII.</b>
+
+AN OLD FRIEND.
+
+“Terrible,” said Nekhludoff, as he went out into the waiting-room with the advocate, who was arranging the papers in his portfolio. “In a matter which is perfectly clear they attach all the importance to the form and reject the appeal. Terrible!”
+
+“The case was spoiled in the Criminal Court,” said the advocate.
+
+“And Selenin, too, was in favour of the rejection. Terrible! terrible!” Nekhludoff repeated. “What is to be done now?”
+
+“We will appeal to His Majesty, and you can hand in the petition yourself while you are here. I will write it for you.”
+
+At this moment little Wolf, with his stars and uniform, came out into the waiting-room and approached Nekhludoff. “It could not be helped, dear Prince. The reasons for an appeal were not sufficient,” he said, shrugging his narrow shoulders and closing his eyes, and then he went his way.
+
+After Wolf, Selenin came out too, having heard from the Senators that his old friend Nekhludoff was there.“Well, I never expected to see you here,” he said, coming up to Nekhludoff, and smiling only with his lips while his eyes remained sad. “I did not know you were in Petersburg.”
+
+“And I did not know you were Public Prosecutor-in-Chief.”
+
+“How is it you are in the Senate?” asked Selenin. “I had heard, by the way, that you were in Petersburg. But what are you doing here?”
+
+“Here? I am here because I hoped to find justice and save a woman innocently condemned.”
+
+“What woman?”
+
+“The one whose case has just been decided.”
+
+“Oh! Maslova’s case,” said Selenin, suddenly remembering it. “The appeal had no grounds whatever.”
+
+“It is not the appeal; it’s the woman who is innocent, and is being punished.”
+
+Selenin sighed. “That may well be, but----”
+
+“Not <i>may be</i>, but is.”
+
+“How do you know?”“Because I was on the jury. I know how we made the mistake.”
+
+Selenin became thoughtful. “You should have made a statement at the time,” he said.
+
+“I did make the statement.”
+
+“It should have been put down in an official report. If this had been added to the petition for the appeal--”
+
+“Yes, but still, as it is, the verdict is evidently absurd.”
+
+“The Senate has no right to say so. If the Senate took upon itself to repeal the decision of the law courts according to its own views as to the justice of the decisions in themselves, the verdict of the jury would lose all its meaning, not to mention that the Senate would have no basis to go upon, and would run the risk of infringing justice rather than upholding it,” said Selenin, calling to mind the case that had just been heard.
+
+“All I know is that this woman is quite innocent, and that the last hope of saving her from an unmerited punishment is gone. The grossest injustice has been confirmed by the highest court.”
+
+“It has not been confirmed. The Senate did not and cannot enter into the merits of the case in itself,” said Selenin. Always busy and rarely going out into society, he had evidently heard nothing of Nekhludoff’s romance.Nekhludoff noticed it, and made up his mind that it was best to say nothing about his special relations with Maslova.
+
+“You are probably staying with your aunt,” Selenin remarked, apparently wishing to change the subject. “She told me you were here yesterday, and she invited me to meet you in the evening, when some foreign preacher was to lecture,” and Selenin again smiled only with his lips.
+
+“Yes, I was there, but left in disgust,” said Nekhludoff angrily, vexed that Selenin had changed the subject.
+
+“Why with disgust? After all, it is a manifestation of religious feeling, though one-sided and sectarian,” said Selenin.
+
+“Why, it’s only some kind of whimsical folly.”
+
+“Oh, dear, no. The curious thing is that we know the teaching of our church so little that we see some new kind of revelation in what are, after all, our own fundamental dogmas,” said Selenin, as if hurrying to let his old friend know his new views.
+
+Nekhludoff looked at Selenin scrutinisingly and with surprise, and Selenin dropped his eyes, in which appeared an expression not only of sadness but also of ill-will.
+
+“Do you, then, believe in the dogmas of the church?” Nekhludoff asked.“Of course I do,” replied Selenin, gazing straight into Nekhludoff’s eyes with a lifeless look.
+
+Nekhludoff sighed. “It is strange,” he said.
+
+“However, we shall have a talk some other time,” said Selenin. “I am coming,” he added, in answer to the usher, who had respectfully approached him. “Yes, we must meet again,” he went on with a sigh. “But will it be possible for me to find you? You will always find me in at seven o’clock. My address is Nadejdinskaya,” and he gave the number. “Ah, time does not stand still,” and he turned to go, smiling only with his lips.
+
+“I will come if I can,” said Nekhludoff, feeling that a man once near and dear to him had, by this brief conversation, suddenly become strange, distant, and incomprehensible, if not hostile to him.<b>CHAPTER XXIII.</b>
+
+THE PUBLIC PROSECUTOR.
+
+When Nekhludoff knew Selenin as a student, he was a good son, a true friend, and for his years an educated man of the world, with much tact; elegant, handsome, and at the same time truthful and honest. He learned well, without much exertion and with no pedantry, receiving gold medals for his essays. He considered the service of mankind, not only in words but in acts, to be the aim of his young life. He saw no other way of being useful to humanity than by serving the State. Therefore, as soon as he had completed his studies, he systematically examined all the activities to which he might devote his life, and decided to enter the Second Department of the Chancellerie, where the laws are drawn up, and he did so. But, in spite of the most scrupulous and exact discharge of the duties demanded of him, this service gave no satisfaction to his desire of being useful, nor could he awake in himself the consciousness that he was doing “the right thing.”
+
+This dissatisfaction was so much increased by the friction with his very small-minded and vain fellow officials that he left the Chancellerie and entered the Senate. It was better there, but the same dissatisfaction still pursued him; he felt it to be very different from what he had expected, and from what ought to be.
+
+And now that he was in the Senate his relatives obtained for him the post of Gentleman of the Bedchamber, and he had to go in a carriage,dressed in an embroidered uniform and a white linen apron, to thank all sorts of people for having placed him in the position of a lackey. However much he tried he could find no reasonable explanation for the existence of this post, and felt, more than in the Senate, that it was not “the right thing,” and yet he could not refuse it for fear of hurting those who felt sure they were giving him much pleasure by this appointment, and because it flattered the lowest part of his nature. It pleased him to see himself in a mirror in his gold-embroidered uniform, and to accept the deference paid him by some people because of his position.
+
+Something of the same kind happened when he married. A very brilliant match, from a worldly point of view, was arranged for him, and he married chiefly because by refusing he would have had to hurt the young lady who wished to be married to him, and those who arranged the marriage, and also because a marriage with a nice young girl of noble birth flattered his vanity and gave him pleasure. But this marriage very soon proved to be even less “the right thing” than the Government service and his position at Court.
+
+After the birth of her first child the wife decided to have no more, and began leading that luxurious worldly life in which he now had to participate whether he liked or not.
+
+She was not particularly handsome, and was faithful to him, and she seemed, in spite of all the efforts it cost her, to derive nothing but weariness from the life she led, yet she perseveringly continued to live it, though it was poisoning her husband’s life.And all his efforts to alter this life was shattered, as against a stone wall, by her conviction, which all her friends and relatives supported, that all was as it should be.
+
+The child, a little girl with bare legs and long golden curls, was a being perfectly foreign to him, chiefly because she was trained quite otherwise than he wished her to be. There sprung up between the husband and wife the usual misunderstanding, without even the wish to understand each other, and then a silent warfare, hidden from outsiders and tempered by decorum. All this made his life at home a burden, and became even less “the right thing” than his service and his post.
+
+But it was above all his attitude towards religion which was not “the right thing.” Like every one of his set and his time, by the growth of his reason he broke without the least effort the nets of the religious superstitions in which he was brought up, and did not himself exactly know when it was that he freed himself of them. Being earnest and upright, he did not, during his youth and intimacy with Nekhludoff as a student, conceal his rejection of the State religion. But as years went on and he rose in the service, and especially at the time of the reaction towards conservatism in society, his spiritual freedom stood in his way.
+
+At home, when his father died, he had to be present at the masses said for his soul, and his mother wished him to go to confession or to communion, and it was in a way expected, by public opinion, but above all, Government service demanded that he should be present at all sorts of services, consecrations,thanksgivings, and the like. Hardly a day passed without some outward religious form having to be observed.
+
+When present at these services he had to pretend that he believed in something which he did not believe in, and being truthful he could not do this. The alternative was, having made up his mind that all these outward signs were deceitful, to alter his life in such a way that he would not have to be present at such ceremonials. But to do what seemed so simple would have cost a great deal. Besides encountering the perpetual hostility of all those who were near to him, he would have to give up the service and his position, and sacrifice his hopes of being useful to humanity by his service, now and in the future. To make such a sacrifice one would have to be firmly convinced of being right.
+
+And he was firmly convinced he was right, as no educated man of our time can help being convinced who knows a little history and how the religions, and especially Church Christianity, originated.
+
+But under the stress of his daily life he, a truthful man, allowed a little falsehood to creep in. He said that in order to do justice to an unreasonable thing one had to study the unreasonable thing. It was a little falsehood, but it sunk him into the big falsehood in which he was now caught.
+
+Before putting to himself the question whether the orthodoxy in which he was born and bred, and which every one expected him to accept, and without which he could not continue his useful occupation, contained the truth, he had already decided the answer.And to clear up the question he did not read Voltaire, Schopenhauer, Herbert Spencer, or Comte, but the philosophical works of Hegel and the religious works of Vinet and Khomyakoff, and naturally found in them what he wanted, i.e., something like peace of mind and a vindication of that religious teaching in which he was educated, which his reason had long ceased to accept, but without which his whole life was filled with unpleasantness which could all be removed by accepting the teaching.
+
+And so he adopted all the usual sophistries which go to prove that a single human reason cannot know the truth, that the truth is only revealed to an association of men, and can only be known by revelation, that revelation is kept by the church, etc. And so he managed to be present at prayers, masses for the dead, to confess, make signs of the cross in front of icons, with a quiet mind, without being conscious of the lie, and to continue in the service which gave him the feeling of being useful and some comfort in his joyless family life. Although he believed this, he felt with his entire being that this religion of his, more than all else, was not “the right thing,” and that is why his eyes always looked sad.
+
+And seeing Nekhludoff, whom he had known before all these lies had rooted themselves within him, reminded him of what he then was. It was especially after he had hurried to hint at his religious views that he had most strongly felt all this “not the right thing,” and had become painfully sad.Nekhludoff felt it also after the first joy of meeting his old friend had passed, and therefore, though they promised each other to meet, they did not take any steps towards an interview, and did not again see each other during this stay of Nekhludoff’s in Petersburg.<b>CHAPTER XXIV.</b>
+
+MARIETTE TEMPTS NEKHLUDOFF.
+
+When they left the Senate, Nekhludoff and the advocate walked on together, the advocate having given the driver of his carriage orders to follow them. The advocate told Nekhludoff the story of the chief of a Government department, about whom the Senators had been talking: how the thing was found out, and how the man, who according to law should have been sent to the mines, had been appointed Governor of a town in Siberia. Then he related with particular pleasure how several high-placed persons stole a lot of money collected for the erection of the still unfinished monument which they had passed that morning; also, how the mistress of So-and-so got a lot of money at the Stock Exchange, and how So-and-so agreed with So-and-so to sell him his wife. The advocate began another story about a swindle, and all sorts of crimes committed by persons in high places, who, instead of being in prison, sat on presidential chairs in all sorts of Government institutions. These tales, of which the advocate seemed to have an unending supply, gave him much pleasure, showing as they did, with perfect clearness, that his means of getting money were quite just and innocent compared to the means which the highest officials in Petersburg made use of. The advocate was therefore surprised when Nekhludoff took an isvostchik before hearing the end of the story, said good-bye, and left him. Nekhludoff felt very sad. It was chiefly the rejection of the appeal by the Senate, confirming the senseless torments that the innocent Maslova was enduring, that saddened him, and also the fact that this rejection made it still harder for him to unite his fate with hers.The stories about existing evils, which the advocate recounted with such relish, heightened his sadness, and so did the cold, unkind look that the once sweet-natured, frank, noble Selenin had given him, and which kept recurring to his mind.
+
+On his return the doorkeeper handed him a note, and said, rather scornfully, that some kind of woman had written it in the hall. It was a note from Shoustova’s mother. She wrote that she had come to thank her daughter’s benefactor and saviour, and to implore him to come to see them on the Vasilievsky, 5th Line, house No. --. This was very necessary because of Vera Doukhova. He need not be afraid that they would weary him with expressions of gratitude. They would not speak their gratitude, but be simply glad to see him. Would he not come next morning, if he could?
+
+There was another note from Bogotyreff, a former fellow-officer, aide-de-camp to the Emperor, whom Nekhludoff had asked to hand personally to the Emperor his petition on behalf of the sectarians. Bogotyreff wrote, in his large, firm hand, that he would put the petition into the Emperor’s own hands, as he had promised; but that it had occurred to him that it might be better for Nekhludoff first to go and see the person on whom the matter depended.
+
+After the impressions received during the last few days, Nekhludoff felt perfectly hopeless of getting anything done. The plans he had formed in Moscow seemed now something like the dreams of youth, which are inevitably followed by disillusion when life comes to be faced.Still, being now in Petersburg, he considered it his duty to do all he had intended, and he resolved next day, after consulting Bogotyreff, to act on his advice and see the person on whom the case of the sectarians depended.
+
+He got out the sectarians’ petition from his portfolio, and began reading it over, when there was a knock at his door, and a footman came in with a message from the Countess Katerina Ivanovna, who asked him to come up and have a cup of tea with her.
+
+Nekhludoff said he would come at once, and having put the papers back into the portfolio, he went up to his aunt’s. He looked out of a window on his way, and saw Mariette’s pair of bays standing in front of the house, and he suddenly brightened and felt inclined to smile.
+
+Mariette, with a hat on her head, not in black but with a light dress of many shades, sat with a cup in her hand beside the Countess’s easy chair, prattling about something while her beautiful, laughing eyes glistened. She had said something funny--something indecently funny--just as Nekhludoff entered the room. He knew it by the way she laughed, and by the way the good-natured Countess Katerina Ivanovna’s fat body was shaking with laughter; while Mariette, her smiling mouth slightly drawn to one side, her head a little bent, a peculiarly mischievous expression in her merry, energetic face, sat silently looking at her companion.From a few words which he overheard, Nekhludoff guessed that they were talking of the second piece of Petersburg news, the episode of the Siberian Governor, and that it was in reference to this subject that Mariette had said something so funny that the Countess could not control herself for a long time.
+
+“You will kill me,” she said, coughing.
+
+After saying “How d’you do?” Nekhludoff sat down. He was about to censure Mariette in his mind for her levity when, noticing the serious and even slightly dissatisfied look in his eyes, she suddenly, to please him, changed not only the expression of her face, but also the attitude of her mind; for she felt the wish to please him as soon as she looked at him. She suddenly turned serious, dissatisfied with her life, as if seeking and striving after something; it was not that she pretended, but she really reproduced in herself the very same state of mind that he was in, although it would have been impossible for her to express in words what was the state of Nekhludoff’s mind at that moment.
+
+She asked him how he had accomplished his tasks. He told her about his failure in the Senate and his meeting Selenin.
+
+“Oh, what a pure soul! He is, indeed, a chevalier sans peur et sans reproche. A pure soul!” said both ladies, using the epithet commonly applied to Selenin in Petersburg society.
+
+“What is his wife like?” Nekhludoff asked.“His wife? Well, I do not wish to judge, but she does not understand him.”
+
+“Is it possible that he, too, was for rejecting the appeal?” Mariette asked with real sympathy. “It is dreadful. How sorry I am for her,” she added with a sigh.
+
+He frowned, and in order to change the subject began to speak about Shoustova, who had been imprisoned in the fortress and was now set free through the influence of Mariette’s husband. He thanked her for her trouble, and was going on to say how dreadful he thought it, that this woman and the whole of her family had suffered merely, because no one had reminded the authorities about them, but Mariette interrupted him and expressed her own indignation.
+
+“Say nothing about it to me,” she said. “When my husband told me she could be set free, it was this that struck me, ‘What was she kept in prison for if she is innocent?’” She went on expressing what Nekhludoff was about to say.
+
+“It is revolting--revolting.”
+
+Countess Katerina Ivanovna noticed that Mariette was coquetting with her nephew, and this amused her. “What do you think?” she said, when they were silent. “Supposing you come to Aline’s to-morrow night. Kiesewetter will be there. And you, too,” she said, turning to Mariette. “<i>Il vous a remarque</i>,” she went on to her nephew. “He told me that what you say (I repeated it all to him) is a very good sign, and that you will certainly come to Christ. You must come absolutely. Tell him to, Mariette, and come yourself.”

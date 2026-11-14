@@ -1,0 +1,588 @@
+HOLB1	20657	0	0	80	357	20
+7	The Tempest
+23	A Midsummer Night's Dream
+39	The Winter's Tale
+54	Much Ado About Nothing
+70	As You Like It
+91	The Two Gentlemen Of Verona
+108	The Merchant Of Venice
+125	Cymbeline
+143	King Lear
+163	Macbeth
+177	All's Well That Ends Well
+193	The Taming Of The Shrew
+206	The Comedy Of Errors
+225	Measure For Measure
+243	Twelfth Night; Or, What You Will
+260	Timon Of Athens
+278	Romeo And Juliet
+300	Hamlet, Prince Of Denmark
+320	Othello
+337	Pericles, Prince Of Tyre
+TALES FROM SHAKESPEARE
+
+By CHARLES & MARY LAMB
+
+ILLUSTRATED BY ARTHUR RACKHAM
+
+<i>WEATHERVANE BOOKS NEW YORK</i>
+
+Copyright (C) MCMLXXV by Crown Publishers, Inc.
+Library of Congress Catalog Card Number: 75-18860
+
+All rights reserved.
+
+This edition is published by Weathervane Books, a division of Barre Publishing Company, Inc.
+
+Manufactured in the United States of America
+
+PREFACE
+
+The following Tales are meant to be submitted to the young reader as an introduction to the study of Shakespeare, for which purpose his words are used whenever it seemed possible to bring them in; and in whatever has been added to give them the regular form of a connected story, diligent care has been taken to select such words as might least interrupt the effect of the beautiful English tongue in which he wrote:therefore, words introduced into our language since his time have been as far as possible avoided.
+
+In those tales which have been taken from the Tragedies, the young readers will perceive, when they come to see the source from which these stories are derived, that Shakespeare's own words, with little alteration, recur very frequently in the narrative as well as in the dialogue; but in those made from the Comedies the writers found themselves scarcely ever able to turn his words into the narrative form: therefore it is feared that, in them, dialogue has been made use of too frequently for young people not accustomed to the dramatic form of writing. But this fault, if it be a fault, has been caused by an earnest wish to give as much of Shakespeare's own words as possible: and if the "<i>He said</i>," and "<i>She said</i>," the question and the reply, should sometimes seem tedious to their young ears, they must pardon it, because it was the only way in which could be given to them a few hints and little foretastes of the great pleasure which awaits them in their elder years, when they come to the rich treasures from which these small and valueless coins are extracted; pretending to no other merit than as faint and imperfect stamps of Shakespeare's matchless image. Faint and imperfect images they must be called, because the beauty of his language is too frequently destroyed by the necessity of changing many of his excellent words into words far less expressive of his true sense, to make it read something like prose; and even in some few places, where his blank verse is given unaltered, as hoping from its simple plainness to cheat the young readers into the belief that they are reading prose, yet still his language being transplanted from its own natural soil and wild poetic garden, it must want much of its native beauty.It has been wished to make these Tales easy reading for very young children. To the utmost of their ability the writers have constantly kept this in mind; but the subjects of most of them made this a very difficult task. It was no easy matter to give the histories of men and women in terms familiar to the apprehension of a very young mind. For young ladies too, it has been the intention chiefly to write; because boys being generally permitted the use of their fathers' libraries at a much earlier age than girls are, they frequently have the best scenes of Shakespeare by heart, before their sisters are permitted to look into this manly book; and, therefore, instead of recommending these Tales to the perusal of young gentlemen who can read them so much better in the originals, their kind assistance is rather requested in explaining to their sisters such parts as are hardest for them to understand: and when they have helped them to get over the difficulties, then perhaps they will read to them (carefully selecting what is proper for a young sister's ear) some passage which has pleased them in one of these stories, in the very words of the scene from which it is taken; and it is hoped they will find that the beautiful extracts, the select passages, they may choose to give their sisters in this way will be much better relished and understood from their having some notion of the general story from one of these imperfect abridgments;--which if they be fortunately so done as to prove delightful to any of the young readers, it is hoped that no worse effect will result than to make them wish themselves a little older, that they may be allowed to read the Plays at full length (such a wish will be neither peevish nor irrational).When time and leave of judicious friends shall put them into their hands, they will discover in such of them as are here abridged (not to mention almost as many more, which are left untouched) many surprising events and turns of fortune, which for their infinite variety could not be contained in this little book, besides a world of sprightly and cheerful characters, both men and women, the humour of which it was feared would be lost if it were attempted to reduce the length of them.
+
+What these Tales shall have been to the <i>young</i> readers, that and much more it is the writers' wish that the true Plays of Shakespeare may prove to them in older years--enrichers of the fancy, strengtheners of virtue, a withdrawing from all selfish and mercenary thoughts, a lesson of all sweet and honourable thoughts and actions, to teach courtesy, benignity, generosity, humanity: for of examples, teaching these virtues, his pages are full.
+
+CONTENTS
+
+PAGE
+
+THE TEMPEST 1
+
+A MIDSUMMER NIGHT'S DREAM 14
+
+THE WINTER'S TALE 27
+
+MUCH ADO ABOUT NOTHING 39AS YOU LIKE IT 53
+
+THE TWO GENTLEMEN OF VERONA 71
+
+THE MERCHANT OF VENICE 85
+
+CYMBELINE 102
+
+KING LEAR 117
+
+MACBETH 136
+
+ALL'S WELL THAT ENDS WELL 148
+
+THE TAMING OF THE SHREW 162
+
+THE COMEDY OF ERRORS 174
+
+MEASURE FOR MEASURE 190
+
+TWELFTH NIGHT; OR, WHAT YOU WILL 206
+
+TIMON OF ATHENS 221
+
+ROMEO AND JULIET 236HAMLET, PRINCE OF DENMARK 255
+
+OTHELLO 272
+
+PERICLES, PRINCE OF TYRE 287
+
+LIST OF ILLUSTRATIONS
+
+PERDITA
+
+WHEN CALIBAN WAS LAZY AND NEGLECTED HIS WORK,
+ARIEL WOULD COME SLILY AND PINCH HIM
+
+WHERE IS PEASE-BLOSSOM?
+
+PAULINA DREW BACK THE CURTAIN WHICH CONCEALED
+THIS FAMOUS STATUE
+
+GANYMEDE ASSUMED THE FORWARD MANNERS OFTEN
+SEEN IN YOUTHS WHEN THEY ARE BETWEEN BOYS
+AND MEN
+
+IMOGEN'S TWO BROTHERS THEN CARRIED HER TO A
+SHADY COVERT
+
+CORDELIATHEY WERE STOPPED BY THE STRANGE APPEARANCE
+OF THREE FIGURES
+
+PETRUCHIO, PRETENDING TO FIND FAULT WITH EVERY
+DISH, THREW THE MEAT ABOUT THE FLOOR
+
+SHE BEGAN TO THINK OF CONFESSING THAT SHE WAS
+A WOMAN
+
+AT THE CELL OF FRIAR LAWRENCE
+
+TO THIS BROOK OPHELIA CAME<b>THE TEMPEST</b>
+
+There was a certain island in the sea, the only inhabitants of which were an old man, whose name was Prospero, and his daughter Miranda, a very beautiful young lady. She came to this island so young, that she had no memory of having seen any other human face than her father's.
+
+They lived in a cave or cell, made out of a rock; it was divided into several apartments, one of which Prospero called his study; there he kept his books, which chiefly treated of magic, a study at that time much affected by all learned men: and the knowledge of this art he found very useful to him; for being thrown by a strange chance upon this island, which had been enchanted by a witch called Sycorax, who died there a short time before his arrival, Prospero, by virtue of his art, released many good spirits that Sycorax had imprisoned in the bodies of large trees, because they had refused to execute her wicked commands. These gentle spirits were ever after obedient to the will of Prospero. Of these Ariel was the chief.
+
+The lively little sprite Ariel had nothing mischievous in his nature, except that he took rather too much pleasure in tormenting an ugly monster called Caliban, for he owed him a grudge because he was the son of his old enemy Sycorax. This Caliban, Prospero found in the woods, a strange misshapen thing, far less human in form than an ape: he took him home to his cell, and taught him to speak; and Prospero would have been very kind to him, but the bad nature which Caliban inherited from his mother Sycorax, would not let him learn anything good or useful:therefore he was employed like a slave, to fetch wood, and do the most laborious offices; and Ariel had the charge of compelling him to these services.
+
+When Caliban was lazy and neglected his work, Ariel (who was invisible to all eyes but Prospero's) would come slily and pinch him, and sometimes tumble him down in the mire; and then Ariel, in the likeness of an ape, would make mouths at him. Then swiftly changing his shape, in the likeness of a hedgehog, he would lie tumbling in Caliban's way, who feared the hedgehog's sharp quills would prick his bare feet. With a variety of such-like vexatious tricks Ariel would often torment him, whenever Caliban neglected the work which Prospero commanded him to do.
+
+Having these powerful spirits obedient to his will, Prospero could by their means command the winds, and the waves of the sea. By his orders they raised a violent storm, in the midst of which, and struggling with the wild sea-waves that every moment threatened to swallow it up, he showed his daughter a fine large ship, which he told her was full of living beings like themselves. "O my dear father," said she, "if by your art you have raised this dreadful storm, have pity on their sad distress. See! the vessel will be dashed to pieces. Poor souls! they will all perish. If I had power, I would sink the sea beneath the earth, rather than the good ship should be destroyed, with all the precious souls within her.""Be not so amazed, daughter Miranda," said Prospero; "there is no harm done. I have so ordered it, that no person in the ship shall receive any hurt. What I have done has been in care of you, my dear child. You are ignorant who you are, or where you came from, and you know no more of me, but that I am your father, and live in this poor cave. Can you remember a time before you came to this cell? I think you cannot, for you were not then three years of age."
+
+"Certainly I can, sir," replied Miranda.
+
+"By what?" asked Prospero; "by any other house or person? Tell me what you can remember, my child."
+
+Miranda said, "It seems to me like the recollection of a dream. But had I not once four or five women who attended upon me?"
+
+Prospero answered, "You had, and more. How is it that this still lives in your mind? Do you remember how you came here?"
+
+"No, sir," said Miranda, "I remember nothing more."
+
+"Twelve years ago, Miranda," continued Prospero, "I was Duke of Milan, and you were a princess, and my only heir. I had a younger brother, whose name was Antonio, to whom I trusted everything; and as I was fond of retirement and deep study, I commonly left the management of my state affairs to your uncle, my false brother (for so indeed he proved). I, neglecting all worldly ends, buried among my books, did dedicate my whole time to the bettering of my mind.My brother Antonio being thus in possession of my power, began to think himself the duke indeed. The opportunity I gave him of making himself popular among my subjects awakened in his bad nature a proud ambition to deprive me of my dukedom: this he soon effected with the aid of the King of Naples, a powerful prince, who was my enemy."
+
+"Wherefore," said Miranda, "did they not that hour destroy us?"
+
+"My child," answered her father, "they durst not, so dear was the love that my people bore me. Antonio carried us on board a ship, and when we were some leagues out at sea, he forced us into a small boat, without either tackle, sail, or mast: there he left us, as he thought, to perish. But a kind lord of my court, one Gonzalo, who loved me, had privately placed in the boat, water, provisions, apparel, and some books which I prize above my dukedom."
+
+"O my father," said Miranda, "what a trouble must I have been to you then!"
+
+"No, my love," said Prospero, "you were a little cherub that did preserve me. Your innocent smiles made me bear up against my misfortunes. Our food lasted till we landed on this desert island, since when my chief delight has been in teaching you, Miranda, and well have you profited by my instructions."
+
+"Heaven thank you, my dear father," said Miranda. "Now pray tell me, sir, your reason for raising this sea-storm?""Know then," said her father, "that by means of this storm, my enemies, the King of Naples, and my cruel brother, are cast ashore upon this island."
+
+Having so said, Prospero gently touched his daughter with his magic wand, and she fell fast asleep; for the spirit Ariel just then presented himself before his master, to give an account of the tempest, and how he had disposed of the ship's company, and though the spirits were always invisible to Miranda, Prospero did not choose she should hear him holding converse (as would seem to her) with the empty air.
+
+"Well, my brave spirit," said Prospero to Ariel, "how have you performed your task?"
+
+Ariel gave a lively description of the storm, and of the terrors of the mariners; and how the king's son, Ferdinand, was the first who leaped into the sea; and his father thought he saw his dear son swallowed up by the waves and lost. "But he is safe," said Ariel, "in a corner of the isle, sitting with his arms folded, sadly lamenting the loss of the king, his father, whom he concludes drowned. Not a hair of his head is injured, and his princely garments, though drenched in the sea-waves, look fresher than before."
+
+"That's my delicate Ariel," said Prospero. "Bring him hither: my daughter must see this young prince. Where is the king, and my brother?"
+
+"I left them," answered Ariel, "searching for Ferdinand, whom they have little hopes of finding, thinking they saw him perish.Of the ship's crew not one is missing; though each one thinks himself the only one saved: and the ship, though invisible to them, is safe in the harbour."
+
+"Ariel," said Prospero, "thy charge is faithfully performed: but there is more work yet."
+
+"Is there more work?" said Ariel. "Let me remind you, master, you have promised me my liberty. I pray, remember, I have done you worthy service, told you no lies, made no mistakes, served you without grudge or grumbling."
+
+"How now!" said Prospero. "You do not recollect what a torment I freed you from. Have you forgot the wicked witch Sycorax, who with age and envy was almost bent double? Where was she born? Speak; tell me."
+
+"Sir, in Algiers," said Ariel.
+
+"O was she so?" said Prospero. "I must recount what you have been, which I find you do not remember. This bad witch, Sycorax, for her witch-crafts, too terrible to enter human hearing, was banished from Algiers, and here left by the sailors; and because you were a spirit too delicate to execute her wicked commands, she shut you up in a tree, where I found you howling. This torment, remember, I did free you from."
+
+"Pardon me, dear master," said Ariel, ashamed to seem ungrateful; "I will obey your commands.""Do so," said Prospero, "and I will set you free." He then gave orders what further he would have him do; and away went Ariel, first to where he had left Ferdinand, and found him still sitting on the grass in the same melancholy posture.
+
+"O my young gentleman," said Ariel, when he saw him, "I will soon move you. You must be brought, I find, for the Lady Miranda to have a sight of your pretty person. Come, sir, follow me." He then began singing,
+
+"Full fathom five thy father lies:
+  Of his bones are coral made;
+Those are pearls that were his eyes:
+  Nothing of him that doth fade,
+But doth suffer a sea-change
+Into something rich and strange.
+Sea-nymphs hourly ring his knell:
+Hark! now I hear them,--Ding-dong, bell."
+
+This strange news of his lost father soon roused the prince from the stupid fit into which he had fallen. He followed in amazement the sound of Ariel's voice, till it led him to Prospero and Miranda, who were sitting under the shade of a large tree. Now Miranda had never seen a man before, except her own father.
+
+"Miranda," said Prospero, "tell me what you are looking at yonder.""O father," said Miranda, in a strange surprise, "surely that is a spirit. Lord! how it looks about! Believe me, sir, it is a beautiful creature. Is it not a spirit?"
+
+"No, girl," answered her father; "it eats, and sleeps, and has senses such as we have. This young man you see was in the ship. He is somewhat altered by grief, or you might call him a handsome person. He has lost his companions, and is wandering about to find them."
+
+Miranda, who thought all men had grave faces and grey beards like her father, was delighted with the appearance of this beautiful young prince; and Ferdinand, seeing such a lovely lady in this desert place, and from the strange sounds he had heard, expecting nothing but wonders, thought he was upon an enchanted island, and that Miranda was the goddess of the place, and as such he began to address her.
+
+She timidly answered, she was no goddess, but a simple maid, and was going to give him an account of herself, when Prospero interrupted her. He was well pleased to find they admired each other, for he plainly perceived they had (as we say) fallen in love at first sight: but to try Ferdinand's constancy, he resolved to throw some difficulties in their way: therefore advancing forward, he addressed the prince with a stern air, telling him, he came to the island as a spy, to take it from him who was the lord of it. "Follow me," said he, "I will tie you neck and feet together. You shall drink sea-water; shell-fish, withered roots, and husks of acorns shall be your food.""No," said Ferdinand, "I will resist such entertainment, till I see a more powerful enemy," and drew his sword; but Prospero, waving his magic wand, fixed him to the spot where he stood, so that he had no power to move.
+
+Miranda hung upon her father, saying, "Why are you so ungentle? Have pity, sir; I will be his surety. This is the second man I ever saw, and to me he seems a true one."
+
+"Silence," said the father: "one word more will make me chide you, girl! What! an advocate for an impostor! You think there are no more such fine men, having seen only him and Caliban. I tell you, foolish girl, most men as far excel this, as he does Caliban." This he said to prove his daughter's constancy; and she replied, "My affections are most humble. I have no wish to see a goodlier man."
+
+"Come on, young man," said Prospero to the Prince; "you have no power to disobey me."
+
+"I have not indeed," answered Ferdinand; and not knowing that it was by magic he was deprived of all power of resistance, he was astonished to find himself so strangely compelled to follow Prospero: looking back on Miranda as long as he could see her, he said, as he went after Prospero into the cave, "My spirits are all bound up, as if I were in a dream; but this man's threats, and the weakness which I feel, would seem light to me if from my prison I might once a day behold this fair maid."Prospero kept Ferdinand not long confined within the cell: he soon brought out his prisoner, and set him a severe task to perform, taking care to let his daughter know the hard labour he had imposed on him, and then pretending to go into his study, he secretly watched them both.
+
+Prospero had commanded Ferdinand to pile up some heavy logs of wood. Kings' sons not being much used to laborious work, Miranda soon after found her lover almost dying with fatigue. "Alas!" said she, "do not work so hard; my father is at his studies, he is safe for these three hours; pray rest yourself."
+
+"O my dear lady," said Ferdinand, "I dare not. I must finish my task before I take my rest."
+
+"If you will sit down," said Miranda, "I will carry your logs the while." But this Ferdinand would by no means agree to. Instead of a help Miranda became a hindrance, for they began a long conversation, so that the business of log-carrying went on very slowly.
+
+Prospero, who had enjoined Ferdinand this task merely as a trial of his love, was not at his books, as his daughter supposed, but was standing by them invisible, to overhear what they said.
+
+Ferdinand inquired her name, which she told, saying it was against her father's express command she did so.Prospero only smiled at this first instance of his daughter's disobedience, for having by his magic art caused his daughter to fall in love so suddenly, he was not angry that she showed her love by forgetting to obey his commands. And he listened well pleased to a long speech of Ferdinand's, in which he professed to love her above all the ladies he ever saw.
+
+In answer to his praises of her beauty, which he said exceeded all the women in the world, she replied, "I do not remember the face of any woman, nor have I seen any more men than you, my good friend, and my dear father. How features are abroad, I know not; but, believe me, sir, I would not wish any companion in the world but you, nor can my imagination form any shape but yours that I could like. But, sir, I fear I talk to you too freely, and my father's precepts I forget."
+
+At this Prospero smiled, and nodded his head, as much as to say, "This goes on exactly as I could wish; my girl will be Queen of Naples."
+
+And then Ferdinand, in another fine long speech (for young princes speak in courtly phrases), told the innocent Miranda he was heir to the crown of Naples, and that she should be his queen.
+
+"Ah! sir," said she, "I am a fool to weep at what I am glad of. I will answer you in plain and holy innocence. I am your wife if you will marry me."
+
+Prospero prevented Ferdinand's thanks by appearing visible before them."Fear nothing, my child," said he; "I have overheard, and approve of all you have said. And, Ferdinand, if I have too severely used you, I will make you rich amends, by giving you my daughter. All your vexations were but trials of your love, and you have nobly stood the test. Then as my gift, which your true love has worthily purchased, take my daughter, and do not smile that I boast she is above all praise." He then, telling them that he had business which required his presence, desired they would sit down and talk together till he returned; and this command Miranda seemed not at all disposed to disobey.
+
+When Prospero left them, he called his spirit Ariel, who quickly appeared before him, eager to relate what he had done with Prospero's brother and the King of Naples. Ariel said he had left them almost out of their senses with fear, at the strange things he had caused them to see and hear. When fatigued with wandering about, and famished for want of food, he had suddenly set before them a delicious banquet, and then, just as they were going to eat, he appeared visible before them in the shape of a harpy, a voracious monster with wings, and the feast vanished away. Then, to their utter amazement, this seeming harpy spoke to them, reminding them of their cruelty in driving Prospero from his dukedom, and leaving him and his infant daughter to perish in the sea; saying, that for this cause these terrors were suffered to afflict them.
+
+The King of Naples, and Antonio the false brother, repented the injustice they had done to Prospero; and Ariel told his master he was certain their penitence was sincere, and that he, though a spirit, could not but pity them."Then bring them hither, Ariel," said Prospero: "if you, who are but a spirit, feel for their distress, shall not I, who am a human being like themselves, have compassion on them? Bring them, quickly, my dainty Ariel."
+
+Ariel soon returned with the king, Antonio, and old Gonzalo in their train, who had followed him, wondering at the wild music he played in the air to draw them on to his master's presence. This Gonzalo was the same who had so kindly provided Prospero formerly with books and provisions, when his wicked brother left him, as he thought, to perish in an open boat in the sea.
+
+Grief and terror had so stupefied their senses, that they did not know Prospero. He first discovered himself to the good old Gonzalo, calling him the preserver of his life; and then his brother and the king knew that he was the injured Prospero.
+
+Antonio with tears, and sad words of sorrow and true repentance, implored his brother's forgiveness, and the king expressed his sincere remorse for having assisted Antonio to depose his brother: and Prospero forgave them; and, upon their engaging to restore his dukedom, he said to the King of Naples, "I have a gift in store for you too;" and opening a door, showed him his son Ferdinand playing at chess with Miranda.
+
+Nothing could exceed the joy of the father and the son at this unexpected meeting, for they each thought the other drowned in the storm."O wonder!" said Miranda, "what noble creatures these are! It must surely be a brave world that has such people in it."
+
+The King of Naples was almost as much astonished at the beauty and excellent graces of the young Miranda, as his son had been. "Who is this maid?" said he; "she seems the goddess that has parted us, and brought us thus together." "No, sir," answered Ferdinand, smiling to find his father had fallen into the same mistake that he had done when he first saw Miranda, "she is a mortal, but by immortal Providence she is mine; I chose her when I could not ask you, my father, for your consent, not thinking you were alive. She is the daughter to this Prospero, who is the famous Duke of Milan, of whose renown I have heard so much, but never saw him till now: of him I have received a new life: he has made himself to me a second father, giving me this dear lady."
+
+"Then I must be her father," said the king; "but oh! how oddly will it sound, that I must ask my child forgiveness."
+
+"No more of that," said Prospero: "let us not remember our troubles past, since they so happily have ended." And then Prospero embraced his brother, and again assured him of his forgiveness; and said that a wise over-ruling Providence had permitted that he should be driven from his poor dukedom of Milan, that his daughter might inherit the crown of Naples, for that by their meeting in this desert island, it had happened that the king's son had loved Miranda.These kind words which Prospero spoke, meaning to comfort his brother, so filled Antonio with shame and remorse, that he wept and was unable to speak; and the kind old Gonzalo wept to see this joyful reconciliation, and prayed for blessings on the young couple.
+
+Prospero now told them that their ship was safe in the harbour, and the sailors all on board her, and that he and his daughter would accompany them home the next morning. "In the meantime," says he, "partake of such refreshments as my poor cave affords; and for your evening's entertainment I will relate the history of my life from my first landing in this desert island." He then called for Caliban to prepare some food, and set the cave in order; and the company were astonished at the uncouth form and savage appearance of this ugly monster, who (Prospero said) was the only attendant he had to wait upon him.
+
+Before Prospero left the island, he dismissed Ariel from his service, to the great joy of that lively little spirit; who, though he had been a faithful servant to his master, was always longing to enjoy his free liberty, to wander uncontrolled in the air, like a wild bird, under green trees, among pleasant fruits, and sweet-smelling flowers. "My quaint Ariel," said Prospero to the little sprite when he made him free, "I shall miss you; yet you shall have your freedom." "Thank you, my dear master," said Ariel; "but give me leave to attend your ship home with prosperous gales, before you bid farewell to the assistance of your faithful spirit; and then, master, when I am free, how merrily I shall live!" Here Ariel sung this pretty song:  "Where the bee sucks, there suck I;
+  In a cowslip's bell I lie:
+  There I crouch when owls do cry
+  On the bat's back I do fly
+  After summer merrily.
+  Merrily, merrily shall I live now
+Under the blossom that hangs on the bough."
+
+Prospero then buried deep in the earth his magical books and wand, for he was resolved never more to make use of the magic art. And having thus overcome his enemies, and being reconciled to his brother and the King of Naples, nothing now remained to complete his happiness, but to revisit his native land, to take possession of his dukedom, and to witness the happy nuptials of his daughter and Prince Ferdinand, which the king said should be instantly celebrated with great splendour on their return to Naples. At which place, under the safe convoy of the spirit Ariel, they, after a pleasant voyage, soon arrived.<b>A MIDSUMMER NIGHT'S DREAM</b>
+
+There was a law in the city of Athens which gave to its citizens the power of compelling their daughters to marry whomsoever they pleased; for upon a daughter's refusing to marry the man her father had chosen to be her husband, the father was empowered by this law to cause her to be put to death; but as fathers do not often desire the death of their own daughters, even though they do happen to prove a little refractory, this law was seldom or never put in execution, though perhaps the young ladies of that city were not unfrequently threatened by their parents with the terrors of it.
+
+There was one instance, however, of an old man, whose name was Egeus, who actually did come before Theseus (at that time the reigning Duke of Athens), to complain that his daughter Hermia, whom he had commanded to marry Demetrius, a young man of a noble Athenian family, refused to obey him, because she loved another young Athenian, named Lysander. Egeus demanded justice of Theseus, and desired that this cruel law might be put in force against his daughter.
+
+Hermia pleaded in excuse for her disobedience, that Demetrius had formerly professed love for her dear friend Helena, and that Helena loved Demetrius to distraction; but this honourable reason, which Hermia gave for not obeying her father's command, moved not the stern Egeus.
+
+Theseus, though a great and merciful prince, had no power to alter the laws of his country; therefore he could only give Hermia four days to consider of it:and at the end of that time, if she still refused to marry Demetrius, she was to be put to death.
+
+When Hermia was dismissed from the presence of the duke, she went to her lover Lysander, and told him the peril she was in, and that she must either give him up and marry Demetrius, or lose her life in four days.
+
+Lysander was in great affliction at hearing these evil tidings; but recollecting that he had an aunt who lived at some distance from Athens, and that at the place where she lived the cruel law could not be put in force against Hermia (this law not extending beyond the boundaries of the city), he proposed to Hermia that she should steal out of her father's house that night, and go with him to his aunt's house, where he would marry her. "I will meet you," said Lysander, "in the wood a few miles without the city; in that delightful wood where we have so often walked with Helena in the pleasant month of May."
+
+To this proposal Hermia joyfully agreed; and she told no one of her intended flight but her friend Helena. Helena (as maidens will do foolish things for love) very ungenerously resolved to go and tell this to Demetrius, though she could hope no benefit from betraying her friend's secret, but the poor pleasure of following her faithless lover to the wood; for she well knew that Demetrius would go thither in pursuit of Hermia.
+
+The wood, in which Lysander and Hermia proposed to meet was the favourite haunt of those little beings known by the name of <i>Fairies</i>.Oberon the king, and Titania the queen of the Fairies, with all their tiny train of followers, in this wood held their midnight revels.
+
+Between this little king and queen of sprites there happened, at this time, a sad disagreement; they never met by moonlight in the shady walks of this pleasant wood, but they were quarrelling, till all their fairy elves would creep into acorn-cups and hide themselves for fear.
+
+The cause of this unhappy disagreement was Titania's refusing to give Oberon a little changeling boy, whose mother had been Titania's friend; and upon her death the fairy queen stole the child from its nurse, and brought him up in the woods.
+
+The night on which the lovers were to meet in this wood, as Titania was walking with some of her maids of honour, she met Oberon attended by his train of fairy courtiers.
+
+"Ill met by moonlight, proud Titania," said the fairy king. The queen replied, "What, jealous Oberon, is it you? Fairies, skip hence; I have forsworn his company." "Tarry, rash fairy," said Oberon; "am not I thy lord? Why does Titania cross her Oberon? Give me your little changeling boy to be my page."
+
+"Set your heart at rest," answered the queen; "your whole fairy kingdom buys not the boy of me." She then left her lord in great anger. "Well, go your way," said Oberon: "before the morning dawns I will torment you for this injury."Oberon then sent for Puck, his chief favourite and privy counsellor.
+
+Puck, (or as he was sometimes called, Robin Goodfellow) was a shrewd and knavish sprite, that used to play comical pranks in the neighbouring villages; sometimes getting into the dairies and skimming the milk, sometimes plunging his light and airy form into the butter-churn, and while he was dancing his fantastic shape in the churn, in vain the dairy-maid would labour to change her cream into butter: nor had the village swains any better success; whenever Puck chose to play his freaks in the brewing copper, the ale was sure to be spoiled. When a few good neighbours were met to drink some comfortable ale together, Puck would jump into the bowl of ale in the likeness of a roasted crab, and when some old goody was going to drink he would bob against her lips, and spill the ale over her withered chin; and presently after, when the same old dame was gravely seating herself to tell her neighbours a sad and melancholy story, Puck would slip her three-legged stool from under her, and down toppled the poor old woman, and then the old gossips would hold their sides and laugh at her, and swear they never wasted a merrier hour.
+
+"Come hither, Puck," said Oberon to this little merry wanderer of the night; "fetch me the flower which maids call <i>Love in Idleness</i>; the juice of that little purple flower laid on the eyelids of those who sleep, will make them, when they awake, dote on the first thing they see.Some of the juice of that flower I will drop on the eyelids of my Titania when she is asleep; and the first thing she looks upon when she opens her eyes she will fall in love with, even though it be a lion or a bear, a meddling monkey, or a busy ape; and before I will take this charm from off her sight, which I can do with another charm I know of, I will make her give me that boy to be my page."
+
+Puck, who loved mischief to his heart, was highly diverted with this intended frolic of his master, and ran to seek the flower; and while Oberon was waiting the return of Puck, he observed Demetrius and Helena enter the wood: he overheard Demetrius reproaching Helena for following him, and after many unkind words on his part, and gentle expostulations from Helena, reminding him of his former love and professions of true faith to her, he left her (as he said) to the mercy of the wild beasts, and she ran after him as swiftly as she could.
+
+The fairy king, who was always friendly to true lovers, felt great compassion for Helena; and perhaps, as Lysander said they used to walk by moonlight in this pleasant wood, Oberon might have seen Helena in those happy times when she was beloved by Demetrius. However that might be, when Puck returned with the little purple flower, Oberon said to his favourite, "Take a part of this flower; there has been a sweet Athenian lady here, who is in love with a disdainful youth; if you find him sleeping, drop some of the love-juice in his eyes, but contrive to do it when she is near him, that the first thing he sees when he awakes may be this despised lady. You will know the man by the Athenian garments which he wears."Puck promised to manage this matter very dexterously: and then Oberon went, unperceived by Titania, to her bower, where she was preparing to go to rest. Her fairy bower was a bank, where grew wild thyme, cowslips, and sweet violets, under a canopy of wood-bine, musk-roses, and eglantine. There Titania always slept some part of the night; her coverlet the enamelled skin of a snake, which, though a small mantle, was wide enough to wrap a fairy in.
+
+He found Titania giving orders to her fairies, how they were to employ themselves while she slept. "Some of you," said her majesty, "must kill cankers in the musk-rose buds, and some wage war with the bats for their leathern wings, to make my small elves coats; and some of you keep watch that the clamorous owl, that nightly hoots, come not near me: but first sing me to sleep." Then they began to sing this song:--
+
+"You spotted snakes with double tongue,
+Thorny hedgehogs, be not seen;
+Newts and blind-worms do no wrong
+Come not near our Fairy Queen.
+Philomel, with melody,
+Sing in our sweet lullaby,
+Lulla, lulla, lullaby; lulla, lulla, lullaby;
+Never harm, nor spell, nor charm,
+Come our lovely lady nigh;
+So good night with lullaby."When the fairies had sung their queen asleep with this pretty lullaby, they left her to perform the important services she had enjoined them. Oberon then softly drew near his Titania, and dropped some of the love-juice on her eyelids, saying,--
+
+"What thou seest when thou dost wake,
+Do it for thy true-love take."
+
+But to return to Hermia, who made her escape out of her father's house that night, to avoid the death she was doomed to for refusing to marry Demetrius. When she entered the wood, she found her dear Lysander waiting for her, to conduct her to his aunt's house; but before they had passed half through the wood, Hermia was so much fatigued, that Lysander, who was very careful of this dear lady, who had proved her affection for him even by hazarding her life for his sake, persuaded her to rest till morning on a bank of soft moss, and lying down himself on the ground at some little distance, they soon fell fast asleep. Here they were found by Puck, who, seeing a handsome young man asleep, and perceiving that his clothes were made in the Athenian fashion, and that a pretty lady was sleeping near him, concluded that this must be the Athenian maid and her disdainful lover whom Oberon had sent him to seek; and he naturally enough conjectured that, as they were alone together, she must be the first thing he would see when he awoke; so, without more ado, he proceeded to pour some of the juice of the little purple flower into his eyes.But it so fell out, that Helena came that way, and, instead of Hermia, was the first object Lysander beheld when he opened his eyes; and strange to relate, so powerful was the love-charm, all his love for Hermia vanished away, and Lysander fell in love with Helena.
+
+Had he first seen Hermia when he awoke, the blunder Puck committed would have been of no consequence, for he could not love that faithful lady too well; but for poor Lysander to be forced by a fairy love-charm to forget his own true Hermia, and to run after another lady, and leave Hermia asleep quite alone in a wood at midnight, was a sad chance indeed.
+
+Thus this misfortune happened. Helena, as has been before related, endeavoured to keep pace with Demetrius when he ran away so rudely from her; but she could not continue this unequal race long, men being always better runners in a long race than ladies. Helena soon lost sight of Demetrius; and as she was wandering about, dejected and forlorn, she arrived at the place where Lysander was sleeping. "Ah!" said she, "this is Lysander lying on the ground: is he dead or asleep?" Then, gently touching him, she said, "Good sir, if you are alive, awake." Upon this Lysander opened his eyes, and (the love-charm beginning to work) immediately addressed her in terms of extravagant love and admiration; telling her she as much excelled Hermia in beauty as a dove does a raven, and that he would run through fire for her sweet sake; and many more such lover-like speeches. Helena, knowing Lysander was her friend Hermia's lover, and that he was solemnly engaged to marry her, was in the utmost rage when she heard herself addressed in this manner; for she thought (as well she might) that Lysander was making a jest of her. "Oh!"said she, "why was I born to be mocked and scorned by every one? Is it not enough, is it not enough, young man, that I can never get a sweet look or a kind word from Demetrius; but you, sir, must pretend in this disdainful manner to court me? I thought, Lysander, you were a lord of more true gentleness." Saying these words in great anger, she ran away; and Lysander followed her, quite forgetful of his own Hermia, who was still asleep.
+
+When Hermia awoke, she was in a sad fright at finding herself alone. She wandered about the wood, not knowing what was become of Lysander, or which way to go to seek for him. In the meantime Demetrius not being able to find Hermia and his rival Lysander, and fatigued with his fruitless search, was observed by Oberon fast asleep. Oberon had learnt by some questions he had asked of Puck, that he had applied the love-charm to the wrong person's eyes; and now having found the person first intended, he touched the eyelids of the sleeping Demetrius with the love-juice, and he instantly awoke; and the first thing he saw being Helena, he, as Lysander had done before, began to address love-speeches to her; and just at that moment Lysander, followed by Hermia (for through Puck's unlucky mistake it was now become Hermia's turn to run after her lover) made his appearance; and then Lysander and Demetrius, both speaking together, made love to Helena, they being each one under the influence of the same potent charm.
+
+The astonished Helena thought that Demetrius, Lysander, and her once dear friend Hermia, were all in a plot together to make a jest of her.Hermia was as much surprised as Helena: she knew not why Lysander and Demetrius, who both before loved her, were now become the lovers of Helena; and to Hermia the matter seemed to be no jest.
+
+The ladies, who before had always been the dearest of friends, now fell to high words together.
+
+"Unkind Hermia," said Helena, "it is you have set Lysander on to vex me with mock praises; and your other lover Demetrius, who used almost to spurn me with his foot, have you not bid him call me Goddess, Nymph, rare, precious, and celestial? He would not speak thus to me, whom he hates, if you did not set him on to make a jest of me. Unkind Hermia, to join with men in scorning your poor friend. Have you forgot our school-day friendship? How often, Hermia, have we two, sitting on one cushion, both singing one song, with our needles working the same flower, both on the same sampler wrought; growing up together in fashion of a double cherry, scarcely seeming parted! Hermia, it is not friendly in you, it is not maidenly to join with men in scorning your poor friend."
+
+"I am amazed at your passionate words," said Hermia: "I scorn you not; it seems you scorn me." "Ay, do," returned Helena, "persevere, counterfeit serious looks, and make mouths at me when I turn my back; then wink at each other, and hold the sweet jest up. If you had any pity, grace, or manners, you would not use me thus."
+
+While Helena and Hermia were speaking these angry words to each other, Demetrius and Lysander left them,to fight together in the wood for the love of Helena.
+
+When they found the gentlemen had left them, they departed, and once more wandered weary in the wood in search of their lovers.
+
+As soon as they were gone, the fairy king, who with little Puck had been listening to their quarrels, said to him, "This is your negligence, Puck; or did you do this wilfully?" "Believe me, king of shadows," answered Puck, "it was a mistake; did not you tell me I should know the man by his Athenian garments? However, I am not sorry this has happened, for I think their jangling makes excellent sport." "You heard," said Oberon, "that Demetrius and Lysander are gone to seek a convenient place to fight in. I command you to overhang the night with a thick fog, and lead these quarrelsome lovers so astray in the dark, that they shall not be able to find each other. Counterfeit each of their voices to the other, and with bitter taunts provoke them to follow you, while they think it is their rival's tongue they hear. See you do this, till they are so weary they can go no farther; and when you find they are asleep, drop the juice of this other flower into Lysander's eyes, and when he awakes he will forget his new love for Helena, and return to his old passion for Hermia; and then the two fair ladies may each one be happy with the man she loves, and they will think all that has passed a vexatious dream. About this quickly, Puck, and I will go and see what sweet love my Titania has found."Titania was still sleeping, and Oberon seeing a clown near her, who had lost his way in the wood, and was likewise asleep: "This fellow," said he, "shall be my Titania's true love;" and clapping an ass's head over the clown's, it seemed to fit him as well as if it had grown upon his own shoulders. Though Oberon fixed the ass's head on very gently, it awakened him, and rising up, unconscious of what Oberon had done to him, he went towards the bower where the fairy queen slept.
+
+"Ah! what angel is that I see?" said Titania, opening her eyes, and the juice of the little purple flower beginning to take effect: "are you as wise as you are beautiful?"
+
+"Why, mistress," said the foolish clown, "if I have wit enough to find the way out of this wood, I have enough to serve my turn."
+
+"Out of the wood do not desire to go," said the enamoured queen. "I am a spirit of no common rate. I love you. Go with me, and I will give you fairies to attend upon you."
+
+She then called four of her fairies: their names were, Pease-blossom, Cobweb, Moth, and Mustard-seed.
+
+"Attend," said the queen, "upon this sweet gentleman; hop in his walks, and gambol in his sight; feed him with grapes and apricots, and steal for him the honey-bags from the bees. Come, sit with me," said she to the clown, "and let me play with your amiable hairy cheeks, my beautiful ass!and kiss your fair large ears, my gentle joy!"
+
+"Where is Pease-blossom?" said the ass-headed clown, not much regarding the fairy queen's courtship, but very proud of his new attendants.
+
+"Here, sir," said little Pease-blossom.
+
+"Scratch my head," said the clown. "Where is Cobweb?"
+
+"Here, sir," said Cobweb.
+
+"Good Mr. Cobweb," said the foolish clown, "kill me the red humble bee on the top of that thistle yonder; and, good Mr. Cobweb, bring me the honey-bag. Do not fret yourself too much in the action, Mr. Cobweb, and take care the honey-bag break not; I should be sorry to have you overflown with a honey-bag. Where is Mustard-seed?"
+
+"Here, sir," said Mustard-seed: "what is your will?"
+
+"Nothing," said the clown, "good Mr. Mustard-seed, but to help Mr. Pease-blossom to scratch; I must go to a barber's, Mr. Mustard-seed, for methinks I am marvellous hairy about the face."
+
+"My sweet love," said the queen, "what will you have to eat? I have a venturous fairy shall seek the squirrel's hoard, and fetch you some new nuts.""I had rather have a handful of dried pease," said the clown, who with his ass's head had got an ass's appetite. "But, I pray, let none of your people disturb me, for I have a mind to sleep."
+
+"Sleep, then," said the queen, "and I will wind you in my arms. O how I love you! how I dote upon you!"
+
+When the fairy king saw the clown sleeping in the arms of his queen, he advanced within her sight, and reproached her with having lavished her favours upon an ass.
+
+This she could not deny, as the clown was then sleeping within her arms, with his ass's head crowned by her with flowers.
+
+When Oberon had teased her for some time, he again demanded the changeling boy; which she, ashamed of being discovered by her lord with her new favourite, did not dare to refuse him.
+
+Oberon, having thus obtained the little boy he had so long wished for to be his page, took pity on the disgraceful situation into which, by his merry contrivance, he had brought his Titania, and threw some of the juice of the other flower into her eyes; and the fairy queen immediately recovered her senses, and wondered at her late dotage, saying how she now loathed the sight of the strange monster.Oberon likewise took the ass's head from off the clown, and left him to finish his nap with his own fool's head upon his shoulders.
+
+Oberon and his Titania being now perfectly reconciled, he related to her the history of the lovers, and their midnight quarrels; and she agreed to go with him and see the end of their adventures.
+
+The fairy king and queen found the lovers and their fair ladies, at no great distance from each other, sleeping on a grass-plot; for Puck, to make amends for his former mistake, had contrived with the utmost diligence to bring them all to the same spot, unknown to each other; and he had carefully removed the charm from off the eyes of Lysander with the antidote the fairy king gave to him.
+
+Hermia first awoke, and finding her lost Lysander asleep so near her, was looking at him and wondering at his strange inconstancy. Lysander presently opening his eyes, and seeing his dear Hermia, recovered his reason which the fairy charm had before clouded, and with his reason, his love for Hermia; and they began to talk over the adventures of the night, doubting if these things had really happened, or if they had both been dreaming the same bewildering dream.
+
+Helena and Demetrius were by this time awake; and a sweet sleep having quieted Helena's disturbed and angry spirits, she listened with delight to the professions of love which Demetrius still made to her, and which, to her surprise as well as pleasure, she began to perceive were sincere.These fair night-wandering ladies, now no longer rivals, became once more true friends; all the unkind words which had passed were forgiven, and they calmly consulted together what was best to be done in their present situation. It was soon agreed that, as Demetrius had given up his pretensions to Hermia, he should endeavour to prevail upon her father to revoke the cruel sentence of death which had been passed against her. Demetrius was preparing to return to Athens for this friendly purpose, when they were surprised with the sight of Egeus, Hermia's father, who came to the wood in pursuit of his runaway daughter.
+
+When Egeus understood that Demetrius would not now marry his daughter, he no longer opposed her marriage with Lysander, but gave his consent that they should be wedded on the fourth day from that time, being the same day on which Hermia had been condemned to lose her life; and on that same day Helena joyfully agreed to marry her beloved and now faithful Demetrius.
+
+The fairy king and queen, who were invisible spectators of this reconciliation, and now saw the happy ending of the lovers' history, brought about through the good offices of Oberon, received so much pleasure, that these kind spirits resolved to celebrate the approaching nuptials with sports and revels throughout their fairy kingdom.
+
+And now, if any are offended with this story of fairies and their pranks, as judging it incredible and strange, they have only to think that they have been asleep and dreaming, and that all these adventures were visions which they saw in their sleep: and I hope none of my readers will be so unreasonable as to be offended with a pretty harmless Midsummer Night's Dream.<b>THE WINTER'S TALE</b>
+
+Leontes, King of Sicily, and his queen, the beautiful and virtuous Hermione, once lived in the greatest harmony together. So happy was Leontes in the love of this excellent lady, that he had no wish ungratified, except that he sometimes desired to see again, and to present to his queen, his old companion and school-fellow, Polixenes, King of Bohemia. Leontes and Polixenes were brought up together from their infancy, but being, by the death of their fathers, called to reign over their respective kingdoms, they had not met for many years, though they frequently interchanged gifts, letters, and loving embassies.
+
+At length, after repeated invitations, Polixenes came from Bohemia to the Sicilian court, to make his friend Leontes a visit.
+
+At first this visit gave nothing but pleasure to Leontes. He recommended the friend of his youth to the queen's particular attention, and seemed in the presence of his dear friend and old companion to have his felicity quite completed. They talked over old times; their school-days and their youthful pranks were remembered, and recounted to Hermione, who always took a cheerful part in these conversations.
+
+When, after a long stay, Polixenes was preparing to depart, Hermione, at the desire of her husband, joined her entreaties to his that Polixenes would prolong his visit.And now began this good queen's sorrow; for Polixenes refusing to stay at the request of Leontes, was won over by Hermione's gentle and persuasive words to put off his departure for some weeks longer. Upon this, although Leontes had so long known the integrity and honourable principles of his friend Polixenes, as well as the excellent disposition of his virtuous queen, he was seized with an ungovernable jealousy. Every attention Hermione showed to Polixenes, though by her husband's particular desire, and merely to please him, increased the unfortunate king's jealousy; and from being a loving and a true friend, and the best and fondest of husbands, Leontes became suddenly a savage and inhuman monster. Sending for Camillo, one of the lords of his court, and telling him of the suspicion he entertained, he commanded him to poison Polixenes.
+
+Camillo was a good man; and he, well knowing that the jealousy of Leontes had not the slightest foundation in truth, instead of poisoning Polixenes, acquainted him with the king his master's orders, and agreed to escape with him out of the Sicilian dominions; and Polixenes, with the assistance of Camillo, arrived safe in his own kingdom of Bohemia, where Camillo lived from that time in the king's court, and became the chief friend and favourite of Polixenes.
+
+The flight of Polixenes enraged the jealous Leontes still more; he went to the queen's apartment, where the good lady was sitting with her little son Mamillius, who was just beginning to tell one of his best stories to amuse his mother, when the king entered, and taking the child away, sent Hermione to prison.Mamillius, though but a very young child, loved his mother tenderly; and when he saw her so dishonoured, and found she was taken from him to be put into a prison, he took it deeply to heart, and drooped and pined away by slow degrees, losing his appetite and his sleep, till it was thought his grief would kill him.
+
+The king, when he had sent his queen to prison, commanded Cleomenes and Dion, two Sicilian lords, to go to Delphos, there to inquire of the oracle at the temple of Apollo, if his queen had been unfaithful to him.
+
+When Hermione had been a short time in prison, she was brought to bed of a daughter; and the poor lady received much comfort from the sight of her pretty baby, and she said to it, "My poor little prisoner, I am as innocent as you are."
+
+Hermione had a kind friend in the noble-spirited Paulina, who was the wife of Antigonus, a Sicilian lord; and when the lady Paulina heard her royal mistress was brought to bed, she went to the prison where Hermione was confined; and she said to Emilia, a lady who attended upon Hermione, "I pray you, Emilia, tell the good queen, if her majesty dare trust me with her little babe, I will carry it to the king, its father; we do not know how he may soften at the sight of his innocent child." "Most worthy madam," replied Emilia, "I will acquaint the queen with your noble offer; she was wishing to-day that she had any friend who would venture to present the child to the king." "And tell her," said Paulina, "that I will speak boldly to Leontes in her defence." "May you be for ever blessed," said Emilia, "for your kindness to our gracious queen!"Emilia then went to Hermione, who joyfully gave up her baby to the care of Paulina, for she had feared that no one would dare venture to present the child to its father.
+
+Paulina took the new-born infant, and forcing herself into the king's presence, notwithstanding her husband, fearing the king's anger, endeavoured to prevent her, she laid the babe at its father's feet, and Paulina made a noble speech to the king in defence of Hermione, and she reproached him severely for his inhumanity, and implored him to have mercy on his innocent wife and child. But Paulina's spirited remonstrances only aggravated Leontes' displeasure, and he ordered her husband Antigonus to take her from his presence.
+
+When Paulina went away, she left the little baby at its father's feet, thinking when he was alone with it, he would look upon it, and have pity on its helpless innocence.
+
+The good Paulina was mistaken: for no sooner was she gone than the merciless father ordered Antigonus, Paulina's husband, to take the child, and carry it out to sea, and leave it upon some desert shore to perish.
+
+Antigonus, unlike the good Camillo, too well obeyed the orders of Leontes; for he immediately carried the child on ship-board, and put out to sea, intending to leave it on the first desert coast he could find.
+
+So firmly was the king persuaded of the guilt of Hermione, that he would not wait for the return of Cleomenes and Dion,whom he had sent to consult the oracle of Apollo at Delphos; but before the queen was recovered from her lying-in, and from her grief for the loss of her precious baby, he had her brought to a public trial before all the lords and nobles of his court. And when all the great lords, the judges, and all the nobility of the land were assembled together to try Hermione, and that unhappy queen was standing as a prisoner before her subjects to receive their judgment, Cleomenes and Dion entered the assembly, and presented to the king the answer of the oracle, sealed up; and Leontes commanded the seal to be broken, and the words of the oracle to be read aloud, and these were the words:--"<i>Hermione is innocent, Polixenes blameless, Camillo a true subject, Leontes a jealous tyrant, and the king shall live without an heir if that which is lost be not found.</i>" The king would give no credit to the words of the oracle: he said it was a falsehood invented by the queen's friends, and he desired the judge to proceed in the trial of the queen; but while Leontes was speaking, a man entered and told him that the Prince Mamillius, hearing his mother was to be tried for her life, struck with grief and shame, had suddenly died.
+
+Hermione, upon hearing of the death of this dear affectionate child, who had lost his life in sorrowing for her misfortune, fainted; and Leontes, pierced to the heart by the news, began to feel pity for his unhappy queen, and he ordered Paulina, and the ladies who were her attendants, to take her away, and use means for her recovery. Paulina soon returned, and told the king that Hermione was dead.When Leontes heard that the queen was dead, he repented of his cruelty to her; and now that he thought his ill-usuage had broken Hermione's heart, he believed her innocent; and now he thought the words of the oracle were true, as he knew "if that which was lost was not found," which he concluded was his young daughter, he should be without an heir, the young Prince Mamillius being dead; and he would give his kingdom now to recover his lost daughter: and Leontes gave himself up to remorse, and passed many years in mournful thoughts and repentant grief.
+
+The ship in which Antigonus carried the infant princess out to sea was driven by a storm upon the coast of Bohemia, the very kingdom of the good King Polixenes. Here Antigonus landed, and here he left the little baby.
+
+Antigonus never returned to Sicily to tell Leontes where he had left his daughter, for as he was going back to the ship, a bear came out of the woods, and tore him to pieces; a just punishment on him for obeying the wicked order of Leontes.
+
+The child was dressed in rich clothes and jewels; for Hermione had made it very fine when she sent it to Leontes, and Antigonus had pinned a paper to its mantle, and the name of <i>Perdita</i> written thereon, and words obscurely intimating its high birth and untoward fate.
+
+This poor deserted baby was found by a shepherd. He was a humane man, and so he carried the little Perdita home to his wife, who nursed it tenderly; but poverty tempted the shepherd to conceal the rich prize he had found:therefore he left that part of the country, that no one might know where he got his riches, and with part of Perdita's jewels he bought herds of sheep, and became a wealthy shepherd. He brought up Perdita as his own child, and she knew not she was any other than a shepherd's daughter.
+
+The little Perdita grew up a lovely maiden; and though she had no better education than that of a shepherd's daughter, yet so did the natural graces she inherited from her royal mother shine forth in her untutored mind, that no one from her behaviour would have known she had not been brought up in her father's court.
+
+Polixenes, the King of Bohemia, had an only son, whose name was Florizel. As this young prince was hunting near the shepherd's dwelling, he saw the old man's supposed daughter; and the beauty, modesty, and queen-like deportment of Perdita caused him instantly to fall in love with her. He soon, under the name of Doricles, and in the disguise of a private gentleman, became a constant visitor at the old shepherd's house. Florizel's frequent absences from court alarmed Polixenes; and setting people to watch his son, he discovered his love for the shepherd's fair daughter.
+
+Polixenes then called for Camillo, the faithful Camillo, who had preserved his life from the fury of Leontes, and desired that he would accompany him to the house of the shepherd, the supposed father of Perdita.
+
+Polixenes and Camillo, both in disguise, arrived at the old shepherd's dwelling while they were celebrating the feast of sheep-shearing;and though they were strangers, yet at the sheep-shearing every guest being made welcome, they were invited to walk in, and join in the general festivity.
+
+Nothing but mirth and jollity was going forward. Tables were spread, and great preparations were making for the rustic feast. Some lads and lasses were dancing on the green before the house, while others of the young men were buying ribands, gloves, and such toys, of a pedlar at the door.
+
+While this busy scene was going forward, Florizel and Perdita sat quietly in a retired corner, seemingly more pleased with the conversation of each other, than desirous of engaging in the sports and silly amusements of those around them.
+
+The king was so disguised that it was impossible his son could know him: he therefore advanced near enough to hear the conversation. The simple yet elegant manner in which Perdita conversed with his son did not a little surprise Polixenes: he said to Camillo, "This is the prettiest low-born lass I ever saw; nothing she does or says but looks like something greater than herself, too noble for this place."
+
+Camillo replied, "Indeed she is the very queen of curds and cream."
+
+"Pray, my good friend," said the king to the old shepherd, "what fair swain is that talking with your daughter?" "They call him Doricles," replied the shepherd. "He says he loves my daughter; and, to speak truth, there is not a kiss to choose which loves the other best.If young Doricles can get her, she shall bring him that he little dreams of;" meaning the remainder of Perdita's jewels; which, after he had bought herds of sheep with part of them, he had carefully hoarded up for her marriage portion.
+
+Polixenes then addressed his son. "How now, young man!" said he: "your heart seems full of something that takes off your mind from feasting. When I was young, I used to load my love with presents; but you have let the pedlar go, and have bought your lass no toy."
+
+The young prince, who little thought he was talking to the king his father, replied, "Old sir, she prizes not such trifles; the gifts which Perdita expects from me are locked up in my heart." Then turning to Perdita, he said to her, "O hear me, Perdita, before this ancient gentleman, who it seems was once himself a lover; he shall hear what I profess." Florizel then called upon the old stranger to be a witness to a solemn promise of marriage which he made to Perdita, saying to Polixenes, "I pray you, mark our contract."
+
+"Mark your divorce, young sir," said the king, discovering himself. Polixenes then reproached his son for daring to contract himself to this low-born maiden, calling Perdita "shepherd's-brat, sheep-hook," and other disrespectful names; and threatening, if ever she suffered his son to see her again, he would put her, and the old shepherd her father, to a cruel death.
+
+The king then left them in great wrath, and ordered Camillo to follow him with Prince Florizel.When the king had departed, Perdita, whose royal nature was roused by Polixenes' reproaches, said, "Though we are all undone, I was not much afraid; and once or twice I was about to speak, and tell him plainly that the selfsame sun which shines upon his palace, hides not his face from our cottage, but looks on both alike." Then sorrowfully she said, "But now I am awakened from this dream, I will queen it no further. Leave me, sir; I will go milk my ewes and weep."
+
+The kind-hearted Camillo was charmed with the spirit and propriety of Perdita's behaviour; and perceiving that the young prince was too deeply in love to give up his mistress at the command of his royal father, he thought of a way to befriend the lovers, and at the same time to execute a favourite scheme he had in his mind.
+
+Camillo had long known that Leontes, the King of Sicily, was become a true penitent; and though Camillo was now the favoured friend of King Polixenes, he could not help wishing once more to see his late royal master and his native home. He therefore proposed to Florizel and Perdita that they should accompany him to the Sicilian court, where he would engage Leontes should protect them, till, through his mediation, they could obtain pardon from Polixenes, and his consent to their marriage.
+
+To this proposal they joyfully agreed; and Camillo, who conducted everything relative to their flight, allowed the old shepherd to go along with them.
+
+The shepherd took with him the remainder of Perdita's jewels, her baby clothes, and the paper which he had found pinned to her mantle.After a prosperous voyage, Florizel and Perdita, Camillo and the old shepherd, arrived in safety at the court of Leontes. Leontes, who still mourned his dead Hermione and his lost child, received Camillo with great kindness, and gave a cordial welcome to Prince Florizel. But Perdita, whom Florizel introduced as his princess, seemed to engross all Leontes' attention: perceiving a resemblance between her and his dead queen Hermione, his grief broke out afresh, and he said, such a lovely creature might his own daughter have been, if he had not so cruelly destroyed her. "And then, too," said he to Florizel, "I lost the society and friendship of your brave father, whom I now desire more than my life once again to look upon."
+
+When the old shepherd heard how much notice the king had taken of Perdita, and that he had lost a daughter, who was exposed in infancy, he fell to comparing the time when he found the little Perdita, with the manner of its exposure, the jewels and other tokens of its high birth; from all which it was impossible for him not to conclude that Perdita and the king's lost daughter were the same.
+
+Florizel and Perdita, Camillo and the faithful Paulina, were present when the old shepherd related to the king the manner in which he had found the child, and also the circumstance of Antigonus' death, he having seen the bear seize upon him. He showed the rich mantle in which Paulina remembered Hermione had wrapped the child; and he produced a jewel which she remembered Hermione had tied about Perdita's neck, and he gave up the paper which Paulina knew to be the writing of her husband; it could not be doubted that Perdita was Leontes' own daughter: but oh!the noble struggles of Paulina, between sorrow for her husband's death, and joy that the oracle was fulfilled, in the king's heir, his long-lost daughter being found. When Leontes heard that Perdita was his daughter, the great sorrow that he felt that Hermione was not living to behold her child, made him that he could say nothing for a long time, but, "O thy mother, thy mother!"
+
+Paulina interrupted this joyful yet distressful scene, with saying to Leontes, that she had a statue newly finished by that rare Italian master, Julio Romano, which was such a perfect resemblance of the queen, that would his majesty be pleased to go to her house and look upon it, he would be almost ready to think it was Hermione herself. Thither then they all went; the king anxious to see the semblance of his Hermione, and Perdita longing to behold what the mother she never saw did look like.
+
+When Paulina drew back the curtain which concealed this famous statue, so perfectly did it resemble Hermione, that all the king's sorrow was renewed at the sight: for a long time he had no power to speak or move.
+
+"I like your silence, my liege," said Paulina, "it the more shows your wonder. Is not this statue very like your queen?"
+
+At length the king said, "O, thus she stood, even with such majesty, when I first wooed her. But yet, Paulina, Hermione was not so aged as this statue looks." Paulina replied, "So much the more the carver's excellence, who has made the statue as Hermione would have looked had she been living now. But let me draw the curtain, sire, lest presently you think it moves."The king then said, "Do not draw the curtain; Would I were dead! See, Camillo, would you not think it breathed? Her eye seems to have motion in it." "I must draw the curtain, my liege," said Paulina. "You are so transported, you will persuade yourself the statue lives." "O, sweet Paulina," said Leontes, "make me think so twenty years together! Still methinks there is an air comes from her. What fine chisel could ever yet cut breath? Let no man mock me, for I will kiss her." "Good my lord, forbear!" said Paulina. "The ruddiness upon her lip is wet; you will stain your own with oily painting. Shall I draw the curtain?" "No, not these twenty years," said Leontes.
+
+Perdita, who all this time had been kneeling, and beholding in silent admiration the statue of her matchless mother, said now, "And so long could I stay here, looking upon my dear mother."
+
+"Either forbear this transport," said Paulina to Leontes, "and let me draw the curtain; or prepare yourself for more amazement. I can make the statue move indeed; ay, and descend from off the pedestal, and take you by the hand. But then you will think, which I protest I am not, that I am assisted by some wicked powers."
+
+"What you can make her do," said the astonished king, "I am content to look upon. What you can make her speak, I am content to hear; for it is as easy to make her speak as move."
+
+Paulina then ordered some slow and solemn music, which she had prepared for the purpose, to strike up;and, to the amazement of all the beholders, the statue came down from off the pedestal, and threw its arms around Leontes' neck. The statue then began to speak, praying for blessings on her husband, and on her child, the newly-found Perdita.
+
+No wonder that the statue hung upon Leontes' neck, and blessed her husband and her child. No wonder; for the statue was indeed Hermione herself, the real, the living queen.
+
+Paulina had falsely reported to the king the death of Hermione, thinking that the only means to preserve her royal mistress' life; and with the good Paulina, Hermione had lived ever since, never choosing Leontes should know she was living, till she heard Perdita was found; for though she had long forgiven the injuries which Leontes had done to herself, she could not pardon his cruelty to his infant daughter.
+
+His dead queen thus restored to life, his lost daughter found, the long-sorrowing Leontes could scarcely support the excess of his own happiness.
+
+Nothing but congratulations and affectionate speeches were heard on all sides. Now the delighted parents thanked Prince Florizel for loving their lowly-seeming daughter; and now they blessed the good old shepherd for preserving their child. Greatly did Camillo and Paulina rejoice that they had lived to see so good an end of all their faithful services.And as if nothing should be wanting to complete this strange and unlooked-for joy, King Polixenes himself now entered the palace.
+
+When Polixenes first missed his son and Camillo, knowing that Camillo had long wished to return to Sicily, he conjectured he should find the fugitives here; and, following them with all speed, he happened to just arrive at this, the happiest moment of Leontes' life.
+
+Polixenes took a part in the general joy; he forgave his friend Leontes the unjust jealousy he had conceived against him, and they once more loved each other with all the warmth of their first boyish friendship. And there was no fear that Polixenes would now oppose his son's marriage with Perdita. She was no "sheep-hook" now, but the heiress of the crown of Sicily.
+
+Thus have we seen the patient virtues of the long-suffering Hermione rewarded. That excellent lady lived many years with her Leontes and her Perdita, the happiest of mothers and of queens.<b>MUCH ADO ABOUT NOTHING</b>
+
+There lived in the palace at Messina two ladies, whose names were Hero and Beatrice. Hero was the daughter, and Beatrice the niece, of Leonato, the governor of Messina.
+
+Beatrice was of a lively temper, and loved to divert her cousin Hero, who was of a more serious disposition, with her sprightly sallies. Whatever was going forward was sure to make matter of mirth for the light-hearted Beatrice.
+
+At the time the history of these ladies commences some young men of high rank in the army, as they were passing through Messina on their return from a war that was just ended, in which they had distinguished themselves by their great bravery, came to visit Leonato. Among these were Don Pedro, the Prince of Arragon; and his friend Claudio, who was a lord of Florence; and with them came the wild and witty Benedick, and he was a lord of Padua.
+
+These strangers had been at Messina before, and the hospitable governor introduced them to his daughter and his niece as their old friends and acquaintance.
+
+Benedick, the moment he entered the room, began a lively conversation with Leonato and the prince. Beatrice, who liked not to be left out of any discourse, interrupted Benedick with saying, "I wonder that you will still be talking, Signior Benedick: nobody marks you."Benedick was just such another rattle-brain as Beatrice, yet he was not pleased at this free salutation; he thought it did not become a well-bred lady to be so flippant with her tongue; and he remembered, when he was last at Messina, that Beatrice used to select him to make her merry jests upon. And as there is no one who so little likes to be made a jest of as those who are apt to take the same liberty themselves, so it was with Benedick and Beatrice; these two sharp wits never met in former times but a perfect war of raillery was kept up between them, and they always parted mutually displeased with each other. Therefore when Beatrice stopped him in the middle of his discourse with telling him nobody marked what he was saying, Benedick, affecting not to have observed before that she was present, said, "What, my dear Lady Disdain, are you yet living?" And now war broke out afresh between them, and a long jangling argument ensued, during which Beatrice, although she knew he had so well approved his valour in the late war, said that she would eat all he had killed there: and observing the prince take delight in Benedick's conversation, she called him "the prince's jester." This sarcasm sunk deeper into the mind of Benedick than all Beatrice had said before. The hint she gave him that he was a coward, by saying she would eat all he had killed, he did not regard, knowing himself to be a brave man; but there is nothing that great wits so much dread as the imputation of buffoonery, because the charge comes sometimes a little too near the truth: therefore Benedick perfectly hated Beatrice when she called him "the prince's jester."The modest lady Hero was silent before the noble guests; and while Claudio was attentively observing the improvement which time had made in her beauty, and was contemplating the exquisite graces of her fine figure (for she was an admirable young lady), the prince was highly amused with listening to the humorous dialogue between Benedick and Beatrice; and he said in a whisper to Leonato, "This is a pleasant-spirited young lady. She were an excellent wife for Benedick." Leonato replied to this suggestion, "O, my lord, my lord, if they were but a week married, they would talk themselves mad." But though Leonato thought they would make a discordant pair, the prince did not give up the idea of matching these two keen wits together.
+
+When the prince returned with Claudio from the palace, he found that the marriage he had devised between Benedick and Beatrice was not the only one projected in that good company, for Claudio spoke in such terms of Hero, as made the prince guess at what was passing in his heart; and he liked it well, and he said to Claudio, "Do you affect Hero?" To this question Claudio replied, "O my lord, when I was last at Messina, I looked upon her with a soldier's eye, that liked, but had no leisure for loving; but now, in this happy time of peace, thoughts of war have left their places vacant in my mind, and in their room come thronging soft and delicate thoughts, all prompting me how fair young Hero is, reminding me that I liked her before I went to the wars." Claudio's confession of his love for Hero so wrought upon the prince, that he lost no time in soliciting the consent of Leonato to accept of Claudio for a son-in-law.Leonato agreed to this proposal, and the prince found no great difficulty in persuading the gentle Hero herself to listen to the suit of the noble Claudio, who was a lord of rare endowments, and highly accomplished, and Claudio, assisted by his kind prince, soon prevailed upon Leonato to fix an early day for the celebration of his marriage with Hero.
+
+Claudio was to wait but a few days before he was to be married to his fair lady; yet he complained of the interval being tedious, as indeed most young men are impatient when they are waiting for the accomplishment of any event they have set their hearts upon: the prince, therefore, to make the time seem short to him, proposed as a kind of merry pastime that they should invent some artful scheme to make Benedick and Beatrice fall in love with each other. Claudio entered with great satisfaction into this whim of the prince, and Leonato promised them his assistance, and even Hero said she would do any modest office to help her cousin to a good husband.
+
+The device the prince invented was, that the gentlemen should make Benedick believe that Beatrice was in love with him, and that Hero should make Beatrice believe that Benedick was in love with her.
+
+The prince, Leonato, and Claudio began their operations first: and watching upon an opportunity when Benedick was quietly seated reading in an arbour, the prince and his assistants took their station among the trees behind the arbour, so near that Benedick could not choose but hear all they said; and after some careless talk the prince said, "Come hither, Leonato.What was it you told me the other day--that your niece Beatrice was in love with signior Benedick? I did never think that lady would have loved any man." "No, nor I neither, my lord," answered Leonato. "It is most wonderful that she should so dote on Benedick, whom she in all outward behaviour seemed ever to dislike." Claudio confirmed all this with saying that Hero had told him Beatrice was so in love with Benedick, that she would certainly die of grief, if he could not be brought to love her; which Leonato and Claudio seemed to agree was impossible, he having always been such a railer against all fair ladies, and in particular against Beatrice.
+
+The prince affected to hearken to all this with great compassion for Beatrice, and he said, "It were good that Benedick were told of this." "To what end?" said Claudio; "he would but make sport of it, and torment the poor lady worse." "And if he should," said the prince, "it were a good deed to hang him; for Beatrice is an excellent sweet lady, and exceeding wise in everything but in loving Benedick." Then the prince motioned to his companions that they should walk on, and leave Benedick to meditate upon what he had overheard.
+
+Benedick had been listening with great eagerness to this conversation; and he said to himself when he heard Beatrice loved him, "Is it possible? Sits the wind in that corner?" And when they were gone, he began to reason in this manner with himself: "This can be no trick! they were very serious, and they have the truth from Hero, and seem to pity the lady. Love me! Why it must be requited! I did never think to marry. But when I said I should die a bachelor, I did not think I should live to be married. They say the lady is virtuous and fair. She is so. And wise in everything but loving me.Why, that is no great argument of her folly. But here comes Beatrice. By this day, she is a fair lady. I do spy some marks of love in her." Beatrice now approached him, and said with her usual tartness, "Against my will I am sent to bid you come in to dinner." Benedick, who never felt himself disposed to speak so politely to her before, replied, "Fair Beatrice, I thank you for your pains:" and when Beatrice, after two or three more rude speeches, left him, Benedick thought he observed a concealed meaning of kindness under the uncivil words she uttered, and he said aloud, "If I do not take pity on her, I am a villain. If I do not love her, I am a Jew. I will go get her picture."
+
+The gentleman being thus caught in the net they had spread for him, it was now Hero's turn to play her part with Beatrice; and for this purpose she sent for Ursula and Margaret, two gentlewomen who attended upon her, and she said to Margaret, "Good Margaret, run to the parlour; there you will find my cousin Beatrice talking with the prince and Claudio. Whisper in her ear, that I and Ursula are walking in the orchard, and that our discourse is all of her. Bid her steal into that pleasant arbour, where honeysuckles, ripened by the sun, like ungrateful minions, forbid the sun to enter." This arbour, into which Hero desired Margaret to entice Beatrice, was the very same pleasant arbour where Benedick had so lately been an attentive listener.
+
+"I will make her come, I warrant, presently," said Margaret.Hero, then taking Ursula with her into the orchard, said to her, "Now, Ursula, when Beatrice comes, we will walk up and down this alley, and our talk must be only of Benedick, and when I name him, let it be your part to praise him more than ever man did merit. My talk to you must be how Benedick is in love with Beatrice. Now begin; for look where Beatrice like a lapwing runs close by the ground, to hear our conference." They then began; Hero saying, as if in answer to something which Ursula had said, "No, truly, Ursula. She is too disdainful; her spirits are as coy as wild birds of the rock." "But are you sure," said Ursula, "that Benedick loves Beatrice so entirely?" Hero replied, "So says the prince, and my lord Claudio, and they entreated me to acquaint her with it; but I persuaded them, if they loved Benedick, never to let Beatrice know of it." "Certainly," replied Ursula, "it were not good she knew his love, lest she made sport of it." "Why, to say truth," said Hero, "I never yet saw a man, how wise soever, or noble, young, or rarely featured, but she would dispraise him." "Sure sure, such carping is not commendable," said Ursula. "No," replied Hero, "but who dare tell her so? If I should speak, she would mock me into air." "O! you wrong your cousin," said Ursula: "she cannot be so much without true judgment, as to refuse so rare a gentleman as signior Benedick." "He hath an excellent good name," said Hero: "indeed, he is the first man in Italy, always excepting my dear Claudio." And now, Hero giving her attendant a hint that it was time to change the discourse, Ursula said, "And when are you to be married, madam?" Hero then told her, that she was to be married to Claudio the next day, and desired she would go in with her, and look at some new attire, as she wished to consult with her on what she would wear on the morrow.Beatrice, who had been listening with breathless eagerness to this dialogue, when they went away, exclaimed, "What fire is in mine ears? Can this be true? Farewell, contempt and scorn, and maiden pride, adieu! Benedick, love on! I will requite you, taming my wild heart to your loving hand."
+
+It must have been a pleasant sight to see these old enemies converted into new and loving friends, and to behold their first meeting after being cheated into mutual liking by the merry artifice of the good-humoured prince. But a sad reverse in the fortunes of Hero must now be thought of. The morrow, which was to have been her wedding-day, brought sorrow on the heart of Hero and her good father Leonato.
+
+The prince had a half-brother, who came from the wars along with him to Messina. This brother (his name was Don John) was a melancholy, discontented man, whose spirits seemed to labour in the contriving of villanies. He hated the prince his brother, and he hated Claudio, because he was the prince's friend, and determined to prevent Claudio's marriage with Hero, only for the malicious pleasure of making Claudio and the prince unhappy; for he knew the prince had set his heart upon this marriage, almost as much as Claudio himself; and to effect this wicked purpose, he employed one Borachio, a man as bad as himself, whom he encouraged with the offer of a great reward. This Borachio paid his court to Margaret, Hero's attendant; and Don John, knowing this, prevailed upon him to make Margaret promise to talk with him from her lady's chamber window that night, after Hero was asleep, and also to dress herself in Hero's clothes, the better to deceive Claudio into the belief that it was Hero; for that was the end he meant to compass by this wicked plot.Don John then went to the prince and Claudio, and told them that Hero was an imprudent lady, and that she talked with men from her chamber window at midnight. Now this was the evening before the wedding, and he offered to take them that night, where they should themselves hear Hero discoursing with a man from her window; and they consented to go along with him, and Claudio said, "If I see anything to-night why I should not marry her, to-morrow in the congregation, where I intended to wed her, there will I shame her." The prince also said, "And as I assisted you to obtain her, I will join with you to disgrace her."
+
+When Don John brought them near Hero's chamber that night, they saw Borachio standing under the window, and they saw Margaret looking out of Hero's window, and heard her talking with Borachio: and Margaret being dressed in the same clothes they had seen Hero wear, the prince and Claudio believed it was the lady Hero herself.
+
+Nothing could equal the anger of Claudio, when he had made (as he thought) this discovery. All his love for the innocent Hero was at once converted into hatred, and he resolved to expose her in the church, as he had said he would, the next day; and the prince agreed to this, thinking no punishment could be too severe for the naughty lady, who talked with a man from her window the very night before she was going to be married to the noble Claudio.
+
+The next day, when they were all met to celebrate the marriage, and Claudio and Hero were standing before the priest, and the priest, or friar, as he was called, was proceeding to pronounce the marriage ceremony, Claudio, in the most passionate language, proclaimed the guilt of the blameless Hero, who,amazed at the strange words he uttered, said meekly, "Is my lord well, that he does speak so wide?"
+
+Leonato, in the utmost horror, said to the prince, "My lord, why speak not you?" "What should I speak?" said the prince; "I stand dishonoured, that have gone about to link my dear friend to an unworthy woman. Leonato, upon my honour, myself, my brother, and this grieved Claudio, did see and hear her last night at midnight talk with a man at her chamber window."
+
+Benedick, in astonishment at what he heard, said, "This looks not like a nuptial."
+
+"True, O God!" replied the heart-struck Hero; and then this hapless lady sunk down in a fainting fit, to all appearance dead. The prince and Claudio left the church, without staying to see if Hero would recover, or at all regarding the distress into which they had thrown Leonato. So hard-hearted had their anger made them.
+
+Benedick remained, and assisted Beatrice to recover Hero from her swoon, saying, "How does the lady?" "Dead, I think," replied Beatrice in great agony, for she loved her cousin; and knowing her virtuous principles, she believed nothing of what she had heard spoken against her. Not so the poor old father; he believed the story of his child's shame, and it was piteous to hear him lamenting over her, as she lay like one dead before him, wishing she might never more open her eyes.But the ancient friar was a wise man, and full of observation on human nature, and he had attentively marked the lady's countenance when she heard herself accused, and noted a thousand blushing shames to start into her face, and then he saw an angel-like whiteness bear away those blushes, and in her eye he saw a fire that did belie the error that the prince did speak against her maiden truth, and he said to the sorrowing father, "Call me a fool; trust not my reading, nor my observation; trust not my age, my reverence, nor my calling, if this sweet lady lie not guiltless here under some biting error."
+
+When Hero had recovered from the swoon into which she had fallen, the friar said to her, "Lady, what man is he you are accused of?" Hero replied, "They know that do accuse me; I know of none:" then turning to Leonato, she said, "O my father, if you can prove that any man has ever conversed with me at hours unmeet, or that I yesternight changed words with any creature, refuse me, hate me, torture me to death."
+
+"There is," said the friar, "some strange misunderstanding in the prince and Claudio;" and then he counselled Leonato, that he should report that Hero was dead; and he said that the death-like swoon in which they had left Hero would make this easy of belief; and he also advised him that he should put on mourning, and erect a monument for her, and do all rites that appertain to a burial. "What shall become of this?" said Leonato; "What will this do?" The friar replied, "This report of her death shall change slander into pity: that is some good; but that is not all the good I hope for. When Claudio shall hear she died upon hearing his words, the idea of her life shall sweetly creep into his imagination.Then shall he mourn, if ever love had interest in his heart, and wish that he had not so accused her; yea, though he thought his accusation true."
+
+Benedick now said, "Leonato, let the friar advise you; and though you know how well I love the prince and Claudio, yet on my honour I will not reveal this secret to them."
+
+Leonato, thus persuaded, yielded; and he said sorrowfully, "I am so grieved, that the smallest twine may lead me." The kind friar then led Leonato and Hero away to comfort and console them, and Beatrice and Benedick remained alone; and this was the meeting from which their friends, who contrived the merry plot against them, expected so much diversion; those friends who were now overwhelmed with affliction, and from whose minds all thoughts of merriment seemed for ever banished.
+
+Benedick was the first who spoke, and he said, "Lady Beatrice, have you wept all this while?" "Yea, and I will weep a while longer," said Beatrice. "Surely," said Benedick, "I do believe your fair cousin is wronged." "Ah!" said Beatrice, "how much might that man deserve of me who would right her!" Benedick then said, "Is there any way to show such friendship? I do love nothing in the world so well as you: is not that strange?" "It were as possible," said Beatrice, "for me to say I loved nothing in the world so well as you; but believe me not, and yet I lie not. I confess nothing, nor I deny nothing. I am sorry for my cousin." "By my sword," said Benedick, "you love me, and I protest I love you. Come, bid me do anything for you." "Kill Claudio," said Beatrice. "Ha!not for the wide world," said Benedick; for he loved his friend Claudio, and he believed he had been imposed upon. "Is not Claudio a villain, that has slandered, scorned, and dishonoured my cousin?" said Beatrice: "O that I were a man!" "Hear me, Beatrice!" said Benedick. But Beatrice would hear nothing in Claudio's defence; and she continued to urge on Benedick to revenge her cousin's wrongs: and she said, "Talk with a man out of the window; a proper saying! Sweet Hero! she is wronged; she is slandered; she is undone. O that I were a man for Claudio's sake! or that I had any friend, who would be a man for my sake! but valour is melted into courtesies and compliments. I cannot be a man with wishing, therefore I will die a woman with grieving." "Tarry, good Beatrice," said Benedick: "by this hand I love you." "Use it for my love some other way than swearing by it," said Beatrice. "Think you on your soul that Claudio has wronged Hero?" asked Benedick. "Yea," answered Beatrice; "as sure as I have a thought, or a soul." "Enough," said Benedick; "I am engaged; I will challenge him. I will kiss your hand, and so leave you. By this hand, Claudio shall render me a dear account! As you hear from me, so think of me. Go, comfort your cousin."
+
+While Beatrice was thus powerfully pleading with Benedick, and working his gallant temper by the spirit of her angry words, to engage in the cause of Hero, and fight even with his dear friend Claudio, Leonato was challenging the prince and Claudio to answer with their swords the injury they had done his child, who, he affirmed, had died for grief. But they respected his age and his sorrow, and they said, "Nay, do not quarrel with us, good old man."And now came Benedick, and he also challenged Claudio to answer with his sword the injury he had done to Hero; and Claudio and the prince said to each other, "Beatrice has set him on to do this." Claudio nevertheless must have accepted this challenge of Benedick, had not the justice of Heaven at the moment brought to pass a better proof of the innocence of Hero than the uncertain fortune of a duel.
+
+While the prince and Claudio were yet talking of the challenge of Benedick, a magistrate brought Borachio as a prisoner before the prince. Borachio had been overheard talking with one of his companions of the mischief he had been employed by Don John to do.
+
+Borachio made a full confession to the prince in Claudio's hearing, that it was Margaret dressed in her lady's clothes that he had talked with from the window, whom they had mistaken for the lady Hero herself; and no doubt continued on the minds of Claudio and the prince of the innocence of Hero. If a suspicion had remained it must have been removed by the flight of Don John, who, finding his villanies were detected, fled from Messina to avoid the just anger of his brother.
+
+The heart of Claudio was sorely grieved when he found he had falsely accused Hero, who, he thought, died upon hearing his cruel words; and the memory of his beloved Hero's image came over him, in the rare semblance that he loved it first; and the prince asking him if what he heard did not run like iron through his soul, he answered, that he felt as if he had taken poison while Borachio was speaking.And the repentant Claudio implored forgiveness of the old man Leonato for the injury he had done his child; and promised, that whatever penance Leonato would lay upon him for his fault in believing the false accusation against his betrothed wife, for her dear sake he would endure it.
+
+The penance Leonato enjoined him was, to marry the next morning a cousin of Hero's, who, he said, was now his heir, and in person very like Hero. Claudio, regarding the solemn promise he made to Leonato, said, he would marry this unknown lady, even though she were an Ethiop: but his heart was very sorrowful, and he passed that night in tears, and in remorseful grief, at the tomb which Leonato had erected for Hero.
+
+When the morning came, the prince accompanied Claudio to the church, where the good friar, and Leonato and his niece, were already assembled, to celebrate a second nuptial; and Leonato presented to Claudio his promised bride; and she wore a mask, that Claudio might not discover her face. And Claudio said to the lady in the mask, "Give me your hand, before this holy friar; I am your husband, if you will marry me." "And when I lived I was your other wife," said this unknown lady; and, taking off her mask, she proved to be no niece (as was pretended), but Leonato's very daughter, the Lady Hero herself. We may be sure that this proved a most agreeable surprise to Claudio, who thought her dead, so that he could scarcely for joy believe his eyes; and the prince, who was equally amazed at what he saw, exclaimed, "Is not this Hero, Hero that was dead?" Leonato replied, "She died, my lord, but while her slander lived."The friar promised them an explanation of this seeming miracle, after the ceremony was ended; and was proceeding to marry them, when he was interrupted by Benedick, who desired to be married at the same time to Beatrice. Beatrice making some demur to this match, and Benedick challenging her with her love for him, which he had learned from Hero, a pleasant explanation took place; and they found they had both been tricked into a belief of love, which had never existed, and had become lovers in truth by the power of a false jest: but the affection, which a merry invention had cheated them into, was grown too powerful to be shaken by a serious explanation; and since Benedick proposed to marry, he was resolved to think nothing to the purpose that the world could say against it; and he merrily kept up the jest, and swore to Beatrice, that he took her but for pity, and because he heard she was dying of love for him; and Beatrice protested, that she yielded but upon great persuasion, and partly to save his life, for she heard he was in a consumption. So these two mad wits were reconciled, and made a match of it, after Claudio and Hero were married; and to complete the history, Don John, the contriver of the villany, was taken in his flight, and brought back to Messina; and a brave punishment it was to this gloomy, discontented man, to see the joy and feastings which, by the disappointment of his plots, took place in the palace in Messina.<b>AS YOU LIKE IT</b>
+
+During the time that France was divided into provinces (or dukedoms as they were called) there reigned in one of these provinces an usurper, who had deposed and banished his elder brother, the lawful duke.
+
+The duke, who was thus driven from his dominions, retired with a few faithful followers to the forest of Arden; and here the good duke lived with his loving friends, who had put themselves into a voluntary exile for his sake, while their land and revenues enriched the false usurper; and custom soon made the life of careless ease they led here more sweet to them than the pomp and uneasy splendour of a courtier's life. Here they lived like the old Robin Hood of England, and to this forest many noble youths daily resorted from the court, and did fleet the time carelessly, as they did who lived in the golden age. In the summer they lay along under the fine shade of the large forest trees, marking the playful sports of the wild deer; and so fond were they of these poor dappled fools, who seemed to be the native inhabitants of the forest, that it grieved them to be forced to kill them to supply themselves with venison for their food. When the cold winds of winter made the duke feel the change of his adverse fortune, he would endure it patiently, and say, "These chilling winds which blow upon my body are true counsellors; they do not flatter, but represent truly to me my condition; and though they bite sharply, their tooth is nothing like so keen as that of unkindness and ingratitude. I find that howsoever men speak against adversity, yet some sweet uses are to be extracted from it; like the jewel, precious for medicine, which is taken from the head of the venomous and despised toad."In this manner did the patient duke draw a useful moral from everything that he saw; and by the help of this moralising turn, in that life of his, remote from public haunts, he could find tongues in trees, books in the running brooks, sermons in stones, and good in everything.
+
+The banished duke had an only daughter, named Rosalind, whom the usurper, Duke Frederick, when he banished her father, still retained in his court as a companion for his own daughter Celia. A strict friendship subsisted between these ladies, which the disagreement between their fathers did not in the least interrupt, Celia striving by every kindness in her power to make amends to Rosalind for the injustice of her own father in deposing the father of Rosalind; and whenever the thoughts of her father's banishment, and her own dependence on the false usurper, made Rosalind melancholy, Celia's whole care was to comfort and console her.
+
+One day, when Celia was talking in her usual kind manner to Rosalind, saying, "I pray you, Rosalind, my sweet cousin, be merry," a messenger entered from the duke, to tell them that if they wished to see a wrestling match, which was just going to begin, they must come instantly to the court before the palace; and Celia, thinking it would amuse Rosalind, agreed to go and see it.
+
+In those times wrestling, which is only practised now by country clowns, was a favourite sport even in the courts of princes, and before fair ladies and princesses. To this wrestling match, therefore, Celia and Rosalind went.They found that it was likely to prove a very tragical sight; for a large and powerful man, who had been long practised in the art of wrestling, and had slain many men in contests of this kind, was just going to wrestle with a very young man, who, from his extreme youth and inexperience in the art, the beholders all thought would certainly be killed.
+
+When the duke saw Celia and Rosalind, he said, "How now, daughter and niece, are you crept hither to see the wrestling? You will take little delight in it, there is such odds in the men: in pity to this young man, I would wish to persuade him from wrestling. Speak to him, ladies, and see if you can move him."
+
+The ladies were well pleased to perform this humane office, and first Celia entreated the young stranger that he would desist from the attempt; and then Rosalind spoke so kindly to him, and with such feeling consideration for the danger he was about to undergo, that instead of being persuaded by her gentle words to forego his purpose, all his thoughts were bent to distinguish himself by his courage in this lovely lady's eyes. He refused the request of Celia and Rosalind in such graceful and modest words, that they felt still more concern for him; he concluded his refusal with saying, "I am sorry to deny such fair and excellent ladies anything. But let your fair eyes and gentle wishes go with me to my trial, wherein if I be conquered there is one shamed that was never gracious; if I am killed, there is one dead that is willing to die; I shall do my friends no wrong, for I have none to lament me; the world no injury, for in it I have nothing; for I only fill up a place in the world which may be better supplied when I have made it empty."And now the wrestling match began. Celia wished the young stranger might not be hurt; but Rosalind felt most for him. The friendless state which he said he was in, and that he wished to die, made Rosalind think that he was like herself, unfortunate; and she pitied him so much, and so deep an interest she took in his danger while he was wrestling, that she might almost be said at that moment to have fallen in love with him.
+
+The kindness shown this unknown youth by these fair and noble ladies gave him courage and strength, so that he performed wonders; and in the end completely conquered his antagonist, who was so much hurt, that for a while he was unable to speak or move.
+
+The Duke Frederick was much pleased with the courage and skill shown by this young stranger; and desired to know his name and parentage, meaning to take him under his protection.
+
+The stranger said his name was Orlando, and that he was the youngest son of Sir Rowland de Boys.
+
+Sir Rowland de Boys, the father of Orlando, had been dead some years; but when he was living, he had been a true subject and dear friend of the banished duke: therefore, when Frederick heard Orlando was the son of his banished brother's friend, all his liking for this brave young man was changed into displeasure, and he left the place in very ill humour.Hating to hear the very name of any of his brother's friends, and yet still admiring the valour of the youth, he said, as he went out, that he wished Orlando had been the son of any other man.
+
+Rosalind was delighted to hear that her new favourite was the son of her father's old friend; and she said to Celia, "My father loved Sir Rowland de Boys, and if I had known this young man was his son, I would have added tears to my entreaties before he should have ventured."
+
+The ladies then went up to him; and seeing him abashed by the sudden displeasure shown by the duke, they spoke kind and encouraging words to him; and Rosalind, when they were going away, turned back to speak some more civil things to the brave young son of her father's old friend; and taking a chain from off her neck, she said, "Gentleman, wear this for me. I am out of suits with fortune, or I would give you a more valuable present."
+
+When the ladies were alone, Rosalind's talk being still of Orlando, Celia began to perceive her cousin had fallen in love with the handsome young wrestler, and she said to Rosalind, "Is it possible you should fall in love so suddenly?" Rosalind replied, "The duke, my father, loved his father dearly." "But," said Celia, "does it therefore follow that you should love his son dearly? for then I ought to hate him, for my father hated his father; yet I do not hate Orlando."
+
+Frederick being enraged at the sight of Sir Rowland de Boys' son, which reminded him of the many friends the banished duke had among the nobility,and having been for some time displeased with his niece, because the people praised her for her virtues, and pitied her for her good father's sake, his malice suddenly broke out against her; and while Celia and Rosalind were talking of Orlando, Frederick entered the room, and with looks full of anger ordered Rosalind instantly to leave the palace, and follow her father into banishment; telling Celia, who in vain pleaded for her, that he had only suffered Rosalind to stay upon her account. "I did not then," said Celia, "entreat you to let her stay, for I was too young at that time to value her; but now that I know her worth, and that we so long have slept together, rose at the same instant, learned, played, and eat together, I cannot live out of her company." Frederick replied, "She is too subtle for you; her smoothness, her very silence, and her patience speak to the people, and they pity her. You are a fool to plead for her, for you will seem more bright and virtuous when she is gone; therefore open not your lips in her favour, for the doom which I have passed upon her is irrevocable."
+
+When Celia found she could not prevail upon her father to let Rosalind remain with her, she generously resolved to accompany her; and leaving her father's palace that night, she went along with her friend to seek Rosalind's father, the banished duke, in the forest of Arden.
+
+Before they set out, Celia considered that it would be unsafe for two young ladies to travel in the rich clothes they then wore; she therefore proposed that they should disguise their rank by dressing themselves like country maids.Rosalind said it would be a still greater protection if one of them was to be dressed like a man; and so it was quickly agreed on between them, that as Rosalind was the tallest, she should wear the dress of a young countryman, and Celia should be habited like a country lass, and that they should say they were brother and sister, and Rosalind said she would be called Ganymede, and Celia chose the name of Aliena.
+
+In this disguise, and taking their money and jewels to defray their expenses, these fair princesses set out on their long travel; for the forest of Arden was a long way off, beyond the boundaries of the duke's dominions.
+
+The Lady Rosalind (or Ganymede as she must now be called) with her manly garb seemed to have put on a manly courage. The faithful friendship Celia had shown in accompanying Rosalind so many weary miles, made the new brother, in recompense for this true love, exert a cheerful spirit, as if he were indeed Ganymede, the rustic and stout-hearted brother of the gentle village maiden, Aliena.
+
+When at last they came to the forest of Arden, they no longer found the convenient inns and good accommodations they had met with on the road; and being in want of food and rest, Ganymede, who had so merrily cheered his sister with pleasant speeches and happy remarks all the way, now owned to Aliena that he was so weary, he could find in his heart to disgrace his man's apparel, and cry like a woman; and Aliena declared she could go no farther; and then again Ganymede tried to recollect that it was a man's duty to comfort and console a woman, as the weaker vessel; and to seem courageous to his new sister, he said, "Come, have a good heart, my sister Aliena;we are now at the end of our travel, in the forest of Arden." But feigned manliness and forced courage would no longer support them; for though they were in the forest of Arden, they knew not where to find the duke: and here the travel of these weary ladies might have come to a sad conclusion, for they might have lost themselves, and perished for want of food; but providentially, as they were sitting on the grass, almost dying with fatigue and hopeless of any relief, a countryman chanced to pass that way, and Ganymede once more tried to speak with a manly boldness, saying, "Shepherd, if love or gold can in this desert place procure us entertainment, I pray you bring us where we may rest ourselves; for this young maid, my sister, is much fatigued with travelling, and faints for want of food."
+
+The man replied that he was only a servant to a shepherd, and that his master's house was just going to be sold, and therefore they would find but poor entertainment; but that if they would go with him, they should be welcome to what there was. They followed the man, the near prospect of relief giving them fresh strength; and bought the house and sheep of the shepherd, and took the man who conducted them to the shepherd's house to wait on them; and being by this means so fortunately provided with a neat cottage, and well supplied with provisions, they agreed to stay here till they could learn in what part of the forest the duke dwelt.When they were rested after the fatigue of their journey, they began to like their new way of life, and almost fancied themselves the shepherd and shepherdess they feigned to be; yet sometimes Ganymede remembered he had once been the same Lady Rosalind who had so dearly loved the brave Orlando, because he was the son of old Sir Rowland, her father's friend; and though Ganymede thought that Orlando was many miles distant, even so many weary miles as they had travelled, yet it soon appeared that Orlando was also in the forest of Arden: and in this manner this strange event came to pass.
+
+Orlando was the youngest son of Sir Rowland de Boys, who, when he died, left him (Orlando being then very young) to the care of his eldest brother Oliver, charging Oliver on his blessing to give his brother a good education, and provide for him as became the dignity of their ancient house. Oliver proved an unworthy brother; and disregarding the commands of his dying father, he never put his brother to school, but kept him at home untaught and entirely neglected. But in his nature and in the noble qualities of his mind Orlando so much resembled his excellent father, that without any advantages of education he seemed like a youth who had been bred with the utmost care; and Oliver so envied the fine person and dignified manners of his untutored brother, that at last he wished to destroy him; and to effect this he set on people to persuade him to wrestle with the famous wrestler, who, as has been before related, had killed so many men. Now, it was this cruel brother's neglect of him which made Orlando say he wished to die, being so friendless.When, contrary to the wicked hopes he had formed, his brother proved victorious, his envy and malice knew no bounds, and he swore he would burn the chamber where Orlando slept. He was overheard making this vow by one that had been an old and faithful servant to their father, and that loved Orlando because he resembled Sir Rowland. This old man went out to meet him when he returned from the duke's palace, and when he saw Orlando, the peril his dear young master was in made him break out into these passionate exclamations: "O my gentle master, my sweet master, O you memory of old Sir Rowland! why are you virtuous? why are you gentle, strong, and valiant? and why would you be so fond to overcome the famous wrestler? Your praise is come too swiftly home before you." Orlando, wondering what all this meant, asked him what was the matter. And then the old man told him how his wicked brother, envying the love all people bore him, and now hearing the fame he had gained by his victory in the duke's palace, intended to destroy him, by setting fire to his chamber that night; and in conclusion, advised him to escape the danger he was in by instant flight; and knowing Orlando had no money, Adam (for that was the good old man's name) had brought out with him his own little hoard, and he said, "I have five hundred crowns, the thrifty hire I saved under your father, and laid by to be provision for me when my old limbs should become unfit for service; take that, and he that doth the ravens feed be comfort to my age! Here is the gold; all this I give to you: let me be your servant; though I look old I will do the service of a younger man in all your business and necessities." "O good old man!" said Orlando, "how well appears in you the constant service of the old world! You are not for the fashion of these times.

@@ -1,0 +1,889 @@
+HOLB1	16464	0	0	80	634	34
+1	Book of Leinster, fo. 64a.
+5	Preface
+14	III. The Gathering of Medb's Forces
+16	V. The Single Combats of Cuchulain
+18	VII. The End of the two Bulls
+36	I. The Pillow-talk
+40	II. [1]the Occasion Of The Tain[1]
+46	III. [1]the Rising-out Of The Men Of Connacht…
+50	IV. THE FORETELLING[a]
+60	V. This Is The Route Of The Tain
+62	VI. The March Of The Host
+104	VII. The Youthful Exploits Of Cuchulain
+157	VIII. The Slaying Of Orlam
+187	IX. The Proposals
+205	X. [1]the Violent Death Of Etarcumul[1]
+225	XI. [1]the Slaying Of Nathcrantail[1]
+234	XII. [1]the Finding Of The Bull[1]
+250	XIII. [1]the Combat Of Cur With Cuchulain[1]
+256	XIV. [1]the Slaying Of Ferbaeth ('the Witless'…
+276	XV
+299	XVI. [1]the Violation Of The Agreement[1]
+305	XVII
+333	XVIII. [1]the Slaying Of Oengus Son Of Oenlam[…
+337	XIX. [1]the Battle Of Fergus And Cuchulain[1]
+353	XX. The Combat Of Ferdiad [1]and Cuchulain[1]
+441	XXI. [1]cuchulain And The Rivers[1]
+443	XXII. [1]cethern's Strait-fight[1]
+465	XXIII. Here Followeth The Tooth-fight Of Finta…
+485	XXIV. The Repeated Warning Of Sualtaim
+503	XXV. [1]here Followeth The Array Of The Host[1…
+556	XXVI. [1]the Decision Of The Battle[1]
+561	XXVII. [1]now Of The Battle Of Garech[1]
+586	XXVIII. [1]the Battle Of The Bulls[1]
+591	XXIX. [1]account Of The Brown Bull Of Cualnge[…
+THE ANCIENT IRISH EPIC TALE
+
+TAIN BO CUALNGE
+
+"THE CUALNGE CATTLE-RAID"
+
+Now for the first time done entire into English
+   out of the Irish of the Book of Leinster
+        and Allied Manuscripts
+
+By
+
+        JOSEPH DUNN
+Professor at the Catholic University
+        Washington
+
+WITH TWO PAGES IN FACSIMILE OF THE MANUSCRIPTS<b>Book of Leinster, fo. 64a.</b>
+
+   "For the men of Erin and Alba shall hear that
+name (Cuchulain) and the mouths of the men of Erin
+       and Alba shall be full of that name."
+
+        LONDON
+        DAVID NUTT
+17 GRAPE STREET, NEW OXFORD STREET, W.C
+        1914
+
+To the Memory of
+
+MY MOTHER
+
+* * * * *
+
+* * * * *
+
+CONTENTS
+
+        Preface, xi.
+     I The Pillow-talk, 1.
+    II The Occasion of the Tain, 5.
+   III The Rising-out of the Men of Connacht at Cruachan Ai, 10.
+    IV The Foretelling, 13.     V The Route of the Tain, 19.
+    VI The March of the Host, 21.
+   VII The Youthful Exploits of Cuchulain, 46.
+   VIIa The Slaying of the Smith's Hound by Cuchulain, 54.
+   VIIb The Taking of Arms by Cuchulain and
+        The Slaying of the Three Sons of Necht Scene, 60.
+   VIIc A Separate Version as far as the Slaying Of Orlam, 80.
+  VIII The Slaying of Orlam, 82.
+  VIIIa The Slaying of the Three MacArach, 85.
+  VIIIb The Combat of Lethan and Cuchulain, 86.
+  VIIIc The Killing of the Squirrel and of the Tame Bird, 88.
+  VIIId The Slaying of Loche, 93.
+  VIIIe The Killing of Uala, 95.
+  VIIIf The Harrying of Cualnge, 99.
+    IX The Proposals, 104.
+     X The Violent Death of Etarcumul, 115.
+    XI The Slaying of Nathcrantail, 126.
+   XII The Finding of the Bull, 132.
+   XIIa The Death of Forgemen, 136.
+   XIIb The Slaying of Redg the Lampoonist, 137.
+   XIIc The Meeting of Cuchulain and Finnabair, 139.
+   XIId The Combat of Munremar and Curoi, 141.
+   XIIe The Slaughter of the Boy-troop, 143.
+   XIIf The Slaughter of the King's Bodyguard, 145.
+  XIII The Combat of Cur with Cuchulain, 146.   XIV The Slaying of Ferbaeth, 150.
+   XIVa The Combat of Larine MacNois, 155.
+   XIVb The Colloquy of the Morrigan and Cuchulain, 161.
+    XV The Combat of Loch and Cuchulain, and
+        The Slaying of Loch son of Mofemis, 163.
+   XVI The Violation of the Agreement, 175.
+   XVIa The Healing of the Morrigan, 177.
+  XVII The Great Rout on the Plain of Murthemne, 180.
+  XVIIa The Slaughter of the Youths of Ulster, 184.
+  XVIIb The Scythed Chariot, 187.
+  XVIIc The Appearance of Cuchulain, 195.
+  XVIId Dubthach's Jealousy, 198.
+ XVIII The Slaying of Oengus son of Oenlam, 201.
+ XVIIIa The Misthrow at Belach Eoin, 202.
+ XVIIIb The Disguising of Tamon, 204.
+   XIX The Battle of Fergus and Cuchulain, 205.
+   XIXa The Head-place of Ferchu, 209.
+   XIXb Mann's Fight, 211.
+   XIXc The Combat of Calatin's Children, 213.
+    XX The Combat of Ferdiad and Cuchulain, 217.
+   XXI Cuchulain and the Rivers, 268.
+  XXII Cethern's Strait-fight, 269.
+  XXIIa Cethern's Bloody Wounds, 273.
+ XXIII The Tooth-fight of Fintan, 283.
+ XXIIIa The Red-Shame of Menn, 285. XXIIIb The Accoutrement of the Charioteers, 287.
+ XXIIIc The White-fight of Rochad, 288.
+ XXIIId Iliach's Clump-fight, 292.
+ XXIIIe The Deer-stalking of Amargin in Taltiu, 295.
+ XXIIIf The Adventures of Curoi son of Dare, 296.
+  XXIV The Repeated Warning of Sualtaim, 298.
+  XXIVa The Agitation of Celtchar, 306.
+   XXV The Array of the Host, 309.
+  XXVI The Decision of the Battle, 345.
+ XXVII The Battle of Garech, 348.
+ XXVIIa The Muster of the Men of Erin, 351.
+XXVIII The Battle of the Bulls, 363.
+  XXIX The Account of the Brown Bull of Cualnge, 366.
+        Index of Place and Personal Names, 371.
+
+* * * * *
+
+* * * * *<b>PREFACE</b>
+
+The Gaelic Literature of Ireland is vast in extent and rich in quality. The inedited manuscript materials, if published, would occupy several hundred large volumes. Of this mass only a small portion has as yet been explored by scholars. Nevertheless three saga-cycles stand out from the rest, distinguished for their compass, age and literary worth, those, namely, of the gods, of the demigod Cuchulain, and of Finn son of Cumhall. The Cuchulain cycle, also called the Ulster cycle--from the home of its hero in the North of Ireland--forms the core of this great mass of epic material. It is also known as the cycle of Conchobar, the king round whom the Ulster warriors mustered, and, finally, it has been called the Red Branch Cycle from the name of the banqueting hall at Emain Macha in Ulster.
+
+Only a few of the hundred or more tales which once belonged to this cycle have survived. There are some dozen in particular, technically known as <i>Remscela</i> or "Foretales," because they lead up to and explain the great Tain, the Tain Bo Cualnge, "The Cualnge Cattle-raid," the Iliad of Ireland, as it has been called, the queen of Irish epic tales, and the wildest and most fascinating saga-tale, not only of the entire Celtic world, but even of all western Europe.
+
+The mediaeval Irish scholars catalogued their native literature under several heads, probably as an aid to the memory of the professional poets or story-tellers whose stock-in-trade it was, and to one of these divisions they gave the name <i>Tainte</i>, plural of <i>Tain</i>.By this term, which is most often followed by the genitive plural <i>bo</i>, "cows," they meant "a driving," or "a reaving," or even "a drove" or "herd" of cattle. It is only by extension of meaning that this title is applied to the Tain Bo Cualnge, the most famous representative of the class, for it is not, strictly speaking, with the driving of cattle that it deals but with that of the Brown Bull of Cualnge. But, since to carry off the bull implies the carrying off of the herd of which he was the head, and as the "Brown" is always represented as accompanied by his fifty heifers, there were sufficient grounds for putting the Brown Bull Quest in the class of Cow-spoils.
+
+The prominence accorded to this class of stories in the early literature of Ireland is not to be wondered at when the economic situation of the country and the stage of civilization of which they are the faithful mirror is borne in mind.[1] Since all wars are waged for gain, and since among the Irish, who are still very much a nation of cattle raisers, cattle was the chief article of wealth and measure of value,[2] so marauding expeditions from one district into another for cattle must have been of frequent occurrence, just as among the North American Indians tribal wars used to be waged for the acquisition of horses. That this had been a common practice among their kinsmen on the Continent also we learn from Caesar's account of the Germans (and Celts?) who, he says, practised warfare not only for a means of subsistence but also for exercising their warriors.How long-lived the custom has been amongst the Gaelic Celts, as an occupation or as a pastime, is evident not only from the plundering incursions or "creaghs"[3] as they are called in the Highlands and described by Scott in <i>Waverley</i> and <i>The Fair Maid of Perth</i>, but also from the "cattle-drives" which have been resorted to in our own day in Ireland, though these latter had a different motive than plunder. As has been observed by Sir Henry Sumner Maine, Lord Macaulay was mistaken in ascribing this custom to "some native vice of Irish character," for, as every student of ancient Ireland may perceive, it is rather to be regarded as "a survival, an ancient and inveterate habit" of the race.
+
+One of these many Cattle-preys was the Tain Bo Cualnge,[4] which, there can be little doubt, had behind it no mere myth but some kernel of actual fact. Its historical basis is that a Connacht chieftain and his lady went to war with Ulster about a drove of cattle. The importance of a racial struggle between the north-east province and the remaining four grand provinces of Ireland cannot be ascribed to it. There is, it is true, strong evidence to show that two chief centres, political, if not cultural and national, existed at the time of the Tain in Ireland, Cruachan Ai, near the present Rathcroghan in Connacht, and Emain Macha, the Navan Fort, two miles west of Armagh in Ulster, and it is with the friendly or hostile relations of these two that the Ultonian cycle of tales deals. Ulster, or, more precisely, the eastern portion of the Province, was the scene of all the Cattle-raids, and there is a degree of truth in the couplet,--
+
+"Leinster for breeding, And Ulster for reaving;
+Munster for reading, And Connacht for thieving."But there are no indications of a racial clash or war of tribes. With the exception of the Oghamic writings inscribed on the pillar-stones by Cuchulain, which seem to require interpretation to the men of Connacht by Ulstermen, the description of the warriors mustered by the Connacht warrior queen and those gathered round King Conchobar of Ulster accord quite closely.
+
+The Tain Bo Cualnge is the work not of any one man but of a corporation of artists known as <i>filid</i>. The author of the Tain in its present state, whoever he may have been, was a strong partisan of Ulster and never misses an opportunity of flattering the pride of her chieftains. Later a kind of reaction against the pre-eminence given to Ulster and the glorification of its hero sets in, and a group of stories arises in which the war takes a different end and Cuchulain is shown to disadvantage, finally to fall at the hands of a Munster champion. It is to this southern province that the saga-cycle which followed the Cuchulain at an interval of two hundred years belongs, namely, the Fenian saga,--the saga of Finn son of Cumhall, which still flourishes among the Gaelic speakers of Ireland and Scotland, while the Cuchulain stories have almost died out among them. The mingling of the two sagas is the work of the eighteenth-century Scots Lowlander, James Macpherson.
+
+The Tain Bo Cualnge is one of the most precious monuments of the world's literature, both because of the poetic worth it evidences at an early stage of civilization, and for the light it throws on the life of the people among whom it originated and that of their ancestors centuries earlier.It is not less valuable and curious because it shows us the earlier stages of an epic--an epic in the making--which it does better perhaps than any other work in literature. Ireland had at hand all the materials for a great national epic, a wealth of saga-material replete with interesting episodes, picturesque and dramatic incidents and strongly defined personages, yet she never found her Homer, a gifted poet to embrace her entire literary wealth, to piece the disjointed fragments together, smooth the asperities and hand down to posterity the finished epic of the Celtic world, superior, perhaps, to the Iliad or the Odyssey. What has come down to us is "a sort of patchwork epic," as Prescott called the Ballads of the Cid, a popular epopee in all its native roughness, wild phantasy and extravagance of deed and description as it developed during successive generations. It resembles the frame of some huge ship left unfinished by the builders on the beach and covered with shells and drift from the sea of Celtic tradition. From the historical standpoint, however, and as a picture of the old barbaric Celtic culture, and as a pure expression of elemental passion, it is of more importance to have the genuine tradition as it developed amongst the people, unvarnished by poetic art and uninfluenced by the example of older and alien societies.
+
+According to the Chronicles of Ireland, as formulated in the Annals of Tigernach,[5] who died in 1088, King Conchobar of Ulster began to reign in the year 30 B.C., and he is said to have died of grief at the news that Christ had been crucified. His reign therefore lasted about sixty years. Cuchulain died in the year 39 A.D.in the twenty-seventh year of his age, as we learn from the following entry: "The death of Cuchulain, the bravest hero of the Irish, by Lugaid son of Three Hounds, king of Munster, and by Erc, king of Tara, son of Carbre Niafer, and by the three sons of Calatin of Connacht. Seven years was his age when he assumed arms, seventeen was his age when he followed the Driving of the Kine of Cualnge, but twenty-seven years was his age when he died."[6]
+
+A very different account is given in the manuscript known as H. 3. 17, Trinity College, Dublin, quoted by O'Curry in his <i>Manuscript Materials</i>, page 508. The passage concludes with the statement: "So that the year of the Tain was the fifty-ninth year of Cuchulain's age, from the night of his birth to the night of his death." The record first quoted, however, is partly corroborated by the following passage which I translate from the Book of Ballymote, facsimile edition, page 13, col. a, lines 9-21: "In the fourteenth year of the reign of Conaire (killed in 40 B.C.) and of Conchobar, the Blessed Virgin was born. At that time Cuchulain had completed thirteen years; and in the fourth year after the birth of Mary, the expedition of the Kine of Cualnge took place ... that is, in the eighteenth year of the reign of Conaire. Cuchulain had completed his seventeenth year at that time. That is, it was in the thirty-second year of the reign of Octavius Augustus that the same expedition took place. Eight years after the Tain Bo Cualnge, Christ was born, and Mary had completed twelve years then, and that was in the fortieth year of the reign of Octavius Augustus; and in the twenty-sixth year of the reign of Conaire and Conchobar, and in the second year after the birth of Christ, Cuchulain died. And twenty-seven years was Cuchulain's age at that time."These apparent synchronisms, of course, may only rest upon the imagination of the Christian annalists of Ireland, who hoped to exalt their ancient rulers and heroes by bringing them into relation with and even making them participate in the events of the life of the Saviour. But in placing the date of the expedition of the Tain at about the beginning of the Christian era, Irish tradition is undoubtedly correct, as appears from the character of the civilization depicted in the Ulster tales, which corresponds in a remarkable degree with what authors of antiquity have recorded of the Celts and with the character of the age which archaeologists call "la Tene," or "Late Celtic," which terminates at the beginning of the first century of our era. Oral tradition was perhaps occupied for five hundred years working over and developing the story of the Tain, and by the close of the fifth century the saga to which it belonged was substantially the one we have now. The text of the tale must have been completed by the first half of the seventh century, and, as we shall see, its oldest extant version, the Book of the Dun, dates from about the year 1100.
+
+But, whatever may be the precise dates of these events, which we are not in a position to determine more accurately, the composition of the Tain Bo Cualnge antedates by a considerable margin the epic tales of the Anglo-Saxons, the Scandinavians, the Franks and the Germans. It is the oldest epic tale of western Europe, and it and the cycle of tales to which it belongs form "the oldest existing literature of any of the peoples to the north of the Alps."[7] The deeds it recounts belong to the heroic age of Ireland three hundred years before the introduction of Christianity into the island, and its spirit never ceased to remain markedly pagan.The mythology that permeates it is one of the most primitive manifestations of the personification of the natural forces which the Celts worshipped. Its historical background, social organization, chivalry, mood and thought and its heroic ideal are to a large extent, and with perhaps some pre-Aryan survivals, not only those of the insular Celts of two thousand years ago, but also of the important and wide-spread Celtic race with whom Caesar fought and who in an earlier period had sacked Rome and made themselves feared even in Greece and Asia Minor.
+
+The following is the Argument of the Tain Bo Cualnge, which, for the sake of convenience, is here divided into sections:
+
+I. The Prologue
+
+One night at the palace of Cruachan in Connacht, a dispute arose between Queen Medb, the sometime wife of Conchobar, king of Ulster, and her consort Ailill, as to the amount of their respective possessions. It may be remarked in passing that in those days in Ireland, married women retained their private fortune independent of their husbands, as well as the dowry secured to them in marriage. To procure the evidence of their wealth, the royal pair sent messengers to assemble all their chattels which, on comparison, were found to be equal, excepting only that among Ailill's kine was a lordly bull called Finnbennach, "the Whitehorned," whose match was not to be found in the herds of the queen.
+
+II. The Embassage to Dare and the Occasion of the TainAs we might expect, Medb was chagrined at the discovery. Now her herald macRoth had told her that Dare macFiachna, a landowner of Cualnge, a district in the territory of her former husband, possessed an even more wonderful bull than Ailill's, called Donn Cualnge, "the Brown Bull of Cualnge." So she despatched macRoth to Dare to pray for the loan of the bull.
+
+Dare received the queen's messengers hospitably and readily granted her request, but in the course of the entertainment, one of the messengers, deep in his cups, spoke against Dare, and he, hearing this, withdrew his promise and swore that he would never hand over the Brown Bull of Cualnge.<b>III. The Gathering of Medb's Forces</b>
+
+The impetuous queen, enraged at the failure of her mission, immediately mustered a formidable army, composed not only of her Connachtmen but also of allies from all parts of Ireland, wherewith to undertake the invasion of Ulster. On her side were the Ulster chieftains who had gone into exile into Connacht after the treacherous slaughter of the sons of Usnech by King Conchobar of Ulster. Chief among them was Fergus, who, moreover, had a personal grievance against Conchobar. For, while Fergus was king of Ulster, he had courted the widow Ness and, in order to win her, promised to abdicate for the term of one year in favour of her son Conchobar. But when the term had elapsed, the youth refused to relinquish the throne, and Fergus in anger entered the service of Medb of Connacht. There he was loaded with favours, became the counsellor of the realm and, as appears from more than one allusion in the tale, the more than friend of the wife of King Ailill.
+
+The four leagued provinces of Ireland being gathered at Cruachan, the guidance of the host was entrusted to Fergus, because he was acquainted with the province of Ulster through which they were to march, and at the beginning of winter--a point emphasized by the exponents of the sun-theory--the mighty host, including in its ranks the king and queen and some of the greatest warriors of Ireland, with the princess Finnabair as a lure, set forth on the raid into Ulster.They crossed the Shannon near Athlone and, marching through the province of Meath, arrived at the borders of Cualnge. Fortunately for the invaders, the expedition took place while the Ulstermen lay prostrate in their <i>cess</i>, or "Pains," a mysterious state of debility or torpor which was inflicted on them periodically in consequence of an ancient curse laid upon Conchobar and the warriors of Ulster as a punishment for a wrong done to the goddess Macha. This strange malady, resembling the <i>couvade</i> among certain savage nations, ordinarily lasted five days and four nights, but on this occasion the Ulstermen were prostrate from the beginning of November till the beginning of February. During all that time the burden of defending the province fell on the shoulders of the youthful champion Cuchulain, who had in his particular charge the plain of Murthemne, the nearest district to Cualnge, the goal of the expedition. For Cuchulain and his father Sualtaim were alone exempt from the curse and the "Pains" which had befallen the remainder of the champions of Ulster.
+
+IV. The Youthful Exploits of Cuchulain
+
+The Connacht host had not proceeded far when they came upon evidence of some mighty force that opposed them. In answer to the inquiries of Ailill and Medb, Fergus explains that it is Cuchulain who disputes their further advance, and, as evidence of the superhuman strength and prowess of the Ulster youth, then in the seventeenth year of his age, the Ulster exiles recount the mighty deeds he had performed in his boyhood, chief among which is the tale according to which, as eric for the killing of the hound of Culann the Smith, the boy-hero Setanta assumed the station and the name which ever after clung to him of Cuchulain, "the Hound of Culann."<b>V. The Single Combats of Cuchulain</b>
+
+Cuchulain agrees to allow the Connacht host to continue their march on condition that every day they send one of their champions to meet him in single combat. When he shall have killed his opponent, the host shall halt and pitch camp until the following morning. Medb agrees to abide by these terms. In each of the contests which ensue, the heroic youth is victorious and slays many of the most celebrated warriors on the side of Connacht. The severest of all these single combats was the one in which he had as opponent his former friend and foster-brother Ferdiad. At the end of a four days' battle, in which both adversaries exhibited astounding deeds of valour, Ferdiad fell by the hands of Cuchulain.
+
+Impatient at these delays, Medb broke the sacred laws of ancient Irish chivalry and led her army into Ulster, overrunning the province, pillaging and burning as she went, even up to the walls of Emain Macha, the residence of Conchobar, and finally took possession of the Brown Bull of Cualnge.
+
+VI. The Gathering of the Ulstermen and the Final Battle of the Tain
+
+By this time King Conchobar and his warriors have come out of their debility and summoned their forces to an eminence in Slane of Meath. The great gathering of the Ulstermen is reported to Medb by her trusty herald macRoth, and from his description of the leaders and their troops, their exiled countryman Fergus designates them to the nobles of Connacht. In the final battle Medb's army is repulsed and retreats in flight into Connacht.Thus each host has had its share of the fortunes of war: Medb has laid waste the lands of her divorced husband and carried off the Brown Bull of Cualnge, the prize of war, while on the other hand, Conchobar has won the victory in the great battle of Garech and Ilgarech.<b>VII. The End of the two Bulls</b>
+
+On the way back to Connacht, the Brown Bull of Cualnge emitted such terrible bellowings that they reached the ears of the Whitehorned remaining at home in his stall in Cruachan, whence he rushed at full speed to attack the other. A furious battle took place between the bulls, but the Brown was the stronger, and raising his rival on his horns he shook the Whitehorned into fragments over all Ireland. He then returned in fury to Ulster, and in his wild rage dashed his head against a rock and was killed.
+
+The Tain Bo Cualnge has been preserved, more or less complete, in a score of manuscripts ranging in date from the beginning of the twelfth to the middle of the nineteenth century. There probably existed other manuscripts containing not only the Tain as we have it but even episodes now wanting in it. All of the extant manuscripts go back to versions which date from the seventh century or earlier. No manuscript of the Tain is wholly in the language of the time when it was copied, but, under the cloak of the contemporaneous orthography, contains forms and words so obsolete that they were not understood by the copyist, so that glossaries had to be compiled to explain them.
+
+It is by a singular good fortune that this, the greatest of all the epic tales of the Irish, has been handed down to our day in the two most ancient and, for that reason, most precious of the great Middle Irish collections of miscellaneous contents known as the <i>Leabhar na hUidhre</i>, "the Book of The Dun (Cow)," and the Book of Leinster. The former and older of these vellum manuscripts (abbreviated LU.)is kept in the Library of the Royal Irish Academy at Dublin. It must have been written about the beginning of the twelfth century, for its compiler and writer, Moelmuire macCeilechair (Kelleher), is known to have been slain at Clonmacnois in the year 1106; some of its linguistic forms, however, are as old as the eighth century glosses. Unfortunately, LU.'s account of the Tain is incomplete at the beginning and the end, but the latter portion is made good by the closely related, though independent, version contained in the manuscript known as the Yellow Book of Lecan (abbreviated YBL.). This manuscript was written about the year 1391 and it is also kept in Dublin in the Library of Trinity College. To the same group as LU. and YBL., which for the sake of convenience we may call version A, belong also the British Museum MSS., Egerton 1782, a large fragment, and Egerton 114, both dating from the fifteenth or sixteenth century.
+
+Version B comprises the closely related accounts of the Tain as contained in the Book of Leinster (abbreviated LL.) and the following MSS.: Stowe 984 (Royal Irish Academy), written in the year 1633 and giving, except for the loss of a leaf, a complete story of the Tain; H. 1. 13 (Trinity College, Dublin), written in the year 1745 and giving the Tain entire; Additional 18748 (abbreviated Add.), British Museum, copied in the year 1800 from a 1730 original; Egerton 209 and Egerton 106 (British Museum), both fragments and dating from the eighteenth century. Fragments of a modern version are also found in MS. LIX, Advocates' Library, Edinburgh.To version C belong only fragments: H. 2. 17 (Trinity College, Dublin), dating from the end of the fourteenth or the beginning of the fifteenth century; the almost identical Egerton 93 (British Museum), consisting of only ten leaves and dating from nearly a century later, and H. 2. 12 (Trinity College, Dublin), consisting of only two pages.[8]
+
+The manuscripts belonging to each of these versions, A, B, and C, have sufficient traits in common to place them in a group by themselves. The question of the relationship of these manuscripts to one another and of the character of the suppositional archetype from which they are all descended is a most intricate one and one which has given rise to considerable discussion. The question still awaits a definite answer, which may never be forthcoming, because of the disappearance not only of the first draft of the Tain, but also of that of some of its later redactions. We must not overlook the possibility, either, of an otherwise faithful copyist having inserted in the text before him a passage, or even an entire episode, of his own fabrication. This, no doubt, happened not infrequently, especially in the earlier period of the copying of Irish manuscripts, and a single insertion of this kind, or the omission, intentionally or by oversight, of a part of the original from the copy might, it will easily be seen, lead one to conclude that there once existed a form of the story which as a matter of fact never existed.The version of the Tain which I have chosen as the basis for my translation is the one found in the Book of Leinster (<i>Leabhar Laighneach</i>), a voluminous vellum manuscript sometime called the Book of Glendalough and now kept in the Library of Trinity College, Dublin, catalogue number H. 2. 18. Only a part of the original book remains. It dates from about the year 1150. This date is established by two entries in the manuscript itself: "Aed son of Crimthann (Hugh macGriffin) hath written this book and out of many books hath he compiled it" (facsimile, at the bottom of page 313). Who this Aed was will be clear from the other entry. It appears that he had lent the manuscript while still unfinished to Finn macGorman, who was Bishop of Kildare from 1148 and died in the year 1160, and who on returning the book wrote in it the following laudatory note in Irish to Aed: "(Life) and health from Finn, the Bishop of Kildare, to Aed son of Crimthann, tutor of the chief king (i.e. of King Dermod macMurrogh, the infamous prince who half a century later invited Strongbow and the Normans to come over from Wales to Ireland) of Mug Nuadat's Half (i.e. of Leinster and Munster), and successor of Colum son of Crimthann (this Colum was abbot of Tir da ghlass the modern Terryglas on the shore of Lough Derg, in the County Tipperary--and died in the year 548), and chief historian of Leinster in respect of wisdom and intelligence, and cultivation of books, science and learning. And let the conclusion of this little tale (i.e. the story of Ailill Aulom son of Mug Nuadat, the beginning of which was contained in the book which Finn returns) be written for me accurately by thee, O cunning Aed, thou man of the sparkling intellect. May it be long before we are without thee. My desire is that thou shouldst always be with us.And let macLonan's Songbook be given to me, that I may understand the sense of the poems that are in it. <i>Et vale in Christo.</i>"[9]
+
+It would seem from another note in the manuscript[10] that the Book of Leinster afterwards belonged to some admirer of King Dermod, for he wrote: "O Mary! Great was the deed that was done in Ireland this day, the kalends of August (1166)--Dermod, son of Donnoch macMurrogh, King of Leinster and of the (Dublin) Danes to be banished by the men of Ireland over the sea eastwards. Woe, woe is me, O Lord, what shall I do!"[11]
+
+My reason for founding the translation on the LL. version, in spite of the fact that its composition is posterior by half a century to that of LU., was not merely out of respect for the injunction of the scribe of the <i>ne varietur</i> and to merit his blessing (page 369), but also because LL.'s is the oldest <i>complete</i> version of the Tain extant. Though as a rule (and as is easily discernible from a comparison of LU. and LL.), the shorter, terser and cruder the form of a tale is, the more primitive it is, yet it is not always the oldest preserved form of a work that represents the most ancient form of the story. Indeed, it is not at all improbable that LL. contains elements which represent a tradition antedating the composition of LU. At all events, LL. has these strong points in its favour, that, of all the versions, it is the most uniform and consistent, the most artistically arranged, the one with most colour and imagination, and the one which lends itself most readily to translation, both in itself and because of the convenient Irish text provided by Professor Windisch's edition. In order to present the Tain in its completest form, however, I have adopted the novel plan of incorporating in the LL.account the translations of what are known as conflate readings. These, as a rule, I have taken from no manuscript that does not demonstrably go back to a twelfth or earlier century redaction. Some of these additions consist of but a single word: others extend over several pages. This dovetailing could not always be accomplished with perfect accuracy, but no variants have been added that do not cohere with the context or destroy the continuity of the story. Whatever slight inconsistencies there may be in the accounts of single episodes, they are outweighed, in my opinion, by the value and interest of the additions. In all cases, however, the reader can control the translation by means of the foot-notes which indicate the sources and distinguish the accretions from the basic text. The numerous passages in which Eg. 1782 agrees with LU. and YBL. have not all been marked. The asterisk shows the beginning of each fresh page in the lithographic facsimile of LL., and the numbers following "W" in the upper left hand margin show the corresponding lines in the edition of the Irish text by Windisch.
+
+* * * * *
+
+In general, I believe it should be the aim of a translator to give a faithful rather than a literal version of his original. But, owing to the fact that so little of Celtic scholarship has filtered down even to the upper strata of the educated public and to the additional fact that the subject matter is so incongruous to English thought, the first object of the translator from the Old Irish must continue to be, for some time to come, rather exactness in rendering than elegance, even at the risk of the translation appearing laboured and puerile.This should not, however, be carried to the extent of distorting his own idiom in order to imitate the idiomatic turns and expressions of the original. In this translation, I have endeavoured to keep as close to the sense and the literary form of the original as possible, but when there is conflict between the two desiderata, I have not hesitated to give the first the preference. I have also made use of a deliberately archaic English as, in my opinion, harmonizing better with the subject. It means much to the reader of the translation of an Old Irish text to have the atmosphere of the original transferred as perfectly as may be, and this end is attained by preserving its archaisms and quaintness of phrase, its repetitions and inherent crudities and even, without suppression or attenuation, the grossness of speech of our less prudish ancestors, which is also a mark of certain primitive habits of life but which an over-fastidious translator through delicacy of feeling might wish to omit. These side-lights on the semi-barbaric setting of the Old Irish sagas are of scarcely less interest and value than the literature itself.
+
+The Tain Bo Cualnge, like most of the Irish saga-tales as they have come down to us in their Middle Irish dress, is chiefly in prose, but interspersed with verse. The verse-structure is very intricate and is mostly in strophic form composed of verses of fixed syllabic length, rhymed and richly furnished with alliteration. There is a third form of speech which is neither prose nor verse, but partakes of the character of both, a sort of irregular, rhymeless verse, without strophic division and exceedingly rich in alliteration, internal rhyme and assonance.This kind of speech, resembling in a way the dithyrambic passages in the Old Testament, was known to the native Irish scholars as <i>rosc</i> and it is usually marked in the manuscripts by the abbreviation <i>R</i>. It was used in short, impetuous outbursts on occasions of triumph or mourning.
+
+While, on the whole, I believe the student will feel himself safer with a prose translation of a poem than with one in verse, it has seemed to me that a uniform translation of the Tain Bo Cualnge in prose would destroy one of its special characteristics, which is that in it both prose and verse are mingled. It was not in my power, however, to reproduce at once closely and clearly the metrical schemes and the rich musical quality of the Irish and at the same time compress within the compass of the Irish measure such an analytic language as English, which has to express by means of auxiliaries what is accomplished in Early Irish by inflection. But I hope to have accomplished the main object of distinguishing the verse from the prose without sacrifice of the thought by the simple device of turning the verse-passages into lines of the same syllabic length as those of the original--which is most often the normal seven-syllable line--but without any attempt at imitating the rhyme-system or alliteration.
+
+In order not to swell the volume of the book, the notes have been reduced to the indispensable minimum, reserving the commentary and the apparatus of illustrative material for another volume, which we hope some day to be able to issue, wherein more definitely critical questions can be discussed.There are a few Irish words which have been retained in the translation and which require a word of explanation: The Old Irish <i>geis</i> (later, also <i>geas</i>[12]; plural <i>geasa</i>) has as much right to a place in the English vocabulary as the Polynesian word <i>tabu</i>, by which it is often translated. It is sometimes Englished "injunction," "condition," "prohibition," "bond," "ban," "charm," "magical decree," or translated by the Scots-Gaelic "spells," none of which, however, expresses the idea which the word had according to the ancient laws of Ireland. It was an adjuration by the honour of a man, and was either positive or negative. The person adjured was either compelled or made in duty bound to do a certain thing, or, more commonly, was prohibited from doing it. The Old Irish <i>gilla</i> is often translated "vassal," "youth," "boy," "fellow," "messenger," "servant," "page," "squire" and "guide," but these words bear false connotations for the society of the time, as does the Anglicised form of the word, "gillie," which smacks of modern sport. It meant originally a youth in the third of the six ages of man. Compare the sense of the word <i>varlet</i> or <i>valet</i> in English, which was once "a more honourable title; for all young gentlemen, untill they come to be eighteen years of age, were termed so" (Cotgrave), and of the same word in Old French, which was "un jeune homme de condition honorable" (J. Loth, <i>Les Mabinogion</i>, I, page 40, note). A <i>liss</i> or <i>rath</i> is a fortified place enclosed by a circular mound or trench, or both. A <i>dun</i> is a fortified residence surrounded by an earthen rampart. In the case of names of places and persons, I have thought it best to adhere as closely as possible to the spellings used in the LL. manuscript itself.It is of the utmost importance to get the names of Irish places and of Irish heroes correctly determined and to discard their English corrupted spellings. There are certain barbarisms, however, such as Slane (Slemain), Boyne (Boann), and perhaps even Cooley (Cualnge), which have been stereotyped in their English dress and nothing is to be gained by reforming them. The forms <i>Erin</i> (dative of <i>Eriu</i>, the genuine and poetic name of the island) and <i>Alba</i> have been retained throughout instead of the hybrids "Ireland" and "Scotland." Final <i>e</i> is occasionally marked with a grave (<i>e.g.</i> Mane, Dare) to show that it is not silent as it often is in English.
+
+I quite perceive that I have not always succeeded in reproducing the precise shade of meaning of words certain of which had become antiquated and even unintelligible to the native scholars of the later Middle Irish period themselves. This is especially true of the passages in <i>rosc</i>, which are fortunately not numerous and which were probably intentionally made as obscure and allusive as possible, the object being, perhaps, as much the music of the words as the sense. Indeed, in some cases, I have considered myself fortunate if I have succeeded in getting their mere drift.No one takes to heart more than the present writer the truth of Zimmer's remark, that "it needs no great courage to affirm that <i>not one</i> of the living Celtic scholars, <i>with</i> all the aids at their disposal, possesses such a ready understanding of the contents of, for example, the most important Old Irish saga-text, "The Cualnge Cattle-raid," as was required thirty or more years ago in Germany of a good Gymnasium graduate in the matter of the Homeric poems and <i>without</i> aids of any kind."[13] However, in spite of its defects, I trust I have not incurred the censure of Don Quijote[14] by doing what he accuses bad translators of and shown the wrong side of the tapestry, thereby obscuring the beauty and exactness of the work, and I venture to hope that my translation may prove of service in leading students to take an interest in the language and literature of Ireland.
+
+WORKS ON THE TAIN BO CUALNGE
+
+(Our Bibliography has no Pretension at being Complete)
+
+The Tain has been analysed by J.T. Gilbert, in the facsimile edition of LU., pages xvi-xviii, based on O'Curry's unpublished account written about 1853; by Eugene O'Curry in his "Lectures on the Manuscript Materials of Ancient Irish History," pages 28-40, Dublin, 1861; by John Rhys in his "Lectures on the Origin and Growth of Religion as illustrated by Celtic Heathendom," page 136, the Hibbert Lectures, London, 1898; by J.A. MacCulloch in "The Religion of the Ancient Celts," pages 127 and 141, London, 1911; in the Celtic Magazine, vol. xiii, pages 427-430, Inverness, 1888; by Don. Mackinnon in the Celtic Review, vol. iv, page 92, Edinburgh, 1907-8; by H.d'Arbois de Jubainville, in Bibliotheque de l'ecole des chartes, tome xl, pages 148-150, Paris, 1879; by Bryan O'Looney, in the Proceedings of the Royal Irish Academy, Second Series, vol. I, pages 242-248, Dublin, 1879; by H. Lichtenberger, "Le Poeme et la Legende des Nibelungen," pages 432-434, Paris, 1891; by Eleanor Hull, in "A Text Book of Irish Literature," Pt. I, p. 24, Dublin and London, 1906; by Victor Tourneur, "La Formation du Tain Bo Cualnge," in Melanges Godefroid Kurth, II, 413-424, Liege, 1908; by E.C. Quiggin, in the Encyclopedia Britannica, 11th edition, page 626.
+
+The text of the Tain is found in whole or in part in the facsimile reprints published by the Royal Irish Academy, Dublin, 1870 and following; viz.: the Book of Leinster, folios 53b-104b; the Book of the Dun Cow, folios 55a-82b, and the Yellow Book of Lecan, folios 17a.-53a; in "Die Altirische Heldensage, Tain Bo Cualnge, herausgegeben von Ernst Windisch, Irische Texte, Extraband, Leipzig, 1905"; from LU. and YBL., by John Strachan and J.G. O'Keeffe, as a supplement to Eriu, vol. i, Dublin, 1904 and fol.; our references to LU. and YBL. are from this edition as far as it appeared; from that point, the references to YBL. are to the pages of the facsimile edition; the LU. text of several passages also is given by John Strachan in his "Stories from the Tain," which first appeared in Irisleabhar na Gaedhilge ("The Gaelic Journal"), Dublin; reprinted, London and Dublin, 1908; Max Nettlau, "The Fer Diad Episode of the Tain Bo Cuailnge," Revue Celtique, tome x, pages 330-346, tome xi, pages 23-32, 318-343; "The Fragment of the Tain Bo Cuailnge in MS. Egerton 93," Revue Celtique, tome xiv, pages 254-266, tome xv, pages 62-78, 198-208; R. Thurneysen, "Tain Bo Cuailghni nach H. 2. 17," Zeitschrift fuer Celtische Philologie, Bd. viii, S. 525-554; E.Windisch, "Tain Bo Cuailnge nach der Handschrift Egerton 1782," Zeitschrift fuer Celtische Philologie, Bd. ix, S. 121-158. The text of "The Fight at the Ford," from the Murphy MS. 103 (written about 1760), is printed in Irisleabhar Muighe Nuadhad, Dublin, 1911, pp. 84-90.
+
+The Tain has been translated by Bryan O'Looney in a manuscript entitled "Tain Bo Cualnge. Translated from the original vellum manuscript known as the Book of Leinster, in the Library of Trinity College, Dublin. To which are added the ancient Prologues, Prefaces, and the Pretales or Stories, Adventures which preceded the principal Expedition or Tain, from various vellum MSS. in the Libraries of Trinity College and the Royal Irish Academy, Dublin, 1872." (A good translation, for its time. For O'Looney's works on the Tain, see the Proceedings of the Royal Irish Academy, Second Series, Vol. i, No. 11, Polite Literature and Antiquities, Dublin, 1875; for W.J. Hennessy's, see The Academy, No. 873, Lee, "Dictionary of National Biography," xxv, 1891, pages 424-425, and V. Tourneur, "Esquisse d'une histoire des etudes celtiques," page 90, note 5.) The Royal Irish Academy contains another manuscript translation of the Tain (24, M, 39), by John O'Daly, 1857. It is a wretched translation. In one place, O'Daly speaks of William Rily as the translator. L. Winifred Faraday's "The Cattle-Raid of Cualnge," London, 1904, is based on LU. and YBL. Two copies of a complete translation of the LL. text dating from about 1850 is in the possession of John Quinn, Esq., of New York City. H. d'Arbois de Jubainville translated the Tain from the LL. text, but with many omissions: "Enlevement [du Taureau Divin et] des Vaches de Cooley," Revue Celtique, tomes xxviii-xxxii, Paris, 1907 and fl. Eleanor Hull's "The Cuchullin Saga," London, 1898, contains (pages 111-227) an analysis of the Tain and a translation by Standish H.O'Grady of portions of the Add. 18748 text. "The Tain, An Irish Epic told in English Verse," by Mary A. Hutton, Dublin, 1907, and Lady Augusta Gregory's, "Cuchulain of Muirthemne," London, 1903, are paraphrases. The episode "The Boyish Feats of Cuchulinn" was translated by Eugene O'Curry, "On the Manners and Customs of the Ancient Irish," Vol. i, Introduction, pages 359-366, and the episode "The Fight of Ferdiad and Cuchulaind," was translated by W.K. Sullivan, ibid., Vol. ii, Lectures, Vol. i, Appendix, pages 413-463.
+
+Important studies on the Tain have come from the pen of Heinrich Zimmer: "Ueber den compilatorischen Charakter der irischen Sagentexte im sogenannten Lebor na hUidre," Kuhn's Zeitschrift fuer vergleichende Sprachforschung, Bd. xxviii, 1887, pages 417-689, and especially pages 426-554; "Keltische Beitraege," Zeitschrift fuer deutsches Alterthum und deutsche Litteratur, Vol. xxxii, 1888, pages 196-334; "Beitraege zur Erklaerung irischer Sagentexte," Zeitschrift fuer Celtische Philologie, Bd. i, pages 74-101, and Bd. iii, pages 285-303. See also, William Ridgeway, "The Date of the first Shaping of the Cuchulainn Saga," Oxford, 1907; H. d'Arbois de Jubainville, "Etude sur le Tain Bo Cualnge," Revue Celtique, tome xxviii, 1907, pages 17-40; Alfred Nutt, "Cuchulainn, the Irish Achilles," in Popular Studies in Mythology, Romance and Folklore, No. 8, London, 1900. The Celtic Magazine, Vol. xiii, pages 319-326, 351-359, Inverness, 1888, contains an English translation of a degenerated Scottish Gaelic version taken down by A.A. Carmichael, in Benbecula; the Gaelic text was printed in the Transactions of the Gaelic Society of Inverness, Vol. ii. In the same volume of the Celtic Magazine, pages 514-516, is a translation of a version of the Tain, taken down in the island of Eigg.Eleanor Hull's "Cuchulain, the Hound of Ulster," London, 1911, is a retelling of the story for younger readers. The following, bearing more or less closely upon the Tain, are also to be mentioned: Harry G. Tempest, "Dun Dealgan, Cuchulain's Home Fort," Dundalk, 1910; A.M. Skelly, "Cuchulain of Muirtheimhne," Dublin, 1908; Standish O'Grady, "The Coming of Cuculain," London, 1894, "In the Gates of the North," Kilkenny, 1901, "Cuculain, A Prose Epic," London, 1882 and the same author's "History of Ireland: the Heroic Period," London, 1878-80; "The High Deeds of Finn, and other Bardic Romances of Ancient Ireland," by T.W. Rolleston, London, 1910; Stephen Gwynn, "Celtic Sagas Re-told," in his "To-day and To-morrow in Ireland," pages 38-58, Dublin, 1903; Edward Thomas, "Celtic Stories," Oxford, 1911; "Children of Kings," by W. Lorcan O'Byrne, London, 1904, and "The Boy Hero of Erin," by Charles Squire, London, 1907.
+
+Among the many poems which have taken their theme from the Tain and the deeds of Cuchulain may be mentioned: "The Foray of Queen Meave," by Aubrey de Vere, Poetic Works, London, 1882, vol. ii, pages 255-343; "The Old Age of Queen Maeve," by William Butler Yeats, Collected Works, vol. I, page 41, London, 1908; "The Defenders of the Ford," by Alice Milligan, in her "Hero Lays," page 50, Dublin, 1908; George Sigerson, "Bards of the Gael and the Gall," London, 1897; "The Tain-Quest," by Sir Samuel Ferguson, in his "Lays of the Western Gael and other Poems," Dublin, 1897; "The Red Branch Crests, A Trilogy," by Charles Leonard Moore, London, 1906; "The Laughter of Scathach," by Fiona Macleod, in "The Washer of the Ford and Barbaric Tales"; Hector Maclean, "Ultonian Hero-Ballads collected in the Highlands and Western Isles of Scotland," Glasgow, 1892; ballad versions from Scotland are found in Leabhar na Feinne, pages 1 and fol., in J.G.Campbell's "The Fians," pages 6 and fol., and in the Book of the Dean of Lismore.
+
+Finally, scenes from the Tain have been dramatized by Canon Peter O'Leary, in the Cork "Weekly Examiner," April 14, 1900 and fol., by Sir Samuel Ferguson, "The Naming of Cuchulain: A Dramatic Scene," first played in Belfast, March 9, 1910; in "The Triumph of Maeve," A Romance in dramatic form, 1906; "Cuchulain," etc., (A Cycle of Plays, by S. and J. Varian, Dublin), and in "The Boy-Deeds of Cuchulain," A Pageant in three Acts, performed in Dublin in 1909.
+
+[1] "L'histoire entiere de l'Irlande est une enigme si on n'a pas sans cesse a l'esprit ce fait primordial que le climat humide de l'ile est tout a fait contraire a la culture des cereales, mais en revanche eminemment favorable a l'elevage du betail, surtout de la race bovine, car le climat est encore trop humide pour l'espece ovine." F. Lot, in <i>La Grande Encyclopedie</i>, xx, 956.
+
+[2] As it is to this day in some parts of Ireland, and as for example a female slave was sometimes appraised at three head of cattle among the ancient Gaels.
+
+[3] In fact the Clan Mackay was known as the Clan of the creaghs, and their perpetuation was enjoined on the rising generation from the cradle; See <i>The Old Highlands</i>, vol. III., p. 338, Glasgow.
+
+[4] Pronounced approximately <i>Thawin' bow Hooln'ya</i>.[5] <i>Revue Celtique</i>, 1895, tome xvi. pp. 405-406; <i>Rerum Hibernicarum Scriptores</i>, ii. 14.
+
+[6] <i>Mors Conchulaind fortissimi herois Scottorum la Lugaid mac tri con, i. ri Muman, agus la Ercc, i. ri Temrach, mac Coirpri Niad fir, agus la tri maccu Calattin de Chonnachtaib; vii. mbliadna a aes intan rogab gaisced. xvii. mbliadna dano a aes intan mboi indegaid Tana Bo Cualnge. xxvii. bliadna immorro a aes intan atbath. Revue Celtique,</i> tome xvi. page 407.
+
+[7] Ridgeway.
+
+[8] See H. d'Arbois de Jubainville, <i>Essai d'un catalogue de la litterature epique de l'Irlande</i>, Paris, 1883, pages 214-216, and the Supplement to the same by G. Dottin, <i>Revue Celtique</i>, t. xxxiii, pages 34-35; Donald Mackinnon, <i>A Descriptive Catalogue of Gaelic Manuscripts</i>, Edinburgh, 1912, pp. 174, 220; E. Windisch, Tain Bo Cualnge, <i>Einleitung und Vorrede</i>, S. lx. ff.
+
+[9] Facsimile, page 288, foot margin.
+
+[10] Facsimile, page 275, top margin.
+
+[11] Vd. Robert Atkinson, <i>The Book of Leinster</i>, Introduction, pages 7-8; J.H. Todd, <i>Cogadh Gaedhel re Gallaibh, Rerum Britannicarum medii aevi scriptores</i>, 1867, Introduction, pages ix and ff. Eugene O'Curry, <i>On the Manuscript Materials of Ancient Irish History</i>, page 186; Ernst Windisch, <i>Tain Bo Cualnge</i>, pages 910-911.[12] Pronounced <i>gesh</i> or <i>gas</i>.
+
+[13] "Es gehoert keine grosse Kuehnheit dazu zu behaupten, dass keiner der lebenden Keltologen beispielsweise von dem wichtigsten altirischen Sagentext 'Der Rinderraub von Cualnge' ... mit allen vorhandenen Hilfsmitteln ein solches fortlaufendes Verstaendnis des Inhalts hat, wie von einem guten Gymnasialabiturienten hinsichtlich der homerischen Gedichte ohne jegliches Hilfsmittel vor gut 30 Jahren in Deutschland verlangt wurde."--<i>Die Kultur der Gegenwart</i>, herausgegeben von Paul Hinneberg, Berlin, 1909. Teil I, Abt. xi, I. S. 75.
+
+[14] Part II, chap, lxii (Garnier Hermanos edition, page 711).
+
+* * * * *
+
+[Page 1]
+
+Here beginneth Tain Bo Cualnge
+
+The Cualnge Cattle-raid<b>I</b>
+
+THE PILLOW-TALK
+
+[W.1.] [LL.fo.53.] Once of a time, that Ailill and Medb had spread their royal bed in Cruachan, the stronghold of Connacht, such was the pillow-talk that befell betwixt them:
+
+Quoth Ailill: "True is the saying, lady, 'She is a well-off woman that is a rich man's wife.'" "Aye, that she is," answered the wife; "but wherefore opin'st thou so?" "For this," Ailill replied, "that thou art this day better off than the day that first I took thee." Then answered Medb: "As well-off was I before I ever saw thee." "It was a wealth, forsooth, we never heard nor knew of," Ailill said; "but a woman's wealth was all thou hadst, and foes from lands next thine were used to carry off the spoil and booty that they took from thee." "Not so was I," quoth Medb; "the High King of Erin himself was my sire, Eocho Fedlech ('the Enduring') son of Finn, by name, who was son of Findoman, son of Finden, son of Findguin, son of Rogen Ruad ('the Red'), son of Rigen, son of Blathacht, son of Beothacht, son of Enna Agnech, son of Oengus Turbech. Of daughters, had he six: Derbriu, Ethne and Ele, Clothru, Mugain and Medb, myself, that was the noblest and seemliest of them. 'Twas I was the goodliest of them in bounty [W.17.] and gift-giving, [1]in riches and treasures.[1] 'Twas I was best of them in battle and strife and combat. 'Twas I that had fifteen hundred royal mercenaries of the sons of aliens exiled from their own land, and as many more of the sons of freemen of the land.And there were ten men with every one of these hirelings, [2]and nine men with every hireling,[2] and eight men with every hireling, and seven men with every hireling, and six men with every hireling, and five men with every hireling, [3]and four men with every hireling,[3] and three men with every hireling, and two men with every hireling, and one hireling with every hireling. These were as a standing household-guard," continued Medb; "hence hath my father bestowed one of the five provinces of Erin upon me, even the province of Cruachan; wherefore 'Medb of Cruachan' am I called. Men came from Finn son of Ross Ruad ('the Red'), king of Leinster, to seel me [4]for a wife, and I refused him;[4] and from Carbre Niafer ('the Champion') son of Ross Ruad ('the Red'), king of Temair,[a] [5]to woo me, and I refused him;[5] and they came from Conchobar son of Fachtna Fathach ('the Mighty'), king of Ulster, [6]and I refused him in like wise.[6] They came from Eocho Bec ('the Small'), and I went not; for 'tis I that exacted a singular bride-gift, such as no woman before me had ever required of a man of the men of Erin, namely, a husband without avarice, without jealousy, without fear. For should he be mean, the man with whom I should live, we were ill-matched together, inasmuch as I am great [LL.fo.54a.] in largess and gift-giving, and it would be a disgrace for my husband if I should be better [W.34.] at spending than he, [1]and for it to be said that I was superior in wealth and treasures to him[1], while no disgrace would it be were one as great as the other[a]. Were my husband a coward, 'twere as unfit for us to be mated, for I by myself and alone break battles and fights and combats, and 'twould be a reproach for my husband should his wife be more full of life than himself, and no reproach our being equally bold.Should he be jealous, the husband with whom I should live, that too would not suit me, for there never was a time that I had not my paramour[b]. Howbeit, such a husband have I found, namely in thee thyself, Ailill son of Ross Ruad ('the Red') of Leinster. Thou wast not churlish; thou wast not jealous; thou wast not a sluggard. It was I plighted thee, and gave purchase-price to thee, which of right belongs to the bride--of clothing, namely, the raiment of twelve men, a chariot worth thrice seven bondmaids, the breadth of thy face of red gold[c], the weight of thy left forearm of silvered bronze. Whoso brings shame and sorrow and madness upon thee, no claim for compensation nor satisfaction hast thou therefor that I myself have not, [2]but it is to me the compensation belongs,"[2] said Medb, "for a man dependent upon a woman's maintenance is what thou art."[d]
+
+[1-1] Stowe.
+
+[2-2] Stowe and H. 1. 13.
+
+[3-3] Stowe and H. 1. 13.
+
+[4-4] Stowe and Add.
+
+[a] That is, from the supreme king of Ireland.
+
+[5-5] Stowe and Add.
+
+[6-6] Stowe and Add.[1-1] Stowe and, similarly Add.
+
+[a] A short sentence in LL., which is probably corrupt, is omitted here.
+
+[b] Literally, "A man behind (in) the shadow of another."
+
+[c] Instead of a ring, which would be given to the bride.
+
+[2-2] Add. and H. 1. 13.
+
+[d] For a detailed explanation of this entire passage see H. Zimmer, in the <i>Sitzungsberichte der Koeninglich Preussischen Akademie der Wissenschaften</i>, 16 Februar, 1911. <i>philosophisch historischen Classe, Seite 217</i>.
+
+"Nay, not such was my state," said Ailill; "but two brothers had I; one of them over Temair, the other over Leinster; namely, Finn, over Leinster, and Carbre, over Temair. I left the kingship to them because they were [W.52.] older but not superior to me in largess and bounty. Nor heard I of province in Erin under woman's keeping but this province alone. And for this I came and assumed the kingship here as my mother's successor; for Mata of Muresc, daughter of Magach [1]of Connacht,[1] was my mother. And who could there be for me to have as my queen better than thyself, being, as thou wert, daughter of the High King of Erin?" "Yet so it is," pursued Medb, "my fortune is greater than thine." "I marvel at that," Ailill made answer, "for there is none that hath greater treasures and riches and wealth than I: yea, to my knowledge there is not."[1-1] Add. and H. 1. 13.
+
+* * * * *
+
+[Page 5]
+
+<b>II</b>
+
+[1]THE OCCASION OF THE TAIN[1]
+
+[W.62.] Then were brought to them the least precious of their possessions, that they might know which of them had the more treasures, riches and wealth. Their pails and their cauldrons and their iron-wrought vessels, their jugs and their keeves and their eared pitchers were fetched to them.
+
+[1-1] Add. and Stowe.
+
+Likewise, their rings and their bracelets and their thumb-rings and their golden treasures were fetched to them, and their apparel, both purple and blue and black and green, yellow, vari-coloured and gray, dun, mottled and brindled.
+
+Their numerous flocks of sheep were led in from fields and meeds and plains. These were counted and compared, and found to be equal, of like size, of like number; however, there was an uncommonly fine ram over Medb's sheep, and he was equal in worth to a bondmaid, but a corresponding ram was over the ewes of Ailill.Their horses and steeds and studs were brought from pastures and paddocks. There was a noteworthy horse in Medb's herd and he was of the value of a bondmaid; a horse to match was found among Ailill's.
+
+Then were their numerous droves of swine driven from woods and shelving glens and wolds. These were numbered and counted and claimed. There was a noteworthy boar With Medb, and yet another with Ailill.
+
+Next they brought before them their droves of cattle [W.77.] and their herds and their roaming flocks from the brakes and wastes of the province.
+
+These were counted and numbered and claimed, and were the same for both, equal in size, equal in number, except only there was an especial bull of the bawn of Ailill, and he was a calf of one of Medb's cows, and Finnbennach ('the Whitehorned') was his name. But he, deeming it no honour to be in a woman's possession, [LL.fo.54b.] had left and gone over to the kine of the king. And it was the same to Medb as if she owned not a pennyworth, forasmuch as she had not a bull of his size amongst her cattle.
+
+Then it was that macRoth the messenger was summoned to Medb, and Medb strictly bade macRoth to learn where there might be found a bull of that likeness in any of the provinces of Erin. "Verily," said macRoth, "I know where the bull is that is best and better again, in the province of Ulster, in the hundred of Cualnge, in the house of Dare son of Fiachna; even Donn Cualnge ('the Brown Bull of Cualnge') he is called.""Go thou to him, macRoth, and ask for me of Dare the loan for a year of the Brown Bull of Cualnge, and at the year's end he shall have the meed of the loan, to wit, fifty heifers and the Donn Cualnge himself. And bear thou a further boon with thee, macRoth. Should the border-folk and those of the country grudge the loan of that rare jewel that is the Brown Bull of Cualnge, let Dare himself come with his bull, and he shall get a measure equalling his own land of the smooth Plain of Ai and a chariot of the worth of thrice seven bondmaids and he shall enjoy my own close friendship."[a]
+
+[a] Literally, "Habebit amicitiam fermoris mei."
+
+Thereupon the messengers fared forth to the house of Dare son of Fiachna. This was the number wherewith macRoth went, namely, nine couriers. Anon welcome was [W.99.] lavished on macRoth in Dare's house--fitting, welcome it was--chief messenger of all was macRoth. Dare asked of macRoth what had brought him upon the journey and why he was come. The messenger announced the cause for which he was come and related the contention between Medb and Ailill.
+
+"And it is to beg the loan of the Brown Bull of Cualnge to match the Whitehorned that I am come," said he; "and thou shalt receive the hire of his loan, even fifty heifers and the Brown of Cualnge himself. And yet more I may add: Come thyself with thy bull and thou shalt have of the land of the smooth soil of Mag Ai as much as thou ownest here, and a chariot of the worth of thrice seven bondmaids and enjoy Medb's friendship to boot."At these words Dare was well pleased, and he leaped for joy so that the seams of his flock-bed rent in twain beneath him.
+
+"By the truth of our conscience," said he; "however the Ulstermen take it, [1]whether ill or well,[1] this time this jewel shall be delivered to Ailill and to Medb, the Brown of Cualnge to wit, into the land of Connacht." Well pleased was macRoth at the words of the son of Fiachna.
+
+[1-1] Stowe and Add.
+
+Thereupon they were served, and straw and fresh rushes were spread under them. The choicest of food was brought to them and a feast was served to them and soon they were noisy and drunken. And a discourse took place between two of the messengers. "'Tis true what I say," spoke the one; "good is the man in whose house we are." "Of a truth, he is good." "Nay, is there one among all the men of Ulster better than he?" persisted the first. "In sooth, there is," answered the second messenger. "Better is Conchobar whose man he is, [2]Conchobar who holds the kingship of the province.[2] And though all the Ulstermen [W.120.] gathered around him, it were no shame for them. Yet is it passing good of Dare, that what had been a task for the four mighty provinces of Erin to bear away from the land of Ulster, even the Brown Bull of Cualnge, is surrendered so freely to us nine footmen."
+
+[2-2] Stowe and Add.Hereupon a third runner had his say: "What is this ye dispute about?" he asked. "Yon runner says, 'A good man is the man in whose house we are.'" "Yea, he is good," saith the other. "Is there among all the Ulstermen any that is better than he?" demanded the first runner further. "Aye, there is," answered the second runner; "better is Conchobar whose man he is; and though all the Ulstermen gathered around him, it were no shame for them. Yet, truly good it is of Dare, that what had been a task for four of the grand provinces of Erin to bear away out of the borders of Ulster is handed over even unto us nine footmen." "I would not grudge to see a retch of blood and gore in the mouth whereout that was said; for, were the bull not given [LL.fo.55a.] willingly, yet should he be taken by force!"
+
+At that moment it was that Dare macFiachna's chief steward came into the house and with him a man with drink and another with food, and he heard the foolish words of the runners; and anger came upon him, and he set down their food and drink for them and he neither said to them, "Eat," nor did he say, "Eat not."
+
+Straightway he went into the house where was Dare macFiachna and said: "Was it thou that hast given that notable jewel to the messengers, the Brown Bull of Cualnge?" "Yea, it was I," Dare made answer. "Verily, it was not the part of a king to give him. For it is true what they say: Unless thou hadst bestowed him of thine own free will, so wouldst thou yield him in despite of thee by the host of Ailill and Medb and by the great cunning of Fergus macRoig." "I swear by the gods whom I worship," [W.143.] [1]spoke Dare,[1] "they shall in no wise take by foul means what they cannot take by fair!"[1-1] Stowe and Add.
+
+There they abide till morning. Betimes on the morrow the runners arise and proceed to the house where is Dare. "Acquaint us, lord, how we may reach the place where the Brown Bull of Cualnge is kept." "Nay then," saith Dare; "but were it my wont to deal foully with messengers or with travelling folk or with them that go by the road, not one of you would depart alive!" "How sayest thou?" quoth macRoth. "Great cause there is," replied Dare; "ye said, unless I yielded in good sort, I should yield to the might of Ailill's host and Medb's and the great cunning of Fergus."
+
+"Even so," said macRoth, "whatever the runners drunken with thine ale and thy viands have said, 'tis not for thee to heed nor mind, nor yet to be charged on Ailill and on Medb." "For all that, macRoth, this time I will not give my bull, if ever I can help it!"
+
+Back then the messengers go till they arrive at Cruachan, the stronghold of Connacht. Medb asks their tidings, and macRoth makes known the same: that they had not brought his bull from Dare. "And the reason?" demanded Medb. MacRoth recounts to her how the dispute arose. "There is no need to polish knots over such affairs as that, macRoth; for it was known," said Medb, "if the Brown Bull of Cualnge would not be given with their will, he would be taken in their despite, and taken he shall be!"
+
+[2]To this point is recounted the Occasion of the Tain.[2][2-2] Stowe and Add.
+
+* * * * *
+
+[Page 10]
+
+<b>III</b>
+
+[1]THE RISING-OUT OF THE MEN OF CONNACHT AT CRUACHAN AI[1]
+
+[W.161.] [2]A mighty host was now assembled by the men of Connacht, that is, by Ailill and Medb, and they sent word to the three other provinces, and[2] messengers were despatched from Medb to the Mane that they should gather in Cruachan, the seven Mane with their seven divisions; to wit: Mane "Motherlike," Mane "Fatherlike," and Mane "All-comprehending", [3]'twas he that possessed the form of his mother and of his father and the dignity of them both;[3] Mane "Mildly-submissive," and Mane "Greatly-submissive," Mane "Boastful" [4]and Mane "the Dumb."[4]
+
+[1-1] Add.
+
+[2-2] LU. 1-2; with these words, the LU. version begins, fo. 55a.
+
+[3-3] LU. 182.
+
+[4-4] Stowe and Add.Other messengers were despatched [5]by Ailill[5] to the sons of Maga; to wit: to Cet ('the First') son of Maga, Anluan ('the Brilliant Light') son of Maga, and Maccorb ('Chariot-child') son of Maga, and Bascell ('the Lunatic') son of Maga, and En ('the Bird') son of Maga, Doche son of Maga; and Scandal ('Insult') son of Maga.
+
+[5-5] Eg. 1782.
+
+These came, and this was their muster, thirty hundred armed men. Other messengers were despatched from them to Cormac Conlongas ('the Exile') son of Conchobar and to Fergus macRoig, and they also came, thirty hundred their number.
+
+[W.173.] [1]Now Cormac had three companies which came to Cruachan.[1] Before all, the first company. A covering of close-shorn [2]black[2] hair upon them. Green mantles and [3]many-coloured cloaks[3] wound about them; therein, silvern brooches. Tunics of thread of gold next to their skin, [4]reaching down to their knees,[4] with interweaving of red gold. Bright-handled swords they bore, with guards of silver. [5]Long shields they bore, and there was a broad, grey spearhead on a slender shaft in the hand of each man.[5] "Is that Cormac, yonder?" all and every one asked. "Not he, indeed," Medb made answer.
+
+[1-1] LU. 7.
+
+[2-2] Add.
+
+[3-3] LU. 8.[4-4] LU. 9.
+
+[5-5] LU. 9-10.
+
+The second troop. Newly shorn hair they wore [6]and manes on the back of their heads,[6] [7]fair, comely indeed.[7] Dark-blue cloaks they all had about them. Next to their skin, gleaming-white tunics, [LL.fo.55b.] [8]with red ornamentation, reaching down to their calves.[8] Swords they had with round hilts of gold and silvern fist-guards, [9]and shining shields upon them and five-pronged spears in their hands.[9] "Is yonder man Cormac?" all the people asked. "Nay, verily, that is not he," Medb made answer.
+
+[6-6] Eg. 1782.
+
+[7-7] Add.
+
+[8-8] LU. 11-12.
+
+[9-9] LU. 12-13.
+
+[10]Then came[10] the last troop. Hair cut broad they wore; fair-yellow, deep-golden, loose-flowing back hair [11]down to their shoulders[11] upon them. Purple cloaks, fairly bedizened, about them; golden, embellished brooches over their breasts;[12]and they had curved shields with sharp, chiselled edges around them and spears as long as the pillars of a king's house in the hand of each man.[12] Fine, long, silken tunics [13]with hoods[13] they wore to the very instep. Together they raised their feet, and together they set them down again. "Is that Cormac, yonder?" asked all. "Aye, it is he, [14]this time,[14]" Medb made answer.
+
+[10-10] Eg. 1782.
+
+[11-11] LU. 16.
+
+[12-12] LU. 17-18.
+
+[13-13] LU. 15.
+
+[14-14] Eg. 1782.
+
+[W.186.] [1]Thus the four provinces of Erin gathered in Cruachan Ai.[1] They pitched their camp and quarters that night, so that a thick cloud of smoke and fire rose between the four fords of Ai, which are, Ath Moga, Ath Bercna, Ath Slissen and Ath Coltna. And they tarried for the full space of a fortnight in Cruachan, the hostel of Connacht, in wassail and drink and every disport, to the end that their march and muster might be easier. [2]And their poets and druids would not let them depart from thence till the end of a fortnight while awaiting good omen.[2] And then it was that Medb bade her charioteer to harness her horses for her, that she might go to address herself to her druid, to seek for light and for augury from him.[1-1] Eg. 1782.
+
+[2-2] LU. 20-21.
+
+* * * * *
+
+[Page 13]
+
+<b>IV</b>
+
+THE FORETELLING[a]
+
+[W.194.] When Medb was come to the place where her druid was, she craved light and augury of him. "Many there be," saith Medb, "who do part with their kinsmen and friends here to-day, and from their homes and their lands, from father and from mother; and unless unscathed every one shall return, upon me will they cast their sighs and their ban, [1]for it is I that have assembled this levy.[1] Yet there goeth not forth nor stayeth there at home any dearer to me than are we to ourselves. And do thou discover for us whether we ourselves shall return, or whether we shall never return."
+
+[a] This heading is taken from the colophon at the end of the chapter.
+
+[1-1] LU. 23-24.And the druid made answer, "Whoever comes not, thou thyself shalt come." [2]"Wait, then," spake the charioteer," let me wheel the chariot by the right,[b] that thus the power of a good omen may arise that we return again."[2] Then the charioteer wheeled his chariot round and Medb went back [3]again,[3] when she espied a thing that surprised her: A lone virgin [4]of marriageable age[4] standing on the hindpole of a chariot a little way off drawing nigh her. And thus the maiden appeared: Weaving lace was she, and in her right hand was a bordering rod of silvered [W.204.] bronze with its seven strips of red gold at the sides. A many-spotted green mantle around her; a bulging, strong-headed pin [1]of gold[1] in the mantle over her bosom; [2]a hooded tunic, with red interweaving, about her.[2] A ruddy, fair-faced countenance she had, [3]narrow below and broad above.[3] She had a blue-grey and laughing eye; [4]each eye had three pupils.[4] [5]Dark and black were her eyebrows; the soft, black lashes threw a shadow to the middle of her cheeks.[5] Red and thin were her lips. Shiny and pearly were her teeth; thou wouldst believe they were showers of white pearls that had rained into her head. Like to fresh Parthian crimson were her lips. As sweet as the strings of lutes [6]when long sustained they are played by master players' hands[6] was the melodious sound of her voice and her fair speech.
+
+[2-2] LU. 24-25.
+
+[b] Right-hand wise, as a sign of a good omen.
+
+[3-3] Stowe.[4-4] Eg. 1782.
+
+[1-1] Eg. 1782.
+
+[2-2] Eg. 1782.
+
+[3-3] LU. 29.
+
+[4-4] LU. 35-36.
+
+[5-5] LU. 31.
+
+[6-6] Adopting Windisch's emendation of the text.
+
+As white as snow in one night fallen was the sheen of her skin and her body that shone outside of her dress. Slender and very white were her feet; rosy, even, sharp-round nails she had; [7]two sandals with golden buckles about them.[7] Fair-yellow, long, golden hair she wore; three braids of hair [8]she wore; two tresses were wound[8] around her head; the other tress [9]from behind[9] threw a shadow down on her calves. [10]The maiden carried arms, and two black horses were under her chariot.[10]
+
+[7-7] LU. 29.
+
+[8-8] Eg. 1782.[9-9] Add.
+
+[10-10] LU. 36.
+
+Medb gazed at her. "And what doest thou here now, O maiden?" asked Medb. "I impart [LL.fo.56a.] to thee thine advantage and good fortune in thy gathering and muster of the four mighty provinces of Erin against the land of Ulster on the Raid for the Kine of Cualnge." "Wherefore doest thou this for me?" asked Medb. "Much cause have I. A bondmaid 'mid thy people am I." "Who of [W.220.] my people art thou [1]and what is thy name[1]?" asked Medb. "Not hard, in sooth, to say. The prophetess Fedelm, from the Sid ('the Fairy Mound') of Cruachan, [2]a poetess of Connacht[2] am I." [3]"Whence comest thou?" asked Medb. "From Alba, after learning prophetic skill," the maiden made answer. "Hast thou the form of divination?"[b] "Verily, have I," the maiden said.[3] [4]"Look, then, for me, how will my undertaking be." The maiden looked. Then spake Medb:--[4]
+
+[1-1] Eg. 1782.
+
+[2-2] Eg. 1782.
+
+[3-3] LU. 39-41.
+
+[b] <i>Imbass forosna</i>, 'illumination between the hands.'
+
+[4-4] Eg. 1782."Good now,
+
+"Tell, O Fedelm, prophet-maid,
+How beholdest thou our host?"
+
+[5]Fedelm answered and spoke:[5]
+
+"Crimson-red from blood they are;
+I behold them bathed in red!"
+
+[5-5] Eg. 1782.
+
+[6]"That is no true augury,"[6] said Medb. "Verily, Conchobar [7]with the Ulstermen[7] is in his 'Pains' in Emain; thither fared my messengers [8]and brought me true tidings[8]; naught is there that we need dread from Ulster's men. But speak truth, O Fedelm:--
+
+"Tell, O Fedelm, prophet-maid,
+How beholdest thou our host?"
+
+"Crimson-red from blood they are;
+I behold them bathed in red!"
+
+[6-6] LU. 44.
+
+[7-7] Eg. 1782.[8-8] Eg. 1782.
+
+[9]"That is no true augury.[9] Cuscraid Mend ('the Stammerer') of Macha, Conchobar's son, is in Inis Cuscraid ('Cuscraid's Isle') in his 'Pains.' Thither fared my messengers; naught need we fear from Ulster's men. But speak truth, O Fedelm:--
+
+[W.233.] "Tell, O Fedelm, prophet-maid,
+How beholdest thou our host?"
+
+"Crimson-red from blood they are;
+I behold them bathed in red!"
+
+[9-9] LU. 48.
+
+"Eogan, Durthacht's son, is in Rath Airthir ('the Eastern Rath') in his 'Pains.' Thither went my messengers. Naught need we dread from Ulster's men. But speak truth, O Fedelm:--
+
+"Tell, O Fedelm, prophet-maid,
+How beholdest thou our host?"
+
+"Crimson-red from blood they are;
+I behold them bathed in red!""Celtchar, Uthechar's son, is in his fort [1]at Lethglas[1] in his 'Pains,' [2]and a third of the Ulstermen with him.[2] Thither fared my messengers. Naught have we to fear from Ulster's men. [3]And Fergus son of Roig son of Eochaid is with us here in exile, and thirty hundred with him.[3] But speak truth, O Fedelm:--
+
+"Tell, O Fedelm, prophet-maid,
+How beholdest thou our host?"
+
+"Crimson-red from blood they are;
+I behold them bathed in red!"
+
+[1-1] LU. 50.
+
+[2-2] LU. 49.
+
+[3-3] LU. 50-51.
+
+"Meseemeth this not as it seemeth to thee," quoth Medb, "for when Erin's men shall assemble in one place, there quarrels will arise and broils, contentions and disputes amongst them about the ordering of themselves in the van or rear, at ford or river, over who shall be first at killing a boar or a stag or a deer or a hare. But, [4]look now again for us and[4] speak truth, O Fedelm:--
+
+"Tell, O Fedelm, prophet-maid,
+How beholdest thou our host?""Crimson-red from blood they are;
+I behold them bathed in red!"
+
+[4-4] LU. 55.
+
+Therewith she began to prophesy and to foretell the coming of Cuchulain to the men of Erin, and she chanted a lay:--
+
+[W.255.] "[a]Fair, of deeds, the man I see;
+Wounded sore is his fair skin;
+On his brow shines hero's light;
+Victory's seat is in his face!
+
+"Seven gems of champions brave
+Deck the centre of his orbs;
+Naked are the spears he bears,
+And he hooks a red cloak round!
+
+"Noblest face is his, I see;
+He respects all womankind.
+Young the lad and fresh his hue,
+With a dragon's form in fight!
+
+"I know not who is the Hound,
+Culann's hight,[b] [1]of fairest fame[1];
+But I know full well this hostWill be smitten red by him!
+
+"Four small swords--a brilliant feat--
+He supports in either hand;
+These he'll ply upon the host,
+Each to do its special deed!
+
+"His Gae Bulga,[c] too, he wields,
+With his sword and javelin.
+Lo, the man in red cloak girt
+Sets his foot on every hill!
+
+"Two spears [2]from the chariot's left[2]
+He casts forth in orgy wild.
+And his form I saw till now
+Well I know will change its guise!
+
+"On to battle now he comes;
+If ye watch not, ye are doomed.
+This is he seeks ye in fight
+Brave Cuchulain, Sualtaim's son!
+
+"All your host he'll smite in twain,
+Till he works your utter ruin.
+[W.291.] All your heads ye'll leave with him.
+Fedelm, prophet-maid, hides not!"Gore shall flow from warriors' wounds;
+Long 'twill live in memory.
+[LL.fo.56b.] Bodies hacked and wives in tears,
+Through the Smith's Hound[a] whom I see!"
+
+[a] The Eg. 1782 version of this poem differs in several details from LL.
+
+[b] That is, Cu Chulain, 'the Hound of Culann.'
+
+[1-1] Tranlating from LU. 65, Stowe and Add.
+
+[c] The <i>Gae Bulga</i>, 'barbed spear,' which only Cuchulain could wield.
+
+[2-2] Translating from LU. 72, Add. and Stowe; 'from the left,' as a sign of enmity.
+
+[a] That is, Cuchulain. See page 17.
+
+Thus far the Augury and the Prophecy and the Preface of the Tale, and the Occasion of its invention and conception, and the Pillow-talk which Ailill and Medb had in Cruachan. [1]Next follows the Body of the Tale itself.[1]
+
+[1-1] Stowe and Add.
+
+* * * * *[Page 19]
+
+<b>V</b>
+
+THIS IS THE ROUTE OF THE TAIN
+
+[W.301.] and the Beginning of the Expedition and the Names of the Roads which the hosts of the four of the five grand provinces of Erin took into the land of Ulster. [1]On Monday after Summer's end[1] [2]they set forth and proceeded:[2]
+
+[1-1] LU. 81.
+
+[2-2] Eg. 1782.
+
+[3]South-east from Cruachan Ai,[3] by Mag Cruimm, over Tuaim Mona ('the Hill of Turf'), by Turloch Teora Crich ('the Creek of three Lands'), by Cul ('the Nook') of Silinne, by Dubloch ('Black Lough'), [4]by Fid Dubh ('Black Woods'),[4] by Badbgna, by Coltain, by the Shannon, by Glune Gabur, by Mag Trega, by Tethba in the north, by Tethba in the south, by Cul ('the Nook'), by Ochain, northwards by Uatu, eastwards by Tiarthechta, by Ord ('the Hammer'), by Slaiss ('the Strokes'), [5]southwards,[5] by Indeoin ('the Anvil'), by Carn, by Meath, by Ortrach, by Findglassa Assail, ('White Stream of Assail'), by Drong, by Delt, by Duelt, by Delinn, by Selaig, by Slabra, by Slechta, where swords hewed out roads before Medb and Ailill, by Cul ('the Nook') of Siblinne, by Dub ('the Blackwater'), by Ochonn [6]southwards,[6] by Catha,by Cromma [7]southwards,[7] by Tromma, [8]eastwards[8] by Fodromma, by Slane, by Gort Slane, [9]to the south of[9] Druim Licce, by Ath Gabla, by Ardachad ('Highfield'), [W.356.] [1]northwards[1] by Feorainn, by Finnabair ('White Plain'), by Assa [2]southwards,[2] by Airne, by Aurthuile, by Druim Salfind ('Salfind Ridge'), by Druim Cain, by Druim Caimthechta, by Druim macDega, by the little Eo Dond ('Brown Tree'), by the great Eo Dond, by Meide in Togmaill ('Ferret's Neck'), by Meide in Eoin, ('Bird's Neck'), by Baille ('the Town'), by Aile, by Dall Scena, by Ball Scena, by Ross Mor ('Great Point'), by Scuap ('the Broom'), by Imscuap, by Cenn Ferna, by Anmag, by Fid Mor ('Great Wood') in Crannach of Cualnge, [3]by Colbtha, by Crond in Cualnge,[3] by Druim Cain on the road to Midluachar, [4]from Finnabair of Cualnge. It is at that point that the hosts of Erin divided over the province in pursuit of the bull. For it was by way of those places they went until they reached Finnabair. Here endeth the Title. The Story begineth in order.[4]
+
+[3-3] Stowe and Add.
+
+[4-4] LU. 87, Stowe and Add.
+
+[5-5] LU. 96. and Stowe.
+
+[6-6] Eg. 1782.
+
+[7-7] Eg. 1782.
+
+[8-8] LU. 113.[9-9] LU. 116.
+
+[1-1] LU. 119.
+
+[2-2] LU. 121.
+
+[3-3] LU. 146-148.
+
+[4-4] LU. 149-161.
+
+* * * * *
+
+[Page 21]
+
+<b>VI</b>
+
+THE MARCH OF THE HOST
+
+[W.389.] On the first stage the hosts went [1]from Cruachan,[1] they slept the night at Cul Silinne, [2]where to-day is Cargin's Lough.[2] And [3]in that place[3] was fixed the tent of Ailill son of Ross, [4]and the trappings were arranged, both bedding and bed-clothes.[4] The tent of Fergus macRoig was on his right hand; Cormac Conlongas, Conchobar's son, was beside him; Ith macEtgaith next to that; Fiachu macFiraba, [5]the son of Conchobar's daughter,[5] at its side; [6]Conall Cernach at its side,[6] Gobnenn macLurnig at the side of that.The place of Ailill's tent was on the right on the march, and thirty hundred men of Ulster beside him. And the thirty hundred men of Ulster on his right hand had he to the end that the whispered talk and conversation and the choice supplies of food and of drink might be the nearer to them.
+
+[1-1] Eg. 1782.
+
+[2-2] Stowe.
+
+[3-3] Translating from Stowe.
+
+[4-4] LU. 156-157.
+
+[5-5] LU. 160.
+
+[6-6] Eg. 1782.
+
+Medb of Cruachan, [7]daughter of Eocho Fedlech,[7] moreover, was at Ailill's left. Finnabair ('Fairbrow'), [8]daughter of Ailill and Medb,[8] at her side, [9]besides servants and henchmen.[9] Next, Flidais Foltchain ('of the Lovely Hair'), wife first of Ailill Finn ('the Fair'). She took part in the Cow-spoil of Cualnge after she had slept with Fergus; and she it was that every seventh night brought sustenance [W.404.] in milk to the men of Erin on the march, for king and queen and prince and poet and pupil.
+
+[7-7] LU. 160.[8-8] LU. 161.
+
+[9-9] Eg. 1782.
+
+Medb remained in the rear of the host that day in quest of tidings and augury [LL.fo.57a.] and knowledge. [1]She called to her charioteer to get ready her nine chariots for her,[1] [2]to make a circuit of the camp[2] that she might learn who was loath and who eager to take part in the hosting. [3]With nine chariots[a] she was wont to travel, that the dust of the great host might not soil her.[3] Medb suffered not her chariot to be let down nor her horses unyoked until she had made a circuit of the camp.
+
+[1-1] LU. 153.
+
+[2-2] Eg. 1782.
+
+[3-3] Gloss in LU. fo. 56b, 3.
+
+[a] Following the emendation suggested by L. Chr. Stern, <i>Zeitschrift fuer Celtische Philologie, Band</i> II, S. 417, LU. has 'nine charioteers.'
+
+Then, [4]when she had reviewed the host,[4] were Medb's horses unyoked and her chariots let down, and she took her place beside Ailill macMata. And Ailill asked tidings of Medb: who was eager and who was loath for the warfare. "Futile for all is the emprise but for one troop only, [5]namely the division of the Galian ('of Leinster'),"[5] quoth Medb. [6]"Why blamest thou these men?"queried Ailill. "It is not that we blame them," Medb made answer.[6] "What good service then have these done that they are praised above all?" asked Ailill. "There is reason to praise them," said Medb. [7]"Splendid are the warriors.[7] When the others begin making their pens and pitching their camp, these have finished building their bothies and huts. When the rest are building their bothies and huts, these have finished preparing their food and drink. When the rest are preparing their food and drink, these have finished eating and feasting, [8]and their harps are playing for them.[8] When all the others have finished eating and feasting, these are by that [W.422.] time asleep. And even as their servants and thralls are distinguished above the servants and thralls of the men of Erin, so shall their heroes and champions be distinguished beyond the heroes and champions of the men of Erin this time on this hosting. [1]It is folly then for these to go, since it is those others will enjoy the victory of the host.[1]" "So much the better, I trow," replied Ailill; "for it is with us they go and it is for us they fight." "They shall not go with us nor shall they fight for us." [2]cried Medb.[2] "Let them stay at home then," said Ailill. "Stay they shall not," answered Medb. "[3]They will fall on us in the rear and will seize our land against us.[3]" "What shall they do then," Finnabair[a] asked, "if they go not out nor yet remain at home?" "Death and destruction and slaughter is what I desire for them," answered Medb. "For shame then on thy speech," spake Ailill; "[4]'tis a woman's advice,[4] for that they pitch their tents and make their pens so promptly and unwearily." "By the truth of my conscience," cried Fergus, [5]"not thus shall it happen, for they are allies of us men of Ulster.[5] No one shall do them to death but he that does death to myself [6]along with them!"[6][4-4] Eg. 1782.
+
+[5-5] LU. 164 and Stowe.
+
+[6-6] LU. 165.
+
+[7-7] LU. 165.
+
+[8-8] LU. 168.
+
+[1-1] LU. 169.
+
+[2-2] Stowe.
+
+[3-3] LU. 171-172.
+
+[a] 'Ailill,' in Eg. 1782.
+
+[4-4] Eg. 1782.
+
+[5-5] LU. 175-176.
+
+[6-6] Stowe
+
+"Not to me oughtest thou thus to speak, O Fergus," then cried Medb,"for I have hosts enough to slay and slaughter thee with the division of Leinstermen round thee. For there are the seven Mane, [7]that is, my seven sons[7] with their seven divisions, and the sons of Maga with their [8]seven[8] divisions, and Ailill with his division, and I myself with my own body-guard besides. We are strong enough here to kill and slaughter thee with thy cantred of the Leinstermen round thee!"
+
+[7-7] LU. 179.
+
+[8-8] Add.
+
+"It befits thee not thus to speak to me," said Fergus, [W.439.] "for I have with me here [1]in alliance with us Ulstermen,[1] the seven Under-kings of Munster, with their seven cantreds. [2]Here we have what is best of the youths of Ulster, even the division of the Black Banishment.[2] Here we have what is best of the noble youths of Ulster, even the division of the Galian ('of Leinster'). Furthermore, I myself am bond and surety and guarantee for them, since ever they left their own native land. [3]I will give thee battle in the midst of the camp,[3] and to me will they hold steadfast on the day of battle. More than all that," added Fergus, "these men shall be no subject of dispute. By that I mean I will never forsake them. [4]For the rest, we will care for these warriors, to the end that they get not the upper hand of the host.
+
+[1-1] LU. 184.[2-2] Reading with Stowe; LL. appears to be corrupt. This was the name given to Fergus, Cormac and the other exiles from Ulster.
+
+[3-3] Eg. 1782.
+
+"The number of our force is seventeen cantreds, besides our rabble and our women-folk--for with each king was his queen in Medb's company--and our striplings; the eighteenth division is namely the cantred of the Galian.[4] This division of Leinstermen I will distribute among [5]all the host of[5] the men of Erin in such wise that no five men of them shall be in any one place." "That pleaseth me well," said Medb: "let them be as they may, if only they be not in the battle-order of the ranks where they now are in such great force."
+
+[4-4] LU. 187-192.
+
+[5-5] Eg. 1782.
+
+Forthwith Fergus distributed the cantred [6]of the Galian[6] among the men of Erin in such wise that there were not five men of them in any one place.
+
+[6-6] Stowe and Add.
+
+[LL.fo.57b.] Thereupon, the troops set out on their way and march. It was no easy thing [7]for their kings and their leaders[7] to attend to that mighty host. They took part in the expedition [W.453.]according to the several tribes and according to the several stems and the several districts wherewith they had come, to the end that they might see one other and know one other, that each man might be with his comrades and with his friends and with his kinsfolk on the march. They declared that in such wise they should go. They also took counsel in what manner they should proceed on their hosting. Thus they declared they should proceed: Each host with its king, each troop with its lord, and each band with its captain; each king and each prince of the men of Erin [1]by a separate route[1] on his halting height apart. They took counsel who was most proper to seek tidings in advance of the host between the two provinces. And they said it was Fergus, inasmuch as the expedition was an obligatory one with him, for it was he that had been seven years in the kingship of Ulster. And [2]after Conchobar had usurped the kingship and[2] after the murder of the sons of Usnech who were under his protection and surety, Fergus left the Ultonians, and for seventeen years he was away from Ulster in exile and in enmity. For that reason it was fitting that he above all should go after tidings.
+
+[7-7] Stowe.
+
+[1-1] Stowe and Add.
+
+[2-2] Stowe and Add.
+
+So [3]the lead of the way was entrusted to Fergus.[3] Fergus before all fared forth to seek tidings, and a feeling of [4]love and[4] affection for his kindred of the men of Ulster came over him,and he led the troops astray in a great circuit to the north and the south. And he despatched messengers with warnings to the Ulstermen, [5]who were at that time in their 'Pains' except Cuchulain and his father Sualtaim.[5] And he began to detain and delay the host [6]until such time as the men of Ulster should have gathered together an army.[6] [7]Because of affection he did so.[7]
+
+[3-3] Eg. 1782.
+
+[4-4] Stowe.
+
+[5-5] LU. and YBL. 217.
+
+[6-6] LU. and YBL. 227.
+
+[7-7] Eg. 1782.
+
+[W.472.] Medb perceived this and she upbraided him for it, and chanted the lay:--
+
+Medb: "Fergus, speak, what shall we say?
+        What may mean this devious way?
+        For we wander north and south;
+        Over other lands we stray!"
+
+Fergus: "Medb, why art thou so perturbed?
+        There's no treacherous purpose here.        Ulster's land it is, O queen,
+        Over which I've led thy host!"
+
+Medb: "Ailill, splendid with his hosts,
+        [1]Fears thee lest thou should'st betray.[1]
+        Thou hast not bent all thy mind
+        To direct us on our way!"
+
+Fergus: "Not to bring the host to harm
+        Make these changing circuits I.
+        Haply could I now avoid
+        Sualtach's son, the Blacksmith's Hound!"[a]
+
+Medb: "Ill of thee to wrong our host,
+        Fergus, son of Ross the Red;
+        Much good hast thou found with us,
+        Fergus, in thy banishment!"
+
+"[2]If thou showest our foemen love,
+No more shalt thou lead our troops;
+Haply someone else we'll find
+To direct us on our way![2]"
+
+[1-1] Reading with LU. and YBL. 252.
+
+[a] That is, Cuchulain.[2-2] Eg. 1782.
+
+"I will be in the van of the troops no longer," cried Fergus; "but do thou find another to go before them." For all that, Fergus kept his place in the van of the troops.
+
+The four mighty provinces of Erin passed that night on Cul Silinne. The sharp, keen-edged anxiety for Cuchulain came upon Fergus and he warned the men of Erin to be on their guard, because there would come upon them the rapacious lion, and the doom of foes, the vanquisher of multitudes, and the chief of retainers, the mangler of great hosts, the hand that dispenseth [3]treasures,[3] and the flaming [W.502.] torch, even Cuchulain son of Sualtaim.[a] And thus he foreshowed him and chanted a lay, and Medb responded:--
+
+Fergus: "Well for ye to heed and watch,
+        With array of arms and men.
+        He will come, the one we fear,
+        Murthemne's great, deedful youth!"
+
+Medb: "How so dear, this battle-rede,
+        Comes from thee, [LL.fo.58a.] Roig's son most bold.
+        Men and arms have I enough
+        To attend Cuchulain here!"
+
+Fergus: "Thou shalt need them, Medb of Ai,
+        Men and arms for battle hard,        With the grey steed's[b] horseman brave.
+        All the night and all the day!"
+
+Medb: "I have kept here in reserve
+        Heroes fit for fight and spoil;
+        Thirty hundred hostage-chiefs,
+        Leinster's bravest champions they.
+
+Fighting men from Cruachan fair,
+Braves from clear-streamed Luachair,
+Four full realms of goodly Gaels
+Will defend me from this man!"
+
+Fergus: "Rich in troops from Mourne and Bann,
+        Blood he'll draw o'er shafts of spears;
+        He will cast to mire and sand
+        These three thousand Leinstermen.
+
+With the swallow's swiftest speed,
+With the rush of biting wind,
+So bounds on my dear brave Hound,
+Breathing slaughter on his foes!"
+
+Medb: "Fergus, should he come 'tween us,
+        To Cuchulain bear this word:
+        He were prudent to stay still;        Cruachan holds a check in store."
+
+Fergus: "Valiant will the slaughter be
+        Badb's wild daughter[c] gloats upon.
+        For the Blacksmith's Hound will spill
+        Showers of blood on hosts of men!"
+
+[3-3] Stowe and Add.
+
+[a] MS.: <i>Sualtach.</i>
+
+[b] <i>Liath Mache</i> ('the Roan of Macha'), the name of one of Cuchulain's two horses.
+
+[c] That is, the goddess or fury of battle.
+
+[W.540.] After this lay the men of the four grand provinces of Erin marched [1]on the morrow[1] over Moin Coltna ('the Marsh of Coltain') eastwards that day; and there met them eight score deer [2]in a single herd.[2] The troops spread out and surrounded and killed them so that none of them escaped.
+
+[1-1] LU. 195.
+
+[2-2] Stowe and Add.But there is one event to add: Although the division of the Galian had been dispersed [3]among the men of Erin,[3] [4]wherever there was a man of the Galian, it was he that got them, except[4] five deer only which was the men of Erin's share thereof, so that one division took all the eight score deer.
+
+[3-3] Stowe and Add.
+
+[4-4] LU. 196.
+
+[5]Then they proceed to Mag Trega and they unyoke there and prepare their food. It is said that it is there that Dubthach recited this stave:--
+
+"Grant ye have not heard till now,
+Giving ear to Dubthach's fray:
+Dire-black war upon ye waits,
+'Gainst the Whitehorned of Queen Medb![a]
+
+"There will come the chief of hosts,[b]
+War for Murthemne to wage.
+Ravens shall drink garden's milk,[c]
+This the fruit of swineherds' strife (?)[d]
+
+"Turfy Cron will hold them back,
+Keep them back from Murthemne,[5]
+[9]Till the warriors' work is done
+On Ochaine's northern mount!"'Quick,' to Cormac, Ailill cries;
+'Go and seek ye out your son,
+Loose no cattle from the fields,
+Lest the din of the host reach them!'
+
+"Battle they'll have here eftsoon,
+Medb and one third of the host.
+Corpses will be scattered wide
+If the Wildman[a] come to you!"
+
+[a] Literally, 'of Ailill's spouse.'
+
+[b] That is, Cuchulain.
+
+[c] A kenning for 'blood.'
+
+[d] Referring to the two bulls, the Brown and the Whitehorned, which were the re-incarnations through seven intermediate stages of two divine swineherds of the gods of the under-world. The story is told in <i>Irische Texte</i>, iii, i, pp. 230-275.
+
+[5-5] LU. 198-205.
+
+[a] Literally, 'the Contorted one'; that is, Cuchulain.Then Nemain, [1]the Badb to wit,[1] attacked them, and that was not the quietest of nights they had, with the noise of the churl, namely Dubthach, in their[b] sleep. Such fears he scattered amongst the host straightway, and he hurled a great stone at the throng till Medb came to check him. They continued their march then till they slept a night in Granard Tethba in the north,[9] [2]after the host had made a circuitous way across sloughs and streams.[2]
+
+[1-1] Gloss in YBL. 211.
+
+[b] 'his' Eg. 1782.
+
+[9-9] YBL. and LU. 206-215. With this passage YBL. begins, fo. 17a.
+
+[2-2] LU. 215.
+
+[W.547.] It was on that same day, [3]after the coming of the warning from Fergus[3] [4]to the Ulstermen,[4] that Cuchulain son of Sualtaim, [5]and Sualtaim[5] Sidech ('of the Fairy Mound'), his father, [6]when they had received the warning from Fergus,[6] came so near [7]on their watch for the host[7] that their horses grazed in pasture round the pillar-stone on Ard Cuillenn ('the Height of Cuillenn'). Sualtaim's horses cropped the grass north of the pillar-stone close to the ground; Cuchulain's cropped the grass south of the pillar-stone even to the ground and the bare stones."Well, O master Sualtaim," said Cuchulain; "the thought of the host is fixed sharp upon me [8]to-night,[8] so do thou depart for us with warnings to the men of Ulster, that they remain not in the smooth plains but that they betake themselves to the woods and wastes and steep glens of the province, if so they may keep out of the way of the men of Erin." "And thou, lad, what wilt thou do?" "I must go southwards to Temair to keep tryst with the [W.556.] maid[a] of Fedlimid Nocruthach ('of the Nine Forms') [1]Conchobar's daughter,[1] according to my own agreement, till morning." "Alas, that one should go [2]on such a journey,"[2] said Sualtaim, "and leave the Ulstermen under the feet of their foes and their enemies for the sake of a tryst with a woman!" "For all that, I needs must go. For, an I go not, the troth of men will be held for false and the promises of women held for true."
+
+[3-3] LU. 218
+
+[4-4] Eg. 1782.
+
+[5-5] <i>Sualtach</i>, in LL.
+
+[6-6] Eg. 1782.
+
+[7-7] Eg. 1782.
+
+[8-8] LU. and YBL. 220.[a] "Who was secretly as a concubine with Cuchulain"; gloss in LU. and YBL. 222 and Eg. 1782.
+
+[1-1] Eg. 1782.
+
+[2-2] Stowe and Add.
+
+Sualtaim departed with warnings to the men of Ulster. Cuchulain strode into the wood, and there, with a single blow, he lopped the prime sapling of an oak, root and top, and with only one foot and one hand and one eye he exerted himself; and he made a twig-ring thereof and set an ogam[b] script on the plug of the ring, and set the ring round the narrow part of the pillar-stone on Ard ('the Height') of Cuillenn. He forced the ring till it reached the thick of the pillar-stone. Thereafter Cuchulain went his way to his tryst with the woman.
+
+[b] The old kind of writing of the Irish.
+
+Touching the men of Erin, the account follows here: They came up to the pillar-stone at Ard Cuillenn, [3]which is called Crossa Coil to-day,[3] and they began looking out upon the province that was unknown to them, the province of Ulster. And two of Medb's people went always before them in the van of the host, at every camp and on every march, at every ford and every river [LL.fo.58b.] and every gap.

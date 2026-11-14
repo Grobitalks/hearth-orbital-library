@@ -1,0 +1,2018 @@
+HOLB1	22695	6	480	80	700	150
+4	Prologue.
+7	Act The Firs, Scene I. SIMO, SOSIA, and SERVAN
+18	Act The Firs, Scene II. Enter DAVUS.
+22	Act The Firs, Scene III. Davus.
+25	Act The Firs, Scene V. PAMPHILUS, MYSIS behind
+31	Act The Seco, Scene I. Charinus, Byrrhia.
+33	Act The Seco, Scene II. Enter PAMPHILUS.
+36	Act The Seco, Scene III. Enter DAVUS hastily.
+42	Act The Seco, Scene IV. Pamphilus. Davus.
+47	Act The Seco, Scene VI. Enter BYRRHIA behind.
+50	Act The Seco, Scene VII. Manent SIMO and DAVUS
+55	Act The Thir, Scene II. Manent SIMO, DAVUS.
+57	Act The Thir, Scene IV.
+63	Act The Thir, Scene V. Enter CHREMES.
+67	Act The Thir, Scene VI. Enter DAVUS.
+71	Act The Thir, Scene VIII. Enter PAMPHILUS; DAV
+74	Act The Four, Scene I. CHARINUS alone.
+75	Act The Four, Scene II. To him PAMPHILUS and D
+80	Act The Four, Scene III. Enter MYSIS.
+86	Act The Four, Scene VI. Re-enter DAVUS with th
+89	Act The Four, Scene VII. Enter CHREMES going t
+96	Act The Four, Scene IX. Enter CRITO.
+99	Act The Fift, Scene I. Chremes, Simo.
+101	Act The Fift, Scene II. Enter DAVUS from GLYCE
+107	Act The Fift, Scene V. Enter PAMPHILUS.
+110	Act The Fift, Scene VI. Re-enter PAMPHILUS wit
+120	Act The Fift, Scene VIII. Enter DAVUS.
+124	Prologue.
+127	Act The Firs, Scene I. Enter PHAEDRIA and PARM
+129	Act The Firs, Scene II. Enter THAIS.
+139	Act The Seco, Scene I. Phaedria, Parmeno.
+143	Act The Seco, Scene II. Enter GNATHO leading P
+150	Act The Seco, Scene III. Enter CHAEREA; PARMEN
+162	Act The Seco, Scene III. Labeled SCENE IV in 1
+165	Act The Thir, Scene I. Enter THRASO and GNATHO
+173	Act The Thir, Scene II. Enter THAIS and PYTHIA
+180	Act The Thir, Scene III. CHREMES alone.
+184	Act The Thir, Scene V. ANTIPHO alone.
+186	Act The Thir, Scene VI. Enter CHAEREA, in the 
+194	Act The Four, Scene I. Enter DORIAS, with a Ca
+196	Act The Four, Scene II. Enter PHAEDRIA.
+197	Act The Four, Scene III. Enter PYTHIAS and DOR
+200	Act The Four, Scene IV.
+208	Act The Four, Scene VI. Enter CHREMES tipsy.
+210	Act The Four, Scene VII. Enter THAIS.
+215	Act The Four, Scene VIII. Enter THRASO, GNATHO
+223	Act The Fift, Scene I. THAIS and PYTHIAS.
+226	Act The Fift, Scene II. Enter CHAEREA.
+234	Act The Fift, Scene III. Pythias, Chremes, Sop
+236	Act The Fift, Scene IV. Enter PARMENO.
+237	Act The Fift, Scene V. Pythias, Parmeno.
+242	Act The Fift, Scene VI. Enter LACHES.
+246	Act The Fift, Scene VII. Enter PYTHIAS; PARMEN
+250	Act The Fift, Scene VIII. Enter THRASO, GNATHO
+252	Act The Fift, Scene IX. Enter CHAEREA at anoth
+255	Act The Fift, Scene X. Enter PHAEDRIA.
+264	Prologue.
+267	Act The Firs, Scene I. Chremes, Menedemus.
+276	Act The Firs, Scene II. CHREMES alone.
+277	Act The Firs, Scene III. Enter CLITIPHO, speak
+281	Act The Firs, Scene IV. CLITIPHO alone.
+283	Act The Seco, Scene I. Enter CLINIA.
+285	Act The Seco, Scene II. Enter SYRUS and DROMO,
+299	Act The Seco, Scene III. Enter BACCHIS, and AN
+303	Act The Thir, Scene II. Enter MENEDEMUS.
+311	Act The Thir, Scene III. Enter SYRUS at anothe
+317	Act The Thir, Scene V. Enter CLITIPHO, and CHR
+321	Act The Thir, Scene VI. Chremes, Syrus.
+325	Act The Thir, Scene VII. Enter at a distance S
+332	Act The Four, Scene I. SYRUS, alone.
+333	Act The Four, Scene II. Enter CLINIA at anothe
+338	Act The Four, Scene III.
+344	Act The Four, Scene V. After which, enter CHRE
+351	Act The Four, Scene VI. Enter CLITIPHO.
+356	Act The Four, Scene IX. Enter MENEDEMUS.
+362	Act The Fift, Scene II. Enter CHREMES.
+372	Act The Fift, Scene III. Re-enter MENEDEMUS, w
+375	Act The Fift, Scene IV. Manent CLITIPHO, SYRUS
+379	Act The Fift, Scene VI. Enter CHREMES, SOSTRAT
+382	Act The Fift, Scene VII. Enter CLITIPHO.
+384	Act The Fift, Scene VIII. Enter MENEDEMUS.
+388	Prologue.
+390	Act The Firs, Scene I. Enter MICIO.
+394	Act The Firs, Scene II. Enter DEMEA.
+401	Act The Firs, Scene III. MICIO alone.
+402	Act The Seco, Scene I.
+408	Act The Seco, Scene II. SANNIO alone.
+409	Act The Seco, Scene III. Enter SYRUS.
+413	Act The Seco, Scene IV. Enter CTESIPHO at anot
+415	Act The Seco, Scene V. Enter AESCHINUS.
+418	Act The Thir, Scene I. Sostrata, Canthara.
+420	Act The Thir, Scene II. Enter GETA hastily at 
+426	Act The Thir, Scene III. Enter DEMEA.
+427	Act The Thir, Scene IV. Enter SYRUS at another
+437	Act The Thir, Scene VI. Enter HEGIO, GETA conv
+444	Act The Four, Scene I. Ctesipho, Syrus.
+447	Act The Four, Scene II. Enter DEMEA at another
+455	Act The Four, Scene IV. Enter MICIO and HEGIO.
+457	Act The Four, Scene V. AESCHINUS alone.
+459	Act The Four, Scene VI. Enter MICIO.
+469	Act The Four, Scene IX. Enter MICIO.
+475	Act The Four, Scene XI. Enter at a distance SY
+478	Act The Four, Scene XIV. Enter MICIO from SOST
+484	Act The Fift, Scene I. DEMEA alone.
+488	Act The Fift, Scene IV. Enter AESCHINUS.
+490	Act The Fift, Scene V. Enter MICIO.
+496	Act The Fift, Scene VI. To them SYRUS.
+501	Prologue.
+505	Act The Firs, Scene I. Philotis, Syra.
+506	Act The Firs, Scene II. Enter PARMENO.
+516	Act The Seco, Scene I. Laches, Sostrata.
+520	Act The Seco, Scene II. Enter PHIDIPPUS.
+523	Act The Seco, Scene III. Manet SOSTRATA.
+524	Act The Thir, Scene I. Enter PAMPHILUS and PAR
+529	Act The Thir, Scene III. Enter SOSTRATA.
+532	Act The Thir, Scene V. PAMPHILUS alone.
+536	Act The Thir, Scene VI.
+540	Act The Thir, Scene VIII. Enter at a distance 
+544	Act The Thir, Scene IX. Manent LACHES and PHID
+547	Act The Four, Scene II. Enter PHIDIPPUS.
+552	Act The Four, Scene IV. Sostrata, Pamphilus.
+555	Act The Four, Scene V. Enter LACHES.
+558	Act The Four, Scene VI. Enter PHIDIPPUS.
+564	Act The Four, Scene VII. Manent PHIDIPPUS, LAC
+566	Act The Four, Scene VIII. Enter BACCHIS attend
+570	Act The Four, Scene IX. Enter PHIDIPPUS and a 
+576	Act The Fift, Scene III. BACCHIS alone.
+578	Act The Fift, Scene IV. Enter at a distance PA
+583	Prologue.
+586	Act The Firs, Scene I. DAVUS alone.
+587	Act The Firs, Scene II. Enter GETA.
+596	Act The Firs, Scene III. Antipho, Phaedria.
+598	Act The Firs, Scene IV. Enter at a distance _G
+605	Act The Firs, Scene VI. Enter DEMIPHO at anoth
+613	Act The Seco, Scene I. Phormio, Geta.
+617	Act The Seco, Scene II.
+626	Act The Seco, Scene III.
+629	Act The Seco, Scene IV. Enter at a distance AN
+632	Act The Seco, Scene V. Enter, from Dorio's, DO
+639	Act The Seco, Scene VI. Phaedria, Antipho, Get
+644	Act The Thir, Scene I. Enter DEMIPHO and CHREM
+646	Act The Thir, Scene II. Enter, at another part
+647	Act The Thir, Scene III. Enter behind, ANTIPHO
+655	Act The Thir, Scene IV. Manent ANTIPHO, GETA.
+658	Act The Thir, Scene V. Re-enter DEMIPHO and CH
+660	Act The Thir, Scene VI. Enter SOPHRONA at a di
+665	Act The Four, Scene I. Demipho, Geta.
+667	Act The Four, Scene III. Enter DEMIPHO and NAU
+669	Act The Four, Scene IV. Enter CHREMES, hastily
+675	Act The Four, Scene VII. Enter, at a distance,
+Let this reflection calm you! Formerly,
+You bred them both according to your fortune,
+Supposing it sufficient for them both:
+Then too you thought that I should take a wife.
+Still follow the old rule you then laid down:
+Hoard, scrape, and save; do ev'ry thing you can
+To leave them nobly! Be that glory yours.
+My fortune, fall'n beyond their hopes upon them,
+Let them use freely! As your capital
+Will not be wasted, what addition comes
+From mine, consider as clear gain: and thus,
+Weighing all this impartially, you'll spare
+Yourself, and me, and them, a world of trouble.
+
+DEM. Money is not the thing: their morals----
+
+MICIO. Hold!
+I understand; and meant to speak of that.
+There are in nature sundry marks, good Demea,
+By which you may conjecture easily,
+That when two persons do the self-same thing,
+It oftentimes falls out that in the one
+'Tis criminal, in t'other 'tis not so:
+Not that the thing itself is different,
+But he who does it.--In these youths I see
+The marks of virtue; and, I trust, they'll proveSuch as we wish them. They have sense, I know;
+Attention; in its season, liberal shame;
+And fondness for each other; all sure signs
+Of an ingenuous mind and noble nature:
+And though they stray, you may at any time
+Reclaim them.--But perhaps you fear they'll prove
+Too inattentive to their interest.
+Oh my dear Demea, in all matters else
+Increase of years increases wisdom in us:
+This only vice age brings along with it;
+"We're all more worldly-minded than there's need:"
+Which passion age, that kills all passions else,
+Will ripen in your sons too.
+
+DEM. Have a care
+That these fine arguments and this great mildness
+Don't prove the ruin of us, Micio.
+
+MICIO. Peace!
+It shall not be: away with all your fears!
+This day be rul'd by me: come, smooth your brow.
+
+DEM. Well, since at present things are so, I must,
+But then I'll to the country with my son
+To-morrow, at first peep of day.MICIO. At midnight,
+So you'll but smile to-day.
+
+DEM. And that wench too
+I'll drag away with me.
+
+MICIO. Aye; there you've hit it.
+For by that means you'll keep your son at home;
+Do but secure her.
+
+DEM. I'll see that: for there
+I'll put her in the kitchen and the mill,
+And make her full of ashes, smoke, and meal:
+Nay at high noon too she shall gather stubble.
+I'll burn her up, and make her black as coal.
+
+MICIO. Right! now you're wise.--And then I'd make my son Go to bed to her, though against his will.
+
+DEM. D'ye laugh at me? how happy in your temper!
+I feel----
+
+MICIO. Ah! that again?
+
+DEM. I've done.MICIO. In then!
+And let us suit our humor to the time. (<i>Exeunt.</i>
+
+[Changes:
+
+<i>Harper</i>
+  By which you may conjecture easily,
+  That when two persons do the self-same thing,
+  It oftentimes falls out that in the one
+  'Tis criminal, in t'other 'tis not so:
+<i>Colman 1768</i>
+  By which you may conjecture of men's minds;
+  And when two persons do the self-same thing,
+  May oftentimes pronounce, that in the one
+  'Tis dangerous, in t'other 'tis not so]
+
+ACT THE FIFTH.<b>SCENE I.</b>
+
+<i>DEMEA alone.</i>
+
+Never did man lay down so fair a plan,
+So wise a rule of life, but fortune, age,
+Or long experience made some change in it;
+And taught him that those things he thought he knew
+He did not know, and what he held as best,
+In practice he threw by. The very thing
+That happens to myself. For that hard life
+Which I have ever led, my race near run,
+Now in the last stage, I renounce: and why?
+But that by dear experience I've been told,
+There's nothing so advantages a man
+As mildness and complacency. Of this
+My brother and myself are living proofs:
+He always led an easy, cheerful life;
+Good-humor'd, mild, offending nobody,
+Smiling on all; a jovial bachelor,
+His whole expenses centred in himself.
+I, on the contrary, rough, rigid, cross,
+Saving, morose, and thrifty, took a wife:
+--What miseries did marriage bring!--had children;
+--A new uneasiness!--and then besides,
+Striving all ways to make a fortune for them,I have worn out my prime of life and health:
+And now, my course near finish'd, what return
+Do I receive for all my toil? Their hate.
+Meanwhile my brother, without any care,
+Reaps all a father's comforts. Him they love,
+Me they avoid: to him they open all
+Their secret counsels; doat on him; and both
+Repair to him; while I am quite forsaken.
+His life they pray for, but expect my death.
+Thus those, brought up by my exceeding labor,
+He, at a small expense, has made his own:
+The care all mine, and all the pleasure his.
+--Well then, let me endeavor in my turn
+To teach my tongue civility, to give
+With open-handed generosity,
+Since I am challeng'd to't!--and let me too
+Obtain the love and reverence of my children!
+And if 'tis bought by bounty and indulgence,
+I will not be behind-hand.--Cash will fail:
+What's that to me, who am the eldest born?
+
+SCENE II.
+
+<i>Enter SYRUS.</i>SYRUS. Oh Sir! your brother has dispatch'd me to you To beg you'd not go further off.
+
+DEM. Who's there?----
+What, honest Syrus! save you: how is't with you?
+How goes it?
+
+SYRUS. Very well, Sir.
+
+DEM. (<i>aside.</i>) Excellent!
+Now for the first time, I, against my nature,
+Have added these three phrases, "Honest Syrus!----
+How is't?--How goes it?"-- (<i>To SYRUS.</i>) You have prov'd yourself
+A worthy servant. I'll reward you for it.
+
+SYRUS. I thank you, Sir.
+
+DEM. I will, I promise you;
+And you shall be convinc'd on't very soon.
+
+SCENE III.
+
+<i>Enter GETA.</i>
+
+GETA (<i>to SOSTRATA within</i>). Madam, I'm going to look after them, That they may call the bride immediately. --But here is Demea. Save you!DEM. Oh! your name?
+
+GETA. Geta, Sir.
+
+DEM. Geta, I this day have found you
+To be a fellow of uncommon worth:
+For sure that servant's faith is well approv'd
+Who holds his master's interest at heart,
+As I perceiv'd that you did, Geta! wherefore,
+Soon as occasion offers, I'll reward you.
+--I am endeavoring to be affable,
+And not without success. (<i>Aside.</i>)
+
+GETA. 'Tis kind in you
+To think of your poor slave, Sir.
+
+DEM. (<i>aside.</i>) First of all
+I court the mob, and win them by degrees.<b>SCENE IV.</b>
+
+<i>Enter AESCHINUS.</i>
+
+AESCH. They murder me with their delays; and while
+They lavish all this pomp upon the nuptials,
+They waste the livelong day in preparation.
+
+DEM. How does my son?
+
+AESCH. My father! are you here?
+
+DEM. Aye, by affection, and by blood your father,
+Who love you better than my eyes.--But why
+Do you not call the bride?
+
+AESCH. 'Tis what I long for:
+But wait the music and the singers.
+
+DEM. Pshaw!
+Will you for once be rul'd by an old fellow?
+
+AESCH. Well?
+
+DEM. Ne'er mind singers, company, lights, music;
+But tell them to throw down the garden-wall,As soon as possible. Convey the bride
+That way, and lay both houses into one.
+Bring too the mother, and whole family,
+Over to us.
+
+AESCH. I will. O charming father!
+
+DEM. (<i>aside</i>). <i>Charming!</i> See there! he calls me <i>charming</i> now.
+--My brother's house will be a thoroughfare;
+Throng'd with whole crowds of people; much expense
+Will follow; very much: what's that to me?
+I am call'd <i>charming</i>, and get into favor.
+--Ho! order Babylo immediately
+To pay him twenty minae.--Prithee, Syrus,
+Why don't you execute your orders?
+
+SYRUS. What?
+
+DEM. Down with the wall!-- (<i>Exit SYRUS.</i>) You, Geta, go and bring The ladies over.
+
+GETA. Heaven bless you, Demea,
+For all your friendship to our family! (<i>Exit GETA.</i>
+
+DEM. They're worthy of it.--What say you to this?
+(<i>To AESCHINUS.</i>)AESCH. I think it admirable.
+
+DEM. 'Tis much better
+Than for a poor soul, sick, and lying-in,
+To be conducted through the street.
+
+AESCH. I never
+Saw any thing concerted better, Sir.
+
+DEM. 'Tis just my way.--But here comes Micio.
+
+<b>SCENE V.</b>
+
+<i>Enter MICIO.</i>
+
+MICIO (<i>at entering.</i>) My brother order it, d'ye say? where is he? --Was this your order, Demea?
+
+DEM. 'Twas my order:
+And by this means, and every other way,
+I would unite, serve, cherish, and oblige,
+And join the family to ours!
+
+AESCH. Pray do, Sir! (<i>To MICIO.</i>)
+
+MICIO. I don't oppose it.DEM. Nay, but 'tis our duty.
+First, there's the mother of the bride----
+
+MICIO. What then?
+
+DEM. Worthy and modest.
+
+MICIO. So they say.
+
+DEM. In years.
+
+MICIO. True.
+
+DEM. And so far advanc'd, that she is long
+Past child-bearing, a poor lone woman too,
+With none to comfort her.
+
+MICIO. What means all this?
+
+DEM. This woman 'tis your place to marry, brother;
+--And yours (<i>to AESCHINUS</i>) to bring him to't.
+
+MICIO. I marry her?
+
+DEM. You.MICIO. I?
+
+DEM. Yes, you I say.
+
+MICIO. Ridiculous!
+
+DEM. (<i>to AESCHINUS</i>). If you're a man, he'll do't.
+
+AESCH. (<i>to MICIO</i>). Dear father!
+
+MICIO. How!
+Do you then join him, fool?
+
+DEM. Nay, don't deny.
+It can't be otherwise.
+
+MICIO. You've lost your senses!
+
+AESCH. Let me prevail upon you, Sir!
+
+MICIO. You're mad.
+Away!
+
+DEM. Oblige your son.MICIO. Have you your wits?
+I a new married man at sixty-five!
+And marry a decrepit poor old woman!
+Is that what you advise me!
+
+AESCH. Do it, Sir!
+I've promis'd them.
+
+MICIO. You've promis'd them, indeed!
+Prithee, boy, promise for yourself.
+
+DEM. Come, come!
+What if he ask'd still more of you?
+
+MICIO. As if
+This was not ev'n the utmost.
+
+DEM. Nay, comply!
+
+AESCH. Be not obdurate!
+
+DEM. Come, come, promise him.
+
+MICIO. Won't you desist?
+
+AESCH. No, not till I prevail.MICIO. This is mere force.
+
+DEM. Nay, nay, comply, good Micio!
+
+MICIO. Though this appears to me absurd, wrong, foolish, And quite repugnant to my scheme of life, Yet, if you're so much bent on't, let it be!
+
+AESCH. Obliging father, worthy my best love!
+
+DEM. (<i>aside</i>). What now?--This answers to my wish.--What more? --Hegio's their kinsman (<i>to MICIO</i>), our relation too, And very poor. We should do him some service.
+
+MICIO. Do what?
+
+DEM. There is a little piece of ground,
+Which you let out near town. Let's give it him
+To live upon.
+
+MICIO. So little, do you call it?
+
+DEM. Well, if 'tis large, let's give it. He has been
+Father to her; a good man; our relation.
+It will be given worthily. In short,
+That saying, Micio, I now make my own,
+Which you so lately and so wisely quoted;"It is the common failing of old men
+To be too much intent on worldly matters."
+Let us wipe off that stain. The saying's true,
+And should be practic'd.
+
+MICIO. Well, well; be it so,
+If he requires it. (<i>Pointing to AESCHINUS.</i>)
+
+AESCH. I beseech it, father.
+
+DEM. Now you're indeed my brother, soul and body.
+
+MICIO. I'm glad to find you think me so.
+
+DEM. I foil him
+At his own weapons. (<i>Aside.</i>)
+
+[Changes:
+
+<i>Harper</i>
+  [Demea's entire speech, beginning
+  Well, if 'tis large ...]
+<i>Colman 1768</i>
+  DEM. Well, if 'tis large, let's give it. He has been
+  A father to the bride; a worthy man;
+  Our kinsman too. It will be well bestow'd.  In short, that saying I now make my own,
+  Which you but now so wisely quoted, Micio;
+  "It is the common failing of old men
+  To be too much intent on worldly matters."
+  Let us wipe off that stain. The saying's true,
+  And worthy notice.]
+
+<b>SCENE VI.</b>
+
+<i>To them SYRUS.</i>
+
+SYRUS. I have executed
+Your orders, Demea.
+
+DEM. A good fellow!----Truly
+Syrus, I think, should be made free to-day.
+
+MICIO. Made free! He!----Wherefore?
+
+DEM. Oh, for many reasons.
+
+SYRUS. Oh Demea, you're a noble gentleman.
+I've taken care of both your sons from boys;
+Taught them, instructed them, and given them
+The wholesomest advice that I was able.DEM. The thing's apparent: and these offices,
+To cater;--bring a wench in, safe and snug;
+--Or in mid-day prepare an entertainment;----
+All these are talents of no common man.
+
+SYRUS. Oh most delightful gentleman!
+
+DEM. Besides,
+He has been instrumental too this day
+In purchasing the Music-Girl. He manag'd
+The whole affair. We should reward him for it.
+It will encourage others.--In a word,
+Your AEschinus would have it so.
+
+MICIO. Do you
+Desire it?
+
+AESCH. Yes, Sir.
+
+MICIO. Well, if you desire it---- Come hither, Syrus!--Be thou free! (<i>SYRUS kneels; MICIO strikes him, being the ceremony of manumission, or giving a slave his freedom.</i>)
+
+SYRUS. I thank you:
+Thanks to you all; but most of all, to Demea!DEM. I'm glad of your good fortune.
+
+AESCH. So am I.
+
+SYRUS. I do believe it; and I wish this joy
+Were quite complete, and I might see my wife,
+My Phrygia too, made free, as well as I.
+
+DEM. The very best of women!
+
+SYRUS. And the first
+That suckled my young master's son, your grandson.
+
+DEM. Indeed! the first who suckled him!--Nay then,
+Beyond all doubt, she should be free.
+
+MICIO. For what?
+
+DEM. For that. Nay, take the sum, whate'er it be,
+Of me.
+
+SYRUS. Now all the powers above grant all
+Your wishes, Demea!
+
+MICIO. You have thriv'd to-day
+Most rarely, Syrus.DEM. And besides this, Micio,
+It would be handsome to advance him something
+To try his fortune with. He'll soon return it.
+
+MICIO. Not that. (<i>Snapping his fingers.</i>)
+
+AESCH. He's honest.
+
+SYRUS. Faith I will return it.
+Do but advance it.
+
+AESCH. Do, Sir!
+
+MICIO. Well, I'll think on't.
+
+DEM. I'll see that he shall do't. (<i>To SYRUS.</i>)
+
+SYRUS. Thou best of men!
+
+AESCH. My most indulgent father!
+
+MICIO. What means this?
+Whence comes this hasty change of manners, brother?
+Whence flows all this extravagance? and whence
+This sudden prodigality?DEM. I'll tell you:
+To show you, that the reason why our sons
+Think you so pleasant and agreeable,
+Is not from your deserts, or truth, or justice,
+But your compliance, bounty, and indulgence.
+--Now, therefore, if I'm odious to you, son,
+Because I'm not subservient to your humor
+In all things, right or wrong; away with care!
+Spend, squander, and do what you will!--but if,
+In those affairs where youth has made you blind,
+Eager, and thoughtless, you will suffer me
+To counsel and correct--and in due season
+Indulge you--I am at your service.
+
+AESCH. Father,
+In all things we submit ourselves to you.
+What's fit and proper, you know best.--But what
+Shall come of my poor brother?
+
+DEM. I consent
+That he shall have her: let him finish there.
+
+AESCH. All now is as it should be.-- (<i>To the audience.</i>) Clap your hands!
+
+* * * * *
+    * * * *THE STEP-MOTHER.
+
+PERSONS REPRESENTED.
+
+PROLOGUE.
+LACHES.
+PHIDIPPUS.
+PAMPHILUS.
+PARMENO.
+SOSIA.
+BOY, <i>and other Servants.</i>
+
+SOSTRATA.
+MYRRHINA.
+BACCHIS.
+PHILOTIS.
+SYRA.
+NURSE, <i>Servants to Bacchis, etc.</i>
+
+SCENE, ATHENS.
+
+<b>PROLOGUE.</b>
+
+This play is call'd the STEP-MOTHER. When first
+It was presented, such a hurricane,
+A tumult so uncommon interven'd,It neither could be seen nor understood:
+So taken were the people, so engag'd
+By a rope-dancer!--It is now brought on
+As a new piece: and he who wrote the play
+Suffer'd it not to be repeated then,
+That he might profit by a second sale.
+Others, his plays, you have already known;
+Now then, let me beseech you, know this too.
+
+ANOTHER PROLOGUE.
+
+I come a pleader, in the shape of prologue:
+Let me then gain my cause, and now grown old.
+Experience the same favor as when young;
+Who then recover'd many a lost play,
+Breath'd a new life into the scenes, and sav'd
+The author and his writings from oblivion.
+Of those which first I studied of Caecilius,
+In some I was excluded; and in some
+Hardly maintain'd my ground. But knowing well
+The variable fortunes of the scene,
+I was content to hazard certain toil
+For an uncertain gain. I undertook
+To rescue those same plays from condemnation,
+And labor'd to reverse your sentence on them;
+That the same Poet might afford me more,And no ill fortune damp young Genius in him.
+My cares prevail'd; the plays were heard; and thus
+Did I restore an Author, nearly lost
+Through the malevolence of adversaries,
+To study, labor, and the Poet's art.
+But had I at that time despis'd his plays,
+Or labor'd to deter him from the task,
+It had been easy to have kept him idle,
+And to have scar'd him from attempting more:
+For my sake, therefore, deign to hear with candor
+The suit I mean to offer to you now.
+
+Once more I bring the STEP-MOTHER before you,
+Which yet in silence I might never play;
+So did confusion crush it: which confusion
+Your prudence may allay, if it will deign
+To second our endeavors.--When I first
+Began to play this piece, the sturdy Boxers,
+(The dancers on the rope expected too,)
+Th' increasing crowds, the noise and women's clamor,
+Oblig'd me to retire before my time.
+I, upon this occasion, had recourse
+To my old way. I brought it on again.
+In the first act I please: meanwhile there spreads
+A rumor of the Gladiators: then
+The people flock together, riot, roar,And fight for places. I meanwhile <i>my</i> place
+Could not maintain--To-day there's no disturbance;
+All's silence and attention; a clear stage:
+'Tis yours to give these games their proper grace.
+Let not, oh let not the Dramatic Art
+Fall to a few! let your authority
+Assist and second mine! if I for gain
+Ne'er overrated my abilities,
+If I have made it still my only care
+To be obedient to your will, oh grant
+That he who hath committed his performance
+To my defense, and who hath thrown himself
+On your protection, be not giv'n to scorn,
+And foul derision of his envious foes!
+
+Admit this plea for my sake, and be silent;
+That other Poets may not fear to write,
+That I too may hereafter find it meet
+To play new pieces bought at my expense.
+
+ACT THE FIRST.<b>SCENE I.</b>
+
+<i>PHILOTIS, SYRA.</i>
+
+PHI. Now, by my troth, a woman of the town
+Scarce ever finds a faithful lover, Syra.
+This very Pamphilus, how many times
+He swore to Bacchis, swore so solemnly
+One could not but believe him, that he never
+Would, in her lifetime, marry. See! he's married.
+
+SYRA. I warn you, therefore, and most earnestly
+Conjure you, to have pity upon none.
+But plunder, fleece, and beggar ev'ry man
+That falls into your pow'r.
+
+PHI. What! spare none?
+
+SYRA. None.
+For know, there is not one of all your sparks
+But studies to cajole you with fine speeches,
+And have his will as cheaply as he can.
+Should not you, then, endeavor to fool them?
+
+PHI. But to treat all alike is wrong.SYRA. What! wrong?
+To be reveng'd upon your enemies?
+Or to snare those who spread their snares for you?
+--Alas! why have not I your youth and beauty,
+Or you my sentiments?
+
+<b>SCENE II.</b>
+
+<i>Enter PARMENO.</i>
+
+PAR. (<i>to SCRITUS within</i>). If our old gentleman
+Asks for me, tell him I'm this very moment
+Gone to the Port to seek for Pamphilus.
+D'ye understand my meaning, Scritus? If he asks,
+Tell him that; if he should not ask, say nothing;
+That this excuse may serve another time. (<i>Comes forward.</i>
+--But is not that Philotis? Whence comes she?
+Philotis, save you!
+
+PHI. Save you, Parmeno!
+
+SYRA. Save you, good Parmeno!
+
+PAR. And save you, Syra!
+--Tell me, Philotis, where have you been gadding?
+Taking your pleasure this long time?PHI. I've taken
+No pleasure, Parmeno, indeed. I went
+With a most brutal Captain hence to Corinth,
+There have I led a wretched life with him
+For two whole years.
+
+PAR. Aye, aye, I warrant you
+That you have often wish'd to be in Athens;
+Often repented of your journey.
+
+PHI. Oh,
+'Tis quite impossible to tell how much
+I long'd to be at home, how much I long'd
+To leave the Captain, see you, revel with you,
+After the good old fashion, free and easy.
+For there I durst not speak a single word,
+But what, and when the mighty Captain pleas'd.
+
+PAR. 'Twas cruel in him thus to tie your tongue:
+At least, I'll warrant, that you thought it so.
+
+PHI. But what's this business, Parmeno? this story
+That Bacchis has been telling me within?
+I could not have believ'd that Pamphilus
+Would in her lifetime marry.PAR. Marry truly!
+
+PHI. Why he is married: is not he?
+
+PAR. He is.
+But I'm afraid 'twill prove a crazy match,
+And will not hold together long.
+
+PHI. Heav'n grant it.
+So it turn out to Bacchis's advantage!
+But how can I believe this, Parmeno?
+Tell me.
+
+PAR. It is not fit it should be told.
+Inquire no more.
+
+PHI. For fear I should divulge it?
+Now Heav'n so prosper me, as I inquire,
+Not for the sake of telling it again,
+But to rejoice within myself.
+
+PAR. All these
+Fair words, Philotis, sha'n't prevail on me
+To trust my back to your discretion.PHI. Well;
+Don't tell me, Parmeno.--As if you had not
+Much rather tell this secret than I hear it.
+
+PAR. She's in the right: I am a blab, 'tis true,
+It is my greatest failing.--Give your word
+You'll not reveal it, and I'll tell you.
+
+PHI. Now
+You're like yourself again. I give my word.
+Speak.
+
+PAR. Listen then.
+
+PHI. I'm all ear.
+
+PAR. Pamphilus
+Doted on Bacchis still as much as ever,
+When the old gentleman began to tease him
+To marry, in the common cant of fathers;
+--"That he was now grown old; and Pamphilus
+His only child; and that he long'd for heirs,
+As props of his old age." At first my master
+Withstood his instances, but as his father
+Became more hot and urgent, Pamphilus
+Began to waver in his mind, and feltA conflict betwixt love and duty in him.
+At length, by hammering on marriage still,
+And daily instances, th' old man prevail'd,
+And made a match with our next neighbor's daughter.
+Pamphilus did not take it much to heart,
+Till just upon the very brink of wedlock:
+But when he saw the nuptial rites prepar'd,
+And, without respite, he must many; then
+It came so home to him, that even Bacchis,
+Had she been present, must have pitied him.
+Whenever he could steal from company,
+And talk to me alone,--"Oh Parmeno,
+What have I done?" he'd cry.--"I'm lost forever.
+Into what ruin have I plung'd myself!
+I can not bear it, Parmeno. Ah wretch!
+I am undone."
+
+PHI. Now all the powers of heav'n
+Confound you, Laches, for thus teasing him?
+
+PAR. In short, he marries, and brings home his wife. The first night he ne'er touch'd her! nor the next.
+
+PHI. How! he a youth, and she a maidenhead!
+Tipsy, and never touch her! 'Tis not likely;
+Nor do I think it can be true.PAR. No wonder.
+For they that come to you come all desire:
+But he was bound to her against his will.
+
+PHI. What followed upon this?
+
+PAR. A few days after,
+Pamphilus, taking me aside, informs me,
+"That the maid still remain'd a maid for him;
+That he had hop'd, before he brought her home,
+He might have borne the marriage:--but resolving
+Within myself not to retain her long,
+I held it neither honesty in me,
+Nor of advantage to the maid herself,
+That I should throw her off to scorn:--but rather
+Return her to her friends, as I receiv'd her,
+Chaste and inviolate."
+
+PHI. A worthy youth,
+And of great modesty!
+
+PAR. "To make this public
+Would not, I think, do well: and to return her
+Upon her father's hands, no crime alleg'd,
+As arrogant: but she, I hope, as soon
+As she perceives she can not live with me,Will of her own accord depart."
+
+PHI. But tell me;
+Went he meanwhile to Bacchis?
+
+PAR. Every day.
+But she, as is the way you know, perceiving
+He was another's property, became
+More cross and mercenary.
+
+PHI. Troth, no wonder.
+
+PAR. Aye, but 'twas that detach'd him chiefly from her.
+For when he had examined well himself,
+Bacchis, and her at home; and had compar'd
+Their different manners; seeing that his bride,
+After the fashion of a lib'ral mind,
+Was decent, modest, patient of affronts,
+And anxious to conceal the wrongs he did her;
+Touch'd partly with compassion for his wife,
+And partly tir'd with t'other's insolence,
+He by degrees withdrew his heart from Bacchis,
+Transferring it to her, whose disposition
+Was so congenial to his own. Meanwhile
+An old relation of the family
+Dies in the isle of Imbrus. His estateComes by the law to them; and our old man
+Dispatching thither, much against his will,
+The now-fond Pamphilus, he leaves his wife
+Here with his mother. The old gentleman
+Retir'd into the country, and but seldom
+Comes up to town.
+
+PHI. But what is there in this
+That can affect the marriage?
+
+PAR. You shall hear
+Immediately. At first, for some few days,
+The women seem'd to live on friendly terms:
+Till all at once the bride, forsooth, conceiv'd
+A wonderful disgust to Sostrata:
+And yet there was no open breach between them,
+And no complaints on either side.
+
+PHI. What then?
+
+PAR. If Sostrata, for conversation' sake,
+Went to the bride, she instantly withdrew,
+Shunning her company. At length, not able
+To bear it any longer, she pretends
+Her mother had sent for her to assist
+At some home-sacrifice. Away she went.After a few days' absence, Sostrata
+Sent for her back. They made some lame excuse,
+I know not what. She sends again. No lady.
+Then after several messages, at last
+They say the gentlewoman's sick. My mistress
+Goes on a visit to her: not let in.
+Th' old gentleman, inform'd of all this, came
+On this occasion yesterday to town;
+And waited on the father of the bride.
+What pass'd between them, I as yet can't tell;
+And yet I long to know the end of this.
+--There's the whole business. Now I'll on my way.
+
+PHI. And I: for there's a stranger here, with whom
+I have an assignation.
+
+PAR. Speed the plow!
+
+PHI. Parmeno, fare you well!
+
+PAR. Farewell, Philotis! (<i>Exeunt severally.</i>
+
+[Changes:
+
+<i>Harper</i>
+  PAR. (<i>to SCRITUS within</i>).  ...
+  D'ye understand my meaning, Scritus?
+<i>Colman 1768</i>
+  PAR. (<i>to SCIRTUS within</i>).
+  ...
+  D'ye understand my meaning, Scirtus?
+
+<i>Harper</i>
+  PAR. All these
+  Fair words, Philotis, sha'n't prevail on me
+<i>Colman 1768</i>
+  PAR. No, no:
+  Fair words, Philotis, sha'n't prevail on me
+
+<i>Harper</i>
+  As arrogant: but she, I hope, as soon
+<i>Colman 1768</i>
+  Is arrogant: but she, I hope, as soon
+
+  The women seem'd to live on friendly terms:
+<i>Harper edition reads "The woman"</i>
+
+<i>Harper</i>
+  Shunning her company. At length, not able
+<i>Colman 1768</i>
+  Shunning her company. At length, unable]ACT THE SECOND.
+
+<b>SCENE I.</b>
+
+<i>LACHES, SOSTRATA.</i>
+
+LACH. Oh heav'n and earth, what animals are women!
+What a conspiracy between them all,
+To do or not do, love or hate alike!
+Not one but has the sex so strong in her,
+She differs nothing from the rest. Step-mothers
+All hate their Step-daughters: and every wife
+Studies alike to contradict her husband,
+The same perverseness running through them all.
+Each seems train'd up in the same school of mischief:
+And of that school, if any such there be,
+My wife, I think, is schoolmistress.
+
+SOSTRA. Ah me!
+Who know not why I am accus'd.
+
+LACH. Not know?
+
+SOSTRA. No, as I hope for mercy! as I hope
+We may live long together!LACH. Heav'n forbid!
+
+SOSTRA. Hereafter, Laches, you'll be sensible
+How wrongfully you have accus'd me.
+
+LACH. I?
+Accuse you wrongfully?----Is't possible
+To speak too hardly of your late behavior?
+Disgracing me, yourself, and family;
+Laying up sorrow for your absent son;
+Converting into foes his new-made friends,
+Who thought him worthy of their child in marriage.
+You've been our bane, and by your shrewishness
+Brew'd this disturbance.
+
+SOSTRA. I?
+
+LACH. You, woman, you!
+Who take me for a stone, and not a man.
+Think ye, because I'm mostly in the country,
+I'm ignorant of your proceedings here?
+No, no; I know much better what's done here,
+Than where I'm chiefly resident. Because
+Upon my family at home depends
+My character abroad. I knew long since
+Philumena's disgust to you;----no wonder!Nay, 'twere a wonder, had it not been so.
+Yet I imagin'd not her hate so strong,
+'Twould vent itself upon the family:
+Which had I dream'd of, she should have remain'd,
+And you pack'd off.--Consider, Sostrata,
+How little cause you had to vex me thus.
+In complaisance to you, and husbanding
+My fortune, I retir'd into the country:
+Scraping, and laboring beyond the bounds
+Of reason, or my age, that my estate
+Might furnish means for your expense and pleasure.
+--Was it not then your duty, in return,
+To see that nothing happen'd here to vex me?
+
+SOSTRA. 'Twas not my doing, nor my fault indeed.
+
+LACH. 'Twas your fault, Sostrata; your fault alone.
+You was sole mistress here; and in your care
+The house, though I had freed you of all other cares.
+A woman, an old woman too, and quarrel
+With a green girl! oh shame upon't!--You'll say
+That 'twas her fault.
+
+SOSTRA. Not I indeed, my Laches.LACH. 'Fore Heav'n, I'm glad on't! on my son's account. For as for you, I'm well enough assur'd, No fault can make you worse.
+
+SOSTRA. But prithee, husband,
+How can you tell that her aversion to me
+Is not a mere pretense, that she may stay
+The longer with her mother?
+
+LACH. No such thing.
+Was not your visit yesterday a proof,
+From their denial to admit you to her?
+
+SOSTRA. They said she was so sick she could not see me.
+
+LACH. Sick of your humors; nothing else, I fancy.
+And well she might: for there's not one of you
+But want your sons to take a wife: and that's
+No sooner over, but the very woman
+Which, by your instigation, they have married,
+They, by your instigation, put away.
+
+[Changes:
+
+<i>Harper</i>
+  You was sole mistress here; and in your care
+<i>Colman 1768</i>  You were sole mistress here; and in your care]
+
+<b>SCENE II.</b>
+
+<i>Enter PHIDIPPUS.</i>
+
+PHID. (<i>to PHILUMENA within</i>). Although, Philumena, I know
+my pow'r
+To force you to comply with my commands;
+Yet yielding to paternal tenderness,
+I e'en give way, nor cross your humor.
+
+LACH. See,
+Phidippus in good time! I'll learn from him
+The cause of this.-- (<i>Going up to him.</i>) Phidippus, though I own
+Myself indulgent to my family,
+Yet my complacency and easiness
+Runs not to that extreme, that my good-nature
+Corrupts their morals. Would you act like me,
+'Twould be of service to both families.
+But you, I see, are wholly in their power.
+
+PHID. See there!
+
+LACH. I waited on you yesterday
+About your daughter: but I went awayNo wiser than I came. It is not right,
+If you would have the alliance last between us,
+To smother your resentment. If we seem
+In fault, declare it; that we may refute,
+Or make amends for our offense: and you
+Shall carve the satisfaction out yourself.
+But if her sickness only is the cause
+Of her remaining in your family,
+Trust me, Phidippus, but you do me wrong,
+To doubt her due attendance at my house.
+For, by the pow'rs of heav'n, I'll not allow
+That you, although her father, wish her better
+Than I. I love her on my son's account;
+To whom, I'm well convinc'd, she is as dear
+As he is to himself: and I can tell
+How deeply 'twill affect him, if he knows this.
+Wherefore I wish she should come home again,
+Before my son's return.
+
+PHID. My good friend Laches,
+I know your care, and your benevolence;
+Nor doubt that all is as you say; and hope
+That you'll believe I wish for her return,
+So I could but effect it.LACH. What prevents it?
+Tell me, Phidippus! does she blame her husband?
+
+PHID. Not in the least. For when I urg'd it home,
+And threaten'd to oblige her to return,
+She vow'd most solemnly she could not bear
+Your house, so long as Pamphilus was absent.
+--All have their failings: I am of so soft
+A nature, I can't thwart my family.
+
+LACH. Ha, Sostrata! (<i>To SOSTRATA, apart.</i>)
+
+SOSTRA. Wretch that I am! Ah me! (<i>Aside.</i>)
+
+LACH. And her return's impossible? (<i>To PHIDIPPUS.</i>)
+
+PHID. At present.
+--Would you aught else with me? for I have business
+That calls me to the Forum.
+
+LACH. I'll go with you. (<i>Exeunt.</i><b>SCENE III.</b>
+
+<i>Manet SOSTRATA.</i>
+
+SOSTRA. How unjustly
+Do husbands stretch their censures to all wives
+For the offenses of a few, whose vices
+Reflect dishonor on the rest!--For, Heaven
+So help me, as I'm wholly innocent
+Of what my husband now accuses me!
+But 'tis no easy task to clear myself;
+So fix'd and rooted is the notion in them,
+That Step-Mothers are all severe.--Not I;
+For I have ever lov'd Philumena
+As my own daughter; nor can I conceive
+What accident has drawn her hatred on me.
+My son's return, I hope, will settle all;
+And, ah, I've too much cause to wish his coming. (<i>Exit.</i>
+
+[Changes:
+
+<i>Harper</i>
+  For the offenses of a few, whose vices
+  Reflect dishonor on the rest!--For, Heaven
+  So help me, as I'm wholly innocent
+<i>Colman 1768</i>  Because of the offences of a few,
+  Whose faults reflect dishonour on the rest!
+  --For, heav'n so help me, as I'm innocent]
+
+ACT THE THIRD.
+
+<b>SCENE I.</b>
+
+<i>Enter PAMPHILUS and PARMENO.</i>
+
+PAM. Never did man experience greater ills,
+More miseries in love than I.--Distraction!
+Was it for this I held my life so dear?
+For this was I so anxious to return?
+Better, much better were it to have liv'd
+In any place, than come to this again!
+To feel and know myself a wretch!--For when
+Mischance befalls us, all the interval
+Between its happening, and our knowledge of it,
+May be esteem'd clear gain.
+
+PAR. But as it is,
+You'll sooner be deliver'd from your troubles:
+For had you not return'd, the breach between them
+Had been made wider. But now, Pamphilus,
+Both will, I doubt not, reverence your presence.You'll know the whole, make up their difference,
+And reconcile them to each other.--These
+Are all mere trifles, which you think so grievous.
+
+PAM. Ah, why will you attempt to comfort me?
+Was ever such a wretch?--Before I married,
+My heart, you know, was wedded to another.
+--But I'll not dwell upon that misery,
+Which may he easily conceiv'd: and yet
+I had not courage to refuse the match
+My father forc'd upon me.--Scarcely wean'd
+From my old love, my lim'd soul scarcely freed
+From Bacchis, and devoted to my wife,
+Than, lo, a new calamity arises,
+Threatening to tear me from Philumena.
+For either I shall find my mother faulty,
+Or else my wife: In either case unhappy.
+For duty, Parmeno, obliges me
+To bear with all the failings of a mother:
+And then I am so bounden to my wife,
+Who, calm as patience, bore the wrongs I did her,
+Nor ever murmur'd a complaint.--But sure
+'Twas somewhat very serious, Parmeno,
+That could occasion such a lasting quarrel.PAR. Rather some trifle, if you knew the truth.
+The greatest quarrels do not always rise
+From deepest injuries. We often see
+That what would never move another's spleen
+Renders the choleric your worst of foes.
+Observe how lightly children squabble.--Why?
+Because they're govern'd by a feeble mind.
+Women, like children, too, are impotent,
+And weak of soul. A single word, perhaps,
+Has kindled all this enmity between them.
+
+PAM. Go, Parmeno, and let them know I'm come.
+
+(<i>Noise within.</i>)
+
+PAR. Ha! what's all this?
+
+PAM. Hush!
+
+PAR. I perceive a bustle,
+And running to and fro.--Come this way, Sir!
+--To the door!--nearer still!--There, there, d'ye hear?
+
+(<i>Noise continues.</i>)
+
+PAM. Peace; hush! (<i>Shriek within.</i>) Oh Jupiter, I heard a shriek!PAR. You talk yourself, and bid me hold my tongue.
+
+MYRRHINA (<i>within</i>). Hush, my dear child, for Heaven's sake!
+
+PAM. It seem'd
+The voice of my wife's mother. I am ruin'd!
+
+PAR. How so?
+
+PAM. Undone!
+
+PAR. And why?
+
+PAM. Ah, Parmeno,
+They hide some terrible misfortune from me!
+
+PAR. They said your wife Philumena was ill:
+Whether 'tis that, I can not tell.
+
+PAM. Death, Sirrah!
+Why did you not inform me that before?
+
+PAR. Because I could not tell you all at once.
+
+PAM. What's her disorder?PAR. I don't know.
+
+PAM. But tell me,
+Has she had no physician?
+
+PAR. I don't know.
+
+PAM. But why do I delay to enter straight,
+That I may learn the truth, be what it will?
+--Oh my Philumena, in what condition
+Shall I now find thee?--If there's danger of thee,
+My life's in danger too. (<i>Exit.</i>
+
+SCENE II.
+
+<i>PARMENO alone.</i>
+
+It were not good
+That I should follow him into the house:
+For all our family are odious to them.
+That's plain from their denying Sostrata
+Admittance yesterday.--And if by chance
+Her illness should increase (which Heav'n forbid,
+For my poor master's sake!), they'll cry directly,
+"Sostrata's servant came into the house:"
+Swear,--"that I brought the plague along with me,Put all their lives in danger, and increas'd
+Philumena's distemper."--By which means
+My mistress will be blam'd, and I be beaten.
+
+<b>SCENE III.</b>
+
+<i>Enter SOSTRATA.</i>
+
+SOSTRA. Alas, I hear a dreadful noise within.
+Philumena, I fear, grows worse and worse:
+Which AEsculapius, and thou, Health, forbid!
+But now I'll visit her. (<i>Goes toward the house.</i>)
+
+PAR. Ho, Sostrata!
+
+SOSTRA. Who's there?
+
+PAR. You'll be shut out a second time.
+
+SOSTRA. Ha, Parmeno, are you there?--Wretched woman! What shall I do?--Not visit my son's wife, When she lies sick at next door!
+
+PAR. Do not go;
+No, nor send any body else; for they
+That love the folks, to whom themselves are odious,
+I think are guilty of a double folly:Their labor proves but idle to themselves,
+And troublesome to those for whom 'tis meant.
+Besides, your son, the moment he arriv'd,
+Went in to visit her.
+
+SOSTRA. How, Parmeno!
+Is Pamphilus arriv'd?
+
+PAR. He is.
+
+SOSTRA. Thank Heav'n!
+Oh, how my comfort is reviv'd by that!
+
+PAR. And therefore I ne'er went into the house.
+For if Philumena's complaints abate,
+She'll tell him, face to face, the whole affair,
+And what has pass'd between you to create
+This difference.--But here he comes--how sad!
+
+SCENE IV.
+
+<i>Enter PAMPHILUS.</i>
+
+SOSTRA. My dear boy, Pamphilus!
+
+PAM. My mother, save you! (<i>Disordered.</i>)SOSTRA. I'm glad to see you safe return'd--How does
+Your wife!
+
+PAM. A little better.
+
+SOSTRA. Grant it, Heav'n!
+--But why d'ye weep, and why are you so sad?
+
+PAM. Nothing, good mother.
+
+SOSTRA. What was all that bustle?
+Tell me, did pain attack her suddenly?
+
+PAM. It did.
+
+SOSTRA. And what is her complaint?
+
+PAM. A fever.
+
+SOSTRA. What! a quotidian?
+
+PAR. So they say.--But in,
+Good mother, and I'll follow.
+
+SOSTRA. Be it so. (<i>Exit.</i>PAM. Do you run, Parmeno, to meet the servants,
+And give your help in bringing home the baggage.
+
+PAR. As if they did not know the road!
+
+PAM. Away! (<i>Exit PARMENO.</i>
+
+<b>SCENE V.</b>
+
+<i>PAMPHILUS alone.</i>
+
+Which way shall I begin the wretched tale
+Of my misfortunes, which have fall'n upon me
+Thus unexpectedly? which even now
+These very eyes have seen, these ears have heard?
+And which, discover'd, drove me out o'doors.
+Cover'd with deep confusion?--For but now
+As I rush'd in, all anxious for my wife,
+And thinking to have found her visited,
+Alas! with a far different complaint;
+Soon as her women saw me, at first sight
+Struck and o'erjoy'd, they all exclaim'd, "He's come!"
+And then as soon each countenance was chang'd,
+That chance had brought me so unseasonably.
+Meanwhile one of them ran before, to speak
+Of my arrival. I, who long'd to see her,Directly follow'd; and no sooner enter'd,
+Than her disorder was, alas! too plain:
+For neither had they leisure to disguise it,
+Nor could she silence the loud cries of travail.
+Soon as I saw it, "Oh shame, shame!" I cried,
+And rush'd away in tears and agony,
+O'erwhelm'd with horror at a stroke so grievous.
+The mother follows me, and at the threshold
+Falls on her knees before me all in tears.
+This touch'd me to the soul. And certainly
+'Tis in the very nature of our minds,
+To rise and fall according to our fortunes.
+Thus she address'd me.-- "Oh, my Pamphilus,
+The cause of her removal from your house
+You've now discover'd. To my virgin-daughter
+Some unknown villain offer'd violence;
+And she fled hither to conceal her labor
+From you and from your family."--Alas!
+When I but call her earnest prayers to mind,
+I can not choose but weep.--"Whatever chance,"
+Continued she, "whatever accident,
+Brought you to-day thus suddenly upon us,
+By that we both conjure you--if in justice
+And equity we may--to keep in silence,
+And cover her distress.--Oh, Pamphilus,If e'er you witness'd her affection for you,
+By that affection she implores you now
+Not to refuse us!--for recalling her,
+Do as your own discretion shall direct.
+That she's in labor now, or has conceiv'd
+By any other person, is a secret
+Known but to you alone. For I've been told,
+The two first months you had no commerce with her,
+And it is now the seventh since your union.
+Your sentiments on this are evident.
+But now, my Pamphilus, if possible,
+I'll call it a miscarriage: no one else
+But will believe, as probable, 'tis yours.
+The child shall be immediately expos'd.
+No inconvenience will arise to you;
+While thus you shall conceal the injury
+That my poor girl unworthily sustain'd."
+--I promis'd her; and I will keep my word.
+But to recall her would be poor indeed:
+Nor will I do it, though I love her still.
+And former commerce binds me strongly to her.
+--I can't but weep, to think how sad and lonely
+My future life will be.--Oh fickle fortune!
+How transient are thy smiles!--But I've been school'd
+To patience by my former hapless passion,Which I subdued by reason: and I'll try
+By reason to subdue this too.--But yonder
+Comes Parmeno, I see, with th' other slaves!
+He must by no means now be present, since
+To him alone I formerly reveal'd
+That I abstain'd from her when first we married:
+And if he hears her frequent cries, I fear
+That he'll discover her to be in labor.
+I must dispatch him on some idle errand,
+Until Philumena's deliver'd.<b>SCENE VI.</b>
+
+<i>Enter at a distance PARMENO, SOSIA, and other slaves with baggage.</i>
+
+PAR. (<i>to SOSIA</i>). Aye?
+And had you such a wretched voyage, say you?
+
+SOSIA. Oh Parmeno, words can't express how wretched
+A sea-life is.
+
+PAR. Indeed?
+
+SOSIA. Oh happy Parmeno!
+You little know the dangers you've escap'd,
+Who've never been at sea.--For not to dwell
+On other hardships, only think of this!
+I was on shipboard thirty days or more,
+In constant fear of sinking all the while,
+The winds so contrary, such stormy weather!
+
+PAR. Dreadful!
+
+SOSIA. I found it so, I promise you.
+In short, were I assur'd I must return,
+'Fore Heaven, Parmeno, I'd run away,
+Rather than go on board a ship again.PAR. You have been apt enough to think of that
+On slighter reasons, Sosia, before now.
+--But yonder's my young master Pamphilus
+Standing before that door.--Go in! I'll to him,
+And see if he has any business for me.
+
+(<i>Exeunt SOSIA, and the rest of the slaves with the baggage.</i>
+
+Master, are you here still? (<i>To PAMPHILUS.</i>)
+
+PAM. Oh Parmeno!
+I waited for you.
+
+PAR. What's your pleasure, Sir?
+
+PAM. Run to the Citadel.
+
+PAR. Who?
+
+PAM. You.
+
+PAR. The Citadel!
+For what?
+
+PAM. Find out one Callidemides,
+My landlord of Mycone, who came overIn the same ship with me.
+
+PAR. A plague upon it!
+Would not one swear that he had made a vow
+To break my wind, if he came home in safety,
+With running on his errands?
+
+PAM. Away, Sirrah!
+
+PAR. What message? must I only find him out?
+
+PAM. Yes; tell him that it is not in my power
+To meet him there to-day, as I appointed;
+That he mayn't wait for me in vain.--Hence; fly!
+
+PAR. But I don't know him, if I see him, Sir.
+
+PAM. (<i>impatiently</i>). Well; I'll describe him, so you can not miss him. --A large, red, frizzle-pated, gross, blear-eyed, Ill-looking fellow.
+
+PAR. Plague on him, say I!
+--What if he should not come, Sir, must I wait
+Till evening for him?
+
+PAM. Wait.--Be quick!PAR. Be quick?
+I can't be quick,--I'm so much tir'd. (<i>Exit.</i>
+
+SCENE VII.
+
+<i>PAMPHILOS alone.</i>
+
+He's gone.
+What shall I do? Alas! I scarcely know
+How to conceal, as Myrrhina desir'd,
+Her daughter's labor. Yet I pity her;
+And what I can, I am resolv'd to do,
+Consistent with my duty: for my parents
+Must be obey'd before my love.--But see!
+My father and Phidippus come this way.
+How I shall act, Heav'n knows.
+
+[Changes:
+
+<i>Harper</i>
+  And what I can, I am resolv'd to do,
+  Consistent with my duty: for my parents
+<i>Colman 1768</i>
+  And what I can, consistent with my duty,
+  I am resolv'd to do: and yet my parents<b>SCENE VIII.</b>
+
+<i>Enter at a distance LACHES and PHIDIPPUS.</i>
+
+LACH. Did not you say
+She only waited my son's coming?
+
+PHID. Aye.
+
+LACH. They say that he's arriv'd. Let us return then!
+
+PAM. (<i>behind</i>). What reason I shall frame to give my father, For not recalling her, I can not tell.
+
+LACH. (<i>overhearing</i>). Whose voice was that?
+
+PAM. (<i>to himself</i>). And yet I am resolv'd
+To stand to my first purpose.
+
+LACH. (<i>seeing PAMPHILUS</i>). He himself,
+Whom I was speaking of!
+
+PAM. (<i>going up</i>). My father, save you!
+
+LACH. Save you, my son!PHID. Pamphilus, welcome home!
+I'm glad to see you safe, and in good health.
+
+PAM. I do believe it.
+
+LACH. Are you just now come?
+
+PAM. Just now, Sir.
+
+LACH. Well; and tell me, Pamphilus,
+What has our kinsman Phania left us?
+
+PAM. Ah, Sir,
+He, his whole lifetime, was a man of pleasure,
+And such men seldom much enrich their heirs.
+Yet he has left at least this praise behind him,
+"While he liv'd, he liv'd well."
+
+LACH. And have you brought
+Nothing home with you but this single sentence?
+
+PAM. What he has left, though small, is of advantage.
+
+LACH. Advantage? No, it is a disadvantage:
+For I could wish he was alive and well.PHID. That you may safely; for your wishing for't
+Will never bring the man to life again:
+Yet I know well enough which you'd like best. (<i>Aside.</i>)
+
+LACH. (<i>to PAMPHILUS</i>). Phidippus order'd that Philumena Should be sent over to him yesterday. --Say that you order'd it. (<i>Aside to PHIDIPPUS, thrusting him.</i>)
+
+PHID. (<i>aside to LACHES</i>). Don't thrust me so.----
+I did. (<i>Aloud.</i>)
+
+LACH. But now he'll send her home again.
+
+PHID. I will.
+
+PAM. Nay, nay, I know the whole affair.
+Since my arrival, I have heard it all.
+
+LACH. Now plague upon these envious tale-bearers,
+Who are so glad to fetch and carry news!
+
+PAM. (<i>to PHIDIPPUS</i>). That I've endeavor'd to deserve no blame
+From any of the family, I'm conscious.
+Were it my inclination to relate
+How true I've been, how kind and gentle tow'rd her,
+I well might do it: but I rather chooseYou should collect it from herself. For when
+She, although now there's enmity between us,
+Bespeaks me fair, you will the sooner credit
+My disposition tow'rd her. And I call
+The Gods to witness that this separation
+Has not arisen from my fault. But since
+She thinks it is beneath her to comply
+With Sostrata, and bear my mother's temper;
+And since no other means are to be found
+Of reconciliation, I, Phidippus,
+Must leave my mother or Philumena.
+Duty then calls me to regard my mother.
+
+LACH. My Pamphilus, I can not be displeas'd
+That you prefer to all the world a parent.
+But take heed your resentment don't transport you
+Beyond the bounds of reason, Pamphilus.
+
+PAM. Ah, what resentment can I bear to her,
+Who ne'er did any thing I'd wish undone,
+But has so often deserv'd well of me?
+I love her, own her worth, and languish for her;
+For I have known her tenderness of soul:
+And Heaven grant that with some other husband
+She find that happiness she miss'd in me;
+From whom the strong hand of necessityDivorces her forever!
+
+PHID. That event
+'Tis in your pow'r to hinder.
+
+LACH. If you're wise,
+Take your wife home again!
+
+PAM. I can not, father.
+I must not slack my duty to my mother. (<i>Going.</i>)
+
+LACH. Where are you going? (<i>Exit PAMPHILUS.</i>
+
+<b>SCENE IX.</b>
+
+<i>Manent LACHES and PHIDIPPUS.</i>
+
+PHID. How perverse is this! (<i>Angrily.</i>)
+
+LACH. Did not I say he'd take it ill, Phidippus,
+And therefore begg'd you to send back your daughter?
+
+PHID. 'Fore Heaven I did not think him such a churl.
+What! does he fancy I'll go cringing to him?
+No;--if he'll take his wife he may:--if not,
+Let him refund her portion;--there's an end!LACH. See there now! you're as fractious as himself.
+
+PHID. You're come back obstinate and proud enough
+In conscience, Pamphilus! (<i>Angrily.</i>)
+
+LACH. This anger will subside,
+Though he has had some cause to be disturb'd.
+
+PHID. Because you've had a little money left you,
+Your minds are so exalted!
+
+LACH. What, d'ye quarrel
+With me too?
+
+PHID. Let him take to-day to think on't,
+And send me word if he shall have her home
+Or not: that if she don't remain his wife,
+She may be given to another. (<i>Exit hastily.</i>
+
+SCENE X.
+
+<i>LACHES alone.</i>
+
+Stay!
+Hear me! one word, Phidippus! Stay!--He's gone.
+--What is't to me? (<i>Angrily.</i>) E'en let them settle itAmong themselves; since nor my son, nor he
+Take my advice, nor mind one word I say.
+--This quarrel shall go round, I promise them:
+I'll to my wife, the author of this mischief,
+And vent my spleen and anger upon her. (<i>Exit.</i>
+
+ACT THE FOURTH.
+
+SCENE I.
+
+<i>Enter MYRRHINA hastily.</i>
+
+MYRR. What shall I do?--Confusion!--which way turn?
+Alas! what answer shall I make my husband?
+For I dare say he heard the infant's cries,
+He ran so hastily, without a word,
+Into my daughter's chamber. If he finds
+That she has been deliver'd, what excuse
+To make, for having thus conceal'd her labor,
+I can't devise.--But our door creaks!--'tis he.
+I am undone.<b>SCENE II.</b>
+
+<i>Enter PHIDIPPUS.</i>
+
+PHID. Soon as my wife perceiv'd
+That I was going to my daughter's chamber,
+She stole directly out o'doors.--But there
+She stands.--Why, how now, Myrrhina?
+Holo, I say! (<i>She affects not to see him.</i>)
+
+MYRR. D'ye call me, husband?
+
+PHID. Husband!
+Am I your husband? am I ev'n a man?
+For had you thought me to be either, woman,
+You would not dare to play upon me thus.
+
+MYRR. How!
+
+PHID. How?--My daughter has been brought to bed.
+--Ha! are you dumb?--By whom?
+
+MYRR. Is that a question
+For you, who are her father, to demand?
+Alas! by whom d'ye think, unless her husband?PHID. So I believe: nor is it for a father
+To suppose otherwise. But yet I wonder
+That you have thus conceal'd her labor from us,
+Especially as she has been deliver'd
+At her full time, and all is as it should be.
+What! Is there such perverseness in your nature,
+As rather to desire the infant's death,
+Than that his birth should knit the bond of friendship
+Closer betwixt us; rather than my daughter,
+Against your liking, should remain the wife
+Of Pamphilus?--I thought all this
+Had been their fault, while you're alone to blame.
+
+MYRR. How wretched am I!
+
+PHID. Would to Heav'n you were!
+--But now I recollect your conversation
+When first we made this match, you then declar'd
+You'd not endure she should remain the wife
+Of Pamphilus, who follow'd mistresses,
+And pass'd the nights abroad.
+
+MYRR. I had much rather
+He should think any reason than the true one. (<i>Aside.</i>)PHID. I knew he kept a mistress; knew it long
+Ere you did, Myrrhina; but I could never
+Think that offense so grievous in a youth,
+Seeing 'tis natural to them all: and soon
+The time shall come when he'll stand self-reprov'd.
+But you, perverse and willful as at first,
+Could take no rest till you had brought away
+Your daughter, and annull'd the match I made:
+There's not a circumstance but loudly speaks
+Your evil disposition to the marriage.
+
+MYRR. D'ye think me then so obstinate, that I,
+Who am her mother, should betray this spirit,
+Granting the match were of advantage to us?
+
+PHID. Is it for you then to foresee, or judge
+What's of advantage to us? You perhaps
+Have heard from some officious busy-body,
+That they have seen him going to his mistress,
+Or coming from her house: and what of that,
+So it were done discreetly, and but seldom?
+Were it not better that we should dissemble
+Our knowledge of it, than pry into things
+Which to appear to know would make him hate us?
+For could he tear her from his heart at once,
+To whom he'd been so many years attach'd,I should not think he were a man, or likely
+To prove a constant husband to my daughter.
+
+MYRR. No more of Pamphilus or my offense;
+Since you will have it so!--Go, find him out;
+Confer with him alone, and fairly ask him,
+Will he, or no, take back Philumena?
+If he avows his inclination to't,
+Restore her; but if he refuses it,
+Allow, I've ta'en good counsel for my child.
+
+PHID. Grant, he should prove repugnant to the match,
+Grant, you perceiv'd this in him, Myrrhina;
+Was not I present! had not I a right
+To be consulted in't?--It makes me mad.
+That you should dare to act without my order:
+And I forbid you to remove the child
+Out of this house.--But what a fool am I,
+Enjoining her obedience to my orders!
+I'll in, and charge the servants not to suffer
+The infant to be carried forth. (<i>Exit.</i>
+
+SCENE III.
+
+<i>MYRRHINA alone.</i>No woman more unhappy than myself:
+For how he'd bear it, did he know the whole,
+When he has taken such offense at this,
+Which is of much less consequence, is plain.
+Nor by what means to reconcile him to it,
+Can I devise. After so many ills,
+This only misery there yet remain'd,
+To be oblig'd to educate the child,
+Ignorant of the father's quality.
+For he, the cruel spoiler of her honor,
+Taking advantage of the night and darkness,
+My daughter was not able to discern
+His person; nor to force a token from him,
+Whereby he might be afterward discover'd:
+But he, at his departure, pluck'd by force
+A ring from off her finger.--I fear too,
+That Pamphilus will not contain himself,
+Nor longer keep our secret, when he finds
+Another's child acknowledg'd for his own. (<i>Exit.</i><b>SCENE IV.</b>
+
+<i>SOSTRATA, PAMPHILUS.</i>
+
+SOSTRA. Dear son, I'm not to learn that you suppose,
+Though you dissemble your suspicions to me,
+That my ill-humor caus'd your wife's departure.
+But by my trust in Heav'n, and hopes in you,
+I never knowingly did any thing
+To draw her hatred and disgust upon me.
+I always thought you lov'd me, and to-day
+You have confirm'd my faith: for even now
+Your father has been telling me within,
+How much you held me dearer than your love.
+Now therefore, on my part, I am resolv'd
+To equal you in all good offices;
+That you may know your mother ne'er withholds
+The just rewards of filial piety;
+Finding it then both meet for your repose,
+My Pamphilus, as well as my good name,
+I have determin'd to retire directly
+From hence into the country with your father;
+So shall my presence be no obstacle,
+Nor any cause remain, but that your wife
+Return immediately.PAM. What thoughts are these?
+Shall her perverseness drive you out of town?
+It shall not be: Nor will I draw, good mother,
+That censure on me, that my obstinacy,
+Not your good-nature, was the cause.--Besides,
+That you should quit relations, friends, diversions,
+On my account, I can't allow.
+
+SOSTRA. Alas!
+Those things have no allurements for me now.
+While I was young, and 'twas the season for them,
+I had my share, and I am satisfied.
+'Tis now my chief concern to make my age
+Easy to all, that no one may regret
+My lengthen'd life, nor languish for my death.
+Here, although undeservedly, I see
+My presence odious: I had best retire:
+So shall I best cut off all discontent,
+Absolve myself from this unjust suspicion,
+And humor them. Permit me then to shun
+The common scandal thrown upon the sex.
+
+PAM. How fortunate in every thing but one,
+Having so good a mother,--such a wife!SOSTRA. Patience, my Pamphilus! Is't possible
+You can't endure one inconvenience in her?
+If in all else, as I believe, you like her,
+Dear son, be rul'd by me, and take her home!
+
+PAM. Wretch that I am!
+
+SOSTRA. And I am wretched too:
+For this grieves me, my son, no less than you.
+
+[Changes:
+
+<i>Harper</i>
+  Finding it then both meet for your repose,
+  My Pamphilus, as well as my good name
+<i>Colman 1768</i>
+  Finding it then both meet, my Pamphilus,
+  For your repose, as well as my good name]<b>SCENE V.</b>
+
+<i>Enter LACHES.</i>
+
+LACH. I have been standing at a distance, wife,
+And overheard your conversation with him.
+You have done wisely to subdue your temper,
+And freely to comply with what, perhaps,
+Hereafter must be done.
+
+SOSTRA. And let it be!
+
+LACH. Now then retire with me into the country:
+There I shall bear with you, and you with me.
+
+SOSTRA. I hope we shall.
+
+LACH. Go in then, and pack up
+The necessaries you would carry with you.
+Away!
+
+SOSTRA. I shall obey your orders. (<i>Exit.</i>
+
+PAM. Father!
+
+LACH. Well, Pamphilus?PAM. My mother leave the town?
+By no means.
+
+LACH. Why?
+
+PAM. Because I'm yet uncertain
+What I shall do about my wife.
+
+LACH. How's that?
+What <i>would</i> you do but take her home again?
+
+PAM. 'Tis what I wish for, and can scarce forbear it.
+But I'll not alter what I first design'd.
+What's best I'll follow: and I'm well convinc'd
+That there's no other way to make them friends,
+But that I should not take her home again.
+
+LACH. You don't know that: but 'tis of no importance
+Whether they're friends or not, when Sostrata
+Is gone into the country. We old folks
+Are odious to the young. We'd best retire.
+In short, we're grown a by-word, Pamphilus,
+"The old man and old woman."--But I see
+Phidippus coming in good time. Let's meet him!
+
+[Changes:<i>Harper</i>
+  PAM. 'Tis what I wish for, and can scarce forbear it.
+<i>Colman 1768</i>
+  PAM. 'Tis what I wish for, and can scarce forbear.
+
+<i>Harper</i>
+  That there's no other way to make them friends
+<i>Colman 1768</i>
+  No other means remain to make them friends]<b>SCENE VI.</b>
+
+<i>Enter PHIDIPPUS.</i>
+
+PHID. (<i>to PHILUMENA within</i>). I'm angry with you--'fore Heaven, very
+    angry,
+Philumena!--You've acted shamefully.
+Though you indeed have some excuse for't, seeing
+Your mother urg'd you to't; but she has none.
+
+LACH. You're come upon us in good time, Phidippus;
+Just in the time we wanted you.
+
+PHID. What now?
+
+PAM. What answer shall I give them! how explain? (<i>Aside.</i>)
+
+LACH. Inform your daughter, Sostrata will hence
+Into the country; so Philumena
+Need not dread coming home again.
+
+PHID. Ah, friend!
+Your wife has never been in fault at all:
+All this has sprung from my wife Myrrhina.
+The case is alter'd. She confounds us, Laches.PAM. So that I may not take her home again,
+Confound affairs who will! (<i>Aside.</i>)
+
+PHID. I, Pamphilus,
+Would fain, if possible, make this alliance
+Perpetual between our families.
+But if you can not like it, take the child.
+
+PAM. He knows of her delivery. Confusion! (<i>Aside.</i>)
+
+LACH. The child! what child?
+
+PHID. We've got a grandson, Laches.
+For when my daughter left your house, she was
+With child, it seems, although I never knew it
+Before this very day.
+
+LACH. 'Fore Heav'n, good news!
+And I rejoice to hear a child is born,
+And that your daughter had a safe delivery.
+But what a woman is your wife, Phidippus?
+Of what a disposition? to conceal
+Such an event as this? I can't express
+How much I think she was to blame.
+
+PHID. This pleases me no more than you, good Laches.

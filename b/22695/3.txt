@@ -1,0 +1,1995 @@
+HOLB1	22695	3	240	80	700	150
+4	Prologue.
+7	Act The Firs, Scene I. SIMO, SOSIA, and SERVAN
+18	Act The Firs, Scene II. Enter DAVUS.
+22	Act The Firs, Scene III. Davus.
+25	Act The Firs, Scene V. PAMPHILUS, MYSIS behind
+31	Act The Seco, Scene I. Charinus, Byrrhia.
+33	Act The Seco, Scene II. Enter PAMPHILUS.
+36	Act The Seco, Scene III. Enter DAVUS hastily.
+42	Act The Seco, Scene IV. Pamphilus. Davus.
+47	Act The Seco, Scene VI. Enter BYRRHIA behind.
+50	Act The Seco, Scene VII. Manent SIMO and DAVUS
+55	Act The Thir, Scene II. Manent SIMO, DAVUS.
+57	Act The Thir, Scene IV.
+63	Act The Thir, Scene V. Enter CHREMES.
+67	Act The Thir, Scene VI. Enter DAVUS.
+71	Act The Thir, Scene VIII. Enter PAMPHILUS; DAV
+74	Act The Four, Scene I. CHARINUS alone.
+75	Act The Four, Scene II. To him PAMPHILUS and D
+80	Act The Four, Scene III. Enter MYSIS.
+86	Act The Four, Scene VI. Re-enter DAVUS with th
+89	Act The Four, Scene VII. Enter CHREMES going t
+96	Act The Four, Scene IX. Enter CRITO.
+99	Act The Fift, Scene I. Chremes, Simo.
+101	Act The Fift, Scene II. Enter DAVUS from GLYCE
+107	Act The Fift, Scene V. Enter PAMPHILUS.
+110	Act The Fift, Scene VI. Re-enter PAMPHILUS wit
+120	Act The Fift, Scene VIII. Enter DAVUS.
+124	Prologue.
+127	Act The Firs, Scene I. Enter PHAEDRIA and PARM
+129	Act The Firs, Scene II. Enter THAIS.
+139	Act The Seco, Scene I. Phaedria, Parmeno.
+143	Act The Seco, Scene II. Enter GNATHO leading P
+150	Act The Seco, Scene III. Enter CHAEREA; PARMEN
+162	Act The Seco, Scene III. Labeled SCENE IV in 1
+165	Act The Thir, Scene I. Enter THRASO and GNATHO
+173	Act The Thir, Scene II. Enter THAIS and PYTHIA
+180	Act The Thir, Scene III. CHREMES alone.
+184	Act The Thir, Scene V. ANTIPHO alone.
+186	Act The Thir, Scene VI. Enter CHAEREA, in the 
+194	Act The Four, Scene I. Enter DORIAS, with a Ca
+196	Act The Four, Scene II. Enter PHAEDRIA.
+197	Act The Four, Scene III. Enter PYTHIAS and DOR
+200	Act The Four, Scene IV.
+208	Act The Four, Scene VI. Enter CHREMES tipsy.
+210	Act The Four, Scene VII. Enter THAIS.
+215	Act The Four, Scene VIII. Enter THRASO, GNATHO
+223	Act The Fift, Scene I. THAIS and PYTHIAS.
+226	Act The Fift, Scene II. Enter CHAEREA.
+234	Act The Fift, Scene III. Pythias, Chremes, Sop
+236	Act The Fift, Scene IV. Enter PARMENO.
+237	Act The Fift, Scene V. Pythias, Parmeno.
+242	Act The Fift, Scene VI. Enter LACHES.
+246	Act The Fift, Scene VII. Enter PYTHIAS; PARMEN
+250	Act The Fift, Scene VIII. Enter THRASO, GNATHO
+252	Act The Fift, Scene IX. Enter CHAEREA at anoth
+255	Act The Fift, Scene X. Enter PHAEDRIA.
+264	Prologue.
+267	Act The Firs, Scene I. Chremes, Menedemus.
+276	Act The Firs, Scene II. CHREMES alone.
+277	Act The Firs, Scene III. Enter CLITIPHO, speak
+281	Act The Firs, Scene IV. CLITIPHO alone.
+283	Act The Seco, Scene I. Enter CLINIA.
+285	Act The Seco, Scene II. Enter SYRUS and DROMO,
+299	Act The Seco, Scene III. Enter BACCHIS, and AN
+303	Act The Thir, Scene II. Enter MENEDEMUS.
+311	Act The Thir, Scene III. Enter SYRUS at anothe
+317	Act The Thir, Scene V. Enter CLITIPHO, and CHR
+321	Act The Thir, Scene VI. Chremes, Syrus.
+325	Act The Thir, Scene VII. Enter at a distance S
+332	Act The Four, Scene I. SYRUS, alone.
+333	Act The Four, Scene II. Enter CLINIA at anothe
+338	Act The Four, Scene III.
+344	Act The Four, Scene V. After which, enter CHRE
+351	Act The Four, Scene VI. Enter CLITIPHO.
+356	Act The Four, Scene IX. Enter MENEDEMUS.
+362	Act The Fift, Scene II. Enter CHREMES.
+372	Act The Fift, Scene III. Re-enter MENEDEMUS, w
+375	Act The Fift, Scene IV. Manent CLITIPHO, SYRUS
+379	Act The Fift, Scene VI. Enter CHREMES, SOSTRAT
+382	Act The Fift, Scene VII. Enter CLITIPHO.
+384	Act The Fift, Scene VIII. Enter MENEDEMUS.
+388	Prologue.
+390	Act The Firs, Scene I. Enter MICIO.
+394	Act The Firs, Scene II. Enter DEMEA.
+401	Act The Firs, Scene III. MICIO alone.
+402	Act The Seco, Scene I.
+408	Act The Seco, Scene II. SANNIO alone.
+409	Act The Seco, Scene III. Enter SYRUS.
+413	Act The Seco, Scene IV. Enter CTESIPHO at anot
+415	Act The Seco, Scene V. Enter AESCHINUS.
+418	Act The Thir, Scene I. Sostrata, Canthara.
+420	Act The Thir, Scene II. Enter GETA hastily at 
+426	Act The Thir, Scene III. Enter DEMEA.
+427	Act The Thir, Scene IV. Enter SYRUS at another
+437	Act The Thir, Scene VI. Enter HEGIO, GETA conv
+444	Act The Four, Scene I. Ctesipho, Syrus.
+447	Act The Four, Scene II. Enter DEMEA at another
+455	Act The Four, Scene IV. Enter MICIO and HEGIO.
+457	Act The Four, Scene V. AESCHINUS alone.
+459	Act The Four, Scene VI. Enter MICIO.
+469	Act The Four, Scene IX. Enter MICIO.
+475	Act The Four, Scene XI. Enter at a distance SY
+478	Act The Four, Scene XIV. Enter MICIO from SOST
+484	Act The Fift, Scene I. DEMEA alone.
+488	Act The Fift, Scene IV. Enter AESCHINUS.
+490	Act The Fift, Scene V. Enter MICIO.
+496	Act The Fift, Scene VI. To them SYRUS.
+501	Prologue.
+505	Act The Firs, Scene I. Philotis, Syra.
+506	Act The Firs, Scene II. Enter PARMENO.
+516	Act The Seco, Scene I. Laches, Sostrata.
+520	Act The Seco, Scene II. Enter PHIDIPPUS.
+523	Act The Seco, Scene III. Manet SOSTRATA.
+524	Act The Thir, Scene I. Enter PAMPHILUS and PAR
+529	Act The Thir, Scene III. Enter SOSTRATA.
+532	Act The Thir, Scene V. PAMPHILUS alone.
+536	Act The Thir, Scene VI.
+540	Act The Thir, Scene VIII. Enter at a distance 
+544	Act The Thir, Scene IX. Manent LACHES and PHID
+547	Act The Four, Scene II. Enter PHIDIPPUS.
+552	Act The Four, Scene IV. Sostrata, Pamphilus.
+555	Act The Four, Scene V. Enter LACHES.
+558	Act The Four, Scene VI. Enter PHIDIPPUS.
+564	Act The Four, Scene VII. Manent PHIDIPPUS, LAC
+566	Act The Four, Scene VIII. Enter BACCHIS attend
+570	Act The Four, Scene IX. Enter PHIDIPPUS and a 
+576	Act The Fift, Scene III. BACCHIS alone.
+578	Act The Fift, Scene IV. Enter at a distance PA
+583	Prologue.
+586	Act The Firs, Scene I. DAVUS alone.
+587	Act The Firs, Scene II. Enter GETA.
+596	Act The Firs, Scene III. Antipho, Phaedria.
+598	Act The Firs, Scene IV. Enter at a distance _G
+605	Act The Firs, Scene VI. Enter DEMIPHO at anoth
+613	Act The Seco, Scene I. Phormio, Geta.
+617	Act The Seco, Scene II.
+626	Act The Seco, Scene III.
+629	Act The Seco, Scene IV. Enter at a distance AN
+632	Act The Seco, Scene V. Enter, from Dorio's, DO
+639	Act The Seco, Scene VI. Phaedria, Antipho, Get
+644	Act The Thir, Scene I. Enter DEMIPHO and CHREM
+646	Act The Thir, Scene II. Enter, at another part
+647	Act The Thir, Scene III. Enter behind, ANTIPHO
+655	Act The Thir, Scene IV. Manent ANTIPHO, GETA.
+658	Act The Thir, Scene V. Re-enter DEMIPHO and CH
+660	Act The Thir, Scene VI. Enter SOPHRONA at a di
+665	Act The Four, Scene I. Demipho, Geta.
+667	Act The Four, Scene III. Enter DEMIPHO and NAU
+669	Act The Four, Scene IV. Enter CHREMES, hastily
+675	Act The Four, Scene VII. Enter, at a distance,
+PAR. What shall I do then, wretch? what undertake?
+--Oh! yonder's my old master, just return'd
+To town. Shall I tell him, or no?--I' faith
+I'll tell him, though I am well convinc'd it will
+Bring me into a scrape; a heavy one: And yet
+It must be done to help poor Chaerea.
+
+PYTH. Right.
+I'll in again; and you, in the mean while,
+Tell the old gentleman the whole affair. (<i>Exit.</i>
+
+[Changes:
+
+<i>Harper</i>
+  Who ever saw a young man seiz'd and bound
+  For rapes and lewdness in a house of harlots?
+<i>Colman 1768</i>
+  Who ever saw a young man seiz'd by force,
+  And punish'd for adultery in a brothel?
+
+<i>Harper</i>
+  To do him violence!--But why don't I
+  Rush in myself?
+  PYTH. Ah! take care, Parmeno
+<i>Colman 1768</i>
+  To do him any violence!--But why  Don't I rush in myself?
+  PYTH. Ah! have a care
+
+<i>Harper</i>
+  PAR. What shall I do then, wretch? what undertake?
+  --Oh! yonder's my old master, just return'd
+  To town. Shall I tell him, or no?--I' faith
+  I'll tell him, though I am well convinc'd it will
+  Bring me into a scrape; a heavy one: And yet
+<i>Colman 1768</i>
+  PAR. What shall I do then? what resolve? Confusion!
+  --Oh! yonder's my old master, just return'd
+  To town. Shall I tell <i>him</i> of it, or no?
+  I'll tell him, tho' I am well convinc'd, the blame
+  Will light on me, and heavily: And yet]<b>SCENE VI.</b>
+
+<i>Enter LACHES.</i>
+
+LACHES. I've this convenience from my neighb'ring villa;
+I'm never tir'd of country or of town.
+For as disgust comes on, I change my place.
+--But is not that our Parmeno? 'Tis he
+For certain.--Whom d'ye wait for, Parmeno,
+Before that door?
+
+PAR. Who's that? Oh, Sir! you're welcome:
+I'm glad to see you safe return'd to town.
+
+LACHES. Whom do you wait for?
+
+PAR. I'm undone: my tongue
+Cleaves to my mouth through fear.
+
+LACHES. Ha! what's the matter?
+Why do you tremble so? Is all right? Speak!
+
+PAR. First, Sir, I'd have you think, for so it is,
+Whatever has befall'n has not befall'n
+Through any fault of mine.LACHES. What is't?
+
+PAR. That's true.
+Your pardon, Sir, I should have told that first.
+--Phaedria, Sir, bought a certain Eunuch, as
+A present to send her.
+
+LACHES. Her!--Her! whom?
+
+PAR. Thais.
+
+LACHES. Bought? I'm undone! at what price?
+
+PAR. Twenty Minae.
+
+LACHES. I'm ruin'd.
+
+PAR. And then Chaerea's fall'n in love
+With a young music-girl.
+
+LACHES. How! what! in love!
+Knows he already what a harlot is?
+Has he stol'n into town? More plagues on plagues.
+
+PAR. Nay, Sir! don't look on me! it was not done
+By my advice.LACHES. Leave prating of yourself.
+As for you, rascal, if I live--But first
+Whatever has befallen, tell me, quick!
+
+PAR. Chaerea was carried thither for the Eunuch.
+
+LACHES. He for the Eunuch!
+
+PAR. Yes: since when, within
+They've seiz'd and bound him for a ravisher.
+
+LACHES. Confusion!
+
+PAR. See the impudence of harlots!
+
+LACHES. Is there aught else of evil or misfortune
+You have not told me yet?
+
+PAR. You know the whole.
+
+LACHES. Then why do I delay to rush in on them?
+        (<i>Exit.</i>
+
+PAR. There is no doubt but I shall smart for this.
+But since I was oblig'd to 't, I rejoice
+That I shall make these strumpets suffer too:For our old gentleman has long desir'd
+Some cause to punish them; and now he has it.
+
+[Changes:
+
+<i>Harper</i>
+  --But is not that our Parmeno? 'Tis he
+  For certain.--Whom d'ye wait for, Parmeno
+<i>Colman 1768</i>
+  --But is not that our Parmeno? 'Tis he.
+  Parmeno, who is it you're waiting for
+
+<i>Harper</i>
+  PAR. First, Sir, I'd have you think, for so it is
+<i>Colman 1768</i>
+  PAR. First be persuaded, Sir,--for that's the case
+
+<i>Harper</i>
+  --Phaedria, Sir, bought a certain Eunuch, as
+  A present to send her.
+  LACHES. Her!--Her! whom?
+  PAR. Thais.
+<i>Colman 1768</i>
+  --Phaedria lately bought a certain Eunuch
+  By way of present to this gentlewoman.
+  LACHES. What gentlewoman, sirrah?  PAR. Madam Thais.
+
+<i>Harper</i>
+  Has he stol'n into town? More plagues on plagues.
+<i>Colman 1768</i>
+  Is he in town? misfortune on misfortune!
+
+  LACHES. Confusion!
+<i>1768 edition has question mark</i>]
+
+<b>SCENE VII.</b>
+
+<i>Enter PYTHIAS; PARMENO at a distance.</i>
+
+PYTH. Well! I was ne'er more pleas'd in all my life
+Than when I saw th' old man come blund'ring in.
+I had the jest alone; for I alone
+Knew what he was afraid of.
+
+PAR. Hey! what now?
+
+PYTH. I'm now come forth t' encounter Parmeno.
+Where is he?
+
+PAR. She seeks me.PYTH. Oh, there he is.
+I'll go up to him.
+
+PAR. Well, fool, what's the matter? (<i>PYTHIAS laughs.</i>) What would you? what d'ye laugh at? Hey! what still?
+
+PYTH. Oh, I shall die: I'm horribly fatigu'd
+With laughing at you. (<i>Laughing heartily.</i>)
+
+PAR. Why so? pray!
+
+PYTH. Why so? (<i>Laughing.</i>)
+I ne'er saw, ne'er shall see, a greater fool.
+Oh, it's impossible to tell what sport
+You've made within.--I swear, I always thought
+That you had been a shrewd, sharp, cunning fellow.
+What! to believe directly what I told you!
+Or was you prick'd in conscience for the sin
+The young man had committed through your means,
+That you must after tell his father of him?
+How d'ye suppose he felt when old gray-beard
+Surpris'd him in that habit?--What! you find
+That you're undone. (<i>Laughing heartily.</i>)
+
+PAR. What's this, impertinence?
+Was it a lie you told me? D'ye laugh still?Is't such a jest to make fools of us, hag?
+
+PYTH. Delightful! (<i>Laughing.</i>)
+
+PAR. If you don't pay dearly for it!----
+
+PYTH. Perhaps so. (<i>Laughing.</i>)
+
+PAR. I'll return it.
+
+PYTH. Oh, no doubt on't. (<i>Laughing.</i>)
+But what you threaten, Parmeno, is distant:
+You'll be truss'd up to-day; who first draw in
+A raw young man to sin, and then betray him.
+They'll both conspire to make you an example. (<i>Laughing.</i>)
+
+PAR. I'm done for.
+
+PYTH. Take this, slave, as a reward
+For the fine gift you sent us; so, farewell! (<i>Exit PYTHIAS.</i>
+
+PAR. I've been a fool indeed; and like a rat,
+Betray'd myself to-day by my own squeaking.
+
+[Changes:<i>Harper</i>
+  PAR. Why so? pray!
+  PYTH. Why so?
+<i>Colman 1768</i>
+  PAR. For what cause?
+  PYTH. What cause?
+
+<i>Harper</i>
+  Or was you prick'd in conscience for the sin
+  The young man had committed through your means,
+  That you must after tell his father of him?
+<i>Colman 1768</i>
+  Or was not you contented with the crime
+  You urg'd the youth to perpetrate, unless
+  You afterwards betray'd him to his father?]<b>SCENE VIII.</b>
+
+<i>Enter THRASO, GNATHO; PARMENO behind.</i>
+
+GNAT. What now? in what hope, or with what design
+Advance we hither? what adventure, Thraso?
+
+THRASO. What do I mean?--To Thais to surrender
+On her own terms?
+
+GNAT. Indeed?
+
+THRASO. Indeed! why not,
+As well as Hercules to Omphale?
+
+GNAT. A fit example.--Would I might behold Your head broke with her slipper. (<i>Aside.</i>) But her doors Creak, and fly open.
+
+THRASO. 'Sdeath! what mischief now?
+I ne'er so much as saw this face before.
+Why bursts he forth with such alacrity?
+
+[Changes:
+
+<i>1768 version of entire scene:</i>
+  GNAT. What now? with what hope, or design, advance we?  What's your intention, Thraso?
+  THRASO. My intention?
+  To Thais to surrender at discretion.
+  GNAT. How say you?
+  THRASO. Even so. Why should not I,
+  As well as Hercules to Omphale?
+  GNAT. A fit example.--Oh, that I could see her
+  Combing your empty noddle with her slipper!
+  But her door opens.
+  THRASO. 'Sdeath! what mischief now?
+  I ne'er so much as saw this face before.
+  Why bursts he forth with such alacrity?]<b>SCENE IX.</b>
+
+<i>Enter CHAEREA at another part of the stage.</i>
+
+CHAER. Lives there, my countrymen, a happier man
+To-day than I?--Not one.--For on my head
+The gods have plainly emptied all their store,
+On whom they've pour'd a flood of bliss at once.
+
+PAR. What's he so pleas'd at?
+
+CHAER. (<i>seeing him.</i>) Oh my Parmeno
+Inventor, undertaker, perfecter
+Of all my pleasures, know'st thou my good fortunes?
+Know'st thou my Pamphila's a citizen?
+
+PAR. I've heard so.
+
+CHAER. Know'st thou she's betroth'd my wife?
+
+PAR. Oh brave, by Heav'n!
+
+GNAT. Hear you what he says? (<i>To THRASO.</i>)
+
+CHAER. Then I rejoice, my brother Phaedria's love
+Is quietly secur'd to him forever:We're now one family: and Thais has
+Found favor with my father, and resign'd
+Herself to us for patronage and care.
+
+PAR. She's then entirely Phaedria's!
+
+CHAER. Aye, entirely.
+
+PAR. Another cause of joy: the Captain routed!
+
+CHAER. See, Parmeno, my brother (wheresoe'er
+He be) know this, as soon as possible!
+
+PAR. I'll see if he's at home. (<i>Exit.</i>
+
+THRASO. Hast any doubt,
+Gnatho, but I'm entirely ruin'd?
+
+GNAT. None at all.
+
+CHAER. What shall I mention first? whom praise the most!
+Him that advis'd this action? or myself
+That durst to undertake it?--or extol
+Fortune, the governess of all, who deign'd,
+Events so many, of such moment too,
+So happily to close within one day?Or shall I praise my father's frank good-humor,
+And gay festivity?----Oh, Jupiter,
+Make but these blessings sure!
+
+[Changes:
+
+<i>Harper</i>
+  PAR. Oh brave, by Heav'n!
+<i>Colman 1768</i>
+  PAR. Good news, by heaven!
+
+<i>Harper</i>
+  Make but these blessings sure!
+<i>Colman 1768</i>
+  Make but these blessings permanent!]<b>SCENE X.</b>
+
+<i>Enter PHAEDRIA.</i>
+
+PHAED. O heavenly powers!
+What wondrous things has Parmeno just told me!
+But where's my brother?
+
+CHAER. Here he is.
+
+PHAED. I'm happy.
+
+CHAER. I dare believe you are; and trust me, brother, Naught can be worthier of your love than Thais: Our family are all much bounden to her.
+
+PHAED. So! you'd need sing her praise to me!
+
+THRASO. Confusion!
+As my hope dies, my love increases. Gnatho
+Your help! my expectation's all in you.
+
+GNAT. What would you have me do?
+
+THRASO. Accomplish this;
+By pray'r, by purchase, that I still may have
+Some little share in Thais.GNAT. A hard task!
+
+THRASO. Do but incline to do't, you can, I know.
+Effect it, and demand whatever gift,
+Whate'er reward you please, it shall be yours.
+
+GNAT. Indeed?
+
+THRASO. Indeed!
+
+GNAT. If I accomplish this,
+I claim, that you agree to throw your doors,
+Present or absent, always open to me;
+A welcome, uninvited guest forever.
+
+THRASO. I pawn my honor as the pledge.
+
+GNAT. I'll try.
+
+PHAED. What voice is that? Oh, Thraso!
+
+THRASO. Gentlemen,
+Good-day!
+
+PHAED. Perhaps you're not acquainted yet
+With what has happen'd here?THRASO. I am.
+
+PHAED. Why then
+Do I behold you in these territories?
+
+THRASO. Depending on----
+
+PHAED. Depend on naught but this!
+Captain, I give you warning, if, henceforth,
+I ever find you in this street, although
+You tell me, "_I was looking for another,
+I was but passing through_," expect no quarter.
+
+GNAT. Oh fie! that is not handsome.
+
+PHAED. I have said it.
+
+GNAT. You can not be so rude.
+
+PHAED. It shall be so.
+
+GNAT. First grant me a short hearing: if you like
+What I propose, agree to't.
+
+PHAED. Let us hear!GNAT. Do you retire a moment, Thraso! (<i>THRASO retires.</i>) First,
+I must beseech you both, most firmly think,
+That I, whate'er I do in this affair,
+For my own sake I do it: but if that
+Likewise advantage you, not to agree
+In you were folly.
+
+PHAED. What is't you propose?
+
+GNAT. I think you should admit the Captain, as
+Your rival.
+
+PHAED. How? admit him?
+
+GNAT. Nay consider!
+Phaedria, you live at a high rate with her,
+Revel, and feast, and stick at no expense.
+Yet what you give's but little, and you know
+'Tis needful Thais should receive much more
+Now to supply your love without your cost,
+A fitter person, one more form'd, can't be
+Than Thraso is: first, he has wherewithal
+To give, and gives most largely: a fool too,
+A dolt, a block, that snores out night and day;
+Nor can you fear she'll e'er grow fond of him;
+And you may drive him hence whene'er you please.PHAED. What shall we do? (<i>To CHAEREA.</i>)
+
+GNAT. Moreover this; the which
+I hold no trifle, no man entertains
+More nobly or more freely.
+
+PHAED. I begin
+To think we've need of such a fool.
+
+CHAER. And I.
+
+GNAT. Well judg'd! and let me beg one favor more;
+Admit me of your family!--I have
+Roll'd this stone long enough.
+
+PHAED. We do admit you.
+
+CHAER. With all our hearts.
+
+GNAT. And you, Sirs, in return,
+Shall pledge me in the Captain; eat him; drink him:
+And laugh at him.
+
+CHAER. A bargain!
+
+PHAED. 'Tis his due.GNAT. Thraso, whene'er you please, approach!
+
+THRASO. Pray now,
+How stands the case?
+
+GNAT. Alas! they knew you not!
+But when I drew your character, and prais'd
+Your worth, according to your deeds and virtues,
+I gain'd my point.
+
+THRASO. 'Tis well: I'm much oblig'd;
+I ne'er was any where, in all my life,
+But all folks lov'd me dearly.
+
+GNAT. Did not I
+Say he had all the Attic elegance?
+
+PHAED. He is the very character you drew.
+
+GNAT. Retire then. --Ye, (<i>to the audience</i>,) farewell, and clap your hands!
+
+[Changes:
+
+<i>Harper</i>
+  PHAED. O heavenly powers!
+  What wondrous things has Parmeno just told me!  But where's my brother?
+  CHAER. Here he is.
+  PHAED. I'm happy.
+<i>Colman 1768</i>
+  PHAED. Good heavens!
+  What wondrous things has Parmeno just told me!
+  But where's my brother?
+  CHAER. Here.
+  PHAED. I'm quite transported.
+
+<i>Harper</i>
+  As my hope dies, my love increases. Gnatho
+  Your help! my expectation's all in you.
+<i>Colman 1768</i>
+  As my hope dies, my passion gathers strength.
+  Gnatho, your help! my only hope's in you.
+
+<i>Harper</i>
+  PHAED. What is't you propose?
+  GNAT. I think you should admit the Captain, as
+  Your rival.
+  PHAED. How? admit him?
+  GNAT. Nay consider!
+  Phaedria, you live at a high rate with her
+<i>Colman 1768</i>
+  PHAED. What are your proposals?  GNAT. I think, 'twere not imprudent to admit
+  The Captain, as your rival.
+  PHAED. How!
+  Admit him, say you?
+  GNAT. Nay reflect a little.
+  Phaedria, you live at a high rate with Thais
+
+<i>Harper</i>
+  Admit me of your family!--I have
+  Roll'd this stone long enough.
+<i>Colman 1768</i>
+  Admit me into your fraternity!
+  I've roll'd this stone too long.
+
+<i>Harper</i>
+  GNAT. Thraso, whene'er you please, approach!
+  THRASO. Pray now,
+<i>Colman 1768</i>
+  GNAT. Thraso, whene'er you please, come forward!
+  THRASO. Well!
+
+<i>Harper</i>
+  But all folks lov'd me dearly.
+  GNAT. Did not I
+  Say he had all the Attic elegance?
+<i>Colman 1768</i>  But all folks lov'd me most exceedingly.
+  GNAT. There, did I not assure you, gentlemen,
+  That he had all the Attick Elegance?]
+
+* * * * *
+    * * * *
+
+THE SELF-TORMENTOR.
+
+PERSONS REPRESENTED.
+
+PROLOGUE.
+MENEDEMUS.
+CHREMES.
+CLINIA.
+CLITIPHO.
+SYRUS.
+DROMO.
+
+SOSTRATA.
+ANTIPHILA.
+BACCHIS.
+NURSE.
+PHRYGIA, <i>and other servants of BACCHIS.</i>
+
+SCENE, <i>a Village near ATHENS.</i><b>PROLOGUE.</b>
+
+  Lest any of you wonder, why the Bard
+To an old actor hath assign'd the part
+Sustain'd of old by young performers; that
+I'll first explain: then say what brings
+To-day, a whole play, wholly from the Greek,
+We mean to represent:--The Self-Tormentor:
+Wrought from a single to a double plot.
+  Now therefore that our comedy is new,
+And what it is, I've shown: who wrote it too,
+And whose in Greek it is, were I not sure
+Most of you knew already, would I tell.
+But, wherefore I have ta'en this part upon me,
+In brief I will deliver: for the Bard
+Has sent me here as pleader, not as Prologue;
+You he declares his judges, me his counsel:
+And yet as counsel nothing can I speak
+More than the Author teaches me to say,
+Who wrote th' oration which I now recite.
+  As to reports, which envious men have spread,
+That he has ransack'd many Grecian plays,
+While he composes some few Latin ones,
+That he denies not, he has done; nor does
+Repent he did it; means to do it still;
+Safe in the warrant and authorityOf greater bards, who did long since the same.
+Then for the charge, that his arch-enemy
+Maliciously reproaches him withal,
+That he but lately hath applied himself
+To music, with the genius of his friends,
+Rather than natural talents, fraught; how true,
+Your judgment, your opinion, must decide.
+I would entreat you, therefore, not to lean
+To tales of slander, rather than of candor.
+Be favorable; nurse with growing hopes
+The bards, who give you pleasing novelties;
+<i>Pleasing</i> I say, not such as <i>His</i> I mean,
+Who lately introduc'd a breathless slave,
+Making the crowd give way--But wherefore trace
+A dunce's faults? which shall be shown at large,
+When more he writes, unless he cease to rail.
+  Attend impartially! and let me once
+Without annoyance act an easy part;
+Lest your old servant be o'er-labor'd still
+With toilsome characters, the running slave,
+The eating parasite, enrag'd old man,
+The bold-fac'd sharper, covetous procurer;
+Parts, that ask pow'rs of voice, and iron sides.
+Deign then, for my sake, to accept this plea,
+And grant me some remission from my labor.For they, who now produce new comedies,
+Spare not my age! If there is aught laborious,
+They run to me; but if of little weight,
+Away to others. In our piece to-day
+The style is pure: now try my talents then
+In either character. If I for gain,
+Never o'er-rated my abilities;
+If I have held it still my chief reward
+To be subservient to your pleasure; fix
+In me a fair example, that our youth
+May seek to please you, rather than themselves.
+
+ACT THE FIRST.<b>SCENE I.</b>
+
+<i>CHREMES, MENEDEMUS.</i>
+
+CHREM. Though our acquaintance is as yet but young,
+Since you have bought this farm that neighbors mine,
+And little other commerce is betwixt us;
+Yet or your virtue, or good neighborhood,
+(Which is in my opinion kin to friendship,)
+Urge me to tell you, fairly, openly,
+That you appear to me to labor more
+Than your age warrants, or affairs require.
+Now, in the name of heav'n and earth, what is't
+You want? what seek you? Threescore years of age,
+Or older, as I guess; with an estate,
+Better than which, more profitable, none
+In these parts hold; master of many slaves;
+As if you had not one at your command,
+You labor in their offices yourself.
+I ne'er go out so soon at morn, return
+So late at eve, but in your grounds I see you
+Dig, plow, or fetch and carry: in a word,
+You ne'er remit your toil, nor spare yourself.
+This, I am certain, is not done for pleasure.
+--You'll say, perhaps, it vexes you to see
+Your work go on so slowly;--do but giveThe time you spend in laboring yourself
+To set your slaves to work, 'twill profit more.
+
+MENE. Have you such leisure from your own affairs
+To think of those, that don't concern you, Chremes?
+
+CHREM. I am a man, and feel for all mankind.
+Think, I advise, or ask for information:
+If right, that I may do the same; if wrong,
+To turn you from it.
+
+MENE. I have need to do thus.
+Do you as you think fit.
+
+CHREM. Need any man
+Torment himself?
+
+MENE. I need.
+
+CHREM. If there's a cause,
+I'd not oppose it. But what evil's this?
+What is th' offense so grievous to your nature,
+That asks such cruel vengeance on yourself?
+
+MENE. Alas! alas! (<i>In tears.</i>)CHREM. Nay, weep not; but inform me.
+Be not reserv'd; fear nothing: prithee, trust me:
+By consolation, counsel, or assistance,
+I possibly may serve you.
+
+MENE. Would you know it?
+
+CHREM. Aye, for the very reason I have mention'd.
+
+MENE. I will inform you.
+
+CHREM. But meanwhile lay down
+Those rakes: don't tire yourself.
+
+MENE. It must not be.
+
+CHREM. What mean you?
+
+MENE. Give me leave: that I may take
+No respite from my toil.
+
+CHREM. I'll not allow it. (<i>Taking away the rakes.</i>)
+
+MENE. Ah, you do wrong.
+
+CHREM. What, and so heavy too! (<i>Weighing them in his hand.</i>)MENE. Such my desert.
+
+CHREM. Now speak. (<i>Laying down the rakes.</i>)
+
+MENE. One only son
+I have.--<i>Have</i>, did I say?--<i>Had</i> I mean, Chremes.
+Have I or no, is now uncertain.
+
+CHREM. Wherefore?
+
+MENE. That you shall know. An old Corinthian woman
+Now sojourns here, a stranger in these parts,
+And very poor. It happen'd, of her daughter
+My son became distractedly enamor'd;----
+E'en to the brink of marriage; and all this
+Unknown to me: which I no sooner learn'd
+Than I began to deal severely with him,
+Not as a young and love-sick mind requir'd,
+But in the rough and usual way of fathers.
+Daily I chid him; crying, "How now, Sir!
+Think you that you shall hold these courses long,
+And I your father living?--Keep a mistress,
+As if she were your wife!--You are deceiv'd,
+If you think that, and do not know me, Clinia.
+While you act worthily, you're mine; if not,
+I shall act toward you worthy of myself.All this arises from mere idleness.
+I, at your age, ne'er thought of love; but went
+To seek my fortune in the wars in Asia,
+And there acquir'd in arms both wealth and glory."
+--In short, things came to such a pass, the youth,
+O'ercome with hearing still the self-same thing,
+And wearied out with my reproaches; thinking,
+Age and experience had enabled me
+To judge his interest better than himself,
+Went off to serve the king in Asia, Chremes.
+
+CHREM. How say you?
+
+MENE. Stole away three months ago,
+Without my knowledge.
+
+CHREM. Both have been to blame:
+And yet this enterprise bespeaks a mind,
+Modest and manly.
+
+MENE. Having heard of this
+From some of his familiars, home I came
+Mournful, half-mad, and almost wild with grief.
+I sit me down; my servants run to me;
+Some draw my sandals off; while others haste
+To spread the couches, and prepare the supper:Each in his way, I mark, does all he can
+To mitigate my sorrow. Noting this,
+"How," said I to myself, "so many then
+Anxious for me alone? to pleasure me?
+So many slaves to dress me? All this cost
+For me alone?--Meanwhile, my only son,
+For whom all these were fit, as well as me,
+Nay rather more, since he is of an age
+More proper for their use; him, him, poor boy,
+Has my unkindness driven forth to sorrow.
+Oh I were worthy of the heaviest curse,
+Could I brook that!--No; long as he shall lead
+A life of penury abroad, an exile
+Through my unjust severity, so long
+Will I revenge his wrongs upon myself,
+Laboring, scraping, sparing, slaving for him."
+--In short, I did so; in the house I left
+Nor clothes, nor movables: I scrap'd up all.
+My slaves, both male and female, except those
+Who more than earn'd their bread in country-work,
+I sold: Then set my house to sale: In all
+I got together about fifteen talents;
+Purchas'd this farm; and here fatigue myself;
+Thinking I do my son less injury,
+While I'm in misery too; nor is it justFor me, I think, to taste of pleasure here,
+Till he return in safety to partake on't.
+
+CHREM. You I believe a tender parent, him
+A duteous son, if govern'd prudently.
+But you was unacquainted with his nature,
+And he with yours: sad life, where things are so!
+You ne'er betray'd your tenderness to him;
+Nor durst he place that confidence in you,
+Which well becomes the bosom of a father.
+Had that been done, this had not happen'd to you.
+
+MENE. True, I confess; but I was most in fault.
+
+CHREM. All, Menedemus, will, I hope, be well,
+And trust, your son will soon return in safety.
+
+MENE. Grant it, good Gods!
+
+CHREM. They will. Now, therefore, since
+The Dionysia are held here to-day,
+If 'tis convenient, come, and feast with me.
+
+MENE. Impossible.CHREM. Why so?--Nay, prithee now,
+Indulge yourself a while: your absent son,
+I'm sure, would have it so.
+
+MENE. It is not meet,
+That I, who drove him forth to misery,
+Should fly it now myself.
+
+CHREM. You are resolv'd?
+
+MENE. Most constantly.
+
+CHREM. Farewell then!
+
+MENE. Fare you well! (<i>Exit.</i>
+
+[Changes:
+
+<i>Harper</i>
+  Now, in the name of heav'n and earth, what is't
+  You want? what seek you? Threescore years of age
+<i>Colman 1768</i>
+  For in the name of heav'n and earth, what would you?
+  What do you drive at? Threescore years of age<i>Harper</i>
+  I ne'er go out so soon at morn, return
+  So late at eve, but in your grounds I see you
+  Dig, plow, or fetch and carry: in a word,
+<i>Colman 1768</i>
+  I ne'er go out so soon, return so late,
+  Morning or evening, but I see you still
+  At labour on your acres, digging, plowing,
+  Or carrying some burden: in a word,
+
+<i>Harper</i>
+  CHREM. If there's a cause,
+  I'd not oppose it. But what evil's this?
+<i>Colman 1768</i>
+  CHREM. If you're unhappy,
+  I'm sorry for it. But what evil's this?
+
+I possibly may serve you.
+<i>"I" invisible in Harper edition</i>
+
+"How," said I to myself, "so many then]
+<i>inner quotes supplied from 1768 edition</i><b>SCENE II.</b>
+
+<i>CHREMES alone.</i>
+
+He draws tears from me.--How I pity him!
+--But 'tis high time, as the day goes, to warn
+My neighbor Phania to come forth to supper.
+I'll go, and see if he's at home.
+    (<i>Goes to PHANIA'S door, and returns.</i>)
+     There was,
+It seems, no need of warning: for, they tell me,
+He has been gone to my house some time since;
+I keep my guests in waiting; so I'll in.
+But my doors creak. (<i>CLITIPHO appears.</i>) Who's this? I'll step aside.
+    (<i>Retires.</i>)
+
+[Changes:
+
+<i>Harper</i>
+  He has been gone to my house some time since;
+  I keep my guests in waiting; so I'll in.
+  But my doors creak. Who's this? I'll step aside.
+<i>Colman 1768</i>
+  He went to his appointment some time since.
+  'Tis I myself that keep my guests in waiting.
+  I'll in immediately.--But what's the meaning  That my door opens?--Who's this?--I'll retire.]
+
+<b>SCENE III.</b>
+
+<i>Enter CLITIPHO, speaking to CLINIA within.</i>
+
+As yet, my Clinia, you've no cause to fear:
+They are not long: and she, I'm confident,
+Will be here shortly with the messenger.
+Prithee, away then with these idle cares,
+Which thus torment you!
+
+CHREM. (<i>behind.</i>) Whom does my son speak to?
+
+CLIT. My father as I wish'd--Good Sir, well met.
+
+CHREM. What now?
+
+CLIT. D'ye know our neighbor Menedemus?
+
+CHREM. Aye, very well.
+
+CLIT. D'ye know he has a son?
+
+CHREM. I've heard he is in Asia.CLIT. No such thing.
+He's at our house, Sir.
+
+CHREM. How!
+
+CLIT. But just arriv'd:
+Ev'n at his landing I fell in with him,
+And brought him here to supper: for, from boys,
+We have been friends and intimates.
+
+CHREM. Good news:
+Now do I wish the more that Menedemus,
+Whom I invited, were my guest to-day,
+That I, and under my own roof, had been
+The first to have surpris'd him with this joy!
+And I may yet. (<i>Going.</i>)
+
+CLIT. Take heed! it were not good.
+
+CHREM. How so?
+
+CLIT. Because the youth is yet in doubt:
+Newly arriv'd; in fear of ev'ry thing;
+He dreads his father's anger, and suspects
+The disposition of his mistress tow'rds him;
+Her, whom he dotes upon; on whose account,This diff'rence and departure came about.
+
+CHREM. I know it.
+
+CLIT. He has just dispatch'd his boy
+Into the city to her, and our Syrus
+I sent along with him.
+
+CHREM. What says the son?
+
+CLIT. Says? that he's miserable.
+
+CHREM. Miserable!
+Who needs be less so? for what earthly good
+Can man possess which he may not enjoy?
+Parents, a prosp'rous country, friends, birth, riches.
+Yet these all take their value from the mind
+Of the possessor: he that knows their use,
+To him they're blessings; he that knows it not,
+To him misuse converts them into curses.
+
+CLIT. Nay, but he ever was a cross old man:
+And now there's nothing that I dread so much,
+As lest he be transported in his rage
+To some gross outrages against his son.CHREM. He!--He!--But I'll contain myself. 'Tis good
+For Menedemus that his son should fear. (<i>Aside.</i>)
+
+CLIT. What say you, Sir, within yourself! (<i>Overhearing.</i>)
+
+CHREM. I say,
+Be't as it might, the son should have remain'd.
+Grant that the father bore too strict a hand
+Upon his loose desires; he should have borne it.
+Whom would he bear withal, if not a parent?
+Was't fitting that the father should conform
+To the son's humor, or the son to his?
+And for the rigor that he murmurs at,
+'Tis nothing: the severities of fathers,
+Unless perchance a hard one here and there,
+Are much the same: they reprimand their sons
+For riotous excesses, wenching, drinking;
+And starve their pleasures by a scant allowance.
+Yet this all tends to good: but when the mind
+Is once enslav'd to vicious appetites,
+It needs must follow vicious measures too.
+Remember then this maxim, Clitipho,
+A wise one 'tis to draw from others' faults
+A profitable lesson for yourself.
+
+CLIT. I do believe it.CHREM. Well, I'll in, and see
+What is provided for our supper: you,
+As the day wears, see that you're not far hence. (<i>Exit.</i>
+
+[Changes:
+
+<i>Harper</i>
+  That I, and under my own roof, had been
+<i>Colman 1768</i>
+  That I, and under my own roof, might be]
+
+<b>SCENE IV.</b>
+
+<i>CLITIPHO alone.</i>
+
+What partial judges of all sons are fathers!
+Who ask gray wisdom from our greener years,
+And think our minds should bear no touch of youth;
+Governing by their passions, now kill'd in them,
+And not by those that formerly rebell'd.
+If ever I've a son, I promise him
+He shall find me an easy father; fit
+To know, and apt to pardon his offenses!
+Not such as mine, who, speaking of another,
+Shows how he'd act in such a case himself:
+Yet when he takes a cup or two too much,Oh, what mad pranks he tells me of his own:
+But warns me now "to draw from others' faults
+A profitable lesson for myself."
+Cunning old gentleman! he little knows,
+He pours his proverbs in a deaf man's ear.
+The words of Bacchis, <i>Give me, Bring me</i>, now
+Have greater weight with me: to whose commands,
+Alas! I've nothing to reply withal;
+Nor is there man more wretched than myself.
+For Clinia here (though he, I must confess,
+Has cares enough) has got a mistress, modest,
+Well-bred, and stranger to all harlot arts:
+Mine is a self-will'd, wanton, haughty madam,
+Gay, and extravagant; and let her ask
+Whate'er she will, she must not be denied;
+Since poverty I durst not make my plea.
+This is a plague I have but newly found,
+Nor is my father yet appris'd of it.
+
+ACT THE SECOND.<b>SCENE I.</b>
+
+<i>Enter CLINIA.</i>
+
+CLIN. Had my affairs in love been prosperous,
+They had, I know, been here long since: but, ah,
+I fear she's fall'n from virtue in my absence:
+So many things concur to prove it so,
+My mind misgives me; opportunity,
+The place, her age, an infamous old mother,
+Under whose governance she lives, to whom
+'Naught but gain's precious.
+
+<i>To him CLITIPHO.</i>
+
+CLIT. Clinia!
+
+CLIN. Woe is me! (<i>To himself.</i>)
+
+CLIT. Take heed, lest some one issue from your father's, And chance to see you here.
+
+CLIN. I will: but yet
+My mind forebodes I know not what of ill.
+
+CLIT. What, still foreboding, ere you know the truth?CLIN. Had there been no untoward circumstance,
+They had return'd already
+
+CLIT. Patience, Clinia!
+They'll be here presently.
+
+CLIN. Presently! but when?
+
+CLIT. Consider, 'tis a long way off: and then
+You know the ways of women; to set off,
+And trick their persons out, requires an age.
+
+CLIN. Oh Clitipho, I fear----
+
+CLIT. Take courage; see,
+Dromo and Syrus!<b>SCENE II.</b>
+
+<i>Enter SYRUS and DROMO, conversing at a distance.</i>
+
+SYRUS. Say you?
+
+DROMO. Even so.
+
+SYRUS. But while we chat, the girls are left behind.
+
+CLIT. (<i>listening.</i>) Girls, Clinia! do you hear?
+
+CLIN. I hear, I see,
+And now, at last, I'm happy, Clitipho.
+
+DROMO (<i>to SYRUS</i>). Left behind! troth, no wonder: so encumber'd; A troop of waiting-women at her heels!
+
+CLIN. (<i>listening</i>). Confusion! Whence should she have waiting-women?
+
+CLIT. How can I tell?
+
+SYRUS (<i>to DROMO</i>). We ought not to have dropp'd them. They bring a world of baggage!
+
+CLIN. (<i>listening</i>). Death!SYRUS. Gold, clothes!
+It grows late too, and they may miss their way.
+We've been to blame: Dromo, run back, and meet them.
+Away! quick! don't loiter.
+  (<i>Exit DROMO.</i>
+
+CLIN. What a wretch!
+All my fair hopes quite blasted!
+
+CLIT. What's the matter?
+What is it troubles you?
+
+CLIN. What troubles me?
+D'ye hear? She waiting-women, gold, and clothes!
+She, whom I left with one poor servant-girl!
+Whence come they, think you?
+
+CLIT. Oh, I take you now.
+
+SYRUS (<i>to himself</i>). Gods, what a crowd! our house will hardly hold
+    them.
+What eating, and what drinking will there be!
+How miserable our old gentleman!
+But here are those I wish'd to see!
+  (<i>Seeing CLIT. and CLIN.</i>)CLIN. Oh Jove!
+Where then are truth, and faith, and honor fled?
+While I a fugitive, for love of you,
+Quit my dear country, you, Antiphila,
+For sordid gain desert me in distress!
+You, for whose sake I courted infamy,
+And cast off my obedience to my father.
+He, I remember now with grief and shame,
+Oft warn'd me of these women's ways; oft tried
+In vain by sage advice to wean me from her.
+But now I bid farewell to her forever;
+Though, when 'twere good and wholesome, I was froward.
+No wretch more curs'd than I!
+
+SYRUS. He has misconstrued
+All our discourse, I find--You fancy, Clinia,
+Your mistress other than she is. Her life,
+As far as we from circumstance could learn,
+Her disposition tow'rd you, are the same.
+
+CLIN. How! tell me all: for there is naught on earth I'd rather know than that my fears are false.
+
+SYRUS. First then, that you may be appris'd of all,
+Th' old woman, thought her mother, was not so:
+That beldam also is deceas'd; for thisI overheard her, as we came along,
+Telling the other.
+
+CLIT. Other! who? what other?
+
+SYRUS. Let me but finish what I have begun,
+And I shall come to that.
+
+CLIT. Dispatch then.
+
+SYRUS. First,
+Having arriv'd, Dromo knocks at the door:
+Which an old woman had no sooner open'd,
+But in goes Dromo, and I after him.
+Th' old woman bolts the door, and spins again,
+And now, or never, Clinia, might be known,
+Coming thus unexpectedly upon her,
+Antiphila's employments in your absence:
+For such, as then we saw, we might presume
+Her daily practice, which of all things else,
+Betrays the mind and disposition most.
+Busily plying of the web we found her,
+Decently clad in mourning,--I suppose,
+For the deceas'd old woman.--She had on
+No gold or trinkets, but was plain and neat,
+And dress'd like those who dress but for themselves.No female varnish to set off her beauty:
+Her hair dishevel'd, long, and flowing loose
+About her shoulders.--Peace! (<i>To CLINIA.</i>)
+
+CLIN. Nay, prithee, Syrus,
+Do not transport me thus without a cause.
+
+SYRUS. Th' old woman spun the woof; one servant-girl, A tatter'd dirty dowdy, weaving by her.
+
+CLIT. Clinia, if this be true, as sure it is,
+Who is more fortunate than you? D'ye mark
+The ragged dirty girl that he describ'd?
+A sign the mistress leads a blameless life,
+When she maintains no flaunting go-between:
+For 'tis a rule with those gallants, who wish
+To win the mistress, first to bribe the maid.
+
+CLIN. Go on, I beg you, Syrus; and take heed
+You fill me not with idle joy.--What said she
+When you nam'd me?
+
+SYRUS. As soon as we inform'd her
+You was return'd, and begg'd her to come to you,
+She left her work immediately, and burst
+Into a flood of tears, which one might seeWere shed for love of you.
+
+CLIN. By all the Gods,
+I know not where I am for very joy.
+Oh, how I trembled!
+
+CLIT. Without cause, I knew.
+But come; now, Syrus, tell us, who's that other?
+
+SYRUS. Your mistress, Bacchis.
+
+CLIT. How! what! Bacchis? Tell me,
+Where d'ye bring her, rogue?
+
+SYRUS. Where do I bring her?
+To our house certainly.
+
+CLIT. My father's?
+
+SYRUS. Aye.
+
+CLIT. Oh monstrous impudence!
+
+SYRUS. Consider, Sir;
+More danger, the more honor.CLIT. Look ye, Sirrah,
+You mean to purchase praise at my expense,
+Where the least slip of yours would ruin me.
+What is't you drive at?
+
+SYRUS. But----
+
+CLIT. But what?
+
+SYRUS. I'll tell you,
+Give me but leave!
+
+CLIN. Permit him.
+
+CLIT. Well, I do.
+
+SYRUS. This business--now--is just as if-- (<i>Drawling.</i>)
+
+CLIT. Confusion!
+What a long roundabout beginning!
+
+CLIN. True.
+To the point, Syrus!
+
+SYRUS. I've no patience with you.
+You use me ill, Sir, and I can't endure it.CLIN. Hear him: peace, Clitipho! (<i>To CLITIPHO.</i>)
+
+SYRUS. You'd be in love;
+Possess your mistress; and have wherewithal
+To make her presents: but to gain all this
+You'd risk no danger. By my troth, you're wise,
+If it be wise to wish for what can't be.
+Take good and bad together; both, or none;
+Choose which you will; no mistress, or no danger.
+And yet, the scheme I've laid is fair and safe;
+Your mistress may be with you at your father's
+Without detection; by the self-same means
+I shall procure the sum you've promis'd her,
+Which you have rung so often in my ears,
+You've almost deafen'd them.--What would you more?
+
+CLIT. If it may be so----
+
+SYRUS. If! the proof shall show.
+
+CLIT. Well, well then, what's this scheme?
+
+SYRUS. We will pretend
+That Bacchis is his mistress.CLIT. Mighty fine!
+What shall become then of his own? Shall she
+Pass for his too, because one's not enough
+To answer for?
+
+SYRUS. No. She shall to your mother.
+
+CLIT. How so?
+
+SYRUS. 'Twere tedious, Clitipho, to tell:
+Let it suffice, I've reason for it.
+
+CLIT. Nonsense!
+I see no ground to make me hazard this.
+
+SYRUS. Well; if you dread this, I've another way,
+Which you shall both own has no danger in't.
+
+CLIT. Aye, prithee, find that out.
+
+SYRUS. With all my heart.
+I'll run and meet the woman on the road,
+And order them to go straight home again.
+
+CLIT. How! what!SYRUS. I mean to ease you of your fear,
+That you may sleep in peace on either side. (<i>Going.</i>)
+
+CLIT. What shall I do?
+
+CLIN. E'en profit of his scheme.
+
+CLIT. But, Syrus, tell me then----
+
+SYRUS. Away, away!
+This day too late you'll wish for her in vain. (<i>Going.</i>)
+
+CLIN. This is your time: enjoy it, while you may:
+Who knows if you may have the like again?
+
+CLIT. Syrus, I say.
+
+SYRUS. Call as you please, I'll on.
+
+CLIT. Clinia, you're right.--Ho, Syrus! Syrus, ho!
+Syrus, I say.
+
+SYRUS. So, he grows hot at last. (<i>To himself.</i>)
+What would you, Sir? (<i>Turning about.</i>)
+
+CLIT. Come back, come back!SYRUS. I'm here. (<i>Returns.</i>)
+You're pleasure, Sir!--What, will not this content you?
+
+CLIT. Yes, Syrus; me, my passion, and my fame
+I render up to you: dispose of all;
+But see you're not to blame.
+
+SYRUS. Ridiculous!
+Spare your advice, good Clitipho! you know
+Success is my concern still more than yours:
+For if perchance we fail in our attempt,
+You shall have words; but I, alas! dry blows.
+Be sure then of my diligence; and beg
+Your friend to join, and countenance our scheme.
+
+CLIN. Depend on me: I see it must be so.
+
+CLIT. Thanks, my best Clinia!
+
+CLIN. But take heed she trip not.
+
+SYRUS. Oh, she's well instructed.
+
+CLIT. Still I wonder
+How you prevail'd so easily upon her:
+Her, who's so scornful.SYRUS. I came just in time,
+Time, that in most affairs is all in all:
+For there I found a certain wretched captain,
+Begging her favors. She, an artful baggage,
+Denied him, to inflame his mind the more,
+And make her court to you.--But hark ye, Sir,
+Be cautious of your conduct! no imprudence!
+You know how shrewd and keen your father is;
+And I know your intemperance too well.
+No double-meanings, glances, leers, sighs, hems,
+Coughing, or titt'ring, I beseech you, Sir!
+
+CLIT. I'll play my part----
+
+SYRUS. Look to't!
+
+CLIT. To your content.
+
+SYRUS. But see, the women! they're soon after us. (<i>Looking out.</i>)
+
+CLIT. Where are they?-- (<i>SYRUS stops him.</i>) Why d'ye hold me?
+
+SYRUS. She is not
+Your mistress now.CLIT. True: not before my father.
+But now, meanwhile----
+
+SYRUS. Nor now, meanwhile,
+
+CLIT. Allow me!
+
+SYRUS. No.
+
+CLIT. But a moment!
+
+SYRUS. No.
+
+CLIT. A single kiss!
+
+SYRUS. Away, if you are wise!
+
+CLIT. Well, well, I'm gone.
+--What's he to do?
+
+SYRUS. Stay here.
+
+CLIT. O happy----
+
+SYRUS. March! (<i>Pushes off CLITIPHO.</i>)[Changes:
+
+<i>Harper</i>
+  Away! quick! don't loiter.
+<i>Colman 1768</i>
+  Away! quick, quick! don't loiter.
+
+<i>Harper</i>
+  CLIT. How! what! Bacchis? Tell me,
+  Where d'ye bring her, rogue?
+  SYRUS. Where do I bring her?
+<i>Colman 1768</i>
+  CLIT. How! what! Bacchis?
+  Where d'ye propose to carry her, rogue?
+  SYRUS. Where?
+
+<i>Harper</i>
+  SYRUS. Oh, she's well instructed.
+<i>Colman 1768</i>
+  SYRUS. Oh, she is well instructed.]<b>SCENE III</b>
+
+<i>Enter BACCHIS, and ANTIPHILA at a distance.</i>
+
+BACCH. Well, I commend you, my Antiphila:
+Happy, that you have made it still your care,
+That virtue should seem fair as beauty in you!
+Nor Gracious Heav'n so help me, do I wonder
+If ev'ry man should wish you for his own;
+For your discourse bespeaks a worthy mind.
+And when I ponder with myself, and weigh
+Your course of life, and all the rest of those
+Who live not on the common, 'tis not strange,
+Your morals should be different from ours.
+Virtue's your int'rest; those, with whom we deal,
+Forbid it to be ours: For our gallants,
+Charm'd by our beauty, court us but for that;
+Which fading, they transfer their love to others.
+If then meanwhile we look not to ourselves,
+We live forlorn, deserted, and distress'd.
+You, when you've once agreed to pass your life
+Bound to one man, whose temper suits with yours,
+He too attaches his whole heart to you:
+Thus mutual friendship draws you each to each;
+Nothing can part you, nothing shake your love.ANTI. I know not others'; for myself I know,
+From his content I ever drew my own.
+
+{<i>CLINIA and SYRUS apart.</i>}
+
+CLIN. (<i>overhearing</i>). Excellent maid! my best Antiphila!
+Thou too, thy love alone is now the cause
+That brings me to my native land again.
+For when away, all evils else were light
+Compar'd to wanting thee.
+
+SYRUS. I do believe it.
+
+CLIN. O Syrus, 'tis too much: I can not bear it.
+Wretch that I am!--and must I be debarr'd
+To give a loose to love, a love like this?
+
+SYRUS. And yet if I may judge your father's mind,
+He has more troubles yet in store for you.
+
+BACCH. Who is that youth that eyes us? (<i>Seeing CLINIA.</i>)
+
+ANTI. Ha! (<i>seeing him.</i>)--Support me!
+
+BACCH. Bless me, what now?ANTI. I faint.
+
+BACCH. Alas, poor soul!
+What is't surprises you, Antiphila?
+
+ANTI. Is't Clinia that I see, or no?
+
+BACCH. Whom do you see?
+
+CLIN. Welcome my soul! (<i>Running up to her.</i>)
+
+ANTI. My wish'd-for Clinia, welcome!
+
+CLIN. How fares my love?
+
+ANTI. O'erjoyed at your return.
+
+CLIN. And do I hold thee, my Antiphila,
+Thou only wish and comfort of my soul!
+
+SYRUS. In, in, for you have made our good man wait. (<i>Exeunt.</i>
+
+ACT THE THIRD.
+
+SCENE I.CHREM. 'Tis now just daybreak.--Why delay I then
+To call my neighbor forth, and be the first
+To tell him of his son's return?--The youth,
+I understand, would fain not have it so.
+But shall I, when I see this poor old man
+Afflict himself so grievously, by silence
+Rob him of such an unexpected joy,
+When the discov'ry can not hurt the son?
+No, I'll not do't; but far as in my pow'r
+Assist the father. As my son, I see,
+Ministers to th' occasions of his friend,
+Associated in counsels, rank, and age,
+So we old men should serve each other too.<b>SCENE II.</b>
+
+<i>Enter MENEDEMUS.</i>
+
+MENE. (<i>to himself</i>). Sure I'm by nature form'd for misery
+Beyond the rest of humankind, or else
+'Tis a false saying, though a common one,
+"That time assuages grief." For ev'ry day
+My sorrow for the absence of my son
+Grows on my mind: the longer he's away,
+The more impatiently I wish to see him,
+The more pine after him.
+
+CHREM. But he's come forth. (<i>Seeing MENEDEMUS.</i>)
+Yonder he stands. I'll go and speak with him.
+Good-morrow, neighbor! I have news for you;
+Such news as you'll be overjoy'd to hear.
+
+MENE. Of my son, Chremes?
+
+CHREM. He's alive and well.
+
+MENE. Where?
+
+CHREM. At my house.MENE. My son?
+
+CHREM. Your son.
+
+MENE. Come home?
+
+CHREM. Come home.
+
+MENE. My dear boy come? my Clinia?
+
+CHREM. He.
+
+MENE. Away then! prithee, bring me to him.
+
+CHREM. Hold!
+He cares not you should know of his return,
+And dreads your sight because of his late trespass.
+He fears, besides, your old severity
+Is now augmented.
+
+MENE. Did not you inform him
+The bent of my affections?
+
+CHREM. Not I.
+
+MENE. Wherefore, Chremes?CHREM. Because 'twould injure both yourself and him
+To seem of such a poor and broken spirit.
+
+MENE. I can not help it. Too long, much too long,
+I've been a cruel father.
+
+CHREM. Ah, my friend,
+You run into extremes; too niggardly,
+Or, too profuse; imprudent either way.
+First, rather than permit him entertain
+A mistress, who was then content with little,
+And glad of any thing, you drove him hence:
+Whereon the girl was forc'd against her will,
+To grow a common gamester for her bread:
+And now she can't be kept without much cost,
+You'd squander thousands. For to let you know
+How admirably madam's train'd to mischief,
+How finely form'd to ruin her admirers,
+She came to my house yesternight with more
+Than half a score of women at her tail,
+Laden with clothes and jewels.--If she had
+A Prince to her gallant, he could not bear
+Such wild extravagance: much less can you.
+
+MENE. Is she within too?CHREM. She within! Aye, truly.
+I've found it to my cost: for I have given
+To her and her companions but one supper;
+And to give such another would undo me.
+For, not to dwell on other circumstances,
+Merely to taste, and smack, and spirt about.
+What quantities of wine has she consum'd!
+<i>This is too rough</i>, she cries; <i>some softer, pray!</i>
+I have pierc'd every vessel, ev'ry cask;
+Kept ev'ry servant running to and fro:
+All this ado, and all in one short night!
+What, Menedemus, must become of you,
+Whom they will prey upon continually?
+Now, afore Heaven, thinking upon this,
+I pitied you.
+
+MENE. Why let him have his will;
+Waste, consume, squander; I'll endure it all,
+So I but have him with me.
+
+CHREM. If resolv'd
+To take that course, I hold it of great moment
+That he perceive not you allow of this.
+
+MENE. What shall I do then?CHREM. Any thing much rather
+Than what you mean to do: at second-hand
+Supply him; or permit his slave to trick you;
+Though I perceive they're on that scent already,
+And privately contriving how to do't.
+There's Syrus, and that little slave of yours
+In an eternal whisper: the young men
+Consulting too together: and it were
+Better to lose a talent by these means,
+Than on your plan a mina: for at present
+Money is not the question, but the means
+To gratify the youth the safest way.
+For if he once perceives your turn of mind,
+And that you'd rather hazard life, and wealth,
+Than part from him; ah, Menedemus, what
+A window to debauchery you'll open!
+Nay, life itself will grow a burden to you;
+For too much liberty corrupts us all.
+Whatever comes into his head, he'll have;
+Nor think if his demand be right or wrong.
+You, on your part, to see your wealth and son
+Both wreck'd, will not be able to endure.
+You'll not comply with his demands; whereon
+He falls to his old fence immediately,
+And knowing where your weak part lies, will threaten
+To leave you instantly.MENE. 'Tis very like.
+
+CHREM. Now on my life I have not clos'd my eyes,
+Nor had a single wink of sleep this night,
+For thinking how I might restore your son.
+
+MENE. Give me your hand: and let me beg you, Chremes, Continue to assist me!
+
+CHREM. Willingly.
+
+MENE. D'ye know what I would have you do at present?
+
+CHREM. What?
+
+MENE. Since you have found out they meditate
+Some practice on me, prithee, urge them on
+To execute it quickly: for I long
+To grant his wishes, long to see him straight.
+
+CHREM. Let me alone. I must lay hold of Syrus,
+And give him some encouragement.--But see!
+Some one, I know not who, comes forth: In, in,
+Lest they perceive that we consult together!
+I have a little business too in hand.
+Simus and Crito, our two neighbors here,
+Have a dispute about their boundaries;And they've referr'd it to my arbitration,
+I'll go and tell them, 'tis not in my power
+To wait on them, as I propos'd to-day.
+I will be with you presently.
+
+MENE. Pray do. (<i>Exit CHREMES.</i>
+Gods! that the nature of mankind is such,
+To see and judge of the affairs of others
+Much better than their own! Is't therefore so,
+Because that, in our own concerns, we feel
+Too much the influence of joy or sorrow?
+How much more wisely does my neighbor here,
+Consult for me, than I do for myself!
+
+CHREM. (<i>returning.</i>) I've disengag'd myself! that I might be At leisure to attend on your affairs. (<i>Exit MENEDEMUS.</i>
+
+[Changes:
+
+<i>Harper</i>
+  So I but have him with me.
+<i>Colman 1768</i>
+  So I but keep him with me.
+
+<i>Harper</i>
+  And that you'd rather hazard life, and wealth,  Than part from him; ah, Menedemus, what
+  A window to debauchery you'll open!
+  Nay, life itself will grow a burden to you;
+<i>Colman 1768</i>
+  That you had rather throw away your life,
+  And waste your whole estate, than part with him,
+  Ah, what a window to debauchery
+  You'll open, Menedemus! Such a one,
+  As will embitter even life itself;
+
+<i>Harper</i>
+  Too much the influence of joy or sorrow?
+<i>Colman 1768</i>
+  The influence of joy or grief too nearly?]<b>SCENE III.</b>
+
+<i>Enter SYRUS at another part of the stage.</i>
+
+SYRUS (<i>to himself.</i>) This way, or that way, or some way or other! For money must be had, and th' old man trick'd.
+
+CHREM. (<i>overbearing.</i>) Was I deceiv'd in thinking they were at it? That slave of Clinia's, it should seem, is dull, And so our Syrus has the part assign'd him.
+
+SYRUS. Who's there (<i>seeing CHREMES</i>). Undone if he has overheard me. (<i>Aside.</i>)
+
+CHREM. Syrus.
+
+SYRUS. Sir!
+
+CHREM. What now?
+
+SYRUS. Nothing.--But I wonder
+To see you up so early in the morning,
+Who drank so freely yesterday.
+
+CHREM. Not much.SYRUS. Not much? You have, Sir, as the proverb goes, The old age of an eagle.
+
+CHREM. Ah!
+
+SYRUS. A pleasant,
+Good sort of girl, this wench of Clinia's.
+
+CHREM. Aye, so she seems.
+
+SYRUS. And handsome.
+
+CHREM. Well enough.
+
+SYRUS. Not like the maids of old, but passable,
+As girls go now: nor am I much amaz'd
+That Clinia dotes upon her. But he has,
+Alas, poor lad! a miserable, close,
+Dry, covetous, curmudgeon to his father:
+Our neighbor here; d'ye know him?--Yet, as if
+He did not roll in riches, his poor son
+Was forc'd to run away for very want.
+D'ye know this story?
+
+CHREM. Do I know it? Aye.
+A scoundrel! should be horse-whipp'd.SYRUS. Who?
+
+CHREM. That slave
+Of Clinia's----
+
+SYRUS. Troth, I trembled for you, Syrus! (<i>Aside.</i>)
+
+CHREM. Who suffer'd this.
+
+SYRUS. Why what should he have done?
+
+CHREM. What?--have devis'd expedients, contriv'd schemes,
+To raise the cash for the young gentleman
+To make his mistress presents; and have done
+A kindness to th' old hunks against his will.
+
+SYRUS. You jest.
+
+CHREM. Not I: it was his duty, Syrus.
+
+SYRUS. How's this? why prithee then, d'ye praise those slaves, Who trick their masters?
+
+CHREM. Yes upon occasion.
+
+SYRUS. Mighty fine, truly!CHREM. Why, it oft prevents
+A great deal of uneasiness: for instance,
+This Clinia, Menedemus' only son,
+Would never have elop'd.
+
+SYRUS. I can not tell
+Whether he says all this in jest or earnest;
+But it gives fresh encouragement to me. (<i>Aside.</i>)
+
+CHREM. And now what is't the blockhead waits for, Syrus?
+Is't till his master runs away again,
+When he perceives himself no longer able
+To bear with the expenses of his mistress?
+Has he no plot upon th' old gentleman?
+
+SYRUS. He's a poor creature.
+
+CHREM. But it is your part,
+For Clinia's sake, to lend a helping hand.
+
+SYRUS. Why, that indeed I easily can do,
+If you command me; for I know which way.
+
+CHREM. I take you at your word.
+
+SYRUS. I'll make it good.CHREM. Do so.
+
+SYRUS. But hark ye, Sir! remember this,
+If ever it hereafter comes to pass,
+--As who can answer for th' affairs of men!
+That your own son----
+
+CHREM. I hope 'twill never be.
+
+SYRUS. I hope so too; nor do I mention this
+From any knowledge or suspicion of him:
+But that in case--his time of life, you know;
+And should there be occasion, trust me, Chremes,
+But I could handle you most handsomely.
+
+CHREM. Well, well, we'll think of it, when that time comes. Now to your present task! (<i>Exit CHREMES.</i>
+
+[Changes:
+
+<i>Harper</i>
+  SYRUS. This way, or that way, or some way or other!
+  For money must be had, and th' old man trick'd.
+<i>Colman 1768</i>
+  SYRUS. One way, or other, money must be had,
+  And the old gentleman impos'd upon.<i>Harper</i>
+  CHREM. What?--have devis'd expedients, contriv'd schemes,
+<i>Colman 1768</i>
+  CHREM. What?--have devis'd some scheme, some ways and means
+
+<i>Harper</i>
+  This Clinia, Menedemus' only son,
+  Would never have elop'd.
+  SYRUS. I can not tell
+  Whether he says all this in jest or earnest;
+  But it gives fresh encouragement to me.
+<i>Colman 1768</i>
+  My neighbour Menedemus, well deceiv'd,
+  Would ne'er have seen his son abandon him.
+  SYRUS. I don't know whether he's in jest or earnest,
+  But it gives me encouragement to trick him.
+
+  Now to your present task!
+<i>initial "N" invisible in Harper edition</i>]
+
+SCENE IV.
+
+<i>SYRUS alone.</i>
+
+I never heard
+My master argue more commodiously;Nor ever had a mind to mischief, when
+It might be done with more impunity.
+But who's this coming from our house?
+
+[Changes:
+
+<i>Harper</i>
+  Nor ever had a mind to mischief, when
+<i>Colman 1768</i>
+  Nor ever was inclin'd to mischief, when]
+
+<b>SCENE V.</b>
+
+<i>Enter CLITIPHO, and CHREMES following.</i>
+
+CHREM. How now?
+What manners are these, Clitipho? does this
+Become you?
+
+CLIT. What's the matter?
+
+CHREM. Did not I
+This very instant see you put your hand
+Into yon wench's bosom?SYRUS. So! all's over:
+I am undone. (<i>Aside.</i>)
+
+CLIT. Me, Sir?
+
+CHREM. These very eyes
+Beheld you: don't deny it.--'Tis base in you
+To be so flippant with your hands. For what
+Affront's more gross than to receive a friend
+Under your roof, and tamper with his mistress?
+And, last night in your cups too, how indecent
+And rudely you behav'd!
+
+SYRUS. 'Tis very true.
+
+CHREM. So very troublesome, so help me Heav'n,
+I fear'd the consequence. I know the ways
+Of lovers: they oft take offense at things
+You dream not of.
+
+CLIT. But my companion, Sir,
+Is confident I would not wrong him.
+
+CHREM. Granted.
+Yet you should cease to hang forever on them.
+Withdraw, and leave them sometimes to themselves.Love has a thousand sallies; you restrain them.
+I can conjecture from myself. There's none,
+How near soever, Clitipho, to whom
+I dare lay open all my weaknesses.
+With one my pride forbids it, with another
+The very action shames me: and believe me,
+It is the same with him; and 'tis our place
+To mark on what occasions to indulge him.
+
+SYRUS. What says he now? (<i>Aside.</i>)
+
+CLIT. Confusion!
+
+SYRUS. Clitipho,
+These are the very precepts that I gave you:
+And how discreet and temperate you've been!
+
+CLIT. Prithee, peace!
+
+SYRUS. Aye, I warrant you.
+
+CHREM. Oh, Syrus,
+I'm quite asham'd of him.
+
+SYRUS. I do not doubt it.
+Nor without reason; for it troubles me.

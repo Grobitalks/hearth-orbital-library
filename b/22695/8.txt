@@ -1,0 +1,1549 @@
+HOLB1	22695	8	640	60	700	150
+4	Prologue.
+7	Act The Firs, Scene I. SIMO, SOSIA, and SERVAN
+18	Act The Firs, Scene II. Enter DAVUS.
+22	Act The Firs, Scene III. Davus.
+25	Act The Firs, Scene V. PAMPHILUS, MYSIS behind
+31	Act The Seco, Scene I. Charinus, Byrrhia.
+33	Act The Seco, Scene II. Enter PAMPHILUS.
+36	Act The Seco, Scene III. Enter DAVUS hastily.
+42	Act The Seco, Scene IV. Pamphilus. Davus.
+47	Act The Seco, Scene VI. Enter BYRRHIA behind.
+50	Act The Seco, Scene VII. Manent SIMO and DAVUS
+55	Act The Thir, Scene II. Manent SIMO, DAVUS.
+57	Act The Thir, Scene IV.
+63	Act The Thir, Scene V. Enter CHREMES.
+67	Act The Thir, Scene VI. Enter DAVUS.
+71	Act The Thir, Scene VIII. Enter PAMPHILUS; DAV
+74	Act The Four, Scene I. CHARINUS alone.
+75	Act The Four, Scene II. To him PAMPHILUS and D
+80	Act The Four, Scene III. Enter MYSIS.
+86	Act The Four, Scene VI. Re-enter DAVUS with th
+89	Act The Four, Scene VII. Enter CHREMES going t
+96	Act The Four, Scene IX. Enter CRITO.
+99	Act The Fift, Scene I. Chremes, Simo.
+101	Act The Fift, Scene II. Enter DAVUS from GLYCE
+107	Act The Fift, Scene V. Enter PAMPHILUS.
+110	Act The Fift, Scene VI. Re-enter PAMPHILUS wit
+120	Act The Fift, Scene VIII. Enter DAVUS.
+124	Prologue.
+127	Act The Firs, Scene I. Enter PHAEDRIA and PARM
+129	Act The Firs, Scene II. Enter THAIS.
+139	Act The Seco, Scene I. Phaedria, Parmeno.
+143	Act The Seco, Scene II. Enter GNATHO leading P
+150	Act The Seco, Scene III. Enter CHAEREA; PARMEN
+162	Act The Seco, Scene III. Labeled SCENE IV in 1
+165	Act The Thir, Scene I. Enter THRASO and GNATHO
+173	Act The Thir, Scene II. Enter THAIS and PYTHIA
+180	Act The Thir, Scene III. CHREMES alone.
+184	Act The Thir, Scene V. ANTIPHO alone.
+186	Act The Thir, Scene VI. Enter CHAEREA, in the 
+194	Act The Four, Scene I. Enter DORIAS, with a Ca
+196	Act The Four, Scene II. Enter PHAEDRIA.
+197	Act The Four, Scene III. Enter PYTHIAS and DOR
+200	Act The Four, Scene IV.
+208	Act The Four, Scene VI. Enter CHREMES tipsy.
+210	Act The Four, Scene VII. Enter THAIS.
+215	Act The Four, Scene VIII. Enter THRASO, GNATHO
+223	Act The Fift, Scene I. THAIS and PYTHIAS.
+226	Act The Fift, Scene II. Enter CHAEREA.
+234	Act The Fift, Scene III. Pythias, Chremes, Sop
+236	Act The Fift, Scene IV. Enter PARMENO.
+237	Act The Fift, Scene V. Pythias, Parmeno.
+242	Act The Fift, Scene VI. Enter LACHES.
+246	Act The Fift, Scene VII. Enter PYTHIAS; PARMEN
+250	Act The Fift, Scene VIII. Enter THRASO, GNATHO
+252	Act The Fift, Scene IX. Enter CHAEREA at anoth
+255	Act The Fift, Scene X. Enter PHAEDRIA.
+264	Prologue.
+267	Act The Firs, Scene I. Chremes, Menedemus.
+276	Act The Firs, Scene II. CHREMES alone.
+277	Act The Firs, Scene III. Enter CLITIPHO, speak
+281	Act The Firs, Scene IV. CLITIPHO alone.
+283	Act The Seco, Scene I. Enter CLINIA.
+285	Act The Seco, Scene II. Enter SYRUS and DROMO,
+299	Act The Seco, Scene III. Enter BACCHIS, and AN
+303	Act The Thir, Scene II. Enter MENEDEMUS.
+311	Act The Thir, Scene III. Enter SYRUS at anothe
+317	Act The Thir, Scene V. Enter CLITIPHO, and CHR
+321	Act The Thir, Scene VI. Chremes, Syrus.
+325	Act The Thir, Scene VII. Enter at a distance S
+332	Act The Four, Scene I. SYRUS, alone.
+333	Act The Four, Scene II. Enter CLINIA at anothe
+338	Act The Four, Scene III.
+344	Act The Four, Scene V. After which, enter CHRE
+351	Act The Four, Scene VI. Enter CLITIPHO.
+356	Act The Four, Scene IX. Enter MENEDEMUS.
+362	Act The Fift, Scene II. Enter CHREMES.
+372	Act The Fift, Scene III. Re-enter MENEDEMUS, w
+375	Act The Fift, Scene IV. Manent CLITIPHO, SYRUS
+379	Act The Fift, Scene VI. Enter CHREMES, SOSTRAT
+382	Act The Fift, Scene VII. Enter CLITIPHO.
+384	Act The Fift, Scene VIII. Enter MENEDEMUS.
+388	Prologue.
+390	Act The Firs, Scene I. Enter MICIO.
+394	Act The Firs, Scene II. Enter DEMEA.
+401	Act The Firs, Scene III. MICIO alone.
+402	Act The Seco, Scene I.
+408	Act The Seco, Scene II. SANNIO alone.
+409	Act The Seco, Scene III. Enter SYRUS.
+413	Act The Seco, Scene IV. Enter CTESIPHO at anot
+415	Act The Seco, Scene V. Enter AESCHINUS.
+418	Act The Thir, Scene I. Sostrata, Canthara.
+420	Act The Thir, Scene II. Enter GETA hastily at 
+426	Act The Thir, Scene III. Enter DEMEA.
+427	Act The Thir, Scene IV. Enter SYRUS at another
+437	Act The Thir, Scene VI. Enter HEGIO, GETA conv
+444	Act The Four, Scene I. Ctesipho, Syrus.
+447	Act The Four, Scene II. Enter DEMEA at another
+455	Act The Four, Scene IV. Enter MICIO and HEGIO.
+457	Act The Four, Scene V. AESCHINUS alone.
+459	Act The Four, Scene VI. Enter MICIO.
+469	Act The Four, Scene IX. Enter MICIO.
+475	Act The Four, Scene XI. Enter at a distance SY
+478	Act The Four, Scene XIV. Enter MICIO from SOST
+484	Act The Fift, Scene I. DEMEA alone.
+488	Act The Fift, Scene IV. Enter AESCHINUS.
+490	Act The Fift, Scene V. Enter MICIO.
+496	Act The Fift, Scene VI. To them SYRUS.
+501	Prologue.
+505	Act The Firs, Scene I. Philotis, Syra.
+506	Act The Firs, Scene II. Enter PARMENO.
+516	Act The Seco, Scene I. Laches, Sostrata.
+520	Act The Seco, Scene II. Enter PHIDIPPUS.
+523	Act The Seco, Scene III. Manet SOSTRATA.
+524	Act The Thir, Scene I. Enter PAMPHILUS and PAR
+529	Act The Thir, Scene III. Enter SOSTRATA.
+532	Act The Thir, Scene V. PAMPHILUS alone.
+536	Act The Thir, Scene VI.
+540	Act The Thir, Scene VIII. Enter at a distance 
+544	Act The Thir, Scene IX. Manent LACHES and PHID
+547	Act The Four, Scene II. Enter PHIDIPPUS.
+552	Act The Four, Scene IV. Sostrata, Pamphilus.
+555	Act The Four, Scene V. Enter LACHES.
+558	Act The Four, Scene VI. Enter PHIDIPPUS.
+564	Act The Four, Scene VII. Manent PHIDIPPUS, LAC
+566	Act The Four, Scene VIII. Enter BACCHIS attend
+570	Act The Four, Scene IX. Enter PHIDIPPUS and a 
+576	Act The Fift, Scene III. BACCHIS alone.
+578	Act The Fift, Scene IV. Enter at a distance PA
+583	Prologue.
+586	Act The Firs, Scene I. DAVUS alone.
+587	Act The Firs, Scene II. Enter GETA.
+596	Act The Firs, Scene III. Antipho, Phaedria.
+598	Act The Firs, Scene IV. Enter at a distance _G
+605	Act The Firs, Scene VI. Enter DEMIPHO at anoth
+613	Act The Seco, Scene I. Phormio, Geta.
+617	Act The Seco, Scene II.
+626	Act The Seco, Scene III.
+629	Act The Seco, Scene IV. Enter at a distance AN
+632	Act The Seco, Scene V. Enter, from Dorio's, DO
+639	Act The Seco, Scene VI. Phaedria, Antipho, Get
+644	Act The Thir, Scene I. Enter DEMIPHO and CHREM
+646	Act The Thir, Scene II. Enter, at another part
+647	Act The Thir, Scene III. Enter behind, ANTIPHO
+655	Act The Thir, Scene IV. Manent ANTIPHO, GETA.
+658	Act The Thir, Scene V. Re-enter DEMIPHO and CH
+660	Act The Thir, Scene VI. Enter SOPHRONA at a di
+665	Act The Four, Scene I. Demipho, Geta.
+667	Act The Four, Scene III. Enter DEMIPHO and NAU
+669	Act The Four, Scene IV. Enter CHREMES, hastily
+675	Act The Four, Scene VII. Enter, at a distance,
+ANT. My father is arriv'd.
+
+GETA. He is: what then?
+
+ANT. A word to the wise, Geta!
+
+GETA. Say you so?
+
+ANT. Ev'n so.
+
+GETA. By Hercules, 'tis rare advice.
+Are you there with me? will it not be triumph,
+So I but 'scape a scouring for your match,
+That you must urge me to run risks for him?
+
+ANT. He speaks the truth, I must confess.
+
+PHAED. How's that?
+Am I a stranger to you, Geta?
+
+GETA. No:
+Nor do I hold you such. But is it nothing
+That the old man now rages at us all,
+Unless we irritate him so much further
+As to preclude all hopes to pacify him?PHAED. Shall then another bear her hence? Ah me!
+Now then, while I remain, speak to me, Antipho.
+Behold me!
+
+ANT. Wherefore? what is it you mean?
+
+PHAED. Wherever she's convey'd, I'll follow her;
+Or perish.
+
+GETA. Heaven prosper your designs!--
+Gently, Sir, gently!
+
+ANT. See if you can help him.
+
+GETA. Help him! but how?
+
+ANT. Nay, think, invent, devise;
+Lest he do something we repent of, Geta!
+
+GETA. I'm thinking. (<i>Pausing.</i>)--Well then I believe, he's safe. But I'm afraid of mischief.
+
+ANT. Never fear:
+We'll bear all good and evil fortune with you.
+
+GETA. Tell me the sum you have occasion for.PHAED. But thirty minae.
+
+GETA. Thirty! monstrous, Phaedria!
+She's very dear.
+
+PHAED. Dog-cheap.
+
+GETA. Well, say no more.
+I'll get them for you.
+
+PHAED. O brave fellow!
+
+GETA. Hence!
+
+PHAED. But I shall want it now.
+
+GETA. You'll have it now.
+But Phormio must assist me in this business.
+
+ANT. He's ready: lay what load you will upon him,
+He'll bear it all; for he's a friend indeed.
+
+GETA. Let's to him quickly then!
+
+ANT. D'ye want my help?GETA. We've no occasion for you. Get you home
+To the poor girl, who's almost dead with fear;
+And see you comfort her.--Away! d'ye loiter?
+
+ANT. There's nothing I would do so willingly. (<i>Exit.</i>
+
+PHAED. But how will you effect this?
+
+GETA. I'll explain
+That matter as we go along.--Away! (<i>Exeunt.</i>
+
+[Changes:
+
+<i>Harper</i>
+  That the old man now rages at us all
+<i>Colman 1768</i>
+  That Demipho now rages at us all]
+
+ACT THE THIRD.<b>SCENE I.</b>
+
+<i>Enter DEMIPHO and CHREMES.</i>
+
+DEM. Well, Chremes, have you brought your daughter with you, On whose account you went to Lemnos?
+
+CHREM. No.
+
+DEM. Why not?
+
+CHREM. It seems the mother, grown impatient,
+Perceiving that I tarried here so long,
+And that the girl's age brook'd not my delays,
+Had journeyed here, they said, in search of me,
+With her whole family.
+
+DEM. Appris'd of this,
+What kept you there so long then?
+
+CHREM. A disease.
+
+DEM. How came it? what disease?
+
+CHREM. Is that a question?
+Old age itself is a disease.--However,The master of the ship, who brought them over,
+Inform'd me of their safe arrival hither.
+
+DEM. Have you heard, Chremes, of my son's misfortune During my absence?
+
+CHREM. Aye; and it confounds me.
+For to another should I tender her,
+I must relate the girl's whole history,
+And whence arises my connection with her.
+You I can trust as safely as myself:
+But if a stranger courts alliance with me,
+While we're new friends, he'll hold his peace perhaps,
+But if he cools, he'll know too much of me.
+Then I'm afraid my wife should know of this;
+Which if she does, I've nothing else to do
+But shake myself, and leave my house directly:
+For I've no friend at home except myself.
+
+DEM. I know it; and 'tis that which touches me.
+Nor are there any means I'll leave untried,
+Till I have made my promise to you good.
+
+[Changes:
+
+<i>Harper</i>
+  CHREM. It seems the mother, grown impatient<i>Colman 1768</i>
+  CHREM. Her mother grown, it seems, impatient
+
+  Inform'd me of their safe arrival hither.
+<i>Harper edition reads "safe arrival higher"</i>]
+
+<b>SCENE II.</b>
+
+<i>Enter, at another part of the stage, GETA.</i>
+
+GETA (<i>to himself</i>). I never saw a more shrewd rogue than Phormio.
+I came to let him know we wanted money,
+With my advice for getting it; and scarce
+Had I related half, but he conceiv'd me.
+He was o'erjoy'd; commended me; demanded
+To meet with Demipho; and thank'd the god;
+That it was now the time to show himself
+As truly Phaedria's friend as Antipho's.
+I bade him wait us at the Forum; whither
+I'd bring th' old gentleman.--And there he is!
+--But who's the furthermost? Ha! Phaedria's father.
+--Yet what was I afraid of, simpleton?
+That I have got two dupes instead of one?
+Is it not better that my hopes are doubled?
+--I'll attack him, I first propos'd. If he
+Answers my expectation, well: if not,Why then have at you, uncle!
+
+[Changes:
+
+<i>Harper</i>
+  With my advice for getting it; and scarce
+<i>Colman 1768</i>
+  With my device for getting it; and scarce]
+
+<b>SCENE III.</b>
+
+<i>Enter behind, ANTIPHO.</i>
+
+ANT. (<i>to himself</i>). I expect
+Geta's arrival presently.--But see!
+Yonder's my uncle with my father.--Ah!
+How do I dread his influence!
+
+GETA. I'll to them.
+Oh, good Sir Chremes! (<i>Going up.</i>)
+
+CHREM. Save you, save you, Geta!
+
+GETA. I'm glad to see you safe arriv'd.
+
+CHREM. I thank you.GETA. How go affairs?
+
+CHREM. A world of changes here,
+As usual at first coming home again.
+
+GETA. True. Have you heard of Antipho's affair?
+
+CHREM. The whole.
+
+GETA (<i>to DEMIPHO</i>). Did you inform him, Sir?--'Tis monstrous, Chremes, To he so shamefully impos'd upon!
+
+DEM. 'Twas on that point I was just talking with him.
+
+GETA. And I too, having turn'd it in my thoughts,
+Have found, I think, a remedy.
+
+DEM. How, Geta?
+What remedy?
+
+GETA. On leaving you, by chance
+I met with Phormio.
+
+CHREM. Who is Phormio?
+
+GETA. The girl's solicitor.CHREM. I understand.
+
+GETA. I thought within myself, "suppose I found him!"
+And taking him aside, "Now prithee, Phormio,
+Why don't you try to settle this affair
+By fair means rather than by foul?" said I.
+"My master is a generous gentleman,
+And hates to go to law. For I assure you
+His other friends advis'd him, to a man,
+To turn this girl directly out o' doors."
+
+ANT. (<i>behind</i>). What does he mean? or where will all this end?
+
+GETA. "The law, you think, will give you damages
+If he attempts to turn her out.--Alas!
+He has good counsel upon that.--I' faith,
+You'll have hot work if you engage with him;
+He's such an orator!--But ev'n suppose
+That you should gain your lawsuit, after all
+The trial is not for his life, but money."
+Perceiving him a little wrought upon,
+And soften'd by this style of talking with him,
+"Come now," continued I, "we're all alone.
+Tell me, what money would you take in hand
+To drop your lawsuit, take away the girl,
+And trouble us no farther!"ANT. (<i>behind</i>). Is he mad?
+
+GETA. --"For I am well convinc'd, that if your terms
+Are not extravagant and wild indeed,
+My master's such a worthy gentleman,
+You will not change three words between you."
+
+DEM. Who
+Commission'd you to say all this?
+
+CHREM. Nay, nay,
+Nothing could be more happy to effect
+The point we labor at.
+
+ANT. (<i>behind</i>). Undone!
+
+CHREM. (<i>to GETA</i>). Go on.
+
+GETA. At first he rav'd.
+
+DEM. Why, what did he demand?
+
+GETA. Too much: as much as came into his head.
+
+CHREM. Well, but the sum?GETA. He talk'd of a great talent.
+
+DEM. Plague on the rascal! what! has he no shame?
+
+GETA. The very thing I said to him.--"Suppose
+He was to portion out an only daughter,
+What could he give her more?--He profits little,
+Having no daughter of his own; since one
+Is found to carry off a fortune from him."
+--But to be brief, and not to dwell upon
+All his impertinences, he at last
+Gave me this final answer.--"From the first,
+I wish'd," said he, "as was indeed most fit,
+To wed the daughter of my friend myself.
+For I was well aware of her misfortune;
+That, being poor, she would be rather given
+In slavery, than wedlock, to the rich.
+But I was forc'd, to tell you the plain truth,
+To take a woman with some little fortune,
+To pay my debts: and still, if Demipho
+Is willing to advance as large a sum
+As I'm to have with one I'm now engag'd to.
+There is no wife I'd rather take than her."
+
+ANT. (<i>behind</i>). Whether through malice or stupidity, He is rank knave or fool, I can not tell.DEM. (<i>to GETA</i>). What, if he owes his soul?
+
+GETA. "I have a farm,"
+Continued he, "that's mortgag'd for ten minae."
+
+DEM. Well, let him take her then: I'll pay the money.
+
+GETA. "A house for ten more."
+
+DEM. Huy! huy! that's too much.
+
+CHREM. No noise! demand those ten of me.
+
+GETA. "My wife
+Must buy a maid; some little furniture
+Is also requisite; and some expense
+To keep our wedding: all these articles,"
+Continues he, "we'll reckon at ten minae."
+
+DEM. No; let him bring a thousand writs against me.
+I'll give him nothing. What! afford the villain
+An opportunity to laugh at me?
+
+CHREM. Nay, but be pacified! I'll pay the money.
+Only do you prevail upon your son
+To marry her whom we desire.ANT. (<i>behind</i>). Ah me!
+Geta, your treachery has ruin'd me.
+
+CHREM. She's put away on my account: 'tis just
+That I should pay the money.
+
+GETA. "Let me know,"
+Continues he, "as soon as possible,
+Whether they mean to have me marry her;
+That I may part with t'other, and be certain.
+For t'other girl's relations have agreed
+To pay the portion down immediately."
+
+CHREM. He shall be paid this too immediately.
+Let him break off with her, and take this girl!
+
+DEM. Aye, and the plague go with him!
+
+CHREM. Luckily
+It happens I've some money here; the rents
+Of my wife's farms at Lemnos. I'll take that; (<i>to DEMIPHO</i>)
+And tell my wife that you had need of it. (<i>Exeunt.</i>
+
+[Changes:<i>Harper</i>
+  DEM. No; let him bring a thousand writs against me.
+<i>Colman 1768</i>
+  DEM. No; let him bring ten thousand writs against me.
+
+_Colman's note on this passage says in part: "I have ... rendered the <i>sexcentas</i> of Terence by <i>Ten Thousand</i>, as being most agreeable to the English idiom, as well as the Greek."_]<b>SCENE IV.</b>
+
+<i>Manent ANTIPHO, GETA.</i>
+
+ANT. (<i>coming forward</i>). Geta!
+
+GETA. Ha, Antipho!
+
+ANT. What have you done!
+
+GETA. Trick'd the old bubbles of their money.
+
+ANT. Well,
+Is that sufficient, think ye?
+
+GETA. I can't tell.
+'Twas all my orders.
+
+ANT. Knave, d'ye shuffle with me? (<i>Kicks him.</i>)
+
+GETA. Plague! what d'ye mean?
+
+ANT. What do I mean, Sirrah!
+You've driven me to absolute perdition.
+All pow'rs of heav'n and hell confound you for't,
+And make you an example to all villains!--Here! would you have your business duly manag'd,
+Commit it to this fellow!--What could be
+More tender than to touch upon this sore,
+Or even name my wife? my father's fill'd
+With hopes that she may be dismiss'd.--And then,
+If Phormio gets the money for the portion,
+He, to be sure, must marry her.--And what
+Becomes of me then?
+
+GETA. He'll not marry her.
+
+ANT. Oh, no: but when they redemand the money,
+On my account he'll rather go to jail! (<i>Ironically.</i>)
+
+GETA. Many a tale is spoiled in telling, Antipho.
+You take out all the good, and leave the bad.
+--Now hear the other side--If he receives
+The money, he must wed the girl: I grant it.
+But then some little time must be allow'd
+For wedding-preparation, invitation,
+And sacrifices.--Meanwhile, Phaedria's friends
+Advance the money they have promis'd him:
+Which Phormio shall make use of for repayment.
+
+ANT. How so? what reason can he give?GETA. What reason?
+A thousand.--"Since I made this fatal bargain,
+Omens and prodigies have happen'd to me.
+There came a strange black dog into my house!
+A snake fell through the tiling! a hen crow'd!
+The Soothsayer forbade it! The Diviner
+Charg'd me to enter on no new affair
+Before the winter."--All sufficient reasons.
+Thus it shall be.
+
+ANT. Pray Heav'n it may be!
+
+GETA. It shall.
+Depend on me:--But here's your father.--Go;
+Tell Phaedria that the money's safe. (<i>Exit ANTIPHO.</i><b>SCENE V.</b>
+
+<i>Re-enter DEMIPHO and CHREMES.</i>
+
+DEM. Nay, peace!
+I'll warrant he shall play no tricks upon us:
+I'll not part rashly with it, I assure you;
+But pay it before witnesses, reciting
+To whom 'tis paid, and why 'tis paid.
+
+GETA. How cautious,
+Where there is no occasion! (<i>Aside.</i>)
+
+CHREM. You had need.
+But haste, dispatch it while the fit's upon him:
+For if the other party should be pressing,
+Perhaps he'll break with us.
+
+GETA. You've hit it, Sir.
+
+DEM. Carry me to him then.
+
+GETA. I wait your pleasure.
+
+CHREM. (<i>to DEMIPHO</i>). When this is done, step over to my wife,
+That she may see the girl before she goes;And tell her, to prevent her being angry,
+"That we've agreed to marry her to Phormio,
+Her old acquaintance, and a fitter match;
+That we have not been wanting in our duty,
+But giv'n as large a portion as he ask'd."
+
+DEM. Pshaw! what's all this to you?
+
+CHREM. A great deal, brother.
+
+DEM. Is't not sufficient to have done your duty,
+Unless the world approves it?
+
+CHREM. I would choose
+To have the whole thing done by her consent,
+Lest she pretend she was turn'd out o' doors.
+
+DEM. Well, I can say all this to her myself.
+
+CHREM. A woman deals much better with a woman.
+
+DEM. I'll ask your wife to do it then. (<i>Exeunt DEMIPHO and GETA.</i>
+
+CHREM. I'm thinking
+Where I shall find these women now.[Changes:
+
+<i>Harper</i>
+  Lest she pretend she was turn'd out o' doors.
+<i>Colman 1768</i>
+  Lest she pretend we turn'd her out o' doors.]
+
+<b>SCENE VI.</b>
+
+<i>Enter SOPHRONA at a distance.</i>
+
+SOPH. (<i>to herself</i>). Alas!
+What shall I do, unhappy as I am?
+Where find a friend? to whom disclose this story?
+Of whom beseech assistance?--For I fear
+My mistress will sustain some injury
+From following my counsel: the youth's father,
+I hear, is so offended at this marriage.
+
+CHREM. Who's this old woman, coming from my brother's, That seems so terrified?
+
+SOPH. (<i>to herself</i>). 'Twas poverty
+Compell'd me to this action: though I knew
+This match would hardly hold together long,
+Yet I advis'd her to it, that meanwhileShe might not want subsistence.
+
+CHREM. Surely, surely,
+Either my mind deceives me, or my eyes fail me,
+Or that's my daughter's nurse.
+
+SOPH. Nor can we find----
+
+CHREM. What shall I do?
+
+SOPH. --Her father out.
+
+CHREM. Were't best
+I should go up to her, or wait a little,
+To gather something more from her discourse?
+
+SOPH. Could he be found, my fears were at an end.
+
+CHREM. 'Tis she. I'll speak with her.
+
+SOPH. (<i>overhearing</i>). Whose voice is that?
+
+CHREM. Sophrona!
+
+SOPH. Ha! my name too?CHREM. Look this way.
+
+SOPH. (<i>turning</i>). Good Heav'n have mercy on us! Stilpho!
+
+CHREM. No.
+
+SOPH. Deny your own name?
+
+CHREM. (<i>in a low voice</i>). This way, Sophrona!----
+--A little further from that door!--this way!----
+And never call me by that name, I charge you.
+
+SOPH. What, ar'n't you then the man you said you was? (<i>Aloud.</i>)
+
+CHREM. Hist! hist!
+
+SOPH. What makes you fear those doors so much?
+
+CHREM. I have a fury of a wife within:
+And formerly I went by that false name,
+Lest she should indiscreetly blab it out,
+And so my wife might come to hear of this.
+
+SOPH. Ah! thus it was, that we, alas! poor souls,
+Could never find you out here.CHREM. Well, but tell me, What business have you with that family? (<i>Pointing.</i>) --Where is your mistress and her daughter?
+
+SOPH. Ah!
+
+CHREM. What now? are they alive?
+
+SOPH. The daughter is:
+The mother broke her heart with grief.
+
+CHREM. Alas!
+
+SOPH. And I a poor, unknown, distress'd old woman,
+Endeavoring to manage for the best,
+Contriv'd to match the virgin to a youth,
+Son to the master of this house.
+
+CHREM. To Antipho?
+
+SOPH. The very same.
+
+CHREM. What! has he two wives then?
+
+SOPH. No, mercy on us! he has none but her.CHREM. What is the other then, who, they pretend,
+Is a relation to him?
+
+SOPH. This is she.
+
+CHREM. How say you?
+
+SOPH. It was all a mere contrivance:
+That he, who was in love, might marry her
+Without a portion.
+
+CHREM. O ye powers of heav'n,
+How often fortune blindly brings about
+More than we dare to hope for! Coming home,
+I've found my daughter, even to my wish,
+Match'd to the very person I desir'd.
+What we have both been laboring to effect,
+Has this poor woman all alone accomplish'd.
+
+SOPH. But now consider what is to be done!
+The bridegroom's father is return'd; and he,
+They say, is much offended at this marriage.
+
+CHREM. Be of good comfort: there's no danger there.
+But, in the name of heav'n and earth, I charge you,
+Let nobody discover she's my daughter.SOPH. None shall discover it from me.
+
+CHREM. Come then!
+Follow me in, and you shall hear the rest. (<i>Exeunt.</i>
+
+ACT THE FOURTH.
+
+<b>SCENE I.</b>
+
+<i>DEMIPHO, GETA.</i>
+
+DEM. 'Tis our own fault that we encourage rogues,
+By overstraining the due character
+Of honesty and generosity.
+"Shoot not beyond the mark," the proverb goes.
+Was't not enough that he had done us wrong,
+But we must also throw him money too,
+To live till he devises some new mischief?
+
+GETA. Very right!
+
+DEM. Knavery's now its own reward.
+
+GETA. Very true!
+
+DEM. How like fools have we behav'd!GETA. So as he keeps his word, and takes the girl,
+'Tis well enough.
+
+DEM. Is that a doubt at present?
+
+GETA. A man, you know, may change his mind.
+
+DEM. How! change?
+
+GETA. That I can't tell: but, if perhaps, I say.
+
+DEM. I'll now perform my promise to my brother,
+And bring his wife to talk to the young woman.
+You, Geta, go before, and let her know
+Nausistrata will come and speak with her. (<i>Exit DEMIPHO.</i>
+
+SCENE II.
+
+<i>GETA alone.</i>
+
+The money's got for Phaedria: all is hush'd:
+And Phanium is not to depart as yet.
+What more then? where will all this end at last?
+--Alas! you're sticking in the same mire still:
+You've only chang'd hands, Geta. The disaster
+That hung but now directly over you,Delay perhaps will bring more heavy on you.
+You're quite beset, unless you look about.
+--Now then I'll home; to lesson Phanium,
+That she mayn't stand in fear of Phormio,
+Nor dread this conf'rence with Nausistrata. (<i>Exit.</i>
+
+<b>SCENE III.</b>
+
+<i>Enter DEMIPHO and NAUSISTRATA.</i>
+
+DEM. Come then, Nausistrata, afford us now
+A little of your usual art, and try
+To put this woman in good humor with us;
+That what is done she may do willingly.
+
+NAUS. I will.
+
+DEM. And now assist us with your counsel,
+As with your cash a little while ago.
+
+NAUS. With all my heart: and I am only sorry
+That 'tis my husband's fault I can't do more.
+
+DEM. How so?NAUS. Because he takes such little care
+Of the estate my father nurs'd so well:
+For from these very farms he never fail'd
+To draw two talents by the year. But ah!
+What difference between man and man!
+
+DEM. Two talents?
+
+NAUS. Aye--in worse times than these--and yet two talents?
+
+DEM. Huy!
+
+NAUS. What, are you surpris'd?
+
+DEM. Prodigiously.
+
+NAUS. Would I had been a man! I'd show----
+
+DEM. No doubt.
+
+NAUS. --By what means----
+
+DEM. Nay, but spare yourself a little
+For the encounter with the girl: lest she,
+Flippant and young, may weary you too much.NAUS. --Well, I'll obey your orders: but I see
+My husband coming forth.
+
+<b>SCENE IV.</b>
+
+<i>Enter CHREMES, hastily.</i>
+
+CHREM. Ha!
+Has Phormio had the money yet?
+
+DEM. I paid him
+Immediately.
+
+CHREM. I'm sorry for't.-- (<i>Seeing NAUSISTRATA.</i>)--My wife! I'd almost said too much. (<i>Aside.</i>)
+
+DEM. Why sorry, Chremes?
+
+CHREM. Nothing.--No matter.
+
+DEM. Well, but hark ye, Chremes!
+Have you been talking with the girl, and told her
+Wherefore we bring your wife?
+
+CHREM. I've settled it.DEM. Well, and what says she?
+
+CHREM. 'Tis impossible
+To send her hence.
+
+DEM. And why impossible?
+
+CHREM. Because they are both so fond of one another.
+
+DEM. What's that to us?
+
+CHREM. A great deal. And besides,
+I have discover'd she's related to us.
+
+DEM. Have you your wits?
+
+CHREM. 'Tis so. I'm very serious.
+--Nay, recollect a little!
+
+DEM. Are you mad?
+
+NAUS. Good now, beware of wronging a relation!
+
+DEM. She's no relation to us.CHREM. Don't deny it.
+Her father had assum'd another name,
+And that deceiv'd you.
+
+DEM. What! not know her father?
+
+CHREM. Perfectly.
+
+DEM. Why did she misname him then?
+
+CHREM. Won't you be rul'd, nor understand me then?
+
+DEM. What can I understand from nothing?
+
+CHREM. Still? (<i>Impatiently.</i>)
+
+NAUS. I can't imagine what this means.
+
+DEM. Nor I.
+
+CHREM. Would you know all?--Why then, so help me Heaven, She has no nearer kindred in the world Than you and I.
+
+DEM. Oh, all ye powers of heaven!
+--Let us go to her then immediately:
+I would fain know, or not know, all at once. (<i>Going.</i>)CHREM. Ah! (<i>Stopping him.</i>)
+
+DEM. What's the matter?
+
+CHREM. Can't you trust me then?
+
+DEM. Must I believe it? take it upon trust?
+--Well, be it so!--But what is to be done
+With our friend's daughter?
+
+CHREM. Nothing.
+
+DEM. Drop her?
+
+CHREM. Aye.
+
+DEM. And keep this?
+
+CHREM. Aye.
+
+DEM. Why then, Nausistrata,
+You may return. We need not trouble you.
+
+NAUS. Indeed, I think, 'tis better on all sides,
+That you should keep her here, than send her hence.
+For she appear'd to me, when first I saw her,Much of a gentlewoman. (<i>Exit NAUSISTRATA.</i>
+
+[Changes:
+
+<i>Harper</i>
+  CHREM. Ha!
+<i>Colman 1768</i>
+  CHREM. Ha! Demipho!]
+
+SCENE V.
+
+<i>Manent DEMIPHO and CHREMES.</i>
+
+DEM. What means this?
+
+CHREM. (<i>looking after NAUSISTRATA</i>). Is the door shut?
+
+DEM. It is.
+
+CHREM. O Jupiter!
+The Gods take care of us. I've found my daughter
+Married to your son.
+
+DEM. Ha! how could it be?
+
+CHREM. It is not safe to tell you here.DEM. Step in then.
+
+CHREM. But hark ye, Demipho!--I would not have
+Even our very sons inform'd of this. (<i>Exeunt.</i>
+
+SCENE VI.
+
+<i>ANTIPHO alone.</i>
+
+I'm glad, however my affairs proceed,
+That Phaedria's have succeeded to his mind.
+How wise to foster such desires alone,
+As, although cross'd, are easily supplied!
+Money, once found, sets Phaedria at his ease;
+But my distress admits no remedy.
+For, if the secret's kept, I live in fear;
+And if reveal'd, I am expos'd to shame.
+Nor would I now return, but in the hope
+Of still possessing her.--But where is Geta?
+That I may learn of him the fittest time
+To meet my father.<b>SCENE VII.</b>
+
+<i>Enter, at a distance, PHORMIO.</i>
+
+PHOR. (<i>to himself</i>). I've receiv'd the money;
+Paid the procurer; carried off the wench;
+Who's free, and now in Phaedria's possession.
+One thing alone remains to be dispatch'd;
+To get a respite from th' old gentlemen
+To tipple some few days, which I must spend
+In mirth and jollity.
+
+ANT. But yonder's Phormio.-- (<i>Goes up.</i>)
+What now?
+
+PHOR. Of what?
+
+ANT. What's Phaedria about?
+How does he mean to take his fill of love?
+
+PHOR. By acting your part in his turn.
+
+ANT. What part?
+
+PHOR. Flying his father's presence.--And he begs
+That you'd act his, and make excuses for him;For he intends a drinking-bout with me.
+I shall pretend to the old gentlemen
+That I am going to the fair at Sunium,
+To buy the servant-maid that Geta mention'd:
+Lest, finding I am absent, they suspect
+That I am squandering the sum they paid me.
+--But your door opens.
+
+ANT. Who comes here?
+
+PHOR. 'Tis Geta.<b>SCENE VIII.</b>
+
+<i>Enter hastily, at another part of the stage, GETA.</i>
+
+GETA. O fortune, O best fortune, what high blessings, What sudden, great, and unexpected joys Hast thou shower'd down on Antipho to-day!----
+
+ANT. What can this be he's so rejoic'd about?
+
+GETA. --And from what fears deliver'd us, his friends?
+--But wherefore do I loiter thus? and why
+Do I not throw my cloak upon my shoulder,
+And haste to find him out, that he may know
+All that has happen'd?
+
+ANT. (<i>to PHORMIO</i>). Do you comprehend
+What he is talking of?
+
+PHOR. Do you?
+
+ANT. Not I.
+
+PHOR. I'm just as wise as you.
+
+GETA. I'll hurry hence
+To the procurer's.--I shall find them there. (<i>Going.</i>)ANT. Ho, Geta!
+
+GETA. Look ye there!--Is't new or strange,
+To be recall'd when one's in haste? (<i>Going.</i>)
+
+ANT. Here, Geta!
+
+GETA. Again? bawl on! I'll ne'er stop. (<i>Going on.</i>)
+
+ANT. Stay, I say!
+
+GETA. Go, and be drubb'd!
+
+ANT. You shall, I promise you,
+Unless you stop, you rascal!
+
+GETA (<i>stopping</i>). Hold, hold, Geta!
+Some intimate acquaintance this, be sure,
+Being so free with you.--But is it he
+That I am looking for, or not?--'Tis he.
+
+PHOR. Go up immediately. (<i>They go up to GETA.</i>)
+
+ANT. (<i>to GETA</i>). What means all this?GETA. O happy man! the happiest man on earth!
+So very happy, that, beyond all doubt,
+You are the God's chief fav'rite, Antipho.
+
+ANT. Would I were! but your reason.
+
+GETA. Is't enough
+To plunge you over head and ears in joy?
+
+ANT. You torture me.
+
+PHOR. No promises! but tell us
+What is your news?
+
+GETA. Oh, Phormio! are you here?
+
+PHOR. I am: but why d'ye trifle?
+
+GETA. Mind me then! (<i>To PHORMIO.</i>)
+No sooner had we paid you at the Forum,
+But we return'd directly home again.
+--Arriv'd, my master sends me to your wife. (<i>To ANTIPHO.</i>)
+
+ANT. For what?GETA. No matter now, good Antipho.
+I was just entering the women's lodging,
+When up runs little Mida; catches me
+Hold by the cloak behind, and pulls me back.
+I turn about, and ask why he detains me.
+He told me, "Nobody must see his mistress:
+For Sophrona," says he, "has just now brought
+Demipho's brother, Chremes, here; and he
+Is talking with the women now within."
+--When I heard this, I stole immediately
+On tip-toe tow'rd the door; came close; stood hush;
+Drew in my breath; applied my ear; and thus,
+Deep in attention, catch'd their whole discourse.
+
+ANT. Excellent, Geta!
+
+GETA. Here I overheard
+The pleasantest adventure! On my life,
+I scarce refrain'd from crying out for joy.
+
+ANT. What?
+
+GETA. What d'ye think? (<i>Laughing.</i>)
+
+ANT. I can't tell,GETA. Oh! it was (<i>laughing.</i>)
+Most wonderful!--most exquisite!--your uncle
+Is found to be the father of your wife.
+
+ANT. How! what?
+
+GETA. He had a sly intrigue, it seems,
+With Phanium's mother formerly at Lemnos. (<i>Laughing.</i>)
+
+PHOR. Nonsense! as if she did not know her father!
+
+GETA. Nay, there's some reason for it, Phormio,
+You may be sure.--But was it possible
+For me, who stood without, to comprehend
+Each minute circumstance that pass'd within?
+
+ANT. I have heard something of this story too.
+
+GETA. Then, Sir, to settle your belief the more,
+At last out comes your uncle; and soon after
+Returns again, and carries in your father.
+Then they both said, they gave their full consent
+That you should keep your Phanium.--In a word,
+I'm sent to find you out, and bring you to them.
+
+ANT. Away with me then instantly! D'ye linger?GETA. Not I. Away!
+
+ANT. My Phormio, fare you well!
+
+PHOR. Fare you well, Antipho! (<i>Exeunt.</i>
+
+SCENE IX.
+
+<i>PHORMIO alone.</i>
+
+Well done, 'fore Heaven!
+I'm overjoy'd to see so much good fortune
+Fallen thus unexpectedly upon them:
+I've now an admirable opportunity
+To bubble the old gentlemen, and ease
+Phaedria of all his cares about the money;
+So that he need not be oblig'd to friends.
+For this same money, though it will be given,
+Will yet come from them much against the grain;
+But I have found a way to force them to't.
+--Now then I must assume a grander air,
+And put another face upon this business.
+--I'll hence a while into the next by-alley,
+And pop upon them as they're coming forth.
+--As for the trip I talk'd of to the fair,
+I sha'n't pretend to take that journey now. (<i>Exit.</i>ACT THE FIFTH.
+
+<b>SCENE I.</b>
+
+<i>Enter DEMIPHO and CHREMES--and soon after, on t'other side, PHORMIO.</i>
+
+DEM. Well may we thank the gracious Gods, good brother,
+That all things have succeeded to our wish.
+--But now let's find out Phormio with all speed,
+Before he throws away our thirty minae.
+
+PHOR. (<i>pretending not to see him</i>).
+I'll go and see if Demipho's at home,
+That I may----
+
+DEM. (<i>meeting him</i>).--We were coming to you, Phormio.
+
+PHOR. On the old score, I warrant.
+
+DEM. Aye.
+
+PHOR. I thought so.
+--Why should you go to me?--ridiculous!
+Was you afraid I'd break my contract with you?
+No, no! how great soe'er my poverty,
+I've always shown myself a man of honor.{<i>CHREMES and DEMIPHO apart.</i>}
+
+CHREM. Has not she, as I said, a liberal air?
+
+DEM. She has.
+
+PHOR. --And therefore I was coming, Demipho,
+To let you know I'm ready to receive
+My wife whene'er you please. For I postpon'd
+All other business, as indeed I ought,
+Soon as I found ye were so bent on this.
+
+DEM. Aye, but my brother has dissuaded me
+From going any further in this business.
+"For how will people talk of it?" says he:
+"At first you might have done it handsomely;
+But then you'd not consent to it; and now,
+After cohabitation with your son,
+To think of a divorce is infamous."
+--In short, he urg'd almost the very things
+That you so lately charg'd me with yourself.
+
+PHOR. You trifle with me, gentlemen.
+
+DEM. How so?PHOR. How so? Because I can not marry t'other,
+With whom I told you I was first in treaty.
+For with what face can I return to her
+Whom I have held in such contempt?
+
+CHREM. Tell him
+Antipho does not care to part with her. (<i>Prompting DEMIPHO.</i>)
+
+DEM. And my son too don't care to part with her:
+--Step to the Forum then, and give an order
+For the repayment of our money, Phormio.
+
+PHOR. What! when I've paid it to my creditors?
+
+DEM. What's to be done then?
+
+PHOR. Give me but the wife
+To whom you have betroth'd me, and I'll wed her.
+But if you'd rather she should stay with you,
+The portion stays with me, good Demipho,
+For 'tis not just I should be bubbled by you;
+When, to retrieve your honor, I've refus'd
+Another woman with an equal fortune.
+
+DEM. A plague upon your idle vaporing,
+You vagabond!--D'ye fancy we don't know you?You, and your fine proceedings?
+
+PHOR. You provoke me.
+
+DEM. Why, would you marry her, if proffer'd?
+
+PHOR. Try me.
+
+DEM. What! that my son may keep her privately
+At your house?--That was your intention.
+
+PHOR. Ha!
+What say you, Sir?
+
+DEM. Give me my money, Sirrah!
+
+PHOR. Give me my wife, I say.
+
+DEM. To justice with him!
+
+PHOR. To justice? Now, by Heaven, gentlemen,
+If you continue to be troublesome----
+
+DEM. What will you do?PHOR. What will I do? Perhaps
+You think that I can only patronize
+Girls without portion; but be sure of this,
+I've some with portions too.
+
+CHREM. What's that to us?
+
+PHOR. Nothing.--I know a lady here whose husband----
+
+CHREM. Ha! (<i>Carelessly.</i>)
+
+DEM. What's the matter?
+
+PHOR. --Had another wife
+At Lemnos.
+
+CHREM. (<i>aside</i>). I'm a dead man.
+
+PHOR. --By which other
+He had a daughter; whom he now brings up
+In private.
+
+CHREM. (<i>aside</i>). Dead and buried.
+
+PHOR. This I'll tell her. (<i>Going toward the house.</i>)CHREM. Don't, I beseech you!
+
+PHOR. Oh! are you the man?
+
+DEM. Death! how insulting!
+
+CHREM. (<i>to PHORMIO</i>). We discharge you.
+
+PHOR. Nonsense!
+
+CHREM. What would you more? The money you have got
+We will forgive you.
+
+PHOR. Well; I hear you now.
+--But what a plague d'ye mean by fooling thus,
+Acting and talking like mere children with me?
+--I won't; I will: I will; I won't again:----
+Give, take; say, unsay; do, and then undo.
+
+CHREM. (<i>to DEMIPHO</i>). Which way could he have learn'd this?
+
+DEM. I don't know;
+But I am sure I never mention'd it.
+
+CHREM. Good now! amazing!PHOR. I have ruffled them. (<i>Aside.</i>)
+
+DEM. What! shall he carry off so large a sum,
+And laugh at us so openly?--By Heaven,
+I'd rather die.--Be of good courage, brother!
+Pluck up the spirit of a man! You see
+This slip of yours is got abroad; nor can you
+Keep it a secret from your wife. Now, therefore,
+'Tis more conducive to your peace, good Chremes,
+That we should fairly tell it her ourselves,
+Than she should hear the story from another.
+And then we shall be quite at liberty
+To take our own revenge upon this rascal.
+
+PHOR. Ha!--If I don't take care I'm ruin'd still.
+They're growing desperate, and making tow'rd me
+With a determin'd gladiatorial air.
+
+CHREM. (<i>to DEMIPHO</i>). I fear she'll ne'er forgive me.
+
+DEM. Courage, Chremes!
+I'll reconcile her to't; especially
+The mother being dead and gone.
+
+PHOR. Is this
+Your dealing, gentlemen? You come upon meExtremely cunningly.--But, Demipho,
+You have but ill consulted for your brother,
+To urge me to extremities.--And you, Sir (<i>to CHREMES</i>),
+When you have play'd the whoremaster abroad;
+Having no reverence for your lady here,
+A woman of condition; wronging her
+After the grossest manner; come you now
+To wash away your crimes with mean submission?
+No.--I will kindle such a flame in her,
+As, though you melt in tears, you sha'n't extinguish.
+
+DEM. A plague upon him! was there ever man
+So very impudent?--A knave! he ought
+To be transported at the public charge
+Into some desert.
+
+CHREM. I am so confounded,
+I know not what to do with him.
+
+DEM. I know.
+Bring him before a judge!
+
+PHOR. Before a judge?
+A lady-judge; in here, Sirs, if you please.
+
+DEM. Run you and hold him, while I call her servants.CHREM. I can not by myself; come up and help me.
+
+PHOR. I have an action of assault against you. (<i>To DEMIPHO.</i>)
+
+CHREM. Bring it!
+
+PHOR. Another against you too, Chremes!
+
+DEM. Drag him away! (<i>Both lay hold of him.</i>)
+
+PHOR. (<i>struggling</i>). Is that your way with me!
+Then I must raise my voice.--Nausistrata!
+Come hither.
+
+CHREM. Stop his mouth!
+
+DEM. (<i>struggling</i>). A sturdy rogue!
+How strong he is!
+
+PHOR. (<i>struggling</i>). Nausistrata, I say.
+Nausistrata!
+
+CHREM. (<i>struggling</i>). Peace, Sirrah!
+
+PHOR. Peace, indeed!DEM. Unless he follows, strike him in the stomach!
+
+PHOR. Aye, or put out an eye!--But here comes one
+Will give me full revenge upon you both.
+
+<b>SCENE II.</b>
+
+<i>To them NAUSISTRATA.</i>
+
+NAUS. Who calls for me?
+
+CHREM. Confusion!
+
+NAUS. (<i>to CHREMES</i>). Pray, my dear,
+What's this disturbance?
+
+PHOR. Dumb, old Truepenny!
+
+NAUS. Who is this man?--Why don't you answer me? (<i>To CHREMES.</i>)
+
+PHOR. He answer you! he's hardly in his senses.
+
+CHREM. Never believe him!
+
+PHOR. Do but go and touch him;
+He's in a shivering fit, I'll lay my life.CHREM. Nay----
+
+NAUS. But what means he then?
+
+PHOR. I'll tell you, madam;
+Do but attend!
+
+CHREM. Will you believe him then?
+
+NAUS. What is there to believe, when he says nothing?
+
+PHOR. Poor man! his fear deprives him of his wits.
+
+NAUS. (<i>to CHREMES</i>). I'm sure you're not so much afraid for nothing.
+
+CHREM. What! I afraid? (<i>Endeavoring to take heart.</i>)
+
+PHOR. Oh, not at all!--And since
+You're in no fright, and what I say means nothing,
+Tell it yourself.
+
+DEM. At your desire, you rascal?
+
+PHOR. Oh, you've done rarely for your brother, Sir!
+
+NAUS. What! Won't you tell me, husband?CHREM. But----
+
+NAUS. But what?
+
+CHREM. There's no occasion for it.
+
+PHOR. Not for you:
+But for the Lady there is much occasion.
+In Lemnos----
+
+CHREM. Ha! what say you?
+
+DEM. (<i>to PHORMIO</i>). Hold your peace!
+
+PHOR. Without your knowledge----
+
+CHREM. Oh dear!
+
+PHOR. He has had
+Another wife.
+
+NAUS. My husband? Heav'n forbid!
+
+PHOR. 'Tis even so.
+
+NAUS. Ah me! I am undone.PHOR. --And had a daughter by her there; while you
+Was left to sleep in ignorance alone.
+
+NAUS. Oh Heavens!--Baseness!--Treachery!
+
+PHOR. 'Tis fact.
+
+NAUS. Was ever any thing more infamous?
+When they're with us, their wives forsooth, they're old.
+--Demipho, I appeal to you: for him
+I can not bear to speak to.--And were these
+His frequent journeys and long stay at Lemnos?
+Was this the cheapness that reduc'd our rents?
+
+DEM. That he has been to blame, Nausistrata,
+I don't deny; but not beyond all pardon.
+
+PHOR. You're talking to the dead.
+
+DEM. It was not done
+Out of aversion or contempt to you.
+In liquor, almost fifteen years ago,
+He met this woman, whence he had this daughter;
+Nor e'er had commerce with her from that hour.
+She's dead: your only grievance is remov'd.
+Wherefore I beg you'd show your wonted goodness,And bear it patiently.
+
+NAUS. How! bear it patiently?
+Alas! I wish his vices might end here.
+But have I the least hope? can I suppose
+That years will cure these rank offenses in him?
+Ev'n at that time he was already old,
+If age could make him modest.--Are my years
+And beauty, think ye, like to please him more
+At present, Demipho, than formerly?
+--In short, what ground, what reason to expect
+That he should not commit the same hereafter?
+
+PHOR. (<i>aloud</i>). Whoever would attend the funeral
+Of Chremes, now's the time!--See! that's my way.
+Come on then! provoke Phormio now, who dares!
+Like Chremes, he shall fall a victim to me.
+--Let him get into favor when he will!
+I've had revenge sufficient. She has something
+To ring into his ears his whole life long.
+
+NAUS. Have I deserv'd this?--Need I, Demipho,
+Number up each particular, and say
+How good a wife I've been?
+
+DEM. I know it all.NAUS. Am I then justly treated?
+
+DEM. Not at all.
+But since reproaches can't undo what's done,
+Forgive him! he begs pardon; owns his fault;
+And promises to mend.--What would you more?
+
+PHOR. But hold; before she ratifies his pardon,
+I must secure myself and Phaedria. (<i>Aside.</i>)
+--Nausistrata, a word!--Before you give
+Your answer rashly, hear me!
+
+NAUS. What's your pleasure?
+
+PHOR. I trick'd your husband there of thirty minae,
+Which I have giv'n your son; and he has paid them
+To a procurer for a mistress.
+
+CHREM. How!
+What say you?
+
+NAUS. Is it such a heinous crime
+For your young son, d'ye think, to have <i>one</i> mistress,
+While <i>you</i> have <i>two</i> wives?--Are you not asham'd?
+Have you the face to chide him? answer me!DEM. He shall do ev'ry thing you please.
+
+NAUS. Nay, nay,
+To tell you plainly my whole mind at once,
+I'll not forgive, nor promise any thing,
+Nor give an answer, till I see my son.
+
+PHOR. Wisely resolv'd, Nausistrata.
+
+NAUS. Is that
+Sufficient satisfaction for you?
+
+PHOR. Quite.
+I rest contented, well pleas'd, past my hopes.
+
+NAUS. What is your name, pray?
+
+PHOR. My name? Phormio:
+A faithful friend to all your family,
+Especially to Phaedria.
+
+NAUS. Trust me, Phormio,
+I'll do you all the service in my power.
+
+PHOR. I'm much oblig'd to you.NAUS. You're worthy on't.
+
+PHOR. Will you then even now, Nausistrata,
+Grant me one favor that will pleasure me,
+And grieve your husband's sight?
+
+NAUS. With all my soul.
+
+PHOR. Ask me to supper!
+
+NAUS. I invite you.
+
+DEM. In then!
+
+NAUS. We will. But where is Phaedria, our judge?
+
+PHOR. He shall be with you.-- (<i>To the AUDIENCE.</i>)
+Farewell; Clap your hands!
+
+THE END.

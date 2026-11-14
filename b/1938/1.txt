@@ -1,0 +1,793 @@
+HOLB1	1938	1	80	80	753	129
+2	Chapter I. Maslova In Prison.
+7	Chapter II. Maslova’s Early Life.
+14	Chapter III. Nekhludoff.
+21	Chapter IV. Missy.
+25	Chapter V. The Jurymen.
+29	Chapter VI. The Judges.
+34	Chapter VII. The Officials Of The Court.
+39	Chapter VIII. Swearing In The Jury.
+43	Chapter IX. The Trial--the Prisoners Questione…
+51	Chapter X. The Trial--the Indictment.
+55	Chapter XI. The Trial--maslova Cross-examined.
+66	Chapter XII. Twelve Years Before.
+73	Chapter XIII. Life In The Army.
+78	Chapter XIV. The Second Meeting With Maslova.
+84	Chapter XV. The Early Mass.
+90	Chapter XVI. The First Step.
+95	Chapter XVII. Nekhludoff And Katusha.
+99	Chapter XVIII. Afterwards.
+103	Chapter XIX. The Trial--resumption.
+107	Chapter XX. The Trial--the Medical Report.
+113	Chapter XXI.
+120	Chapter XXII. The Trial--the Summing Up.
+124	Chapter XXIII. The Trial--the Verdict.
+136	Chapter XXIV. The Trial--the Sentence.
+140	Chapter XXV. Nekhludoff Consults An Advocate.
+143	Chapter XXVI. The House Of Korchagin.
+151	Chapter XXVII. Missy’s Mother.
+158	Chapter XXVIII. The Awakening.
+166	Chapter XXIX. Maslova In Prison.
+171	Chapter XXX. The Cell.
+175	Chapter XXXI. The Prisoners.
+179	Chapter XXXII. A Prison Quarrel.
+186	Chapter XXXIII.
+192	Chapter XXXIV.
+198	Chapter XXXV.
+203	Chapter XXXVI. Nekhludoff Endeavours To Visit…
+207	Chapter XXXVII. Maslova Recalls The Past.
+212	Chapter XXXVIII. Sunday In Prison--preparing F…
+215	Chapter XXXIX.
+220	Chapter XL. The Husks Of Religion.
+224	Chapter XLI. Visiting Day--the Men’s Ward.
+231	Chapter XLII. Visiting Day--the Women’s Ward.
+235	Chapter XLIII. Nekhludoff Visits Maslova.
+244	Chapter XLIV. Maslova’s View Of Life.
+247	Chapter XLV. Fanarin, The Advocate--the Petiti…
+257	Chapter XLVI. A Prison Flogging.
+261	Chapter XLVII. Nekhludoff Again Visits Maslova…
+266	Chapter XLVIII. Maslova Refuses To Marry.
+272	Chapter XLIX. Vera Doukhova.
+276	Chapter L. The Vice-governor Of The Prison.
+282	Chapter LI. The Cells.
+288	Chapter LII. No. 21.
+292	Chapter LIII. Victims Of Government.
+297	Chapter LIV. Prisoners And Friends.
+301	Chapter LV. Vera Doukhova Explains.
+305	Chapter LVI. Nekhludoff And The Prisoners.
+309	Chapter LVII. The Vice-governor’s “at-home”.
+315	Chapter LVIII. The Vice-governor Suspicious.
+320	Chapter LIX.
+327	Chapter I. Property In Land.
+335	Chapter II. Efforts At Land Restoration.
+341	Chapter III. Old Associations.
+345	Chapter IV. The Peasants’ Lot.
+352	Chapter V. Maslova’s Aunt.
+358	Chapter VI. Reflections Of A Landlord.
+366	Chapter VII. The Disinherited.
+372	Chapter VIII. God’s Peace In The Heart.
+377	Chapter IX. The Land Settlement.
+386	Chapter X. Nekhludoff Returns To Town.
+393	Chapter XI.
+397	Chapter XII. Why The Peasants Flock To Town.
+401	Chapter XIII. Nurse Maslova.
+411	Chapter XIV. An Aristocratic Circle.
+420	Chapter XV. An Average Statesman.
+427	Chapter XVI. An Up-to-date Senator.
+433	Chapter XVII.
+437	Chapter XVIII. Officialdom.
+443	Chapter XIX. An Old General Of Repute.
+453	Chapter XX. Maslova’s Appeal.
+459	Chapter XXI. The Appeal Dismissed.
+464	Chapter XXII. An Old Friend.
+469	Chapter XXIII. The Public Prosecutor.
+475	Chapter XXIV. Mariette Tempts Nekhludoff.
+486	Chapter XXV. Lydia Shoustova’s Home.
+493	Chapter XXVI. Lydia’s Aunt.
+496	Chapter XXVII. The State Church And The People…
+505	Chapter XXVIII. The Meaning Of Mariette’s Attr…
+511	Chapter XXIX. For Her Sake And For God’s.
+520	Chapter XXX.
+527	Chapter XXXI. Nekhludoff’s Sister And Her Husb…
+531	Chapter XXXII. Nekhludoff’s Anarchism.
+540	Chapter XXXIII. The Aim Of The Law.
+547	Chapter XXXIV. The Prisoners Start For Siberia…
+554	Chapter XXXV. Not Men But Strange And Terrible…
+559	Chapter XXXVI. The Tender Mercies Of The Lord.
+566	Chapter XXXVII. Spilled Like Water On The Grou…
+574	Chapter XXXVIII. The Convict Train.
+580	Chapter XXXIX. Brother And Sister.
+589	Chapter XL. The Fundamental Law Of Human Life.
+595	Chapter XLI. Taras’s Story.
+604	Chapter XLII. Le Vrai Grand Monde.
+610	Chapter I. Maslova Makes New Friends.
+614	Chapter II. An Incident Of The March.
+618	Chapter III. Mary Pavlovna.
+622	Chapter IV. Simonson.
+626	Chapter V. The Political Prisoners.
+632	Chapter VI. Kryltzoff’s Story.
+638	Chapter VII.
+642	Chapter VIII. Nekhludoff And The Officer.
+648	Chapter IX. The Political Prisoners.
+652	Chapter X. Makar Devkin.
+655	Chapter XI. Maslova And Her Companions.
+661	Chapter XII. Nabatoff And Markel.
+668	Chapter XIII. Love Affairs Of The Exiles.
+671	Chapter XIV. Conversations In Prison.
+675	Chapter XV. Novodvoroff.
+678	Chapter XVI. Simonson Speaks To Nekhludoff.
+685	Chapter XVII. “i Have Nothing More To Say.”
+689	Chapter XVIII. Neveroff’s Fate.
+694	Chapter XIX. Why Is It Done?
+701	Chapter XX. The Journey Resumed.
+706	Chapter XXI. “just A Worthless Tramp.”
+711	Chapter XXII. Nekhludoff Sees The General.
+718	Chapter XXIII. The Sentence Commuted.
+723	Chapter XXIV. The General’s Household.
+731	Chapter XXV. Maslova’s Decision.
+737	Chapter XXVI. The English Visitor.
+740	Chapter XXVII. Kryltzoff At Rest.
+744	Chapter XXVIII. A New Life Dawns For Nekhludof…
+But Tikhon was so respectful and at the same time so severe, insisted so firmly on pouring the water out of the jug for him, that Nekhludoff could not make up his mind to ask him about Katusha, but only inquired about Tikhon’s grandsons, about the old so-called “brother’s” horse, and about the dog Polkan. All were alive except Polkan, who had gone mad the summer before.
+
+When he had taken off all his wet things and just begun to dress again, Nekhludoff heard quick, familiar footsteps and a knock at the door. Nekhludoff knew the steps and also the knock. No one but she walked and knocked like that.
+
+Having thrown his wet greatcoat over his shoulders, he opened the door.
+
+“Come in.” It was she, Katusha, the same, only sweeter than before. The slightly squinting naive black eyes looked up in the same old way. Now as then, she had on a white apron. She brought him from his aunts a piece of scented soap, with the wrapper just taken off, and two towels--one a long Russian embroidered one, the other a bath towel. The unused soap with the stamped inscription, the towels, and her own self, all were equally clean, fresh, undefiled and pleasant. The irrepressible smile of joy at the sight of him made the sweet, firm lips pucker up as of old.
+
+“How do you do, Dmitri Ivanovitch?” she uttered with difficulty, her face suffused with a rosy blush.
+
+“Good-morning! How do you do?” he said, also blushing. “Alive and well?”“Yes, the Lord be thanked. And here is your favorite pink soap and towels from your aunts,” she said, putting the soap on the table and hanging the towels over the back of a chair.
+
+“There is everything here,” said Tikhon, defending the visitor’s independence, and pointing to Nekhludoff’s open dressing case filled with brushes, perfume, fixatoire, a great many bottles with silver lids and all sorts of toilet appliances.
+
+“Thank my aunts, please. Oh, how glad I am to be here,” said Nekhludoff, his heart filling with light and tenderness as of old.
+
+She only smiled in answer to these words, and went out. The aunts, who had always loved Nekhludoff, welcomed him this time more warmly than ever. Dmitri was going to the war, where he might be wounded or killed, and this touched the old aunts. Nekhludoff had arranged to stay only a day and night with his aunts, but when he had seen Katusha he agreed to stay over Easter with them and telegraphed to his friend Schonbock, whom he was to have joined in Odessa, that he should come and meet him at his aunts’ instead.
+
+As soon as he had seen Katusha Nekhludoff’s old feelings toward her awoke again. Now, just as then, he could not see her white apron without getting excited; he could not listen to her steps, her voice, her laugh, without a feeling of joy; he could not look at her eyes, black as sloes, without a feeling of tenderness, especially when she smiled; and, above all, he could not notice without agitation how she blushed when they met.He felt he was in love, but not as before, when this love was a kind of mystery to him and he would not own, even to himself, that he loved, and when he was persuaded that one could love only once; now he knew he was in love and was glad of it, and knew dimly what this love consisted of and what it might lead to, though he sought to conceal it even from himself. In Nekhludoff, as in every man, there were two beings: one the spiritual, seeking only that kind of happiness for him self which should tend towards the happiness of all; the other, the animal man, seeking only his own happiness, and ready to sacrifice to it the happiness of the rest of the world. At this period of his mania of self-love brought on by life in Petersburg and in the army, this animal man ruled supreme and completely crushed the spiritual man in him.
+
+But when he saw Katusha and experienced the same feelings as he had had three years before, the spiritual man in him raised its head once more and began to assert its rights. And up to Easter, during two whole days, an unconscious, ceaseless inner struggle went on in him.
+
+He knew in the depths of his soul that he ought to go away, that there was no real reason for staying on with his aunts, knew that no good could come of it; and yet it was so pleasant, so delightful, that he did not honestly acknowledge the facts to himself and stayed on. On Easter eve, the priest and the deacon who came to the house to say mass had had (so they said) the greatest difficulty in getting over the three miles that lay between the church and the old ladies’ house, coming across the puddles and the bare earth in a sledge.Nekhludoff attended the mass with his aunts and the servants, and kept looking at Katusha, who was near the door and brought in the censers for the priests. Then having given the priests and his aunts the Easter kiss, though it was not midnight and therefore not Easter yet, he was already going to bed when he heard the old servant Matrona Pavlovna preparing to go to the church to get the koulitch and paski [Easter cakes] blest after the midnight service. “I shall go too,” he thought.
+
+The road to the church was impassable either in a sledge or on wheels, so Nekhludoff, who behaved in his aunts’ house just as he did at home, ordered the old horse, “the brother’s horse,” to be saddled, and instead of going to bed he put on his gay uniform, a pair of tight-fitting riding breeches and his overcoat, and got on the old over-fed and heavy horse, which neighed continually all the way as he rode in the dark through the puddles and snow to the church.<b>CHAPTER XV.</b>
+
+THE EARLY MASS.
+
+For Nekhludoff this early mass remained for ever after one of the brightest and most vivid memories of his life. When he rode out of the darkness, broken only here and there by patches of white snow, into the churchyard illuminated by a row of lamps around the church, the service had already begun.
+
+The peasants, recognising Mary Ivanovna’s nephew, led his horse, which was pricking up its ears at the sight of the lights, to a dry place where he could get off, put it up for him, and showed him into the church, which was full of people. On the right stood the peasants; the old men in home-spun coats, and clean white linen bands [long strips of linen are worn by the peasants instead of stockings] wrapped round their legs, the young men in new cloth coats, bright-coloured belts round their waists, and top-boots.
+
+On the left stood the women, with red silk kerchiefs on their heads, black velveteen sleeveless jackets, bright red shirt-sleeves, gay-coloured green, blue, and red skirts, and thick leather boots. The old women, dressed more quietly, stood behind them, with white kerchiefs, homespun coats, old-fashioned skirts of dark home-spun material, and shoes on their feet. Gaily-dressed children, their hair well oiled, went in and out among them.
+
+The men, making the sign of the cross, bowed down and raised their heads again, shaking back their hair.The women, especially the old ones, fixed their eyes on an icon surrounded with candies and made the sign of the cross, firmly pressing their folded fingers to the kerchief on their foreheads, to their shoulders, and their stomachs, and, whispering something, stooped or knelt down. The children, imitating the grown-up people, prayed earnestly when they knew that they were being observed. The gilt case containing the icon glittered, illuminated on all sides by tall candles ornamented with golden spirals. The candelabra was filled with tapers, and from the choir sounded most merry tunes sung by amateur choristers, with bellowing bass and shrill boys’ voices among them.
+
+Nekhludoff passed up to the front. In the middle of the church stood the aristocracy of the place: a landed proprietor, with his wife and son (the latter dressed in a sailor’s suit), the police officer, the telegraph clerk, a tradesman in top-boots, and the village elder, with a medal on his breast; and to the right of the ambo, just behind the landed proprietor’s wife, stood Matrona Pavlovna in a lilac dress and fringed shawl and Katusha in a white dress with a tucked bodice, blue sash, and red bow in her black hair.
+
+Everything seemed festive, solemn, bright, and beautiful: the priest in his silver cloth vestments with gold crosses; the deacon, the clerk and chanter in their silver and gold surplices; the amateur choristers in their best clothes, with their well-oiled hair; the merry tunes of the holiday hymns that sounded like dance music; and the continual blessing of the people by the priests, who held candles decorated with flowers, and repeated the cry of “Christ is risen!” “Christ is risen!”All was beautiful; but, above all, Katusha, in her white dress, blue sash, and the red bow on her black head, her eyes beaming with rapture.
+
+Nekhludoff knew that she felt his presence without looking at him. He noticed this as he passed her, walking up to the altar. He had nothing to tell her, but he invented something to say and whispered as he passed her: “Aunt told me that she would break her fast after the late mass.” The young blood rushed up to Katusha’s sweet face, as it always did when she looked at him. The black eyes, laughing and full of joy, gazed naively up and remained fixed on Nekhludoff.
+
+“I know,” she said, with a smile.
+
+At this moment the clerk was going out with a copper coffee-pot [coffee-pots are often used for holding holy water in Russia] of holy water in his hand, and, not noticing Katusha, brushed her with his surplice. Evidently he brushed against Katusha through wishing to pass Nekhludoff at a respectful distance, and Nekhludoff was surprised that he, the clerk, did not understand that everything here, yes, and in all the world, only existed for Katusha, and that everything else might remain unheeded, only not she, because she was the centre of all. For her the gold glittered round the icons; for her all these candles in candelabra and candlesticks were alight; for her were sung these joyful hymns, “Behold the Passover of the Lord” “Rejoice, O ye people!” All--all that was good in the world was for her.And it seemed to him that Katusha was aware that it was all for her when he looked at her well-shaped figure, the tucked white dress, the wrapt, joyous expression of her face, by which he knew that just exactly the same that was singing in his own soul was also singing in hers.
+
+In the interval between the early and the late mass Nekhludoff left the church. The people stood aside to let him pass, and bowed. Some knew him; others asked who he was.
+
+He stopped on the steps. The beggars standing there came clamouring round him, and he gave them all the change he had in his purse and went down. It was dawning, but the sun had not yet risen. The people grouped round the graves in the churchyard. Katusha had remained inside. Nekhludoff stood waiting for her.
+
+The people continued coming out, clattering with their nailed boots on the stone steps and dispersing over the churchyard. A very old man with shaking head, his aunts’ cook, stopped Nekhludoff in order to give him the Easter kiss, his old wife took an egg, dyed yellow, out of her handkerchief and gave it to Nekhludoff, and a smiling young peasant in a new coat and green belt also came up.
+
+“Christ is risen,” he said, with laughing eyes, and coming close to Nekhludoff he enveloped him in his peculiar but pleasant peasant smell, and, tickling him with his curly beard, kissed him three times straight on the mouth with his firm, fresh lips.While the peasant was kissing Nekhludoff and giving him a dark brown egg, the lilac dress of Matrona Pavlovna and the dear black head with the red bow appeared.
+
+Katusha caught sight of him over the heads of those in front of her, and he saw how her face brightened up.
+
+She had come out with Matrona Pavlovna on to the porch, and stopped there distributing alms to the beggars. A beggar with a red scab in place of a nose came up to Katusha. She gave him something, drew nearer him, and, evincing no sign of disgust, but her eyes still shining with joy, kissed him three times. And while she was doing this her eyes met Nekhludoff’s with a look as if she were asking, “Is this that I am doing right?” “Yes, dear, yes, it is right; everything is right, everything is beautiful. I love!”
+
+They came down the steps of the porch, and he came up to them.
+
+He did not mean to give them the Easter kiss, but only to be nearer to her. Matrona Pavlovna bowed her head, and said with a smile, “Christ is risen!” and her tone implied, “To-day we are all equal.” She wiped her mouth with her handkerchief rolled into a ball and stretched her lips towards him.
+
+“He is, indeed,” answered Nekhludoff, kissing her. Then he looked at Katusha; she blushed, and drew nearer. “Christ is risen, Dmitri Ivanovitch.”“He is risen, indeed,” answered Nekhludoff, and they kissed twice, then paused as if considering whether a third kiss were necessary, and, having decided that it was, kissed a third time and smiled.
+
+“You are going to the priests?” asked Nekhludoff.
+
+“No, we shall sit out here a bit, Dmitri Ivanovitch,” said Katusha with effort, as if she had accomplished some joyous task, and, her whole chest heaving with a deep sigh, she looked straight in his face with a look of devotion, virgin purity, and love, in her very slightly squinting eyes.
+
+In the love between a man and a woman there always comes a moment when this love has reached its zenith--a moment when it is unconscious, unreasoning, and with nothing sensual about it. Such a moment had come for Nekhludoff on that Easter eve. When he brought Katusha back to his mind, now, this moment veiled all else; the smooth glossy black head, the white tucked dress closely fitting her graceful maidenly form, her, as yet, un-developed bosom, the blushing cheeks, the tender shining black eyes with their slight squint heightened by the sleepless night, and her whole being stamped with those two marked features, purity and chaste love, love not only for him (he knew that), but for everybody and everything, not for the good alone, but for all that is in the world, even for that beggar whom she had kissed.
+
+He knew she had that love in her because on that night and morning he was conscious of it in himself, and conscious that in this love he became one with her. Ah!if it had all stopped there, at the point it had reached that night. “Yes, all that horrible business had not yet happened on that Easter eve!” he thought, as he sat by the window of the jurymen’s room.
+
+<b>CHAPTER XVI.</b>
+
+THE FIRST STEP.
+
+When he returned from church Nekhludoff broke the fast with his aunts and took a glass of spirits and some wine, having got into that habit while with his regiment, and when he reached his room fell asleep at once, dressed as he was. He was awakened by a knock at the door. He knew it was her knock, and got up, rubbing his eyes and stretching himself.
+
+“Katusha, is it you? Come in,” said he.
+
+She opened the door.
+
+“Dinner is ready,” she said. She still had on the same white dress, but not the bow in her hair. She looked at him with a smile, as if she had communicated some very good news to him.
+
+“I am coming,” he answered, as he rose, taking his comb to arrange his hair.
+
+She stood still for a minute, and he, noticing it, threw down his comb and made a step towards her,but at that very moment she turned suddenly and went with quick light steps along the strip of carpet in the middle of the passage.
+
+“Dear me, what a fool I am,” thought Nekhludoff. “Why did I not stop her?” What he wanted her for he did not know himself, but he felt that when she came into his room something should have been done, something that is generally done on such occasions, and that he had left it undone.
+
+“Katusha, wait,” he said.
+
+“What do you want?” she said, stopping.
+
+“Nothing, only--” and, with an effort, remembering how men in his position generally behave, he put his arm round her waist.
+
+She stood still and looked into his eyes.
+
+“Don’t, Dmitri Ivanovitch, you must not,” she said, blushing to tears and pushing away his arm with her strong hard hand. Nekhludoff let her go, and for a moment he felt not only confused and ashamed but disgusted with himself. He should now have believed himself, and then he would have known that this confusion and shame were caused by the best feelings of his soul demanding to be set free; but he thought it was only his stupidity and that he ought to behave as every one else did. He caught her up and kissed her on the neck.This kiss was very different from that first thoughtless kiss behind the lilac bush, and very different to the kiss this morning in the churchyard. This was a dreadful kiss, and she felt it.
+
+“Oh, what are you doing?” she cried, in a tone as if he had irreparably broken something of priceless value, and ran quickly away.
+
+He came into the dining-room. His aunts, elegantly dressed, their family doctor, and a neighbour were already there. Everything seemed so very ordinary, but in Nekhludoff a storm was raging. He understood nothing of what was being said and gave wrong answers, thinking only of Katusha. The sound of her steps in the passage brought back the thrill of that last kiss and he could think of nothing else. When she came into the room he, without looking round, felt her presence with his whole being and had to force himself not to look at her.
+
+After dinner he at once went into his bedroom and for a long time walked up and down in great excitement, listening to every sound in the house and expecting to hear her steps. The animal man inside him had now not only lifted its head, but had succeeded in trampling under foot the spiritual man of the days of his first visit, and even of that every morning. That dreadful animal man alone now ruled over him.
+
+Though he was watching for her all day he could not manage to meet her alone. She was probably trying to evade him. In the evening, however, she was obliged to go into the room next to his. The doctor had been asked to stay the night, and she had to make his bed.When he heard her go in Nekhludoff followed her, treading softly and holding his breath as if he were going to commit a crime.
+
+She was putting a clean pillow-case on the pillow, holding it by two of its corners with her arms inside the pillow-case. She turned round and smiled, not a happy, joyful smile as before, but in a frightened, piteous way. The smile seemed to tell him that what he was doing was wrong. He stopped for a moment. There was still the possibility of a struggle. The voice of his real love for her, though feebly, was still speaking of her, her feelings, her life. Another voice was saying, “Take care I don’t let the opportunity for your own happiness, your own enjoyment, slip by!” And this second voice completely stifled the first. He went up to her with determination and a terrible, ungovernable animal passion took possession of him.
+
+With his arm round he made her sit down on the bed; and feeling that there was something more to be done he sat down beside her.
+
+“Dmitri Ivanovitch, dear! please let me go,” she said, with a piteous voice. “Matrona Pavlovna is coming,” she cried, tearing herself away. Some one was really coming to the door.
+
+“Well, then, I’ll come to you in the night,” he whispered. “You’ll be alone?”
+
+“What are you thinking of? On no account. No, no!” she said, but only with her lips; the tremulous confusion of her whole being said something very different.It was Matrona Pavlovna who had come to the door. She came in with a blanket over her arm, looked reproachfully at Nekhludoff, and began scolding Katusha for having taken the wrong blanket.
+
+Nekhludoff went out in silence, but he did not even feel ashamed. He could see by Matrona Pavlovna’s face that she was blaming him, he knew that she was blaming him with reason and felt that he was doing wrong, but this novel, low animal excitement, having freed itself of all the old feelings of real love for Katusha, ruled supreme, leaving room for nothing else. He went about as if demented all the evening, now into his aunts’, then back into his own room, then out into the porch, thinking all the time how he could meet her alone; but she avoided him, and Matrona Pavlovna watched her closely.<b>CHAPTER XVII.</b>
+
+NEKHLUDOFF AND KATUSHA.
+
+And so the evening passed and night came. The doctor went to bed. Nekhludoff’s aunts had also retired, and he knew that Matrona Pavlovna was now with them in their bedroom so that Katusha was sure to be alone in the maids’ sitting-room. He again went out into the porch. It was dark, damp and warm out of doors, and that white spring mist which drives away the last snow, or is diffused by the thawing of the last snow, filled the air. From the river under the hill, about a hundred steps from the front door, came a strange sound. It was the ice breaking. Nekhludoff came down the steps and went up to the window of the maids’ room, stepping over the puddles on the bits of glazed snow. His heart was beating so fiercely in his breast that he seemed to hear it, his laboured breath came and went in a burst of long-drawn sighs. In the maids’ room a small lamp was burning, and Katusha sat alone by the table, looking thoughtfully in front of her. Nekhludoff stood a long time without moving and waited to see what she, not knowing that she was observed, would do. For a minute or two she did not move; then she lifted her eyes, smiled and shook her head as if chiding herself, then changed her pose and dropped both her arms on the table and again began gazing down in front of her. He stood and looked at her, involuntarily listening to the beating of his own heart and the strange sounds from the river. There on the river, beneath the white mist, the unceasing labour went on, and sounds as of something sobbing, cracking, dropping, being shattered to pieces mixed with the tinkling of the thin bits of ice as they broke against each other like glass.There he stood, looking at Katusha’s serious, suffering face, which betrayed the inner struggle of her soul, and he felt pity for her; but, strange though it may seem, this pity only confirmed him in his evil intention.
+
+He knocked at the window. She started as if she had received an electric shock, her whole body trembled, and a look of horror came into her face. Then she jumped up, approached the window and brought her face up to the pane. The look of terror did not leave her face even when, holding her hands up to her eyes like blinkers and peering through the glass, she recognised him. Her face was unusually grave; he had never seen it so before. She returned his smile, but only in submission to him; there was no smile in her soul, only fear. He beckoned her with his hand to come out into the yard to him. But she shook her head and remained by the window. He brought his face close to the pane and was going to call out to her, but at that moment she turned to the door; evidently some one inside had called her. Nekhludoff moved away from the window. The fog was so dense that five steps from the house the windows could not be seen, but the light from the lamp shone red and huge out of a shapeless black mass. And on the river the same strange sounds went on, sobbing and rustling and cracking and tinkling. Somewhere in the fog, not far off, a cock crowed; another answered, and then others, far in the village took up the cry till the sound of the crowing blended into one, while all around was silent excepting the river. It was the second time the cocks crowed that night.Nekhludoff walked up and down behind the corner of the house, and once or twice got into a puddle. Then again came up to the window. The lamp was still burning, and she was again sitting alone by the table as if uncertain what to do. He had hardly approached the window when she looked up. He knocked. Without looking who it was she at once ran out of the room, and he heard the outside door open with a snap. He waited for her near the side porch and put his arms round her without saying a word. She clung to him, put up her face, and met his kiss with her lips. Then the door again gave the same sort of snap and opened, and the voice of Matrona Pavlovna called out angrily, “Katusha!”
+
+She tore herself away from him and returned into the maids’ room. He heard the latch click, and then all was quiet. The red light disappeared and only the mist remained, and the bustle on the river went on. Nekhludoff went up to the window, nobody was to be seen; he knocked, but got no answer. He went back into the house by the front door, but could not sleep. He got up and went with bare feet along the passage to her door, next to Matrona Pavlovna’s room. He heard Matrona Pavlovna snoring quietly, and was about to go on when she coughed and turned on her creaking bed, and his heart fell, and he stood immovable for about five minutes. When all was quiet and she began to snore peacefully again, he went on, trying to step on the boards that did not creak, and came to Katusha’s door. There was no sound to be heard. She was probably awake, or else he would have heard her breathing. But as soon as he had whispered “Katusha” she jumped up and began to persuade him, as if angrily, to go away.
+
+“Open! Let me in just for a moment! I implore you!” He hardly knew what he was saying.* * * * * * *
+
+When she left him, trembling and silent, giving no answer to his words, he again went out into the porch and stood trying to understand the meaning of what had happened.
+
+It was getting lighter. From the river below the creaking and tinkling and sobbing of the breaking ice came still louder and a gurgling sound could now also be heard. The mist had begun to sink, and from above it the waning moon dimly lighted up something black and weird.
+
+“What was the meaning of it all? Was it a great joy or a great misfortune that had befallen him?” he asked himself.<b>CHAPTER XVIII.</b>
+
+AFTERWARDS.
+
+The next day the gay, handsome, and brilliant Schonbock joined Nekhludoff at his aunts’ house, and quite won their hearts by his refined and amiable manner, his high spirits, his generosity, and his affection for Dmitri.
+
+But though the old ladies admired his generosity it rather perplexed them, for it seemed exaggerated. He gave a rouble to some blind beggars who came to the gate, gave 15 roubles in tips to the servants, and when Sophia Ivanovna’s pet dog hurt his paw and it bled, he tore his hemstitched cambric handkerchief into strips (Sophia Ivanovna knew that such handkerchiefs cost at least 15 roubles a dozen) and bandaged the dog’s foot. The old ladies had never met people of this kind, and did not know that Schonbock owed 200,000 roubles which he was never going to pay, and that therefore 25 roubles more or less did not matter a bit to him. Schonbock stayed only one day, and he and Nekhludoff both, left at night. They could not stay away from their regiment any longer, for their leave was fully up.
+
+At the stage which Nekhludoff’s selfish mania had now reached he could think of nothing but himself. He was wondering whether his conduct, if found out, would be blamed much or at all, but he did not consider what Katusha was now going through, and what was going to happen to her.He saw that Schonbock guessed his relations to her and this flattered his vanity.
+
+“Ah, I see how it is you have taken such a sudden fancy to your aunts that you have been living nearly a week with them,” Schonbock remarked when he had seen Katusha. “Well, I don’t wonder--should have done the same. She’s charming.” Nekhludoff was also thinking that though it was a pity to go away before having fully gratified the cravings of his love for her, yet the absolute necessity of parting had its advantages because it put a sudden stop to relations it would have been very difficult for him to continue. Then he thought that he ought to give her some money, not for her, not because she might need it, but because it was the thing to do.
+
+So he gave her what seemed to him a liberal amount, considering his and her station. On the day of his departure, after dinner, he went out and waited for her at the side entrance. She flushed up when she saw him and wished to pass by, directing his attention to the open door of the maids’ room by a look, but he stopped her.
+
+“I have come to say good-bye,” he said, crumbling in his hand an envelope with a 100-rouble note inside. “There, I . . . ”
+
+She guessed what he meant, knit her brows, and shaking her head pushed his hand away.“Take it; oh, you must!” he stammered, and thrust the envelope into the bib of her apron and ran back to his room, groaning and frowning as if he had hurt himself. And for a long time he went up and down writhing as in pain, and even stamping and groaning aloud as he thought of this last scene. “But what else could I have done? Is it not what happens to every one? And if every one does the same . . . well I suppose it can’t be helped.” In this way he tried to get peace of mind, but in vain. The recollection of what had passed burned his conscience. In his soul--in the very depths of his soul--he knew that he had acted in a base, cruel, cowardly manner, and that the knowledge of this act of his must prevent him, not only from finding fault with any one else, but even from looking straight into other people’s eyes; not to mention the impossibility of considering himself a splendid, noble, high-minded fellow, as he did and had to do to go on living his life boldly and merrily. There was only one solution of the problem--i.e., not to think about it. He succeeded in doing so. The life he was now entering upon, the new surroundings, new friends, the war, all helped him to forget. And the longer he lived, the less he thought about it, until at last he forgot it completely.
+
+Once only, when, after the war, he went to see his aunts in hopes of meeting Katusha, and heard that soon after his last visit she had left, and that his aunts had heard she had been confined somewhere or other and had gone quite to the bad, his heart ached. According to the time of her confinement, the child might or might not have been his. His aunts said she had gone wrong, that she had inherited her mother’s depraved nature, and he was pleased to hear this opinion of his aunts’. It seemed to acquit him.At first he thought of trying to find her and her child, but then, just because in the depths of his soul he felt so ashamed and pained when thinking about her, he did not make the necessary effort to find her, but tried to forget his sin again and ceased to think about it. And now this strange coincidence brought it all back to his memory, and demanded from him the acknowledgment of the heartless, cruel cowardice which had made it possible for him to live these nine years with such a sin on his conscience. But he was still far from such an acknowledgment, and his only fear was that everything might now be found out, and that she or her advocate might recount it all and put him to shame before every one present.<b>CHAPTER XIX.</b>
+
+THE TRIAL--RESUMPTION.
+
+In this state of mind Nekhludoff left the Court and went into the jurymen’s room. He sat by the window smoking all the while, and hearing what was being said around him.
+
+The merry merchant seemed with all his heart to sympathise with Smelkoff’s way of spending his time. “There, old fellow, that was something like! Real Siberian fashion! He knew what he was about, no fear! That’s the sort of wench for me.”
+
+The foreman was stating his conviction, that in some way or other the expert’s conclusions were the important thing. Peter Gerasimovitch was joking about something with the Jewish clerk, and they burst out laughing. Nekhludoff answered all the questions addressed to him in monosyllables and longed only to be left in peace.
+
+When the usher, with his sideways gait, called the jury back to the Court, Nekhludoff was seized with fear, as if he were not going to judge, but to be judged. In the depth of his soul he felt that he was a scoundrel, who ought to be ashamed to look people in the face, yet, by sheer force of habit, he stepped on to the platform in his usual self-possessed manner, and sat down, crossing his legs and playing with his pince-nez.The prisoners had also been led out, and were now brought in again. There were some new faces in the Court witnesses, and Nekhludoff noticed that Maslova could not take her eyes off a very fat woman who sat in the row in front of the grating, very showily dressed in silk and velvet, a high hat with a large bow on her head, and an elegant little reticule on her arm, which was bare to the elbow. This was, as he subsequently found out, one of the witnesses, the mistress of the establishment to which Maslova had belonged.
+
+The examination of the witnesses commenced: they were asked their names, religion, etc. Then, after some consultation as to whether the witnesses were to be sworn in or not, the old priest came in again, dragging his legs with difficulty, and, again arranging the golden cross on his breast, swore the witnesses and the expert in the same quiet manner, and with the same assurance that he was doing something useful and important.
+
+The witnesses having been sworn, all but Kitaeva, the keeper of the house, were led out again. She was asked what she knew about this affair. Kitaeva nodded her head and the big hat at every sentence and smiled affectedly. She gave a very full and intelligent account, speaking with a strong German accent. First of all, the hotel servant Simeon, whom she knew, came to her establishment on behalf of a rich Siberian merchant, and she sent Lubov back with him. After a time Lubov returned with the merchant. The merchant was already somewhat intoxicated--she smiled as she said this--and went on drinking and treating the girls. He was short of money. He sent this same Lubov to his lodgings. He had taken a “predilection” to her. She looked at the prisoner as she said this.Nekhludoff thought he saw Maslova smile here, and this seemed disgusting to him. A strange, indefinite feeling of loathing, mingled with suffering, arose in him.
+
+“And what was your opinion of Maslova?” asked the blushing and confused applicant for a judicial post, appointed to act as Maslova’s advocate.
+
+“Zee ferry pesht,” answered Kitaeva. “Zee yoong voman is etucated and elecant. She was prought up in a coot family and can reat French. She tid have a trop too moch sometimes, put nefer forcot herself. A ferry coot girl.”
+
+Katusha looked at the woman, then suddenly turned her eyes on the jury and fixed them on Nekhludoff, and her face grew serious and even severe. One of her serious eyes squinted, and those two strange eyes for some time gazed at Nekhludoff, who, in spite of the terrors that seized him, could not take his look off these squinting eyes, with their bright, clear whites.
+
+He thought of that dreadful night, with its mist, the ice breaking on the river below, and when the waning moon, with horns turned upwards, that had risen towards morning, lit up something black and weird. These two black eyes now looking at him reminded him of this weird, black something. “She has recognised me,” he thought, and Nekhludoff shrank as if expecting a blow. But she had not recognised him. She sighed quietly and again looked at the president. Nekhludoff also sighed. “Oh, if it would only get on quicker,” he thought.He now felt the same loathing and pity and vexation as when, out shooting, he was obliged to kill a wounded bird. The wounded bird struggles in the game bag. One is disgusted and yet feels pity, and one is in a hurry to kill the bird and forget it.
+
+Such mixed feelings filled Nekhludoff’s breast as he sat listening to the examination of the witnesses.<b>CHAPTER XX.</b>
+
+THE TRIAL--THE MEDICAL REPORT.
+
+But, as if to spite him, the case dragged out to a great length. After each witness had been examined separately and the expert last of all, and a great number of useless questions had been put, with the usual air of importance, by the public prosecutor and by both advocates, the president invited the jury to examine the objects offered as material evidence. They consisted of an enormous diamond ring, which had evidently been worn on the first finger, and a test tube in which the poison had been analysed. These things had seals and labels attached to them.
+
+Just as the witnesses were about to look at these things, the public prosecutor rose and demanded that before they did this the results of the doctor’s examination of the body should be read. The president, who was hurrying the business through as fast as he could in order to visit his Swiss friend, though he knew that the reading of this paper could have no other effect than that of producing weariness and putting off the dinner hour, and that the public prosecutor wanted it read simply because he knew he had a right to demand it, had no option but to express his consent.
+
+The secretary got out the doctor’s report and again began to read in his weary lisping voice, making no distinction between the “r’s” and “l’s.”
+
+The external examination proved that:“1. Theropont Smelkoff’s height was six feet five inches.
+
+“Not so bad, that. A very good size,” whispered the merchant, with interest, into Nekhludoff’s ear.
+
+“2. He looked about 40 years of age.
+
+“3. The body was of a swollen appearance.
+
+“4. The flesh was of a greenish colour, with dark spots in several places.
+
+“5. The skin was raised in blisters of different sizes and in places had come off in large pieces.
+
+“6. The hair was chestnut; it was thick, and separated easily from the skin when touched.
+
+“7. The eye-balls protruded from their sockets and the cornea had grown dim.
+
+“8. Out of the nostrils, both ears, and the mouth oozed serous liquid; the mouth was half open.
+
+“9. The neck had almost disappeared, owing to the swelling of the face and chest.”
+
+And so on and so on.Four pages were covered with the 27 paragraphs describing all the details of the external examination of the enormous, fat, swollen, and decomposing body of the merchant who had been making merry in the town. The indefinite loathing that Nekhludoff felt was increased by the description of the corpse. Katusha’s life, and the scrum oozing from the nostrils of the corpse, and the eyes that protruded out of their sockets, and his own treatment of her--all seemed to belong to the same order of things, and he felt surrounded and wholly absorbed by things of the same nature.
+
+When the reading of the report of the external examination was ended, the president heaved a sigh and raised his hand, hoping it was finished; but the secretary at once went on to the description of the internal examination. The president’s head again dropped into his hand and he shut his eyes. The merchant next to Nekhludoff could hardly keep awake, and now and then his body swayed to and fro. The prisoners and the gendarmes sat perfectly quiet.
+
+The internal examination showed that:
+
+“1. The skin was easily detachable from the bones of the skull, and there was no coagulated blood.
+
+“2. The bones of the skull were of average thickness and in sound condition.
+
+“3. On the membrane of the brain there were two discoloured spots about four inches long, the membrane itself being of a dull white.” And so on for 13 paragraphs more.Then followed the names and signatures of the assistants, and the doctor’s conclusion showing that the changes observed in the stomach, and to a lesser degree in the bowels and kidneys, at the postmortem examination, and described in the official report, gave great probability to the conclusion that Smelkoff’s death was caused by poison which had entered his stomach mixed with alcohol. To decide from the state of the stomach what poison had been introduced was difficult; but it was necessary to suppose that the poison entered the stomach mixed with alcohol, since a great quantity of the latter was found in Smelkoff’s stomach.
+
+“He could drink, and no mistake,” again whispered the merchant, who had just waked up.
+
+The reading of this report had taken a full hour, but it had not satisfied the public prosecutor, for, when it had been read through and the president turned to him, saying, “I suppose it is superfluous to read the report of the examination of the internal organs?” he answered in a severe tone, without looking at the president, “I shall ask to have it read.”
+
+He raised himself a little, and showed by his manner that he had a right to have this report read, and would claim this right, and that if that were not granted it would serve as a cause of appeal.
+
+The member of the Court with the big beard, who suffered from catarrh of the stomach, feeling quite done up, turned to the president:“What is the use of reading all this? It is only dragging it out. These new brooms do not sweep clean; they only take a long while doing it.”
+
+The member with the gold spectacles said nothing, but only looked gloomily in front of him, expecting nothing good, either from his wife or life in general. The reading of the report commenced.
+
+“In the year 188-, on February 15th, I, the undersigned, commissioned by the medical department, made an examination, No. 638,” the secretary began again with firmness and raising the pitch of his voice as if to dispel the sleepiness that had overtaken all present, “in the presence of the assistant medical inspector, of the internal organs:
+
+“1. The right lung and the heart (contained in a 6-lb. glass jar).
+
+“2. The contents of the stomach (in a 6-lb. glass jar).
+
+“3. The stomach itself (in a 6-lb. glass jar).
+
+“4. The liver, the spleen and the kidneys (in a 9-lb. glass jar).
+
+“5. The intestines (in a 9-lb. earthenware jar).”
+
+The president here whispered to one of the members, then stooped to the other, and having received their consent, he said: “The Court considers the reading of this report superfluous.”The secretary stopped reading and folded the paper, and the public prosecutor angrily began to write down something. “The gentlemen of the jury may now examine the articles of material evidence,” said the president. The foreman and several of the others rose and went to the table, not quite knowing what to do with their hands. They looked in turn at the glass, the test tube, and the ring. The merchant even tried on the ring.
+
+“Ah! that was a finger,” he said, returning to his place; “like a cucumber,” he added. Evidently the image he had formed in his mind of the gigantic merchant amused him.<b>CHAPTER XXI.</b>
+
+THE TRIAL--THE PROSECUTOR AND THE ADVOCATES.
+
+When the examination of the articles of material evidence was finished, the president announced that the investigation was now concluded and immediately called on the prosecutor to proceed, hoping that as the latter was also a man, he, too, might feel inclined to smoke or dine, and show some mercy on the rest. But the public prosecutor showed mercy neither to himself nor to any one else. He was very stupid by nature, but, besides this, he had had the misfortune of finishing school with a gold medal and of receiving a reward for his essay on “Servitude” when studying Roman Law at the University, and was therefore self-confident and self-satisfied in the highest degree (his success with the ladies also conducing to this) and his stupidity had become extraordinary.
+
+When the word was given to him, he got up slowly, showing the whole of his graceful figure in his embroidered uniform. Putting his hand on the desk he looked round the room, slightly bowing his head, and, avoiding the eyes of the prisoners, began to read the speech he had prepared while the reports were being read.
+
+“Gentlemen of the jury! The business that now lies before you is, if I may so express myself, very characteristic.”
+
+The speech of a public prosecutor, according to his views, should always have a social importance,like the celebrated speeches made by the advocates who have become distinguished. True, the audience consisted of three women--a semptress, a cook, and Simeon’s sister--and a coachman; but this did not matter. The celebrities had begun in the same way. To be always at the height of his position, i.e., to penetrate into the depths of the psychological significance of crime and to discover the wounds of society, was one of the prosecutor’s principles.
+
+“You see before you, gentlemen of the jury, a crime characteristic, if I may so express myself, of the end of our century; bearing, so to say, the specific features of that very painful phenomenon, the corruption to which those elements of our present-day society, which are, so to say, particularly exposed to the burning rays of this process, are subject.”
+
+The public prosecutor spoke at great length, trying not to forget any of the notions he had formed in his mind, and, on the other hand, never to hesitate, and let his speech flow on for an hour and a quarter without a break.
+
+Only once he stopped and for some time stood swallowing his saliva, but he soon mastered himself and made up for the interruption by heightened eloquence. He spoke, now with a tender, insinuating accent, stepping from foot to foot and looking at the jury, now in quiet, business-like tones, glancing into his notebook, then with a loud, accusing voice, looking from the audience to the advocates. But he avoided looking at the prisoners, who were all three fixedly gazing at him.Every new craze then in vogue among his set was alluded to in his speech; everything that then was, and some things that still are, considered to be the last words of scientific wisdom: the laws of heredity and inborn criminality, evolution and the struggle for existence, hypnotism and hypnotic influence.
+
+According to his definition, the merchant Smelkoff was of the genuine Russian type, and had perished in consequence of his generous, trusting nature, having fallen into the hands of deeply degraded individuals.
+
+Simeon Kartinkin was the atavistic production of serfdom, a stupefied, ignorant, unprincipled man, who had not even any religion. Euphemia was his mistress, and a victim of heredity; all the signs of degeneration were noticeable in her. The chief wire-puller in this affair was Maslova, presenting the phenomenon of decadence in its lowest form. “This woman,” he said, looking at her, “has, as we have to-day heard from her mistress in this court, received an education; she cannot only read and write, but she knows French; she is illegitimate, and probably carries in her the germs of criminality. She was educated in an enlightened, noble family and might have lived by honest work, but she deserts her benefactress, gives herself up to a life of shame in which she is distinguished from her companions by her education, and chiefly, gentlemen of the jury, as you have heard from her mistress, by her power of acting on the visitors by means of that mysterious capacity lately investigated by science, especially by the school of Charcot, known by the name of hypnotic influence. By these means she gets hold of this Russian, this kind-hearted Sadko, [Sadko, the hero of a legend] the rich guest, and uses his trust in order first to rob and then pitilessly to murder him.”“Well, he is piling it on now, isn’t he?” said the president with a smile, bending towards the serious member.
+
+“A fearful blockhead!” said the serious member.
+
+Meanwhile the public prosecutor went on with his speech. “Gentlemen of the jury,” gracefully swaying his body, “the fate of society is to a certain extent in your power. Your verdict will influence it. Grasp the full meaning of this crime, the danger that awaits society from those whom I may perhaps be permitted to call pathological individuals, such as Maslova. Guard it from infection; guard the innocent and strong elements of society from contagion or even destruction.”
+
+And as if himself overcome by the significance of the expected verdict, the public prosecutor sank into his chair, highly delighted with his speech.
+
+The sense of the speech, when divested of all its flowers of rhetoric, was that Maslova, having gained the merchant’s confidence, hypnotised him and went to his lodgings with his key meaning to take all the money herself, but having been caught in the act by Simeon and Euphemia had to share it with them. Then, in order to hide the traces of the crime, she had returned to the lodgings with the merchant and there poisoned him.
+
+After the prosecutor had spoken, a middle-aged man in swallow-tail coat and low-cut waistcoat showing a large half-circle of starched white shirt,rose from the advocates’ bench and made a speech in defence of Kartinkin and Botchkova; this was an advocate engaged by them for 300 roubles. He acquitted them both and put all the blame on Maslova. He denied the truth of Maslova’s statements that Botchkova and Kartinkin were with her when she took the money, laying great stress on the point that her evidence could not be accepted, she being charged with poisoning. “The 2,500 roubles,” the advocate said, “could have been easily earned by two honest people getting from three to five roubles per day in tips from the lodgers. The merchant’s money was stolen by Maslova and given away, or even lost, as she was not in a normal state.”
+
+The poisoning was committed by Maslova alone; therefore he begged the jury to acquit Kartinkin and Botchkova of stealing the money; or if they could not acquit them of the theft, at least to admit that it was done without any participation in the poisoning.
+
+In conclusion the advocate remarked, with a thrust at the public prosecutor, that “the brilliant observations of that gentleman on heredity, while explaining scientific facts concerning heredity, were inapplicable in this case, as Botchkova was of unknown parentage.” The public prosecutor put something down on paper with an angry look, and shrugged his shoulders in contemptuous surprise.
+
+Then Maslova’s advocate rose, and timidly and hesitatingly began his speech in her defence.Without denying that she had taken part in the stealing of the money, he insisted on the fact that she had no intention of poisoning Smelkoff, but had given him the powder only to make him fall asleep. He tried to go in for a little eloquence in giving a description of how Maslova was led into a life of debauchery by a man who had remained unpunished while she had to bear all the weight of her fall; but this excursion into the domain of psychology was so unsuccessful that it made everybody feel uncomfortable. When he muttered something about men’s cruelty and women’s helplessness, the president tried to help him by asking him to keep closer to the facts of the case. When he had finished the public prosecutor got up to reply. He defended his position against the first advocate, saying that even if Botchkova was of unknown parentage the truth of the doctrine of heredity was thereby in no way invalidated, since the laws of heredity were so far proved by science that we can not only deduce the crime from heredity, but heredity from the crime. As to the statement made in defence of Maslova, that she was the victim of an imaginary (he laid a particularly venomous stress on the word imaginary) betrayer, he could only say that from the evidence before them it was much more likely that she had played the part of temptress to many and many a victim who had fallen into her hands. Having said this he sat down in triumph. Then the prisoners were offered permission to speak in their own defence.Euphemia Botchkova repeated once more that she knew nothing about it and had taken part in nothing, and firmly laid the whole blame on Maslova. Simeon Kartinkin only repeated several times: “It is your business, but I am innocent; it’s unjust.” Maslova said nothing in her defence. Told she might do so by the president, she only lifted her eyes to him, cast a look round the room like a hunted animal, and, dropping her head, began to cry, sobbing aloud.
+
+“What is the matter?” the merchant asked Nekhludoff, hearing him utter a strange sound. This was the sound of weeping fiercely kept back. Nekhludoff had not yet understood the significance of his present position, and attributed the sobs he could hardly keep back and the tears that filled his eyes to the weakness of his nerves. He put on his pince-nez in order to hide the tears, then got out his handkerchief and began blowing his nose.
+
+Fear of the disgrace that would befall him if every one in the court knew of his conduct stifled the inner working of his soul. This fear was, during this first period, stronger than all else.<b>CHAPTER XXII.</b>
+
+THE TRIAL--THE SUMMING UP.
+
+After the last words of the prisoners had been heard, the form in which the questions were to be put to the jury was settled, which also took some time. At last the questions were formulated, and the president began the summing up.
+
+Before putting the case to the jury, he spoke to them for some time in a pleasant, homely manner, explaining that burglary was burglary and theft was theft, and that stealing from a place which was under lock and key was stealing from a place under lock and key. While he was explaining this, he looked several times at Nekhludoff as if wishing to impress upon him these important facts, in hopes that, having understood it, Nekhludoff would make his fellow-jurymen also understand it. When he considered that the jury were sufficiently imbued with these facts, he proceeded to enunciate another truth--namely, that a murder is an action which has the death of a human being as its consequence, and that poisoning could therefore also be termed murder. When, according to his opinion, this truth had also been received by the jury, he went on to explain that if theft and murder had been committed at the same time, the combination of the crimes was theft with murder.
+
+Although he was himself anxious to finish as soon as possible, although he knew that his Swiss friend would be waiting for him, he had grown so used to his occupation that, having begun to speak, he could not stop himself,and therefore he went on to impress on the jury with much detail that if they found the prisoners guilty, they would have the right to give a verdict of guilty; and if they found them not guilty, to give a verdict of not guilty; and if they found them guilty of one of the crimes and not of the other, they might give a verdict of guilty on the one count and of not guilty on the other. Then he explained that though this right was given them they should use it with reason.
+
+He was going to add that if they gave an affirmative answer to any question that was put to them they would thereby affirm everything included in the question, so that if they did not wish to affirm the whole of the question they should mention the part of the question they wished to be excepted. But, glancing at the clock, and seeing it was already five minutes to three, he resolved to trust to their being intelligent enough to understand this without further comment.
+
+“The facts of this case are the following,” began the president, and repeated all that had already been said several times by the advocates, the public prosecutor and the witnesses.
+
+The president spoke, and the members on each side of him listened with deeply-attentive expressions, but looked from time to time at the clock, for they considered the speech too long though very good--i.e., such as it ought to be. The public prosecutor, the lawyers, and, in fact, everyone in the court, shared the same impression. The president finished the summing up.Then he found it necessary to tell the jury what they all knew, or might have found out by reading it up--i.e., how they were to consider the case, count the votes, in case of a tie to acquit the prisoners, and so on.
+
+Everything seemed to have been told; but no, the president could not forego his right of speaking as yet. It was so pleasant to hear the impressive tones of his own voice, and therefore he found it necessary to say a few words more about the importance of the rights given to the jury, how carefully they should use the rights and how they ought not to abuse them, about their being on their oath, that they were the conscience of society, that the secrecy of the debating-room should be considered sacred, etc.
+
+From the time the president commenced his speech, Maslova watched him without moving her eyes as if afraid of losing a single word; so that Nekhludoff was not afraid of meeting her eyes and kept looking at her all the time. And his mind passed through those phases in which a face which we have not seen for many years first strikes us with the outward changes brought about during the time of separation, and then gradually becomes more and more like its old self, when the changes made by time seem to disappear, and before our spiritual eyes rises only the principal expression of one exceptional, unique individuality. Yes, though dressed in a prison cloak, and in spite of the developed figure, the fulness of the bosom and lower part of the face, in spite of a few wrinkles on the forehead and temples and the swollen eyes, this was certainly the same Katusha who, on that Easter eve, had so innocently looked up to him whom she loved, with her fond, laughing eyes full of joy and life.“What a strange coincidence that after ten years, during which I never saw her, this case should have come up today when I am on the jury, and that it is in the prisoners’ dock that I see her again! And how will it end? Oh, dear, if they would only get on quicker.”
+
+Still he would not give in to the feelings of repentance which began to arise within him. He tried to consider it all as a coincidence, which would pass without infringing his manner of life. He felt himself in the position of a puppy, when its master, taking it by the scruff of its neck, rubs its nose in the mess it has made. The puppy whines, draws back and wants to get away as far as possible from the effects of its misdeed, but the pitiless master does not let go.
+
+And so, Nekhludoff, feeling all the repulsiveness of what he had done, felt also the powerful hand of the Master, but he did not feel the whole significance of his action yet and would not recognise the Master’s hand. He did not wish to believe that it was the effect of his deed that lay before him, but the pitiless hand of the Master held him and he felt he could not get away. He was still keeping up his courage and sat on his chair in the first row in his usual self-possessed pose, one leg carelessly thrown over the other, and playing with his pince-nez. Yet all the while, in the depths of his soul, he felt the cruelty, cowardice and baseness, not only of this particular action of his but of his whole self-willed, depraved, cruel, idle life; and that dreadful veil which had in some unaccountable manner hidden from him this sin of his and the whole of his subsequent life was beginning to shake, and he caught glimpses of what was covered by that veil.<b>CHAPTER XXIII.</b>
+
+THE TRIAL--THE VERDICT.
+
+At last the president finished his speech, and lifting the list of questions with a graceful movement of his arm he handed it to the foreman, who came up to take it. The jury, glad to be able to get into the debating-court, got up one after the other and left the room, looking as if a bit ashamed of themselves and again not knowing what to do with their hands. As soon as the door was closed behind them a gendarme came up to it, pulled his sword out of the scabbard, and, holding it up against his shoulder, stood at the door. The judges got up and went away. The prisoners were also led out. When the jury came into the debating-room the first thing they did was to take out their cigarettes, as before, and begin smoking. The sense of the unnaturalness and falseness of their position, which all of them had experienced while sitting in their places in the court, passed when they entered the debating-room and started smoking, and they settled down with a feeling of relief and at once began an animated conversation.
+
+“‘Tisn’t the girl’s fault. She’s got mixed up in it,” said the kindly merchant. “We must recommend her to mercy.”
+
+“That’s just what we are going to consider,” said the foreman. “We must not give way to our personal impressions.”
+
+“The president’s summing up was good,” remarked the colonel.“Good? Why, it nearly sent me to sleep!”
+
+“The chief point is that the servants could have known nothing about the money if Maslova had not been in accord with them,” said the clerk of Jewish extraction.
+
+“Well, do you think that it was she who stole the money?” asked one of the jury.
+
+“I will never believe it,” cried the kindly merchant; “it was all that red-eyed hag’s doing.”
+
+“They are a nice lot, all of them,” said the colonel.
+
+“But she says she never went into the room.”
+
+“Oh, believe her by all means.”
+
+“I should not believe that jade, not for the world.”
+
+“Whether you believe her or not does not settle the question,” said the clerk.
+
+“The girl had the key,” said the colonel.
+
+“What if she had?” retorted the merchant.“And the ring?”
+
+“But didn’t she say all about it?” again cried the merchant. “The fellow had a temper of his own, and had had a drop too much besides, and gave the girl a licking; what could be simpler? Well, then he’s sorry--quite naturally. ‘There, never mind,’ says he; ‘take this.’ Why, I heard them say he was six foot five high; I should think he must have weighed about 20 stones.”
+
+“That’s not the point,” said Peter Gerasimovitch. “The question is, whether she was the instigator and inciter in this affair, or the servants?”
+
+“It was not possible for the servants to do it alone; she had the key.”
+
+This kind of random talk went on for a considerable time. At last the foreman said: “I beg your pardon, gentlemen, but had we not better take our places at the table and discuss the matter? Come, please.” And he took the chair.
+
+The questions were expressed in the following manner.
+
+1. Is the peasant of the village Borki, Krapivinskia district, Simeon Petrov Kartinkin, 33 years of age, guilty of having, in agreement with other persons, given the merchant Smelkoff, on the 17th January, 188-, in the town of N-----, with intent to deprive him of life, for the purpose of robbing him, poisoned brandy, which caused Smelkoff’s death, and of having stolen from him about 2,500 roubles in money and a diamond ring?2. Is the meschanka Euphemia Ivanovna Botchkova, 43 years of age, guilty of the crimes described above?
+
+3. Is the meschanka Katerina Michaelovna Maslova, 27 years of age, guilty of the crimes described in the first question?
+
+4. If the prisoner Euphemia Botchkova is not guilty according to the first question, is she not guilty of having, on the 17th January, in the town of N----, while in service at the hotel Mauritania, stolen from a locked portmanteau, belonging to the merchant Smelkoff, a lodger in that hotel, and which was in the room occupied by him, 2,500 roubles, for which object she unlocked the portmanteau with a key she brought and fitted to the lock?
+
+The foreman read the first question.
+
+“Well, gentlemen, what do you think?” This question was quickly answered. All agreed to say “Guilty,” as if convinced that Kartinkin had taken part both in the poisoning and the robbery. An old artelshik, [member of an artel, an association of workmen, in which the members share profits and liabilities] whose answers were all in favour of acquittal, was the only exception.
+
+The foreman thought he did not understand, and began to point out to him that everything tended to prove Kartinkin’s guilt. The old man answered that he did understand, but still thought it better to have pity on him. “We are not saints ourselves,” and he kept to his opinion.The answer to the second question concerning Botchkova was, after much dispute and many exclamations, answered by the words, “Not guilty,” there being no clear proofs of her having taken part in the poisoning--a fact her advocate had strongly insisted on. The merchant, anxious to acquit Maslova, insisted that Botchkova was the chief instigator of it all. Many of the jury shared this view, but the foreman, wishing to be in strict accord with the law, declared they had no grounds to consider her as an accomplice in the poisoning. After much disputing the foreman’s opinion triumphed.
+
+To the fourth question concerning Botchkova the answer was “Guilty.” But on the artelshik’s insistence she was recommended to mercy.
+
+The third question, concerning Maslova, raised a fierce dispute. The foreman maintained she was guilty both of the poisoning and the theft, to which the merchant would not agree. The colonel, the clerk and the old artelshik sided with the merchant, the rest seemed shaky, and the opinion of the foreman began to gain ground, chiefly because all the jurymen were getting tired, and preferred to take up the view that would bring them sooner to a decision and thus liberate them.
+
+From all that had passed, and from his former knowledge of Maslova, Nekhludoff was certain that she was innocent of both the theft and the poisoning. And he felt sure that all the others would come to the same conclusion.When he saw that the merchant’s awkward defence (evidently based on his physical admiration for her, which he did not even try to hide) and the foreman’s insistence, and especially everybody’s weariness, were all tending to her condemnation, he longed to state his objections, yet dared not, lest his relations with Maslova should be discovered. He felt he could not allow things to go on without stating his objection; and, blushing and growing pale again, was about to speak when Peter Gerasimovitch, irritated by the authoritative manner of the foreman, began to raise his objections and said the very things Nekhludoff was about to say.
+
+“Allow me one moment,” he said. “You seem to think that her having the key proves she is guilty of the theft; but what could be easier than for the servants to open the portmanteau with a false key after she was gone?”
+
+“Of course, of course,” said the merchant.
+
+“She could not have taken the money, because in her position she would hardly know what to do with it.”
+
+“That’s just what I say,” remarked the merchant.
+
+“But it is very likely that her coming put the idea into the servants’ heads and that they grasped the opportunity and shoved all the blame on her.” Peter Gerasimovitch spoke so irritably that the foreman became irritated too, and went on obstinately defending the opposite views;but Peter Gerasimovitch spoke so convincingly that the majority agreed with him, and decided that Maslova was not guilty of stealing the money and that the ring was given her.
+
+But when the question of her having taken part in the poisoning was raised, her zealous defender, the merchant, declared that she must be acquitted, because she could have no reason for the poisoning. The foreman, however, said that it was impossible to acquit her, because she herself had pleaded guilty to having given the powder.
+
+“Yes, but thinking it was opium,” said the merchant.
+
+“Opium can also deprive one of life,” said the colonel, who was fond of wandering from the subject, and he began telling how his brother-in-law’s wife would have died of an overdose of opium if there had not been a doctor near at hand to take the necessary measures. The colonel told his story so impressively, with such self-possession and dignity, that no one had the courage to interrupt him. Only the clerk, infected by his example, decided to break in with a story of his own: “There are some who get so used to it that they can take 40 drops. I have a relative--,” but the colonel would not stand the interruption, and went on to relate what effects the opium had on his brother-in-law’s wife.
+
+“But, gentlemen, do you know it is getting on towards five o’clock?” said one of the jury.“Well, gentlemen, what are we to say, then?” inquired the foreman. “Shall we say she is guilty, but without intent to rob? And without stealing any property? Will that do?” Peter Gerasimovitch, pleased with his victory, agreed.
+
+“But she must be recommended to mercy,” said the merchant.
+
+All agreed; only the old artelshik insisted that they should say “Not guilty.”
+
+“It comes to the same thing,” explained the foreman; “without intent to rob, and without stealing any property. Therefore, ‘Not guilty,’ that’s evident.”
+
+“All right; that’ll do. And we recommend her to mercy,” said the merchant, gaily.
+
+They were all so tired, so confused by the discussions, that nobody thought of saying that she was guilty of giving the powder but without the intent of taking life. Nekhludoff was so excited that he did not notice this omission, and so the answers were written down in the form agreed upon and taken to the court.
+
+Rabelais says that a lawyer who was trying a case quoted all sorts of laws, read 20 pages of judicial senseless Latin, and then proposed to the judges to throw dice, and if the numbers proved odd the defendant would be right, if not, the plaintiff.It was much the same in this case. The resolution was taken, not because everybody agreed upon it, but because the president, who had been summing up at such length, omitted to say what he always said on such occasions, that the answer might be, “Yes, guilty, but without the intent of taking life;” because the colonel had related the story of his brother-in-law’s wife at such great length; because Nekhludoff was too excited to notice that the proviso “without intent to take life” had been omitted, and thought that the words “without intent” nullified the conviction; because Peter Gerasimovitch had retired from the room while the questions and answers were being read, and chiefly because, being tired, and wishing to get away as soon as possible, all were ready to agree with the decision which would bring matters to an end soonest.
+
+The jurymen rang the bell. The gendarme who had stood outside the door with his sword drawn put the sword back into the scabbard and stepped aside. The judges took their seats and the jury came out one by one.
+
+The foreman brought in the paper with an air of solemnity and handed it to the president, who looked at it, and, spreading out his hands in astonishment, turned to consult his companions. The president was surprised that the jury, having put in a proviso--without intent to rob--did not put in a second proviso--without intent to take life. From the decision of the jury it followed that Maslova had not stolen, nor robbed, and yet poisoned a man without any apparent reason.
+
+“Just see what an absurd decision they have come to,” he whispered to the member on his left. “This means penal servitude in Siberia, and she is innocent.”“Surely you do not mean to say she is innocent?” answered the serious member.
+
+“Yes, she is positively innocent. I think this is a case for putting Article 817 into practice (Article 817 states that if the Court considers the decision of the jury unjust it may set it aside).”
+
+“What do you think?” said the president, turning to the other member. The kindly member did not answer at once. He looked at the number on a paper before him and added up the figures; the sum would not divide by three. He had settled in his mind that if it did divide by three he would agree to the president’s proposal, but though the sum would not so divide his kindness made him agree all the same.
+
+“I, too, think it should be done,” he said.
+
+“And you?” asked the president, turning to the serious member.
+
+“On no account,” he answered, firmly. “As it is, the papers accuse the jury of acquitting prisoners. What will they say if the Court does it? I, shall not agree to that on any account.”
+
+The president looked at his watch. “It is a pity, but what’s to be done?” and handed the questions to the foreman to read out. All got up, and the foreman, stepping from foot to foot, coughed, and read the questions and the answers. All the Court, secretary, advocates, and even the public prosecutor, expressed surprise.The prisoners sat impassive, evidently not understanding the meaning of the answers. Everybody sat down again, and the president asked the prosecutor what punishments the prisoners were to be subjected to.
+
+The prosecutor, glad of his unexpected success in getting Maslova convicted, and attributing the success entirely to his own eloquence, looked up the necessary information, rose and said: “With Simeon Kartinkin I should deal according to Statute 1,452 paragraph 93. Euphemia Botchkova according to Statute . . ., etc. Katerina Maslova according to Statute . . ., etc.”
+
+All three punishments were the heaviest that could be inflicted.
+
+“The Court will adjourn to consider the sentence,” said the president, rising. Everybody rose after him, and with the pleasant feeling of a task well done began to leave the room or move about in it.
+
+“D’you know, sirs, we have made a shameful hash of it?” said Peter Gerasimovitch, approaching Nekhludoff, to whom the foreman was relating something. “Why, we’ve got her to Siberia.”
+
+“What are you saying?” exclaimed Nekhludoff. This time he did not notice the teacher’s familiarity.
+
+“Why, we did not put in our answer ‘Guilty, but without intent of causing death.’ The secretary just told me the public prosecutor is for condemning her to 15 years’ penal servitude.”“Well, but it was decided so,” said the foreman.
+
+Peter Gerasimovitch began to dispute this, saying that since she did not take the money it followed naturally that she could not have had any intention of committing murder.
+
+“But I read the answer before going out,” said the foreman, defending himself, “and nobody objected.”
+
+“I had just then gone out of the room,” said Peter Gerasimovitch, turning to Nekhludoff, “and your thoughts must have been wool-gathering to let the thing pass.”
+
+“I never imagined this,” Nekhludoff replied.
+
+“Oh, you didn’t?”
+
+“Oh, well, we can get it put right,” said Nekhludoff.
+
+“Oh, dear no; it’s finished.”
+
+Nekhludoff looked at the prisoners. They whose fate was being decided still sat motionless behind the grating in front of the soldiers. Maslova was smiling. Another feeling stirred in Nekhludoff’s soul. Up to now, expecting her acquittal and thinking she would remain in the town, he was uncertain how to act towards her. Any kind of relations with her would be so very difficult.But Siberia and penal servitude at once cut off every possibility of any kind of relations with her. The wounded bird would stop struggling in the game-bag, and no longer remind him of its existence.
+
+<b>CHAPTER XXIV.</b>
+
+THE TRIAL--THE SENTENCE.
+
+Peter Gerasimovitch’s assumption was correct. The president came back from the debating room with a paper, and read as follows:--“April 28th, 188-. By His Imperial Majesty’s ukase No. ----- The Criminal Court, on the strength of the decision of the jury, in accordance with Section 3 of Statute 771, Section 3 of Statutes 770 and 777, decrees that the peasant, Simeon Kartinkin, 33 years of age, and the meschanka Katerina Maslova, 27 years of age, are to be deprived of all property rights and to be sent to penal servitude in Siberia, Kartinkin for eight, Maslova for four years, with the consequences stated in Statute 25 of the code. The meschanka Botchkova, 43 years of age, to be deprived of all special personal and acquired rights, and to be imprisoned for three years with consequences in accord with Statute 48 of the code. The costs of the case to be borne equally by the prisoners; and, in the case of their being without sufficient property, the costs to be transferred to the Treasury. Articles of material evidence to be sold, the ring to be returned, the phials destroyed.” Botchkova was condemned to prison, Simeon Kartinken and Katerina Maslova to the loss of all special rights and privileges and to penal servitude in Siberia, he for eight and she for four years.Kartinkin stood holding his arms close to his sides and moving his lips. Botchkova seemed perfectly calm. Maslova, when she heard the sentence, blushed scarlet. “I’m not guilty, not guilty!” she suddenly cried, so that it resounded through the room. “It is a sin! I am not guilty! I never wished--I never thought! It is the truth I am saying--the truth!” and sinking on the bench she burst into tears and sobbed aloud. When Kartinkin and Botchkova went out she still sat crying, so that a gendarme had to touch the sleeve of her cloak.
+
+“No; it is impossible to leave it as it is,” said Nekhludoff to himself, utterly forgetting his bad thoughts. He did not know why he wished to look at her once more, but hurried out into the corridor. There was quite a crowd at the door. The advocates and jury were going out, pleased to have finished the business, and he was obliged to wait a few seconds, and when he at last got out into the corridor she was far in front. He hurried along the corridor after her, regardless of the attention he was arousing, caught her up, passed her, and stopped. She had ceased crying and only sobbed, wiping her red, discoloured face with the end of the kerchief on her head. She passed without noticing him. Then he hurried back to see the president. The latter had already left the court, and Nekhludoff followed him into the lobby and went up to him just as he had put on his light grey overcoat and was taking the silver-mounted walking-stick which an attendant was handing him.
+
+“Sir, may I have a few words with you concerning some business I have just decided upon?” said Nekhludoff. “I am one of the jury.”“Oh, certainly, Prince Nekhludoff. I shall be delighted. I think we have met before,” said the president, pressing Nekhludoff’s hand and recalling with pleasure the evening when he first met Nekhludoff, and when he had danced so gaily, better than all the young people. “What can I do for you?”
+
+“There is a mistake in the answer concerning Maslova. She is not guilty of the poisoning and yet she is condemned to penal servitude,” said Nekhludoff, with a preoccupied and gloomy air.
+
+“The Court passed the sentence in accordance with the answers you yourselves gave,” said the president, moving towards the front door; “though they did not seem to be quite in accord.” And he remembered that he had been going to explain to the jury that a verdict of “guilty” meant guilty of intentional murder unless the words “without intent to take life” were added, but had, in his hurry to get the business over, omitted to do so.
+
+“Yes, but could not the mistake be rectified?”
+
+“A reason for an appeal can always be found. You will have to speak to an advocate,” said the president, putting on his hat a little to one side and continuing to move towards the door.
+
+“But this is terrible.”
+
+“Well, you see, there were two possibilities before Maslova,” said the president,evidently wishing to be as polite and pleasant to Nekhludoff as he could. Then, having arranged his whiskers over his coat collar, he put his hand lightly under Nekhludoff’s elbow, and, still directing his steps towards the front door, he said, “You are going, too?”
+
+“Yes,” said Nekhludoff, quickly getting his coat, and following him.
+
+They went out into the bright, merry sunlight, and had to raise their voices because of the rattling of the wheels on the pavement.
+
+“The situation is a curious one, you see,” said the president; “what lay before this Maslova was one of two things: either to be almost acquitted and only imprisoned for a short time, or, taking the preliminary confinement into consideration, perhaps not at all--or Siberia. There is nothing between. Had you but added the words, ‘without intent to cause death,’ she would have been acquitted.”
+
+“Yes, it was inexcusable of me to omit that,” said Nekhludoff.
+
+“That’s where the whole matter lies,” said the president, with a smile, and looked at his watch. He had only three-quarters of an hour left before the time appointed by his Clara would elapse.
+
+“Now, if you like to speak to the advocates you’ll have to find a reason for an appeal; that can be easily done.” Then, turning to an isvostchik, he called out, “To the Dvoryanskaya 30 copecks; I never give more.”“All right, your honour; here you are.”
+
+“Good-afternoon. If I can be of any use, my address is House Dvornikoff, on the Dvoryanskaya; it’s easy to remember.” And he bowed in a friendly manner as he got into the trap and drove off.
+
+<b>CHAPTER XXV.</b>
+
+NEKHLUDOFF CONSULTS AN ADVOCATE.
+
+His conversation with the president and the fresh air quieted Nekhludoff a little. He now thought that the feelings experienced by him had been exaggerated by the unusual surroundings in which he had spent the whole of the morning, and by that wonderful and startling coincidence. Still, it was absolutely necessary to take some steps to lighten Maslova’s fate, and to take them quickly. “Yes, at once! It will be best to find out here in the court where the advocate Fanarin or Mikishin lives.” These were two well-known advocates whom Nekhludoff called to mind. He returned to the court, took off his overcoat, and went upstairs. In the first corridor he met Fanarin himself. He stopped him, and told him that he was just going to look him up on a matter of business.
+
+Fanarin knew Nekhludoff by sight and name, and said he would be very glad to be of service to him.
+
+“Though I am rather tired, still, if your business will not take very long, perhaps you might tell me what it is now. Will you step in here?”And he led Nekhludoff into a room, probably some judge’s cabinet. They sat down by the table.
+
+“Well, and what is your business?”
+
+“First of all, I must ask you to keep the business private. I do not want it known that I take an interest in the affair.”
+
+“Oh, that of course. Well?”
+
+“I was on the jury to-day, and we have condemned a woman to Siberia, an innocent woman. This bothers me very much.” Nekhludoff, to his own surprise, blushed and became confused. Fanarin glanced at him rapidly, and looked down again, listening.
+
+“Well?”
+
+“We have condemned a woman, and I should like to appeal to a higher court.”
+
+“To the Senate, you mean,” said Fanarin, correcting him.
+
+“Yes, and I should like to ask you to take the case in hand.” Nekhludoff wanted to get the most difficult part over, and added, “I shall take the costs of the case on myself, whatever they may be.”“Oh, we shall settle all that,” said the advocate, smiling with condescension at Nekhludoff’s inexperience in these matters. “What is the case?”
+
+Nekhludoff stated what had happened.
+
+“All right. I shall look the case through to-morrow or the day after--no--better on Thursday. If you will come to me at six o’clock I will give you an answer. Well, and now let us go; I have to make a few inquiries here.”
+
+Nekhludoff took leave of him and went out. This talk with the advocate, and the fact that he had taken measures for Maslova’s defence, quieted him still further. He went out into the street. The weather was beautiful, and he joyfully drew in a long breath of spring air. He was at once surrounded by isvostchiks offering their services, but he went on foot. A whole swarm of pictures and memories of Katusha and his conduct to her began whirling in his brain, and he felt depressed and everything appeared gloomy. “No, I shall consider all this later on; I must now get rid of all these disagreeable impressions,” he thought to himself.
+
+He remembered the Korchagin’s dinner and looked at his watch. It was not yet too late to get there in time. He heard the ring of a passing tramcar, ran to catch it, and jumped on. He jumped off again when they got to the market-place, took a good isvostchik, and ten minutes later was at the entrance of the Korchagins’ big house.<b>CHAPTER XXVI.</b>
+
+THE HOUSE OF KORCHAGIN.
+
+“Please to walk in, your excellency,” said the friendly, fat doorkeeper of the Korchagins’ big house, opening the door, which moved noiselessly on its patent English hinges; “you are expected. They are at dinner. My orders were to admit only you.” The doorkeeper went as far as the staircase and rang.
+
+“Are there any strangers?” asked Nekhludoff, taking off his overcoat.
+
+“Mr. Kolosoff and Michael Sergeivitch only, besides the family.”
+
+A very handsome footman with whiskers, in a swallow-tail coat and white gloves, looked down from the landing.
+
+“Please to walk up, your excellency,” he said. “You are expected.”
+
+Nekhludoff went up and passed through the splendid large dancing-room, which he knew so well, into the dining-room. There the whole Korchagin family--except the mother, Sophia Vasilievna, who never left her cabinet--were sitting round the table. At the head of the table sat old Korchagin; on his left the doctor, and on his right, a visitor, Ivan Ivanovitch Kolosoff, a former Marechal de Noblesse, now a bank director, Korchagin’s friend and a Liberal. Next on the left side sat Miss Rayner, the governess of Missy’s little sister, and the four-year-old girl herself.Opposite them, Missy’s brother, Petia, the only son of the Korchagins, a public-school boy of the Sixth Class. It was because of his examinations that the whole family were still in town. Next to him sat a University student who was coaching him, and Missy’s cousin, Michael Sergeivitch Telegin, generally called Misha; opposite him, Katerina Alexeevna, a 40-year-old maiden lady, a Slavophil; and at the foot of the table sat Missy herself, with an empty place by her side.
+
+“Ah! that’s right! Sit down. We are still at the fish,” said old Korchagin with difficulty, chewing carefully with his false teeth, and lifting his bloodshot eyes (which had no visible lids to them) to Nekhludoff.
+
+“Stephen!” he said, with his mouth full, addressing the stout, dignified butler, and pointing with his eyes to the empty place. Though Nekhludoff knew Korchagin very well, and had often seen him at dinner, to-day this red face with the sensual smacking lips, the fat neck above the napkin stuck into his waistcoat, and the whole over-fed military figure, struck him very disagreeably. Then Nekhludoff remembered, without wishing to, what he knew of the cruelty of this man, who, when in command, used to have men flogged, and even hanged, without rhyme or reason, simply because he was rich and had no need to curry favour.
+
+“Immediately, your excellency,” said Stephen, getting a large soup ladle out of the sideboard, which was decorated with a number of silver vases. He made a sign with his head to the handsome footman, who began at once to arrange the untouched knives and forks and the napkin, elaborately folded with the embroidered family crest uppermost, in front of the empty place next to Missy.Nekhludoff went round shaking hands with every one, and all, except old Korchagin and the ladies, rose when he approached. And this walk round the table, this shaking the hands of people, with many of whom he never talked, seemed unpleasant and odd. He excused himself for being late, and was about to sit down between Missy and Katerina Alexeevna, but old Korchagin insisted that if he would not take a glass of vodka he should at least take a bit of something to whet his appetite, at the side table, on which stood small dishes of lobster, caviare, cheese, and salt herrings. Nekhludoff did not know how hungry he was until he began to eat, and then, having taken some bread and cheese, he went on eating eagerly.
+
+“Well, have you succeeded in undermining the basis of society?” asked Kolosoff, ironically quoting an expression used by a retrograde newspaper in attacking trial by jury. “Acquitted the culprits and condemned the innocent, have you?”
+
+“Undermining the basis--undermining the basis,” repeated Prince Korchagin, laughing. He had a firm faith in the wisdom and learning of his chosen friend and companion.
+
+At the risk of seeming rude, Nekhludoff left Kolosoff’s question unanswered, and sitting down to his steaming soup, went on eating.
+
+“Do let him eat,” said Missy, with a smile. The pronoun him she used as a reminder of her intimacy with Nekhludoff. Kolosoff went on in a loud voice and lively manner to give the contents of the article against trial by jury which had aroused his indignation.Missy’s cousin, Michael Sergeivitch, endorsed all his statements, and related the contents of another article in the same paper. Missy was, as usual, very distinguee, and well, unobtrusively well, dressed.
+
+“You must be terribly tired,” she said, after waiting until Nekhludoff had swallowed what was in his mouth.
+
+“Not particularly. And you? Have you been to look at the pictures?” he asked.
+
+“No, we put that off. We have been playing tennis at the Salamatoffs’. It is quite true, Mr. Crooks plays remarkably well.”
+
+Nekhludoff had come here in order to distract his thoughts, for he used to like being in this house, both because its refined luxury had a pleasant effect on him and because of the atmosphere of tender flattery that unobtrusively surrounded him. But to-day everything in the house was repulsive to him--everything: beginning with the doorkeeper, the broad staircase, the flowers, the footman, the table decorations, up to Missy herself, who to-day seemed unattractive and affected. Kolosoff’s self-assured, trivial tone of liberalism was unpleasant, as was also the sensual, self-satisfied, bull-like appearance of old Korchagin, and the French phrases of Katerina Alexeevna, the Slavophil. The constrained looks of the governess and the student were unpleasant, too, but most unpleasant of all was the pronoun <i>him</i> that Missy had used.Nekhludoff had long been wavering between two ways of regarding Missy; sometimes he looked at her as if by moonlight, and could see in her nothing but what was beautiful, fresh, pretty, clever and natural; then suddenly, as if the bright sun shone on her, he saw her defects and could not help seeing them. This was such a day for him. To-day he saw all the wrinkles of her face, knew which of her teeth were false, saw the way her hair was crimped, the sharpness of her elbows, and, above all, how large her thumb-nail was and how like her father’s.
+
+“Tennis is a dull game,” said Kolosoff; “we used to play lapta when we were children. That was much more amusing.”
+
+“Oh, no, you never tried it; it’s awfully interesting,” said Missy, laying, it seemed to Nekhludoff, a very affected stress on the word “awfully.” Then a dispute arose in which Michael Sergeivitch, Katerina Alexeevna and all the others took part, except the governess, the student and the children, who sat silent and wearied.
+
+“Oh, these everlasting disputes!” said old Korchagin, laughing, and he pulled the napkin out of his waistcoat, noisily pushed back his chair, which the footman instantly caught hold of, and left the table.
+
+Everybody rose after him, and went up to another table on which stood glasses of scented water. They rinsed their mouths, then resumed the conversation, interesting to no one.“Don’t you think so?” said Missy to Nekhludoff, calling for a confirmation of the statement that nothing shows up a man’s character like a game. She noticed that preoccupied and, as it seemed to her, dissatisfied look which she feared, and she wanted to find out what had caused it.
+
+“Really, I can’t tell; I have never thought about it,” Nekhludoff answered.
+
+“Will you come to mamma?” asked Missy.
+
+“Yes, yes,” he said, in a tone which plainly proved that he did not want to go, and took out a cigarette.
+
+She looked at him in silence, with a questioning look, and he felt ashamed. “To come into a house and give the people the dumps,” he thought about himself; then, trying to be amiable, said that he would go with pleasure if the princess would admit him.
+
+“Oh, yes! Mamma will be pleased. You may smoke there; and Ivan Ivanovitch is also there.”
+
+The mistress of the house, Princess Sophia Vasilievna, was a recumbent lady. It was the eighth year that, when visitors were present, she lay in lace and ribbons, surrounded with velvet, gilding, ivory, bronze, lacquer and flowers, never going out, and only, as she put it, receiving intimate friends, i.e., those who according to her idea stood out from the common herd.Nekhludoff was admitted into the number of these friends because he was considered clever, because his mother had been an intimate friend of the family, and because it was desirable that Missy should marry him.
+
+Sophia Vasilievna’s room lay beyond the large and the small drawing-rooms. In the large drawing-room, Missy, who was in front of Nekhludoff, stopped resolutely, and taking hold of the back of a small green chair, faced him.
+
+Missy was very anxious to get married, and as he was a suitable match and she also liked him, she had accustomed herself to the thought that he should be hers (not she his). To lose him would be very mortifying. She now began talking to him in order to get him to explain his intentions.
+
+“I see something has happened,” she said. “Tell me, what is the matter with you?”
+
+He remembered the meeting in the law court, and frowned and blushed.
+
+“Yes, something has happened,” he said, wishing to be truthful; “a very unusual and serious event.”
+
+“What is it, then? Can you not tell me what it is?” She was pursuing her aim with that unconscious yet obstinate cunning often observable in the mentally diseased.“Not now. Please do not ask me to tell you. I have not yet had time fully to consider it,” and he blushed still more.
+
+“And so you will not tell me?” A muscle twitched in her face and she pushed back the chair she was holding. “Well then, come!” She shook her head as if to expel useless thoughts, and, faster than usual, went on in front of him.
+
+He fancied that her mouth was unnaturally compressed in order to keep back the tears. He was ashamed of having hurt her, and yet he knew that the least weakness on his part would mean disaster, i.e., would bind him to her. And to-day he feared this more than anything, and silently followed her to the princess’s cabinet.<b>CHAPTER XXVII.</b>
+
+MISSY’S MOTHER.
+
+Princess Sophia Vasilievna, Missy’s mother, had finished her very elaborate and nourishing dinner. (She had it always alone, that no one should see her performing this unpoetical function.) By her couch stood a small table with her coffee, and she was smoking a pachitos. Princess Sophia Vasilievna was a long, thin woman, with dark hair, large black eyes and long teeth, and still pretended to be young.
+
+Her intimacy with the doctor was being talked about. Nekhludoff had known that for some time; but when he saw the doctor sitting by her couch, his oily, glistening beard parted in the middle, he not only remembered the rumours about them, but felt greatly disgusted. By the table, on a low, soft, easy chair, next to Sophia Vasilievna, sat Kolosoff, stirring his coffee. A glass of liqueur stood on the table. Missy came in with Nekhludoff, but did not remain in the room.
+
+“When mamma gets tired of you and drives you away, then come to me,” she said, turning to Kolosoff and Nekhludoff, speaking as if nothing had occurred; then she went away, smiling merrily and stepping noiselessly on the thick carpet.
+
+“How do you do, dear friend? Sit down and talk,” said Princess Sophia Vasilievna, with her affected but very naturally-acted smile, showing her fine, long teeth--a splendid imitation of what her own had once been.“I hear that you have come from the Law Courts very much depressed. I think it must be very trying to a person with a heart,” she added in French.
+
+“Yes, that is so,” said Nekhludoff. “One often feels one’s own de--one feels one has no right to judge.”
+
+“Comme, c’est vrai,” she cried, as if struck by the truth of this remark. She was in the habit of artfully flattering all those with whom she conversed. “Well, and what of your picture? It does interest me so. If I were not such a sad invalid I should have been to see it long ago,” she said.
+
+“I have quite given it up,” Nekhludoff replied drily. The falseness of her flattery seemed as evident to him to-day as her age, which she was trying to conceal, and he could not put himself into the right state to behave politely.
+
+“Oh, that <i>is</i> a pity! Why, he has a real talent for art; I have it from Repin’s own lips,” she added, turning to Kolosoff.
+
+“Why is it she is not ashamed of lying so?” Nekhludoff thought, and frowned.
+
+When she had convinced herself that Nekhludoff was in a bad temper and that one could not get him into an agreeable and clever conversation, Sophia Vasilievna turned to Kolosoff, asking his opinion of a new play. She asked it in a tone as if Kolosoff’s opinion would decide all doubts, and each word of this opinion be worthy of being immortalised. Kolosoff found fault both with the play and its author, and that led him to express his views on art.Princess Sophia Vasilievna, while trying at the same time to defend the play, seemed impressed by the truth of his arguments, either giving in at once, or at least modifying her opinion. Nekhludoff looked and listened, but neither saw nor heard what was going on before him.
+
+Listening now to Sophia Vasilievna, now to Kolosoff, Nekhludoff noticed that neither he nor she cared anything about the play or each other, and that if they talked it was only to gratify the physical desire to move the muscles of the throat and tongue after having eaten; and that Kolosoff, having drunk vodka, wine and liqueur, was a little tipsy. Not tipsy like the peasants who drink seldom, but like people to whom drinking wine has become a habit. He did not reel about or talk nonsense, but he was in a state that was not normal; excited and self-satisfied. Nekhludoff also noticed that during the conversation Princess Sophia Vasilievna kept glancing uneasily at the window, through which a slanting ray of sunshine, which might vividly light up her aged face, was beginning to creep up.
+
+“How true,” she said in reference to some remark of Kolosoff’s, touching the button of an electric bell by the side of her couch. The doctor rose, and, like one who is at home, left the room without saying anything. Sophia Vasilievna followed him with her eyes and continued the conversation.
+
+“Please, Philip, draw these curtains,” she said, pointing to the window, when the handsome footman came in answer to the bell.“No; whatever you may say, there is some mysticism in him; without mysticism there can be no poetry,” she said, with one of her black eyes angrily following the footman’s movements as he was drawing the curtains. “Without poetry, mysticism is superstition; without mysticism, poetry is--prose,” she continued, with a sorrowful smile, still not losing sight of the footman and the curtains. “Philip, not that curtain; the one on the large window,” she exclaimed, in a suffering tone. Sophia Vasilievna was evidently pitying herself for having to make the effort of saying these words; and, to soothe her feelings, she raised to her lips a scented, smoking cigarette with her jewel-bedecked fingers.
+
+The broad-chested, muscular, handsome Philip bowed slightly, as if begging pardon; and stepping lightly across the carpet with his broad-calved, strong, legs, obediently and silently went to the other window, and, looking at the princess, carefully began to arrange the curtain so that not a single ray dared fall on her. But again he did not satisfy her, and again she had to interrupt the conversation about mysticism, and correct in a martyred tone the unintelligent Philip, who was tormenting her so pitilessly. For a moment a light flashed in Philip’s eyes.
+
+“‘The devil take you! What do you want?’ was probably what he said to himself,” thought Nekhludoff, who had been observing all this scene. But the strong, handsome Philip at once managed to conceal the signs of his impatience, and went on quietly carrying out the orders of the worn, weak, false Sophia Vasilievna.“Of course, there is a good deal of truth in Lombroso’s teaching,” said Kolosoff, lolling back in the low chair and looking at Sophia Vasilievna with sleepy eyes; “but he over-stepped the mark. Oh, yes.”
+
+“And you? Do you believe in heredity?” asked Sophia Vasilievna, turning to Nekhludoff, whose silence annoyed her. “In heredity?” he asked. “No, I don’t.” At this moment his whole mind was taken up by strange images that in some unaccountable way rose up in his imagination. By the side of this strong and handsome Philip he seemed at this minute to see the nude figure of Kolosoff as an artist’s model; with his stomach like a melon, his bald head, and his arms without muscle, like pestles. In the same dim way the limbs of Sophia Vasilievna, now covered with silks and velvets, rose up in his mind as they must be in reality; but this mental picture was too horrid and he tried to drive it away.
+
+“Well, you know Missy is waiting for you,” she said. “Go and find her. She wants to play a new piece by Grieg to you; it is most interesting.”
+
+“She did not mean to play anything; the woman is simply lying, for some reason or other,” thought Nekhludoff, rising and pressing Sophia Vasilievna’s transparent and bony, ringed hand.
+
+Katerina Alexeevna met him in the drawing-room, and at once began, in French, as usual:
+
+“I see the duties of a juryman act depressingly upon you.”“Yes; pardon me, I am in low spirits to-day, and have no right to weary others by my presence,” said Nekhludoff.
+
+“Why are you in low spirits?”
+
+“Allow me not to speak about that,” he said, looking round for his hat.
+
+“Don’t you remember how you used to say that we must always tell the truth? And what cruel truths you used to tell us all! Why do you not wish to speak out now? Don’t you remember, Missy?” she said, turning to Missy, who had just come in.
+
+“We were playing a game then,” said Nekhludoff, seriously; “one may tell the truth in a game, but in reality we are so bad--I mean I am so bad--that I, at least, cannot tell the truth.”
+
+“Oh, do not correct yourself, but rather tell us why <i>we</i> are so bad,” said Katerina Alexeevna, playing with her words and pretending not to notice how serious Nekhludoff was.
+
+“Nothing is worse than to confess to being in low spirits,” said Missy. “I never do it, and therefore am always in good spirits.”
+
+Nekhludoff felt as a horse must feel when it is being caressed to make it submit to having the bit put in its mouth and be harnessed, and to-day he felt less than ever inclined to draw.“Well, are you coming into my room? We will try to cheer you up.”
+
+He excused himself, saying he had to be at home, and began taking leave. Missy kept his hand longer than usual.
+
+“Remember that what is important to you is important to your friends,” she said. “Are you coming tomorrow?”
+
+“I hardly expect to,” said Nekhludoff; and feeling ashamed, without knowing whether for her or for himself, he blushed and went away.
+
+“What is it? <i>Comme cela m’intrigue</i>,” said Katerina Alexeevna. “I must find it out. I suppose it is some <i>affaire d’amour propre; il est tres susceptible, notre cher Mitia</i>.”
+
+“<i>Plutot une affaire d’amour sale</i>,” Missy was going to say, but stopped and looked down with a face from which all the light had gone--a very different face from the one with which she had looked at him. She would not mention to Katerina Alexeevna even, so vulgar a pun, but only said, “We all have our good and our bad days.”
+
+“Is it possible that he, too, will deceive?” she thought; “after all that has happened it would be very bad of him.”
+
+If Missy had had to explain what she meant by “after all that has happened,” she could have said nothing definite,and yet she knew that he had not only excited her hopes but had almost given her a promise. No definite words had passed between them--only looks and smiles and hints; and yet she considered him as her own, and to lose him would be very hard.
+
+<b>CHAPTER XXVIII.</b>
+
+THE AWAKENING.
+
+“Shameful and stupid, horrid and shameful!” Nekhludoff kept saying to himself, as he walked home along the familiar streets. The depression he had felt whilst speaking to Missy would not leave him. He felt that, looking at it externally, as it were, he was in the right, for he had never said anything to her that could be considered binding, never made her an offer; but he knew that in reality he had bound himself to her, had promised to be hers. And yet to-day he felt with his whole being that he could not marry her.
+
+“Shameful and horrid, horrid and shameful!” he repeated to himself, with reference not only to his relations with Missy but also to the rest. “Everything is horrid and shameful,” he muttered, as he stepped into the porch of his house. “I am not going to have any supper,” he said to his manservant Corney, who followed him into the dining-room, where the cloth was laid for supper and tea. “You may go.”
+
+“Yes, sir,” said Corney, yet he did not go, but began clearing the supper off the table. Nekhludoff looked at Corney with a feeling of ill-will.He wished to be left alone, and it seemed to him that everybody was bothering him in order to spite him. When Corney had gone away with the supper things, Nekhludoff moved to the tea urn and was about to make himself some tea, but hearing Agraphena Petrovna’s footsteps, he went hurriedly into the drawing-room, to avoid being seen by her, and shut the door after him. In this drawing-room his mother had died three months before. On entering the room, in which two lamps with reflectors were burning, one lighting up his father’s and the other his mother’s portrait, he remembered what his last relations with his mother had been. And they also seemed shameful and horrid. He remembered how, during the latter period of her illness, he had simply wished her to die. He had said to himself that he wished it for her sake, that she might be released from her suffering, but in reality he wished to be released from the sight of her sufferings for his own sake.
+
+Trying to recall a pleasant image of her, he went up to look at her portrait, painted by a celebrated artist for 800 roubles. She was depicted in a very low-necked black velvet dress. There was something very revolting and blasphemous in this representation of his mother as a half-nude beauty. It was all the more disgusting because three months ago, in this very room, lay this same woman, dried up to a mummy. And he remembered how a few days before her death she clasped his hand with her bony, discoloured fingers, looked into his eyes, and said: “Do not judge me, Mitia, if I have not done what I should,” and how the tears came into her eyes, grown pale with suffering.
