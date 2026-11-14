@@ -1,0 +1,1432 @@
+HOLB1	44292	0	0	80	1063	47
+1	Preface. 1. Mss. And Editions.
+7	2. The Scribes.
+11	3. The Present Edition.
+16	1. “the Bruce” As Romance.
+18	2. John Barbour.
+31	Book I.
+60	Book II.
+88	Book III.
+122	Book IV.
+158	Book V.
+188	Book VI.
+219	Book VII.
+248	Book VIII
+272	Book IX
+306	Book X
+343	Book XI. [Sidenote: 1313] _The Compact about S…
+374	Book XII.
+401	Book XIII.
+436	Book XIV.
+461	Book XV.
+487	Book XVI.
+520	Book XVII.
+562	Book XVIII.
+588	Book XIX.
+624	Book XX.
+653	Book I.
+671	Book II.
+685	Book III.
+695	Book IV.
+705	Book V.
+710	Book VI.
+714	Book VII.
+717	Book VIII.
+726	Book IX.
+735	Book X.
+746	Book XI.
+759	Book XII.
+769	Book XIII.
+784	Book XIV.
+795	Book XV.
+802	Book XVI.
+810	Book XVII.
+829	Book XVIII.
+841	Book XIX.
+859	Book XX.
+874	Book XII. 210-327
+921	1. The verb _suppos_ is several times used as…
+THE BRUCE
+
+BY
+
+JOHN BARBOUR
+
+ARCHDEACON OF ABERDEEN
+
+EDITED FROM THE BEST TEXTS
+
+WITH LITERARY AND HISTORICAL INTRODUCTION,
+NOTES AND APPENDICES, AND A GLOSSARY
+
+BY
+
+W. M. MACKENZIE, M.A., F.S.A. (SCOT.)
+
+AUTHOR OF “AN OUTLINE OF SCOTTISH HISTORY,” ETC.
+
+LONDON
+ADAM AND CHARLES BLACK
+1909<b>PREFACE</b>
+
+1. MSS. AND EDITIONS.
+
+The poem <i>The Bruce</i>, by John Barbour, is preserved in only two manuscripts, one in the library of St. John’s College, Cambridge, and the other in the Advocates’ Library, Edinburgh. The former is hereafter denoted by the letter C, the latter by E. Of these E alone is complete in the sense of having both beginning and end; the first three Books and Book IV. 1-56 are missing in C. On the other hand, C bears to have been completed in 1487, E in 1489. Other things being equal, the earlier MS. must, of course, be preferred. Here, however, intervenes a series of extracts, numbering 280 lines from Books I. and II., embedded in Wyntoun’s <i>Orygynale Cronykil of Scotland</i>, and the two MSS. of the <i>Cronykil</i> are actually older than those of <i>The Bruce</i>. This raises a difficulty, as Wyntoun’s extracts show a goodly proportion of variations in language from the corresponding passages in E, the only other MS. which covers the same ground. Professor Skeat considers that Wyntoun’s lines are “in a better form (in the main)” than those of E;[1] but, on the other hand, we do not know Wyntoun’s method of working in such a case--how far he transcribed verbatim, how far “he modified the language of the MS. which he must have had before him.”[2] Many lines he omits, and others he obviously paraphrases; he incorporates matter from another source; and his version of <i>The Bruce</i> lines may quite well be due to memorial reproduction after a hurried reading. It is not otherwise easy to account for scraps of a few lines of the poem being here and there embedded in narrative independently worded or derived.There is thus no warrant for erecting this chopped-up, second-hand version of the lines in question into a canon or standard for a purely scribal transcript made for its own sake. It is needful to enter this plea in view of the separatist theory of Mr. J. T. T. Brown, for whom the passages in Wyntoun represent so much of the original or <i>ur</i>-Bruce, out of which our MS. and printed versions have been elaborated by a fifteenth-century editor, who, to do so, borrowed freely and with no great cunning from the works of contemporary authors.[3]
+
+[1] Preface, S.T.S. edition, p. lxxv.
+
+[2] Skeat, p. xxxvii.
+
+The earliest printed versions of <i>The Bruce</i> raise yet another issue bearing on the purity of the text. The first is apparently of the year 1571, and only one copy is known to exist.[4] It does not, however, differ materially from that of “Andro Hart” (H), published at Edinburgh in 1616. In this the language is modernized; still more so is it in the edition of four years later from the same publisher. And these seem to have been the basis of the gradually worsening issues so common in the eighteenth century, until in 1790 Pinkerton reverted to the sound critical method of having a transcript made directly from the Edinburgh MS. This again was the origin of Jamieson’s more careful edition of 1820, reprinted with a few corrections in 1869. Meantime Cosmo Innes had prepared for the Spalding Club (1856) a version which, for the first time, introduced readings from the Cambridge MS., but which, in being dressed up in a “consistent orthography,” so far reverted to the evil example of Hart.Subsequently, for the Early English Text Society, and later, for the Scottish Text Society, Professor Skeat, basing on C, but also utilizing E and H with a few readings from Wyntoun and Anderson’s issue of 1670, produced, for the first time, a full and in all respects competent text. To Skeat’s edition the present one is essentially indebted.
+
+[3] <i>The Wallace and The Bruce Restudied</i>, p. 74 and <i>passim</i>. See also Appendices E, F.
+
+[4] For a detailed account of the different editions see Skeat’s <i>Preface</i> to the E.E.T.S. or S.T.S. issues.
+
+The main point about Hart’s edition (H) is that it supplies 39 lines not found in either MS., with an expansion of two others into eight, 45 new lines in all. The expanded portion Skeat perforce relegates to the footnotes. Twelve lines from Hart in the last book he at first accepted as genuine, but finally discarded as an interpolation.[5] He might justifiably have gone further, for he seems to me to have erred in attaching undue importance to Hart’s unsupported contributions.
+
+[5] See Appendix D.
+
+This is made clear by considering the question as between C and E. Each MS. has portions not found in the other. The scribe of E furnishes his own excuse; his copy was “hurriedly written” (<i>raptim scriptus</i>). Consequently we are not surprised to find that he has dropped 81 lines found in C.On the other hand, the more careful Cambridge scribe has overlooked, as the best of copyists might, 39 lines preserved in the Edinburgh version. Upon analysis of these two groups a satisfactory test of character emerges. In one case only--C, Bk. VI. *85-*92, E, Bk. VI. 101-106--do we find an unexplained confusion, traces of two alternative accounts of one incident, a possibility to which Barbour refers in several instances. One line from C Skeat rejects because it results in a triple rhyme.[6] Having eliminated these, we find that of the remaining omissions in E two lines are the result of the misplacing of one;[7] eight lines are couplets which have been overlooked; four lines are necessary to complete couplets, so that their loss is due to sheer carelessness; while the bulk of the missing lines, 57 out of 80, is accounted for by the recurrence of the same word or words at the beginning or end of the line, whereby the eye of the scribe has run on from, <i>e.g.</i>, “Toward the toun” in Bk. IX. *374 to “Toward the toun” in 374, and from “thai fand” in Bk. XIII. 446 to “thai fand,” in *450, missing all between. A parallel result is given by analysis of the 39 lines wanting in C but present in E. Six are involved in the mutual perplexity of Bk. VI.; one is merely a careless oversight, and the remaining 32 come under the main category of omission through recurrence, within a short space, of the same word or rhyme. On the whole, then, with the reservation noted above, the condition of things as between the two MSS. is quite normal; the omissions are explicable on ordinary grounds, and as the missing lines, with but one real exception, take their places again without disturbance of their neighbours, we may conclude that C and E are individual versions of a single original poem, and complementary to each other.But copyists were only mortal; an author too might see cause to alter a MS.; and the variations of reading, even with those of Wyntoun thrown in, after all supply a less serious illustration of such possibilities than do the MSS. of the <i>Canterbury Tales</i> from the Ellesmere to the so disturbing Harleian.
+
+[6] XVIII. *537; and see note on p. 277.
+
+[7] VIII. *493, *495.
+
+As for the lines found only in Hart’s edition, their every feature arouses distrust and suspicion. Skeat’s judgment of “almost certainly genuine” he has had to retract for 18 out of the total of 45, including the eight-line version of a couple in the MSS.[8] Those on the heart-throwing episode, Bk. XX. *421-*432, have been referred to above. Not a single example of the remaining accretions meets the test of repetition operative in the case of the MSS., or suggests its own explanation. The couplet in Bk. II., p. 25, is nothing either way; that on p. 283 is awkward; the intrusive lines on p. 321 are neither sense nor grammar; those on pp. 215, 216 can find a place only by an unwarrantable alteration of the succeeding line in both MSS., a liberty which Mr. Brown, on purely speculative grounds, lightly accepts from the very passage in question.[9] On the untimeous harangue into which Bruce is made to pass on p. 239 I have spoken in its place. In general it may be said that Hart’s contributions are clear misfits. Moreover, the circumstantial evidence seems to clinch the main conclusion.Hart, or his editor, had a turn for rhyme: to him are due the rhyming rubrics, and he added at the close of the poem a halting colophon of six lines, which in the later corrupt editions was simply merged in the poem, and is quoted as a specimen thereof in a critical historical work of 1702.[10] In XX. 610 he has barefacedly substituted a line for that of the MSS., which introduces a detail not found before the time of Bower and no doubt taken from him.[11] This throws a strong light on the origin of other lines in the same Book.[12] Thus we prove capability and inclination. Hart “modernized” the language of <i>The Bruce</i>, and from “modernization” to “improvement” is a tempting transition.
+
+[8] XVII. 887, 888.
+
+[9] <i>The Wallace and The Bruce</i>, pp. 133, 134.
+
+[10] <i>The Scottish Historical Library</i>, by W. Nicholson, Archdeacon of Carlisle, p. 147.
+
+[11] See note on passage.
+
+[12] See Appendix D.<b>2. THE SCRIBES.</b>
+
+The Cambridge MS. bears witness that it was completed on August 18, 1487, by the hand of “John de R., chaplain”; the Edinburgh MS. that it was “hurriedly written” by “John Ramsay” in 1489, for a Fife vicar; and the latter signature is attached to the only MS. of <i>The Wallace</i>, which accompanies that of <i>The Bruce</i> but was transcribed two years earlier. Skeat immediately pronounces that the names signify but one person, that “John de R.” is also “John Ramsay,” apparently on the logic of Wonderland, because both surnames begin with the same letter.[13] Mr. Brown, however, points out that this equation of alternative forms was highly improbable for fifteenth-century Scotland, and substitutes a reading of his own whereby the scribes are still merged in one personality as “John Ramsay” otherwise “Sir John the Ross,” one of Dunbar’s <i>makars</i>, the real author of <i>The Wallace</i>, and the wholesale redactor of <i>The Bruce</i>. The details of Mr. Brown’s argument and all that flows therefrom must be read in <i>The Wallace and The Bruce Restudied</i>.[14] Mr.Brown (if I may say so) never fails to be suggestive and interesting, and even the light which led him astray was real critical illumination; but John Ramsay, who, “as a chaplain”--which <i>he</i> does not claim to have been--“was entitled to the courtesy title of <i>Sir</i>,”[15] and took his alternative name from his office as “Ross Herald or Ross Secretary”;[16] who lightened the toil of transcribing Acts of Parliament by dropping into verse on the margin--an unjustifiable accusation;[17] and who, from the seed of Blind Harry’s “gests,” raised the prickly bloom of <i>The Wallace</i>, and grafted enough borrowed material on to the rough stock of the original Bruce to make it something substantially different, and did all this without leaving even a cipher as a hint to posterity--of this complex and composite personage Mr. Brown is the only begetter, and his brief and inglorious career may be followed in <i>The Athenæum</i>, November 17-December 8, 1900, February 9, 1901. Mr. Brown, of course, can still claim that the problem of late redaction remains, whoever the guilty one may have been.[18] On this understanding I deal with it elsewhere.[19]
+
+[13] The Bibliography of the <i>Cambridge History of English Literature</i>, vol. ii., recklessly says: “As the colophon informs us (!) all three MSS. were written by John Ramsay” (p. 447).
+
+[14] Bonn, 1900.
+
+[15] Brown, p. 82.
+
+[16] <i>Ibid.</i>, p. 68.[17] See <i>Athenæum</i>, November 17, 1900.
+
+[18] <i>Athenæum</i>, December 8, 1900.
+
+[19] Appendix F.
+
+For the MSS., it needs but a slight examination to show that they are from different hands. The fifteenth century had no “consistent orthography,” but a scribe would probably have of himself; would not, at the least, exhibit the systematic differences that mark the MSS. in question. That the differences <i>are</i> due to the scribes is indicated by their occurrence even in proper names where E is, on the whole, much more accurate than C.[20] Add that C offers more traces of southern English influences; that it invariably gives the weak form <i>I</i> for the <i>Ic</i> or <i>Ik</i> of E, and substitutes <i>can</i> for the latter’s <i>gan</i>; that it regularly prefers <i>of</i> to the <i>off</i> which distinguishes E and in certain positions <i>i</i> for <i>y</i>--these with other minor peculiarities, not being vital in character, are certainly due to individual idiosyncrasies in spelling. Ramsay is an honest scribe, who, at places, cannot read his original, and leaves a blank which must be supplied from the copy of the chaplain.[21] There is thus not the faintest reason for supposing but one scribe to have been at work. At the same time the essential agreement of the two transcripts shows that we are dealing with a single, complete, familiar poem which has suffered in precision of copying from the usual mishaps incident to its manner of publication and preservation.[20] And Koeppel, while granting the general superiority of C, gives as his opinion that in not a few cases E, nevertheless, where it differs from C, preserves the genuine, original reading (<i>Englische Studien</i>, x., p. 377, note).
+
+[21] IX. 492, XIX. 459, XX. 396.<b>3. THE PRESENT EDITION.</b>
+
+The present edition of <i>The Bruce</i> is based upon the printed text of the Cambridge MS., collated throughout with that of E--that is, upon the versions of Skeat and Jamieson. I have, however, adopted rather more readings from E than does Skeat, also a few more from Wyntoun, and offer some slight emendations--<i>e.g.</i>, <i>luffys</i> for <i>liffys</i> in Bk. II. 527, <i>oft</i> for <i>off</i> in III. 194, <i>Fyn all</i> for <i>Fyngall</i> in II. 69, etc. I have profited, too, by criticism of the published text as in the adoption of Dr. Neilson’s <i>corn-but</i> in Bk. II. 438. The question of Hart’s version has been discussed above; it is valid only as a check upon the MSS. Variants of any interest or importance are given in the footnotes.
+
+There has been no modernization of the language save in the case of the rubrics, which are no part of the text proper and have been contributed by the scribes or editors in order to facilitate the understanding of the poem. I have thus adhered to the spirit while modifying the letter of their work. But while avoiding any change in the language of the poem or even any attempt at a uniform spelling, I have taken a few harmless liberties with its alphabet and restricted certain of the letters to their modern values, substituting for others a modern equivalent. Skeat did this in the matter of the ancient “thorn” letter = <i>th</i>. In consideration of the general reader, I have gone somewhat farther, viz.:1 The <i>s</i> with the ornamental curl I read as merely <i>s</i>; Jamieson and Skeat take it as, generally, = <i>ss</i>. But such alternative forms as <i>Parys</i>,[22] <i>purches</i>,[23] and <i>purpos</i>,[24] on the one hand, and the actual use of the tailed letter following the ordinary type in <i>dress</i>, <i>press</i>,[25] fix the usage I have adopted.[26] There are a few exceptions in which this letter is probably a contraction for <i>is</i>--<i>e.g.</i>, II. 366, 459.
+
+[22] I. 345.
+
+[23] II. 572.
+
+[24] III. 287.
+
+[25] XIV. 246; XVI. 253.
+
+[26] <i>Cf.</i> also in Gregory Smith’s <i>Specimens of Middle Scots</i>, p. xxx.
+
+2. I have distributed their modern values to <i>i</i>, <i>j</i>, <i>u</i>, <i>v</i>, <i>w</i>. There is no advantage in preserving such forms as <i>iugis</i>, <i>Evrope</i>, <i>wndyr</i>: the hedge of the language--to use Lowell’s simile--is prickly enough without these accessories. Moreover, I have throughout written <i>Edward</i> for <i>Eduuard</i> or <i>Eduard</i> and <i>Inglis</i> for <i>Ynglis</i> (C).
+
+3. As Skeat has substituted “<i>th</i>” for the “thorn” (þ), I have done likewise with the ancient English <i>g</i> (ȝ), the “yok” letter, resolving it into the digraph <i>yh</i>.As ultimately, in almost every case, significant of the consonantal <i>y</i>, I might have simply replaced it by that letter. But alternative forms, nearly without exception, show the digraph, both in <i>The Bruce</i> and in Wyntoun, giving <i>yhe</i>, <i>yhet</i>, <i>yharnit</i>, <i>fenyhe</i>, etc., and in Wyntoun’s extracts <i>feyhnnyng</i>, <i>senyhoury</i>, <i>yhystir-day</i>, <i>bayhllys</i>, etc. Even with the original letter the <i>h</i> is added as often as not. Apparently the usage, which had practically disappeared from the southern practice, was in a transitional stage on its way to its full revival in later Scots, where it became fixed, at the hands of the printers, as <i>z</i>, and survives in such forms as <i>Cadzow</i>, <i>capercailzie</i>, etc.[27] In I. 16, however, it has been read as <i>g</i> in <i>forget</i>, though <i>foryhet</i> is to be found in <i>Ratis Raving</i>, and in XV. 75 it is obviously <i>z</i> in <i>Fi(t)z-Waryne</i>.
+
+[27] <i>Cf.</i> Murray’s <i>Dialect of the Southern Counties of Scotland</i>, p. *92; and <i>New. Eng. Dict.</i>, G.
+
+4. The placing of the capital letters and the punctuation are, of course, modern.
+
+Further, the poem in MSS. is not divided into Books, but paragraphs are denoted by the insertion of a large capital; these, as in C, are similarly marked in the text. The division into twenty Books was first made by Pinkerton, and, as the most convenient, has been adopted by Skeat in his editions. From Pinkerton also Skeat adopts the numbering of the lines. Jamieson, however, made a division into fourteen Books with a numbering to suit. Cosmo Innes gave up the Books in favour of Cantos, with a fresh renumbering.To avoid confusion I have adhered to Skeat’s divisions and numbering, which are those of Pinkerton; inconvenient though the duplicate numbers certainly are, a totally new and fourth arrangement would be much more so. To break up and make more accessible the matter, I have also introduced, where possible, the paragraphs of Jamieson distinguished by spaces, some of these, however, being found in C. They are merely for the convenience of the reader. I may, perhaps, draw attention to the critical treatment of <i>The Bruce</i> as an historic document without which we move greatly in the dark. The historical notes of the early editors are few and superficial. Skeat does not profess to deal with the work strictly on this line (<i>note</i>, vol. ii., p. 224), though he does not fail to pass unnecessary censure at several places. But some such examination as I have tried to make seems necessary in the interests of Scottish historiography.
+
+CONTENTS
+
+        PAGE
+PREFACE v-xii
+   1. MSS. and Editions v
+   2. The Scribes viii
+   3. The Present Edition x
+
+INTRODUCTION xv-xxiii
+   1. <i>The Bruce</i> as Romance xv
+   2. John Barbour xvi
+   3. Historic value of <i>The Bruce</i> xxTEXT OF “THE BRUCE.” BOOKS I-XX. 1-377
+
+NOTES TO TEXT 378
+
+APPENDIX A.--The Site of the Battle of Bannockburn 496
+    „ B.--Bruce’s Speech at Bannockburn 497
+    „ C.--The Numbers at Bannockburn 498
+    „ D.--The Throwing of the Heart 502
+    „ E.--The <i>Alexander</i> and <i>The Bruce</i> 505
+    „ F.--Mr. Brown’s “Sources” for <i>The Bruce</i> 506
+    „ G.--Language and Orthography 511
+    „ H.--Grammar 513
+
+GLOSSARY 519
+
+LIST OF PRINCIPAL WORKS 545
+
+INTRODUCTION<b>1. “THE BRUCE” AS ROMANCE.</b>
+
+The literary relationships of <i>The Bruce</i> may be briefly indicated. It stands at the beginning of Scottish literature; of its predecessors and contemporaries we have but the names, or possible versions whose place of origin is in dispute. In form and technique, including the octosyllabic couplet, it plainly depends on the French metrical romance, the most fruitful branch of a literature which, for quite two centuries, had been the mother of literatures in Western Europe. The opening line of <i>The Bruce</i> characterizes at once the poem itself, and what was best and most abundant in the literature of the Middle Ages. Barbour, too, it is never overlooked, announces his work as a “romance,” but as such, we gather from what precedes, only in a technical sense; and no mediæval writer would consider this popular method of treatment incompatible with strict accuracy and reality of subject: that is a modern refinement. Barbour certainly did not, nor did those who followed and used him; his selection of the model is simply the expression of his desire to do his work in “gud manere.” He anticipated Macaulay’s ambition in that his history was to differ from the most attractive literary matter only in being true. There were already in French many examples of contemporary history presented in this way as a succession of incidents on the lines of personal memoirs, though history had in the end succeeded in widening its outlook, and consequently found more fitting expression in prose. But that was of Barbour’s own age, and indeed Froissart had made his first essay, as an historian, in verse, which later he recast and continued in the form we know.All the necessities of Barbour’s case, however, led him the other way--the despised condition of the prose vernacular as a literary medium, from which, indeed, it never fully emerged; the character of his audience, which would be either learned or aristocratic; and the nature and associations of his subject, for which only the literature of romance could furnish a parallel or supply the appropriate setting. The literary qualities of <i>The Bruce</i> are, therefore, those of its model; it is a clear, vivid, easy-flowing narrative, and if it is also, as romances tended to be, loose in construction and discursive, it is never tedious, for it deals with real persons and events of real interest, depicted with an admiring fidelity.<b>2. JOHN BARBOUR.</b>
+
+The year of John Barbour’s birth we do not know, an item which is lacking also for Chaucer: 1320 is a good round guess. Nor have we any knowledge of his family. If, however, the <i>St. Ninian</i> in the <i>Legends of the Saints</i> be of Barbour, a claim for which there is much to be said,[28] it may give us a clue. The adventure of Jak. Trumpoure, there told, connects with the fact that Jaq. (James) Trampour had land in Aberdeen bordering on that of an Andrew Barbour.[29] It may be conjectured that the latter was John Barbour’s father, or other near relative, since the vivid personal details of the affair in the <i>St. Ninian</i> must have come from Trumpour himself, and the fact that he was a neighbour of the Barbours would explain how.
+
+The name Barbour (<i>Barbitonsoris</i>) is obviously plebeian. Some ancestor followed the business of barber, as some one of Chaucer’s possibly did that of “hose-making.” The established spelling, Barbour, shows a French termination which takes also the form Barbier, whence Mr. Henderson concludes that John Barbour “was of Norman origin.”[30] But the spelling is merely an accident of transcription; the oldest form is Barber(e) (1357, 1365),[31] which the scribe of the Edinburgh MS. also uses, and which Wyntoun rhymes with <i>here</i> and <i>matere</i>; in a few cases it is Barbar. As we might expect, the name was common enough in the English-speaking districts of Scotland.
+
+[28] See Neilson in <i>Scottish Antiquary</i>, vol. xi., p. 102 ff., and Buss, <i>ex adverso</i>, in <i>Anglia</i>, Band ix., p. 495.[29] Jamieson’s <i>Memoir</i>, p. iv.
+
+[30] <i>Scottish Vernacular Literature</i>, p. 41.
+
+[31] For this reason Buss always gives the name as Barbere.
+
+All our information about John Barbour, except the little to be gleaned from the complimentary references of later authors, is drawn from official sources,[32] and is thus, of course, perfectly precise, but meagre and uncharacteristic. We learn something of what Barbour did and got, but not what sort of man he was, or what he was like. By 1357, at the latest, he is Archdeacon of Aberdeen, the most important official of the diocese after the bishop, having as his prebend the parish of Rayne, in Garioch; and in the same year (August 13) he has a safe-conduct to go with three scholars, for purposes of study, to Oxford, where he may have seen John Wycliffe. There was, of course, no University in Scotland as yet, and scholars desirous of academic advantages had to seek them at least across the Border, a patronage which Edward III., in his own interests, readily encouraged. Seven years later he is again in England on a similar mission with four horsemen,[33] and on October 16 of the year following he goes to St. Denis, near Paris, this time with six companions on horseback; in 1368-69 he once more visits France “with two servants (<i>vallettis</i>) and two horses.” The University of Paris had the highest reputation for the study of philosophy and canon law, and Barbour, whose duty it was to administer the jurisdiction of his bishop, would necessarily be something of a lawyer, though his allusion to the clerkly “disputations” in this field does not suggest much personal interest in legal refinements.[32] These have been brought together by Skeat in his first volume, pp. xv-xxv.
+
+[33] Skeat here takes <i>equitibus</i> to be “knights,” but this is not a military business. They were, we may judge, the attendants proper to his rank.
+
+His next appearance is in a different though related capacity. In 1372 he is clerk of the audit of the King’s household, that of Robert II., who had come to the throne in the previous year as the first of the Stewart Kings. The year after he is also an auditor of exchequer. The Stewarts were good friends to Barbour, and we see the result in his kindly, almost affectionate, references to the family in his poem. He wrote up their genealogy, but that piece of work is lost. After a long interval he reappears as an auditor of exchequer in 1382, 1383, 1384. For some part, at least, of this interval he was engaged upon <i>The Bruce</i>, and its completion in the course of 1376[34] suggestively approximates to a grant of £10, by the King’s order, from the customs of Aberdeen, first recorded in the accounts of March 14, 1377. So also does a pension of twenty shillings sterling from certain revenues of the same city, granted on August 29, 1378, to himself and his assignees for ever.[35] Accordingly, two years later Barbour assigned his pension, on his death, to the cathedral church of Aberdeen, as payment for a yearly mass for his own soul and for the souls of his relatives and all the faithful dead. The practice of these payments can be traced for a considerable time afterwards, but the financial readjustments of the Reformation sent Barbour’s legacy elsewhere.
+
+[34] See on Bk. XIII. 702.[35] The account of 1429 is the first to state expressly that this perpetual pension was “for the composition of the book of the deeds of the erstwhile King Robert the Bruce” (<i>Excheq. Rolls</i>, iv., p. 520).
+
+But the royal bounty had not dried up. In 1386 the poet had gifts of £10 and £6 13s. 4d., no doubt in recognition of further literary labours. And on December 5, 1388, he had a fresh pension of £10 for life “for faithful service,” to be paid in equal portions at Pentecost and Martinmas. This he enjoyed for only a few years. On April 25, 1396, the first payment of twenty shillings is made to the Dean and Chapter of Aberdeen, so that Barbour must have been dead before April 5, 1395, when the accounts for the year began. As his “anniversary” fell on March 13, that date in 1395 was, in all probability, the day of his death. Thus born under the great Bruce, he had lived through the reigns of David II. and Robert II., and five years of Robert III.
+
+Some stray notices of Barbour in other connections add nothing of importance. One, however, lets us know that he was responsible for the loss of a volume on law from the library of his cathedral.
+
+We have really learned nothing as to the personality of the poet. That he was a keen student and a great reader as well as a trustworthy official, and stood high in the royal favour, may be inferred. The respectful and admiring references of Wyntoun and Bower attest his high reputation as a writer and authority on history. But <i>The Bruce</i> of itself would suggest neither the cleric nor the accountant. His pious reflections would be commonplaces even for a lay writer, and his handling of figures is not in any way distinctive.Even of Scotland in the background we get but casual, fleeting glimpses. Barbour is occupied entirely with his heroes and their performances. It is these he undertakes to celebrate, not, primarily, even the great cause which called them forth; and personal loyalty is his master virtue.[36] That he so conceived and developed his subject, his hurried passage from incident to incident, his grim, practical humour, his impatience of inaction or commonplace achievement, his actively descriptive vocabulary, and his vivid realization of the details of movement and conflict--all contribute to the impression of a man of lively, energetic temperament, with a delight in action and the concrete, and so, as his time and circumstances would make him, an amateur and idealist of chivalry.
+
+[36] “His theme was Freedom,” writes Mr. Cosmo Innes. Barbour gives out his “theme” in the first thirty-six lines, and never once mentions it.
+
+Besides <i>The Bruce</i>, Wyntoun credits Barbour with <i>The Stewartis Oryginalle</i>, a metrical genealogy starting from “Sere Dardane, lord de Frygya”(!), which has not survived.[37] Skeat has also suggested, basing on certain references by Wyntoun, that Barbour wrote a <i>Brut</i> on the mythical colonization of Britain by Brutus, but the inference is disputed by Mr. Brown,[38] and Wyntoun’s language is too vague for a definite opinion. On better grounds there has been attributed to him a <i>Trojan War</i> or <i>Troy Book</i>, portions of which have been used to fill up gaps in a MS. of Lydgate’s <i>Siege</i> with the rubric, “Here endis Barbour and begynnis the monk,” and again conversely. An independent MS. gives a larger number of lines in continuation. These fragments have been subjected to close linguistic and metrical criticism by P. Buss in <i>Anglia</i>, ix., pp.493-514, and by E. Koeppel in <i>Englische Studien</i>, x., pp. 373-382, and their reasoning on differences of verbal and grammatical usages has been summarized by Skeat,[39] who concurs with their conclusion against Barbour’s authorship. But there are other elements of evidence, and the sceptical discussion of Medea’s alleged astronomical powers with the affirmation,
+
+Bot na gude Cristene mane her-to
+Sulde gif credence--that I defend,[40]
+
+is significantly similar to the argumentation on astrology in <i>The Bruce</i>, Bk. IV. 706 to end.[41] Faced with the plain statement of the fifteenth-century scribe, Skeat can only suggest that the poem was not by our Barbour, but by another person of the same name--surely the extremity of destructive literary criticism. And every argument of the German scholars against the <i>Troy</i> fragments would clinch the case for Barbour’s claims on the <i>Alexander</i>, with which I deal elsewhere. The garrulous and dreary <i>Legends of the Saints</i> probably contain, at least, contributions by Barbour; even Buss admits peculiar features in the <i>St. Ninian</i>,[42] and <i>St. Machar</i> is a purely Aberdeen worthy, in whom the poet, too, professes a special interest; these may well have come from Barbour’s pen as the uncongenial but meritorious labour of his old age. Such, at any rate, was the normal progress of a poetic clerk, from translation to original work, to decline at the close upon versions of saintly biographies.[37] The editor of <i>The Exchequer Rolls</i>, vol. ii. p. cv., says: “Bower accuses Barbour of misrepresenting the origin of the Stewarts.” That is not so. According to the summary in Bower, Barbour had it that they came from Wales, and in fact the family was settled in Shropshire on the Welsh March. It had its origin, he said, from one who was called “Le Fleanc de Waran,” who may equate with Alan FitzFlaald, who, however, apparently did not marry a daughter of Warine, the sheriff of that county (Round, <i>Studies in the Peerage</i>, p. 116). He affirms, rightly enough, that the first of them in Scotland was Walter, in the days of King William (twelfth century). Where he goes wrong genealogically, according to Bower, is in saying that Walter’s son, Alan, was in the First Crusade, which was obviously impossible; but Alan FitzAlan, uncle of Alan FitzFlaald, was in that expedition. Barbour was dealing with remote personages through family tradition, and whatever his errors as represented by Bower, he does not appear, as is too lightly assumed, to have been the source of the myths of later historians in this connection. Bower’s language does not admit of a Banquo. See <i>Cupar and Perth MSS.</i>, in <i>Scotichronicon</i>, Lib. IX., chap. xlviii.
+
+[38] <i>The Wallace and The Bruce</i>, pp. 88-90.
+
+[39] Preface I., xlix-lii.
+
+[40] Edit. Horstmann, ii., p. 226.
+
+[41] See further, Neilson’s <i>John Barbour</i>, p. 2.
+
+[42] <i>Anglia</i>, as cited.3. HISTORIC VALUE OF “THE BRUCE.”
+
+A comparison of judgments on the value of <i>The Bruce</i> as a contribution to history plunges us into a thicket of contradictions. Green’s verdict that it is “historically worthless”[43] is but a petulant aside. It repeats itself, however, in the pronouncement of Mr. Brown that “in no true sense is it an historical document,”[44] but Mr. Brown selects, as illustrative of this, examples, such as the Simon Fraser identification,[45] and the Stanhope Park inference,[46] which recoil to the confusion of the critic.[47] Mr. Cosmo Innes has sought to discriminate, unfortunately upon wrong lines. Of Barbour as historian, he writes: “Satisfied to have real persons and events, and an outline of history for his guide, and to preserve the true character of things, he did not trouble himself about accuracy of detail.”[48] As it happens, it is just in his outline--that is, in his dates and succession of events--that Barbour may be adjudged most careless; his details contain the most remarkable examples of his accuracy. The latest expression of opinion on this head is not even self-consistent. In the <i>Cambridge History of English Literature</i> it is thus written of <i>The Bruce</i>: first, that “it is in no real sense a history ... though, strange to say, it has been regarded from his own time to this as, in all details, a trustworthy source for the history of the period”--a clear exaggeration;[49] and then a few pages farther on: “While Barbour’s narrative contains a certain amount of anecdotal matter derived from tradition, and, on some occasions, deviates from the truth of history, it is, on the whole, moderate, truthful, and historical”[50]--which is quite another pair of sleeves.
+
+[43] <i>Short History</i>, p. 211.[44] <i>The Wallace and The Bruce</i>, p. 93.
+
+[45] See on II. 239.
+
+[46] XIX. 486.
+
+[47] An article on Barbour’s <i>Bruce</i> in the <i>Saturday Review</i>, 1872, vol. xxxiii., p. 90, has all the marks of the “belabouring” method of Professor Freeman. Barbour’s “historical value,” it is affirmed, “is as low as value can be,” and there are intermittent shrieks of “shameless falsehood,” “conscious liar,” etc. The usual play is made with the supposed identification of the two Bruces, and it is declared that on this “the whole story hangs,” which, in its own way, is a statement just as unwarranted and absurd. It is easy to fix on the error as to Edward being in the Holy Land when the question arose as to the succession, and the antedating of his death. But the critic, with full opportunity for being correct, can sin as to dates quite as egregiously. “In authentic history,” he says, “somewhat more than three years passed between the death of Alexander III. in Lent, 1289, and the coronation of John Balliol on St. Andrew’s Day, 1292.” Quite wrong. In “authentic history” Alexander was killed on March 19, 1286 (1285 by old reckoning). This is a criticism of Barbour’s “six years” in I. 39! He objects to the statement that the Queen was put “in prison,” because she was entertained in one of her husband’s manors. But she is always officially spoken of as “in custody,” and the stone walls of a manor even make a good enough prison. This is mere carping, and most of the rest is of the same sort, where it does not depend on a forcing or misunderstanding of the text.Barbour, he complains, makes the difference between Bruce and Balliol “one between male and female succession.” So, in a sense, it was (see on I. 54), but the critic has not taken the trouble to understand how. Barbour, however, is certainly confusing.
+
+[48] <i>The Brus</i>, Spalding Club edition, 1856, p. ix.
+
+[49] Vol. ii., p. 104.
+
+[50] P. 108.
+
+The fact is that these wayward judgments rest upon too narrow a basis of induction, and that induction, too, usually irrelevant or uncertain--considerations as to the nature of Romance, Barbour’s literary awkwardness and literary dressing, with inadequate examination of the external evidence. But if Barbour professes to write history, as he does profess, and as he gives every evidence of honestly trying to do, he can surely claim to be tried by the appropriate tests--those of official records or other contemporary accounts, and, in the last resource, by his performance so far as these carry us, and by an estimate of the probable sources of what is peculiar to himself. Nor must the quality of his critical equipment be overlooked; he frankly lets us know that of certain incidents different versions were in circulation--some said that the fatal quarrel between Bruce and Comyn fell otherwise than as he has related, and he includes the divergent accounts of how Bruce and his man escaped the hound; and there are other matters for which, lacking certainty himself, he is content to cite popular report.Towards prevailing and attractive superstitions, necromancy, astrology, and the like, his attitude is bluntly sceptical; yet an apparently well-attested case of prophecy--not one, it must be owned, exhibiting any exceptional degree of penetration--he does record, with very distinct reservation of judgment.[51] There is no supernatural machinery in <i>The Bruce</i>, no visions, miraculous agencies, or other such distractions: for these we must go to sober prose. But such is not the manner of popular romance with which it has been usual to class the manner of <i>The Bruce</i>. Barbour is not writing a conventional romance with historic persons and incidents for his material; he is writing history which has all the qualities of romance in real life. Of the same type were the exploits of Edward Bruce, which of themselves, he says, would furnish material for many romances.[52]
+
+So comes it, then, that a careful and most competent investigator like Joseph Bain can authoritatively pronounce <i>The Bruce</i> to be “of the highest value for the period,”[53] and affirm that “in these details he is almost always correct, with occasional errors in names.”[54] Barbour’s errors, indeed, lie on the surface, and are typical of his time, not wilful perversions on his part--events are transposed, wrong dates given, figures almost always exaggerated. On the other side a study of the notes to the present volume will show how trustworthy he is in the main, and, repeatedly, how strikingly and minutely accurate. His profession to tell a truthful story, so far as his knowledge will take him, must be accepted as fully borne out.[51] Bk. IV. 767-774. Contempt for astrology, indeed, had already gone pretty far--Chaucer’s <i>Franklin</i> has it (<i>F.s’</i> Tale); but the contrary opinion still held most ground, and prophecy was in the enjoyment of full respect. Theological authority was divided and uncertain on the matter.
+
+[52] IX. 492.
+
+[53] <i>Calendar of Documents</i>, vol. iii., p. ix, note. Book I. is a hasty introduction.
+
+[54] <i>Ibid.</i>
+
+Moreover the reflection is forced upon us at many points that, in addition to the oral accounts of which he makes use, those of actual participators like Sir Allan of Cathcart, and John Thomson for the Irish campaigns, besides relations and reminiscences otherwise derived, Barbour had various contemporary writings at his command. Such was certainly the case with Sir Thomas Gray, who wrote, a prisoner in Edinburgh Castle, twenty years before. His <i>Scalacronica</i> embodies the results of research in the library of his prison where he found Scottish chronicles in verse and prose, in Latin, French, and English, and he expressly refers to such chronicles in his account of Bruce, letting us know that there was in existence a description of the Battle of Bannockburn, and, incidentally, that Barbour even has not exhausted the fund of stories of adventure told of the fugitive King.More curious and suggestive is the citation, in the bye-going, by Jean le Bel, Canon of Liège, of a “history made by the said King Robert” (<i>en hystoire faitte par le dit roy Robert</i>), that is the King Robert whom, he tells us, Edward I. had chased by hounds in the forests.[55] It is an allowable inference that these accessible materials were known to the learned and inquiring Barbour, when he took to deal with a subject familiar to him from his earliest years, and so congenial to his instincts, literary and national.
+
+It is worth noting that Sir Walter Scott, on the publication of the <i>Lord of the Isles</i>, which draws so handsomely upon <i>The Bruce</i>, was accused of a lack of proper patriotism, meaning the pungent and rather aggressive patriotism of a long-irritated Scotland distinctive of <i>The Wallace</i> and certain subsequent productions, but not of <i>The Bruce</i>, the spirit of which, too, was in harmony with that of the great reviver of romance. There is no malice in <i>The Bruce</i>; the malice and bitterness are in the contemporary war-literature of the other side. And Barbour is no sentimentalist; his patriotism is not pretentious or exclusive, nor such as leads him to depreciate an opponent, and is therefore not a distorting influence on facts, as Mr. Henderson postulates it must have been.[56] It is not possible to point to a single error on Barbour’s part which is fairly traceable to this cause. And his faults and errors, such as they are, may be paralleled over and over again from the most reputable of that century’s historians, to say nothing of those who, in later times, had to weave their web from less tangled and broken material.
+
+[55] <i>Chronique</i>, I, chap. xxii.[56] <i>Scottish Vernacular Literature</i>, p. 43.
+
+THE BRUCE
+
+<b>BOOK I.</b>
+
+Storys to rede ar delitabill,
+Suppos that thai be nocht bot fabill:
+Than suld storys that suthfast wer,
+And thai war said on gud maner,
+Have doubill plesance in heryng. 5
+The fyrst plesance is the carpyng,
+And the tothir the suthfastnes
+That schawys the thing rycht as it wes:
+And suth thyngis that ar likand
+Tyll mannys heryng ar plesand. 10
+Tharfor I wald fayne set my will,
+Giff my wyt mycht suffice thartill,
+To put in wryt a suthfast story,
+That it lest ay furth in memory,
+Swa that na tyme of lenth it let, 15
+Na ger it haly be forget.
+For aulde storys that men redys,
+Representis to thaim the dedys
+Of stalwart folk that lyvyt ar,
+Rycht as thai than in presence war.And certis, thai suld weill have prys 20
+That in thar tyme war wycht and wys,
+And led thar lyff in gret travaill,
+And oft, in hard stour off bataill,
+Wan richt gret price off chevalry, 25
+And war voydyt off cowardy.
+As wes King Robert off Scotland,
+That hardy wes off hart and hand;
+And gud Schyr James off Douglas,
+That in his tyme sa worthy was, 30
+That off hys price and hys bounte,
+In fer landis renownyt wes he.
+Off thaim I thynk this buk to ma:
+Now God gyff grace that I may swa
+Tret it, and bryng it till endyng, 35
+That I say nocht bot suthfast thing!
+
+[15: S following H reads <i>lenth of tyme</i>, characterising the expression in E “an obvious error.” But <i>cf.</i> analogous phrase in line 531, and see note.]
+
+How the Lords of Scotland took the King of England to be Arbiter at the last.
+
+[Sidenote: 1290] <i>Discord over the Succession</i>]
+
+[Sidenote: 1291] <i>The Dispute is referred to Edward I</i>]Quhen Alexander the King was deid,
+That Scotland haid to steyr and leid,
+The land sex yher, and mayr perfay,
+Lay desolat eftyr hys day; 40
+Till that the barnage at the last
+Assemblyt thaim, and fayndyt fast
+To cheys a king thar land to ster,
+That, off awncestry, cummyn wer
+Off kingis that aucht that reawte, 45
+And mayst had rycht thair king to be.
+Bot envy, that is sa feloune,
+Maid amang thaim discencioun.
+For sum wald haiff the Balleoll king;
+For he wes cummyn off the offspryng 50
+Off hyr that eldest systir was.
+And othir sum nyt all that cas;
+And said, that he thair king suld be
+That wes in als nere degre,
+And cummyn wes of the neist male, 55
+And in branch collaterale.
+Thai said, successioun of kyngrik
+Was nocht to lawer feys lik;
+For thar mycht succed na female,
+Quhill foundyn mycht be ony male 60
+That were in lyne evyn descendand;Thai bar all othir wayis on hand,
+For than the neyst cummyn off the seid,
+Man or woman, suld succeid.
+Be this resoun that part thocht hale, 65
+That the lord off Anandyrdale,
+Robert the Bruys Erle off Carryk,
+Aucht to succeid to the kynryk.
+The barownys thus war at discord,
+That on na maner mycht accord; 70
+Till at the last thai all concordyt,
+That all thar spek suld be recordyt
+Till Schyr Edward off Ingland King;
+And he suld swer that, but fenyheyng,
+He suld that arbytre disclar, 75
+Off thir twa that I tauld off ar,
+Quhilk sulde succeid to sic a hycht;
+And lat him ryng that had the rycht.
+This ordynance thaim thocht the best,
+For at that tyme wes pes and rest 80
+Betwyx Scotland and Ingland bath;
+And thai couth nocht persave the skaith
+That towart thaim wes apperand;
+For that at the King off Ingland
+Held swylk freyndschip and cumpany 85
+To thar King, that wes swa worthy,Thai trowyt that he, as gud nychtbur,
+And as freyndsome compositur,
+Wald have jugyt in lawte:
+Bot othir wayis all yheid the gle. 90
+A! blynd folk full off all foly!
+Haid yhe umbethoucht yhow enkrely,
+Quhat perell to yhow mycht apper,
+Yhe had nocht wrocht on that maner:
+Haid yhe tane keip how at that King 95
+Alwayis, for-owtyn sojournyng,
+Travayllyt for to wyn senyhory,
+And, throw his mycht, till occupy
+Landis that war till him marcheand,
+As Walis was, and als Ireland; 100
+That he put to swylk thrillage,
+That thai that war off hey parage
+Suld ryn on fute, as rebaldaill,
+Quhen he wald ony folk assaill.
+Durst nane of Walis in bataill ride; 105
+Na yhet, fra evyn fell, abyd
+Castell or wallyt toune with-in,
+That he ne suld lyff and lymmys tyne.
+In-to swilk thrillage thaim held he,
+That he ourcome throw his powste. 110
+Yhe mycht se he suld occupyThrow slycht, that he ne mycht throw maistri.
+Had yhe tane kep quhat was thrillag,
+And had consideryt his usage,
+That gryppyt ay, but gayne-gevyng, 115
+Yhe suld, for-owtyn his demyng,
+Haiff chosyn yhow a king, that mycht
+Have haldyn weyle the land in rycht.
+Walys ensample mycht have bene
+To yhow, had yhe it forow sene. 120
+And wys men sayis he is happy
+That be othir will him chasty.
+For unfayr thingis may fall, perfay,
+Als weill to-morn as yhisterday.
+Bot yhe traistyt in lawte, 125
+As sympile folk, but mavyte;
+And wyst nocht quhat suld eftir tyd.
+For in this warld, that is sa wyde,
+Is nane determynat that sall
+Knaw thingis that ar for to fall: 130
+But God, that is off maist poweste,
+Reservyt till his majeste
+For to knaw, in his prescience,
+Off alkyn tyme the mowence.
+
+[48: E inserts <i>gret</i> before <i>discencioun</i>, but W and H omit.][54, 55: E gives <i>war</i> and so in J: but <i>wes</i> from W is preferable. For <i>als nere</i> (W) E has <i>alsner</i>.]
+
+[61: From H. E has <i>How that in his evyn descendand</i>, which does not make sense. W gives <i>That be lyne war dissendand</i>, which halts metrically. See note.]
+
+[77: <i>Sulde</i> in W. E omits.]
+
+[129: Skeat adopts <i>determynatly</i> from H, with the meaning “certainly.” But this reading cumbers the metre; and Barbour’s word to this effect is “certis.”]
+
+[130: <i>For</i> is from W and H. E omits.]
+
+On this maner assentyt war 135
+The barownis, as I said yhow ar:
+And throuch thar aller hale assent,
+Messingeris till hym thai sent,
+That was than in the haly land,
+On Saracenys warryand. 140
+And fra he wyst quhat charge thai had,
+He buskyt hym, but mar abad,
+And left purpos that he had tane;
+And till Ingland agayne is gayne.
+And syne till Scotland word send he, 145
+That thai suld mak ane assemble;
+And he in hy suld cum to doIn all thing, as thai wrayt him to.
+But he thoucht weile, throuch thar debate,
+That he suld slely fynd the gate 150
+How that he all the senyhowry,
+Throw his gret mycht, suld occupy.
+And to Robert the Bruys said he;
+“Gyff thow will hald in cheyff off me
+“For evirmar, and thine ofspryng, 155
+“I sall do swa thou sall be king.”
+‘Schyr,’ said he, ‘sa God me save,
+‘The kynryk yharn I nocht to have,
+‘Bot gyff it fall off rycht to me:
+‘And gyff God will that it sa be, 160
+‘I sall als frely in all thing
+‘Hald it, as it afferis to king;
+‘Or as myn eldris forouch me
+‘Held it in freyast rewate.’
+The tothir wreythyt him, and swar 165
+That he suld have it nevir mar:
+And turnyt him in wreth away.
+Bot Schyr Jhon the Balleoll, perfay,
+Assentyt till him, in all his will;
+Quhar-throuch fell eftir mekill ill. 170
+He was king bot a litill quhile;
+And throuch gret sutelte and ghyle,For litill enchesone, or nane,
+He was arestyt syne and tane,
+And degradyt syne wes he 175
+Off honour and off dignite.
+Quhethir it wes throuch wrang or rycht,
+God wat it, that is maist off mycht.
+
+[Sidenote: 1292-1296] <i>Edward takes Possession of Scotland</i>]
+
+Quhen Schyr Edward, the mychty king,
+Had on this wys done his likyng 180
+Off Jhone the Balleoll, that swa sone
+Was all defawtyt and undone,
+To Scotland went he than in hy,
+And all the land gan occupy:
+Sa hale, that bath castell and toune 185
+War in-till his possessioune,
+Fra Weik anent Orknay,
+To Mullyr-snuk in Gallaway;
+And stuffyt all with Inglis men.
+Schyrreffys and bailyheys maid he then; 190
+And alkyn othir officeris,
+That for to govern land afferis,
+He maid off Inglis nation;
+That worthyt than sa ryth fellone,
+And sa wykkyt and covatous, 195And swa hawtane and dispitous,
+That Scottis men mycht do na thing
+That evir mycht pleys to thar liking.
+Thar wyffis wald thai oft forly,
+And thar dochtrys dispitusly: 200
+And gyff ony thar-at war wrath,
+Thai watyt hym wele with gret scaith;
+For thai suld fynd sone enchesone
+To put hym to destructione.
+And gyff that ony man thaim by 205
+Had ony thing that wes worthy,
+As hors, or hund, or othir thing,
+That plesand war to thar liking,
+With rycht or wrang it have wald thai.
+And gyf ony wald thaim withsay, 210
+Thai suld swa do, that thai suld tyne
+Othir land or lyff, or leyff in pyne.
+For thai dempt thaim eftir thar will,
+Takand na kep to rycht na skill.
+A! quhat thai dempt thaim felonly! 215
+For gud knychtis that war worthy,
+For litill enchesoune or than nane,
+Thai hangyt be the nekbane.
+Alas that folk, that evir wes fre,
+And in fredome wount for to be, 220Throw thar gret myschance and foly,
+War tretyt than sa wykkytly,
+That thar fays thar jugis war:
+Quhat wrechitnes may man have mar?
+
+[218: S <i>nek[ke]bane</i>.]
+
+  A! fredome is a noble thing! 225
+Fredome mays man to haiff liking;
+Fredome all solace to man giffis:
+He levys at es that frely levys.
+A noble hart may haiff nane es,
+Na ellys nocht that may him ples, 230
+Gyff fredome failyhe: for fre liking
+Is yharnyt our all othir thing.
+Na he, that ay has levyt fre,
+May nocht knaw weill the propyrte,
+The angyr, na the wrechyt dome, 235
+That is cowplyt to foule thyrldome.
+Bot gyff he had assayit it,
+Than all perquer he suld it wyt;
+And suld think fredome mar to prys,
+Than all the gold in warld that is. 240
+Thus contrar thingis evir-mar,
+Discoveryngis off the tothir ar.
+And he that thryll is has nocht his;All that he has enbandownyt is
+Till hys lord, quhat-evir he be. 245
+Yheyt has he nocht sa mekill fre
+As fre liking to leyve, or do
+That at hys hart hym drawis to.
+Than mays clerkis questioun,
+Quhen thai fall in disputacioun, 250
+That gyff man bad his thryll owcht do,
+And in the samyn tym come him to
+His wyff, and askyt hym hyr det,
+Quhethir he his lordis neid suld let,
+And pay fryst that he awcht, and syne 255
+Do furth his lordis commandyne;
+Or leve onpayit his wyff, and do
+It that commaundyt is him to?
+I leve all the solucioun
+Till thaim that ar off mar renoun. 260
+Bot sen thai mek sic comperyng
+Betwix the dettis off wedding,
+And lordis bidding till his threll,
+Yhe may weile se, thoucht nane yhow tell,
+How hard a thing that threldome is. 265
+For men may weile se, that ar wys,
+That wedding is the hardest band,
+That ony man may tak on hand:And thryldome is weill wer than deid;
+For quhill a thryll his lyff may leid, 270
+It merrys him, body and banys;
+And dede anoyis him bot anys.
+Schortly to say, is nane can tell
+The halle condicioun off a threll.
+
+[247: <i>Liking</i> from H. E has <i>wyll</i>, which leaves the line metrically short of a syllable.]
+
+[258: <i>It</i> from H. E has <i>Thai thingis</i>, which turns the line into prose.]
+
+[Sidenote: 1298-1299] <i>Harsh Treatment of the Scots</i>]
+
+Thus-gat levyt thai, and in sic thrillage; 275
+Bath pur, and thai off hey parage.
+For off the lordis sum thai slew,
+And sum thai hangyt, and sum thai drew;
+And sum thai put in hard presoune,
+For-owtyn caus or enchesoun. 280
+And, amang othir, off Dowglas
+Put in presoun Sir Wilyham was,
+That off Dowglas was lord and syr;
+Off him thai makyt a martyr.
+Fra thai in presoune him sleuch, 285
+Hys landis, that war fayr inewch,Thai to the lord off Clyffurd gave.
+He had a sone, a litill knave,
+That wes than bot a litill page,
+Bot syne he wes off gret vaslage; 290
+Hys fadyr dede he vengyt sua,
+That in Ingland, I underta,
+Wes nane off lyve that hym ne dred;
+For he sa fele off harnys sched,
+That nane that lyvys thaim can tell. 295
+Bot wondirly hard thingis fell
+Till him, or he till state wes brocht.
+Thair wes nane aventur that mocht
+Stunay hys hart, na ger him let
+To do the thing he wes on set; 300
+For he thocht ay encrely
+To do his deid avysily.
+He thocht weill he wes worth na seyle,
+That mycht of nane anoyis feyle;
+And als for till escheve gret thingis, 305
+And hard travalyis, and barganyngis,
+That suld ger his price dowblyt be.
+Quharfor, in all hys lyve-tyme, he
+Wes in gret payn, et gret travaill;
+And nevir wald for myscheiff faill, 310
+Bot dryve the thing rycht to the end,And tak the ure that God wald send.
+Hys name wes James of Douglas:
+And quhen he heard his fadir was
+Put in presoune sa fellounly, 315
+And at his landis halyly
+War gevyn to the Clyffurd, perfay
+He wyst nocht quhat to do na say;
+For he had na thing to dispend,
+Na thar wes nane that evir him kend 320
+Wald do sa mekill for him, that he
+Mycht sufficiantly fundyn be.
+Than wes he wondir will off wane;
+And sodanly in hart has tane,
+That he wald travaile our the se, 325
+And a quhile in Parys be,
+And dre myscheiff quhar nane hym kend,
+Till God sum succouris till hym send.
+And as he thocht he did rycht sua,
+And sone to Parys can he ga; 330
+And levyt thar full sympylly.
+The-quhethir he glaid was and joly;
+And till swylk thowlesnes he yheid,
+As the cours askis off yhowtheid;
+And umquhill in-to rybbaldaill: 335
+And that may mony tyme availl.For knawlage off mony statis
+May quhile availyhe full mony gatis;
+As to the gud Erle off Artayis
+Robert, befell in-till his dayis. 340
+For oft feynyheyng oft rybbaldy
+Availyheit him, and that gretly.
+And Catone sayis us, in his wryt,
+That to fenyhe foly quhile is wyt.
+In Parys ner thre yher duellyt he; 345
+And then come tythandis our the se,
+That his fadyr wes done to ded
+Then wes he wa, and will of red;
+And thocht that he wald hame agayne,
+To luk gyff he, throw ony payn, 350
+Mycht wyn agayn his heritage,
+And his men out off all thryllage.
+
+[279: <i>Hard</i> from W improves the line. It is not given in E or H.]
+
+[286: So Skeat reads, following H. E has <i>land that is</i>, which is clearly wrong. <i>Cf.</i> line 316.]
+
+[287: <i>To</i> from H. E omits.]
+
+[300: E has <i>thing that</i>, but H omits as here; the line then goes more smoothly.][309: <i>Et</i> or <i>ec</i> is clearly a Latin rendering of ‘&’ = and: a scribal error.]
+
+[319: E has <i>for to</i>. H omits.]
+
+[344: H omits <i>that</i>, and S follows.]
+
+The First Rising of Lord Douglas.
+
+[Sidenote: 1299-1303] <i>James Douglas returns from Paris</i>]
+
+  To Sanct Androws he come in hy,
+Quhar the byschop full curtasly
+Resavyt him, and gert him wer 355
+His knyvys forouch him to scher;
+And cled him rycht honorabilly,
+And gert ordayn quhar he suld ly.
+A weile gret quhile thar duellyt he;
+All men lufyt him for his bounte; 360
+For he wes off full fayr effer,
+Wys, curtais, and deboner;
+Larg and luffand als wes he,
+And our all thing luffyt lawte.
+
+  Leaute to luff is gretumly; 365
+Throuch leaute liffis men rychtwisly:With a vertu of leaute
+A man may yheit sufficyand be:
+And but leawte may nane haiff price,
+Quhethir he be wycht, or he be wys; 370
+For quhar it failyheys, na vertu
+May be off price, na off valu,
+To mak a man sa gud that he
+May symply callyt gud man be.
+
+  He wes in all his dedis lele; 375
+For him dedeynyheit nocht to dele
+With trechery, na with falset.
+His hart on hey honour wes set:
+And hym contenyt on sic maner,
+That all him luffyt that war him ner. 380
+Bot he wes nocht so fayr, that we
+Suld spek gretly off his beaute:
+In vysage wes he sumdeill gray,
+And had blak har, as Ic hard say;
+Bot off lymmys he wes weill maid, 385
+With banys gret, and schuldrys braid.
+His body wes weyll maid and lenye,
+As thai that saw hym said to me.
+Quhen he wes blyth he wes lufly,
+And meyk and sweyt in cumpany: 390
+Bot quha in battail mycht him seAll other contenance had he.
+And in spek wlispyt he sum deill;
+Bot that sat him rycht wondre weill.
+Till gud Ector of Troy mycht he 395
+In mony thingis liknyt be.
+Ector had blak har, as he had,
+And stark lymmys, and rycht weill maid;
+And wlyspit alsua as did he,
+And wes fulfillyt of leawte, 400
+And wes curtais and wys and wycht.
+Bot off manheid and mekill mycht,
+Till Ector dar I nane comper
+Off all that evir in warldys wer.
+The-quhethyr in his tyme sa wrocht he, 405
+That he suld gretly lovyt be.
+
+[Sidenote: 1304-1305] <i>Edward refuses Douglas</i>]
+
+He duellyt thar, quhill on a tid,
+The King Edward, with mekill prid,
+Come to Strevillyne with gret mengyhe,
+For till hald thar ane assemble. 410
+Thiddirwart went mony baroune;
+Byschop Wylyhame off Lambyrtoun
+Raid thiddyr als, and with him was
+This squyer James of Dowglas.The byschop led him to the King, 415
+And said: “Schyr, heyr I to yhow bryng
+“This child, that clemys yhour man to be;
+“And prayis yhow par cheryte,
+“That yhe resave her his homage,
+“And grantis him his heritage.” 420
+“Quhat landis clemys he?’ said the King.
+“Schyr, giff that it be yhour liking,
+“He clemys the lordschip off Douglas;
+“For lord tharoff hys fadir was.”
+The King then wrethyt him encrely, 425
+And said; ‘Schyr byschop, sekyrly
+‘Gyff thow wald kep thi fewte,
+‘Thow maid nane sic speking to me.
+‘Hys fadyr ay wes my fay feloune,
+‘And deyt tharfor in my presoun; 430
+‘And wes agayne my majeste:
+‘Tharfor hys ayr I aucht to be.
+‘Ga purches land quhar-evir he may,
+‘For tharoff haffys he nane, perfay:
+‘The Cliffurd sall thaim haiff, for he 435
+‘Ay lely has servyt to me.’
+The byschop hard him swa ansuer,
+And durst than spek till him na mar;
+Bot fra his presence went in hy,For he dred sayr his felouny: 440
+Swa that he na mar spak tharto.
+The King did that he com to do;
+And went till Ingland syn agayn,
+With mony man off mekyll mayn.
+
+[428: H <i>mak</i>, which seems more likely.]
+
+The Scots are likened to the Holy Maccabees.
+
+Lordingis, quha likis for till her, 445
+The Romanys now begynnys her,
+Off men that war in gret distres,
+And assayit full gret hardynes,
+Or thai mycht cum till thar entent:
+Bot syne our Lord sic grace thaim sent, 450
+That thai syne, throw thar gret valour,
+Come till gret hycht, and till honour,
+Magre thair fayis evirilkane,
+That war sa fele, that ay for ane
+Off thaim thai war weill a thowsand. 455
+Bot quhar God helpys quhat may withstand?
+Bot, and we say the suthfastnes,
+Thai war sum tyme erar may then les.
+Bot God that maist is of all mycht,
+Preservyt thaim in his forsycht, 460To veng the harme and the contrer,
+At that fele folk and pautener
+Dyd till sympill folk and worthy,
+That couth nocht help thaim self: for-thi,
+Thai war lik to the Machabeys, 465
+That, as men in the Bibill seys,
+Throw thair gret worschip and valour,
+Fawcht in-to mony stalwart stour,
+For to delyvir thar countre
+Fra folk that, throw iniquite, 470
+Held thaim and thairis in thrillage:
+Thai wrocht sua throw thar vassalage,
+That, with few folk, thai had victory
+Off mychty kingis, as sayis the story,
+And delyveryt thar land all fre; 475
+Quharfor thar name suld lovyt be.
+
+[Sidenote: 1305-1306] <i>Bruce accepts Comyn’s Proposal</i>]
+
+Thys lord the Bruys, I spak of ayr,
+Saw all the kynryk swa forfayr;
+And swa trowblyt the folk saw he,
+That he tharoff had gret pitte. 480
+Bot quhat pite that evir he had,
+Na contenance thar-off he maid;
+Till, on a tym, Schyr Jhone Cumyn,As thai come ridand fra Strevillyn,
+Said till him; “Schir, will yhe nocht se, 485
+“How that governyt is this countre?
+“Thai sla our folk but enchesoune,
+“And haldis this land agayne resoune,
+“And yhe tharoff full suld lord be.
+“And gyff that yhe will trow to me, 490
+“Ye sall ger mak yhow tharoff king,
+“And I sall be in yhour helping;
+“With-thi yhe giff me all the land
+“That he haiff now in till yhour hand:
+“And gyff that yhe will nocht do sua, 495
+“Na swylk a state upon yow ta,
+“All hale my land sall yhouris be;
+“And lat me ta the state on me,
+“And bring this land out off thyrllage.
+“For thar is nothir man na page, 500
+“In all this land that ne sall be
+“Fayn to mak thaim-selvyn fre.”
+The lord the Bruis hard his carping,
+And wend he spak bot suthfast thing.
+And, for it likit till his will, 505
+He gave sone his assent thartill:
+And said, ‘Sen yhe will it be swa,
+‘I will blythly apon me ta‘The state, for I wate I have rycht;
+‘And rycht mays oft the feble wycht.’ 510
+
+[489: <i>Full</i> is from Wyntoun. E omits.]
+
+[501: E has <i>than thai</i>, which is obscure. Wyntoun gives <i>that thaiy ne</i> (S): <i>thaiy</i> seems superfluous.]
+
+[506: E and S have <i>his assent sone</i>: Wyntoun as above, which preserves the correct accentuation of <i>assent</i>.]
+
+[509: E reads and S adopts <i>wate that</i>.]
+
+The barownys thus accordyt ar;
+And that ilk nycht than writyn war
+Thair endenturis, and aythis maid
+To hald that thai forspokyn haid.
+Bot off all thing wa worth tresoun! 515
+For thar is nothir duk ne baroun,
+Na erle, na prynce, na king off mycht,
+Thocht he be nevir sa wys na wycht,
+For wyt, worschip, price, na renoun,
+That evir may wauch hym with tresoune. 520
+Wes nocht all Troy with tresoune tane,
+Quhen ten yheris of the wer wes gane?
+Then slayn wes mone thowsandOff thaim with-owt, throw strenth of hand;
+As Dares in his buk he wrate, 525
+And Dytis, that knew all thar state.
+Thai mycht nocht haiff beyn tane throw mycht,
+Bot tresoun tuk thaim throw hyr slycht.
+And Alexander the Conqueroure,
+That conqueryt Babilonys tour, 530
+And all this warld off lenth and breid,
+In twelf yher, throw his douchty deid,
+Wes syne destroyit throw pusoune,
+In his awyne hows, throw gret tresoune.
+Bot, or he deit, his land delt he: 535
+To se his dede wes gret pite.
+Julius Cesar als, that wan
+Bretane and Fraunce, as dowchty man,
+Affryk, Arrabe, Egipt, Surry,
+And all Europe halyly; 540
+And for his worschip and valour
+Off Rome wes fryst maid emperour;
+Syne in hys capitole wes he,
+Throw thaim of his consaill prive,
+Slayne with punsoune, rycht to the ded: 545
+And quhen he saw thair wes na rede,
+Hys eyn with his hand closit he,
+For to dey with mar honeste.Als Arthur, that throw chevalry
+Maid Bretane maistres and lady 550
+Off twelf kinrykis that he wan;
+And alsua, as a noble man,
+He wan throw bataill Fraunce all fre;
+And Lucius Yber vencusyt he,
+That then of Rome was emperour: 555
+Bot yheit, for all his gret valour,
+Modreyt his systir son him slew;
+And gud men als ma then inew,
+Throw tresoune and throw wikkitnes;
+The Broite beris tharoff wytnes. 560
+Sa fell off this conand-making:
+For the Cumyn raid to the King
+Off Ingland, and tald all this cas;
+Bot, I trow, nocht all as it was.
+Bot the endentur till him gaf he, 565
+That soune schawyt the iniquite:
+Quharfor syne he tholyt ded;
+Than he couth set tharfor na rede.
+
+[511: Wyntoun has <i>Thus thir twa lordis</i>.]
+
+[512: <i>Than</i> is from Wyntoun. S following E omits.]
+
+[Sidenote: 1306] <i>Edward sends for Bruce</i>]Quhen the King saw the endentur,
+He wes angry out of mesur, 570
+And swour that he suld vengeance ta
+Off that Bruys, that presumyt swa
+Aganys him to brawle or rys,
+Or to conspyr on sic a wys.
+And to Schyr Jhon Cumyn said he, 575
+That he suld, for his leawte,
+Be rewardyt, and that hely:
+And he him thankit humyly.
+Than thocht he to have the leding
+Off all Scotland, but gane-saying, 580
+Fra at the Bruce to dede war brocht.
+Bot oft failyheis the fulis thocht;
+And wys mennys etling
+Cummys nocht ay to that ending
+That thai think it sall cum to; 585
+For God wate weill quhat is to do.
+Off hys etlyng rycht swa it fell,
+As I sall efterwartis tell.
+He tuk his leve, and hame is went;
+And the King a parlyament 590
+Gert set thareftir hastely;
+And thidder somownys he in hy
+The barownys of his reawte.And to the lord the Bruce send he
+Bydding to come to that gadryng. 595
+And he that had na persavyng
+Off the tresoun, na the falset,
+Raid to the King but langir let;
+And in Lundon hym herberyd he
+The fyrst day off thar assemble; 600
+Syn on the morn to court he went.
+The Kyng sat into parleament;
+And forouch hys consaile prive,
+The lord the Bruce than callyt he,
+And schawyt hym the endentur. 605
+He wes in full gret aventur
+To tyne his lyff; bot God of mycht
+Preservyt him till hyer hycht,
+That wald nocht that he swa war dede.
+The King betaucht hym in that steid 610
+The endentur, the seile to se,
+The askyt, gyff it enselyt he?
+He lukyit the seyle ententily,
+And answeryt till hym humyly,
+And sayd; “How that I sympill be, 615
+“My seyle is nocht all tyme with me;
+“Ik have ane othir it to ber.
+“Tharfor giff that yhour willis wer,“Ic ask yhow respyt for to se
+“This lettir, and avysit be, 620
+“Till to morn that yhe be set:
+“And then, for-owtyn langir let,
+“This lettir sall I entyr heyr,
+“Befor all yhour consaill planer;
+“And thair-till in-to bourch draw I 625
+“Myn herytage all halily.”
+The King thocht he wes traist inewch,
+Sen he in bowrch hys landis drewch;
+And let hym with the lettir passe,
+Till entyr it, as for-spokin was. 630
+
+[604: E and S <i>thar</i>: Wyntoun <i>than</i>.]
+
+[620: E and S have <i>and tharwith</i>: Wyntoun omits <i>tharwith</i>.]
+
+[625: E and S give <i>boruch</i> (<i>borwch</i>), but Wyntoun has it as above, and it so appears in line 628. Skeat’s Glossary is at variance with his text: he refers <i>borwch</i> to 628 also.]<b>BOOK II.</b>
+
+How the Bruce avoided King Edward’s Deceit.
+
+[Sidenote: JAN. 1306] <i>Bruce and the Clerk Escape</i>]
+
+The Bruys went till his innys swyth;
+Bot, wyt yhe weile, he wes full blyth,
+That he had gottyn that respyt.
+He callit his marschall till him tyt,
+And bad him luk on all maner, 5
+That he ma till his men gud cher;
+For he wald in his chambre be
+A weill gret quhile in private,
+With him a clerk for-owtyn ma.
+The marschell till the hall gan ga, 10
+And did hys lordys commanding.
+The lord the Bruce, but mar letting,
+Gert prively bryng stedys twa.
+He and the clerk, for-owtyn ma,
+Lap on, for-owtyn persavyng: 15
+And day and nycht, but sojournyng,
+Thai raid; quhill, on the fyften day,
+Cummyn till Louchmaban ar thai.
+Hys brodyr Edward thar thai fand,
+That thocht ferly, Ic tak on hand, 20That thai come hame sa prively:
+He tauld hys brodyr halyly,
+How that he thar soucht was,
+And how he chapyt wes throw cas.
+
+[23: Wyntoun gives--reversing the lines--<i>How before all hapnyd was</i>, from which Skeat suggests as an improvement on 23 <i>How that before al hapynd was</i>.]
+
+Here John Comyn and Others are Slain in the Friars’ Kirk.
+
+Sa fell it in the samyn tid, 25
+That at Dumfres, rycht thar besid,
+Schir Jhone the Cumyn sojornyng maid;
+The Brus lap on and thiddir raid;
+And thocht, for-owtyn mar letting,
+For to quyt hym his discoveryng. 30
+Thiddir he raid, but langir let,
+And with Schyr Jhone the Cumyn met,
+In the Freris, at the hye awter,
+And schawyt him, with lauchand cher,
+The endentur; syne with a knyff, 35
+Rycht in that sted, hym reft the lyff.
+Schyr Edmund Cumyn als wes slayn,
+And othir mony off mekill mayn.
+Nocht-for-thi yheit sum men sayis,
+At that debat fell othir wayis; 40But quhat sa evyr maid the debate,
+Thar-throuch he deyt, weill I wat.
+He mysdyd thar gretly, but wer,
+That gave na gyrth to the awter.
+Tharfor sa hard myscheiff him fell, 45
+That Ik herd nevir in romanys tell
+Off man sa hard frayit as wes he,
+That eftirwart com to sic bounte.
+
+[34: Wyntoun gives <i>hevy chere</i>; but see note.]
+
+[38: For <i>mony</i> S reads <i>als</i> from H.]
+
+[39: S begins <i>And</i> from H.]
+
+[47: For <i>frayit</i> in E Skeat reads <i>sted</i> from H.]
+
+Here the King of England seeks for Robert Bruce, but does not find Him.
+
+Now agayne to the King ga we, 50
+That on the morn, with his barne,
+Sat in-till his parlement;
+And eftyr the lord the Bruys he sent,
+Rycht till his in, with knychtis kene.
+Quhen he oft tyme had callit bene,
+And his men eftir him askit thai, 55Thai said that he, sen yhytirday,
+Duelt in his chambyr ythanly,
+With a clerk with him anerly.
+Than knokyt thai at his chamur thar;
+And quhen thai hard nane mak ansuar 60
+Thai brak the dur; bot thai fand nocht,
+The-quhethir the chambre hale thai socht.
+Thai tauld the King than hale the cas,
+And how that he eschapyt was.
+He wes off his eschap sary; 65
+And swour in ire, full stalwartly,
+That he suld drawyn and hangit be.
+He manausyt as him thocht: bot he
+Thoucht that suld pas ane othir way.
+
+Here Robert Bruce sends Letters for an Assembly.
+
+[Sidenote: FEB. 1306] <i>Douglas hears Bruce’s Letter</i>]
+
+And quhen he, as ye hard me say, 70
+In-till the kyrk Schyr Jhone haid slayn,
+Till Louchmabane he went agayne;
+And gert men, with his lettres, ryd
+To freyndis apon ilke sid,
+That come to hym with thar mengyhe; 75
+And his men als assemblit he:And thocht that he wald mak him king.
+Our all the land the word gan spryng,
+That the Bruce the Cumyn had slayn;
+And, amang othir, lettres ar gayn 80
+To the byschop off Androws towne,
+That tauld how slayn wes that baroun,
+The lettir tauld hym all the deid:
+And he till his men can it reid;
+And sythyn said thaim; “Sekyrly 85
+“I hop that Thomas prophecy
+“Off Hersildoune sall veryfyd be
+“In him; for, swa our Lord help me!
+“I haiff gret hop he sall be king,
+“And haiff this land all in leding.” 90
+
+[74: <i>Ilke</i> is from H: S adopts the form <i>ilka</i>. E gives <i>ilk</i>, a syllable short.]
+
+[84: E has <i>gert</i> for <i>can it</i> read by S from H.]
+
+[86: <i>That</i> is from H.]
+
+[87: S following H reads <i>verray</i> for <i>veryfyd</i>.]
+
+The Douglas meeting with King Robert.[Sidenote: MARCH 1306] <i>Meeting of Bruce and Douglas</i>]
+
+James off Dowglas, that ay-quhar
+All-wayis befor the byschop schar,
+Had weill hard all the lettir red;
+And he tuk alsua full gud hed
+To that the byschop had said. 95
+And quhen the burdys doun war laid,
+Till chamyr went thai then in hy;
+And James off Dowglas prively
+Said to the byschop; “Schyr, yhe se
+“How Inglis men, throw thair powste, 100
+“Dysherysys me off my land;
+“And men has gert yhow undirstand,
+“Als that the Erle off Carryk
+“Clamys to govern the kynryk:
+“And, for yhon man that he has slayn, 105
+“All Inglis men ar him agayn,
+“And wald disherys hym blythly;
+“The-quhethir with him dwell wald I.
+“Tharfor, Schir, giff it war yhour will,
+“I wald tak with him gud and ill. 110
+“Throw hym I trow my land to wyn,
+“Magre the Clyffurd and his kyn.”
+The byschop hard, and had pite,
+And said; ‘Swet son, sa God help me!‘I wald blythly that thow war thar, 115
+‘Bot at I nocht reprovyt war.
+‘On this maner weile wyrk thou may,
+‘Thow sall tak Ferrand my palfray;
+‘And for thair na is hors in this land
+‘Sa wycht, na yheit sa weill at hand; 120
+‘Tak him as off thine awyne heid,
+‘As I had gevyn thar-to na reid.
+‘And gyff his yhemar oucht gruchys,
+‘Luk that thow tak hym magre his;
+‘Swa sall I weill assonyheit be. 125
+‘Almychty God, for his powste,
+‘Graunt that he thow passis to,
+‘And thow, sa weill all tyme may do,
+‘That yhe yhow fra yhowr fayis defend!’
+He taucht him silver to dispend; 130
+And syne gaiff him his benisoun.
+And bad him pass his way off toun;
+For he na wald spek till he war gane.
+The Dowglas then his way has tane
+Rycht to the hors, as he him bad: 135
+Bot he, that him in yhemsell had,
+Than warnyt hym dispitously.
+Bot he, that wrethyt him encrely,
+Fellyt hym with a suerdys dynt.And syne, for-owtyn langir stynt, 140
+The hors he sadylt hastely,
+And lap on him delyverly;
+And passyt furth but leve-taking.
+Der God, that is off hevyn king,
+Sawff hym, and scheld him fra his fayis! 145
+All him alane the way he tais
+Towart the towne off Louchmabane;
+And, a litill fra Aryk-stane,
+The Bruce with a gret rout he met,
+That raid to Scone, for to be set 150
+In kingis stole, and to be king.
+And quhen Dowglas saw hys cummyng,
+He raid, and hailsyt hym in hy,
+And lowtyt him full curtasly;
+And tauld him haly all his state, 155
+And quhat he was, and als how-gat
+The Clyffurd held his heritage:
+And that he come to mak homage
+Till him as till his rychtwis king;
+And at he boune wes, in all thing, 160
+To tak with him the gud and ill.
+And quhen the Bruce had herd his will,
+He resavyt him in gret daynte,
+And men and armys till him gaff he.He thoucht weile he suld be worthy; 165
+For all his eldris war douchty.
+Thusgat maid thai thar aquentance,
+That nevir syne, for nakyn chance,
+Departyt quhill thai lyffand war.
+Thair frendschip woux ay mar and mar: 170
+For he servyt ay lelely;
+And the tothir full wilfully,
+That was bath worthy, wycht, and wys,
+Rewardyt him weile his service.
+
+[95: H <i>all that</i> (S).]
+
+[128: In E clumsily <i>in all tyme sa weill to do</i>. The reading is from H.]
+
+[131-2: E has <i>gaiff him gud day</i>, two syllables short, and <i>pass furth on his way</i>. S reads as in text from H.]
+
+The Crowning of King Robert.
+
+The lord of the Bruce to Glaskow raid, 175
+And send about him, quhill he haid
+Off his freyndis a gret menyhe.
+And syne to Scone in hy raid he,
+And wes maid king but langir let,
+And in the kingis stole wes set; 180As in that tyme wes the maner.
+Bot off thar nobleis gret affer,
+Thar service, na thar realte,
+Yhe sall her na thing now for me;
+Owtane that he off the barnage 185
+That thiddir come, tok homage;
+And syne went our all the land,
+Frendis and frendschip purchesand,
+To maynteym that he had begunnyn.
+He wyst, or all the land war wonnyn, 190
+He suld fynd full hard barganyng
+With him that wes off Ingland King:
+For thar wes nane off lyff sa fell,
+Sa pautener, na sa cruell.
+And quhen to King Edward wes tauld, 195
+How at the Bruys, that wes sa bauld,
+Had brocht the Cumyn till ending,
+And how he syne had maid him king,
+Owt off his wyt he went weill ner;
+And callit till him Schir Amer 200
+The Vallang, that wes wys and wycht,
+And off his hand a worthy knycht,
+And bad him men off armys ta,
+And in all hy till Scotland ga,
+And byrn, and slay, and rais dragoun: 205And hycht all Fyfe in warysoun
+Till him, that mycht othir ta or sla
+Robert the Bruce, that wes his fa.
+Schir Aymer did as he him bad,
+Gret chevalry with him he had; 210
+With him wes Philip the Mowbray,
+And Ingram the Umfravill perfay,
+That wes bath wys and averty,
+And full of gret chevalry;
+And off Scotland the maist party 215
+Thai had in-till thar company.
+
+[204: <i>All</i> is from H.]
+
+The First Speaking of King Robert with Sir Aymer.
+
+[Sidenote: 1306] <i>Valence occupies Perth</i>]
+
+For yheit then mekill off the land
+Wes in-till Inglis mennys hand.
+Till Perth then went thai in a rout,
+That then wes wallyt all about 220
+With feile towris, rycht hey bataillyt,
+To defend giff it war assaylit.
+Thar-in duellyt Schir Amery,
+With all his gret chevalry.The King Robert wyst he wes thar, 225
+And quhat-kyn chyftanys with him war,
+And assemblyt all his mengyhe.
+He had feyle off full gret bounte;
+Bot thar fayis war may then thai,
+Be fifteene hunder, as Ik herd say. 230
+The-quhethir he had thar, at that ned,
+Full feill that war douchty off deid;
+And barownys that war bauld as bar.
+Twa erlis alsua with him war;
+Off Levynax and Atholl war thai. 235
+Edward the Bruce wes thar alsua,
+Thomas Randell, and Hew de le Hay,
+And Schyr David the Berclay,
+Fresale, Somerveile, and Inchmertyn;
+James of Dowglas thar wes syne, 240
+That yheyt than wes bot litill off mycht;
+And othir fele folk forsye in fycht:
+Bot I can nocht tell quhat thai hycht.
+Thocht thai war qwheyn, thai war worthy,
+And full of gret chevalry. 245
+And in bataill, in gud aray,
+Befor Sanct Jhonystoun com thai,
+And bad Schyr Amery isch to fycht;
+And he, that in the mekill mychtTraistyt off thaim that wes him by, 250
+Bad his men arme thaim hastily.
+Bot Schir Ingram the Umfravill
+Thocht it war all to gret perill
+In playne bataill to thaim to ga,
+Or quhill thai war arayit sa: 255
+And till Schyr Amer then said he;
+‘Schir, giff that yhe will trow to me,
+‘Yhe sall nocht ische thaim till assaile,
+‘Till thai ar purvayt in bataill.
+‘For thar ledar is wys and wycht, 260
+‘And off his hand a noble knycht;
+‘And he has in his cumpany
+‘Mony a gud man and worthi,
+‘That sall be hard for till assay,
+‘While thai ar in sa gud aray. 265
+‘For it suld be full mekill mycht
+‘That now suld put thaim to the flycht:
+‘For quhen thai folk ar weill arayit,
+‘And for the bataill weill purvait,
+‘With-thi that thai all gud men be, 270
+‘Thai sall fer mar be avise,
+‘And weill mar for to dreid, then thai
+‘War set sumdele out off aray.
+‘Thairfor yhe may, schir, say thaim till,‘That thai may this nycht, and thai will, 275
+‘Gang herbery thaim and slep and rest;
+‘And at to morn, but langar frest,
+‘Yhe sall isch furth to the bataill,
+‘And fecht with thaim bot gyf thai faile.
+‘Sa till thar herbery wend sall thai, 280
+‘And sum sall wend to the forray;
+‘And thai that duellis at the logyng,
+‘Sen thai come owt off travelling,
+‘Sall in schort tyme unarmyt be.
+‘Then on our best maner may we, 285
+‘With all our fayr chevalry,
+‘Ryd towart thaim rycht hardyly;
+‘And thai that wenys to rest all nycht
+‘Quhen thai se us arayit to fycht,
+‘Cummand on thaim sa sudanly, 290
+‘Thai sall affrayit be gretumly.
+‘And or thai cummyn in bataill be,
+‘We sall speid us swagat that we
+‘Sall be all redy till assembill.
+‘Sum man for erynes will trymbill, 295
+‘Quhen he assayit is sodanly,
+‘That with avisement is douchty.’
+
+[*243-245: H has_Als was good Cristall of Setoun,
+And Robert Boyde of great renoun,
+And other feill men of meekle might._
+
+These lines are from H, and are not in E. See note.]
+
+[255: H gives <i>While that</i> and S adopts.]
+
+[256: E omits <i>then</i> in H.]
+
+[265: E <i>Till thai</i>.]
+
+[280, 281: E <i>went</i>; <i>wend</i> is from H.]
+
+[292: For <i>cummyn</i> S reads <i>knit</i> from H.]
+
+The Lodging of King Robert in the Park of Methven.
+
+[Sidenote: JUNE 26, 1306] <i>The Scots are Surprised</i>]
+
+As he avisyt now have thai done;
+And till thaim utouth send thai sone,
+And bad thaim herbery thaim that nycht, 300
+And on the morn cum to the fycht.
+Quhen thai saw thai mycht no mar,
+Towart Meffayn then gan thai far;And in the woud thaim logyt thai;
+The thrid part went to the forray; 305
+And the lave sone unarmyt war.
+And skalyt to loge thaim her and thar.
+Schyr Amer then, but mar abaid,
+With all the folk he with him haid,
+Ischyt in-forcely to the fycht; 310
+And raid, in-till a randoun rycht,
+The strawcht way towart Meffen.
+The King, that wes unarmyt then,
+Saw thaim cum swa inforcely;
+Then till his men gan hely cry, 315
+“Till armys swyth, and makys yhow yhar!
+“Her at our hand our fayis ar!”
+And thai did swa in full gret hy;
+And on thair hors lap hastily.
+The King displayit his baner, 320
+Quhen that his folk assemblyt wer;
+And said, “Lordingis, now may yhe se
+“That yhone folk all, throw sutelte,
+“Schapis thaim to do with slycht,
+“That at thai drede to do with mycht. 325
+“Now I persave he that will trew
+“His fa, it sall him sum tyme rew.
+“And nocht-for-thi, thocht thai be fele,“God may rycht weill our werdis dele;
+“For multitud mais na victory, 330
+“As men has red in mony story,
+“That few folk has oft vencusyt ma.
+“Trow we that we sall do rycht sua.
+“Yhe are ilkan wycht and worthy,
+“And full of gret chevalry; 335
+“And wate rycht weill quhat honour is.
+“Wyrk yhe then apon swylk wys,
+“That yhour honour be savyt ay.
+“And a thing will I to yow say,
+“That he that dois for his cuntre 340
+“Sall herbryit in-till hevyn be.”
+Quhen this wes said, thai saw cumand
+Thar fayis ridand, ner at the hand,
+Arayit rycht avisely,
+Willful to do chevalry. 345
+
+[340: S <i>deis</i> for “an obvious error”; but see note.]
+
+The Battle of Methven and the First Discomfiture of
+King Robert.
+
+[Sidenote: JUNE 26, 1306] <i>The Scots give way</i>]On athir syd thus war thai yhar,
+And till assemble all redy war.
+Thai straucht their speris, on athir syd,
+And swa ruydly gan samyn ryd,
+That speris all to-fruschyt war, 350
+And feyle men dede, and woundyt sar;
+The blud owt at their byrnys brest.
+For the best and the worthiest,
+That wilfull war to wyn honour,
+Plungyt in the stalwart stour, 355
+And rowtis ruyd about thaim dang.
+Men mycht haiff seyn in-to that thrang
+Knychtis that wycht and hardy war,
+Undyr hors feyt defoulyt thar,
+Sum woundyt, and sum all ded: 360
+The gress woux off the blud all rede.
+And thai, that held on hors, in hy
+Swappyt owt swerdis sturdyly;
+And swa fell strakys gave and tuk,
+That all the renk about thaim quouk. 365
+The Bruysis folk full hardely
+Schawyt thair gret chevalry:
+And he him-selff, atour the lave,
+Sa hard and hevy dyntis gave,
+That quhar he come thai maid him way. 370His folk thaim put in hard assay,
+To stynt thar fais mekill mycht,
+That then so fayr had off the fycht,
+That thai wan feild ay mar and mar:
+The Kingis small folk ner vencusyt ar. 375
+And quhen the King his folk has sene
+Begyn to faile, for propyr tene
+Hys assenyhe gan he cry;
+And in the stour sa hardyly
+He ruschyt, that all the semble schuk; 380
+He all till-hewyt that he our-tuk;
+And dang on thaim quhill he mycht drey.
+And till his folk he criyt hey;
+“On thaim! On thaim! Thai feble fast!
+“This bargane nevir may langar last!” 385
+And with that word sa wilfully
+He dang on, and sa hardely,
+That quha had sene him in that fycht
+Suld hald him for a douchty knycht.
+Bot thocht he wes stout and hardy, 390
+And othir als off his cumpany,
+Thar mycht na worschip thar availyhe;
+For thar small folk begouth to failyhe,
+And fled all skalyt her and thar.
+Bot the gude, at enchaufyt war 395Off ire, abade and held the stour
+To conquyr thaim endles honour.
+
+[Sidenote: 1306] <i>Fate of the Prisoners</i>]
+
+  And quhen Schyr Amer has sene
+The small folk fle all bedene,
+And sa few abid to fycht, 400
+He releyt to him mony a knycht;
+And in the stour sa hardyly,
+He ruschyt with hys chevalry,
+That he ruschyt his fayis ilkane.
+Schir Thomas Randell thar wes tane, 405
+That then wes a yhoung bacheler;
+And Schyr Alexander Fraseyr,
+And Schyr David the Breklay,
+Inchmertyne, and Hew de le Hay,
+And Somerveil, and othir ma; 410
+And the King him-selff alsua
+Wes set in-till full hard assay,
+Throw Schyr Philip the Mowbray,
+That raid till him full hardyly,
+And hynt hys rengyhe, and syne gan cry; 415
+“Help! help! I have the new maid king!”
+With that come gyrdand, in a lyng,
+Crystall of Seytoun, quhen he swa

@@ -1,0 +1,1295 @@
+HOLB1	43660	0	0	80	432	2
+1	Preface To The Second Edition.
+3	Introduction.
+Transcriber's note: A few obvious typographical errors have been corrected: they are listed at the end of the text.
+
+In this edition line numbers are displayed on every tenth line--in the printed work they were synchronised to the pagination, with sometimes only one number per page. Lines marked = were printed AND COUNTED as two lines.
+
+Text enclosed by underscores is in italics (<i>italics</i>). In the main text of The Vision, the numbers of the original pages are enclosed in curly brackets to facilitate the use of the glossary.
+
+* * * * *
+
+Library of Old Authors.
+
+THE VISION AND CREED
+
+OF
+
+PIERS PLOUGHMAN.
+
+EDITED,
+FROM A CONTEMPORARY MANUSCRIPT,
+WITH A HISTORICAL INTRODUCTION,
+NOTES, AND A GLOSSARY,BY THOMAS WRIGHT, M.A. F.S.A. &c.
+
+Corresponding Member of the Imperial Institute of France, Académie des Inscriptions et Belles-Lettres.
+
+IN TWO VOLUMES.
+
+VOL. I.
+
+<i>SECOND AND REVISED EDITION.</i>
+
+LONDON:
+REEVES AND TURNER, 196 STRAND.
+1887.
+
+<b>PREFACE TO THE SECOND EDITION.</b>
+
+It is now thirteen years since the first edition of the following text of this important poem was published by the late Mr. Pickering, during which time the study of our old literature and history has undergone considerable development, and it is believed that a reprint at a more moderate price would be acceptable to the public. Holding still the same opinion which he has always held with regard to the superior character of the manuscript from which this text was taken, the editor has done no more than carefully reprint it, but, in order to make it as useful as he could, he has revised and made additions to both the Notes and the Glossary.The remarkable poem of The Vision of Piers Ploughman is not only so interesting a monument of the English language and literature, but it is also so important an illustration of the political history of our country during the fourteenth century, that it deserves to be read far more generally than it has been, and the editor will rejoice sincerely if he should have contributed by this new edition to render it more popular, and place it within the reach of a greater number of readers. Independent of its historical and literary importance, it contains many beauties which will fully repay the slight labour required to master its partially obsolete language, and, as one of the purest works in the English tongue as it existed during the century in which it was composed, it is to be hoped that, when the time shall at length arrive when English antiquities and English philology and literary history are at length to be made a part of the studies in our universities and in the higher classes of our schools, the work of the Monk of Malvern, as a link between the poetry and language of the Anglo-Saxon and those of modern England, will be made a prominent text-book.
+
+THOMAS WRIGHT.
+
+14, SYDNEY STREET, BROMPTON,
+        <i>Nov. 1855</i>.<b>INTRODUCTION.</b>
+
+The History of the Middle Ages in England, as in other countries, represents to us a series of great consecutive political movements, coexistent with a similar series of intellectual revolutions in the mass of the people. The vast mental development caused by the universities in the twelfth century led the way for the struggle to obtain religious and political liberty in the thirteenth. The numerous political songs of that period which have escaped the hand of time, and above all the mass of satirical ballads against the Church of Rome, which commonly go under the name of Walter Mapes, are remarkable monuments of the intellectual history of our forefathers. Those ballads are written in Latin; for it was the most learned class of the community which made the first great stand against the encroachments and corruptions of the papacy and the increasing influence of the monks. We know that the struggle alluded to was historically unsuccessful. The baronial wars ended in the entire destruction of the popular leaders; but their cause did not expire at Evesham; they had laid foundations which no storm could overthrow, not placed hastily on the uncertain surface of popular favour, but fixed deeply in the public mind. The barons, who had fought so often and so staunchly for the great charter, had lost their power; even the learning of the universities had faded under the withering grasp of monachism; but the remembrance of the old contest remained, and what was more, its literature was left, the songs which had spread abroad the principles for which, or against which, Englishmen had fought, carried them down (a precious legacy) to their posterity. Society itself had undergone an important change; it was no longer a feudal aristocracy which held the destinies of the country in its iron hand.The plant which had been cut off took root again in another (a healthier) soil; and the intelligence which had lost its force in the higher ranks of society began to spread itself among the commons. Even in the thirteenth century, before the close of the baronial wars, the complaints so vigorously expressed in the Latin songs, had begun, both in England and France, to appear in the language of the people. Many of the satirical poems of Rutebeuf and other contemporary writers against the monks, are little more than translations of the Latin poems which go under the name of Walter Mapes.
+
+During the successive reigns of the first three Edwards, the public mind in England was in a state of constant fermentation. On the one hand, the monks, supported by the popish church, had become an incubus upon the country. Their corruptness and immorality were notorious: the description of their vices given in the satirical writings of the thirteenth and fourteenth centuries exceeds even the bitterest calumnies of the age of Rabelais or the reports of the commissioners of Henry the Eighth.[1] The populace, held in awe by the imposing appearance of the popish church, and by the religious belief which had been instilled into them from their infancy, were opposed to the monks and clergy by a multitude of personal griefs and jealousies: these frequently led to open hostility, and in the chronicles of those days we read of the slaughter of monks, and the burning of abbeys, by the insurgent towns-people or peasantry.At the same time, while the monks in revenge treated the commons with contempt, there were numerous people who, under the name of Lollards and other such appellations,--led sometimes by the love of mischief and disorder, but more frequently by religious enthusiasm,--whose doctrines were simple and reasonable (although the church would fain have branded them all with the title of heretics),--went abroad among the people preaching not only against the corruptions of the monks, but against the most vital doctrines of the church of Rome, and, as might be expected, they found abundance of listeners. On the other hand, a new political system, and the embarrassments of a continued series of foreign wars, were adding to the general ferment. Instead of merely calling together the great feudal barons to lead their retainers to battle, the king was now obliged to appeal more directly to the people; and at the same time the latter began to feel the weight of taxation, and consequently they began to talk of the defects and the corruptions of the government, and to raise the cries, which have since so often been heard, against the king's "evil advisers." These cries were justified by many real and great oppressions under which the commons, and more particularly the peasantry, suffered; and (as the king and aristocracy were too much interested in the continuance of the abuses complained of to be easily induced to agree to an effective remedy), the commons began to feel that their own interests were equally opposed to those of the church, of the aristocracy, and of the crown, and amidst the other popular doctrines none were more loudly or more violently espoused than those of levellers and democrats. These, though comparatively few, aggravated the evil, by affording a pretence for persecution.The history of England during the fourteenth century is a stirring picture; its dark side is the increasing corruption of the popish church; its bright side, the general spread of popular intelligence, and the firm stand made by the commons in the defence of their liberties, and in the determination to obtain a redress of grievances.
+
+Under these circumstances appeared PIERS PLOUGHMAN. It is not to be supposed that all the other classes of society were hostile to the commons. The people, with the characteristic attachment of the Anglo-Saxons to the family of their princes, wished to believe that their king was always their friend, when not actuated by the counsels of his "evil advisers;"[2] several of the most powerful barons stood forward as the champions of popular liberty; and many of the monks quitted their monasteries to advocate the cause of the reformation. It appears to be generally agreed that a monk was the author of the poem of Piers Ploughman; but the question, one perhaps but of secondary importance, as to its true writer, is involved in much obscurity.[3] Several local allusions and other circumstances seem to prove that it was composed on the borders of Wales, where had originated most of the great political struggles, and we can hardly doubt that its author resided in the neighbourhood of "Malverne hilles." We have less difficulty in ascertaining its date. At ll. 1735-1782, we have, without doubt, an allusion to the treaty of Bretigny, in 1360, and to the events which preceded it: in the earlier part of this passage there is an allusion to the sufferings of the English army in the previous winter campaign, to the retreat which followed, and the want of provisions which accompanied it, and to the tempest which they encountered near Chartres (the "dym cloude" of the poem). The "pestilences" mentioned at l.2497 were the great plague which happened in 1348-9 (and which had previously been alluded to in the opening of the poem, l. 168), and that of 1361-2,--the first two of the three great pestilences which devastated our island in the fourteenth century. The south-western wind, mentioned in l. 2500, occurred on the fifteenth day of January 1362. It is probable that the poem of Piers Ploughman was composed in the latter part of this year, when the effects of the great wind were fresh in people's memory, and when the treaty of Bretigny had become a subject of popular discontent.[4]
+
+The poem was given to the world under a name which could not fail to draw the attention of the people. Amid the oppressive injustice of the great and the vices of their idle retainers, the corruptions of the clergy, and the dishonesty which too frequently characterised the dealings of merchants and traders, the simple unsophisticated heart of the ploughman is held forth as the dwelling of virtue and truth. It was the ploughman, and not the pope with his proud hierarchy, who represented on earth the Saviour who had descended into this world as the son of the carpenter, who had lived a life of humility, who had wandered on foot or ridden on an ass. "While God wandered on earth," says one of the political songs of the beginning of the fourteenth century,[5] "what was the reason that he would not ride?" The answer expresses the whole force of the popular sentiment of the age: "because he would not have a retinue of greedy attendants by his side, in the shape of grooms and servants, to insult and oppress the peasantry."At the period when this poem was first published, England, in common with the rest of Europe, had been struck with a succession of calamities. Little more than twelve years had passed since a terrible pestilence had swept away perhaps not less than one-half of the population.[6] The lower classes, ill fed and neglected, perished by thousands, while the higher ranks--the proud and pampered nobility--escaped; "he who was ill nourished with unsubstantial food," says a contemporary writer, "fell before the slightest breath of the destroyer; to the poor, death was welcome, for life is to them more cruel than death. But death respected princes, nobles, knights, judges, gentlemen; of these few die, because their life is one of enjoyment."[7] It was the general belief that this fearful visitation had been sent by God as a punishment for the sins which had more particularly characterised the higher orders of society; yet instead of profiting by the warning, they became, during the years which followed, prouder, more cruel and oppressive, and more licentious, than before. Another pestilence came, which visited the classes that had before escaped, and at the same time a tempest such as had seldom been witnessed seemed to announce the vengeance of heaven. The streets and roads were filled with zealots who preached and prophesied of other misfortunes, to people who had scarcely recovered from the terror of those which were past. At this moment the satirist stepped forth, and laid open with unsparing knife the sins and corruptions which provoked them.From what has been said, it will be seen that the Latin poems attributed to Walter Mapes, and the Collection of Political Songs, form an introduction to the Vision of Piers Ploughman. It seems clear that the writer was well acquainted with the former, and that he not unfrequently imitates them. The Poem on the Evil Times of Edward II. already alluded to (in the Political Songs) contains within a small compass all his chief points of accusation against the different orders of society. But a new mode of composition had been brought into fashion since the appearance of the famous "Roman de la Rose," and the author makes his attacks less directly, under an allegorical clothing. The condition of society is revealed to the writer in a dream, as in the singular poem just mentioned, and as in the still older satire, the <i>Apocalypsis Goliæ</i>; but in Piers Ploughman the allegory follows no systematic plot, it is rather a succession of pictures in which the allegorical painting sometimes disappears altogether, than a whole like the Roman de la Rose, and it is on that account less tedious to the modern reader, while the vigorous descriptions, the picturesque ideas, and numerous other beauties of different kinds, cause us to lose sight of the general defects of this class of writings.
+
+Piers Ploughman is, in fact, rather a succession of dreams, than one simple vision. The dreamer, weary of the world, falls asleep beside a stream amid the beautiful scenery of Malvern Hills. In his vision, the people of the world are represented to him by a vast multitude assembled in a fair meadow; on one side stands the tower of Truth, elevated on a mountain, the right aim of man's pilgrimage, while on the other side is the dungeon of Care, the dwelling place of Wrong.In the first sections (<i>passus</i>) of the poem are pictured the origin of society, the foundation and dignity of kingly power, and the separation into different classes and orders. In the midst of his astonishment at what he sees, a fair lady, the personification of "holy church," approaches, to instruct the dreamer. She explains to him the meaning of the different objects which had presented themselves to his view, and shows by exhortations and examples the merit of content and moderation, the danger of disobedience (exemplified in the story of Lucifer's fall), and the efficacy of love and charity. In the midst of his conversation with his instructor, a lady makes her appearance on the scene. This is lady Mede, the personification of that mistaken object at which so large a portion of mankind direct their aim--the origin of most of the corruptions and evil deeds in the world--not the just remuneration of our actions which we look forward to in a future life, but the reward which is sought by those who set all their hopes on the present. Holy Church now quits the dreamer, who is left to observe what is taking place amid the crowd in the field. (<i>Passus II.</i>) They all pay their court to lady Mede, who, by the intermediation of Cyvyle, or the law, is betrothed in marriage to Falsehood. The marriage is forbidden by Theology, and Cyvyle agrees to carry the cause to London for judgment, contrary to the desire of Simony. Falsehood and Flattery bribe the lawyers to aid the former in his suit, but their designs are baffled by Conscience, at whose suggestion the king takes the lady into his own custody, and drives away Falsehood and his greedy followers. Mede soon finds favour at court (<i>Passus III.</i>), and especially with the friars, who are ready to absolve her of all her sins for a proper consideration.The king proposes to marry her to Conscience; who, however, declines the match, and as a reason for his refusal gives a very unfavourable picture of the lady's previous life and private character. Mede defends herself, and accuses Conscience of thwarting and opposing the will and designs of kings and great people. The dispute becoming hot, the king interferes and orders Mede and Conscience to be reconciled and kiss each other. (<i>Passus IV.</i>) This Conscience refuses to do, unless by the advice of Reason; on whose arrival, Peace comes into the parliament to make his complaint against the cruel oppressions of Wrong. Wrong is condemned, but Mede and the lawyers attempt to get him off with the payment of a sum of money. The king, however, allows himself to be guided by Reason and Conscience, expresses his dissatisfaction that law is influenced by Mede, and his determination to govern his realm by the counsel of Reason.
+
+In a second vision (<i>Passus V.</i>), the dreamer is again carried to the "field full of folk," where Reason has taken upon himself the character of a preacher, and, fortified with the king's authority, induces the various classes of sinners to confess and repent. The personification of the different sins forms perhaps the most remarkable part of the whole poem. The multitude being thus converted from their evil courses, are persuaded by Repentance and Hope to set out on a pilgrimage in search of Truth. In their ignorance of the path which they must follow in this search, they apply to a palmer who had wandered over a large portion of the world in search of different saints; but they find him as little acquainted with the way as themselves. They are helped out of this dilemma by Piers the Ploughman, who, seeing them terrified by the difficulties of the road, offers to be their guide, if they will wait till he has sown his half acre.(<i>Passus VI.</i>) In the mean time all the pilgrims who have strength and skill, are employed on some useful works, except the knight, who undertakes, in return for the support which he is to derive from the ploughman's labours, to watch and protect him against plunderers and foreign enemies. The peace of the labourers is first disturbed by Waster, who refuses to perform the conditions by which the others are bound: the aid of the knight being found inefficient against this turbulent gentleman, the Ploughman is obliged to send for Hunger, who effectually humbles him. This section of the poem is a continued allusion to the effects of the famine and pestilence, and a satire upon the luxurious and extravagant life of our forefathers in the fourteenth century. (<i>Passus VII.</i>) Truth, hearing of the intentions of Piers the Ploughman to leave his labours in order to serve as a guide to the pilgrims in their journey, sends him a messenger, exhorting him to remain at home and continue his labours, and giving him a "pardon" which was to embrace all those who aided him honestly, by their works, and who should carry on their various avocations in purity of heart. The writer here takes occasion to sneer at the "pardons" of the pope, then so much in vogue; a priest questions the legitimacy of Piers' bull of pardon, and the altercation between them becomes so loud that the dreamer awakes. The pardon of Piers Ploughman is granted to those who do good works: the dreamer is lost in the speculation on the question as to what the good works are, and he becomes engaged in a new pilgrimage, in search of a person who has not appeared before,--Do-well.(<i>Passus VIII.</i>) All his inquiries after Do-well are fruitless: even the friars, to whom he addresses himself, give but a confused account; and, weary with wandering about, the dreamer is again overtaken by slumber. Thought now appears to him, and recommends him to Wit, who describes to him the residence of Do-well, Do-better, and Do-best, and enumerates their companions and attendants. (<i>Passus IX.</i>) The Castle of Do-well is an allegorical representation of man (the individual), in which lady Anima (the soul) is placed for safety, and guarded by a keeper named Kynde (nature). With Do-well, the representative of those who live according to truth in honest wedlock, are contrasted the people who live in lust and wickedness, the descendants of the murderer Cain, who was begotten by Adam in an evil hour. (<i>Passus X.</i>) Wit has a wife named lady Study, who is angry that her spouse should lay open his high truths to those who are uninitiated--it is no better than "throwing pearls to swine, which would rather have hawes." Wit is daunted by his wife's long lecture, and leaves the dreamer to pursue his own suit. This he does with so much meekness and humility, that the wrath of dame Study is appeased, and she sends him to Clergy, with a token of recommendation from herself. Clergy receives the pilgrim, and entertains him with a long declamation on the character of Do-well, Do-better, and Do-best, and on the corruptions of the church and the monkish orders, in the course of which is uttered the remarkable prophecy of the king who was to "confess and beat" the monks, and give them an "incurable knock," which was after less than two centuries so exactly fulfilled in the dissolution of the monasteries. The wanderer confesses himself "little the wiser" for Clergy's lecture, and by his pertness of reply merits a reproof from Scripture.(<i>Passus XI.</i>) In another vision the dreamer is exposed to the seductions of Fortune, whose two fair damsels, Concupiscentia-carnis and Covetousness-of-the-Eyes, persuade him to enjoy the present moment, and lead him entirely from his previous pursuit. He is only recalled from his error by the approach of Old Age, and then he falls into the contemplation of a series of subjects, the covetousness of the friars who gave absolution from motives of personal interest, predestination, &c. Then Kynde, or Nature, came and carried him to a mountain, which represented the world, and there showed him how all other animals but man followed Reason; and Imaginative came after, and told him that all his present doubt and anxiety had been brought upon him for contending with Reason and suffering himself to be led astray by Fortune. (<i>Passus XII.</i>) The whole of the next section of the poem is occupied with a long exhortation by Imaginative, concerning God's chastisements, the merits of Charity and Mercy, the greater responsibility before God of those who are learned and cannot sin ignorantly, the difficulty for the rich man to enter heaven.
+
+(<i>Passus XIII.</i>) In another vision, Conscience meets with the dreamer, and takes him to dine with Clergy. Patience comes to the feast in beggar's weeds, but is seated in the most honourable place at the table. A doctor of the church is of the party, and distinguishes himself by his gluttony; and by discussing theological questions after dinner. At length Conscience and Patience go on a pilgrimage. In their way they meet with a minstrel, named Activa Vita, or Haukyn the Active-man, with a coat covered with spots of dirt, whom they question on his mode of life.(<i>Passus XIV.</i>) Haukyn the Active-man, the representative of that class of people who neglect their souls for their worldly affairs, excuses the dirtiness of his apparel on the ground that he has none to change, and that he has too many occupations to allow him time to have it cleaned. Conscience and Patience teach him a method to clean his coat, inform him where charity is to be found, and recommend patient poverty to him, showing him the advantage of poverty over riches. Haukyn's repentance and lamentation for the neglect of his duties awake the dreamer.
+
+(<i>Passus XV.</i>) Amid his anxiety to know something more certain of Do-well, the dreamer has another vision, in which Soul appears to him, and enters into a long relation of the corruptions and negligence of the clergy. (<i>Passus XVI.</i>) Soul finally sends him to Piers the Ploughman, who possesses the garden in which the tree of Charity grows, and which is rented under him by Free-will. Piers explains to him the nature of the tree, and of the props which support it; and shakes down some of the fruit for him. The allegory then changes, and we are introduced to the birth and passion of the Saviour, as arising out of the fruit of Charity. At this moment the dreamer awakes, and therewith loses sight of Piers the Ploughman; in his anxiety to find Piers, he meets with Faith, in the garb of Abraham, who was in search of God, now incarnate, and who waited for his passion in order to be delivered from hell. (<i>Passus XVII.</i>) Then comes Spes, or Hope, who also was in search of the knight that was to vanquish the evil one.As they go along the way towards Jerusalem to the "justes," discoursing on the obligations of the old and new law and the abrogation of the former, they meet with a man who had been left helpless by thieves, wounded and naked: Faith and Hope passed by without helping him, but the Samaritan, who was also riding to the "justes," descended from his horse, bound his wounds, and deposited him in an inn at the grange named <i>Lex Christi</i>. The Samaritan gives the dreamer a singular explanation of the mysteries of the Trinity; and, after having represented to him the heinousness of sins against the different persons, and the necessity of making reparation, he pursues his way to Jerusalem.
+
+(<i>Passus XVIII.</i>) The vision which forms the eighteenth section or <i>passus</i>, and in which the character of Piers the Ploughman is identified with that of the Saviour, is entirely occupied with an allegorical description of Christ's Passion, and his descent into Hell. (<i>Passus XIX.</i>) In the next section the history of Christ's passion and victory, and his figurative representative Piers the Ploughman, is continued. Grace, through Piers the Ploughman, descends upon the people, and lays the foundation of the Church, which is cultivated by Piers with his four oxen (the four Evangelists). Piers is attacked by Pride, who gathers a great host to assail the Church. Conscience advises the people who follow Piers (the Church), to take shelter in the stronghold of Unity, and make preparations for their defence. By the counsel of Kind-wit and Conscience they dig a great ditch around Unity.The measures of Surety are embarrassed by the unreasonable opposition of some members or parts of the community, who oppose Pier's doctrine of restitution--the brewer will not repent of the tricks which he puts on his customers, the vicar adheres to his simony, the lord will continue to oppress his tenants, and the king will not be restrained by his laws. (__Passus XX.__) In the last section of the poem, the dreamer, after having been accosted by Need, who preaches on the virtues of temperance, has a vision of Antichrist, who comes to attack the Castle of Unity. It must be remembered that at this period many people supposed that Antichrist was already on the earth, and that he was the cause of all the evils with which mankind was then visited, so that this last notion brought the allegory home to people's feelings. The standard-bearer of Antichrist was Pride. Conscience called Kynde, or Nature, to his aid, who brought an army of diseases and pestilences. Death, one of his chief soldiers, made terrible havoc. At length Kynde ceased his ravages; and a horde of enemies immediately arose against Conscience, such as Fortune, Lechery, Covetousness, Simony. Life, with his mistress Fortune, indulged in all kinds of excess, until he was visited by Age and Despair, who treated him very roughly. The dreamer, forsaken by Fortune, and participating in the misfortunes of Life, by the advice of Kynde takes shelter with Conscience in the castle of Unity, which is threatened by an army of priests and monks. At length this stronghold is endangered by the entrance of Flattery, who is admitted in the disguise of a Physician. Conscience, unable to retain possession, embarks upon another pilgrimage in search of Piers the Ploughman, and the dreamer awakes. This is the conclusion of the poem.Whitaker thought that it should have had a more consoling end; but it must be remembered that the writer of Piers Ploughman designed to paint the world as it was, and to describe the numerous obstacles which lay in the way of the improvement and amelioration of mankind when he wrote.
+
+While one member of the monastic order was thus contributing by his satirical pen towards producing a reform among his countrymen, another monk was beginning to preach in a still bolder manner against the popish system. This was John Wycliffe, under whom the despised lollards became an important sect. This attempt at religious reformation only formed part of the great movement of the fourteenth century, which soon afterwards broke out in the popular commotions of the reign of Richard II. The writer of Piers Ploughman was neither a sower of sedition, nor one who would be characterised by his contemporaries as a heretic. The doctrines inculcated throughout the book are so far from democratic, that he constantly preaches the Christian doctrine of obedience to rulers. Yet its tendency to debase the great, and to raise the commons in public consideration, must have rendered it popular among the latter: and, although no single important doctrine of the popish religion is attacked, yet the unsparing manner in which the vices and corruptions of the church are laid open, must have helped in no small degree the cause of the Reformation. Of the ancient popularity of Piers Ploughman we have a proof in the great number of copies which still exist, most of them written in the latter part of the fourteenth century; and the circumstance that the manuscripts are seldom executed in a superior style of writing, and scarcely ever ornamented with painted initial letters, may perhaps be taken as a proof that they were not written for the higher classes of society.From the time when it was published, the name of Piers Ploughman became a favourite among the popular reformers.[8] The earliest instance of the adoption of that name for another satirical work is found in the Creed of Piers Ploughman, printed also in the present volume, and in which even the form of verse of the Vision is imitated.
+
+In this latter poem, which was undoubtedly written by a Wycliffite, Piers Ploughman is no longer an allegorical personage--he is the simple representative of the peasant rising up to judge and act for himself--the English <i>sans-culotte</i> of the fourteenth century, if we may be allowed the comparison. When it was written, a period of great excitement had passed since the age of Langlande, the reputed author of the Vision--a period characterised by the turbulence of the peasantry--which had witnessed in France the fearful insurrection of the <i>Jacquerie</i>, and in England the rebellion of Wat Tyler and Jack Straw.[9]
+
+In Piers Ploughman's Creed it is the church simply, and not the state, which is the object of attack. The clergy--and more particularly the monks--are accused of having falsified religion, and of being actuated solely by worldly passions--pride, covetousness, self-love. The writer, placing himself in the position of one who has just learnt the first grounds of religious knowledge, is anxious to find a person capable of instructing him in his creed, and with this object he addresses himself to the different orders of friars. He applies first to the Minorites, who abuse the Carmelites, and pride themselves in their own holiness.Disgusted with their jealousies and self-sufficiency, the inquirer seeks the Preachers, or Dominicans; amid their stately buildings, and under their sleek and well filled skins, he finds the same want of Christian charity: their pride drives him to the order of St. Austin. The Austin Friars, as well as the Carmelites, will only instruct him for money, and, shocked at their covetousness, he continues his wanderings, until at last he meets with a poor Ploughman, in whom he finds the charity and knowledge after which he has been seeking. The Ploughman enters into a bitter attack on the vices of all the four orders of friars: he describes their spirit of persecution, exemplified in the case of Wycliffe and others, and their simony; speaks of Wycliffe and Walter Brute as preachers of the truth; and finishes by teaching the inquirer his simple creed.
+
+The Creed of Piers Ploughman was written by one who approved the opinions of Wycliffe, and it seems to have been carefully proscribed. There does not appear to exist any manuscript older than the first printed edition.
+
+The great popularity of the Vision of Piers Ploughman in the fourteenth century, and its political influence, are proved by another close imitation, which was composed immediately after the capture, and previous to the deposition, of king Richard II. This poem also appears to have been proscribed, and we have only a fragment left, which was printed from an unique manuscript for the Camden Society. It also is composed in alliterative verse, and its meaning is rendered obscure by a confused allegorical style.It was evidently written towards the Welsh Border, perhaps at Bristol, which is mentioned in the opening lines; and it appears to have been intended as a continuation of, or as a sequel to, Piers Ploughman, which it immediately follows in the only manuscript in which it is preserved.
+
+Another early poem, of which the Ploughman is the hero, was inserted in the works of Chaucer under the title of the Ploughman's Tale. This, like the Creed, is free from allegory; and it differs from the others also in being written in rhyme, and not in alliterative verse. The Ploughman's Tale was probably written in the earlier half of the fifteenth century.[10] It is a coarse attack on the different orders of the clergy, for their pride, covetousness, and other vices. Its versification has little merit; and there appears to be no good reason for inserting it among the Canterbury Tales.
+
+The vision of Piers Ploughman appears to have continued to enjoy a wide popularity down to the middle of the fifteenth century. We hear nothing of it from that period to the middle of the sixteenth, when it was printed by the reformers, and received with so much favour, that no less than three editions, or rather three impressions, are said to have been sold in the course of one year. Another edition was printed at the beginning of the reign of Queen Elizabeth; and it appears to have been much read in the latter part of the sixteenth century, and even at the beginning of the seventeenth. The name of Piers Ploughman is not uncommon in the political tracts of that period.[11]The Poem of Piers Ploughman is peculiarly a national work. It is the most remarkable monument of the public spirit of our forefathers in the middle, or, as they are often termed, dark ages. It is a pure specimen of the English language at a period when it had sustained few of the corruptions which have disfigured it since we have had writers of "Grammars;" and in it we may study with advantage many of the difficulties of the language which these writers have misunderstood. It is, moreover, the finest example left of the kind of versification which was purely English, inasmuch as it had been the only one in use among our Anglo-Saxon progenitors, in common with the other people of the North. To many readers it will be perhaps necessary to explain that rhyming verse was not in use among the Anglo-Saxons. In place of rhyme, they had a system of verse of which the characteristic was a very regular <i>alliteration</i>, so arranged that, in every couplet, there should be two principal words in the first line beginning with the same letter, which letter must also be the initial of the first word on which the stress of the voice falls in the second line. There has, as yet, been discovered no system of foot-measure in Anglo-Saxon verse, but the common metre consists apparently in having two rises and two falls of the voice in each line. These characteristics are accurately preserved in the verse of Piers Ploughman; and the measure appears to be the same, if we make allowance for the change of the slow and impressive pronunciation of the Anglo-Saxon for the quicker pronunciation of Middle English, which therefore required a greater number of syllables to fill up the same space of time.We can trace the history of alliterative verse in England with tolerable certainty. The Anglo-Normans first brought in rhymes, which they employed in their own poetry. The adoption of this new system into the English language was gradual, but it appears to have commenced in the first half of the twelfth century. It was, at first, mixed with alliterative couplets: that is, in the same poem were used sometimes rhyming couplets, which were suddenly changed for alliterative couplets, and then, after awhile, rhyme was again brought in, and so on. Of this kind of poetry we have four very remarkable examples, the <i>Proverbs of King Alfred</i>, a poem which was certainly in existence in the first half of the twelfth century;[12] the <i>Early English Bestiary</i>;[13] the Poem on the <i>Debate between the Body and the Soul</i>;[14] and the grand work of Layamon.[15] The following lines from the Bestiary may serve as a specimen of the manner in which the two systems are intermixed; they form part of the account of the spider:--
+
+"ðanne _r_enneð ge _r_apelike,
+for ge is ai _r_edi,
+_n_imeð anon to ðe _n_et,
+and _n_imeð hem ðere,
+_b_itterlike ge hem _b_it
+and here _b_ane wurðeð,
+_d_repeð and _d_rinkeð hire <i>blod</i>,
+_d_oð ge hire non oðer <i>god</i>,
+bute fret hire <i>fille</i>,
+and dareð siðen <i>stille</i>."
+  . . . . . ."Cethegrande is a <i>fis</i>
+ðe moste ðat in water <i>is</i>;
+ðat tu wuldes seien <i>get</i>,
+gef ðu it soge wan it <i>flet</i>," etc.
+
+This kind of poetry appears to have been common until the middle of the thirteenth century; after which period we only find alliteration in songs, not used in simple alliterative couplets, but mixed up in the same lines with rhyme in an irregular and playful manner.[16] But there appears little room for doubting that during the whole of this time the pure alliterative poetry was in use among the lower classes of society; and its revival towards the middle of the fourteenth century appears to have been a part of the political movement which then took place. In this point of view, the poem of Piers Ploughman becomes still more worthy of attention as a document of contemporary literary history. The old alliterative verse came so much into fashion at this period that it was adopted for the composition of long romances, of which several still remain.[17] The use of this kind of verse was continued in the fifteenth century, and was imitated in Scotland as late as the time of Dunbar, but the later writers were evidently unacquainted with the strict rules of this species of composition.
+
+The Anglo-Saxons, who used this kind of verse only, wrote their poetry invariably as prose. But the scribe was in the habit of indicating the division of the lines by a dot. Among modern scholars a question has arisen as to the propriety of printing the alliterative couplet in two short lines, or in one long one.It appears to me that the mode in which the dot is used in the manuscripts decides the question in favour of the short lines. The manner in which the alliterative couplet is intermixed with the rhyming couplet in the poems of the twelfth and thirteenth centuries (which also are written in the manuscripts in the same form as prose), seems to me a strong confirmation of this opinion; at least in these last-mentioned cases, the verse must have been considered as written in short lines. As the scribes quitted the custom of writing poetry in their manuscripts as prose, with the divisions of lines indicated by dots, to adopt that of arranging them in lines as we do at present, these short lines were found very inconvenient because they were obliged either to waste a great deal of parchment, or to write in several narrow columns. To remedy this, they fell perhaps gradually into the custom of writing the two parts of the alliterative couplet in one line, always, however, marking the division by a dot. They followed the same method with the shorter rhyming lines, as is the case with the old English Metrical Romance of Horn in a manuscript in the Harleian Collection.[18] All the alliterative poetry of the fourteenth and fifteenth centuries is found written in these long lines, with the dot of division in the middle. In the fifteenth century the meaning of this dot appears to have been forgotten, and the system of alliteration so far misunderstood, that the writers thought it only necessary to have <i>at least</i> three alliterative words in a long line, without any consideration of their position in the line. I say <i>at least</i>, because they not unfrequently inserted four or five alliterative words in the same line, which would certainly have been considered a defect in the earlier writers.It is my opinion, that a modern editor is wrong in printing the verses of Piers Ploughman in long lines, as they stand in the manuscripts, unless he profess to give them as a fac-simile of the manuscripts themselves, or he plead the same excuse of convenience from the shape of his book. In either case, he must carefully preserve the dots of separation in the middle of the lines, which are more inconvenient than the length of the lines, because they interfere with the punctuation of the modern editor. If, as appears to be the case, these dots are merely marks to indicate the division of the couplet, their purpose is much better served by printing the lines in couplets. The construction of the earlier Anglo-Saxon verse, the analogy of the mixed rhyming and alliterative verses of the semi-Saxon poems, and the use of these dots in the middle of the lines in the manuscripts of Piers Ploughman, appear to me convincing proofs that it ought to be printed so. I think moreover that the alliterative verse reads much more harmoniously in the short couplets than in the long lines.
+
+The manuscripts of the Vision of Piers Ploughman are extremely numerous both in public and in private collections. There are at least eight in the British Museum: there are ten or twelve in the Cambridge Libraries; and they are not less numerous at Oxford. As might be expected in a popular work like this, the manuscripts are in general full of variations; but there are two classes of manuscripts which give two texts that are widely different from each other, those variations commencing even with the first lines of the poem. One of these texts, which was adopted in the early printed editions, is given in the present volumes; the other text was selected for publication by Dr. Whitaker.The following extract, comprising the first lines of the poem,[19] will show how each text begins, and will enable those who possess manuscripts of Piers Ploughman to ascertain at once to which text they belong:--
+
+TEXT I. TEXT II.
+
+In a somer seson In a somè seyson,
+Whan softe was the sonne, Whan softe was the sonne,
+I shop me into shroudes Y shop into shrobbis
+As I a sheep weere, As y shepherde were.
+In habite as an heremite In abit az an ermite
+Unholy of werkes, Unholy of werkes,
+Wente wide in this world That wente forthe in the worle
+Wonders to here, Wondres to hure,
+Ac on a May morwenynge And sawe meny cellis
+On Malverne hilles And selcouthe thynges.
+Me bifel a ferly, Ac on a May morwenyng
+Of fairye me thoghte. On Malverne hulles
+I was wery for-wandred, Me by-fel for to slepe,
+And wente me to reste For weyrynesse of wandryng,
+Under a broode bank And in a lande as ich lay
+By a bournes syde, Lenede ich and slepte,
+And as I lay and lenede, And merveylously me mette,
+And loked on the watres, As ich may yow telle.
+I slombred into a slepyng, Al the welthe of this worlde,
+It sweyed so murye. And the woo bothe,Thanne gan I meten Wynkyng as it were
+A merveillous swevene, Wyterly ich saw hyt,
+That I was in a wildernesse Of truyth and of tricherye,
+Wiste I nevere where; Of tresoun and of gyle,
+And as I biheld in to the eest Al ich saw slepyng,
+An heigh to the sonne, As ich shal yow telle.
+I seigh a tour on a toft, etc. Esteward ich behulde
+        After the sonne,
+        And sawe a tour as ich trowede, etc.
+
+Besides such variations as appear in the foregoing specimen, there are in the second text many considerable additions, omissions, and transpositions. It would not be easy to account for the existence of two texts differing so much; but it is my impression that the first was the one published by the author, and that the variations were made by some other person, who was perhaps induced by his own political sentiments to modify passages, and was gradually led on to publish a revision of the whole. It is certain that in some parts of Text II. the strong sentiments or expressions of the first text are softened down. We may give as an example of this, the statement of the popular opinion of the origin and purpose of kingly government:--
+
+TEXT I. TEXT II.
+
+Thanne kam ther a kyng, Thanne cam ther a kyng, Knyghthod hym ladde, Knyghtod hym ladde, Might of the communes The meche myghte of the men Made hym to regne. Made hym to regne.And thanne cam kynde wit, And thanne cam a kynde witte, And clerkes he made, And clerkus he made, For to counseillen the kyng, And concience and kynde wit, And the commune save. And knyghthod to-gederes, The kyng and knyghthod, Caste that the comune And clergie bothe, Sholde hure comunes fynde. Casten that the commune Kynde wit and the comune Sholde hem self fynde. Contrevede alle craftes, The commune contreved And for most profitable to the puple, Of kynde wit craftes, A plouh thei gonne make, And for profit of al the peple Wit leil labour to lyve, Plowmen ordeyned, Wyl lyve and londe lasteth. To tilie and to travaille, As trewe lif asketh. The kyng and the commune, And kynde wit the thridde, Shopen lawe and leauté, Ech man to knowe his owene.
+
+Nobody, I think, can deny that in this instance the doctrine is stated far more distinctly and far more boldly in the first text than in the second. In general the first text is the best, whether we look at the mode in which the sentiments are stated, or at the poetry and language.
+
+As far as I have been able to examine the remaining manuscripts of Piers Ploughman, at London and in the Universities, I think that nearly two-thirds of those which remain are of the <i>fourteenth</i> century; and the greater number, particularly of those written in the fourteenth century, present what I have distinguished as the first text, that given in the present volumes. I am by no means inclined to coincide in the reasons which led Dr.Whitaker to prefer the second text; if I were disposed to admit, as barely possible (the supposition is quite a gratuitous one), "that the first edition of this work appeared when its author was a young man, and that he lived and continued in the habit of transcribing to extreme old age" (Pref.), I cannot agree with an editor in adopting a copy which he believes to be "a faithful representation of the work as it came first from the author," and which not only abounds in words and idioms which he afterwards altered, but which contains also "many original passages which the greater maturity of the author's judgment induced him to expunge."
+
+I know only of two manuscripts of the Creed of Piers Ploughman, one in the British Museum (MS. Reg. 18, B. XVII.), the other in the Library of Trinity College, Cambridge, both on paper, and written long after the date of the printed editions, from which they appear to have been copied.
+
+The first printed edition of the Vision was that of Robert Crowley, in 1550; and it was so favourably received, that there is reason for believing that no less than three editions (or rather three impressions[20]) were sold in the course of the year. It is clear that Crowley had obtained an excellent manuscript; the printer has changed the orthography at will, and has evidently altered a word at times, but on the whole this printed text differs very little from the one we now publish.
+
+Three years after the appearance of the Vision, another printer, Reynold Wolfe, published the first edition of the Creed, in the same form as Crowley's edition of the Vision.[21]After the stormy reign of Mary was past, in the beginning of that of Elizabeth, the call for a new edition, and perhaps the destruction of many copies of the old one, led the well-known printer Owen Rogers to reprint the Vision and the Creed together.[22] The impression was probably large, for it is still by no means a rare book. It was evidently much read during the reign of Elizabeth, and is not unfrequently alluded to by the writers of that age.
+
+No other edition of this popular poem appeared, until it was published by Dr. Whitaker, in 1813,[23] from a manuscript then in the possession of Mr. Heber,[24] which contained the second text, written in a rather broad provincial dialect. This edition was printed in black-letter, in a very large and expensive form. In 1814, a reprint of the old edition of the Creed was published in the same form, as a companion to the Vision. It is not generally known that Dr. Whitaker projected an edition of the same text and paraphrase which are given in his 4to edition, in 8vo, with Roman type instead of black-letter. After a few sheets had been composed, the design was abandoned, as it is said, in favour of the larger form. A copy of the proof sheets, formerly belonging to Mr. Haslewood, is now in the possession of Sir Frederick Madden. I am told that a rival edition was also begun, but not persevered in.
+
+An attempt at a modernization, or rather a translation, of Piers Ploughman, was made in the earlier years of the present century, but only a few specimens appear to have been executed. The following lines, which possess some merit (though not very literal or correct), are the modern version the author proposed to give of ll. 2847-2870 of the poem. They were communicated to me by Sir Henry Ellis."Next AVARICE came: but how he look'd, to say,
+ Words do I want that rightly shall portray:
+ Like leathern purse his shrivell'd cheeks did shew,
+ Thick lipp'd, with two blear eyes and beetle brow:
+ In a torn threadbare tabard was he clad,
+ Which twelve whole winters now in wear he had;
+ French scarlet 'twas, its colour well it kept,
+ So smooth that louse upon its surface crept."
+
+It will be necessary, in conclusion, to say a few words on the edition now offered to the public. Without taking into consideration the inaccuracies and imperfections of Whitaker's edition, its inconvenient size and high price made it altogether inaccessible to the general reader; and there appeared to be a wish for one in a more convenient and less expensive form. At the same time it was desired that a good text of a work so important for the history of our language and literature should be selected. Dr. Whitaker was not well qualified for this undertaking; he also laboured under many disadvantages; he had access to only three manuscripts, and those not very good ones; and he has not chosen the best text even of those. Unless he had some reason to believe that the book was originally written in a particular dialect, he ought to have given a preference to that among the oldest manuscripts which presents the purest language; but we cannot allow that manuscript to be chosen on a ground so capricious as "that the orthography and dialect in which it is written approach very near to that semi-Saxon jargon in the midst of which the editor was brought up, and which he continues to hear daily spoken on the confines of Lancashire, and the West Riding of the county of York." (Pref.)This could not have been the language employed by a monk of Malvern.
+
+The present editor has endeavoured, in the leisure moments which he has been able to snatch from other employments, to supply the deficiency as well, and in as unassuming manner, as he could. He has chosen for his text a manuscript belonging to the valuable library of Trinity College, Cambridge (where its shelf-mark is B. 15, 17), because it appears to him to be the best and oldest manuscript now in existence. It is a fine folio manuscript, on vellum, written in a large hand, undoubtedly contemporary with the author of the poem, and in remarkably pure English, with ornamented initial letters. His object has been to give the poem as popular a form as is consistent with philological correctness. He has added a few notes which occurred to him in the course of editing the text, and which he hopes may render the meaning and allusions sometimes clearer to the general reader, for whom more especially they are intended. They might have been enlarged and rendered more complete, if he had been master of sufficient leisure to enable him to undertake extensive researches. But there are allusions, as well as words, in both poems to which it would be difficult at present to give any certain explanation. It has been thought advisable to give in the notes the important variations of the second text, from Dr. Whitaker's edition; and a few readings are added from a second manuscript in Trinity College Library (R. 3, 14). The editor has hoped to add to the utility of the book by a copious glossary. He has been unwillingly obliged to leave a few words without explanation; all our early alliterative poetry abounds in difficult words.In this point he has to acknowledge the kind assistance of Sir Frederick Madden, whom no person equals in profound knowledge of English glossography, and than whom no one is more generous to advise and assist those who are in need of his aid. To Sir Henry Ellis, who kindly lent him his own manuscript notes on Piers Ploughman, the editor also owes his grateful acknowledgments; and he regrets that at the time he received them the notes were already so far printed as to hinder him from making as much use of them as he could have wished.
+
+<i>London, June 1, 1842.</i>
+
+* * * * *
+
+THE VISION OF PIERS PLOUGHMAN
+
+* * * * *
+
+{1}
+
+THE VISION OF
+
+PIERS PLOUGHMAN.
+
+In a somer seson, 1
+Whan softe was the sonne,
+I shoop me into shroudes
+As I a sheep weere,In habite as an heremite
+Unholy of werkes,
+Wente wide in this world
+Wondres to here;
+Ac on a May morwenynge
+On Malverne hilles 10
+Me bifel a ferly,
+Of fairye me thoghte.
+I was wery for-wandred,
+And wente me to reste
+Under a brood bank
+By a bournes syde;
+And as I lay and lenede,
+And loked on the watres,
+I slombred into a slepyng,
+It sweyed so murye. 20
+{2}
+
+  Thanne gan I meten
+A merveillous swevene,
+That I was in a wildernesse,
+Wiste I nevere where,
+And as I biheeld into the eest
+An heigh to the sonne,
+I seigh a tour on a toft
+Trieliche y-maked,A deep dale bynethe,
+A dongeon therinne, 30
+With depe diches and derke
+And dredfulle of sighte.
+A fair feeld ful of folk
+Fond I ther bitwene,
+Of alle manere of men,
+The meene and the riche,
+Werchynge and wandrynge,
+As the world asketh.
+
+  Some putten hem to the plough,
+Pleiden ful selde, 40
+In settynge and sowynge
+Swonken ful harde,
+And wonnen that wastours
+With glotonye destruyeth.
+
+  And somme putten hem to pride,
+Apparailed hem therafter,
+In contenaunce of clothynge
+Comen degised.
+
+  In preires and penaunces
+Putten hem manye, 50
+Al for the love of oure LordLyveden ful streyte,
+In hope to have after
+Hevene riche blisse;
+{3}
+As ancres and heremites
+That holden hem in hire selles,
+And coveiten noght in contree
+To carien aboute,
+For no likerous liflode
+Hire likame to plese. 60
+
+  And somme chosen chaffare;
+Thei cheveden the bettre,
+As it semeth to our sight
+That swiche men thryveth.
+
+  And somme murthes to make,
+As mynstralles konne,
+And geten gold with hire glee,
+Giltles, I leeve.
+
+  Ac japeres and jangeleres,
+Judas children, 70
+Feynen hem fantasies,
+And fooles hem maketh,
+And han hire wit at willeTo werken, if thei wolde.
+That Poul precheth of hem
+I wol nat preve it here;
+But <i>Qui loquitur turpiloquium</i>
+Is Luciferes hyne.
+
+  Bidderes and beggeres
+Faste aboute yede, 80
+With hire belies and hire bagges
+Of breed ful y-crammed;
+Faiteden for hire foode,
+Foughten at the ale.
+In glotonye, God woot,
+Go thei to bedde,
+And risen with ribaudie,
+Tho Roberdes knaves;
+{4}
+Sleep and sory sleuthe
+Seweth hem evere. 90
+
+  Pilgrymes and palmeres
+Plighten hem togidere,
+For to seken seint Jame,
+And seintes at Rome.
+They wenten forth in hire wey,
+With many wise tales,And hadden leve to lyen
+Al hire lif after.
+
+  I seigh somme that seiden
+Thei hadde y-sought seintes; 100
+To ech a tale that thei tolde
+Hire tonge was tempred to lye,
+Moore than to seye sooth,
+It semed bi hire speche.
+
+  Heremytes on an heep
+With hoked staves
+Wenten to Walsyngham,
+And hire wenches after,
+Grete lobies and longe
+That lothe were to swynke; 110
+Clothed hem in copes,
+To ben knowen from othere;
+And shopen hem heremytes,
+Hire ese to have.
+
+  I fond there freres,
+Alle the foure ordres,
+Prechynge the peple
+For profit of hemselve;
+Glosed the gospel,As hem good liked; 120
+For coveitise of copes,
+Construwed it as thei wolde.
+{5}
+Many of thise maistre freres
+Now clothen hem at likyng,
+For hire moneie and hire marchaundize
+Marchen togideres.
+For sith charité hath ben chapman,
+And chief to shryve lordes,
+Manye ferlies han fallen
+In a fewe yeres; 130
+But holy chirche and hii
+Holde bettre togidres,
+The mooste meschief on molde
+Is mountynge wel faste.
+
+  Ther preched a pardoner,
+As he a preest were;
+Broughte forth a bulle
+With many bisshopes seles,
+And seide that hymself myghte
+Assoillen hem alle, 140
+Of falshede, of fastynge,
+Of avowes y-broken.  Lewed men leved it wel,
+And liked hise wordes;
+Comen up knelynge
+To kissen hise bulles.
+He bouched hem with his brevet,
+And blered hire eighen,
+And raughte with his rageman
+Rynges and broches. 150
+
+  Thus thei gyven hire gold
+Glotons to kepe,
+And leveth in swiche losels
+As leccherie haunten.
+
+  Were the bisshope y-blessed,
+And worth bothe hise eris,
+{6}
+His seel sholde noght be sent
+To deceyve the peple.
+Ac it is noght by the bisshope
+That the boy precheth; 160
+For the parisshe preest and the pardoner
+Parten the silver,
+That the poraille of the parisshe
+Sholde have, if thei ne were.  Parsons and parisshe preestes
+Pleyned hem to the bisshope,
+That hire parisshes weren povere
+Sith the pestilence tyme,
+To have a licence and leve
+At London to dwelle, 170
+And syngen ther for symonie;
+For silver is swete.
+
+  Bisshopes and bachelers,
+Bothe maistres and doctours,
+That han cure under Crist,
+And crownynge in tokene
+And signe that thei sholden
+Shryven hire parisshens,
+Prechen and praye for hem,
+And the povere fede, 180
+Liggen at Londone
+In Lenten and ellis.
+
+  Somme serven the kyng,
+And his silver tellen
+In cheker and in chauncelrie,
+Chalangen hise dettes
+Of wardes and of wardemotes,
+Weyves and streyves.  And somme serven as servauntz
+Lordes and ladies, 190
+{7}
+And in stede of stywardes
+Sitten and demen;
+Hire messe and hire matyns
+And many of hire houres
+Arn doon un-devoutliche;
+Drede is at the laste,
+Lest Crist in consistorie
+A-corse ful manye.
+
+  I perceyved of the power
+That Peter hadde to kepe, 200
+To bynden and unbynden,
+As the book telleth;
+How he it lefte with love,
+As oure Lord highte,
+Amonges foure vertues,
+The beste of alle vertues,
+That cardinals ben called,
+And closynge yates.
+There is Crist in his kingdom
+To close and to shette, 210
+And to opene it to hem,
+And hevene blisse shewe.  Ac of the cardinals at court
+That kaughte of that name,
+And power presumed in hem
+A pope to make,
+To han that power that Peter hadde,
+Impugnen I nelle;
+For in love and in lettrure
+The election bilongeth, 220
+For-thi I kan and kan naught
+Of court speke moore.
+
+  Thanne kam ther a kyng,
+Knyghthod hym ladde,
+{8}
+Might of the communes
+Made hym to regne.
+
+  And thanne cam kynde wit,
+And clerkes he made,
+For to counseillen the kyng,
+And the commune save. 230
+
+  The kyng and knyghthod,
+And clergie bothe,
+Casten that the commune
+Sholde hemself fynde.  The commune contreved
+Of kynde wit craftes,
+And for profit of al the peple
+Plowmen ordeyned,
+To tilie and to travaille,
+As trewe lif asketh. 240
+
+  The kyng and the commune,
+And kynde wit the thridde,
+Shopen lawe and leauté,
+Ech man to knowe his owene.
+
+  Thanne loked up a lunatik,
+A leene thyng with-alle,
+And, knelynge to the kyng,
+Clergially he seide:
+
+  "Crist kepe thee, sire kyng!
+And thi kyng-ryche, 250
+And lene thee lede thi lond,
+So leauté thee lovye,
+And for thi rightful rulyng
+Be rewarded in hevene."
+
+  And sithen in the eyr an heigh
+An aungel of heveneLowed to speke in Latyn,
+For lewed men ne koude
+{9}
+Jangle ne jugge,
+That justifie hem sholde, 260
+But suffren and serven;
+For-thi seide the aungel:
+_Sum rex, sum princeps,
+Neutrum fortasse deinceps;
+O qui jura regis
+Christi specialia regis,
+Hoc quod agas melius,
+Justus es, esto pius.
+Nudum jus a te
+Vestiri vult pietate; 270
+Qualia vis metere,
+Talia grana sere.
+Si jus nudatur,
+Nudo de jure metatur;
+Si seritur pietas,
+De pietate metas._
+
+  Thanne greved hym a goliardeis,
+A gloton of wordes,
+And to the aungel an heigh
+Answerde after: 280_Dum rex a regere
+Dicatur nomen habere;
+Nomen habet sine re,
+Nisi studet jura tenere._
+
+  Thanne gan al the commune
+Crye in vers of Latyn,
+To the kynges counseil;
+Construe who so wolde:
+_Præcepta regis
+Sunt nobis vincula legis._ 290
+
+  With that ran ther a route
+Of ratons at ones,
+{10}
+And smale mees myd hem
+Mo than a thousand,
+And comen to a counseil
+For the commune profit;
+For a cat of a contree
+Cam whan hym liked,
+And overleep hem lightliche,
+And laughte hem at his wille, 300
+And pleide with hem perillousli,
+And possed aboute.
+"For doute of diverse dredes,We dar noght wel loke;
+And if we grucche of his gamen,
+He wol greven us alle,
+Cracchen us or clawen us,
+And in hise clouches holde,
+That us lotheth the lif
+Er he late us passe. 310
+Mighte we with any wit
+His wille withstonde,
+We mighte be lordes o-lofte,
+And lyven at oure ese."
+
+  A raton of renoun,
+Moost renable of tonge,
+Seide for a sovereyn
+Help to hymselve:
+
+  "I have y-seyen segges," quod he
+"In the cité of Londone, 320
+Beren beighes ful brighte
+Abouten hire nekkes,
+And somme colers of crafty werk;
+Uncoupled thei wenten
+Bothe in wareyne and in waast
+Where hemself liked.
+{11}And outher while thei arn ellis-where,
+As I here telle;
+Were ther a belle on hire beighe,
+By Jhesu, as me thynketh, 330
+Men myghte witen wher thei wente,
+And awey renne!"
+
+  "And right so," quod that raton,
+"Reson me sheweth,
+To bugge a belle of bras,
+Or of bright silver,
+And knytten it on a coler
+For oure commune profit,
+Wher he ryt or rest,
+Or renneth to pleye; 340
+And if hym list for to laike,
+Thanne loke we mowen,
+And peeren in his presence
+The while him pleye liketh:
+And, if hym wratheth, be war,
+And his way shonye."
+
+  Al this route of ratons
+To this reson thei assented.
+Ac tho the belle was y-brought,
+And on the beighe hanged, 350Ther ne was raton in al the route,
+For al the reaume of Fraunce,
+That dorste have bounden the belle
+About the cattes nekke,
+Ne hangen it aboute the cattes hals,
+Al Engelond to wynne.
+Alle helden hem un-hardy,
+And hir counseil feble;
+And leten hire labour lost
+And al hire longe studie. 360
+{12}
+
+  A mous that muche good
+Kouthe, as me thoughte,
+Strook forth sternely,
+And stood bifore hem alle,
+And to the route of ratons
+Reherced thise wordes:
+
+  "Though we killen the cat,
+Yet sholde ther come another
+To cacchen us and al oure kynde,
+Though we cropen under benches. 370
+For-thi I counseille al the commune
+To late the cat worthe;
+And be we nevere boldeThe belle hym to shewe;
+For I herde my sire seyn,
+Is seven yeer y-passed,
+Ther the cat is a kitone
+The court is ful elenge;
+That witnesseth holy writ,
+Who so wole it rede: 380
+<i>Væ terræ ubi puer rex est! etc.</i>
+For may no renk ther reste have
+For ratons by nyghte;
+The while he caccheth conynges,
+He coveiteth noght youre caroyne,
+But fedeth hym al with venyson:
+Defame we hym nevere.
+For better is a litel los
+Than a long sorwe,
+The maze among us alle, 390
+Theigh we mysse a sherewe;
+For many mennes malt
+We mees wolde destruye,
+And also ye route of ratons
+{13}
+Rende mennes clothes,
+Nere the cat of that court
+That can yow over-lepe;For hadde ye rattes youre wille,
+Ye kouthe noght rule yow selve."
+
+  "I seye for me," quod the mous, 400
+"I se so muchel after,
+Shal nevere the cat ne the kiton
+By my counseil be greved,
+Thorugh carpynge of this coler
+That costed me nevere
+And though it hadde costned me catel,
+Bi-knowen it I nolde,
+But suffren, as hymself wolde,
+To doon as hym liketh,
+Coupled and uncoupled 410
+To cacche what thei mowe.
+For-thi ech a wis wight I warne,
+Wite wel his owene."
+
+  What this metels by-meneth,
+Ye men that ben murye
+Devyne ye, for I ne dar,
+By deere God in hevene.
+
+  Yet hoved ther an hundred
+In howves of selk,
+Sergeantz it bi-semed 420That serveden at the barre,
+Pleteden for penyes
+And poundes the lawe;
+And noght for love of our Lord
+Unclose hire lippes ones.
+Thow myghtest bettre meete myst
+On Malverne hilles,
+Than gete a mom of hire mouth,
+{14}
+Til moneie be shewed.
+
+  Barons and burgeises, 430
+And bonde-men als,
+I seigh in this assemblee,
+As ye shul here after:
+Baksteres and brewesteres,
+And bochiers manye;
+Wollen webbesters,
+And weveres of lynnen,
+Taillours and tynkers,
+And tollers in markettes,
+Masons and mynours, 440
+And many othere craftes.
+Of alle kynne lybbynge laborers
+Lopen forth somme,
+As dikeres and delveres,That doon hire dedes ille,
+And dryveth forth the longe day
+With <i>Dieu save dame Emme</i>.
+
+  Cokes and hire knaves
+Cryden, "Hote pies, hote!
+Goode gees and grys! 450
+Gowe, dyne, gowe!"
+
+  Taverners until hem
+Trewely tolden the same,
+Whit wyn of Oseye,
+And reed wyn of Gascoigne,
+Of the Ryn and of the Rochel,
+The roost to defie.
+[Al this I saugh slepynge,
+And seve sithes more.] 459
+
+* * * * *
+
+{15}
+
+<i>Passus Primus de Visione.</i>
+
+What this mountaigne by-meneth 460
+And the merke dale,And the feld ful of folk,
+I shal yow faire shewe.
+
+  A lovely lady of leere,
+In lynnen y-clothed,
+Cam doun from a castel
+And called me faire,
+And seide, "Sone, slepestow?
+Sestow this peple,
+How bisie thei ben 470
+Alle aboute the maze?
+The mooste partie of this peple
+That passeth on this erthe,
+Have thei worship in this world,
+Thei wilne no bettre;
+Of oother hevene than here
+Holde thei no tale."
+
+  I was a-fered of hire face,
+Theigh she fair weere,
+And seide, "Mercy, madame, 480
+What is this to meene?"
+
+  "The tour on the toft," quod she,
+"Truthe is therinne;
+{16}And wolde that ye wroughte,
+As his word techeth!
+For he is fader of feith,
+And formed yow alle
+Bothe with fel and with face,
+And yaf yow fyve wittes,
+For to worshipe hym therwith, 490
+While that ye ben here.
+And therfore he highte the erthe
+To helpe yow echone,
+Of wollene, of lynnen,
+Of liflode at nede,
+In mesurable manere
+To make yow at ese;
+And comaunded of his curteisie
+In commune three thynges,
+Are none nedfulle but tho, 500
+And nempne hem I thynke,
+And rekene hem by reson;
+Reherce thow hem after.
+
+  "That oon vesture,
+From cold thee to save;
+And mete at meel
+For mysese of thiselve;
+And drynke whan thow driest;Ac do noght out of reson,
+That thow worthe the wers 510
+Whan thow werche sholdest.
+
+  "For Lot in hise lif-dayes,
+For likynge of drynke,
+Dide by hise doughtres
+That the devel liked,
+Delited hym in drynke
+As the devel wolde,
+{17}
+And leccherie hym laughte,
+And lay by hem bothe,
+And al he witte it the wyn 520
+That wikked dede.
+_Inebriamus eum vino, dormiamusque
+    cum eo, ut servare possimus de
+    patre nostro semen._
+Thorugh wyn and thorugh wommen
+Ther was Loth acombred,
+And there gat in glotonie
+Gerles that were cherles.
+
+  "For-thi dred delitable drynke,
+And thow shalt do the bettre. 530
+Mesure is medicine,Though thow muchel yerne.
+It is nought al good to the goost
+That the gut asketh,
+Ne liflode to thi likame;
+For a liere hym techeth,
+That is the wrecched world
+Wolde thee bitraye.
+For the fend and thi flesshe
+Folwen togidere. 540
+This and that seeth thi soule,
+And seith it in thin herte;
+And for thow sholdest ben y-war,
+I wisse thee the beste."
+
+  "Madame, mercy!" quod I,
+"Me liketh wel youre wordes;
+Ac the moneie of this molde
+That men so faste holdeth,
+Tel me to whom, madame,
+That tresour appendeth." 550
+
+  "Go to the gospel," quod she,
+{18}
+"That God seide hymselven;
+Tho the poeple hym apposede
+With a peny in the temple,Wheither thei sholde therwith
+Worshipe the kyng Cesar.
+
+  "And God asked of hym,
+Of whom spak the lettre,
+And the ymage was lik
+That therinne stondeth. 560
+
+  "'Cesares,' thei seiden,
+'We seen it wel echone.'
+
+  "'<i>Reddite Cæsari</i>,' quod God,
+'That <i>Cæsari</i> bifalleth,
+<i>Et quæ sunt Dei Deo</i>,'
+Or ellis ye don ille;
+For rightfully reson
+Sholde rule yow alle,
+And kynde wit be wardeyn
+Youre welthe to kepe, 570
+And tutour of youre tresor,
+And take it yow at nede,
+For housbondrie and hii
+Holden togidres."
+
+  Thanne I frayned hire faire,
+For hym that me made,"That dongeon in the dale,
+That dredful is of sighte,
+What may it be to meene,
+Madame, I yow biseche?" 580
+
+  "That is the castel of Care;
+Who so comth therinne
+May banne that he born was,
+To bodi or to soule.
+Therinne wonyeth a wight
+{19}
+That Wrong is y-hote,
+Fader of falshede,
+And founded it hymselve.
+Adam and Eve
+He egged to ille; 590
+Counseilled Kaym
+To killen his brother;
+Judas he japed
+With Jewen silver,
+And sithen on an eller
+Hanged hymselve.
+He is lettere of love,
+And lieth hem alle
+That trusten on his tresour;
+Bitrayeth he hem sonnest." 600  Thanne hadde I wonder in my wit
+What womman it weere,
+That swiche wise wordes
+Of holy writ shewed;
+And asked hire on the heighe name,
+Er she thennes yede,
+What she were witterly
+That wissed me so faire.
+
+  "Holi chirche I am," quod she,
+"Thow oughtest me to knowe; 610
+I underfeng thee first,
+And the feith taughte;
+And broughtest me borwes
+My biddyng to fulfille,
+And to loven me leelly
+The while thi lif dureth."
+
+  Thanne I courbed on my knees,
+And cried hire of grace;
+And preide hire pitously
+{20}
+Preye for my sinnes, 620
+And also kenne me kyndely
+On Crist to bi-leve,
+That I myghte werchen his willeThat wroghte me to man.
+"Teche me to no tresor,
+But tel me this ilke,
+How I may save my soule,
+That seint art y-holden."
+
+  "Whan alle tresors arn tried," quod she,
+"Treuthe is the beste; 630
+I do it on <i>Deus caritas</i>,
+To deme the sothe,
+It is as dereworthe a drury
+As deere God hymselven.
+
+  "Who is trewe of his tonge,
+And telleth noon oother,
+And dooth the werkes therwith,
+And wilneth no man ille,
+He is a God by the gospel
+A-grounde and o-lofte, 640
+And y-lik to oure Lord,
+By seint Lukes wordes.
+The clerkes that knowen this,
+Sholde kennen it aboute,
+For cristen and un-cristen
+Cleymeth it echone.  "Kynges and knyghtes
+Sholde kepen it by reson,
+Riden and rappen doun
+In reaumes aboute, 650
+And taken <i>transgressores</i>,
+And tyen hem faste,
+Til treuthe hadde y-termyned
+{21}
+Hire trespas to the ende.
+And that is profession apertli
+That apendeth to knyghtes;
+And naught to fasten o friday
+In fyve score wynter,
+But holden with hym and with here
+That wolden alle truthe, 660
+And nevere leve hem for love
+Ne for lacchynge of silver.
+For David in hise dayes
+Dubbed knyghtes,
+And dide hem sweren on hir swerdes
+To serven truthe evere;
+And who so passed that point
+Was apostata in the ordre.
+
+  "But Crist kyngene kyng
+Knyghted ten, 670Cherubyn and seraphyn,
+Swiche sevene and othere
+And yaf hem myght in his majestee,
+The murier hem thoughte,
+And over his meene meynee
+Made hem archangeles;
+Taughte hem by the Trinitee
+Treuthe to knowe;
+To be buxom at his biddyng,
+He bad hem nought ellis. 680
+
+  "Lucifer with legions
+Lerned it in hevene;
+But for he brak buxomnesse
+His blisse gan he tyne,
+And fel fro that felawshipe
+In a fendes liknesse,
+Into a deep derk helle,
+{22}
+To dwelle there for evere;
+And mo thousandes myd hym
+Than man kouthe nombre 690
+Lopen out with Lucifer
+In lothliche forme,
+For thei leveden upon hym
+That lyed in this manere:<i>Ponam pedem in aquilone, et similis ero altissimo.</i> =
+
+  "And alle that hoped it myghte be so,
+Noon hevene myghte hem holde,
+But fellen out in fendes liknesse
+Nyne dayes togideres, 700
+Til God of his goodnesse
+Gan stablisse and stynte,
+And garte the hevene to stekie
+And stonden in quiete.
+
+  "Whan thise wikkede wenten out,
+In wonder wise thei fellen;
+Somme in the eyr, somme in erthe,
+And somme in helle depe;
+Ac Lucifer lowest lith
+Yet of hem alle, 710
+For pride that he putte out,
+His peyne hath noon ende.
+And alle that werchen with wrong,
+Wende thei shulle,
+After hir deth day
+And dwelle with that sherewe.
+
+  "And tho that werche wel,
+As holy writ telleth,And enden as I er seide
+In truthe, that is the beste, 720
+Mowe be siker that hire soules
+{23}
+Shul wende to hevene,
+Ther treuthe is in trinitee,
+And troneth hem alle.
+For-thi I seye, as I seyde er,
+By sighte of thise textes,
+Whan alle tresors arn tried,
+Truthe is the beste;
+Lereth it thise lewed men,
+For lettred men it knoweth, 730
+That treuthe is tresor
+The trieste on erthe."
+
+  "Yet have I no kynde knowyng." quod I,
+"Ye mote kenne me bettre,
+By what craft in my cors
+It comseth, and where."
+
+  "Thow doted daffe," quod she,
+"Dulle are thi wittes;
+To litel Latyn thow lernedest,
+Leode, in thi youthe." 740
+<i>Heu michi! quia sterilem duxi vitam juvenilem.</i> =  "It is a kynde knowyng," quod she,
+"That kenneth in thyn herte,
+For to loven thi Lord
+Levere than thiselve,
+No dedly synne to do,
+Deye theigh thow sholdest;
+This I trowe be truthe.
+Who kan teche thee bettre, 750
+Loke thow suffre hym to seye,
+And sithen lere it after;
+For truthe telleth that love
+Is triacle of hevene.
+May no synne be on hym seene,
+{24}
+That useth that spice,
+And alle hise werkes be wroughte
+With love as hym liste;
+And lered it Moyses for the leveste thyng,
+And moost lik to hevene, 760
+And al so the plentee of pees
+Moost precious of vertues;
+For hevene myghte nat holden it,
+It was so hevy of hymself,
+Til it hadde of the erthe
+Eten his fille.  "And whan it hadde of this fold
+Flesshe and blood taken,
+Was nevere leef upon lynde
+Lighter therafter, 770
+And portatif and persaunt
+As the point of a nedle,
+That myghte noon armure it lette,
+Ne none heighe walles.
+
+  "For-thi is love ledere
+Of the Lordes folk of hevene,
+And a meene, as the mair is
+Bitwene the kyng and the commune;
+Right so is love a ledere,
+And the law shapeth, 780
+Upon man for hise mysdedes
+The mercyment he taxeth.
+And for to knowen it kyndely
+It comseth by myght,
+And in the herte there is the heed
+And the heighe welle;
+For in kynde knowynge in herte,
+Ther a myght bigynneth;
+And that falleth to the fader
+{25}
+That formed us alle, 790Loked on us with love,
+And leet his sone dye
+Mekely for oure mysdedes,
+To amenden us alle.
+And yet wolde he hem no wo
+That wroughte hym that peyne,
+But mekely with mouthe
+Mercy bisoughte,
+To have pité of that peple
+That peyned hym to dethe. 800
+
+  "There myghtow sen ensample
+In hymself oone,
+That he was myghtful and meke,
+And mercy gan graunte
+To hem that hengen hym on heigh
+And his herte thirled.
+
+  "For-thi I rede yow, riche,
+Haveth ruthe of the povere;
+Though ye be myghtful to mote,
+Beeth meke in youre werkes, 810
+For the same mesures that ye mete,
+Amys outher ellis,
+Ye shulle ben weyen therwith
+Whan ye wenden hennes.<i>Eadem mensura qua mensi fueritis, remetietur vobis.</i> =
+
+  "For though ye be trewe of youre tonge
+And treweliche wynne,
+And as chaste as a child
+That in chirche wepeth, 820
+But if ye loven leelly
+And lene the povere,
+Swich good as God yow sent
+{26}
+Goodliche parteth,
+Ye ne have namoore merite
+In masse nor in houres,
+Than Malkyn of hire maydenhede
+That no man desireth.
+
+  "For James the gentile
+Jugged in hise bokes, 830
+That feith withouten the feet
+Is right no thyng worthi,
+And as deed as a dore-tree,
+But if the dedes folwe.
+<i>Fides sine operibus mortua est, etc.</i>
+
+  "For-thi chastité withouten charité
+Worth cheyned in helle;It is as lewed as a lampe
+That no light is inne.
+Manye chapeleyns arn chaste, 840
+Ac charité is aweye;
+Are no men avarouser than hii
+Whan thei ben avaunced,
+Unkynde to hire kyn,
+And to alle cristene
+Chewen hire charité,
+And chiden after moore;
+Swiche chastité withouten charité
+Worth cheyned in helle.
+
+  "Manye curatours kepen hem 850
+Clene of hire bodies;
+Thei ben acombred with coveitise,
+Thei konne noght doon it from hem,
+So harde hath avarice
+Y-hasped hem togideres;
+And that is no truthe of the Trinité,
+But tricherie of helle,
+{27}
+And lernynge to lewed men
+The latter for to deele.
+For-thi thise wordes 860
+Ben writen in the gospel,<i>Date, et dabitur vobis</i>,
+For I deele yow alle,
+And that is the lok of love,
+And leteth out my grace,
+To conforten the carefulle
+A-combred with synne.
+
+  "Love is leche of lif,
+And next oure Lord selve,
+And also the graithe gate 870
+That goth into hevene;
+For-thi I seye, as I seide
+Er by the textes,
+Whan alle tresors ben tried,
+Treuthe is the beste.
+
+  "Now have I told thee what truthe is,
+That no tresor is bettre;
+I may no lenger lenge thee with,
+Now loke thee oure Lorde." 879
+
+* * * * *
+
+{28}
+
+<i>Passus Secundus de Visione, ut supra.</i>Yet I courbed on my knees, 880
+And cried hire of grace,
+And seide, "Mercy, madame,
+For Marie love of hevene,
+That bar that blisful barn
+That boughte us on the rode,
+Kenne me by som craft
+To knowe the false."
+
+  "Loke up on thi left half,
+And lo where he stondeth!
+Bothe Fals and Favel, 890
+And hire feeres manye."
+
+  I loked on my left half,
+As the lady me taughte,
+And was war of a womman
+Worthiliche y-clothed,
+Purfiled with pelure
+The fyneste upon erthe,
+Y-corouned with a coroune,
+The kyng hath noon bettre;
+Fetisliche hire fyngres 900
+Were fretted with gold wyr,
+And theron rede rubies
+As rede as any gleede,{29}
+And diamaundes of derrest pris,
+And double manere saphires,
+Orientals and ewages,
+Envenymes to destroye.
+
+  Hire robe was ful riche,
+Of reed scarlet engreyned,
+With ribanes of reed gold 910
+And of riche stones.
+Hire array me ravysshed,
+Swich richesse saugh I nevere;
+I hadde wonder what she was,
+And whos wif she were.
+
+  "What is this womman," quod I,
+"So worthili atired?"
+
+  "That is Mede the mayde," quod she,
+"Hath noyed me ful ofte,
+And y-lakked my lemman 920
+That Leautee is hoten,
+And bi-lowen hire to lordes
+That lawes han to kepe.  "In the popes paleis
+She is pryvee as myselve;
+But soothnesse wolde noght so,
+For she is a bastarde;
+For fals was hire fader
+That hath a fikel tonge,
+And nevere sooth seide 930
+Sithen he com to erthe;
+And Mede is manered after hym,
+Right as kynde asketh
+_Qualis pater talis filius.
+Bonus arbor bonum fructum facit._
+
+  "I oughte ben hyere than she,
+I kam of a bettre;
+{30}
+My fader the grete God is
+And ground of alle graces,
+So God withouten gynnyng, 940
+And I his goode doughter,
+And hath yeven me mercy
+To marie with myselve,
+And what man be merciful
+And leelly me love,
+Shal be my lord and I his leef
+In the heighe hevene.  "And what man taketh Mede,
+Myn heed dar I legge,
+That he shal lese for hire love 950
+A lappe of <i>caritatis</i>.
+
+  "How construeth David the king
+Of men that taketh Mede,
+And men of this moolde
+That maynteneth truthe,
+And how ye shul save yourself,
+The sauter bereth witnesse:
+<i>Domine, quis habitabit in tabernaculo tuo, etc.</i> =
+
+  "And now worth this Mede y-maried 960
+Unto a mansed sherewe,
+To oon fals fikel tonge,
+A fendes biyete;
+Favel thorugh his faire speche
+Hath this folk enchaunted,
+And al is Lieres ledynge,
+That she is thus y-wedded.
+
+  "To-morwe worth y-maked
+The maydenes bridale,
+And there myghtow witen, if thow wilt, 970
+Whiche thei ben alle{31}
+That longen to that lordshipe,
+The lasse and the moore.
+Knowe hem there, if thow kanst,
+And kepe thow thi tonge,
+And lakke hem noght, but lat hem worthe
+Till leauté be justice,
+And have power to punysshe hem,
+Thanne put forth thi reson.
+Now I bikenne thee Crist," quod she, 980
+"And his clene moder,
+And lat no conscience acombre thee
+For coveitise of Mede."
+
+  Thus lefte me that lady
+Liggynge a-slepe;
+And how Mede was y-maried
+In metels me thoughte,
+That al the riche retenaunce
+That regneth with the false,
+Were boden to the bridale 990
+On bothe two sides,
+Of alle manere of men
+The meene and the riche;
+To marien this mayde
+Were many men assembled,As of knyghtes and of clerkes,
+And oother commune peple,
+As sisours and somonours,
+Sherreves and hire clerkes,
+Bedelles and baillifs, 1000
+And brocours of chaffare,
+Forgoers and vitaillers,
+And advokettes of the arches;
+I kan noght rekene the route
+That ran aboute Mede.
+{32}
+
+  Ac Symonie and Cyvylle,
+And sisours of courtes,
+Were moost pryvee with Mede
+Of any men, me thoughte.
+Ac Favel was the firste 1010
+That fette hire out of boure,
+And as a brocour broughte hire
+To be with Fals enjoyned.
+
+  Whan Symonye and Cyvylle
+Seighe hir bothe wille,
+Thei assented, for silver,
+To seye as bothe wolde.  Thanne leep Liere forth, and seide,
+"Lo here a chartre!"
+That Gile with hise grete othes 1020
+Gaf hem togidere,
+And preide Cyvylle to see,
+And Symonye to rede it.
+
+  Thanne Symonye and Cyvylle
+Stonden forth bothe,
+And unfoldeth the feffement
+That Fals hath y-maked,
+And thus bigynnen thise gomes
+To greden ful heighe:
+<i>Sciant præsentes et futuri, etc.</i> 1030
+
+  Witeth and witnesseth,
+That wonieth upon this erthe,
+That Mede is y-maried
+Moore for hire goodes
+Than for any vertue or fairnesse,
+Or any free kynde.
+Falsnesse is fayn of hire,
+For he woot hire riche;
+And Favel with his fikel speche
+{33}
+Feffeth by this chartre, 1040

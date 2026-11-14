@@ -1,0 +1,753 @@
+HOLB1	50543	2	160	80	510	13
+1	Introduction. REQUIREMENTS OF THE SHORT STORY…
+3	Preface
+6	I. Requirements Of The Short Story
+13	II. How This Book May Be Used
+18	I. The Call Of The Woodsman
+28	II. The Trail Through The Forest
+34	III. The Shadow Of The Thunder-oak
+42	IV. The Felling Of The Tree
+416	I
+425	II
+432	III
+444	IV
+453	V
+“But, having established a single word, we are enabled to establish a vastly important point; that is to say, several commencements and terminations of other words. Let us refer, for example, to the last instance but one, in which the combination ;48 occurs—not far from the end of the cipher. We know that the semicolon immediately ensuing is the commencement of a word, and, of the six characters succeeding this ’the,’ we are cognizant of no less than five. Let us set these characters down, thus, by the letters we know them to represent, leaving a space for the unknown—
+
+t eeth.
+
+“Here we are enabled, at once, to discard the ’<i>th</i>,’ as forming no portion of the word commencing with the first <i>t</i>; since, by experiment of the entire alphabet for a letter adapted to the vacancy, we perceive that no word can be formed of which this <i>th</i> can be a part. We are thus narrowed into
+
+t ee,
+
+and, going through the alphabet, if necessary, as before, we arrive at the word ’tree’ as the sole possible reading. We thus gain another letter, <i>r</i>, represented by (, with the words ’the tree’ in juxtaposition.
+
+“Looking beyond these words, for a short distance, we again see the combination ;48, and employ it by way of <i>termination</i> to what immediately precedes. We have thus this arrangement:the tree ;4(‡?34 the,
+
+or, substituting the natural letters, where known, it reads thus:
+
+the tree thr‡?3h the.
+
+“Now, if, in place of the unknown characters, we leave blank spaces, or substitute dots, we read thus:
+
+the tree thr . . . h the,
+
+when the word ’<i>through</i>’ makes itself evident at once. But this discovery gives us three new letters, <i>o</i>, <i>u</i>, and <i>g</i>, represented by ‡ ? and 3.
+
+“Looking now, narrowly, through the cipher for combinations of known characters, we find, not very far from the beginning, this arrangement,
+
+83(88, or egree,
+
+which, plainly, is the conclusion of the word ’degree,’ and gives us another letter, <i>d</i>, represented by †.
+
+“Four letters beyond the word ’degree,’ we perceive the combination
+
+;46(;88*“Translating the known characters, and representing the unknown by dots, as before, we read thus:
+
+th . rtee . ,
+
+an arrangement immediately suggestive of the word ’thirteen,’ and again furnishing us with two new characters, <i>i</i> and <i>n</i>, represented by 6 and *.
+
+“Referring, now, to the beginning of the cryptograph, we find the combination,
+
+53‡‡†.
+
+“Translating, as before, we obtain
+
+good,
+
+which assures us that the first letter is <i>A</i>, and that the first two words are ’A good.’
+
+“To avoid confusion, it is now time that we arrange our key, as far as discovered, in a tabular form. It will stand thus:
+
+5 represents a
+† “ d
+8 “ e
+3 “ g4 “ h
+6 “ i
+* “ n
+‡ “ o
+( “ r
+; “ t
+
+“We have, therefore, no less than ten of the most important letters represented, and it will be unnecessary to proceed with the details of the solution. I have said enough to convince you that ciphers of this nature are readily soluble, and to give you some insight into the rationale of their development. But be assured that the specimen before us appertains to the very simplest species of cryptograph. It now only remains to give you the full translation of the characters upon the parchment, as unriddled. Here it is:
+
+<i>“‘A good glass in the Bishop’s hostel in the devil’s seat twenty-one degrees and thirteen minutes north-east and by north main branch seventh limb east side shoot from the left eye of the death’s-head a bee-line from the tree through the shot fifty feet out.’”</i>
+
+“But,” said I, “the enigma seems still in as bad a condition as ever. How is it possible to extort a meaning from all this jargon about ’devil’s seats,’ ’death’s-heads,’ and ’Bishop’s hotels’?”
+
+“I confess,” replied Legrand, “that the matter still wears a serious aspect, when regarded with a casual glance.My first endeavor was to divide the sentence into the natural division intended by the cryptographist.”
+
+“You mean, to punctuate it?”
+
+“Something of that kind.”
+
+“But how was it possible to effect this?”
+
+“I reflected that it had been a <i>point</i> with the writer to run his words together without division, so as to increase the difficulty of solution. Now, a not over-acute man, in pursuing such an object, would be nearly certain to overdo the matter. When, in the course of his composition, he arrived at a break in his subject which would naturally require a pause, or a point, he would be exceedingly apt to run his characters, at this place, more than usually close together. If you will observe the MS., in the present instance, you will easily detect five such cases of unusual crowding. Acting on this hint, I made the division thus:
+
+<i>“‘A good glass in the Bishop’s hostel in the Devil’s seat—twenty-one degrees and thirteen minutes—north-east and by north—main branch seventh limb east side—shoot from the left eye of the death’s-head—a bee-line from the tree through the shot fifty feet out.’”</i>
+
+“Even this division,” said I, “leaves me still in the dark.”“It left me also in the dark,” replied Legrand, “for a few days; during which I made diligent inquiry, in the neighborhood of Sullivan’s Island, for any building which went by the name of the ’Bishop’s Hotel’; for, of course, I dropped the obsolete word ’hostel.’ Gaining no information on the subject, I was on the point of extending my sphere of search, and proceeding in a more systematic manner, when one morning it entered into my head, quite suddenly, that this ’Bishop’s Hostel’ might have some reference to an old family, of the name of Bessop, which, time out of mind, had held possession of an ancient manor-house, about four miles to the northward of the island. I accordingly went over to the plantation, and reinstituted my inquiries among the older negroes of the place. At length one of the most aged of the women said that she had heard of such a place as <i>Bessop’s Castle</i>, and thought that she could guide me to it, but that it was not a castle, nor a tavern, but a high rock.
+
+“I offered to pay her well for her trouble, and, after some demur, she consented to accompany me to the spot. We found it without much difficulty, when, dismissing her, I proceeded to examine the place. The ’castle’ consisted of an irregular assemblage of cliffs and rocks—one of the latter being quite remarkable for its height as well as for its insulated and artificial appearance. I clambered to its apex, and then felt much at a loss as to what should be next done.“While I was busied in reflection, my eyes fell on a narrow ledge in the eastern face of the rock, perhaps a yard below the summit upon which I stood. This ledge projected about eighteen inches, and was not more than a foot wide, while a niche in the cliff just above it gave it a rude resemblance to one of the hollow-backed chairs used by our ancestors. I made no doubt that here was the ’devil’s seat’ alluded to in the MS., and now I seemed to grasp the full secret of the riddle.
+
+“The ’good glass,’ I knew, could have reference to nothing but a telescope; for the word ’glass’ is rarely employed in any other sense by seamen. Now here, I at once saw, was a telescope to be used, and a definite point of view, <i>admitting no variation</i>, from which to use it. Nor did I hesitate to believe that the phrases, ’twenty-one degrees and thirteen minutes,’ and ‘north-east and by north,’ were intended as directions for the levelling of the glass. Greatly excited by these discoveries, I hurried home, procured a telescope, and returned to the rock.
+
+“I let myself down the ledge, and found that it was impossible to retain a seat on it unless in one particular position. This fact confirmed my preconceived idea. I proceeded to use the glass. Of course, the ’twenty-one degrees and thirteen minutes’ could allude to nothing but elevation above the visible horizon, since the horizontal direction was clearly indicated by the words, ‘north-east and by north.’This latter direction I at once established by means of a pocket-compass; then, pointing the glass as nearly at an angle of twenty-one degrees of elevation as I could do it by guess, I moved it cautiously up or down, until my attention was arrested by a circular rift or opening in the foliage of a large tree that overtopped its fellows in the distance. In the centre of this rift I perceived a white spot, but could not, at first, distinguish what it was. Adjusting the focus of the telescope, I again looked, and now made it out to be a human skull.
+
+“On this discovery I was so sanguine as to consider the enigma solved; for the phrase ’main branch, seventh limb, east side,’ could refer only to the position of the skull on the tree, while ’shoot from the left eye of the death’s-head’ admitted, also, of but one interpretation, in regard to a search for buried treasure. I perceived that the design was to drop a bullet from the left eye of the skull, and that a bee-line, or, in other words, a straight line, drawn from the nearest point of the trunk through ’the shotì (or the spot where the bullet fell), and thence extended to a distance of fifty feet, would indicate a definite point—and beneath this point I thought it at least <i>possible</i> that a deposit of value lay concealed.”
+
+“All this,” I said, “is exceedingly clear, and, although ingenious, still simple and explicit. When you left the Bishop’s Hotel, what then?”“Why, having carefully taken the bearings of the tree, I turned homewards. The instant that I left ’the devil’s seat,’ however, the circular rift vanished; nor could I get a glimpse of it afterwards, turn as I would. What seems to me the chief ingenuity in this whole business, is the fact (for repeated experiment has convinced me it <i>is</i> a fact) that the circular opening in question is visible from no other attainable point of view than that afforded by the narrow ledge on the face of the rock.
+
+“In this expedition to the ’Bishop’s Hotel’ I had been attended by Jupiter, who had no doubt observed, for some weeks past, the abstraction of my demeanor, and took especial care not to leave me alone. But on the next day, getting up very early, I contrived to give him the slip, and went into the hills in search of the tree. After much toil I found it. When I came home at night my valet proposed to give me a flogging. With the rest of the adventure I believe you are as well acquainted as myself.”
+
+“I suppose,” said I, “you missed the spot, in the first attempt at digging, through Jupiter’s stupidity in letting the bug fall through the right instead of through the left eye of the skull.”
+
+“Precisely. This mistake made a difference of about two inches and a half in the ’shot’—that is to say, in the position of the peg nearest the tree; and had the treasure been <i>beneath</i> the ’shot,’ the error would have been of little moment; but ’the shot,’ together with the nearest point of the tree, were merely two points for the establishment of a line of direction;of course the error, however trivial in the beginning, increased as we proceeded with the line, and, by the time we had gone fifty feet, threw us quite off the scent. But for my deep-seated convictions that treasure was here somewhere actually buried, we might have had all our labor in vain.”
+
+“I presume the fancy of <i>the skull</i>—of letting fall a bullet through the skull’s eye—was suggested to Kidd by the piratical flag. No doubt he felt a kind of poetical consistency in recovering his money through this ominous insignium.”
+
+“Perhaps so; still, I cannot help thinking that common-sense had quite as much to do with the matter as poetical consistency. To be visible from the Devil’s seat, it was necessary that the object, if small, should be <i>white</i>; and there is nothing like your human skull for retaining and even increasing its whiteness under exposure to all vicissitudes of weather.”
+
+“But your grandiloquence, and your conduct in swinging the beetle—how excessively odd! I was sure you were mad. And why did you insist on letting fall the bug, instead of a bullet, from the skull?”
+
+“Why, to be frank, I felt somewhat annoyed by your evident suspicions touching my sanity, and so resolved to punish you quietly, in my own way, by a little bit of sober mystification. For this reason I swung the beetle, and for this reason I let it fall from the tree. An observation of yours about its great weight suggested the latter idea.”“Yes, I perceive; and now there is only one point which puzzles me. What are we to make of the skeletons found in the hole?”
+
+“That is a question I am no more able to answer than yourself. There seems, however, only one plausible way of accounting for them—and yet it is dreadful to believe in such atrocity as my suggestion would imply. It is clear that Kidd—if Kidd indeed secreted this treasure, which I doubt not—it is clear that he must have had assistance in the labor. But, the worst of this labor concluded, he may have thought it expedient to remove all participants in his secret. Perhaps a couple of blows with a mattock were sufficient, while his coadjutors were busy in the pit; perhaps it required a dozen—who shall tell?”
+
+THE RANSOM OF RED CHIEF
+
+BY
+
+O. HENRY
+
+This is a plot-story of the kind in which the American public delights. The reader enjoys the humor due to situation, hyperbole, satire, and astounding verbal liberties to which the writer is given; but he enjoys even more the sharp surprise that awaits him in the plot. He has prepared himself for a certain conclusion and finds himself entirely in the wrong. Nevertheless, he admits that the ending is not illogical nor out of harmony with the general tone. Bill and Sam subscribe themselves “Two Desperate Men,” but they are so characterized as to prepare us for their surrender of the boy on the father’s own terms.It is interesting to know that O. Henry himself put slight value upon local color. “People say that I know New York well!” he says. “But change Twenty-third Street to Main Street, rub out the Flatiron Building and put in the Town Hall. Then the story will fit just as truly elsewhere. At least, I hope that is the case with what I write. So long as your story is true to life, the mere change of local color will set it in the East, West, South, or North. The characters in ’The Arabian Nights’ parade up and down Broadway at midday, or Main Street in Dallas, Texas.”
+
+THE RANSOM OF RED CHIEF[11]
+
+It looked like a good thing: but wait till I tell you. “We were down South, in Alabama—Bill Driscoll and myself—when this kidnapping idea struck us. It was, as Bill afterward expressed it, “during a moment of temporary mental apparition”; but we didn’t find that out till later.
+
+There was a town down there, as flat as a flannel-cake, and called Summit, of course. It contained inhabitants of as undeleterious and self-satisfied a class of peasantry as ever clustered around a Maypole.
+
+Bill and me had a joint capital of about six hundred dollars, and we needed, just two thousand dollars more to pull off a fraudulent town-lot scheme in Western Illinois with. We talked it over on the front steps of the hotel.Philoprogenitiveness, says we, is strong in semirural communities; therefore, and for other reasons, a kidnapping project ought to do better there than in the radius of newspapers that send reporters out in plain clothes to stir up talk about such things. We knew that Summit couldn’t get after us with anything stronger than constables and, maybe, some lackadaisical bloodhounds and a diatribe or two in the <i>Weekly Farmers’ Budget</i>. So, it looked good.
+
+We selected for our victim the only child of a prominent citizen named Ebenezer Dorset. The father was respectable and tight, a mortgage fancier and a stern, upright collection-plate passer and forecloser. The kid was a boy of ten, with bas-relief freckles, and hair the color of the cover of the magazine you buy at the news-stand when you want to catch a train. Bill and me figured that Ebenezer would melt down for a ransom of two thousand dollars to a cent. But wait till I tell you.
+
+About two miles from Summit was a little mountain, covered with a dense cedar brake. On the rear elevation of this mountain was a cave. There we stored provisions.
+
+One evening after sundown, we drove in a buggy past old Dorset’s house. The kid was in the street, throwing rocks at a kitten on the opposite fence.
+
+“Hey, little boy!” says Bill, “would you like to have a bag of candy and a nice ride?”
+
+The boy catches Bill neatly in the eye with a piece of brick.“That will cost the old man an extra five hundred dollars,” says Bill, climbing over the wheel.
+
+That boy put up a fight like a welter-weight cinnamon bear; but, at last, we got him down in the bottom of the buggy and drove away. We took him up to the cave, and I hitched the horse in the cedar brake. After dark I drove the buggy to the little village, three miles away, where we had hired it, and walked back to the mountain.
+
+Bill was pasting court-plaster over the scratches and bruises on his features. There was a fire burning behind the big rock at the entrance of the cave, and the boy was watching a pot of boiling coffee, with two buzzard tail-feathers stuck in his red hair. He points a stick at me when I come up, and says:
+
+“Ha! cursed paleface, do you dare to enter the camp of Red Chief, the terror of the plains?”
+
+“He’s all right now,” says Bill, rolling up his trousers and examining some bruises on his shins. “We’re playing Indian. We’re making Buffalo Bill’s show look like magic-lantern views of Palestine in the town hall. I’m Old Hank, the Trapper, Red Chief’s captive, and I’m to be scalped at daybreak. By Geronimo! that kid can kick hard.”
+
+Yes, sir, that boy seemed to be having the time of his life. The fun of camping out in a cave had made him forget that he was a captive himself.He immediately christened me Snake-eye, the Spy, and announced that, when his braves returned from the warpath, I was to be broiled at the stake at the rising of the sun.
+
+Then we had supper; and he filled his mouth full of bacon and bread and gravy, and began to talk. He made a during-dinner speech something like this:
+
+“I like this fine. I never camped out before; but I had a pet ’possum once, and I was nine last birthday. I hate to go to school. Rats ate up sixteen of Jimmy Talbot’s aunt’s speckled hen’s eggs. Are there any real Indians in these woods? I want some more gravy. Does the trees moving make the wind blow? We had five puppies. What makes your nose so red, Hank? My father has lots of money. Are the stars hot? I whipped Ed Walker twice, Saturday. I don’t like girls. You dassent catch toads unless with a string. Do oxen make any noise? Why are oranges round? Have you got beds to sleep on in this cave? Amos Murray has got six toes. A parrot can talk, but a monkey or a fish can’t. How many does it take to make twelve?”
+
+Every few minutes he would remember that he was a pesky redskin, and pick up his stick rifle and tip-toe to the mouth of the cave to rubber for the scouts of the hated paleface. Now and then he would let out a war-whoop that made Old Hank the Trapper, shiver. That boy had Bill terrorized from the start.
+
+“Red Chief,” says I to the kid, “would you like to go home?”“Aw, what for?” says he. “I don’t have any fun at home. I hate to go to school. I like to camp out. You won’t take me back home again, Snake-eye, will you?”
+
+“Not right away,” says I. “We’ll stay here in the cave a while.”
+
+“All right!” says he. “That’ll be fine. I never had such fun in all my life.”
+
+We went to bed about eleven o ’clock. We spread down some wide blankets and quilts and put Red Chief between us. We weren’t afraid he’d run away. He kept us awake for three hours, jumping up and reaching for his rifle and screeching: “Hist! pard,” in mine and Bill’s ears, as the fancied crackle of a twig or the rustle of a leaf revealed to his young imagination the stealthy approach of the outlaw band. At last, I fell into a troubled sleep, and dreamed that I had been kidnapped and chained to a tree by a ferocious pirate with red hair.
+
+Just at daybreak, I was awakened by a series of awful screams from Bill. They weren’t yells, or howls, or shouts, or whoops, or yawps, such as you’d expect from a manly set of vocal organs—they were simply indecent, terrifying, humiliating screams, such as women emit when they see ghosts or caterpillars. It’s an awful thing to hear a strong, desperate, fat man scream incontinently in a cave at daybreak.
+
+I jumped up to see what the matter was. Red Chief was sitting on Bill’s chest, with one hand twined in Bill’s hair. In the other he had the sharp case-knife we used for slicing bacon;and he was industriously and realistically trying to take Bill’s scalp, according to the sentence that had been pronounced upon him the evening before.
+
+I got the knife away from the kid and made him lie down again. But, from that moment, Bill’s spirit was broken. He laid down on his side of the bed, but he never closed an eye again in sleep as long as that boy was with us. I dozed off for a while, but along toward sun-up I remembered that Red Chief had said I was to be burned at the stake at the rising of the sun. I wasn’t nervous or afraid; but I sat up and lit my pipe and leaned against a rock.
+
+“What you getting up so soon for, Sam?” asked Bill.
+
+“Me?” says I. “Oh, I got a kind of a pain in my shoulder. I thought sitting up would rest it.”
+
+“You’re a liar!” says Bill. “You’re afraid. You was to be burned at sunrise, and you was afraid he’d do it. And he would, too, if he could find a match. Ain’t it awful, Sam? Do you think anybody will pay out money to get a little imp like that back home?”
+
+“Sure,” said I. “A rowdy kid like that is just the kind that parents dote on. Now, you and the Chief get up and cook breakfast, while I go up on the top of this mountain and reconnoitre.”
+
+I went up on the peak of the little mountain and ran my eye over the contiguous vicinity.Over toward Summit I expected to see the sturdy yeomanry of the village armed with scythes and pitchforks beating the countryside for the dastardly kidnappers. But what I saw was a peaceful landscape dotted with one man ploughing with a dun mule. Nobody was dragging the creek; no couriers dashed hither and yon, bringing tidings of no news to the distracted parents. There was a sylvan attitude of somnolent sleepiness pervading that section of the external outward surface of Alabama that lay exposed to my view. “Perhaps,” says I to myself, “it has not yet been discovered that the wolves have borne away the tender lambkin from the fold. Heaven help the wolves!” says I, and I went down the mountain to breakfast.
+
+When I got to the cave I found Bill backed up against the side of it, breathing hard, and the boy threatening to smash him with a rock half as big as a cocoanut.
+
+“He put a red-hot boiled potato down my back,” explained Bill, “and then mashed it with his foot; and I boxed his ears. Have you got a gun about you, Sam?”
+
+I took the rock away from the boy and kind of patched up the argument. “I’ll fix you,” says the kid to Bill. “No man ever yet struck the Red Chief but what he got paid for it. You better beware!”
+
+After breakfast the kid takes a piece of leather with strings wrapped around it out of his pocket and goes outside the cave unwinding it.“What’s he up to now?” says Bill, anxiously. “You don’t think he’ll run away, do you, Sam?”
+
+“No fear of it,” says I. “He don’t seem to be much of a home body. But we’ve got to fix up some plan about the ransom. There don’t seem to be much excitement around Summit on account of his disappearance; but maybe they haven’t realized yet that he’s gone. His folks may think he’s spending the night with Aunt Jane or one of the neighbors. Anyhow, he’ll be missed to-day. To-night we must get a message to his father demanding the two thousand dollars for his return.”
+
+Just then we heard a kind of war-whoop, such as David might have emitted when he knocked out the champion Goliath. It was a sling that Red Chief had pulled out of his pocket, and he was whirling it around his head.
+
+I dodged, and heard a heavy thud and a kind of a sigh from Bill, like a horse gives out when you take his saddle off. A niggerhead rock the size of an egg had caught Bill just behind his left ear. He loosened himself all over and fell in the fire across the frying pan of hot water for washing the dishes. I dragged him out and poured cold water on his head for half an hour.
+
+By and by, Bill sits up and feels behind his ear and says: “Sam, do you know who my favorite Biblical character is?”
+
+“Take it easy,” says I. “You’ll come to your senses presently.”“King Herod,” says he. “You won’t go away and leave me here alone, will you, Sam?”
+
+I went out and caught that boy and shook him until his freckles rattled.
+
+“If you don’t behave,” says I, “I’ll take you straight home. Now, are you going to be good, or not?”
+
+“I was only funning,” says he sullenly. “I didn’t mean to hurt Old Hank. But what did he hit me for? I’ll behave, Snake-eye, if you won’t send me home, and if you’ll let me play the Black Scout to-day.”
+
+“I don’t know the game,” says I. “That’s for you and Mr. Bill to decide. He’s your playmate for the day. I’m going away for a while, on business. Now, you come in and make friends with him and say you are sorry for hurting him, or home you go, at once.”
+
+I made him and Bill shake hands, and then I took Bill aside and told him I was going to Poplar Cove, a little village three miles from the cave, and find out what I could about how the kidnapping had been regarded in Summit. Also, I thought it best to send a peremptory letter to old man Dorset that day, demanding the ransom and dictating how it should be paid.
+
+“You know, Sam,” says Bill, “I’ve stood by you without batting an eye in earthquakes, fire, and flood—in poker games, dynamite outrages, police raids, train robberies, and cyclones.I never lost my nerve yet till we kidnapped that two-legged skyrocket of a kid. He’s got me going. You won’t leave me long with him, will you, Sam?”
+
+“I’ll be back some time this afternoon,” says I. “You must keep the boy amused and quiet till I return. And now we’ll write the letter to old Dorset.”
+
+Bill and I got paper and pencil and worked on the letter while Red Chief, with a blanket wrapped around him, strutted up and down, guarding the mouth of the cave. Bill begged me tearfully to make the ransom fifteen hundred dollars instead of two thousand. “I ain’t attempting,” says he, “to decry the celebrated moral aspect of parental affection, but we’re dealing with humans, and it ain’t human for anybody to give up two thousand dollars for that forty-pound chunk of freckled wildcat. I’m willing to take a chance at fifteen hundred dollars. You can charge the difference up to me.”
+
+So, to relieve Bill, I acceded, and we collaborated a letter that ran this way:
+
+“<i>Ebenezer Dorset, Esq.</i>:
+
+“We have your boy concealed in a place far from Summit. It is useless for you or the most skillful detectives to attempt to find him. Absolutely, the only terms on which you can have him restored to you are these: We demand fifteen hundred dollars in large bills for his return; the money to be left at midnight to-night at the same spot and in the same box as your reply—as hereinafter described.If you agree to these terms, send your answer in writing by a solitary messenger to-night at half-past eight o’clock. After crossing Owl Creek, on the road to Poplar Cove, there are three large trees about a hundred yards apart, close to the fence of the wheat field on the right-hand side. At the bottom of the fence-post, opposite the third tree, will be found a small pasteboard box.
+
+“The messenger will place the answer in this box and return immediately to Summit.
+
+“If you attempt any treachery or fail to comply with our demand as stated, you will never see your boy again.
+
+“If you pay the money as demanded, he will be returned to you safe and well within three hours. These terms are final, and if you do not accede to them no further communication will be attempted.
+
+“TWO DESPERATE MEN.”
+
+I addressed this letter to Dorset, and put it in my pocket. As I was about to start, the kid comes up to me and says:
+
+“Aw, Snake-eye, you said I could play the Black Scout while you was gone.”
+
+“Play it, of course,” says I. “Mr. Bill will play with you. What kind of a game is it?”“I’m the Black Scout,” says Red Chief, “and I have to ride to the stockade to warn the settlers that the Indians are coming. I’m tired of playing Indian myself. I want to be the Black Scout.”
+
+“All right.” says I. “It sounds harmless to me. I guess Mr. Bill will help you foil the pesky savages.”
+
+“What am I to do?” asks Bill, looking at the kid suspiciously.
+
+“You are the hoss,” says Black Scout. “Get down on your hands and knees. How can I ride to the stockade without a hoss?”
+
+“You’d better keep him interested,” said I, “till we get the scheme going. Loosen up.”
+
+Bill gets down on his all fours, and a look comes in his eye like a rabbit’s when you catch it in a trap.
+
+“How far is it to the stockade, kid?” he asks, in a husky manner of voice.
+
+“Ninety miles,” says the Black Scout. “And you have to hump yourself to get there on time. Whoa, now!”
+
+The Black Scout jumps on Bill’s back and digs his heels in his side.“For Heaven’s sake,” says Bill, “hurry back, Sam, as soon as you can. I wish we hadn’t made the ransom more than a thousand. Say, you quit kicking me or I’ll get up and warm you good.”
+
+I walked over to Poplar Cove and sat around the post-office and store, talking with the chawbacons that came in to trade. One whiskerando says that he hears Summit is all upset on account of Elder Ebenezer Dorset’s boy having been lost or stolen. That was all I wanted to know. I bought some smoking tobacco, referred casually to the price of black-eyed peas, posted my letter surreptitiously, and came away. The postmaster said the mail-carrier would come by in an hour to take the mail on to Summit.
+
+When I got back to the cave Bill and the boy were not to be found. I explored the vicinity of the cave, and risked a yodel or two, but there was no response.
+
+So I lighted my pipe and sat down on a mossy bank to await developments.
+
+In about half an hour I heard the bushes rustle, and Bill wabbled out into the little glade in front of the cave. Behind him was the kid, stepping softly like a scout, with a broad grin on his face. Bill stopped, took off his hat, and wiped his face with a red handkerchief. The kid stopped about eight feet behind him.
+
+“Sam,” says Bill, “I suppose you’ll think I’m a renegade, but I couldn’t help it.I’m a grown person with masculine proclivities and habits of self-defence, but there is a time when all systems of egotism and predominance fail. The boy is gone. I have sent him home. All is off. There was martyrs in old times,” goes on Bill, “that suffered death rather than give up the particular graft they enjoyed. None of ’em ever was subjugated to such supernatural tortures as I have been. I tried to be faithful to our articles of depredation; but there came a limit.”
+
+“What’s the trouble, Bill?” I asks him.
+
+“I was rode,” says Bill, “the ninety miles to the stockade, not barring an inch. Then, when the settlers was rescued, I was given oats. Sand ain’t a palatable substitute. And then, for an hour I had to try to explain to him why there was nothin’ in holes, how a road can run both ways, and what makes the grass green. I tell you, Sam, a human can only stand so much. I takes him by the neck of his clothes and drags him down the mountain. On the way he kicks my legs black-and-blue from the knees down; and I’ve got to have two or three bites on my thumb and hand cauterized.
+
+“But he’s gone”—continues Bill—“gone home. I showed him the road to Summit and kicked him about eight feet nearer there at one kick. I’m sorry we lose the ransom; but it was either that or Bill Driscoll to the madhouse.”
+
+Bill is puffing and blowing, but there is a look of ineffable peace and growing content on his rose-pink features.“Bill,” says I, “there isn’t any heart disease in your family, is there?”
+
+“No,” says Bill, “nothing chronic except malaria and accidents. Why?”
+
+“Then you might turn around,” says I, “and have a look behind you.”
+
+Bill turns and sees the boy, and loses his complexion and sits down plump on the ground and begins to pluck aimlessly at grass and little sticks. For an hour I was afraid for his mind. And then I told him that my scheme was to put the whole job through immediately and that we would get the ransom and be off with it by midnight if old Dorset fell in with our proposition. So Bill braced up enough to give the kid a weak sort of a smile and a promise to play the Russian in a Japanese war with him as soon as he felt a little better.
+
+I had a scheme for collecting that ransom without danger of being caught by counterplots that ought to commend itself to professional kidnappers. The tree under which the answer was to be left—and the money later on—was close to the road fence with big, bare fields on all sides. If a gang of constables should be watching for any one to come for the note, they could see him a long way off crossing the fields or in the road. But no, sirree! At half-past eight I was up in that tree as well hidden as a tree toad, waiting for the messenger to arrive.
+
+Exactly on time, a half-grown boy rides up the road on a bicycle, locates the pasteboard box at the foot of the fence-post, slips a folded piece of paper into it, and pedals away again back toward Summit.I waited an hour and then concluded the thing was square. I slid down the tree, got the note, slipped along the fence till I struck the woods, and was back at the cave in another half an hour. I opened the note, got near the lantern, and read it to Bill. It was written with a pen in a crabbed hand, and the sum and substance of it was this:
+
+“<i>Two Desperate Men.</i>
+
+“<i>Gentlemen</i>: I received your letter to-day by post, in regard to the ransom you ask for the return of my son. I think you are a little high in your demands, and I hereby make you a counter-proposition, which I am inclined to believe you will accept. You bring Johnny home and pay me two hundred and fifty dollars in cash, and I agree to take him off your hands. You had better come at night, for the neighbors believe he is lost, and I couldn’t be responsible for what they would do to anybody they saw bringing him back.
+
+Very respectfully,
+
+“EBENEZER DORSET.”
+
+“Great pirates of Penzance!” says I; “of all the impudent——”
+
+But I glanced at Bill, and hesitated. He had the most appealing look in his eyes I ever saw on the face of a dumb or a talking brute.“Sam,” says he, “what’s two hundred and fifty dollars, after all? We’ve got the money. One more night of this kid will send me to a bed in Bedlam. Besides being a thorough gentleman, I think Mr. Dorset is a spendthrift for making us such a liberal offer. You ain’t going to let the chance go, are you?”
+
+“Tell you the truth, Bill,” says I, “this little he ewe lamb has somewhat got on my nerves too. We’ll take him home, pay the ransom, and make our get-away.”
+
+We took him home that night. We got him to go by telling him that his father had bought a silver-mounted rifle and a pair of moccasins for him, and we were going to hunt bears the next day.
+
+It was just twelve o’clock when we knocked at Ebenezer’s front door. Just at the moment when I should have been abstracting the fifteen hundred dollars from the box under the tree, according to the original proposition, Bill was counting out two hundred and fifty dollars into Dorset’s hand.
+
+When the kid found out we were going to leave him at home he started up a howl like a calliope and fastened himself as tight as a leech to Bill’s leg. His father peeled him away gradually, like a porous plaster.
+
+“How long can you hold him?” asks Bill.
+
+“I’m not as strong as I used to be,” says old Dorset, “but I think I can promise you ten minutes.”“Enough,” says Bill. “In ten minutes I shall cross the Central, Southern, and Middle Western States, and be legging it trippingly for the Canadian border.”
+
+And, as dark as it was, and as fat as Bill was, and as good a runner as I am, he was a good mile and a half out of Summit before I could catch up with him.
+
+THE FRESHMAN FULL-BACK
+
+BY
+
+RALPH D. PAINE
+
+The chief interest in “The Freshman Full-Back” is that of character. The action has real dramatic quality and is staged with the local color of a college contest. But the great value of the action is ethical, for it shows that one may “wrest victory from defeat” and that it is a shameful thing to be a “coward and a quitter.”
+
+THE FRESHMAN FULL-BACK[12]
+
+The boyish night city editor glanced along the copy-readers’ table and petulantly exclaimed:
+
+“Isn’t that spread head ready yet, Mr. Seeley? It goes on the front page and we are holding open for it. Whew, but you are slow. You ought to be holding down a job on a quarterly review.”A portly man of middle age dropped his pencil and turned heavily in his chair to face the source of this public humiliation. An angry flush overspread his face and he chewed at a grayish mustache as if fighting down rebellion. His comrades at the long table had looked up from their work and were eyeing the oldest copy-reader with sympathetic uneasiness while they hoped that he would be able to hold himself in hand. The night city editor felt the tension of this brief tableau and awaited the threatened outbreak with a nervous smile. But Seeley jerked his green eyeshade so low that his face was partly in eclipse, and wheeled round to resume his task with a catch of the breath and a tone of surrender in his reply.
+
+“The head will be ready in five minutes, sir. The last pages of the story are just coming in.”
+
+A much younger man, at the farther end of the table, whispered to his neighbor:
+
+“That’s cheap and nasty, to call down old man Seeley as if he were a cub reporter. He may have lost his grip, but he deserves decent treatment for what he has been. Managing editor of this very sheet, London correspondent before that, and the crack man of the staff when most of the rest of us were in short breeches. And now Henry Harding Seeley isn’t any too sure of keeping his job on the copy-desk.”
+
+“That’s what the New York newspaper game can do to you if you stick at it too long,” murmured the other. “Back to the farm for mine.”It was long after midnight when these two put on their coats and bade the city editor’s desk a perfunctory “Good-night.”
+
+They left Henry Harding Seeley still slumped in his chair, writing with dogged industry.
+
+“He’s dead tired, you can see that,” commented one of the pair as they headed for Broadway, “but, as usual, he is grinding out stuff for the Sunday sheet after hours. He must need the extra coin mighty bad. I came back for my overcoat at four the other morning, after the poker game, and he was still pegging away just like that.”
+
+Other belated editors and reporters of the <i>Chronicle</i> staff drifted toward the elevator, until the gray-haired copy-reader was left alone in the city room as if marooned. Writing as steadily as if he were a machine warranted to turn out so many words an hour, Seeley urged his pencil until the last page was finished. Then he read and corrected the “story,” slipped it through a slit in a door marked “Sunday Editor,” and trudged out, while the tower clock was striking three.
+
+Instead of seeking the chop-house, wherein the vivacious and tireless youth of the staff were wont to linger over supper, he turned into a side street and betook himself to a small café as yet unfrequented by the night-owls of journalism. Seeley was a beaten man, and he preferred to nurse his wounds in a morbid isolation.His gait and aspect were those of one who was stolidly struggling on the defensive, as if hostile circumstances had driven him into a corner where he was making his last stand.
+
+Through the years of his indomitable youth as a reporter of rare ability and resourcefulness, he had never spared himself. Burning the candle at both ends, with a vitality which had seemed inexhaustible, he had won step after step of promotion until, at forty, he was made managing editor of that huge and hard-driven organization, the <i>New York Chronicle</i>. For five years of racking responsibility Henry Harding Seeley had been able to maintain the pace demanded of his position.
+
+Then came an error of judgment—a midnight decision demanded of a fagged mind—and his O. K. was scrawled upon the first sheet of a story of embezzlement in Wall Street. By an incredible blunder the name of the fugitive cashier was coupled with that of the wrong bank. Publication of the <i>Chronicle</i> story started a terrific run on this innocent institution, which won its libel suit against the newspaper in the amount of one hundred thousand dollars.
+
+The managing editor, two reporters, and the copy-reader who had handled the fatal manuscript, were swept out of the building by one cyclonic order from the owner thereof. Henry Seeley accepted his indirect responsibility for the disaster in grim, manly fashion, and straightway sought another berth befitting his journalistic station. But his one costly slip was more than a nine-days’ scandal along Park Row, and other canny proprietors were afraid that he might hit them in the very vital regions of their pockets.Worse than this, his confidence in himself had suffered mortal damage. The wear and tear of his earlier years had left him with little reserve power, and he went to pieces in the face of adverse fortune.
+
+“Worked out at forty-five,” was the verdict of his friends, and they began to pity him.
+
+The will to succeed had been broken, but Seeley might have rallied had not his wife died during the ebb-tide of his affairs. She had walked hand in hand with him since his early twenties, her faith in him had been his mainstay, and his happiness in her complete and beautiful. Bereft of her when he stood most in need of her, he seemed to have no more fight in him, and, drifting from one newspaper office to another, he finally eddied into his old “shop” as a drudging copy-reader and an object of sympathy to a younger generation.
+
+There was one son, strong, bright, eager, and by dint of driving his eternally wearied brain overtime, the father had been able to send him to Yale, his own alma mater. More or less pious deception had led young Ernest Seeley to believe that his father had regained much of his old-time prestige with the <i>Chronicle</i> and that he had a hand in guiding its editorial destinies. The lad was a Freshman, tremendously absorbed in the activities of the autumn term, and his father was content that he should be so hedged about by the interests of the campus world as to have small time or thought for the grizzled, taciturn toiler in New York.This was the kind of man that trudged heavily into the little German café of an early morning after his long night’s slavery at the copy-desk. His mind, embittered and sensitive to slights like a raw nerve, was brooding over the open taunt of the night city editor, who had been an office boy under him in the years gone by. From force of habit he seated himself at a table in the rear of the room, shunning the chance of having to face an acquaintance. Unfolding a copy of the city edition, which had been laid on his desk damp from the press-room, Seeley scanned the front page with scowling uneasiness, as if fearing to find some blunder of his own handiwork. Then he turned to the sporting page and began to read the football news.
+
+His son Ernest had been playing as a substitute with the university eleven, an achievement which stirred the father’s pride without moving his enthusiasm. And the boy, chilled by his father’s indifference, had said little about it during his infrequent visits to New York. But now the elder Seeley sat erect, and his stolid countenance was almost animated as he read, under a New Haven date line:
+
+“The Yale confidence of winning the game with Princeton to-morrow has been shattered, and gloom enshrouds the camp of the Elis to-night. Collins, the great full-back, who has been the key-stone of Yale’s offensive game, was taken to the infirmary late this afternoon. He complained of feeling ill after the signal practice yesterday; fever developed overnight, and the consulting physicians decided that he must be operated on for appendicitis without delay.His place in the Princeton game will be filled by Ernest Seeley, the Freshman, who has been playing a phenomenal game in the back-field, but who is so lacking in experience that the coaches are all at sea to-night. The loss of Collins has swung the betting around to even money instead of 5 to 3 on Yale.”
+
+The elder Seeley wiped his glasses as if not sure that he had read aright.
+
+Ernest had seemed to him no more than a sturdy infant and here he was, on the eve of a championship football battle, picked to fight for the “old blue.” The father’s career at Yale had been a most honorable one. He, too, had played on the eleven and had helped to win two desperate contests against Princeton. But all this belonged to a part of his life which was dead and done for. He had not achieved in after years what Yale expected of him, and his record there was with his buried memories.
+
+Supper was forgotten while Henry Seeley wondered whether he really wanted to go to New Haven to see his boy play. Many of his old friends and classmates would be there and he did not wish to meet them.
+
+And it stung him to the quick as he reflected:
+
+“I should be very happy to see him win, but—but to see him whipped! I couldn’t brace and comfort him. And supposing it breaks his heart to be whipped as it has broken mine? No, I won’t let myself think that. I’m a poor Yale man and a worse father, but I couldn’t stand going up there to-day.”Even more humiliating was the thought that he would shrink from asking leave of the city editor. Saturday was not his “day off,” and he so greatly hated to ask favors at the office, that the possibility of being rebuffed was more than he was willing to face.
+
+Into his unhappy meditations broke a boisterous hail:
+
+“Diogenes Seeley, as I live. Why, you old rascal, I thought you were dead or something. Glad I didn’t get foolish and go to bed. Here, waiter, get busy.”
+
+Seeley was startled, and he looked much more distressed than rejoiced as he lumbered from his table to grasp the outstretched hand of a classmate. The opera-hat of this Mr. Richard Giddings was cocked at a rakish angle, his blue eye twinkled good cheer and youthful hilarity, and his aspect was utterly care-free.
+
+“How are you, Dick?” said Seeley, with an unusual smile which singularly brightened his face. “You don’t look a day older than when I last saw you. Still cutting coupons for a living?”
+
+“Oh, money is the least of my worries,” gayly rattled Mr. Giddings. “Been doing the heavy society act to-night, and on my way home found I needed some sauerkraut and beer to tone up my jaded system. By Jove, Harry, you’re as gray as a badger. This newspaper game must be bad for the nerves. Lots of fellows have asked me about you. Never see you at the University Club, nobody sees you anywhere. Remarkable how a man can lose himself right here in New York.Still running the <i>Chronicle</i>, I suppose.”
+
+“I’m still in the old shop, Dick,” replied Seeley, glad to be rid of this awkward question. “But I work nearly all night and sleep most of the day, and am like a cog in a big machine that never stops grinding.”
+
+“Shouldn’t do it. Wears a man out,” and Mr. Giddings sagely nodded his head. “Course you are going up to the game to-day. Come along with me. Special car with a big bunch of your old pals inside. They’ll be tickled to death to find I’ve dug you out of your hole. Hello! Is that this morning’s paper? Let me look at the sporting page. Great team at New Haven, they tell me. What’s the latest odds? I put up a thousand at five to three last week and am looking for some more easy money.”
+
+The alert eye of the volatile Richard Giddings swept down the New Haven dispatch like lightning.
+
+With a grievous outcry he smote the table and shouted:
+
+“Collins out of the game? Great Scott, Harry, that’s awful news. And a green Freshman going to fill his shoes at the last minute. I feel like weeping, honest I do. Who the deuce is this Seeley? Any kin of yours? I suppose not or you would have bellowed it at me before this.”
+
+“He is my only boy, Dick,” and the father held up his head with a shadow of his old manner.“I didn’t know he had the ghost of a show to make the team until I saw this dispatch.”
+
+“Then, of course, you are coming up with me,” roared Mr. Giddings. “I hope he’s a chip of the old block. If he has your sand they can’t stop him. Jumping Jupiter, they couldn’t have stopped you with an axe when you were playing guard in our time, Harry. I feel better already to know that it is your kid going in at full-back to-day.”
+
+“No, I’m not going up, Dick,” said Seeley slowly. “For one thing, it is too short notice for me to break away from the office, and I—I haven’t the nerve to watch the boy go into the game. I’m not feeling very fit.”
+
+“Stuff and nonsense, you need a brain cure,” vociferated Richard Giddings. “You, an old Yale guard, with a pup on the team, and he a Freshman at that! Throw out your chest, man; tell the office to go to the devil—where all newspapers belong—and meet me at the station at ten o’clock sharp. You talk and look like the oldest living grad with one foot in the grave.”
+
+Seeley flushed and bit his lip. His dulled realization of what Yale had been to him was quickened by this tormenting comrade of the brave days of old, but he could not be shaken from his attitude of morbid self-effacement.
+
+“No, Dick, it’s no use,” he returned with a tremulous smile. “You can’t budge me. But give my love to the crowd and tell them to cheer for that youngster of mine until they’re blue in the face.”Mr. Richard Giddings eyed him quizzically, and surmised that something or other was gravely wrong with his grizzled classmate. But Seeley offered no more explanations and the vivacious intruder fell to his task of demolishing sauerkraut with great gusto, after which he nimbly vanished into a cruising hansom with a sense of having been rebuffed.
+
+Seeley watched him depart at great speed and then plodded toward his up-town lodgings. His sleep was distressed with unhappy dreams, and during a wakeful interval he heard a knock at his sitting-room door.
+
+An office boy from the <i>Chronicle</i> editorial rooms gave him a note and waited for an answer.
+
+Seeley recognized the handwriting of the managing editor and was worried, for he was always expecting the worst to happen. He sighed with relieved surprise as he read:
+
+“MY DEAR MR. SEELEY:
+
+“Please go to New Haven as soon as possible and do a couple of columns of descriptive introduction of the Yale-Princeton game. The sporting department will cover the technical story, but a big steamboat collision has just happened in North River, two or three hundred drowned and so on, and I need every man in the shop. As an old Yale player I am sure I can depend on you for a good story, and I know you used to do this kind of stuff in fine style.”Seeley fished his watch from under a pillow. It was after ten o’clock and the game would begin at two. While he hurried into his clothes he was conscious of a distinct thrill of excited interest akin to his old-time joy in the day’s work. Could he “do this kind of stuff in fine style”? Why, before his brain had begun to be always tired, when he was the star reporter of the <i>Chronicle</i>, his football introductions had been classics in Park Row. If there was a spark of the old fire left in him he would try to strike it out, and for the moment he forgot the burden of inertia which had so long crushed him.
+
+“But I don’t want to run into Dick Giddings and his crowd,” he muttered as he sought his hat and overcoat. “And I’ll be up in the press-box away from the mob of old grads. Perhaps my luck has turned.”
+
+When Henry Seeley reached the Yale field the eleven had gone to the dressing-rooms in the training house, and he hovered on the edge of the flooding crowds, fairly yearning for a glimpse of the Freshman full-back and a farewell grasp of his hand. The habitual dread lest the son find cause to be ashamed of his father had been shoved into the background by a stronger, more natural emotion. But he well knew that he ought not to invade the training quarters in these last crucial moments. Ernest must not be distraught by a feather’s weight of any other interest than the task in hand. The coaches would be delivering their final words of instruction and the old Yale guard could picture to himself the tense absorption of the scene. Like one coming out of a dream, the past was returning to him in vivid, heart-stirring glimpses. Reluctantly he sought his place in the press-box high above the vast amphitheatre.The preliminary spectacle was movingly familiar: the rippling banks of color which rose on all sides to frame the long carpet of chalked turf; the clamorous outbursts of cheering when an eddy of Yale or Princeton undergraduates swirled and tossed at command of the dancing dervish of a leader at the edge of the field below; the bright, buoyant aspect of the multitude as viewed en masse. Seeley leaned against the railing of his lofty perch and gazed at this pageant until a sporting editor, long in harness, nudged his elbow and said:
+
+“Hello! I haven’t seen you at a game in a dozen years. Doing the story or just working the press-badge graft? That namesake of yours will be meat for the Tigers, I’m afraid. Glad he doesn’t belong to you, aren’t you?”
+
+Seeley stared at him like a man in a trance and replied evasively:
+
+“He may be good enough. It all depends on his sand and nerve. Yes, I am doing the story for a change. Have you the final line-up?”
+
+“Princeton is playing all her regular men,” said the sporting editor, giving Seeley his note-book. “The only Yale change is at full-back—and that’s a catastrophe.”
+
+Seeley copied the lists for reference and his pencil was not steady when he came to “Full-back, Ernest T. Seeley.” But he pulled his thoughts away from the eleven and began to jot down notes of the passing incidents which might serve to weave into the fabric of his description. The unwonted stimulus aroused his talent as if it were not dead but dormant.The scene appealed to him with almost as much freshness and color as if he were observing it for the first time.
+
+A roar of cheering rose from a far corner of the field and ran swiftly along the Yale side of the amphitheatre, which blossomed in tossing blue. The Yale eleven scampered into view like colts at pasture, the substitutes veering toward the benches behind the side-line. Without more ado the team scattered in formation for signal practice, paying no heed to the tumult which raged around and above them. Agile, clean-limbed, splendid in their disciplined young manhood, the dark blue of their stockings and the white “Y” gleaming on their sweaters fairly trumpeted their significance to Henry Seeley. And poised behind the rush-line, wearing his hard-won university blue, was the lithe figure of the Freshman full-back, Ernest Seeley.
+
+The youngster, whose fate it was to be called a “forlorn hope,” looked fragile beside his comrades of the eleven. Although tall and wiry, he was like a greyhound in a company of mastiffs. His father, looking down at him from so great a height that he could not read his face, muttered to himself while he dug his nails into his palms:
+
+“He is too light for this day’s work. But he carries himself like a thoroughbred.”
+
+The boy and his fellows seemed singularly remote from the shouting thousands massed so near them.They had become the sole arbiters of their fate, and their impressive isolation struck Henry Seeley anew as the most dramatic feature of this magnificent picture. He must sit idly by and watch his only son battle through the most momentous hour of his young life, as if he were gazing down from another planet.
+
+The staccato cheers of Princeton rocketed along the other side of the field, and the eleven from Old Nassau ran briskly over the turf and wheeled into line for a last rehearsal of their machine-like tactics. Henry Seeley was finding it hard to breathe, just as it had happened in other days when he was waiting for the “kick-off” and facing a straining Princeton line. The minutes were like hours while the officials consulted with the captains in the centre of the field. Then the two elevens ranged themselves across the brown turf, there was breathless silence, and a Princeton toe lifted the ball far down toward the Yale goal. It was the young full-back who waited to receive the opening kick, while his comrades thundered toward him to form a flying screen of interference. But the twisting ball bounded from his too eager arms, and another Yale back fell on it in time to save it from the clutches of a meteoric Princeton end.
+
+“Nervous. Hasn’t steadied down yet,” exclaimed a reporter behind Henry Seeley. “But he can’t afford to give Princeton any more chances like that. Her ends are faster than chain lightning.”The father groaned and wiped the sweat from his eyes. If the team were afraid of this untried full-back, such a beginning would not give them confidence. Then the two lines locked and heaved in the first scrimmage, and a stocky Yale half-back was pulled down in his tracks. Again the headlong Princeton defence held firm and the Yale captain gasped, “Second down and three yards to gain.” The Yale interferers sped to circle one end of the line, but they were spilled this way and that and the runner went down a yard short of the needed distance.
+
+The Yale full-back dropped back to punt. Far and true the ball soared into the Princeton field, and the lithe Freshman had somewhat redeemed himself. But now, for their own part, the sons of Old Nassau found themselves unable to make decisive gains against the Yale defence. Greek met Greek in these early clashes, and both teams were forced to punt again and again. Trick-plays were spoiled by alert end-rushers for the blue or the orange and black, fiercely launched assaults at centre were torn asunder, and the longer the contest raged up and down the field the more clearly it was perceived that these ancient rivals were rarely well matched in point of strength and strategy.
+
+The Yale coaches were dismayed at this turn of events. They had hoped to see the ball carried toward the Princeton goal by means of shrewdly devised teamwork, instead of which the burden of the game was shifted to one man, the weakest link in the chain, the Freshman at full-back. He was punting with splendid distance, getting the ball away when it seemed as if he must be overwhelmed by the hurtling Tigers.Once or twice, however, a hesitant nervousness almost wrought quick disaster, and the Yale partisans watched him with tormenting apprehension.
+
+The first half of the game was fought into the last few minutes of play and neither eleven had been able to score. Then luck and skill combined to force the struggle far down into Yale territory. Only ten yards more of trampled turf to gain and Princeton would cross the last white line. The indomitable spirit which had placed upon the escutcheon of Yale football the figure of a bulldog rampant, rallied to meet this crisis, and the hard-pressed line held staunch and won possession of the ball on downs. Back to the very shadow of his own goal-posts the Yale full-back ran to punt the ball out of the danger zone. It shot fairly into his grasp from a faultless pass, but his fingers juggled the slippery leather as if it were bewitched. For a frantic, awful instant he fumbled with the ball and wildly dived after it as it caromed off to one side, bounded crazily, and rolled beyond his reach.
+
+The Princeton quarter-back had darted through the line like a bullet. Without slackening speed or veering from his course, he scooped up the ball as he fled toward the Yale goal-line. It was done and over within a twinkling, and while the Yale team stampeded helplessly in his wake the devastating hero was circling behind the goal-posts where he flopped to earth, the precious ball apparently embedded in his stomach. It was a Princeton touchdown fairly won, but made possible by the tragic blunder of one Yale man. While ten thousand Princeton throats were barking their jubilation, as many more loyal friends of Yale sat sad-eyed and sullen and glowered their unspeakable displeasure at the slim figure of the full-back as he limped into line to face the try for goal.The goal was not scored, however, and the fateful tally stood five to nothing when the first half ended, with the blue banners drooping disconsolate.
+
+Henry Seeley pulled his slouch hat over his eyes and sat with hunched shoulders staring at the Yale team as it left the field for the intermission. He had forgotten about his story of the game. The old spectre of failure obsessed him. It was already haunting the pathway of his boy. Was he also to be beaten by one colossal blunder? Henry Seeley felt that Ernest’s whole career hung upon his behavior in the second half. How would the lad “take his medicine”? Would it break his heart or rouse him to fight more valiantly? As if the father had been thinking aloud, the sporting editor at his side observed:
+
+“He may win the game yet. I like the looks of that boy. But he did make a hideous mess of it, didn’t he? I hope he hasn’t got a streak of yellow in him.”
+
+Henry Seeley turned on his neighbor with a savage scowl and could not hold, back the quivering retort:
+
+“He belongs to me, I want you to understand, and we’ll say nothing about yellow streaks until he has a chance to make good next half.”
+
+“Whew-w-w, why did you hold it out on me, old man?” gasped the sporting editor. “No wonder you kicked me black and blue without knowing it. I hope he is a chip of the old block. I saw you play here in your last game.”Seeley grunted something and resumed staring at the field. He was thinking of the present moment in the training quarters, of the muddy, weary players sprawled around the head coach, of his wise, bitter, stinging rebukes and admonitions. Perhaps he would take Ernest out of the game. But Seeley was confident that the coaches would give the boy a chance to redeem himself if they believed his heart was in the right place. Presently the two teams trotted on the field, not as nimbly as at their first appearance, but with dogged resolution in their demeanor. Henry Seeley saw his son glance up at the “cheering sections,” as if wondering whether their welcome was meant to include him. One cheer, at least, was intended to greet him, for Henry Seeley stood on his chair, waved his hat, and thundered:
+
+“‘Rah, ’rah, ’rah, for Yale, my boy. Eat ’em alive as your daddy used to do.”
+
+The men from Princeton had no intention of being devoured in this summary fashion. They resumed their tireless, whirlwind attack like giants refreshed, and so harried their Yale foemen that they were forced to their utmost to ward off another touchdown. This incessant battering dulled the edges of their offensive tactics, and they seemed unable to set in motion a consistent series of advances. But the joy of Princeton was tempered by the knowledge that this, her dearest enemy, was not beaten until the last play had been signalled.
+
+And somehow the Yale machine of muscle, brains, and power began to find itself when the afternoon shadows were slanting athwart the arena. With the ball on Princeton’s forty-yard line the chosen sons of Eli began a heroic advance down the field. It was as if some missing cog had been supplied.“Straight old-fashioned football” it was, eleven minds and bodies working as one and animated by a desperate resolve, which carried the Yale team along for down after down into the heart of Princeton’s ground.
+
+Perhaps because he was fresher than the other backs, perhaps because the captain knew his man, the ball was given to the Yale full-back for one swift and battering assault after another. His slim figure pelted at the rush-line, was overwhelmed in an avalanche of striped arms and legs, but somehow twisted, wriggled, dragged itself ahead as if there was no stopping him. The multitude comprehended that this despised and disgraced Freshman was working out his own salvation along with that of his comrades. Once, when the scrimmage was untangled, he was dragged from beneath a heap of players, unable to regain his feet. He lay on the grass a huddled heap, blood smearing his forehead. A surgeon and the trainer doused and bandaged him, and presently he staggered to his feet and hobbled to his station, rubbing his hands across his eyes as if dazed.
+
+When, at length, the stubbornly retreating Princeton line had been driven deep down into their end of the field, they, too, showed that they could hold fast in the last extremity. The Yale attack crumpled against them as if it had struck a stone wall. Young Seeley seemed to be so crippled and exhausted that he had been given a respite from the interlocked, hammering onslaught, but at the third down the panting quarter-back croaked out his signal. His comrades managed to rip a semblance of an opening for him, he plunged through, popped clear of the line, fell to his knees, recovered his footing by a miracle of agility, and lunged onward, to be brought down within five yards of the coveted goal-posts.He had won the right to make the last momentous charge. Swaying in his tracks, the full-back awaited the summons. Then he dived in behind the interference for a circuit of the right end. Two Princeton men broke through as if they had been shot out of mortars, but the Yale full-back had turned and was ploughing straight ahead. Pulled down, dragging the tackler who clung to his waist, he floundered to earth with most of the Princeton team piled above him. But the ball lay beyond the fateful chalk-line, the Yale touchdown was won, and the game was tied.
+
+The captain clapped Seeley on the shoulder, nodded at the ball, and the full-back limped on to the field to kick the goal or lose a victory. There were no more signs of nervousness in his bearing. With grave deliberation he stood waiting for the ball to be placed in front of the goal-posts. The sun had dropped behind the lofty grand-stands. The field lay in a kind of wintry twilight. Thirty thousand men and women gazed in tensest silence at the mud-stained, battered youth who had become the crowning issue of this poignant moment. Up in the press-box a thick-set, grayish man dug his fists in his eyes and could not bear to look at the lonely, reliant figure down yonder on the quiet field. The father found courage to take his hands from his face only when a mighty roar of joy boomed along the Yale side of the amphitheatre, and he saw the ball drop in a long arc behind the goal-posts. The kick had won the game for Yale.
+
+Once clear of the crowds, Henry Seeley hurried toward the training quarters. His head was up, his shoulders squared, and he walked with the free stride of an athlete. Mr. Richard Giddings danced madly across to him:“Afraid to see him play were you, you silly old fool? He is a chip of the old block. He didn’t know when he was licked. Wow, wow, wow, blood will tell! Come along with us, Harry.”
+
+“I must shake hands with the youngster, Dick. Glad I changed my mind and came to see him do it.”
+
+“All right, see you at Mory’s to-night. Tell the boy we’re all proud of him.”
+
+Seeley resumed his course, saying over and over again, as if he loved the sound of the words, “chip of the old block,” “blood will tell.”
+
+This verdict was like the ringing call of bugles. It made him feel young, hopeful, resolute, that life were worth having for the sake of its strife. One thing at least was certain. His son could “take his punishment” and wrest victory from disaster, and he deserved something better than a coward and a quitter for a father.
+
+The full-back was sitting on a bench when the elder Seeley entered the crowded, steaming room of the training house. The surgeon had removed the muddy, blood-stained bandage from around his tousled head and was cleansing an ugly, ragged gash. The boy scowled and winced but made no complaint, although his bruised face was very pale.
+
+“Must have made you feel pretty foggy,” said the surgeon. “I shall have to put in a few stitches. It was a deuce of a thump.”“I couldn’t see very well and my legs went queer for a few minutes, but I’m all right now, thanks,” replied the full-back, and then, glancing up, he espied his father standing near the door. The young hero of the game beckoned him with a grimy fist. Henry Seeley went over to him, took the fist in his two hands, and then patted the boy’s cheek with awkward and unaccustomed tenderness.
+
+“Sit still, Ernest. I won’t interfere with the doctor’s job. I just wanted to let you know that I saw your bully work. It made me think of—it made me think of——”
+
+Henry Seeley’s voice broke curiously and his lip quivered. He had not meant to show any emotion.
+
+His son replied with a smile of affectionate admiration:
+
+“It made you think of your own teams, didn’t it? And I was thinking of you in that last half. It helped my nerve a whole lot to remember that my dad never knew when he was licked. Why, even the coaches told me that between the halves. It put more ginger into me than anything else. We’ve got to keep up the family record between us.”
+
+The father looked beyond the boy as if he were thinking of a bigger, sterner game than football. There was the light of a resurrected determination in his eyes, and a vibrant earnestness in his voice as he said:“I’m not worrying about your keeping the family record bright, Ernest. And, however things may go with me, you will be able to hang fast to the doctrine which helped you to-day, that your father, too, doesn’t know when he is whipped.”
+
+GALLEGHER
+
+A NEWSPAPER STORY
+
+BY
+
+RICHARD HARDING DAVIS
+
+This is an illustration of a popular type of the short-story. The movement from beginning to end is swift and urgent; something important is happening all the time. Description is reduced to the minimum, and where it is used does not impede the action. The local color of a great newspaper office in a large city contributes to the impression of orderly activity and haste. Gallegher, moreover, is the kind of character that enlists sympathy by his youth, his daring, and his resourcefulness.
+
+GALLEGHER[13]
+
+We had had so many office-boys before Gallegher came among us that they had begun to lose the characteristics of individuals, and became merged in a composite photograph of small boys, to whom we applied the generic title of “Here, you”; or “You, boy.”We had had sleepy boys, and lazy boys, and bright, “smart” boys, who became so familiar on so short an acquaintance that we were forced to part with them to save our own self-respect.
+
+They generally graduated into district-messenger boys, and occasionally returned to us in blue coats with nickel-plated buttons, and patronized us.
+
+But Gallegher was something different from anything we had experienced before. Gallegher was short and broad in build, with a solid, muscular broadness, and not a fat and dumpy shortness. He wore perpetually on his face a happy and knowing smile, as if you and the world in general were not impressing him as seriously as you thought you were, and his eyes, which were very black and very bright, snapped intelligently at you like those of a little black-and-tan terrier.
+
+All Gallegher knew had been learnt on the streets; not a very good school in itself, but one that turns out very knowing scholars. And Gallagher had attended both morning and evening sessions. He could not tell you who the Pilgrim Fathers were, nor could he name the thirteen original States, but he knew all the officers of the twenty-second police district by name, and he could distinguish the clang of a fire-engine’s gong from that of a patrol-wagon or an ambulance fully two blocks distant. It was Gallegher who rang the alarm when the Woolwich Mills caught fire, while the officer on the beat was asleep, and it was Gallegher who led the “Black Diamonds” against the “Wharf Rats,” when they used to stone each other to their hearts’ content on the coal-wharves of Richmond.I am afraid, now that I see these facts written down, that Gallegher was not a reputable character; but he was so very young and so very old for his years that we all liked him very much nevertheless. He lived in the extreme northern part of Philadelphia, where the cotton- and woollen-mills run down to the river, and how he ever got home after leaving the <i>Press</i> building at two in the morning, was one of the mysteries of the office. Sometimes he caught a night car, and sometimes he walked all the way, arriving at the little house, where his mother and himself lived alone, at four in the morning. Occasionally he was given a ride on an early milk-cart, or on one of the newspaper delivery wagons, with its high piles of papers still damp and sticky from the press. He knew several drivers of “night hawks”—those cabs that prowl the streets at night looking for belated passengers—and when it was a very cold morning he would not go home at all, but would crawl into one of these cabs and sleep, curled upon the cushions, until daylight.
+
+Besides being quick and cheerful, Gallegher possessed a power of amusing the <i>Press’s</i> young men to a degree seldom attained by the ordinary mortal. His clog-dancing on the city editor’s desk, when that gentleman was upstairs fighting for two more columns of space, was always a source of innocent joy to us, and his imitations of the comedians of the variety halls delighted even the dramatic critic, from whom the comedians themselves failed to force a smile.
+
+But Gallegher’s chief characteristic was his love for that element of news generically classed as “crime.”Not that he ever did anything criminal himself. On the contrary, his was rather the work of the criminal specialist, and his morbid interest in the doings of all queer characters, his knowledge of their methods, their present whereabouts, and their past deeds of transgression often rendered him a valuable ally to our police reporter, whose daily feuilletons were the only portion of the paper Gallegher deigned to read.
+
+In Gallegher the detective element was abnormally developed. He had shown this on several occasions, and to excellent purpose.
+
+Once the paper had sent him into a Home for Destitute Orphans which was believed to be grievously mismanaged, and Gallegher, while playing the part of a destitute orphan, kept his eyes open to what was going on around him so faithfully that the story he told of the treatment meted out to the real orphans was sufficient to rescue the unhappy little wretches from the individual who had them in charge, and to have the individual himself sent to jail.
+
+Gallegher’s knowledge of the aliases, terms of imprisonment, and various misdoings of the leading criminals in Philadelphia was almost as thorough as that of the chief of police himself, and he could tell to an hour when “Dutchy Mack” was to be let out of prison, and could identify at a glance “Dick Oxford, confidence man,” as “Gentleman Dan, petty thief.”
+
+There were, at this time, only two pieces of news in any of the papers. The least important of the two was the big fight between the Champion of the United States and the Would-be Champion,arranged to take place near Philadelphia; the second was the Burrbank murder, which was filling space in newspapers all over the world, from New York to Bombay.
+
+Richard F. Burrbank was one of the most prominent of New York’s railroad lawyers; he was also, as a matter of course, an owner of much railroad stock, and a very wealthy man. He had been spoken of as a political possibility for many high offices, and, as the counsel for a great railroad, was known even further than the great railroad itself had stretched its system.
+
+At six o’clock one morning he was found by his butler lying at the foot of the hall stairs with two pistol wounds above his heart. He was quite dead. His safe, to which only he and his secretary had the keys, was found open, and $200,000 in bonds, stocks, and money, which had been placed there only the night before, was found missing. The secretary was missing also. His name was Stephen S. Hade, and his name and his description had been telegraphed and cabled to all parts of the world. There was enough circumstantial evidence to show, beyond any question or possibility of mistake, that he was the murderer.
+
+It made an enormous amount of talk, and unhappy individuals were being arrested all over the country, and sent on to New York for identification. Three had been arrested at Liverpool, and one man just as he landed at Sydney, Australia. But so far the murderer had escaped.
+
+We were all talking about it one night, as everybody else was all over the country, in the local room,and the city editor said it was worth a fortune to any one who chanced to run across Hade and succeeded in handing him over to the police. Some of us thought Hade had taken passage from some one of the smaller sea-ports, and others were of the opinion that he had buried himself in some cheap lodging-house in New York, or in one of the smaller towns in New Jersey.
+
+“I shouldn’t be surprised to meet him out walking, right here in Philadelphia,” said one of the staff. “He’ll be disguised, of course, but you could always tell him by the absence of the trigger finger on his right hand. It’s missing, you know; shot off when he was a boy.”
+
+“You want to look for a man dressed like a tough,” said the city editor; “for as this fellow is to all appearances a gentleman, he will try to look as little like a gentleman as possible.”
+
+“No, he won’t,” said Gallegher, with that calm impertinence that made him dear to us. “He’ll dress just like a gentleman. Toughs don’t wear gloves, and you see he’s got to wear ’em. The first thing he thought of after doing for Burrbank was of that gone finger, and how he was to hide it. He stuffed the finger of that glove with cotton so’s to make it look like a whole finger, and the first time he takes off that glove they’ve got him—see, and he knows it. So what youse want to do is to look for a man with gloves on. I’ve been a-doing it for two weeks now, and I can tell you it’s hard work, for everybody wears gloves this kind of weather. But if you look long enough you’ll find him.And when you think it’s him, go up to him and hold out your hand in a friendly way, like a bunco-steerer, and shake his hand; and if you feel that his forefinger ain’t real flesh, but just wadded cotton, then grip to it with your right and grab his throat with your left, and holler for help.”
+
+There was an appreciative pause.
+
+“I see, gentlemen,” said the city editor, drily, “that Gallegher’s reasoning has impressed you; and I also see that before the week is out all of my young men will be under bonds for assaulting innocent pedestrians whose only offence is that they wear gloves in mid-winter.”
+
+* * * * *
+
+It was about a week after this that Detective Hefflefinger, of Inspector Byrnes’s staff, came over to Philadelphia after a burglar, of whose whereabouts he had been misinformed by telegraph. He brought the warrant, requisition, and other necessary papers with him, but the burglar had flown. One of our reporters had worked on a New York paper, and knew Hefflefinger, and the detective came to the office to see if he could help him in his so far unsuccessful search.
+
+He gave Gallegher his card, and after Gallegher had read it, and had discovered who the visitor was, he became so demoralized that he was absolutely useless.“One of Byrnes’s men” was a much more awe-inspiring individual to Gallegher than a member of the Cabinet. He accordingly seized his hat and overcoat, and leaving his duties to be looked after by others, hastened out after the object of his admiration, who found his suggestions and knowledge of the city so valuable, and his company so entertaining, that they became very intimate, and spent the rest of the day together.
+
+In the meanwhile the managing editor had instructed his subordinates to inform Gallegher, when he condescended to return, that his services were no longer needed. Gallegher had played truant once too often. Unconscious of this, he remained with his new friend until late the same evening, and started the next afternoon toward the <i>Press</i> office.
+
+* * * * *
+
+As I have said, Gallegher lived in the most distant part of the city, not many minutes’ walk from the Kensington railroad station, where trains ran into the suburbs and on to New York.
+
+It was in front of this station that a smoothly-shaven, well-dressed man brushed past Gallegher and hurried up the steps to the ticket office.
+
+He held a walking-stick in his right hand, and Gallegher, who now patiently scrutinized the hands of every one who wore gloves, saw that while three fingers of the man’s hand were closed around the cane, the fourth stood out in almost a straight line with his palm.Gallegher stopped with a gasp and with a trembling all over his little body, and his brain asked with a throb if it could be possible. But possibilities and probabilities were to be discovered later. Now was the time for action.
+
+He was after the man in a moment, hanging at his heels and his eyes moist with excitement.
+
+He heard the man ask for a ticket to Torresdale, a little station just outside of Philadelphia, and when he was out of hearing, but not out of sight, purchased one for the same place.
+
+The stranger went into the smoking-car, and seated himself at one end toward the door. Gallegher took his place at the opposite end.
+
+He was trembling all over, and suffered from a slight feeling of nausea. He guessed it came from fright, not of any bodily harm that might come to him, but at the probability of failure in his adventure and of its most momentous possibilities.
+
+The stranger pulled his coat collar up around his ears, hiding the lower portion of his face, but not concealing the resemblance in his troubled eyes and close-shut lips to the likenesses of the murderer Hade.
+
+They reached Torresdale in half an hour, and the stranger, alighting quickly, struck off at a rapid pace down the country road leading to the station.Gallegher gave him a hundred yards’ start, and then followed slowly after. The road ran between fields and past a few frame-houses set far from the road in kitchen gardens.
+
+Once or twice the man looked back over his shoulder, but he saw only a dreary length of road with a small boy splashing through the slush in the midst of it and stopping every now and again to throw snowballs at belated sparrows.
+
+After a ten minutes’ walk the stranger turned into a side road which led to only one place, the Eagle Inn, an old roadside hostelry known now as the headquarters for pothunters from the Philadelphia game market and the battle-ground of many a cock-fight.
+
+Gallegher knew the place well. He and his young companions had often stopped there when out chestnutting on holidays in the autumn.
+
+The son of the man who kept it had often accompanied them on their excursions, and though the boys of the city streets considered him a dumb lout, they respected him somewhat owing to his inside knowledge of dog- and cock-fights.
+
+The stranger entered the inn at a side door, and Gallegher, reaching it a few minutes later, let him go for the time being, and set about finding his occasional playmate, young Keppler.
+
+Keppler’s offspring was found in the wood-shed.“‘Tain’t hard to guess what brings you out here,” said the tavern-keeper’s son, with a grin; “it’s the fight.”
+
+“What fight?” asked Gallegher, unguardedly.
+
+“What fight? Why, <i>the</i> fight,” returned his companion, with the slow contempt of superior knowledge.
+
+“It’s to come off here to-night. You knew that as well as me; anyway your sportin’ editor knows it. He got the tip last night, but that won’t help you any. You needn’t think there’s any chance of your getting a peep at it. Why, tickets is two hundred and fifty apiece!”
+
+“Whew!” whistled Gallegher, “where’s it to be?”
+
+“In the barn,” whispered Keppler. “I helped ’em fix the ropes this morning, I did.”
+
+“Gosh, but you’re in luck,” exclaimed Gallegher, with flattering envy. “Couldn’t I jest get a peep at it?”
+
+“Maybe,” said the gratified Keppler. “There’s a winder with a wooden shutter at the back of the barn. You can get in by it, if you have some one to boost you up to the sill.”“Sa-a-y,” drawled Gallegher, as if something had but just that moment reminded him. “Who’s that gent who come down the road just a bit ahead of me—him with the cape-coat! Has he got anything to do with the fight?”
+
+“Him?” repeated Keppler in tones of sincere disgust. “No-oh, he ain’t no sport. He’s queer, Dad thinks. He come here one day last week about ten in the morning, said his doctor told him to go out ’en the country for his health. He’s stuck up and citified, and wears gloves, and takes his meals private in his room, and all that sort of truck. They was saying in the saloon last night that they thought he was hiding from something, and Dad, just to try him, asks him last night if he was coming to see the fight. He looked sort of scared, and said he didn’t want to see no fight. And then Dad says, ’I guess you mean you don’t want no fighters to see you.’ Dad didn’t mean no harm by it, just passed it as a joke; but Mr. Carleton, as he calls himself, got white as a ghost an’ says, ’I’ll go to the fight willing enough,’ and begins to laugh and joke. And this morning he went right into the bar-room, where all the sports were setting, and said he was going in to town to see some friends; and as he starts off he laughs an’ says, ’This don’t look as if I was afraid of seeing people, does it?’ but Dad says it was just bluff that made him do it, and Dad thinks that if he hadn’t said what he did, this Mr. Carleton wouldn’t have left his room at all.”
+
+Gallegher had got all he wanted, and much more than he had hoped for—so much more that his walk back to the station was in the nature of a triumphal march.He had twenty minutes to wait for the next train, and it seemed an hour. While waiting he sent a telegram to Hefflefinger at his hotel. It read: “Your man is near the Torresdale station, on Pennsylvania Railroad; take cab, and meet me at station. Wait until I come. GALLEGHER.”
+
+With the exception of one at midnight, no other train stopped at Torresdale that evening, hence the direction to take a cab.
+
+The train to the city seemed to Gallegher to drag itself by inches. It stopped and backed at purposeless intervals, waited for an express to precede it, and dallied at stations, and when, at last, it reached the terminus, Gallegher was out before it had stopped and was in the cab and off on his way to the home of the sporting editor.
+
+The sporting editor was at dinner and came out in the hall to see him, with his napkin in his hand. Gallegher explained breathlessly that he had located the murderer for whom the police of two continents were looking, and that he believed, in order to quiet the suspicions of the people with whom he was hiding, that he would be present at the fight that night.
+
+The sporting editor led Gallegher into his library and shut the door. “Now,” he said, “go over all that again.”
+
+Gallegher went over it again in detail, and added how he had sent for Hefflefinger to make the arrest in order that it might be kept from the knowledge of the local police and from the Philadelphia reporters.“What I want Hefflefinger to do is to arrest Hade with the warrant he has for the burglar,” explained Gallegher; “and to take him on to New York on the owl train that passes Torresdale at one. It don’t get to Jersey City until four o’clock, one hour after the morning papers go to press. Of course, we must fix Hefflefinger so’s he’ll keep quiet and not tell who his prisoner really is.”
+
+The sporting editor reached his hand out to pat Gallegher on the head, but changed his mind and shook hands with him instead.
+
+“My boy,” he said, “you are an infant phenomenon. If I can pull the rest of this thing off to-night, it will mean the $5,000 reward and fame galore for you and the paper. Now, I’m going to write a note to the managing editor, and you can take it around to him and tell him what you’ve done and what I am going to do, and he’ll take you back on the paper and raise your salary. Perhaps you didn’t know you’ve been discharged?”
+
+“Do you think you ain’t a-going to take me with you?” demanded Gallegher.
+
+“Why, certainly not. Why should I? It all lies with the detective and myself now. You’ve done your share, and done it well. If the man’s caught, the reward’s yours. But you’d only be in the way now. You’d better go to the office and make your peace with the chief.”
+
+“If the paper can get along without me, I can get along without the old paper,” said Gallegher, hotly. “And if I ain’t a-going with you, you ain’t neither, for I know where Hefflefinger is to be, and you don’t, and I won’t tell you.”“Oh, very well, very well,” replied the sporting editor, weakly capitulating. “I’ll send the note by a messenger; only mind, if you lose your place, don’t blame me.”
+
+Gallegher wondered how this man could value a week’s salary against the excitement of seeing a noted criminal run down, and of getting the news to the paper, and to that one paper alone.
+
+From that moment the sporting editor sank in Gallegher’s estimation.
+
+Mr. Dwyer sat down at his desk and scribbled off the following note:
+
+“I have received reliable information that Hade, the Burrbank murderer, will be present at the fight to-night. We have arranged it so that he will be arrested quietly and in such a manner that the fact may be kept from all other papers. I need not point out to you that this will be the most important piece of news in the country to-morrow.
+
+“Yours, etc.,
+
+“MICHAEL E. DWYER.”
+
+The sporting editor stepped into the waiting cab, while Gallegher whispered the directions to the driver. He was told to go first to a district-messenger office, and from there up to the Ridge Avenue Road, out Broad Street, and on to the old Eagle Inn, near Torresdale.* * * * *
+
+It was a miserable night. The rain and snow were falling together, and freezing as they fell. The sporting editor got out to send his message to the <i>Press</i> office, and then lighting a cigar, and turning up the collar of his great-coat, curled up in the corner of the cab.
+
+“Wake me when we get there, Gallegher,” he said. He knew he had a long ride, and much rapid work before him, and he was preparing for the strain.
+
+To Gallegher the idea of going to sleep seemed almost criminal. From the dark corner of the cab his eyes shone with excitement, and with the awful joy of anticipation. He glanced every now and then to where the sporting editor’s cigar shone in the darkness, and watched it as it gradually burnt more dimly and went out. The lights in the shop windows threw a broad glare across the ice on the pavements, and the lights from the lamp-posts tossed the distorted shadow of the cab, and the horse, and the motionless driver, sometimes before and sometimes behind them.
+
+After half an hour Gallegher slipped down to the bottom of the cab and dragged out a lap-robe, in which he wrapped himself. It was growing colder, and the damp, keen wind swept in through the cracks until the window-frames and woodwork were cold to the touch.
+
+An hour passed, and the cab was still moving more slowly over the rough surface of partly paved streets,and by single rows of new houses standing at different angles to each other in fields covered with ash-heaps and brick-kilns. Here and there the gaudy lights of a drug-store, and the forerunner of suburban civilization, shone from the end of a new block of houses, and the rubber cape of an occasional policeman showed in the light of the lamp-post that he hugged for comfort.
+
+Then even the houses disappeared, and the cab dragged its way between truck farms, with desolate-looking, glass-covered beds, and pools of water, half-caked with ice, and bare trees, and interminable fences.
+
+Once or twice the cab stopped altogether, and Gallegher could hear the driver swearing to himself, or at the horse, or the roads. At last they drew up before the station at Torresdale. It was quite deserted, and only a single light cut a swath in the darkness and showed a portion of the platform, the ties, and the rails glistening in the rain. They walked twice past the light before a figure stepped out of the shadow and greeted them cautiously.
+
+“I am Mr. Dwyer, of the <i>Press</i>,” said the sporting editor, briskly. “You’ve heard of me, perhaps. Well, there shouldn’t be any difficulty in our making a deal, should there? This boy here has found Hade, and we have reason to believe he will be among the spectators at the fight to-night. We want you to arrest him quietly, and as secretly as possible. You can do it with your papers and your badge easily enough. We want you to pretend that you believe he is this burglar you came over after. If you will do this, and take him away without any one so much as suspecting who he really is, and on the train that passes here at 1.20 for New York, we will give you $500 out of the $5,000 reward.If, however, one other paper, either in New York or Philadelphia, or anywhere else, knows of the arrest, you won’t get a cent. Now, what do you say?”
+
+The detective had a great deal to say. He wasn’t at all sure the man Gallegher suspected was Hade; he feared he might get himself into trouble by making a false arrest, and if it should be the man, he was afraid the local police would interfere.
+
+“We’ve no time to argue or debate this matter,” said Dwyer, warmly. “We agree to point Hade out to you in the crowd. After the fight is over you arrest him as we have directed, and you get the money and the credit of the arrest. If you don’t like this, I will arrest the man myself, and have him driven to town, with a pistol for a warrant.”
+
+Hefflefinger considered in silence and then agreed unconditionally. “As you say, Mr. Dwyer,” he returned. “I’ve heard of you for a thoroughbred sport. I know you’ll do what you say you’ll do; and as for me I’ll do what you say and just as you say, and it’s a very pretty piece of work as it stands.”
+
+They all stepped back into the cab, and then it was that they were met by a fresh difficulty, how to get the detective into the barn where the fight was to take place, for neither of the two men had $250 to pay for his admittance.
+
+But this was overcome when Gallegher remembered the window of which young Keppler had told him.In the event of Hade’s losing courage and not daring to show himself in the crowd around the ring, it was agreed that Dwyer should come to the barn and warn Hefflefinger; but if he should come, Dwyer was merely to keep near him and to signify by a prearranged gesture which one of the crowd he was.
+
+They drew up before a great black shadow of a house, dark, forbidding, and apparently deserted. But at the sound of the wheels on the gravel the door opened, letting out a stream of warm, cheerful light, and a man’s voice said, “Put out those lights. Don’t youse know no better than that?” This was Keppler, and he welcomed Mr. Dwyer with effusive courtesy.
+
+The two men showed in the stream of light, and the door closed on them, leaving the house as it was at first, black and silent, save for the dripping of the rain and snow from the eaves.
+
+The detective and Gallegher put out the cab’s lamps and led the horse toward a long, low shed in the rear of the yard, which they now noticed was almost filled with teams of many different makes, from the Hobson’s choice of a livery stable to the brougham of the man about town.
+
+“No,” said Gallegher, as the cabman stopped to hitch the horse beside the others, “we want it nearest that lower gate. When we newspaper men leave this place we’ll leave it in a hurry, and the man who is nearest town is likely to get there first. You won’t be a-following of no hearse when you make your return trip.”Gallegher tied the horse to the very gate-post itself, leaving the gate open and allowing a clear road and a flying start for the prospective race to Newspaper Row.
+
+The driver disappeared under the shelter of the porch, and Gallegher and the detective moved off cautiously to the rear of the barn. “This must be the window,” said Hefflefinger, pointing to a broad wooden shutter some feet from the ground.
+
+“Just you give me a boost once, and I’ll get that open in a jiffy,” said Gallegher.
+
+The detective placed his hands on his knees, and Gallegher stood upon his shoulders, and with the blade of his knife lifted the wooden button that fastened the window on the inside, and pulled the shutter open.
+
+Then he put one leg inside over the sill, and leaning down helped to draw his fellow-conspirator up to a level with the window. “I feel just like I was burglarizing a house,” chuckled Gallegher, as he dropped noiselessly to the floor below and refastened the shutter. The barn was a large one, with a row of stalls on either side in which horses and cows were dozing. There was a haymow over each row of stalls, and at one end of the barn a number of fence-rails had been thrown across from one mow to the other. These rails were covered with hay.In the middle of the floor was the ring. It was not really a ring, but a square, with wooden posts at its four corners through which ran a heavy rope. The space inclosed by the rope was covered with sawdust.
+
+Gallegher could not resist stepping into the ring, and after stamping the sawdust once or twice, as if to assure himself that he was really there, began dancing around it, and indulging in such a remarkable series of fistic manœuvres with an imaginary adversary that the unimaginative detective precipitately backed into a corner of the barn.
+
+“Now, then,” said Gallegher, having apparently vanquished his foe, “you come with me.” His companion followed quickly as Gallegher climbed to one of the haymows, and crawling carefully out on the fence-rail, stretched himself at full length, face downward. In this position, by moving the straw a little, he could look down, without being himself seen, upon the heads of whomsoever stood below. “This is better’n a private box, ain’t it?” said Gallegher.
+
+The boy from the newspaper office and the detective lay there in silence, biting at straws and tossing anxiously on their comfortable bed.
+
+It seemed fully two hours before they came. Gallegher had listened without breathing, and with every muscle on a strain, at least a dozen times, when some movement in the yard had led him to believe that they were at the door.
+
+And he had numerous doubts and fears. Sometimes it was that the police had learnt of the fight, and had raided Keppler’s in his absence,and again it was that the fight had been postponed, or, worst of all, that it would be put off until so late that Mr. Dwyer could not get back in time for the last edition of the paper. Their coming, when at last they came, was heralded by an advance-guard of two sporting men, who stationed themselves at either side of the big door.
+
+“Hurry up, now, gents,” one of the men said with a shiver, “don’t keep this door open no longer’n is needful.”
+
+It was not a very large crowd, but it was wonderfully well selected. It ran, in the majority of its component parts, to heavy white coats with pearl buttons. The white coats were shouldered by long blue coats with astrakhan fur trimmings, the wearers of which preserved a cliqueness not remarkable when one considers that they believed every one else present to be either a crook or a prize-fighter.
+
+There were well-fed, well-groomed clubmen and brokers in the crowd, a politician or two, a popular comedian with his manager, amateur boxers from the athletic clubs, and quiet, close-mouthed sporting men from every city in the country. Their names if printed in the papers would have been as familiar as the types of the papers themselves.
+
+And among these men, whose only thought was of the brutal sport to come, was Hade, with Dwyer standing at ease at his shoulder,—Hade, white, and visibly in deep anxiety, hiding his pale face beneath a cloth travelling-cap, and with his chin muffled in a woollen scarf.He had dared to come because he feared his danger from the already suspicious Keppler was less than if he stayed away. And so he was there, hovering restlessly on the border of the crowd, feeling his danger and sick with fear.
+
+When Hefflefinger first saw him he started up on his hands and elbows and made a movement forward as if he would leap down then and there and carry off his prisoner single-handed.
+
+“Lie down,” growled Gallegher; “an officer of any sort wouldn’t live three minutes in that crowd.”
+
+The detective drew back slowly and buried himself again in the straw, but never once through the long fight which followed did his eyes leave the person of the murderer. The newspaper men took their places in the foremost row close around the ring, and kept looking at their watches and begging the master of ceremonies to “shake it up, do.”
+
+There was a great deal of betting, and all of the men handled the great roll of bills they wagered with a flippant recklessness which could only be accounted for in Gallegher’s mind by temporary mental derangement. Some one pulled a box out into the ring and the master of ceremonies mounted it, and pointed out in forcible language that as they were almost all already under bonds to keep the peace, it behooved all to curb their excitement and to maintain a severe silence, unless they wanted to bring the police upon them and have themselves “sent down” for a year or two.Then two very disreputable-looking persons tossed their respective principals’ high hats into the ring, and the crowd, recognizing in this relic of the days when brave knights threw down their gauntlets in the lists as only a sign that the fight was about to begin, cheered tumultuously.
+
+This was followed by a sudden surging forward, and a mutter of admiration much more flattering than the cheers had been, when the principals followed their hats, and slipping out of their great-coats, stood forth in all the physical beauty of the perfect brute.
+
+Their pink skin was as soft and healthy-looking as a baby’s, and glowed in the lights of the lanterns like tinted ivory, and underneath this silken covering the great biceps and muscles moved in and out and looked like the coils of a snake around the branch of a tree.
+
+Gentleman and blackguard shouldered each other for a nearer view; the coachmen, whose metal buttons were unpleasantly suggestive of police, put their hands, in the excitement of the moment, on the shoulders of their masters; the perspiration stood out in great drops on the foreheads of the backers, and the newspaper men bit somewhat nervously at the ends of their pencils.
+
+And in the stalls the cows munched contentedly at their cuds and gazed with gentle curiosity at their two fellow-brutes, who stood waiting the signal to fall upon, and kill each other if need be, for the delectation of their brothers.
+
+“Take your places,” commanded the master of ceremonies.In the moment in which the two men faced each other the crowd became so still that, save for the beating of the rain upon the shingled roof and the stamping of a horse in one of the stalls, the place was as silent as a church.
+
+“Time!” shouted the master of ceremonies.
+
+The two men sprang into a posture of defence, which was lost as quickly as it was taken, one great arm shot out like a piston-rod; there was the sound of bare fists beating on naked flesh; there was an exultant indrawn gasp of savage pleasure and relief from the crowd, and the great fight had begun.
+
+How the fortunes of war rose and fell, and changed and rechanged that night, is an old story to those who listen to such stories; and those who do not will be glad to be spared the telling of it. It was, they say, one of the bitterest fights between two men that this country has ever known.
+
+But all that is of interest here is that after an hour of this desperate brutal business the champion ceased to be the favorite; the man whom he had taunted and bullied, and for whom the public had but little sympathy, was proving himself a likely winner, and under his cruel blows, as sharp and clean as those from a cutlass, his opponent was rapidly giving way.
+
+The men about the ropes were past all control now; they drowned Keppler’s petitions for silence with oaths and in inarticulate shouts of anger, as if the blows had fallen upon them, and in mad rejoicings.They swept from one end of the ring to the other, with every muscle leaping in unison with those of the man they favored, and when a New York correspondent muttered over his shoulder that this would be the biggest sporting surprise since the Heenan-Sayers fight, Mr. Dwyer nodded his head sympathetically in assent.
+
+In the excitement and tumult it is doubtful if any heard the three quickly repeated blows that fell heavily from the outside upon the big doors of the barn. If they did, it was already too late to mend matters, for the door fell, torn from its hinges, and as it fell a captain of police sprang into the light from out of the storm, with his lieutenants and their men crowding close at his shoulder.
+
+In the panic and stampede that followed, several of the men stood as helplessly immovable as though they had seen a ghost; others made a mad rush into the arms of the officers and were beaten back against the ropes of the ring; others dived headlong into the stalls, among the horses and cattle, and still others shoved the rolls of money they held into the hands of the police and begged like children to be allowed to escape.
+
+The instant the door fell and the raid was declared Hefflefinger slipped over the cross rails on which he had been lying, hung for an instant by his hands, and then dropped into the centre of the fighting mob on the floor. He was out of it in an instant with the agility of a pickpocket, was across the room and at Hade’s throat like a dog. The murderer, for the moment, was the calmer man of the two.“Here,” he panted, “hands off, now. There’s no need for all this violence. There’s no great harm in looking at a fight, is there? There’s a hundred-dollar bill in my right hand; take it and let me slip out of this. No one is looking. Here.”
+
+But the detective only held him the closer.
+
+“I want you for burglary,” he whispered under his breath. “You’ve got to come with me now, and quick. The less fuss you make, the better for both of us. If you don’t know who I am, you can feel my badge under my coat there. I’ve got the authority. It’s all regular, and when we’re out of this d——d row I’ll show you the papers.”
+
+He took one hand from Hade’s throat and pulled a pair of handcuffs from his pocket.
+
+“It’s a mistake. This is an outrage,” gasped the murderer, white and trembling, but dreadfully alive and desperate for his liberty. “Let me go, I tell you! Take your hands off of me! Do I look like a burglar, you fool?”
+
+“I know who you look like,” whispered the detective, with his face close to the face of his prisoner. “Now, will you go easy as a burglar, or shall I tell these men who you are and what I <i>do</i> want you for? Shall I call out your real name or not? Shall I tell them? Quick, speak up; shall I?”There was something so exultant—something so unnecessarily savage in the officer’s face that the man he held saw that the detective knew him for what he really was, and the hands that had held his throat slipped down around his shoulders, or he would have fallen. The man’s eyes opened and closed again, and he swayed weakly backward and forward, and choked as if his throat were dry and burning. Even to such a hardened connoisseur in crime as Gallegher, who stood closely by, drinking it in, there was something so abject in the man’s terror that he regarded him with what was almost a touch of pity.
+
+“For God’s sake,” Hade begged, “let me go. Come with me to my room and I’ll give you half the money. I’ll divide with you fairly. We can both get away. There’s a fortune for both of us there. We both can get away. You’ll be rich for life. Do you understand—for life!”
+
+But the detective, to his credit, only shut his lips the tighter.
+
+“That’s enough,” he whispered, in return. “That’s more than I expected. You’ve sentenced yourself already. Come!”
+
+Two officers in uniform barred their exit at the door, but Hefflefinger smiled easily and showed his badge.
+
+“One of Byrnes’s men,” he said, in explanation; “came over expressly to take this chap. He’s a burglar; ’Arlie’ Lane, <i>alias</i> Carleton. I’ve shown the papers to the captain. It’s all regular. I’m just going to get his traps at the hotel and walk him over to the station.I guess we’ll push right on to New York to-night.”
+
+The officers nodded and smiled their admiration for the representative of what is, perhaps, the best detective force in the world, and let him pass.
+
+Then Hefflefinger turned and spoke to Gallegher, who still stood as watchful as a dog at his side. “I’m going to his room to get the bonds and stuff,” he whispered; “then I’ll march him to the station and take that train. I’ve done my share; don’t forget yours!”
+
+“Oh, you’ll get your money right enough,” said Gallegher. “And, sa-ay,” he added, with the appreciative nod of an expert, “do you know, you did it rather well.”
+
+Mr. Dwyer had been writing while the raid was settling down, as he had been writing while waiting for the fight to begin. Now he walked over to where the other correspondents stood in angry conclave.
+
+The newspaper men had informed the officers who hemmed them in that they represented the principal papers of the country, and were expostulating vigorously with the captain, who had planned the raid, and who declared they were under arrest.
+
+“Don’t be an ass, Scott,” said Mr. Dwyer, who was too excited to be polite or politic. “You know our being here isn’t a matter of choice. We came here on business, as you did, and you’ve no right to hold us.”

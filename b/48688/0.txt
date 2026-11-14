@@ -1,0 +1,1476 @@
+HOLB1	48688	0	0	80	954	44
+1	Preface
+24	IX
+40	Song.
+60	Song.
+78	XI.
+283	VIII.
+298	XI. The good-night.
+377	I. D. [Footnote 1: I meane _&c._ _side-note in…
+603	I. D. [2 verse; _1635-69:_ verse, _1633_]
+639	LII.
+665	I.
+667	II.
+668	III.
+670	V.
+671	VI.
+673	VII.
+674	VIII.
+675	IX.
+677	X.
+678	XI.
+679	XII.
+681	XIII.
+682	XIV.
+683	XV.
+684	XVI.
+686	XVII.
+688	XIX.
+715	XXVIII.
+725	I. D.
+762	III.
+807	I. Chudleigh.
+815	I. Poems
+839	Song.
+848	II. To the Countesse of Huntington.
+859	III. Elegie.
+866	XI.
+868	V. On the blessed Virgin Mary.
+870	VII. Absence.
+873	Song.
+879	IX. Break of Daye.
+880	I. Poems From Additional Ms. 25707.
+887	II. Poems From The Burley Ms.
+899	III. Poems From Various Mss.
+912	2.
+THE POEMS OF JOHN DONNE
+
+EDITED FROM THE OLD EDITIONS AND NUMEROUS MANUSCRIPTS, WITH INTRODUCTIONS & COMMENTARY
+
+BY
+
+HERBERT J. C. GRIERSON M.A.
+
+CHALMERS PROFESSOR OF ENGLISH LITERATURE
+IN THE UNIVERSITY OF ABERDEEN
+
+VOL. I
+
+THE TEXT OF THE POEMS WITH APPENDIXES
+
+OXFORD
+AT THE CLARENDON PRESS
+1912
+
+HENRY FROWDE, M.A.
+
+PUBLISHER TO THE UNIVERSITY OF OXFORD
+
+LONDON, EDINBURGH, NEW YORK
+TORONTO AND MELBOURNE<b>PREFACE</b>
+
+The present edition of Donne's poems grew out of my work as a teacher. In the spring of 1907, just after I had published a small volume on the literature of the early seventeenth century, I was lecturing to a class of Honours students on the 'Metaphysical poets'. They found Donne difficult alike to understand and to appreciate, and accordingly I undertook to read with them a selection from his poems with a view to elucidating difficult passages and illustrating the character of his 'metaphysics', the Scholastic and scientific doctrines which underlie his conceits. The only editions which we had at our disposal were the modern editions of Donne's poems by Grosart and Chambers, but I did not anticipate that this would present any obstacle to the task I had undertaken. About the same time the Master of Peterhouse asked me to undertake the chapter on Donne, as poet and prose-artist, for the <i>Cambridge History of English Literature</i>. The result was that though I had long been interested in Donne, and had given, while at work on the poetry of the seventeenth century, much thought to his poetry as a centre of interest and influence, I began to make a more minute study of the text of his poems than I had yet attempted.
+
+The first result of this study was the discovery that there were several passages in the poems, as printed in Mr. Chambers' edition, of which I could give no satisfactory explanation to my class. At the close of the session I went to Oxford and began in the Bodleian a rapid collation of the text of that edition with the older copies, especially of 1633.The conclusion to which I came was that, excellent in many ways as that edition is, the editor had too often abandoned the reading of 1633 for the sometimes more obvious but generally weaker and often erroneous emendations of the later editions. As he records the variants this had become clear in some cases already, but an examination of the older editions brought out another fact,--that by modernizing the punctuation, while preserving no record of the changes made, the editor had corrupted some passages in such a manner as to make it impossible for a student, unprovided with all the old editions, to recover the original and sometimes quite correct reading, or to trace the error to its fountainhead.
+
+My first proposal to the Delegates of the Clarendon Press was that I should attempt an edition of Donne's poems resting on a collation of the printed texts; that for all poems which it contains the edition of 1633 should be accepted as the authority, to be departed from only when the error seemed to be obvious and certain, and that all such changes, however minute, should be recorded in the notes. In the case of poems not contained in the edition of 1633, the first edition (whether 1635, 1649, 1650, or 1669) was to be the authority and to be treated in the same fashion. Such an edition, it was hoped, might be ready in a year. I had finished my first collation of the editions when a copy of the Grolier Club edition came into my hands, and I included it in the number of those which I compared throughout with the originals.While the results of this collation confirmed me in the opinion I had formed as to the superiority of the edition of 1633 to all its successors, it showed also that that edition was certainly not faultless, and that the text of those poems which were issued only in the later editions was in general very carelessly edited and corrupt, especially of those poems which were added for the first time in 1669. This raised the question, what use was to be made of the manuscript copies of the poems in correcting the errors of the edition? Grosart had based his whole text on one or two manuscripts in preference to the editions. Mr. Chambers, while wisely refusing to do this, and adopting the editions as the basis of his text, had made frequent reference to the manuscripts and adopted corrections from them. Professor Norton made no use of the manuscripts in preparing the text of his edition, but he added in an Appendix an account of one of these which had come into his hands, and later he described some more and showed clearly that he believed corrections were to be obtained from this source. Accordingly I resolved to examine tentatively those which were accessible in the British Museum, especially the transcript of three of the <i>Satyres</i> in Harleian MS. 5110.
+
+A short examination of the manuscripts convinced me that it would be very unsafe to base a text on any single extant manuscript, or even to make an eclectic use of a few of them, taking, now from one, now from another, what seemed a probable emendation. On the other hand it became clear that if as wide a collation as possible of extant manuscripts were made one would be able to establish in many cases what was, whether right or wrong, the traditional reading before any printed edition appeared.A few experiments further showed that one, and a very important, result of this collation would be to confirm the trustworthiness of 1633, to show that in places where modern editors had preferred the reading of some of the later editions, generally 1635 or 1669, the text of 1633 was not only intrinsically superior but had the support of tradition, i.e. of the majority of the manuscripts. If this were the case, then it was also possible that the traditional, manuscript text might afford corrections when 1633 had fallen into error. At the same time a very cursory examination of the manuscripts was sufficient to show that many of them afforded an infinitely more correct and intelligible text of those poems which were not published in 1633 than that contained in the printed editions.
+
+Another possible result of a wide collation of the manuscripts soon suggested itself, and that was the settlement of the canon of Donne's poems. One or two of the poems contained in the old editions had already been rejected by modern editors, and some of these on the strength of manuscript ascriptions. But on the one hand, no systematic attempt had been made to sift the poems, and on the other, experience has shown that nothing is more unsafe than to trust to the ascriptions of individual, unauthenticated manuscripts. Here again it seemed to the present editor that if any definite conclusion was to be obtained it must be by as wide a survey as possible, by the accumulation of evidence. No such conclusion might be attainable, but it was only thus that it could be sought.The outcome of the investigation thus instituted has been fully discussed in the article on the <i>Text and Canon of Donne's Poems</i> in the second volume, and I shall not attempt to summarize it here. But it may be convenient for the student to have a quite brief statement of what it is that the notes in this volume profess to set forth.
+
+Their first aim is to give a complete account of the variant readings of the original editions of 1633, 1635, 1639, 1649-50-54 (the text in these three is identical), and 1669. This was the aim of the edition as originally planned, and though my opinion of the value of many of the variants of the later editions has undergone considerable abatement since I was able to study them in the light afforded by the manuscripts, I have endeavoured to complete my original scheme; and I trust it may be found that nothing more important has been overlooked than an occasional misprint in the later editions. But I know from the experience of examining the work of my precursors, and of revising my own work, that absolute correctness is almost unattainable. It has been an advantage to me in this part of the work to come after Mr. Chambers and the Grolier Club editors, but neither of these editions records changes of punctuation.
+
+The second purpose of the notes is to set forth the evidence of the manuscripts. I have not attempted to give anything like a full account of the variant readings of these, but have recorded so much as is sufficient for four different purposes.(1) To vindicate the text of 1633. I have not thought it necessary to detail the evidence in cases where no one has disputed the 1633 reading. If the note simply records the readings of the editions it may be assumed that the manuscript evidence, so far as it is explicit (the manuscripts frequently abound in absurd errors), is on the side of 1633. In other cases, when there is something to be said for the text of the later editions, and especially when modern editors have preferred the later reading (though I have not always called attention to this) I have set forth the evidence in some detail. At times I have mentioned each manuscript, at others simply <i>all the MSS.</i>, occasionally just <i>MSS.</i> This last means generally that all the positive evidence before me was in favour of the reading, but that my collations were silent as to some of the manuscripts. My collators, whether myself or those who worked for me, used Mr. Chambers' edition because of its numbered lines. Now if Mr. Chambers had already adopted a 1635 or later reading the tendency of the collator--especially at first, before the importance of certain readings had become obvious--was to pass over the agreement of the manuscript with this later reading in silence. In all important cases I have verified the reading by repeated reference to the manuscripts, but in some of smaller importance I have been content to record the general trend of the evidence. I have tried to cite no manuscript unless I had positive evidence as to its reading.(2) The second use which I have made of the manuscript evidence is to justify my occasional departures from the text of the editions, whether 1633 (and these are the departures which call for most justification) or whatever later edition was the first to contain the poem. In every such case the reader should see at a glance what was the reading of the first edition, and on what authority it has been altered. My aim has been a true text (so far as that was attainable), not a reprint; but I have endeavoured to put the reader in exactly the same position as I was myself at each stage in the construction of that text. If I have erred, he can (in a favourite phrase of Donne's) 'control' me. This applies to spelling and punctuation as well as to the words themselves. But two warnings are necessary. When I note a reading as found in a number of editions, e.g. 1635 to 1654 (1635-54), or in <i>all</i> the editions (1633-69), it must be understood that the spelling is not always the same throughout. I have generally noted any variation in the use of capitals, but not always. The spelling and punctuation of each poem is that of the <i>first</i> edition in which it was published, or of the manuscript from which I have printed, all changes being recorded. Again, if, in a case where the words and not the punctuation is the matter in question, I cite the reading of an edition or some editions followed by a list of agreeing manuscripts, it will be understood that any punctuation given is that of the editions. If a list of manuscripts only is given, the punctuation, if recorded, is that of one or two of the best of these.In cases where punctuation is the matter in question the issue lies between the various editions and my own sense of what it ought to be. Wherever it is not otherwise indicated the punctuation of a poem is that of the first edition in which it appeared or of the manuscript from which I have printed it. I have not recorded every variant of the punctuation of later editions, but all that affect the sense while at the same time not manifestly absurd. The punctuation of the manuscripts is in general negligible, but of a few manuscripts it is good, and I have occasionally cited these in support of my own view as to what the punctuation should be.
+
+(3) A third purpose served by my citation of the manuscripts is to show clearly that there are more versions than one of some poems. A study of the notes to the <i>Satyres</i>, <i>The Flea</i>, <i>The Curse</i>, <i>Elegy XI: The Bracelet</i>, will make this clear.
+
+(4) A fourth, subordinate and occasional, purpose of my citation of the manuscripts is to show how Donne's poems were understood or misunderstood by the copyists. Occasionally a reading which is probably erroneous throws light upon a difficult passage. The version of <i>P</i> at p. 34, ll. 18-19, elucidates a difficult stanza. The reading of Q in <i>The Storme</i>, l. 38,
+
+Yea, and the Sunne
+
+for the usual
+
+I, and the Sunnesuggests, what is probably correct but had not been suspected by any editor, that 'I' here, as often, is not the pronoun, but 'Aye'.
+
+The order of the poems is that of the editions of 1635 onwards with some modifications explained in the Introduction. In Appendix B I have placed all those poems which were printed as Donne's in the old editions (1633 to 1669), except Basse's <i>Epitaph on Shakespeare</i>, and a few found in manuscripts connected with the editions, or assigned to Donne by competent critics, all of which I believe to be by other authors. The text of these has been as carefully revised as that of the undoubted poems. In Appendix C I have placed a miscellaneous collection of poems loosely connected with Donne's name, and illustrating the work of some of his fellow-wits, or the trend of his influence in the occasional poetry of the seventeenth century.
+
+The work of settling the text, correcting the canon, and preparing the Commentary has been done by myself. It was difficult to consult others who had not before them all the complex mass of evidence which I had accumulated. On some five or six places in the text, however, where final question to be decided was the intrinsic merits of the readings offered by the editions and by the manuscripts, or the advisability of a bolder emendation, I have had the advantage of comparing my opinion with that of Sir James Murray, Sir Walter Raleigh, Dr. Henry Bradley, Mr. W. A. Craigie, Mr. J. C. Smith, or Mr. R. W. Chapman.For such accuracy as I have secured in reproducing the old editions, in the text and in the notes, I owe much to the help of three friends, Mr. Charles Forbes, of the Post Office, Aberdeen, who transcribed the greater portion of my manuscript; Professor John Purves, of University College, Pretoria, who during a visit to this country read a large section of my proofs, comparing them with the editions in the British Museum; and especially to my assistant, Mr. Frederick Rose, M.A., now Douglas Jerrold Scholar, Christ Church, Oxford, who has revised my proofs throughout with minute care.
+
+I am indebted to many sources for the loan of necessary material. In the first place I must acknowledge my debt to the Carnegie Trust for the Universities of Scotland for allowing me a grant of £40 in 1908-9, and of £30 in 1909-10, for the collation of manuscripts. Without this it would have been impossible for me to collate, or have collated for me, the widely scattered manuscripts in London, Petworth, Oxford, Cambridge, Manchester, and Boston. Some of my expenses in this connexion have been met by the Delegates of the Clarendon Press, who have also been very generous in the purchase of necessary books, such as editions of the Poems and the Sermons. At the outset of my work the Governing Body of Christ Church, Oxford, lent me the copy of the edition of 1633 (originally the possession of Sir John Vaughan (1603-1674) Chief Justice of the Common Pleas) on which the present edition is based, and also their copies of the editions of 1639, 1650, and 1654. At the same time Sir Walter Raleigh lent me his copy of the edition of 1669. At an early stage of my work Captain C. Shirley Harris, of 90 Woodstock Road, Oxford, communicated with me about Donne's use of the word 'Mucheron', and he was kind enough to lend me both his manuscript, <i>P</i>, and the transcript which he had caused to be made.By the kindness of Lord Ellesmere I was permitted to collate his unique copy of the 1611 edition of the <i>Anatomy of the World</i> and <i>Funerall Elegie</i>. While I was doing so, Mr. Strachan Holme, the Librarian, drew my attention to a manuscript collection of Donne's poems (<i>B</i>), and with his kind assistance I was enabled to collate this at Walkden, Manchester, and again at Bridgewater House. Mr. Holme has also furnished a photograph of the title-page of the edition of 1611. To the authorities of Trinity College, Dublin, and of Trinity College, Cambridge, I am indebted not only for permission to collate their manuscripts on the spot, but for kindly lending them to be examined and compared in the Library at King's College, Aberdeen; and I am indebted for a similar favour to the authorities of Queen's College, Oxford. In Dublin I met Professor Edward Dowden, and no one has been a kinder friend to my enterprise. He put at my disposal his interesting and valuable manuscript (<i>D</i>) and all his collection of Donne's works. He drew my attention to a manuscript (<i>O'F</i>) in Ellis and Elvey's catalogue for 1903. Mr. Warwick Bond was good enough to lend me the notes he had made upon this manuscript, which ultimately I traced to Harvard College Library. With Professor Dowden, Mr. Edmund Gosse has given me the most generous and whole-hearted assistance. He lent me, as soon as ever I applied to him, his valuable and unique Westmoreland MS., containing many poems which were not included in any of the old editions. Some of these Mr. Gosse had already printed in his own delightful <i>Life and Letters of John Donne</i> (1899), but he has allowed me to reprint these and to print the rest of the unpublished poems for the first time. From his manuscript (<i>G</i>) of the <i>Progresse of the Soule</i>, or <i>Metempsychosis</i>, I have also obtained important emendations of the text.This is the most valuable manuscript copy of this poem. It will be seen that Mr. Gosse is a very material contributor to the completeness and interest of the present edition.
+
+To the Marquess of Crewe I am indebted for permission to examine the manuscript <i>M</i>, to which a note of Sir John Simon's had called my attention; and to Lord Leconfield for a like permission to collate a manuscript in his possession, of which a short description is given in the <i>Hist. MSS. Commission, Sixth Report</i>, p. 312, No. 118. With Mr. Whitcomb's aid I was enabled to do this carefully, and he has subsequently verified references. Another interesting manuscript (<i>JC</i>) was lent me by Mr. Elkin Mathews, who has also put at my disposal his various editions of the <i>Lives</i> of Walton and other books connected with Donne. Almost at the eleventh hour, Mr. Geoffrey Keynes, of St. Bartholomew's Hospital, discovered for me a copy of the 1612 edition of the <i>Anniversaries</i>, for which I had asked in vain in <i>Notes and Queries</i>. I owe to him, and to the kind permission of Mr. Edward Huth and the Messrs. Sotheby, a careful collation and a photograph of the title-page.
+
+For the Commentary Dr. Norman Moore supplied me with a note on the Galenists and Paracelsians; and Dr. Gaster with the materials for a note on Donne's use of Jewish Apocrypha. Professor Picavet, of the Sorbonne, Paris, was kind enough to read in proof my notes on Donne's allusions to Scholastic doctrines, and to make suggestions. But I have added to these notes as they passed through the Press, and he must not be made responsible for my errors. Mr. W. Barclay Squire and Professor C. Sanford Terry have revised my transcripts and proofs of the music.I desire lastly to express my gratitude to the officials of the Clarendon Press for the care with which they have checked my proofs, the patience with which they have accepted my changes and additions, and the trouble they have taken to secure photographs, music, and other details. Whatever faults may be found--and I doubt not they will be many--in my part of the work, I think the part for which the Press is responsible is wellnigh faultless.
+
+H. J. C. GRIERSON.
+
+LANGCROFT,
+DINNET, ABERDEENSHIRE.
+
+<i>July 15, 1912.</i>
+
+NOTE
+
+The typography of the edition of 1633 has been closely followed, in its use for example of 'u' and 'v'; and of long 's', which is avoided in certain combinations, e.g. 'sk' (but P. 12, l. 27. 'askes' 1633) and frequently 'sb'; nor is it generally used when the letter following 's' is elided; but there are one or two exceptions to this.
+
+In the following places I have printed a full 'and' where 1633 contracts to '&' owing to the length of the line:Page 12, l. 4. & whõ; P. 15, l. 40. & drove; P. 65, l. 8. & nought; P. 153, l. 105. & almes; P. 158, l. 101. & name; do., l. 107. & rockes, &; P. 159, l. 30. & black; P. 171, l. 83. & lawes; P. 183, l. 18. & Courts; P. 184, l. 29. & God; P. 205, l. 2. & pleasure; P. 240, l. 288. & sinke; P. 254, l. 107. & thinke; do., l. 113. & think; P. 280, l. 24. & Mines; P. 297, l. 56. & lands; do., l. 62. & brow; P. 306, l. 290. & lents; P. 327 (xii), l. 8. & feed; P. 337, l. 35. & thou; P. 360, l. 188. & turn'd; P. 384, l. 78. & face.
+
+In the following places 'm' or 'n', indicated by a contraction, has been printed in full: Page 12, l. 4. Her whõ; do. & whõ; P. 37, 1. 17. whẽ (<i>bis</i>); P. 82, l. 46. thẽ; P. 90, l. 2. frõ; P. 128, l. 28. Valẽtine; P. 141, l. 8. whẽ; P. 150, l. 16. thẽ; P. 159, l. 30. strãge; P. 169, l. 31. whõ; P. 257, l. 210. successiõ; P. 266, l. 513. anciẽt; P. 305, l. 255. thẽ; P. 336, l. 10. whẽ; P. 343, l. 126. Frõ; P. 345, l. 169. thẽ; P. 387, l. 71. Pẽbrooke.
+
+There are a few examples of the same changes in the poems printed from the later editions, but I have not reproduced any of these editions so completely as 1633, every poem in which, with the exception of Basse's <i>An Epitaph upon Shakespeare</i> (1633. p. 149 i.e. 165) has been here reprinted.
+
+CONTENTS OF VOL. I
+
+SOURCE PAGE
+
+1633 THE PRINTER TO THE UNDERSTANDERS 11633 HEXASTICHON BIBLIOPOLAE 3
+
+1635 HEXASTICHON AD BIBLIOPOLAM 3
+
+1650 DEDICATION TO THE EDITION OF 1650 4
+
+1650 TO JOHN DONNE 5
+
+1650 TO LUCY, COUNTESSE OF BEDFORD, WITH M. DONNES SATYRES 6
+
+1650 TO JOHN DONNE 6
+
+SONGS AND SONETS
+
+1633 195 The good-morrow 7 196-7 Song 8 197-8 Womans constancy 9 198-9 The undertaking 10 199-200 The Sunne Rising 11 200-1 The Indifferent 12 201-2 Loves Vsury 13 202-4 The Canonization 14 204-5 The triple Foole 16 205-6 Lovers infiniteness 17 206-8 Song 18 208-9 The Legacie 20 209-10 A Feaver 21 211-12 Aire and Angels 22 212 Breake of day 23 213-14 The Anniversarie 24 214-17 A Valediction: of my name, in the window 25 218-19 Twicknam garden 28 219-21 A Valediction: of the booke 29 222 Communitie 32 223-4 Loves growth 33 224-5 Loves exchange 34 226 Confined Love 36 227 The Dreame 37 228-9 A Valediction: of weeping 38 229-30 Loves Alchymie 39 230-1 The Flea 40 231-2 The Curse 41 186 The Message 43 187-8 A nocturnall upon S.Lucies day, Being the shortest day 44 189 Witchcraft by a picture 45 190-1 The Baite 46 191 The Apparition 47 192-3 The broken heart 48 193-4 A Valediction: forbidding mourning 49 277-80 The Extasie 51 280-1 Loves Deitie 54 281-2 Loves diet 55 283-5 The Will 56 285-6 The Funerall 58 286-7 The Blossome 59 288-9 The Primrose, being at Montgomery Castle, upon the hill, on which it is situate 61 289-90 The Relique 62 290-1 The Dampe 63 291-2 The Dissolution 64 292-3 A Ieat Ring sent 65 293 Negative love 66 294 The Prohibition 67 295 The Expiration 68 295 The Computation 69 302 The Paradox 69 1635 63-4 Farewell to love 70 66-7 A Lecture upon the Shadow 71 1650 264-5 Sonnet. The Token 72 391-2 ‹Selfe Love› He that cannot chuse but love 73
+
+EPIGRAMS
+
+1633 40 Hero and Leander 75 40 Pyramus and Thisbe 75 40 Niobe 75 41 A burnt ship 75 41 Fall of a wall 76 41 A lame begger 76 Westmoreland MS. Cales and Guyana 76 " MS. Sir Iohn Wingefield 76 1633 41 A selfe accuser 76 42 A licentious person 77 42 Antiquary 77 42 Disinherited 77 42 Phryne 77 42 An obscure writer 77 42 Klockius 77 43 Raderus 78 43 Mercurius Gallo-Belgicus 78 43 Ralphius 78 Westmoreland MS. The Lier 78
+
+ELEGIES
+
+1633 44-5 I. Iealosie 79 45-7 II. The Anagram 80 47-8 III. Change 82 49-51 IV. The Perfume 84 51-2 V. His Picture 86 53-5 VI. Oh, let mee not 87 55-6 VII. Natures lay Ideot 89 149-50 VIII. The Comparison 90 151-2 IX. The Autumnall 92 153 X. The Dreame 95 1635 89-93 XI. The Bracelet 96 1669 86-9 XII.His parting from her 100 1635 96-7 XIII. Iulia 104 98-100 XIV. A Tale of a Citizen and his Wife 105 1633 300-2 XV. The Expostulation 108 1635 269-70 XVI. On his Mistris 111 1650 388-90 XVII. Variety 113 1669 94-7 XVIII. Loves Progress 116 97-9 XIX. Going to Bed 119 Westmoreland MS. XX. Loves Warr 122
+
+1633 166-8 HEROICALL EPISTLE: Sapho to Philænis 124
+
+EPITHALAMIONS, OR MARRIAGE SONGS
+
+1633 118-22 An Epithalamion, Or marriage Song on the
+        Lady Elizabeth, and Count Palatine being
+        married on St. Valentines day 127
+       123-27 Eclogue. 1613. December 26 131
+       127-35 Epithalamion 135
+       135-8 Epithalamion made at Lincolnes Inne 141
+
+SATYRES
+
+1633 325-8 Satyre I 145 329-32 Satyre II 149 333-6 Satyre III 154 337-45 Satyre IIII 158 346-9 Satyre V 168 1650 262-4 Vpon Mr. Thomas Coryats Crudities 172 <i>Coryats Crudities</i> In eundem Macaronicon 174
+
+LETTERS TO SEVERALL PERSONAGES
+
+1633 56-9 The Storme 175 59-61 The Calme 178 61-3 To S^r Henry Wotton. Sir, more then kisses 180 72-4 To S^r Henry Goodyere.Who makes the Past 183 74-5 To M^r Rowland Woodward. Like one who 185 76-7 To S^r Henry Wootton. Here's no more newes 187 Burley MS. H: W: in Hiber: belligeranti 188 1633 77-9 To the Countesse of Bedford. Madame, Reason is 189 79-82 To the Countesse of Bedford. Madame, You have refin'd 191 82-4 To S^r Edward Herbert, at Iulyers. Man is a lumpe 193 84-7 To the Countesse of Bedford. T'have written then 195 87-90 To the Countesse of Bedford. This twilight of 198 90-3 To the Countesse of Huntingdon. Madame, Man to Gods image 201 93-4 To M^r T. W. All haile sweet Poët 203 95 To M^r T. W. Hast thee harsh verse 205 95-6 To M^r T. W. Pregnant again 206 96 To M^r T. W. At once, from 206 Westmoreland MS. To M^r R. W. Zealously my Muse 207 " MS. To M^r R. W. Muse not that by 207 1633 97 To M^r C. B. Thy friend, whom 208 Westmoreland MS. To M^r E. G. Even as lame things 208 1633 100-1 To M^r R. W. If, as mine is 209 Westmoreland MS. To M^r R. W. Kindly I envy 210 1633 98 To M^r S. B. O Thou which 211 101 To M^r I. L. Of that short 212 99-100 To M^r B. B. Is not thy sacred 212 102 To M^r I. L. Blest are your 213 104-5 To Sir H. W. at his going Ambassador to Venice 214 106-8 To M^rs M. H. Mad paper stay 216 108-10 To the Countesse of Bedford. Honour is so 218 111 To the Countesse of Bedford. Though I be dead 220 112-13 A Letter to the Lady Carey, and M^rs Essex Riche, From Amyens. Madame, Here where 221 115-18 To the Countesse of Salisbury. August. 1614 224 298-9 To the Lady Bedford. You that are she 227
+
+AN ANATOMIE OF THE WORLD
+
+1633 233-5 To the praise of the dead 229 235-51 The first Anniversary 231 252-5 A Funerall Elegie 245OF THE PROGRESSE OF THE SOULE
+
+1633 257-9 The Harbinger to the Progresse 249 260-77 The second Anniversarie 251
+
+EPICEDES AND OBSEQUIES UPON THE
+DEATHS OF SUNDRY PERSONAGES
+
+1633 154-7 Elegie upon the untimely death of the incomparable Prince Henry 267 139 To the Countesse of Bedford. <i>Letter introducing</i> 270 140-8 Obsequies to the Lord Harrington, brother to the Lady Lucy, Countesse of Bedford 271 66-8 Elegie on the Lady Marckham 279 69-71 Elegie on M^{ris} Boulstred 282 296-8 Elegie. Death 284 52-3 Elegie on the L. C. 287 162-3 An hymne to the Saints, and to Marquesse Hamylton 288
+
+EPITAPHS
+
+1635 271 On himselfe 291 386-7 Omnibus 292
+
+1633 before p. 1 INFINITATI SACRUM
+
+        Epistle 293
+1-27 The Progresse of the Soule 295
+
+DIVINE POEMS1633 103 To E. of D. with six holy Sonnets 317 Walton's <i>Life of }To the Lady Magdalen Herbert: of St. Mary M^r George Herbert</i>} Magdalen 317
+
+HOLY SONNETS
+
+1633 28 <i>La Corona</i> 318 28-9 Annunciation 319 29 Nativitie 319 30 Temple 320 30-1 Crucifying 320 31 Resurrection 321 31-2 Ascention 321 <i>Holy Sonnets</i> 1635 331-2 I. Thou hast made me 322 1633 32 II. As due by many titles 322 1635 333 III. O might those sighes and teares 323 1633 33 IV. Oh my blacke Soule 323 1635 334 V. I am a little world 324 1633 33-4 VI. This is my playes last scene 324 34 VII. At the round earths imagin'd corners 325 1635 336 VIII. If faithfull soules be alike glorifi'd 325 1633 35 IX. If poysonous mineralls 326 35-6 X. Death be not proud 326 36 XI. Spit in my face you Jewes 327 37 XII. Why are wee by all creatures waited on? 327 37-8 XIII. What if this present were the worlds last night? 328 38 XIV. Batter my heart 328 39 XV. Wilt thou love God, as he thee! 329 39-40 XVI. Father, part of his double interest 329 Westmoreland MS. XVII. Since she whom I lov'd hath payd her last debt 330 " MS. XVIII. Show me deare Christ, thy spouse 330 " MS. XIX. Oh, to vex me, contraryes meet in one 331 1633 64-6 The Crosse 331 161-2 Resurrection, imperfect 333 168-9 The Annuntiation and Passion 334 170-1 Goodfriday, 1613.Riding Westward 336 172-85 THE LITANIE 338 1635 366-8 Vpon the translation of the Psalmes by Sir Philip Sydney, and the Countesse of Pembroke his Sister 348 368 Ode: Of our Sense of Sinne 350 369-70 To M^r Tilman after he had taken orders 351 1633 304-5 A Hymne to Christ, at the Authors last going into Germany 352 306-23 The Lamentations of Ieremy, for the most part according to Tremelius 354 1635 387-8 Hymne to God my God, in my sicknesse 368 1633 350 A Hymne to God the Father 369 Trinity College, Dublin, MS. To Christ 370
+
+ELEGIES UPON THE AUTHOR 371
+
+APPENDIX A
+
+LATIN POEMS AND TRANSLATIONS
+
+1635 278 De libro cum mutuaretur &c. 397 278 ‹Epigramma› 397 1650 370-1 Amicissimo, & meritissimo, Ben Jonson 398 378 To M^r George Herbert, with one of my Seals 398 379 A sheafe of Snakes used 399 385 Translated out of Gazæus 401
+
+APPENDIX B
+
+POEMS ATTRIBUTED TO JOHN DONNE IN THE OLD EDITIONS
+(1633-1669) AND THE PRINCIPAL MS. COLLECTIONS,
+ARRANGED ACCORDING TO THEIR PROBABLE AUTHOR.
+
+IPOEMS. Probably by Sir John Roe, Knt. 1669 130-42 To S^r Nicholas Smyth. Sleep, next society 401 1635 146-7 Satyre. Men write that love and reason disagree 406 93-5 An Elegie. Come, Fates; I feare you not 407 Hawthornden MS. An Elegie to M^{ris} Boulstred: 1602 410 Addl. MS. 10309 An Elegie. True love findes witt 412 1635 65-6 Song. Deare Love, continue 412 208-9 To Ben. Iohnson, 6 Ian. 1603 414 207-8 To Ben. Iohnson, 9. Novembris, 1603 415 209-10 To S^r Tho. Roe. 1603 416
+
+II
+
+1635 191-5 To the Countesse of Huntington.
+        That unripe side of earth 417
+
+III
+
+1635 272 Elegie.
+        Death be not proud 422
+
+IV
+
+1635 157-61 Psalme 137. Probably by Francis Davison.
+        By Euphrates Flowry side 424
+
+V1635 342 On the blessed Virgin Mary. Probably by
+        Henry Constable 427
+
+VI
+
+1635 372 On the Sacrament 427
+
+VII
+
+Stowe MS. 961 Absence. Absence, heare my protestation 428 Probably by John Hoskins.
+
+VIII
+
+1635 62 Song. Soules joy. Probably by the Earl of
+        Pembroke 429
+       195-6 A Dialogue 430<b>IX</b>
+
+1669 17 Break of Daye.
+        Stay, O sweet 432
+        Probably by John Dowlands.
+
+APPENDIX C
+
+Addl. MS. 25707 A Letter written by S^r H: G: and J: D:
+        alternis vicibus 433
+Addl. MS. 25707 O Frutefull Garden 434
+        To my Lord of Pembroke 435
+        Of a Lady in the Black Masque 436
+Burley MS. ‹Life.› 437
+        ‹My Love.› 437
+        ‹O Eyes!› 438
+        ‹Silence Best Praise.› 439
+        ‹Beauty in Little Room.› 440
+        ‹Loves Zodiake.› 440
+        ‹Fortune, Love, and Time.› 440
+        ‹Life a Play.› 441
+        A Kisse 441
+        Epi: B: Jo: 443
+        Epi: Hen: Princ: Hug^o Holland 443
+O'Flaherty MS. ‹The Annuntiation. Additional Lines.› 443
+        Elegy. To Chast Love 445        Upon his scornefull Mistresse. Elegy 446
+Lansdowne MS. 740 ‹Absence.› 447
+        ‹Tongue-tied Love.› 447
+O'Flaherty MS. ‹Love, if a God thou art.› 448
+        ‹Great Lord of Love.› 448
+        ‹Loves Exchange.› 449
+        Song. Now y'have killd 450
+Stowe MS. 961 Love, bred of glances 450
+Bridgewater MS. To a Watch restored to its Mystres‹se› 451
+Egerton MS. ‹Ad Solem.› 451
+Stephens MS. ‹If She Deride.› 452
+        ‹Fortune Never Fails.› 453
+        To His Mistress 455
+Stowe MS. 961 A Paradoxe of a Painted Face 456
+        Sonnett. Madam that flea 459
+Addl. MS. 11811 On Black Hayre and Eyes 460
+Phillipps MS. Fragment of an Elegy 462
+Walton's <i>Compleat Angler</i> ‹Farewel, ye guilded follies.› 465
+
+INDEX OF FIRST LINES 469
+
+PLATES
+
+John Donne, from the engraving prefixed to the <i>Poems</i>, 1635
+        <i>face page</i> 7John Donne, 1613, from an engraving prefixed to the prose
+  <i>Letters &c.</i>, 1651 <i>face page</i> 175
+
+John Donne, from the frontispiece to <i>Death's Duel</i>, 1632
+        <i>face page</i> 369
+
+LIST OF EDITIONS REGULARLY CITED IN NOTES.
+
+<i>1633</i>, <i>1635</i>, <i>1639</i>, <i>1650</i>, <i>1654</i>, <i>1669</i>.
+
+Contractions:
+  <i>1633-54</i> i.e. All editions between and including these dates.
+  <i>1633-69</i> i.e. All the editions.
+        Etc.
+
+EDITIONS OCCASIONALLY CITED.
+
+<i>1649</i>, in lists of editions and MSS. appended to poems first published in that edition. Textually it is identical with <i>1650-54</i>.
+
+<i>1719</i>, Tonson's edition.
+
+<i>1855</i>, The Boston edition of that year--cited once.
+
+<i>Grosart</i>, A. B. Grosart's edition of 1872-3.<i>Grolier</i>, The Grolier Club edition of Professor Norton and Mrs. Burnett, 1895.
+
+<i>Chambers</i>, Mr. E. K. Chambers' edition of 1896.
+
+LIST OF MS. SIGLA
+
+<i>A10</i> Additional MS. 10,309, British Museum.
+<i>A11</i> " " 11,811, "
+<i>A18</i> " " 18,646, "
+<i>A23</i> " " 23,229, "
+<i>A25</i> " " 25,707, "
+<i>A34</i> " " 34,744, "
+<i>Ash 38</i> Ashmole MS. 38, Bodleian Library.
+<i>B</i> Bridgewater MS., Bridgewater House.
+<i>Bur</i> Burley MS., formerly at Burley-on-the-Hill House, Rutland.
+<i>C</i> Cambridge University Library MS.
+<i>Cy</i> Carnaby MS., Harvard College.
+<i>D</i> Dowden MS., belonging to Professor Edward Dowden.
+<i>E20</i> Egerton MS. 2013, British Museum.
+<i>E22</i> " " 2230, "
+<i>G</i> Gosse MS. of <i>Metempsychosis</i>, belonging to Mr. Edmund Gosse.
+<i>H39</i> Harleian MS. 3910, British Museum.
+<i>H40</i> " " 4064, "
+<i>H49</i> " " 4944, "
+<i>H51</i> " " 5110, "<i>HN</i> Hawthornden MS., Library of Society of Antiquaries, Edinburgh.
+<i>JC</i> John Cave MS., belonging to Mr. Elkin Mathews.
+<i>L74</i> Lansdowne MS. 740, British Museum.
+<i>L77</i> " " 777, "
+<i>Lec</i> Leconfield MS., at Petworth House.
+<i>M</i> Monckton-Milnes MS., belonging to the Marquis of Crewe.
+<i>N</i> Norton MS., Harvard College.
+<i>O'F</i> O'Flaherty MS., Harvard College.
+<i>P</i> Phillipps MS., belonging to Captain C. Shirley Harris.
+<i>Q</i> Queen's College MS., Queen's College, Oxford.
+<i>RP31</i> Rawlinson Poetical MS. 31, Bodleian Library, Oxford.
+<i>RP61</i> " " " 61 " " "
+<i>S</i> Stephens MS., Harvard College.
+<i>S96</i> Stowe MS. 961, British Museum.
+<i>TCC</i> Trinity College, Cambridge, MS.
+<i>TCD</i> Trinity College, Dublin, MS. G. 2. 21.
+<i>TCD</i> (II) A second collection of poems in the same MS.
+<i>W</i> Westmoreland MS., belonging to Mr. Edmund Gosse.
+
+The following groups are important:--
+
+<i>D</i>, <i>H49</i>, <i>Lec</i>,
+
+and
+
+<i>A18</i>, <i>N</i>, <i>TC</i>, where <i>TC</i> represents <i>TCC</i> and <i>TCD</i>THE PRINTER
+
+TO THE
+
+UNDERSTANDERS.
+
+For this time I must speake only to you: at another, <i>Readers</i> may perchance serve my turne; and I thinke this a way very free from exception, in hope that very few will have a minde to confesse themselves ignorant.
+
+If you looke for an Epistle, as you have before ordinary publications, I am sory that I must deceive you; but you will not lay it to my charge, when you shall consider that this is not ordinary, for if I should say it were the best in this kinde, that ever this Kingdome hath yet seene; he that would doubt of it must goe out of the Kingdome to enforme himselfe, for the best judgments, within it, take it for granted.
+
+You may imagine (if it please you) that I could endeare it unto you, by saying, that importunity drew it on; that had it not beene presented here, it would have come to us from beyond the Seas; (which perhaps is true enough,) That my charge and paines in procuring of it hath beene such, and such. I could adde hereto, a promise of more correctnesse, or enlargement in the next Edition, if you shall in the meane time content you with this.But these things are so common, as that I should profane this Peece by applying them to it; A Peece which who so takes not as he findes it, in what manner soever, he is unworthy of it, sith a scattered limbe of this Author, hath more amiablenesse in it, in the eye of a discerner, then a whole body of some other; Or, (to expresse him best by himselfe)
+
+[Sidenote: <i>In the Storme.</i>]
+
+        --_A hand, or eye,
+By_ Hilyard _drawne, is worth a history
+By a worse Painter made_;--
+
+If any man (thinking I speake this to enflame him for the vent of the Impression) be of another opinion, I shall as willingly spare his money as his judgement. I cannot lose so much by him as hee will by himselfe. For I shall satisfie my selfe with the conscience of well doing, in making so much good common.
+
+Howsoever it may appeare to you, it shall suffice mee to enforme you, that it hath the best warrant that can bee, publique authority, and private friends.
+
+There is one thing more wherein I will make you of my counsell, and that is, That whereas it hath pleased some, who had studyed and did admire him, to offer to the memory of the Author, not long after his decease, I have thought I should do you service in presenting them unto you now;onely whereas, had I placed them in the beginning, they might have serv'd for so many Encomiums of the Author (as is usuall in other workes, where perhaps there is need of it, to prepare men to digest such stuffe as follows after,) you shall here finde them in the end, for whosoever reades the rest so farre, shall perceive that there is no occasion to use them to that purpose; yet there they are, as an attestation for their sakes that knew not so much before, to let them see how much honour was attributed to this worthy man, by those that are capable to give it. <i>Farewell.</i>
+
+[The Printer <i>&c.</i> <i>1633-49:</i> <i>om. 1650-69, which substitute Dedication</i> To the <i>&c.</i> (<i>p.</i> 4)]
+
+[2 you: <i>1635-49:</i> you, <i>1633</i>]
+
+[The Printer to the Vnderstanders. <i>1635-69:</i> The Printer to the Reader. <i>1633. See note</i>]
+
+[28 here <i>1635-69: om. 1633</i> (... you shall here finde them in the end,...)]
+
+<i>Hexastichon Bibliopolae.</i>
+
+I see in his last preach'd, and printed Booke,
+His Picture in a sheet; in <i>Pauls</i> I looke,
+And see his Statue in a sheete of stone,
+And sure his body in the grave hath one:
+Those sheetes present him dead, these if you buy,You have him living to Eternity.
+
+JO. MAR.
+
+[Hexastichon Bibliopolae. <i>1633-69</i>]
+
+Hexastichon ad Bibliopolam.
+
+Incerti.
+
+<i>In thy Impression of</i> Donnes _Poems rare,
+For his Eternitie thou hast ta'ne care:
+'Twas well, and pious; And for ever may
+He live: Yet shew I thee a better way;
+Print but his Sermons, and if those we buy,
+He, We, and Thou shall live t' Eternity._
+
+[Hexastichon ad Bibliopolam. <i>1635-69</i>]
+
+<i>Dedication to the Edition of 1650.</i>
+
+To the Right Honourable
+<i>William</i> Lord <i>Craven</i> Baron of
+<i>Hamsted-Marsham</i>.
+
+<i>My Lord</i>,Many of these Poems have, for severall impressions, wandred up and down trusting (as well they might) upon the Authors reputation; neither do they now complain of any injury but what may proceed either from the kindnesse of the Printer, or the curtesie of the Reader; the one by adding something too much, lest any spark of this sacred fire might perish undiscerned, the other by putting such an estimation upon the wit & fancy they find here, that they are content to use it as their own: as if a man should dig out the stones of a royall Amphitheatre to build a stage for a countrey show. Amongst all the monsters this unlucky age has teemed with, I finde none so prodigious, as the Poets of these later times, wherein men as if they would level understandings too as well as estates, acknowledging no inequality of parts and Judgements, pretend as indifferently to the chaire of wit as to the Pulpit, & conceive themselves no lesse inspired with the spirit of Poetry then with that of Religion: so it is not onely the noise of Drums and Trumpets which have drowned the Muses harmony, or the feare that the Churches ruine wil destroy their Priests likewise, that now frights them from this Countrey, where they have been so ingenuously received, but these rude pretenders to excellencies they unjustly own who profanely rushing into <i>Minervaes</i> Temple, with noysome Ayres blast the lawrell w^{ch} thunder cannot hurt. In this sad condition these learned sisters are fled over to beg your L^{ps}.protection, who have been so certain a patron both to arts and armes, and who in this generall confusion have so intirely preserved your Honour, that in your Lordship we may still read a most perfect character of what <i>England</i> was in all her pompe and greatnesse, so that although these poems were formerly written upon severall occasions, and to severall persons, they now unite themselves, and are become one pyramid to set your Lordships statue upon, where you may stand like Armed <i>Apollo</i> the defendor of the Muses, encouraging the Poets now alive to celebrate your great Acts by affording your countenance to his poems that wanted onely so noble a subject.
+
+My Lord,
+
+<i>Your most humble servant</i>
+
+JOHN DONNE.
+
+[To the <i>&c.</i> <i>1650-69</i>]
+
+TO JOHN DONNE.
+
+Donne, _the delight of Phoebus, and each Muse,
+  Who, to thy one, all other braines refuse;
+Whose every work, of thy most early wit,
+  Came forth example, and remaines so, yet:
+Longer a knowing, than most wits doe live;
+  And which no'n affection praise enough can give!To it, thy language, letters, arts, best life,
+  Which might with halfe mankind maintain a strife;
+All which I mean to praise, and, yet, I would;
+  But leave, because I cannot as I should_!
+
+B. JONS.
+
+[To John Donne. <i>1650-69, following the</i> Hexastichon ad Bibliopolam.]
+
+To LUCY, COUNTESSE OF BEDFORD, with M. DONNES Satyres.
+
+<i>Lucy</i>, you brightnesse of our Spheare, who are
+Life of the <i>Muses</i> day, their morning Starre!
+If works (not th'Authors) their own grace should look
+Whose poems would not wish to be your book?
+But these, desir'd by you, the makers ends
+Crown with their own. Rare Poems ask rare friends.
+Yet, <i>Satyres</i>, since the most of mankind bee
+Their unavoided subject, fewest see:
+For none ere took that pleasure in sins sense,
+But, when they heard it tax'd, took more offence.
+They, then, that living where the matter is bred,
+Dare for these Poems, yet, both ask, and read,
+And like them too; must needfully, though few,
+Be of the best: and 'mongst those best are you;
+<i>Lucy</i>, you brightnefle of our Spheare, who areThe <i>Muses</i> evening, as their morning-Starre.
+
+B. JON.
+
+TO JOHN DONNE.
+
+Who shall doubt, <i>Donne</i>, where I a <i>Poet</i> bee,
+When I dare send my <i>Epigrammes</i> to thee?
+That so alone canst judge, so'alone do'st make:
+And, in thy censures, evenly, dost take
+As free simplicity, to dis-avow,
+As thou hast best authority, t'allow.
+Read all I send: and, if I finde but one
+Mark'd by thy hand, and with the better stone,
+My title's seal'd. Those that for claps doe write,
+Let punees, porters, players praise delight,
+And, till they burst, their backs, like asses load:
+A man should seek great glory, and not broad.
+
+B. JON.
+
+[To Lucy <i>&c.</i> To John Donne <i>&c.</i> <i>1650-69, in sheets added 1650</i>. <i>See</i> Text and Canon <i>&c.</i>]
+
+SONGS <i>AND</i> SONETS.<i>The good-morrow.</i>
+
+I wonder by my troth, what thou, and I
+Did, till we lov'd? were we not wean'd till then?
+But suck'd on countrey pleasures, childishly?
+Or snorted we in the seaven sleepers den?
+T'was so; But this, all pleasures fancies bee. 5
+If ever any beauty I did see,
+Which I desir'd, and got, t'was but a dreame of thee.
+
+And now good morrow to our waking soules,
+Which watch not one another out of feare;
+For love, all love of other sights controules, 10
+And makes one little roome, an every where.
+Let sea-discoverers to new worlds have gone,
+Let Maps to other, worlds on worlds have showne,
+Let us possesse one world, each hath one, and is one.
+
+My face in thine eye, thine in mine appeares, 15
+And true plaine hearts doe in the faces rest,
+Where can we finde two better hemispheares
+Without sharpe North, without declining West?
+What ever dyes, was not mixt equally;
+If our two loves be one, or, thou and I 20
+Love so alike, that none doe slacken, none can die.[SONGS AND SONETS. <i>1635-69: no division into sections, 1633</i>]
+
+[The good-morrow. <i>1633-69</i>, <i>A18</i>, <i>L74</i>, <i>N</i>, <i>TCC</i>, <i>TCD:</i> <i>no title</i>, <i>A25</i>, <i>B</i>, <i>C</i>, <i>D</i>, <i>H40</i>, <i>H49</i>, <i>JC</i>, <i>Lec</i>, <i>O'F</i>, <i>P</i>, <i>S:</i> Elegie. <i>S96</i>]
+
+[2 lov'd? <i>1639-69:</i> lov'd, <i>1633-35</i>]
+
+[3 countrey pleasures, childishly? <i>1633-54</i>, <i>D</i>, <i>H40</i>, <i>H49</i>, <i>Lec:</i> childish pleasures seelily? <i>1669</i>, <i>A18</i>, <i>A25</i>, <i>B</i>, <i>JC</i>, <i>L74</i>, <i>N</i>, <i>O'F</i>, <i>P</i>, <i>S</i>, <i>S96</i>, <i>TC</i>]
+
+[4 snorted <i>1633-54</i>, <i>D</i>, <i>H40</i>, <i>H49</i>, <i>Lec</i>, <i>O'F</i>, <i>S96:</i> slumbred <i>1669</i>, <i>A18</i>, <i>A25</i>, <i>JC</i>, <i>L74</i>, <i>N</i>, <i>P</i>, <i>TC</i> seaven sleepers <i>1633:</i> seven-sleepers <i>1635-69</i>]
+
+[5 this,] as <i>1669</i>]
+
+[10 For <i>1633-69</i>, <i>D</i>, <i>H40</i>, <i>H49</i>, <i>Lec:</i> But <i>rest of MSS</i>.]
+
+[13 to other, worlds on <i>1633-54:</i> to other worlds our <i>1669:</i> to others, worlds on <i>D</i>, <i>H49</i>, <i>Lec</i>, <i>and other MSS</i>.]
+
+[14 one world <i>1633-69</i>, <i>D</i>, <i>H49</i>, <i>Lec:</i> our world <i>rest of MSS</i>.]
+
+[17 better <i>1633</i>, <i>D</i>, <i>H40</i>, <i>H49</i>, <i>Lec:</i> fitter <i>1635-69</i>, <i>and rest of MSS</i>.][19 was not] is not <i>1669</i>]
+
+[20-1 or, thou and I ... can die. <i>1633</i>, <i>D</i>, <i>H40</i>, <i>H49</i>, <i>Lec:</i> or, thou and I ... can slacken, ... can die. <i>Chambers:</i>
+
+        both thou and I
+Love just alike in all, none of these loves can die.
+
+<i>1635-69</i>, <i>JC</i>, <i>O'F</i>, <i>P:</i>
+        or thou and I
+  Love just alike in all, none of these loves can die.
+
+<i>A18</i>, <i>A25</i>, <i>B</i>, <i>L74</i>, <i>S96</i>, <i>TC</i>
+
+As thou and I <i>&c.</i>
+
+<i>H40:</i>
+
+And thou and I <i>&c.</i>
+
+<i>S</i>]<b>Song.</b>
+
+Goe, and catche a falling starre,
+  Get with child a mandrake roote,
+Tell me, where all past yeares are,
+  Or who cleft the Divels foot,
+Teach me to heare Mermaides singing, 5
+  Or to keep off envies stinging,
+    And finde
+    What winde
+Serves to advance an honest minde.
+
+If thou beest borne to strange sights, 10
+  Things invisible to see,
+Ride ten thousand daies and nights,
+  Till age snow white haires on thee,
+Thou, when thou retorn'st, wilt tell mee
+All strange wonders that befell thee, 15
+    And sweare
+    No where
+Lives a woman true, and faire.
+
+If thou findst one, let mee know,
+  Such a Pilgrimage were sweet; 20
+Yet doe not, I would not goe,
+  Though at next doore wee might meet,Though shee were true, when you met her,
+And last, till you write your letter,
+    Yet shee 25
+    Will bee
+False, ere I come, to two, or three.
+
+[Song. <i>1633-69:</i> Song, A Songe, <i>or no title</i>, <i>A18</i>, <i>A25</i>, <i>B</i>, <i>C</i>, <i>Cy</i>, <i>D</i>, <i>H40</i>, <i>H49</i>, <i>JC</i>, <i>L74</i>, <i>Lec</i>, <i>N</i>, <i>O'F</i>, <i>P</i>, <i>S</i>, <i>S96</i>, <i>TCC</i>, <i>TCD</i>]
+
+[3 past yeares] times past <i>1669:</i> past times <i>P</i>]
+
+[11 to see] go see <i>1669</i>, <i>S</i>, <i>S96:</i> see <i>most other MSS</i>.]
+
+[20 sweet; <i>1669:</i> sweet, <i>1633-54</i>]
+
+[24 last, till] last so till <i>O'F</i>, <i>S</i>, <i>S96</i>]
+
+[27 False, ... three] False, ere she come to two or three. <i>1669</i>]
+
+<i>Womans constancy.</i>
+
+Now thou hast lov'd me one whole day,
+To morrow when thou leav'st, what wilt thou say?
+Wilt thou then Antedate some new made vow?
+        Or say that nowWe are not just those persons, which we were? 5
+Or, that oathes made in reverentiall feare
+Of Love, and his wrath, any may forsweare?
+Or, as true deaths, true maryages untie,
+So lovers contracts, images of those,
+Binde but till sleep, deaths image, them unloose? 10
+        Or, your owne end to Justifie,
+For having purpos'd change, and falsehood; you
+Can have no way but falsehood to be true?
+Vaine lunatique, against these scapes I could
+        Dispute, and conquer, if I would, 15
+        Which I abstaine to doe,
+For by to morrow, I may thinke so too.
+
+[Womans constancy. <i>1633-69</i>, <i>A18</i>, <i>L74</i>, <i>N</i>, <i>O'F</i>, <i>TCC</i>, <i>TCD:</i> <i>no title</i>, <i>B</i>, <i>D</i>, <i>H40</i>, <i>H49</i>, <i>Lec</i>, <i>P</i>, <i>S</i>]
+
+[8 Or, <i>1633</i>, <i>1669:</i> For, <i>1635-54</i> (<i>ll.</i> 8-10 <i>in brackets</i>)]
+
+<i>The undertaking.</i>
+
+I have done one braver thing
+  Then all the <i>Worthies</i> did,
+And yet a braver thence doth spring,
+  Which is, to keepe that hid.It were but madnes now t'impart 5
+  The skill of specular stone,
+When he which can have learn'd the art
+  To cut it, can finde none.
+
+So, if I now should utter this,
+  Others (because no more 10
+Such stuffe to worke upon, there is,)
+  Would love but as before.
+
+But he who lovelinesse within
+  Hath found, all outward loathes,
+For he who colour loves, and skinne, 15
+  Loves but their oldest clothes.
+
+If, as I have, you also doe
+  Vertue'attir'd in woman see,
+And dare love that, and say so too,
+  And forget the Hee and Shee; 20
+
+And if this love, though placed so,
+  From prophane men you hide,
+Which will no faith on this bestow,
+  Or, if they doe, deride:Then you have done a braver thing 25
+  Then all the <i>Worthies</i> did;
+And a braver thence will spring,
+  Which is, to keepe that hid.
+
+[The undertaking. <i>1635-69:</i> <i>no title</i>, <i>1633</i>, <i>B</i>, <i>D</i>, <i>H40</i>, <i>H49</i>, <i>JC</i>, <i>Lec</i>, <i>O'F</i>, <i>P</i>, <i>S:</i> Platonique Love. <i>A18</i>, <i>N</i>, <i>TCC</i>, <i>TCD</i>]
+
+[2 <i>Worthies</i>] <i>worthies</i> <i>1633</i>]
+
+[3 And yet] Yet <i>B</i>, <i>D</i>, <i>H49</i>, <i>Lec</i>]
+
+[7-8 art ... it, <i>1669:</i> art, ... it <i>1633-54</i>]
+
+[16 their] her <i>B</i>]
+
+[18 Vertue'attir'd in <i>1633</i>, <i>A18</i>, <i>B</i>, <i>D</i>, <i>H40</i>, <i>H49</i>, <i>JC</i>, <i>Lec</i>, <i>N</i>, <i>S</i>, <i>TC:</i> Vertue in <i>1635-69</i>, <i>O'F</i>, <i>Chambers</i>]
+
+[26 did; <i>Ed:</i> did. <i>1633-39:</i> did, <i>1650-69</i>]
+
+[27 spring,] spring <i>1633-39</i>]
+
+<i>The Sunne Rising.</i>      Busie old foole, unruly Sunne,
+      Why dost thou thus,
+Through windowes, and through curtaines call on us?
+Must to thy motions lovers seasons run?
+      Sawcy pedantique wretch, goe chide 5
+      Late schoole boyes, and sowre prentices,
+  Goe tell Court-huntsmen, that the King will ride,
+  Call countrey ants to harvest offices;
+Love, all alike, no season knowes, nor clyme,
+Nor houres, dayes, moneths, which are the rags of time. 10
+
+      Thy beames, so reverend, and strong
+      Why shouldst thou thinke?
+I could eclipse and cloud them with a winke,
+But that I would not lose her sight so long:
+      If her eyes have not blinded thine, 15
+      Looke, and to morrow late, tell mee,
+  Whether both the'India's of spice and Myne
+  Be where thou leftst them, or lie here with mee.
+Aske for those Kings whom thou saw'st yesterday,
+And thou shalt heare, All here in one bed lay. 20
+
+      She'is all States, and all Princes, I,
+      Nothing else is.
+Princes doe but play us; compar'd to this,
+All honor's mimique; All wealth alchimie.      Thou sunne art halfe as happy'as wee, 25
+      In that the world's contracted thus;
+  Thine age askes ease, and since thy duties bee
+  To warme the world, that's done in warming us.
+Shine here to us, and thou art every where;
+This bed thy center is, these walls, thy spheare. 30
+
+[The Sunne Rising. <i>1633-69:</i> Sunne Rising. <i>A18</i>, <i>L74</i>, <i>N</i>, <i>TCC</i>, <i>TCD:</i> Ad Solem. <i>A25</i>, <i>D</i>, <i>H49</i>, <i>JC</i>, <i>O'F</i>, <i>S</i>, <i>S96:</i> To the Sunne. <i>Cy</i>, <i>Lec</i>, <i>O'F (as a second title):</i> <i>no title</i>, <i>B</i>]
+
+[3 call] look <i>1669</i>]
+
+[6 and] or <i>1669</i>
+
+sowre] slowe <i>B</i>, <i>Cy</i>, <i>P</i>]
+
+[8 offices;] offices, <i>1633</i>]
+
+[11-14 Thy beames, ... so long: <i>1633 and all MSS.:</i>
+
+        Thy beames so reverend, and strong
+        Dost thou not thinke
+    I could eclipse and cloude them with a winke,
+    But that I would not lose her sight so long? <i>1635-69</i>
+][17 spice] space <i>1650-54</i>]
+
+[18 leftst <i>1633:</i> left <i>1635-69</i>]
+
+[23 us;] us, <i>1633</i>]
+
+[24 wealth] wealth's <i>A25</i>, <i>C</i>, <i>P</i>
+
+alchimie. <i>Ed:</i> alchimie; <i>1633-69</i>]
+
+[26 thus; <i>Ed:</i> thus. <i>1633-69</i>]
+
+<i>The Indifferent.</i>
+
+I can love both faire and browne,
+Her whom abundance melts, and her whom want betraies,
+Her who loves lonenesse best, and her who maskes and plaies,
+Her whom the country form'd, and whom the town,
+Her who beleeves, and her who tries, 5
+Her who still weepes with spungie eyes,
+And her who is dry corke, and never cries;
+I can love her, and her, and you and you,
+I can love any, so she be not true.
+
+Will no other vice content you? 10 Wil it not serve your turn to do, as did your mothers?Or have you all old vices spent, and now would finde out others? Or doth a feare, that men are true, torment you? Oh we are not, be not you so, Let mee, and doe you, twenty know. 15 Rob mee, but binde me not, and let me goe. Must I, who came to travaile thorow you, Grow your fixt subject, because you are true?
+
+<i>Venus</i> heard me sigh this song,
+And by Loves sweetest Part, Variety, she swore, 20
+She heard not this till now; and that it should be so no more.
+She went, examin'd, and return'd ere long,
+And said, alas, Some two or three
+Poore Heretiques in love there bee,
+Which thinke to stablish dangerous constancie. 25
+But I have told them, since you will be true,
+You shall be true to them, who'are false to you.
+
+[The Indifferent. <i>1633-69</i>, <i>A18</i>, <i>N</i>, <i>TCC</i>, <i>TCD:</i> A Songe, Songe, <i>or no title</i>, <i>B</i>, <i>D</i>, <i>H40</i>, <i>H49</i>, <i>JC</i>, <i>Lec</i>, <i>O'F</i>, <i>S</i>, <i>S96:</i> Sonnet. <i>P</i>]
+
+[3 lonenesse] lovers <i>1669</i>
+
+maskes] sports <i>1669</i>, <i>S</i>
+
+and <i>1669:</i> & <i>1633-39:</i> <i>om.</i> <i>1650-54</i>]
+
+[12 spent] worn <i>1669</i>][15 mee, <i>1633:</i> me; <i>1635-69</i>]
+
+[17 travaile] <i>spelt</i> travell, travel <i>1635-69</i>]
+
+[19 sigh] sing <i>1669</i>]
+
+[20 sweetest Part,] sweetest sweet, <i>1669</i>, <i>P</i>, <i>S</i>]
+
+[21 and that it <i>1633</i>, <i>B</i>, <i>D</i>, <i>H49</i>, <i>Lec</i>, <i>S:</i> it <i>1635-69</i>, <i>H40</i>, <i>P:</i> and it <i>A18</i>, <i>JC</i>, <i>N</i>, <i>O'F</i>, <i>S96</i>, <i>TC</i>]
+
+<i>Loves Vsury.</i>
+
+For every houre that thou wilt spare mee now,
+        I will allow,
+Usurious God of Love, twenty to thee,
+When with my browne, my gray haires equall bee;
+Till then, Love, let my body raigne, and let 5
+Mee travell, sojourne, snatch, plot, have, forget,
+Resume my last yeares relict: thinke that yet
+        We'had never met.
+
+Let mee thinke any rivalls letter mine,
+        And at next nine 10
+Keepe midnights promise; mistake by the way
+The maid, and tell the Lady of that delay;Onely let mee love none, no, not the sport;
+From country grasse, to comfitures of Court,
+Or cities quelque choses, let report 15
+        My minde transport.
+
+This bargaine's good; if when I'am old, I bee
+        Inflam'd by thee,
+If thine owne honour, or my shame, or paine,
+Thou covet most, at that age thou shalt gaine. 20
+Doe thy will then, then subject and degree,
+And fruit of love, Love I submit to thee,
+Spare mee till then, I'll beare it, though she bee
+        One that loves mee.
+
+[Loves Vsury. <i>1633-69</i>, <i>L74:</i> <i>no title</i>, <i>B</i>, <i>Cy</i>, <i>D</i>, <i>H40</i>, <i>H49</i>, <i>Lec</i>, <i>O'F</i>, <i>P</i>, <i>S:</i> Elegie. <i>S96</i>]
+
+[5 raigne, <i>1633</i>, <i>B</i>, <i>Cy</i>, <i>D</i>, <i>H40</i>, <i>H49</i>, <i>L74</i>, <i>Lec</i>, <i>P</i>, <i>S:</i> range, <i>1635-69</i>, <i>O'F</i>, <i>S96</i>. <i>See note</i>]
+
+[6 snatch, <i>1633</i>, <i>1669:</i> match, <i>1635-54</i>]
+
+[7 relict] relique <i>1669</i>]
+
+[12 that] her <i>1669</i>][13 sport; <i>1669:</i> sport <i>1633-54:</i> sport, <i>most MSS.</i>]
+
+[15 let report <i>1633</i>, <i>1669</i>, <i>B</i>, <i>Cy</i>, <i>D</i>, <i>H40</i>, <i>H49</i>, <i>L74</i>, <i>Lec</i>, <i>P</i>, <i>S:</i> let not report <i>1635-54</i>, <i>O'F</i>, <i>S96</i>, <i>Chambers</i>. <i>See note</i>]
+
+[19 or paine <i>1633, 1669, and most MSS.:</i> and paine <i>1635-54</i>, <i>O'F</i>]
+
+[22 fruit] fruites <i>B</i>, <i>D</i>, <i>H49</i>, <i>Lec</i>, <i>O'F</i>, <i>S96</i>]
+
+[24 loves <i>1633, 1669 and all the MSS.:</i> love <i>1635-54</i>]
+
+<i>The Canonization.</i>
+
+For Godsake hold your tongue, and let me love,
+  Or chide my palsie, or my gout,
+My five gray haires, or ruin'd fortune flout,
+  With wealth your state, your minde with Arts improve,
+    Take you a course, get you a place, 5
+    Observe his honour, or his grace,
+Or the Kings reall, or his stamped face
+  Contemplate, what you will, approve,
+  So you will let me love.
+
+Alas, alas, who's injur'd by my love? 10
+  What merchants ships have my sighs drown'd?
+Who saies my teares have overflow'd his ground?  When did my colds a forward spring remove?
+    When did the heats which my veines fill
+    Adde one more to the plaguie Bill? 15
+Soldiers finde warres, and Lawyers finde out still
+  Litigious men, which quarrels move,
+  Though she and I do love.
+
+Call us what you will, wee are made such by love;
+  Call her one, mee another flye, 20
+We'are Tapers too, and at our owne cost die,
+  And wee in us finde the'Eagle and the Dove.
+    The Phœnix ridle hath more wit
+    By us, we two being one, are it.
+So to one neutrall thing both sexes fit, 25
+  Wee dye and rise the same, and prove
+  Mysterious by this love.
+
+Wee can dye by it, if not live by love,
+  And if unfit for tombes and hearse
+Our legend bee, it will be fit for verse; 30
+  And if no peece of Chronicle wee prove,
+    We'll build in sonnets pretty roomes;
+    As well a well wrought urne becomes
+The greatest ashes, as halfe-acre tombes,
+  And by these hymnes, all shall approve 35
+  Us <i>Canoniz'd</i> for Love:And thus invoke us; You whom reverend love
+  Made one anothers hermitage;
+You, to whom love was peace, that now is rage;
+  Who did the whole worlds soule contract, and drove 40
+    Into the glasses of your eyes
+    (So made such mirrors, and such spies,
+That they did all to you epitomize,)
+  Countries, Townes, Courts: Beg from above
+  A patterne of your love! 45
+
+[The Canonization. <i>1633-39</i>, <i>A18</i>, <i>Cy</i>, <i>D</i>, <i>H49</i>, <i>Lec</i>, <i>N</i>, <i>O'F</i>, <i>P</i>, <i>TCC</i>, <i>TCD:</i> Canonization. <i>1650-69</i>, <i>S:</i> Canonizatio. <i>S96:</i> <i>no title</i>, <i>B</i>, <i>H40</i>, <i>JC</i>]
+
+[3 five <i>1633</i>, <i>1669:</i> true <i>1635-54</i>
+
+fortune] fortunes <i>1669</i>]
+
+[4 improve, <i>1650-69:</i> improve <i>1633-39</i>]
+
+[7 reall] Roiall <i>Lec</i>]
+
+[14 veines] reynes <i>1669</i>]
+
+[15 more, <i>1633-54</i>, <i>Lec:</i> man <i>1669</i>, <i>A18</i>, <i>B</i>, <i>Cy</i>, <i>D</i>, <i>H40</i>, <i>H49</i>, <i>JC</i>, <i>N</i>, <i>O'F</i>, <i>P</i>, <i>S</i>, <i>S96</i>, <i>TC</i>][17 which] whom <i>1669</i>]
+
+[18 Though] While <i>1669</i>]
+
+[22 Dove. <i>Ed:</i> dove, <i>1633-69</i>]
+
+[24 are it. <i>1633-69:</i> are it; <i>Chambers and Grolier</i>]
+
+[25 So <i>1650-69:</i> So, <i>1633-39</i>. <i>See note</i>
+
+fit, <i>D</i>, <i>H49</i>, <i>Lec:</i> fit. <i>1633-69</i>. <i>See note</i>]
+
+[29 tombes and <i>1633-54:</i> tomb or <i>1669</i>]
+
+[30 legend] legends <i>1633</i>]
+
+[35 these <i>1633:</i> those <i>1635-69</i>]
+
+[36 Love:] Love. <i>1633</i>]
+
+[39 rage; <i>Ed:</i> rage, <i>1633-69</i>]
+
+[40 contract] extract <i>A18</i>, <i>B</i>, <i>Cy</i>, <i>D</i>, <i>H40</i>, <i>H49</i>, <i>Lec</i>, <i>N</i>, <i>O'F</i>, <i>S</i>, <i>S96</i>, <i>TCC</i>]
+
+[41 eyes <i>1633-69:</i> eyes; <i>Chambers</i>][42-3 <i>brackets</i>, <i>Ed</i>]
+
+[44 Courts: Beg] Courts Beg <i>1669:</i> courts beg <i>Chambers</i>. <i>See note</i>
+
+from] frow <i>1633</i>]
+
+[45 your <i>1669</i>, <i>A18</i>, <i>B</i>, <i>H40</i>, <i>JC</i>, <i>N</i>, <i>O'F</i>, <i>P</i>, <i>S96</i>, <i>TC:</i> our <i>1633-54</i>, <i>D</i>, <i>H49</i>, <i>Lec</i>
+
+love! <i>Ed:</i> love. <i>1633-69</i>]
+
+<i>The triple Foole.</i>
+
+  I am two fooles, I know,
+For loving, and for saying so
+  In whining Poëtry;
+But where's that wiseman, that would not be I,
+  If she would not deny? 5
+Then as th'earths inward narrow crooked lanes
+Do purge sea waters fretfull salt away,
+  I thought, if I could draw my paines,
+Through Rimes vexation, I should them allay,
+Griefe brought to numbers cannot be so fierce, 10
+For, he tames it, that fetters it in verse.  But when I have done so,
+Some man, his art and voice to show,
+  Doth Set and sing my paine,
+And, by delighting many, frees againe 15
+  Griefe, which verse did restraine.
+To Love, and Griefe tribute of Verse belongs,
+But not of such as pleases when'tis read,
+  Both are increased by such songs:
+For both their triumphs so are published, 20
+And I, which was two fooles, do so grow three;
+Who are a little wise, the best fooles bee.
+
+[The triple Foole. <i>1633-69</i>, <i>A18</i>, <i>L74</i>, <i>N</i>, <i>TCC</i>, <i>TCD:</i> Song <i>or no title</i>, <i>B</i>, <i>Cy</i>, <i>D</i>, <i>H40</i>, <i>H49</i>, <i>HN</i>, <i>JC</i>, <i>Lec</i>, <i>O'F</i>, <i>P</i>, <i>S</i>, <i>S96</i>]
+
+[4 the wiser man, <i>1669</i>]
+
+[5 If he should not deny? <i>P</i>]
+
+[6 narrow <i>om.</i> <i>P:</i> crooked <i>om.</i> <i>B</i>
+
+lanes] vaines <i>Cy</i>, <i>P</i>]
+
+[9 allay, <i>1633-39:</i> allay. <i>1650-69</i>, <i>Chambers</i>]
+
+[10 numbers] number <i>1669</i>][11 For, he tames it] He tames it much <i>B</i>]
+
+[13 and] or <i>1669</i>]
+
+<i>Lovers infinitenesse.</i>
+
+If yet I have not all thy love,
+Deare, I shall never have it all,
+I cannot breath one other sigh, to move,
+Nor can intreat one other teare to fall,
+And all my treasure, which should purchase thee, 5
+Sighs, teares, and oathes, and letters I have spent.
+Yet no more can be due to mee,
+Then at the bargaine made was ment,
+If then thy gift of love were partiall,
+That some to mee, some should to others fall, 10
+  Deare, I shall never have Thee All.
+
+Or if then thou gavest mee all,
+All was but All, which thou hadst then;
+But if in thy heart, since, there be or shall,
+New love created bee, by other men, 15
+Which have their stocks intire, and can in teares,
+In sighs, in oathes, and letters outbid mee,
+This new love may beget new feares,
+For, this love was not vowed by thee.And yet it was, thy gift being generall, 20
+The ground, thy heart is mine, what ever shall
+  Grow there, deare, I should have it all.
+
+Yet I would not have all yet,
+Hee that hath all can have no more,
+And since my love doth every day admit 25
+New growth, thou shouldst have new rewards in store;
+Thou canst not every day give me thy heart,
+If thou canst give it, then thou never gavest it:
+Loves riddles are, that though thy heart depart,
+It stayes at home, and thou with losing savest it: 30
+But wee will have a way more liberall,
+Then changing hearts, to joyne them, so wee shall
+  Be one, and one anothers All.
+
+[Lovers infinitenesse. <i>1633-69:</i> Mon Tout. <i>A25</i>, <i>C:</i> <i>no title</i>, <i>B</i>, <i>D</i>, <i>H40</i>, <i>H49</i>, <i>JC</i>, <i>Lec</i>, <i>O'F</i>, <i>P</i>, <i>S:</i> Elegie. <i>S96</i>
+
+<i>Query</i> Loves infinitenesse.]
+
+[3 move, <i>Ed:</i> move; <i>1633-69</i>]
+
+[4 fall, <i>Ed:</i> fall. <i>1633:</i> fall; <i>1635-69</i>]
+
+[6 teares,] teares <i>1633</i>spent. <i>Ed:</i> spent, <i>1633-69 and Grolier:</i> spent; <i>Chambers</i>]
+
+[8 Then <i>1633-35</i>, <i>1669:</i> That <i>1639-54</i>]
+
+[9 were] was <i>1669</i>
+
+partiall] generall <i>A25</i>, <i>C</i>]
+
+[11 Thee <i>1633:</i> It <i>1635-69</i> (it <i>1669</i>)]
+
+[12 gavest] givest <i>1669</i>]
+
+[13 then; <i>1635-54:</i> then, <i>1633</i>]
+
+[17 and letters <i>1633:</i> in letters <i>1635-69</i>]
+
+[19 thee. <i>1639-69:</i> thee, <i>1633-35</i>]
+
+[20 it] is <i>1633</i>]
+
+[21 is <i>1633</i>, <i>1669:</i> was <i>1635-54</i>]
+
+[25-6 And since my heart doth every day beget New love, <i>&c.</i> <i>A25</i>.]
+
+[29-30Except mine come when thine doth part
+And in such giving it, thou savest it: <i>A25</i>, <i>C</i>
+
+  Perchance mine comes, when thine doth parte,
+  And by such losing it, <i>&c.</i> <i>JC</i>
+]
+
+[31 have] love <i>1669:</i> find <i>A25</i>, <i>C</i>]
+
+[32 them] us <i>1669</i>]
+
+<b>Song.</b>
+
+Sweetest love, I do not goe,
+  For wearinesse of thee,
+Nor in hope the world can show
+  A fitter Love for mee;
+    But since that I 5
+Must dye at last, 'tis best,
+To use my selfe in jest
+  Thus by fain'd deaths to dye;
+
+Yesternight the Sunne went hence,
+  And yet is here to day, 10
+He hath no desire nor sense,
+  Nor halfe so short a way:    Then feare not mee,
+But beleeve that I shall make
+Speedier journeyes, since I take 15
+  More wings and spurres then hee.
+
+O how feeble is mans power,
+  That if good fortune fall,
+Cannot adde another houre,
+  Nor a lost houre recall! 20
+    But come bad chance,
+And wee joyne to'it our strength,
+And wee teach it art and length,
+  It selfe o'r us to'advance.
+
+When thou sigh'st, thou sigh'st not winde, 25
+  But sigh'st my soule away,
+When thou weep'st, unkindly kinde,
+  My lifes blood doth decay.
+    It cannot bee
+That thou lov'st mee, as thou say'st, 30
+If in thine my life thou waste,
+  Thou art the best of mee.
+
+Let not thy divining heart
+  Forethinke me any ill,
+Destiny may take thy part, 35  And may thy feares fulfill;
+    But thinke that wee
+Are but turn'd aside to sleepe;
+They who one another keepe
+  Alive, ne'r parted bee. 40
+
+[Song. <i>1633-69:</i> Song. <i>or no title</i>, <i>A18</i>, <i>A25</i>, <i>B</i>, <i>C</i>, <i>D</i>, <i>H40</i>, <i>H49</i>, <i>JC</i>, <i>Lec</i>, <i>N</i>, <i>O'F</i>, <i>P</i>, <i>S</i>, <i>S96</i>, <i>TCC</i>, <i>TCD:</i> <i>in A18</i>, <i>N</i>, <i>TCC</i>, <i>TCD</i>, <i>this with</i> Send home my long stray'd eyes <i>and</i> The Bait <i>are given as</i> Songs which were made to certain ayres which were made before.]
+
+[1-4 <i>In most MSS. these lines are written as two long lines, and so with ll.</i> 9-12, 17-20, 25-28, 33-36]
+
+[4 mee; <i>1650-69:</i> mee, <i>1633-39</i>]
+
+[5-8 But since ... dye; <i>1633</i>, <i>A18</i>, <i>A25</i>, <i>B</i>, <i>D</i>, <i>H40</i>, <i>H49</i>, <i>JC</i>, <i>Lec</i>, <i>N</i>, <i>P</i>, <i>S</i>, <i>S96</i>, <i>TC:</i>
+
+  At the last must part 'tis best,
+  Thus to use my selfe in jest
+    By fained deaths to dye; <i>1635-54</i>, <i>O'F:</i>
+  Must dye at last, 'tis best,
+  Thus to use my self in jest
+    By fained death to dye; <i>1669</i>
+][15 Speedier] Hastier <i>1669</i>]
+
+[20 recall! <i>Ed:</i> recall? <i>1633-69</i>]
+
+[25 not wind <i>1633:</i> no wind <i>1635-69</i>]
+
+[32 Thou <i>1633 and MSS. generally:</i> That <i>1635-54:</i> Which <i>1669</i>
+
+best <i>1633-54:</i> life <i>1669</i>]
+
+[36 may <i>1633-35</i>, <i>1669:</i> make <i>1639-54</i>
+
+fulfill; <i>Ed:</i> fulfill, <i>1633-69</i>]
+
+[38 turn'd] lai'd <i>1669</i>]
+
+<i>The Legacie.</i>
+
+When I dyed last, and, Deare, I dye
+  As often as from thee I goe,
+  Though it be but an houre agoe,
+And Lovers houres be full eternity,
+I can remember yet, that I 5
+  Something did say, and something did bestow;
+Though I be dead, which sent mee, I should be
+Mine owne executor and Legacie.I heard mee say, Tell her anon,
+  That my selfe, (that is you, not I,) 10
+  Did kill me, and when I felt mee dye,
+I bid mee send my heart, when I was gone,
+But I alas could there finde none,
+  When I had ripp'd me,'and search'd where hearts did lye;
+It kill'd mee againe, that I who still was true, 15
+In life, in my last Will should cozen you.
+
+Yet I found something like a heart,
+  But colours it, and corners had,
+  It was not good, it was not bad,
+It was intire to none, and few had part. 20
+As good as could be made by art
+  It seem'd; and therefore for our losses sad,
+I meant to send this heart in stead of mine,
+But oh, no man could hold it, for twas thine.
+
+[The Legacie. <i>1633-69:</i> Legacie. <i>L74:</i> Song. <i>or no title</i>, <i>A25</i>, <i>B</i>, <i>Cy</i>, <i>D</i>, <i>H40</i>, <i>H49</i>, <i>Lec</i>, <i>O'F</i>, <i>P</i>, <i>S</i>, <i>S96:</i> Elegie. <i>A18</i>, <i>N</i>, <i>TCC</i>, <i>TCD</i>]
+
+[1 When I dyed last,] When last I dyed, <i>1669</i>]
+
+[1-4 (and deare ... eternity) <i>Grolier</i>.][7 sent <i>1633</i>, <i>1669:</i> meant <i>1635-54</i>
+
+should be] might be <i>1669</i>]
+
+[10 that is <i>1635-69:</i> that's <i>1633:</i> <i>brackets from A18</i>, <i>N</i>, <i>TC</i>]
+
+[13 none, <i>1633-69:</i> none. <i>Chambers and Grolier</i>]
+
+[14 When ... did <i>1633</i>, <i>A25</i> (doe), <i>D</i>, <i>H40</i>, <i>H49</i>, <i>Lec</i>, <i>S</i>, <i>S96:</i> When I had ripp'd, and search'd where hearts should <i>1635-69</i>, <i>A18</i>, <i>L74</i>, <i>N</i>, <i>TC</i> lye; <i>Ed:</i> lye, <i>1633-69</i>, <i>Chambers and Grolier</i>. <i>See note</i>]
+
+[18 But] For <i>1650-69</i>]
+
+[20 part. <i>1633-39:</i> part: <i>1650-69</i>]
+
+[22 seem'd; <i>Ed:</i> seem'd, <i>1633-69</i>, <i>Grolier, and Chambers</i>
+
+our losses sad, <i>1633-54</i>, <i>A18</i>, <i>A25</i>, <i>L74</i>, <i>N</i>, <i>O'F</i>, <i>P</i>, <i>S96</i>, <i>TC:</i> our loss be sad, <i>1669:</i> our loss be ye sad. <i>B</i>, <i>Cy</i>, <i>D</i>, <i>H40</i>, <i>H49</i>, <i>Lec</i>, <i>S:</i> our losses sad; <i>Grolier:</i> our loss be sad. <i>Chambers</i>]
+
+[23 meant] thought <i>A18</i>, <i>L74</i>, <i>N</i>, <i>O'F</i>, <i>TC</i>
+
+this <i>1633:</i> that <i>1635-69</i>]<i>A Feaver.</i>
+
+Oh doe not die, for I shall hate
+  All women so, when thou art gone,
+That thee I shall not celebrate,
+  When I remember, thou wast one.
+
+But yet thou canst not die, I know; 5
+  To leave this world behinde, is death,
+But when thou from this world wilt goe,
+  The whole world vapors with thy breath.
+
+Or if, when thou, the worlds soule, goest,
+  It stay, tis but thy carkasse then, 10
+The fairest woman, but thy ghost,
+  But corrupt wormes, the worthyest men.
+
+O wrangling schooles, that search what fire
+  Shall burne this world, had none the wit
+Unto this knowledge to aspire, 15
+  That this her feaver might be it?
+
+And yet she cannot wast by this,
+  Nor long beare this torturing wrong,
+For much corruption needfull is
+  To fuell such a feaver long. 20These burning fits but meteors bee,
+  Whose matter in thee is soone spent.
+Thy beauty,'and all parts, which are thee,
+  Are unchangeable firmament.
+
+Yet t'was of my minde, seising thee, 25
+  Though it in thee cannot persever.
+For I had rather owner bee
+  Of thee one houre, then all else ever.
+
+[A Feaver. <i>1633-69</i>, <i>D</i>, <i>H40</i>, <i>H49</i>, <i>Lec</i>, <i>S96:</i> Of a fever. <i>L74:</i> The Fever. <i>B</i>, <i>Cy</i>, <i>O'F</i>, <i>P:</i> Fever. <i>A18</i>, <i>N</i>, <i>TCC</i>, <i>TCD:</i> <i>no title</i>, <i>JC</i>]
+
+[5 know; <i>Ed:</i> know, <i>1633-69</i>]
+
+[8 with] in <i>1669</i>]
+
+[16 might] must <i>TCC</i>]
+
+[18 beare] endure <i>1669</i>
+
+torturing] tormenting <i>JC</i>, <i>O'F</i> (<i>corr. from</i> torturing)]
+
+[19 For much <i>1633</i>, <i>A18</i>, <i>B</i>, <i>D</i>, <i>H40</i>, <i>H49</i>, <i>JC</i>, <i>L74</i>, <i>Lec</i>, <i>N</i>, <i>S</i>, <i>S96</i>, <i>TC:</i> For more <i>1635-69</i>, <i>O'F:</i> Far more <i>Cy</i>, <i>P</i>][22 is soon] soon is <i>1669</i>]
+
+[24 Are] Are an <i>1669</i>, <i>P</i>, <i>S96</i>]
+
+[25 Yet 'twas of <i>1633-54:</i> And here as <i>1669</i>]
+
+[27 For] Yet <i>1669</i>]
+
+<i>Aire and Angels.</i>
+
+Twice or thrice had I loved thee,
+Before I knew thy face or name;
+So in a voice, so in a shapelesse flame,
+<i>Angells</i> affect us oft, and worship'd bee;
+  Still when, to where thou wert, I came, 5
+Some lovely glorious nothing I did see.
+  But since my soule, whose child love is,
+Takes limmes of flesh, and else could nothing doe,
+  More subtile then the parent is,
+Love must not be, but take a body too, 10
+  And therefore what thou wert, and who,
+      I bid Love aske, and now
+That it assume thy body, I allow,
+And fixe it selfe in thy lip, eye, and brow.Whilst thus to ballast love, I thought, 15
+And so more steddily to have gone,
+With wares which would sinke admiration,
+I saw, I had loves pinnace overfraught,
+  Ev'ry thy haire for love to worke upon
+Is much too much, some fitter must be sought; 20
+  For, nor in nothing, nor in things
+Extreme, and scatt'ring bright, can love inhere;
+  Then as an Angell, face, and wings
+Of aire, not pure as it, yet pure doth weare,
+  So thy love may be my loves spheare; 25
+      Just such disparitie
+As is twixt Aire and Angells puritie,
+'Twixt womens love, and mens will ever bee.
+
+[Aire and Angels. <i>1633-69</i>, <i>A18</i>, <i>D</i>, <i>H49</i>, <i>JC</i>, <i>Lec</i>, <i>N</i>, <i>O'F</i>, <i>P</i>, <i>S</i>, <i>S96</i>, <i>TCC</i>, <i>TCD:</i> <i>no title</i>, <i>B</i>, <i>H40</i>]
+
+[4 bee; <i>Ed:</i> bee, <i>1633-69</i>]
+
+[5 came,] came <i>1633</i>]
+
+[6 I did] did I <i>1669</i>
+
+see. <i>Ed:</i> see, <i>1633-69</i>][7 since <i>Ed:</i> since, <i>1633-69</i>]
+
+[11 who, <i>Ed:</i> who <i>1633-69</i>]
+
+[14 lip, eye,] lips, eyes, <i>1669</i>, <i>Chambers</i>]
+
+[19 Ev'ry thy <i>1633-39</i>, <i>A18</i>, <i>B</i> (Even), <i>D</i>, <i>H40</i>, <i>H49</i>, <i>JC</i>, <i>Lec</i>, <i>N</i>, <i>O'F</i>, <i>S</i> (Ever), <i>S96</i>, <i>TC:</i> Thy every <i>1650-69</i>]
+
+[22 scatt'ring <i>Ed:</i> scattring, <i>1633-35:</i> scattering <i>1639-69</i>]
+
+[27 Aire <i>1633-54 and all MSS.:</i> Airs <i>1669</i>, <i>Chambers</i>]
+
+<i>Breake of day.</i>
+
+'Tis true, 'tis day; what though it be?
+O wilt thou therefore rise from me?
+Why should we rise, because 'tis light?
+Did we lie downe, because 'twas night?
+Love which in spight of darknesse brought us hether, 5
+Should in despight of light keepe us together.
+
+Light hath no tongue, but is all eye;
+If it could speake as well as spie,
+This were the worst, that it could say,
+That being well, I faine would stay, 10And that I lov'd my heart and honor so,
+That I would not from him, that had them, goe.
+
+Must businesse thee from hence remove?
+Oh, that's the worst disease of love,
+The poore, the foule, the false, love can 15
+Admit, but not the busied man.
+He which hath businesse, and makes love, doth doe
+Such wrong, as when a maryed man doth wooe.
+
+[Breake of day, <i>1633-69</i>, <i>A18</i>, <i>L74</i>, <i>N</i>, <i>TCC</i>, <i>TCD:</i> <i>no title or</i> Sonnet, <i>B</i>, <i>D</i>, <i>H40</i>, <i>H49</i>, <i>JC</i>, <i>Lec</i>, <i>O'F</i>, <i>P</i>, <i>S</i>, <i>S96:</i> A Songe. <i>A25</i>]
+
+[1 day;] day, <i>1633</i>]
+
+[5 in spight of <i>1633-39</i>, <i>1669</i>, <i>A25</i>, <i>JC</i>, <i>S96:</i> in dispight <i>1650-54</i>, <i>A18</i>, <i>D</i>, <i>H40</i>, <i>H49</i>, <i>L74</i>, <i>Lec</i>, <i>N</i>, <i>S</i>, <i>TC</i>]
+
+[6 in despight <i>1633</i>, <i>1650-69:</i> in spight <i>1635-39</i>
+
+keepe] holde <i>A18</i>, <i>L74</i>, <i>N</i>, <i>S96</i>, <i>TC</i>]
+
+[9 were] is <i>A18</i>, <i>L74</i>, <i>N</i>, <i>O'F</i>, <i>S</i> <i>TC</i>]
+
+[11 I lov'd] I love <i>JC</i>, <i>N</i>, <i>O'F</i>, <i>TC</i>][12 him, that had them <i>1633-54</i>, <i>D</i>, <i>H49</i>, <i>Lec</i>, <i>S:</i> him that had them (<i>or</i> it) <i>A25</i>, <i>B</i>, <i>C</i>, <i>L74</i>, <i>N</i>, <i>O'F</i>, <i>TC:</i> her, that had them, <i>1669:</i> her that hath them <i>B</i>, <i>JC</i> (it), <i>S96</i>]
+
+[15 foule,] foole, <i>H40</i>]
+
+[18 as when ... doth <i>1633</i>, <i>1669</i>, <i>A25</i>, <i>C</i>, <i>D</i>, <i>H40</i>, <i>H49</i>, <i>Lec</i>, <i>S</i>, <i>S96:</i> as if ... should <i>A18</i>, <i>B</i>, <i>JC</i>, <i>L74</i>, <i>N</i>, <i>O'F</i>, <i>TC:</i> as when ... should <i>1635-54</i>]
+
+<i>The Anniversarie.</i>
+
+  All Kings, and all their favorites,
+  All glory of honors, beauties, wits,
+The Sun it selfe, which makes times, as they passe,
+Is elder by a yeare, now, then it was
+When thou and I first one another saw: 5
+All other things, to their destruction draw,
+  Only our love hath no decay;
+This, no to morrow hath, nor yesterday,
+Running it never runs from us away,
+But truly keepes his first, last, everlasting day. 10
+
+  Two graves must hide thine and my coarse,
+  If one might, death were no divorce.
+Alas, as well as other Princes, wee,(Who Prince enough in one another bee,)
+Must leave at last in death, these eyes, and eares, 15
+Oft fed with true oathes, and with sweet salt teares;
+  But soules where nothing dwells but love
+(All other thoughts being inmates) then shall prove
+This, or a love increased there above,
+When bodies to their graves, soules from their graves remove. 20
+
+  And then wee shall be throughly blest,
+  But wee no more, then all the rest;
+Here upon earth, we'are Kings, and none but wee
+Can be such Kings, nor of such subjects bee.
+Who is so safe as wee? where none can doe 25
+Treason to us, except one of us two.
+  True and false feares let us refraine,
+Let us love nobly, and live, and adde againe
+Yeares and yeares unto yeares, till we attaine
+To write threescore: this is the second of our raigne. 30
+
+[The Anniversarie. <i>1633-69</i>, <i>A18</i>, <i>N</i>, <i>TCC</i>, <i>TCD:</i> <i>no title</i>, <i>B</i>, <i>Cy</i>, <i>D</i>, <i>H40</i>, <i>H49</i>, <i>JC</i>, <i>Lec</i>, <i>O'F</i>, <i>P</i>, <i>S:</i> Ad Liviam. <i>S96</i>]
+
+[3 times, as they passe, <i>1633</i>, <i>1669</i> (<i>which brackets</i> which ... pass), <i>MSS.:</i> times, as these pass, <i>1635-54:</i> time, as they pass, <i>Chambers, who attributes to 1633, 1669</i>][12 divorce. <i>Ed:</i> divorce, <i>1633-69</i>]
+
+[17 love <i>Ed:</i> love; <i>1633-69</i>]
+
+[20 to their graves] to their grave <i>1635-39</i>]
+
+[22 wee <i>A18</i>, <i>B</i>, <i>Cy</i>, <i>D</i>, <i>H40</i>, <i>H49</i>, <i>JC</i>, <i>Lec</i>, <i>N</i>, <i>O'F</i>, <i>P</i>, <i>S</i>, <i>S96</i>, <i>TC:</i> now <i>1633-69</i>. <i>See note</i>
+
+rest; <i>Ed:</i> rest. <i>1633-69</i>]
+
+[23 none <i>om. 1669, D, H40, H49, JC, Lec, S, S96</i>]
+
+[24 None are such Kings, <i>1669</i>, <i>D</i>, <i>H40</i>, <i>H49</i>, <i>JC</i>, <i>Lec</i>, <i>S</i>, <i>S96</i>]
+
+nor] and <i>D</i>, <i>H40</i>, <i>H49</i>, <i>JC</i>, <i>Lec</i>, <i>S</i>, <i>S96</i>, bee. <i>Ed:</i> bee; <i>1633-69</i>]
+
+[27 refraine,] refraine. <i>1669</i>]
+
+[30 threescore: <i>Grolier:</i> threescore, <i>1633-69</i>]
+
+<i>A Valediction: of my name, in the window.</i>
+
+I.My name engrav'd herein,
+Doth contribute my firmnesse to this glasse,
+  Which, ever since that charme, hath beene
+  As hard, as that which grav'd it, was;
+Thine eye will give it price enough, to mock 5
+        The diamonds of either rock.
+
+II.
+
+        'Tis much that Glasse should bee
+As all confessing, and through-shine as I,
+  'Tis more, that it shewes thee to thee,
+  And cleare reflects thee to thine eye. 10
+But all such rules, loves magique can undoe,
+        Here you see mee, and I am you.
+
+III.
+
+        As no one point, nor dash,
+Which are but accessaries to this name,
+  The showers and tempests can outwash, 15
+  So shall all times finde mee the same;
+You this intirenesse better may fulfill,
+        Who have the patterne with you still.
+
+IIII.        Or, if too hard and deepe
+This learning be, for a scratch'd name to teach, 20
+  It, as a given deaths head keepe,
+  Lovers mortalitie to preach,
+Or thinke this ragged bony name to bee
+        My ruinous Anatomie.
+
+V.
+
+        Then, as all my soules bee, 25
+Emparadis'd in you, (in whom alone
+  I understand, and grow and see,)
+  The rafters of my body, bone
+Being still with you, the Muscle, Sinew, and Veine,
+        Which tile this house, will come againe. 30
+
+VI.
+
+        Till my returne, repaire
+And recompact my scattered body so.
+  As all the vertuous powers which are
+  Fix'd in the starres, are said to flow
+Into such characters, as graved bee 35
+        When these starres have supremacie:
+
+VII.        So, since this name was cut
+When love and griefe their exaltation had,
+  No doore 'gainst this names influence shut;
+  As much more loving, as more sad, 40
+'Twill make thee; and thou shouldst, till I returne,
+        Since I die daily, daily mourne.
+
+VIII.
+
+        When thy inconsiderate hand
+Flings ope this casement, with my trembling name,
+  To looke on one, whose wit or land, 45
+  New battry to thy heart may frame,
+Then thinke this name alive, and that thou thus
+        In it offendst my Genius.
+
+IX.
+
+        And when thy melted maid,
+Corrupted by thy Lover's gold, and page, 50
+  His letter at thy pillow'hath laid,
+  Disputed it, and tam'd thy rage,
+And thou begin'st to thaw towards him, for this,
+        May my name step in, and hide his.
+
+X.        And if this treason goe 55
+To an overt act, and that thou write againe;
+  In superscribing, this name flow
+  Into thy fancy, from the pane.
+So, in forgetting thou remembrest right,
+        And unaware to mee shalt write. 60
+
+<b>XI.</b>
+
+        But glasse, and lines must bee,
+No meanes our firme substantiall love to keepe;
+  Neere death inflicts this lethargie,
+  And this I murmure in my sleepe;
+Impute this idle talke, to that I goe, 65
+        For dying men talke often so.
+
+[A Valediction: Of <i>&c.</i> <i>D</i>, <i>H49:</i> A Valediction of <i>&c.</i> <i>1633-69</i>, <i>H40</i>, <i>Lec</i>; Valediction of <i>&c.</i> <i>A18</i>, <i>N</i>, <i>TCC</i>, <i>TCD:</i> A Valediction of my name in the Glasse Window <i>Cy:</i> A Valediction to <i>&c.</i> <i>B:</i> Valediction 4: of Glasse <i>O'F:</i> Valediction in Glasse <i>P:</i> The Diamond and Glasse <i>S:</i> Vpon the ingravinge of his name with a Diamonde in his mistris windowe when he was to travel. <i>S96</i> (<i>This is added to the title in O'F.</i>): <i>similarly, JC</i>]
+
+[4 was; <i>Ed:</i> was, <i>1633-69</i>]
+
+[5 eye] eyes <i>A18</i>, <i>B</i>, <i>Cy</i>, <i>JC</i>, <i>N</i>, <i>O'F</i>, <i>P</i>, <i>S</i>, <i>S96</i>, <i>TC</i>][8 I, <i>1633-54:</i> I <i>1669</i>]
+
+[12 am you.] see you. <i>1669</i>]
+
+[14 accessaries <i>1633-69</i>, <i>O'F</i>, <i>S:</i> accessary <i>A18</i>, <i>B</i>, <i>Cy</i>, <i>D</i>, <i>H40</i>, <i>H49</i>, <i>JC</i>, <i>Lec</i>, <i>N</i>, <i>P</i>, <i>S96</i>, <i>TC</i>]
+
+[15 tempests <i>1633</i>, <i>1669:</i> tempest <i>1635-54</i>]
+
+[19 Or, <i>Ed:</i> Or <i>1633-69</i>]
+
+[32 so. <i>1633-35:</i> so, <i>1639-69</i>, <i>Chambers</i>. <i>See note</i>]
+
+[34 flow <i>Ed:</i> flow, <i>1633-69</i>]
+
+[36 these <i>1633:</i> those <i>1635-69</i>
+
+have] had <i>1669</i>
+
+supremacie: <i>1633-69:</i> supremacie. <i>1650-69</i>. <i>See note</i>]
+
+[37 So, <i>Ed:</i> So <i>1633-69</i>]
+
+[39 shut; <i>Ed:</i> shut, <i>1633-69</i>]

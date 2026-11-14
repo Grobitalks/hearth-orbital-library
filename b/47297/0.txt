@@ -1,0 +1,1778 @@
+HOLB1	47297	0	0	80	740	23
+2	Introduction
+11	Book I. Gamuret
+12	Book I. Gamuret
+82	Book II. Herzeleide
+148	Book III. Gurnemanz
+150	Book III. Gurnemanz
+235	Book IV. Kondwiramur
+290	Book V. Anfortas
+357	Book VI. Arthur
+436	Book VII. Obilot
+511	Book VIII. Antikonie
+556	Book IX. Trevrezent
+558	Book IX. Trevrezent
+661	Book I
+668	Book II
+676	Book III
+692	Book IV. Traditional Events
+696	Book V. Traditional Events
+701	Book VI. Traditional Events
+709	Book VII. Traditional Events
+716	Book VIII. Traditional Events
+722	Book IX. Traditional Events
+735	Volume IV. The Fians:
+PARZIVAL
+
+VOL. I
+
+BOOKS I.-IX.
+
+PARZIVAL
+
+A KNIGHTLY EPIC
+
+BY
+
+WOLFRAM VON ESCHENBACH
+
+TRANSLATED BY
+
+JESSIE L. WESTON
+
+VOL. I
+
+ANASTATIC REPRINT OF THE EDITION LONDON 1894.
+
+      NEW YORK
+G. E. STECHERT & CO.,
+        1912.        TO THE MEMORY OF
+        RICHARD WAGNER
+  WHOSE GENIUS HAS GIVEN FRESH LIFE
+TO THE CREATIONS OF MEDIÆVAL ROMANCE
+        THIS TRANSLATION IS
+        DEDICATED
+
+CONTENTS
+
+BOOK PAGE
+
+INTRODUCTION ix I. GAMURET 1 II. HERZELEIDE 33 III. GURNEMANZ 63 IV. KONDWIRAMUR 101 V. ANFORTAS 127 VI. ARTHUR 157 VII. OBILOT 193 VIII. ANTIKONIE 227 IX. TREVREZENT 249 APPENDICES 289 NOTES 299<b>INTRODUCTION</b>
+
+In presenting, for the first time, to English readers the greatest work of Germany's greatest mediæval poet, a few words of introduction, alike for poem and writer, may not be out of place. The lapse of nearly seven hundred years, and the changes which the centuries have worked, alike in language and in thought, would have naturally operated to render any work unfamiliar, still more so when that work was composed in a foreign tongue; but, indeed, it is only within the present century that the original text of the <i>Parzival</i> has been collated from the MSS. and made accessible, even in its own land, to the general reader. But the interest which is now felt by many in the Arthurian romances, quickened into life doubtless by the genius of the late Poet Laureate, and the fact that the greatest composer of our time, Richard Wagner, has selected this poem as the groundwork of that wonderful drama, which a growing consensus of opinion has hailed as the grandest artistic achievement of this century, seem to indicate that the time has come when the work of Wolfram von Eschenbach may hope to receive, from a wider public than that of his own day, the recognition which it so well deserves.
+
+Of the poet himself we know but little, save from the personal allusions scattered throughout his works; the dates of his birth and death are alike unrecorded, but the frequent notices of contemporary events to be found in his poems enable us to fix with tolerable certainty the period of his literary activity, and to judge approximately the outline of his life.Wolfram's greatest work, the <i>Parzival</i>, was apparently written within the early years of the thirteenth century; he makes constant allusions to events happening, and to works produced, within the first decade of that period; and as his latest work, the <i>Willehalm</i>, left unfinished, mentions as recent the death of the Landgrave Herman of Thuringia, which occurred in 1216, the probability seems to be that the <i>Parzival</i> was written within the first fifteen years of the thirteenth century. Inasmuch, too, as this work bears no traces of immaturity in thought or style, it is probable that the date of the poet's birth cannot be placed much later than 1170.
+
+The name, Wolfram von Eschenbach, points to Eschenbach in Bavaria as in all probability the place of his birth, as it certainly was of his burial. So late as the end of the seventeenth century his tomb, with inscription, was to be seen in the Frauen-kirche of Ober-Eschenbach, and the fact that within a short distance of the town are to be found localities mentioned in his poems, such as Wildberg, Abenberg, Trühending, Wertheim, etc., seems to show that there, too, the life of the poet-knight was spent.
+
+By birth, as Wolfram himself tells us, he belonged to the knightly order (Zum Schildesamt bin Ich geboren), though whether his family was noble or not is a disputed point, in any case Wolfram was a poor man, as the humorous allusions which he makes to his poverty abundantly testify.Yet he does not seem to have led the life of a wandering singer, as did his famous contemporary, Walther von der Vogelweide; if Wolfram journeyed, as he probably did, it was rather in search of knightly adventures, he tells us: 'Durchstreifen muss Der Lande viel, Wer Schildesamt verwalten will,' and though fully conscious of his gift of song, yet he systematically exalts his office of <i>knight</i> above that of <i>poet</i>. The period when Wolfram lived and sang, we cannot say <i>wrote</i>, for by his own confession he could neither read nor write ('I'ne kan decheinen buochstap,' he says in <i>Parzival</i>; and in <i>Willehalm</i>, 'Waz an den buochen steht geschrieben, Des bin Ich kunstelos geblieben'), and his poems must, therefore, have been orally dictated, was one peculiarly fitted to develop his special genius. Under the rule of the Hohenstaufen the institution of knighthood had reached its highest point of glory, and had not yet lapsed into the extravagant absurdities and unrealities which characterised its period of decadence; and the Arthurian romances which first found shape in Northern France had just passed into Germany, there to be gladly welcomed, and to receive at the hands of German poets the impress of an ethical and philosophical interpretation foreign to their original form.
+
+It was in these romances that Wolfram, in common with other of his contemporaries, found his chief inspiration; in the <i>Parzival</i>, his master-work, he has told again the story of the Quest for, and winning of, the Grail; told it in connection with the Perceval legend, through the medium of which, it must be remembered, the spiritualising influence of the Grail myth first came into contact with the brilliant chivalry and low morality of the original Arthurian romances; and told it in a manner that is as truly mediæval in form as it is modern in interpretation.The whole poem is instinct with the true knightly spirit; it has been well called <i>Das Hohelied von Rittertum</i>, the knightly song of songs, for Wolfram has seized not merely the external but the very soul of knighthood, even as described in our own day by another German poet; Wolfram's ideal knight, in his fidelity to his plighted word, his noble charity towards his fellow-man, lord of the Grail, with Its civilising, humanising influence, is a veritable 'true knight of the Holy Ghost.' In a short introduction such as this it is impossible to discuss with any fulness the fascinating problems connected with this poem, one can do no more than indicate where the principal difficulties lie. These may be briefly said to be chiefly connected with the source from which Wolfram derived his poem, and with the interpretation of its ethical meaning. That Wolfram drew from a French source we know from his own statement, he quotes as his authority a certain 'Kiot the Provençal,' who, in his turn, found his information in an Arabian MS. at Toledo. Unfortunately no such poet, and no such poem, are known to us, while we do possess a French version of the story, <i>Li Conte del Graal</i>, by Chrêtien de Troyes, which, so far as the greater part of the poem (<i>i.e.</i> Books III. to XIII.) is concerned, shows a remarkable agreement not only in sequence of incidents, but even in verbal correspondence, with Wolfram's work. Chrêtien, however, does not give either the first two or the last three books as we find them in Wolfram.The account of Perceval's father, and of his death, is by another hand than Chrêtien's, and does not agree with Wolfram's account; and the poem, left unfinished by Chrêtien, has been continued and concluded at great length by at least three other writers, who have evidently drawn from differing sources; whereas Wolfram's conclusion agrees closely with his introduction, and his whole poem forms the most harmonious and complete version of the story we possess. Wolfram knew Chrêtien's poem, but refers to it with contempt as being the wrong version of the tale, whereas 'Kiot' had told the venture aright. The question then is, where did Wolfram really find those portions of his poems which he <i>could not</i> have drawn from Chrêtien? Is 'Kiot' a real, or a feigned, source?
+
+Some German critics have opined that Wolfram really knew no other poem than Chrêtien's, and that he boldly invented all that he did not find there, feigning another source in order to conceal the fact. Others have maintained that whether 'Kiot' be the name of the writer or not, Wolfram certainly had before him a French poem other than <i>Li Conte del Graal</i>.
+
+It certainly seems in the highest degree improbable that a <i>German</i> poet should have introduced the Angevin element, lacking in Chrêtien; Wolfram's presentment of the Grail, too, differs <i>in toto</i> from any we find elsewhere, with him it is not the cup of the Last Supper, but a precious stone endowed with magical qualities. It is true that Chrêtien does not say <i>what</i> the Grail was, but simply that '<i>du fin or esmeree estoit, pieres pressieuses avoit el graal de maintes manieres</i>,' yet it seems scarcely likely that Wolfram should have interpreted this as a precious stone, to say nothing of sundry Oriental features peculiar to his description.But whence Wolfram derived his idea of the Grail is a problem which it is to be feared will never now be completely solved.
+
+The discussion as to the ethical meaning Wolfram attached to the story seems more hopeful of results, as here we do possess the requisite data, and can study the poem for ourselves. The question between critics is whether Wolfram intended to teach a purely religious lesson or not; whether the poem is an allegory of life, and Parzival a symbol of the Soul of man, hovering between Faith and Doubt, perplexed by the apparent injustice of God's dealings with men, and finally fighting its way through the darkness of despair to the clear light of renewed faith in God; or have we here a glorification of the knightly ideal? a declaration of the poet-knight's belief that in loyal acceptance of, and obedience to, the dictates of the knightly order, salvation is to be won? Can the true knight, even though he lack faith in God, yet by keeping intact his faith with man, by very loyalty and steadfastness of purpose, win back the spiritual blessing forfeited by his youthful folly? Is Parzival one of those at whose hands 'the Kingdom of Heaven suffereth violence'? It may well be that <i>both</i> these interpretations are, in a measure, true, that Wolfram found the germ of the religious idea already existing in his French source, but that to the genius of the German poet we owe that <i>humanising</i> of the ideal which has brought the <i>Parzival</i> into harmony with the best aspirations of men in all ages. This, at least, may be said with truth, that of all the romances of the Grail cycle, there is but one which can be presented, in its entirety, to the world of to-day with the conviction that its morality is as true, its human interest as real, its lesson as much needed now as it was seven hundred years ago, and that romance is the <i>Parzival</i> of Wolfram von Eschenbach.Some words as to the form of the original poem, and the method followed in translation, may be of interest to the reader. The original <i>Parzival</i> is a poem of some 25,000 lines, written in an irregular metre, every two lines rhyming, <i>reim-paar</i>. Among modern German translators considerable difference of opinion as to the best method of rendering the original appears to exist. Simrock has retained the original form, and adheres very closely to the text; his version certainly gives the most accurate idea of Wolfram's style; San Marte has allowed himself considerable freedom in versification, and, unfortunately, also in translation; in fact, he too often gives a paraphrase rather than a reproduction of the text. Dr. Bötticher's translation omits the Gawain episodes, and, though close to the original, has discarded rhyme. It must be admitted that Wolfram is by no means easy to translate, his style is obscure and crabbed, and it is often difficult to interpret his meanings with any certainty. The translator felt that the two points chiefly to be aimed at in an English version were, that it should be faithful to the original text, and easy to read. The metre selected was chosen for several reasons, principally on account of the length of the poem, which seemed to render desirable a more flowing measure than the short lines of the original; and because by selecting this metre it was possible to retain the original form of <i>reim-paar</i>. As a general rule one line of the English version represents two of the German poem, but the difference of language has occasionally demanded expansion in order to do full justice to the poet's meaning.Throughout, the translator's aim has been to be as literal as possible, and where the differing conventionalities of the thirteenth and nineteenth centuries have made a change in the form of expression necessary, the <i>meaning</i> of the poet has been reproduced, and in no instance has a different <i>idea</i> been consciously suggested. That there must of necessity be many faults and defects in the work the writer is fully conscious, but in the absence of any previous English translation she can only hope that the present may be accepted as a not altogether inadequate rendering of a great original; if it should encourage others to study that original for themselves, and learn to know Wolfram von Eschenbach, while at the same time they learn better to understand Richard Wagner, she will feel herself fully repaid.
+
+* * * * *
+
+The translator feels that it may be well to mention here the works which have been principally relied on in preparing the English translation and the writers to whom she is mostly indebted.
+
+For the Text Bartsch's edition of the original <i>Parzival</i>, published in <i>Deutsche Classiker des Mittelalters</i>, has been used throughout, in connection with the modern German translation by Simrock.
+
+In preparing the Notes use has been made of Dr. Bötticher's Introduction to his translation of the <i>Parzival</i>, and the same writer's <i>Das Hohelied von Rittertum</i>; San Marte's translation has also been occasionally referred to.The Appendix on proper names has been mainly drawn up from Bartsch's article on the subject in <i>Germanistische Studien</i>; and that on the Angevin allusions from Miss Norgate's <i>England under the Angevin Kings</i>, though the statements have been verified by reference to the original chronicles.
+
+For all questions connected with the Perceval legend in its varying forms the authority consulted has been <i>Studies on the Legend of the Holy Grail</i>, by Mr. Alfred Nutt, to whom, personally, the translator is indebted for much valuable advice and assistance in preparing this book for publication.<b>BOOK I</b>
+
+GAMURET
+
+ARGUMENT
+
+In the Introduction the poet tells of the evil of doubt and unsteadfastness--against which he would warn both men and women; he will tell them a tale which shall speak of truth and steadfastness, and in which many strange marvels shall befall.
+
+Book I. tells how Gamuret of Anjou at the death of his father, King Gandein, refused to become his brother's vassal, and went forth to seek fame and love-guerdon for himself. How he fought under the Baruch before Alexandria, and came to Patelamunt. How Queen Belakané was accused of having caused the death of her lover Eisenhart, and was besieged by two armies, which Friedebrand, King of Scotland, Eisenhart's uncle, had brought against her. How Gamuret defeated her foemen, and married the Queen, and became King of Assagog and Zassamank. How he grew weary for lack of knightly deeds, and sailed away in secret from Queen Belakané, and left her a letter telling of his name and race. How Feirifis was born, and how Gamuret came to Seville.<b>BOOK I</b>
+
+GAMURET
+
+If unfaith in the heart find dwelling, then the soul it shall
+    reap but woe;
+And shaming alike and honour are his who such doubt shall
+    show,
+For it standeth in evil contrast with a true man's dauntless
+    might,
+As one seeth the magpie's plumage, which at one while is
+    black and white.
+And yet he may win to blessing; since I wot well that in his
+    heart, 5
+Hell's darkness, and light of Heaven, alike have their lot
+    and part
+But he who is false and unsteadfast, he is black as the
+    darkest night,
+And the soul that hath never wavered stainless <i>its</i> hue and
+    white!
+
+This my parable so fleeting too swift for the dull shall be,
+Ere yet they may seize its meaning from before their face
+    'twill flee, 10
+As a hare that a sound hath startled: yea, metal behind the
+    glass,And a blind man's dream yield visions that as swift from the
+    eye do pass,
+For naught shall they have that endureth! And at one while
+    'tis bright and sad,
+And know of a truth that its glory but for short space shall
+    make ye glad.
+And what man shall think to grip me, where no hair for his
+    grasp shall grow, 15
+In the palm of mine hand? The mystery of a close clasp he
+    sure doth know!
+
+If I cry aloud in such peril, it 'seemeth my wisdom well.
+Shall I look for truth where it fleeteth? In the fire that
+    the stream doth quell,
+Or the dew that the sun doth banish? Ne'er knew I a man so
+    wise,
+But was fain to learn the wisdom my fable doth ill disguise, 20
+And the teaching that springeth from it: for so shall he
+    ne'er delay
+To fly and to chase as shall fit him, to shun and to seek
+    alway,
+And to give fitting blame and honour. He who knoweth the
+    twain to tell,
+In their changing ways, then wisdom has tutored that man
+    right well.
+And he sits not o'er-long at leisure, nor his goal doth he    overreach, 25
+But in wisdom his ways discerning, he dealeth with all and
+    each.
+But his comrade, of heart unfaithful, in hell-fire shall his
+    portion be,
+Yea, a hailstorm that dims the glory of a knightly fame is
+    he.
+As a short tail it is, his honour, that but for two bites
+    holds good,
+When the steer by the gad-fly driven doth roam thro' the
+    lonely wood. 30
+
+And tho' manifold be my counsel not to <i>men</i> alone I'ld
+    speak,
+For fain would I show to women the goal that their heart
+    should seek.
+And they who shall mark my counsel, they shall learn where
+    they may bestow
+Their praise and their maiden honour; and the manner of man
+    shall know
+Whom they freely may love and honour, and never may fear to
+    rue 35
+Their maidenhood, and the true love they gave him of heart so
+    true.
+In God's sight I pray all good women to keep them in wisdom's
+    way,For true shame on all sides doth guard them: such bliss I for
+    them would pray.
+But the false heart shall win false honour--How long doth the
+    thin ice last,
+If the sun shineth hot as in August? So their praise shall be
+    soon o'erpast. 40
+
+Many women are praised for beauty; if at heart they shall be
+    untrue,
+Then I praise them as I would praise it, the glass of a
+    sapphire hue
+That in gold shall be set as a jewel! Tho' I hold it an evil
+    thing,
+If a man take a costly ruby, with the virtue the stone doth
+    bring,
+And set it in worthless setting: I would liken such costly
+    stone 45
+To the heart of a faithful woman, who true womanhood doth
+    own.
+I would look not upon her colour, nor the heart's roof all
+    men can see,
+If the heart beateth true beneath it, true praise shall she
+    win from me!
+
+Should I speak of both man and woman as I know, nor my skill
+    should fail,O'er-long would it be my story. List ye now to my
+    wonder-tale: 50
+And this venture it telleth tidings of love, and anon of woe,
+Joy and sorrow it bringeth with it. 'Stead of <i>one</i> man if
+    <i>three</i> ye know,
+And each one of the three hath wisdom and skill that outweigh
+    my skill,
+Yet o'erstrange shall they find the labour, tho' they toil
+    with a right good-will
+To tell ye this tale, which I think me to tell ye myself,
+    alone, 55
+And worn with their task and weary would they be ere the work
+    was done.
+
+A tale I anew will tell ye, that speaks of a mighty love;
+Of the womanhood of true women; how a man did his manhood
+    prove;
+Of one that endured all hardness, whose heart never failed in
+    fight,
+Steel he in the face of conflict: with victorious hand of
+    might 60
+Did he win him fair meed of honour; a brave man yet slowly
+    wise
+Is he whom I hail my hero! The delight he of woman's eyes,
+Yet of woman's heart the sorrow! 'Gainst all evil his face he
+    set;Yet he whom I thus have chosen my song knoweth not as yet,
+For not yet is he born of whom men this wondrous tale shall
+    tell, 65
+And many and great the marvels that unto this knight befell.
+
+NOW they do to-day as of old time, where a foreign law holds
+    sway
+(Yea, in part of our German kingdom, as ye oft shall have
+    heard men say),
+Whoever might rule that country, 'twas the law, and none
+    thought it shame
+('Tis the truth and no lie I tell ye) that the elder son
+    might claim 70
+The whole of his father's heirdom--And the younger sons must
+    grieve,
+What was theirs in their father's lifetime, they perforce at
+    his death must leave.
+Before, all was theirs in common, now it fell unto one alone.
+So a wise man planned in his wisdom, that the eldest the
+    lands should own,
+For youth it hath many a fair gift, but old age knoweth grief
+    and pain, 75
+And he who is poor in his old age an ill harvest alone doth
+    gain.
+Kings, Counts, Dukes (and no lie I tell ye) the law holdeth
+    all as one,And no man of them all may inherit, save only the eldest son,
+And methinks 'tis an evil custom--So the knight in his
+    youthful pride,
+Gamuret, the gallant hero, lost his Burg, and his fair lands
+    wide, 80
+Where his father had ruled with sceptre and crown as a mighty
+    king,
+Till knighthood, and lust of battle, to his death did the
+    monarch bring.
+
+And all men were sore for his sorrow, who truth and unbroken
+    faith
+Bare ever throughout his lifetime, yea even unto his death.
+Then the elder son he summoned the princes from out his land, 85
+And knightly they came, who rightly might claim from their
+    monarch's hand,
+To hold, as of yore, their fiefdoms. So came they unto his
+    hall,
+And the claim of each man he hearkened, and gave fiefs unto
+    each and all.
+
+Now hear how they dealt--As their true heart it bade them,
+    both great and small,
+They made to their king petition, with one voice from the
+    people all, 90
+That to Gamuret grace and favour he would show with true    brother's hand,
+And honour himself in the doing. That he drive him not from
+    the land
+But give him, within his kingdom, a fair Burg that all men
+    might see,
+That he take from that Burg his title, and he held of all
+    tribute free!--
+Nor the king was ill-pleased at their pleading, and he quoth,
+    'A small grace, I trow, 95
+Have ye asked, I would e'en be better than your prayer, as ye
+    straight shall know,
+Why name ye not this my brother as Gamuret Angevin?
+Since Anjou is my land, I think me the title we <i>both</i> may
+    win!'
+
+Then further he spake, the monarch, 'My brother in sooth may
+    seek
+Yet more from my hand of favour than my mouth may as swiftly
+    speak, 100
+With me shall he have his dwelling--I would that ye all
+    should see
+How one mother alike hath borne us; his riches but small
+    shall be,
+While I have enough; of free hand would I give him both lands
+    and gold,
+That my bliss may be ne'er held forfeit by Him, Who can aye    withhold,
+Or give, as He deemeth rightful!' Then the princes they heard
+    alway, 105
+How the king would deal well with his brother, and they
+    deemed it a joyful day!
+
+And each one bowed him low before him. Nor Gamuret long
+    delayed,
+But he spake as his heart would bid him, and friendly the
+    words he said:
+'Now hearken, my lord and brother, if vassal I think to be
+To thee, or to any other, then a fair lot awaiteth me. 110
+But think thou upon mine honour, for faithful art thou and
+    wise,
+And give counsel as shall beseem thee, and help as thou shalt
+    devise.
+For naught have I now save mine armour, if within it I more
+    had done,
+Then far lands should speak my praises, and remembrance from
+    men were won!'
+Then further he spake, the hero: 'Full sixteen my squires
+    shall be, 115
+And six of them shall bear harness; four pages give thou to
+    me
+Of noble birth and breeding, and nothing to them I'll spare
+Of all that my hand may win them. Afar in the world I'ld    fare,
+(Somewhat I ere now have journeyed,) if Good Fortune on me
+    shall smile,
+I may win from fair women favour. If a woman I serve awhile, 120
+And to serve her she hold me worthy, and my heart speaketh
+    not amiss,
+True knight shall I be and faithful! God show me the way of
+    bliss!
+As comrades we rode together (but then o'er thy land did
+    reign
+The King Gandein, our father), and sorrow and bitter pain
+We bare for Love's sake! At one while I knew thee as <i>thief</i>
+    and <i>knight</i>, 125
+Thou couldst serve, and thou couldst dissemble, for the sake
+    of thy lady bright.
+Ah! could I steal love as thou couldst, if my skill were but
+    like to thine,
+That women should show me favour, then a blissful lot were
+    mine!'
+
+'Alas! that I ever saw thee,' spake, sighing, the king so
+    true,
+'Who lightly, with words of mocking, my heart would in pieces
+    hew 130
+And would fain that we part asunder! One father hath left us
+    bothA mighty store of riches, I would share with thee, nothing
+    loth.
+Right dear from my heart I hold thee; red gold and jewels
+    bright,
+Folk, weapons, horse, and raiment, take thou as shall seem
+    thee right,
+That thou at thy will mayst journey, and thy free hand to all
+    be known. 135
+Elect do we deem thy manhood, didst thou Gylstram as
+    birthplace own,
+Or thou camest here from Rankulat, yet still would that place
+    be thine,
+Which thou boldest to-day in my favour; true brother art thou
+    of mine!'
+
+'Sir King, thou of need must praise me, so great is thy
+    courtesy!
+So, courteous, thine aid be given, if thou and my mother free 140
+Will share with me now your riches, I mount upward, nor fear
+    to fall,
+And my heart ever beateth higher--Yet I know not how I should
+    call
+This life, which my left breast swelleth! Ah! whither wouldst
+    go mine heart?
+I would fain know where thou shalt guide me--'Tis time that
+    we twain should part.'And all did the monarch give him, yea, more than the knight
+    might crave, 145
+Five chargers, picked and chosen, the best in his land he
+    gave
+High-couraged, swift to battle; and many a cup of gold,
+And many a golden nugget, for naught would his hand withhold.
+Four chests for the road he gave him, with many a jewel rare
+Were they filled. Then the squires he took him who should for
+    the treasure care, 150
+And well were they clad and mounted; and none might his grief
+    withhold
+When the knight gat him unto his mother, who her son in her
+    arms did fold.
+
+Spake the woman, as woman grieving: 'Wilt thou tarry with me
+    no more,
+King Gandein's son? Woe is me! yet my womb this burden bore
+And the son of my husband art thou. Is the eye of God waxed
+    blind, 155
+Or His ear grown deaf in the hearing, that my prayer doth no
+    credence find?
+Is fresh sorrow to be my portion? I have buried my heart's
+    desire,
+And the light of mine eyes; will He rob me, who have suffered
+    a grief so dire,
+Who judgeth with righteous judgment? Then the tale it hath    told a lie,
+That spake of His help so mighty, Who doth help unto me
+    deny!' 160
+
+'God comfort thee,' quoth the hero, 'for the death of my
+    father dear,
+For truly we both must mourn him--But I think from no lips to
+    hear
+Such wailing for my departing! As valour shall show the way,
+I seek knighthood in distant countries--So it standeth with
+    me to-day.'
+
+Quoth the queen, 'Since to high love's service thou turnest
+    both hand and heart, 165
+Sweet son, let it not displease thee to take of my wealth a
+    part
+That may serve thee upon thy journey; let thy chamberlain
+    take from me
+Four chests, each a pack-horse burden, and heavy their weight
+    shall be.
+And within, uncut, there lieth rich silk of Orient rare,
+No man as yet hath cut it, and many a samite fair. 170
+Sweet son, I prithee tell me what time thou wilt come again,
+That my joy may wax the greater, and I look for thee not in
+    vain!''Nay, that I know not, Lady, nor the land that shall see my
+    face,
+But wherever I take my journey, thou hast shown unto me such
+    grace
+As befitteth knightly honour: and the king he hath dealt with
+    me 175
+In such wise that grateful service his rewarding shall ever
+    be.
+And this trust have I, O Lady, that for this thou wilt love
+    him more
+Henceforward, whate'er the future yet keepeth for me in
+    store.'
+And as the venture telleth, to the hand of this dauntless
+    knight,
+Thro' the favour he won from a woman, and the working of true
+    love's might, 180
+Came a token fair, and its value was full thousand marks, I
+    trow,
+E'en to-day an a Jew were craving a pledge, he would deem
+    enow
+Such jewel, and ne'er disdain it--'Twas sent by his lady
+    true,
+And fame did he win in her service, and her love and her
+    greeting knew,
+Yet seldom his pain found easing--Then the hero he took his    leave 185
+Of mother, brother, and brother's kingdom, and many I ween
+    must grieve
+Since his eyes never more beheld them. And all who his
+    friends had been,
+Ere he passed from the land of his fathers, tho' the grace
+    were but small, I ween,
+He gave them of thanks full measure; he deemed they too much
+    had done,
+And, courteous, little thought him, that of right he their
+    love had won! 190
+Straighter his heart than straightness; did one of his
+    praises speak
+In a full and fitting measure, then doubt were not far to
+    seek,
+But ask ye of those his neighbours, or of men who in distant
+    lands
+Had seen his deeds, then the marvel ye were swifter to
+    understand.
+
+And Gamuret he trode ever where Temperance aye should guide, 195
+And naught else might rule his doings, nor he boasted him in
+    his pride
+But bare great honour meekly; from loose ways he e'er had
+    flown;
+And he thought him, the gallant hero, that none bare on earth    a crown,
+Were they King, or Queen, or Kaiser, whom he deemed of his
+    service worth
+Were they not the mightiest reckoned of all monarchs that be
+    on earth. 200
+This will in his heart he cherished--Then men spake, at
+    Bagdad did reign
+A monarch so strong and powerful, that homage he well might
+    claim
+From two-thirds or more of earth's kingdoms. The heathen his
+    name held great,
+And they spake of him as the Baruch, and kings did on his
+    bidding wait,
+And crownèd heads were his servants; and his office it lasts
+    to-day-- 205
+See how Christian men baptizèd to Rome wend their pilgrim
+    way,
+So there was the heathen custom. At Bagdad was their papal
+    right,
+And the Baruch as 'seemed his office purged their sins with
+    his word of might.
+
+From Pompey and Ipomidon, two brothers of Babylon,
+Nineveh, the town of their fathers, the Baruch with force had
+    won, 210
+And bravely 'gainst him they battled. Then came the young    Angevin,
+And the Baruch he showed him favour, yea, he did to his
+    service win
+Gamuret the gallant hero--And he deemed it were well he bore
+Other arms than Gandein his father had given to him of yore.
+Then the hero he well bethought him; on his charger's cloth
+    they laid 215
+An anchor of ermine fashioned, and the same at his will they
+    made
+For shield alike and vesture--And green as the emerald rare
+Was his riding-gear, and 'twas fashioned and wrought of
+    Achmardi fair,
+('Tis a silken stuff,) and he bade them to make of it at his
+    will
+Both blazoned coat and surcoat, (than velvet 'tis richer
+    still;) 220
+And he bade them to sew upon it the anchor of ermine white,
+And with golden threads inwoven was the badge of this gallant
+    knight.
+
+And his anchors they never tested or mainland or haven fair
+And found in that place abiding--But the hero must further
+    bear
+Thro' many a land, a brave guest, the load of this heraldry, 225
+And behind the sign of this anchor but short space might his
+    resting be,And nowhere he found abiding--The tale of the lands he saw,
+And the vessels in which he sailed him? If the truth unto ye
+    I swore,
+On mine own oath must I swear it, and my knightly honour true
+In such wise as the venture told me; other witness I never
+    knew! 230
+
+And men say that his manly courage held the prize in far
+    heathendom,
+In Morocco's land, and in Persia, and elsewhere he high
+    honour won,
+At Damascus and at Aleppo, and where knightly deeds should
+    be:
+In Arabia and lands around it was he held of all conflict
+    free,
+For no man might dare withstand him, he won him such crown of
+    fame; 235
+And his heart for honour lusted, and all deeds were brought
+    to shame,
+And became as naught before him, as all men bare witness true
+Who a joust with him had ridden, and Bagdad of his glory
+    knew.
+
+And his heart never failed or faltered, but onward his course
+    he bare
+To Zassamank's land and kingdom; there all men wept that hero    fair, 240
+Eisenhart, who in knightly service gave his life for a
+    woman's smile;
+Belakané thereto constrained him, sweet maid she, and free
+    from guile.
+(Since her love she never gave him, for love's sake did the
+    hero die,)
+And his kinsmen would fain avenge him, and with force and
+    with subtlety
+Their armies beset the maiden, but in sooth she could guard
+    her well 245
+Ere Gamuret came to her kingdom, and her wrath on her foemen
+    fell.
+For the Prince Friedebrand of Scotland, and his host that
+    against her came
+By ship, ere he left her kingdom had she wasted with fire and
+    flame.
+
+Now hear what befell our hero; storm-driven he was that day,
+And scarce might he win to safety, and his boat in the haven
+    lay 250
+Beneath the royal palace; and the folk they beheld him there,
+And he looked around on the meadow, and he saw many tents
+    stand fair
+Around the town, save the sea-coast, and two armies he
+    thought to see.Then he bade them to tell the story, and whose that fair Burg
+    should be?
+Since he knew it not, nor his shipmen--And an answer they
+    straightway gave, 255
+'Twas Patelamunt; then the townsfolk a boon from the knight
+    would crave,
+And their speech it was soft and friendly--In the name of
+    their gods they'ld pray
+He should help them, so great their peril that in danger of
+    death they lay.
+
+When the young Angevin had hearkened to the tale of their
+    bitter pain,
+He proffered to them his service for such payment as knight
+    may gain, 260
+(As it oft shall befit a hero)--They should say for what
+    goodly prize
+He should dare the hate of their foemen? And they answered
+    him in this wise
+With one mouth the hale and the wounded--Naught would they
+    from him withhold,
+But lord should he be of their treasure, of their jewels
+    alike and gold,
+A fair life should he lead among them!--But such payment he
+    little sought, 265
+For many a golden nugget from Araby had he brought.And dark as night were the people who in Zassamank dwelt
+    alway--
+And the time it seemed long unto him that he need in their
+    midst must stay--
+But he bade them prepare a lodging, and methinks it became
+    them well
+The best of their land to give him, since awhile he with them
+    would dwell. 270
+And the women they looked from the windows, and they gazed on
+    the noble knight,
+And they looked on his squires, and his harness, how 'twas
+    fashioned for deeds of might.
+Then they saw how the knight, free-handed, on his shield of
+    ermine bare
+Full many a pelt of sable; the Queen's Marshal he read it
+    fair,
+The badge, for a mighty anchor, and little he rued the sight, 275
+If his eye spake the truth unto him ere this had he seen the
+    knight,
+Or one who bare his semblance--At Alexandria it needs must
+    be,
+When the Baruch besieged the city--and unequalled in strife
+    was he!
+
+So rode the gallant hero, in stately guise and meet;
+Ten pack-horses heavy-laden they led first adown the street, 280And twenty squires behind them; and his people they went
+    before,
+And lackeys, cooks, and cook-boys, at the head of the train
+    they saw.
+And stately I ween his household, twelve pages of lineage
+    high
+Rode next to the squires, well-mannered, and trained in all
+    courtesy,
+And Saracens were among them; and behind them in order fair 285
+Came chargers eight, and a covering of sendal did each one
+    bear.
+But the ninth it bore a saddle, and the shield ye have known
+    ere now
+Was borne by a squire beside it, and joyful his mien, I trow.
+And trumpeters rode behind it, for in sooth they must needs
+    be there,
+And a drummer he smote his tambour, and swung it aloft in
+    air. 290
+And as naught had the hero deemed it, this pomp, if there
+    failed to ride
+Men who on the flute were skilful, and three fiddlers were at
+    their side,
+And they hasted not nor hurried; and behind them the hero
+    came,
+And his shipman he rode beside him, a wise man of goodly
+    fame.And much folk was within the city, and Moors were both man
+    and maid. 295
+Then the hero he looked around him, and, lo! many a shield
+    displayed,
+Battle-hewn and with spear-thrust piercèd they hung on each
+    wall and door.
+And wailing and woe was their portion; for the knight at each
+    window saw
+Many men lie sorely wounded, who to breathe the air were
+    fain,
+And e'en tho' a leech might tend them no help might they
+    think to gain 300
+Who were hurt too sore for healing--In the field had they
+    faced the foe,
+And such shall be their rewarding who in conflict no flight
+    will know--
+Many horses were led towards him, sword-hewn and with lance
+    thrust through;
+And on each side stood dusky maidens, and black as the night
+    their hue.
+
+Then his host gave him kindly greeting--and of joy did he
+    reap his meed-- 305
+A rich man was he and mighty, and many a knightly deed
+With thrust and blow had his hand wrought when his post at
+    the gate he found;And many a knight was with him, and bandaged their heads and
+    bound,
+And their hands in slings were holden; yet tho' sorely
+    wounded still
+They did many deeds of knighthood, nor were lacking in
+    strength and skill. 310
+
+Then the Burg-grave of the city, with fair words did he pray
+    his guest
+To deal with him and his household in such wise as should
+    seem him best.
+And the host, he led the hero to his wife, and courteously
+Did Gamuret kiss the lady, small joy in the kiss had he!
+Then they sat them down to the table, and e'en as the feast
+    was o'er, 315
+The Marshal he gat him swiftly to the queen, and the tidings
+    bore,
+And craved from her goodly payment, as to messenger shall be
+    due.
+And he spake, 'It shall end in gladness, the grief that
+    erewhile we knew,
+We have welcomed here, O Lady, a knight of such gallant mien,
+We must thank the gods who have sent him, for our need they
+    have surely seen.' 320'Now tell me upon thine honour who this gallant knight may
+    be?'
+'Lady, a dauntless hero, and the Baruch's man is he,
+An Angevin he, of high lineage; Ah me! little did he spare
+Himself, when his foemen seeking he forth to the field would
+    fare.
+How wisely, with skill and cunning, he avoided the
+    threatening blow, 325
+And turned him again to the onslaught! Much sorrow he wrought
+    his foe--
+Ere this have I seen him battle, when the princes of Babylon
+Their city of Alexandria had fain from the Baruch won,
+And with force from its walls would drive him, and many a man
+    lay dead
+In the overthrow of their army, for their venture was but
+    ill-sped. 330
+And such deeds did he do, this hero, that no counsel was
+    theirs but flight:
+And there did I hear his praises, for all spake of this
+    gallant knight
+As one who, without denial, had won him, in many a land,
+The crown of true knightly honour, by the strength of his own
+    right hand.
+
+'Now fain would I speak with the hero, see thou to the time
+    and way; 335E'en now might he ride to the castle, for peace shall be kept
+    to-day.
+Were it better that I should seek him? He is other than we in
+    face,
+Pray Heaven it not displease him, but our need with the
+    knight find grace!
+I would that I first might know this, ere the rede from my
+    folk I hear
+That I show to this stranger honour--If it pleaseth him to
+    draw near, 340
+Say, how shall I best receive him? Shall the knight be so
+    nobly born
+That my kiss be not lost, if I kiss him?' 'Nay, hold me of
+    life forsworn
+If he be not of kings the kinsman! Lady, this word I'll bear
+To thy princes, that they shall clothe them in raiment both
+    fit and fair,
+And stand before thee, in due order, ere yet to thy court we
+    ride, 345
+And the same shalt thou say to thy ladies--In the city he
+    doth abide;
+I will ride below, and will bring him to thy palace, a worthy
+    guest,
+For no fair or knightly virtue shall be lacking that noble
+    breast.'But little space they delayed them, for the Marshal, with
+    ready skill,
+Strove that all in such wise be ordered as should pleasure
+    his lady's will. 350
+But soon did they bear to the hero rich garments, he did them
+    on,
+And this hath the venture told me that their cost should be
+    hardly won;
+And thereon lay the anchors, heavy, and wrought of Arabian
+    gold,
+For so had he willed. Then the hero, who fair payment for
+    love had told
+A charger bestrode that 'fore Babylon a knight rode, for
+    jousting fain, 355
+From the saddle did Gamuret smite him, and I wot it hath
+    wrought him pain.
+
+If his host thought to ride beside him? He and his gallant
+    knights?
+Yea, in sooth they would do so, gladly--So wended they up the
+    height,
+And dismounted before the palace; and many a knight stood
+    there,
+And each, as was fit, had clothed him in raiment both rich
+    and fair. 360
+And his pages they ran before him, and each twain they went    hand in hand,
+And in marvellous fair arraying he saw many ladies stand.
+And the queen, her eyes brought her sorrow as she looked on
+    the Angevin,
+So lovely was he to look on that he needs must an entrance
+    win
+Thro' the gates of her heart, if 'twere anguish or joy that
+    within he bore, 365
+Tho' her womanhood 'gainst all comers had held them fast
+    closed before.
+
+Then a space did she step towards him, and a kiss from her
+    guest she prayed;
+And, herself, by the hand she took him and they sat them,
+    both man and maid
+In a window wide, that looked forth from the palace upon the
+    foe,
+And a covering of wadded samite was spread o'er the couch
+    below. 370
+Is there aught that than day is lighter? Then it likeneth not
+    the queen!
+Yet else was she fair to look on, as a woman should be, I
+    ween,
+But unlike to the dew-dipped roses was her colour, yea, black
+    as night.
+And her crown was a costly ruby, and thro' it ye saw arightHer raven head. Then as hostess she spake to her guest this
+    word, 375
+That greatly she joyed at his coming, 'Sir, Knight, I such
+    tale have heard
+Of thy knightly strength and prowess--Of thy courtesy, hear
+    me fair,
+For fain would I tell of my sorrow, and the woe that my heart
+    doth bear!'
+
+'My help shall not fail thee, Lady! What hath grieved, or
+    doth grieve thee now,
+I think me aside to turn it, to thy service my hand I vow! 380
+I am naught but one man only--Who hath wronged or now
+    wrongeth thee
+My shield will I hold against him--Little wroth shall thy
+    foeman be!'
+
+Then a prince he spake out courteous, 'The foe would we
+    little spare,
+Did our host not lack a captain, since Friedebrand hence must
+    fare.
+He defendeth afar his kingdom--A king, one Hernant by name 385
+(Whom he slew for the sake of Herlindè) his kinsmen against
+    him came,
+And evil enow have they wrought him, nor yet from their
+    strife forbear--Yet he left here full many a hero, and among them, Duke
+    Heuteger
+With his gallant deeds of knighthood, and his army, hath
+    pressed us sore,
+They have skill and strength for the conflict. And many a
+    soldier more 390
+With Gaschier of Normandy came here, and a hero wise is he.
+Many knights hath he brought to this country (and wrathful
+    guests they be):
+Kailet of Hoscurast. All these hath he brought upon our fair
+    land
+With his comrades four, and his soldiers, the Scottish king
+    Friedebrand!
+And there, to the West, by the sea-coast doth Eisenhart's
+    army lie, 395
+And their eyes shall be fain for weeping; nor in secret, nor
+    openly
+Hath one seen them, and failed to marvel at their grief and
+    their sorrow sore,
+Since their lord hath been slain in battle with the heart's
+    rain their eyes run o'er.'
+
+Then the guest courteous spake to his hostess, 'I would, an
+    it seem thee right,
+Thou shouldst say why thy foeman threaten, why they seek thee
+    with war-like might! 400Thou hast here many gallant heroes, it grieveth me sore to
+    see
+Thy land thus with hate o'erladen, for woe must it bring to
+    thee.'
+
+'Wouldst thou know? Then, Sir Knight, I will tell thee--A
+    knight did me service true,
+And the fruit of all manly virtue his life as its decking
+    knew,
+And gallant and wise was the hero, and his faith as a goodly
+    tree 405
+Was fast-rooted, and none so courteous but were shamed by his
+    courtesy.
+And modest was he as a woman, tho' dauntless and strong, I
+    trow,
+And a knight e'en as he free-handed ere his day never land
+    might know.
+(But they that shall come hereafter, other folk shall their
+    doings see.)
+A fool was he in false dealing, and a Moor, as myself shall
+    be; 410
+And his father's name was Tánkaneis, a king of a kingly
+    heart,
+And his son, he who was my lover, men knew him as Eisenhart.
+That for love's sake I took his service, as a woman I did not
+    well,It hath brought me but lasting sorrow since no joy to his
+    portion fell,
+They deem I to death betrayed him! Yet such treason were far
+    from me, 415
+Tho' his folk bring such charge against me; and dear to my
+    heart was he,
+Far dearer than <i>they</i> e'er held him. Nor witnesses here
+    shall fail
+To speak to the truth of my saying, if it please them to tell
+    the tale.
+His gods and mine, they know it, the truth--I must sorrow
+    deep
+Since my womanly shame hath brought him a guerdon I needs
+    must weep! 420
+
+'Thus he won in my maiden service much honour by knighthood
+    fair,
+I thought thus to prove my lover; his deeds did his worth
+    declare.
+For my sake he put off his harness (that which like to a hall
+    doth stand
+Is a lofty tent, the Scotch folk they brought it into this
+    land),
+Then e'en tho' he bare no armour his body he little spared, 425
+For he held his life as worthless, many ventures unarmed he
+    dared.As the matter so stood between us, a prince who my man should
+    be,
+Prothizilas did men call him, a bold knight, from all
+    cowardice free,
+Rode forth in search of venture, and evil for him that day
+For there, in Assagog's forest, his death in waiting lay. 430
+In a knightly joust he met it, and there too he found his end
+The gallant knight who faced him--'Twas Prince Eisenhart my
+    friend.
+For both of the twain were piercèd with a spear thro' heart
+    and shield,
+And I, alas! poor woman, must weep for that fatal field.
+And ever their death doth grieve me, and sorrow from love
+    shall grow, 435
+And never henceforth as my husband a man do I think to know.'
+
+Then e'en tho' she was a heathen Gamuret he bethought him
+    well,
+That a heart more true and tender ne'er in woman's breast
+    might dwell.
+Her purity was her baptism, and as water that washed her o'er
+Was the rain that streamed from her eyelids o'er her breast,
+    and the robe she wore; 440
+All her joy did she find in sorrow, and grief o'er her life
+    did reign--
+Then the queen she looked on the hero, and in this wise she    spake again:
+
+'With his army the king of Scotland hath sought me across the
+    sea,
+For the knight was son to his uncle; yet no ill can he do to
+    me,
+If here the truth be spoken, that is worse than the grief I
+    knew 445
+For Eisenhart's death!' and sorely she sighed that lady true;
+And many a glance thro' her tear-drops on Gamuret shyly fell,
+And her eyes to her heart gave counsel, and his beauty it
+    pleased her well,
+(And she knew how to judge a fair face, since fair heathen
+    she oft had seen,)
+And the root of true love and longing it sprang up the twain
+    between. 450
+She looked upon him, and his glances, they answering sought
+    her own--
+Then she bade them to fill the wine-cup, had she dared, it
+    were left undone,
+And she grieved she might not delay it, since to many a hero
+    brave
+Who spake with the maids this wine-cup the signal of parting
+    gave.
+Yet her body was e'en as his body, and his look did such
+    courage give 455To the maid, that she thought henceforward in the life of the
+    knight to live.
+
+Then he stood upright, and he spake thus, 'Lady, I weary
+    thee,
+Too long methinks do I sit here, I were lacking in courtesy!
+As befitting true knight and servant I mourn for thy woe so
+    great,
+Lady, do thou command me, I will on thy bidding wait. 460
+Wherever thou wilt, there I wend me. I will serve thee in all
+    I may!'
+And the lady she quoth in answer, 'I believe thee, Sir
+    Knight, alway!'
+
+Then his kindly host the Burg-grave, of his labour would
+    nothing spare
+Lest the hours of his stay be heavy; and he asked if he forth
+    would fare,
+And ride round the walls of the city? 'The battle-field shalt
+    thou see, 465
+And how we would guard our portals!' then Gamuret courteously
+Made answer, he fain would see it, the field where they late
+    had fought,
+And the place where brave deeds of knighthood had by gallant
+    hands been wrought.And noble knights rode with him adown from the palace hall,
+Some were wise, some were young and foolish,--So rode they
+    around the wall 470
+To sixteen gates, and they told him not one of them might
+    they close
+Since Eisenhart's death called for vengeance--'So wrathful
+    shall be our foes
+Our conflict it resteth never, but we fight both by night and
+    day,
+Nor our portals since then we fasten, but open they stand
+    alway.
+At eight of our gates they beset us, true Eisenhart's gallant
+    knights, 475
+And evil shall they have wrought us; spurred by anger each
+    man doth fight,
+The princes of lofty lineage, the king of Assagog's ban!'
+And there floated before each portal a banner, so pale and
+    wan,
+With a piercèd knight upon it. When Eisenhart lost his life
+His folk chose to them this symbol, as badge in the coming
+    strife. 480
+'But against these arms have we others, wherewith we their
+    grief would still,
+And thus shalt thou know our banner; 'twas wrought at our
+    lady's will,Two fingers in oath she stretcheth, that never such grief she
+    knew
+As Eisenhart's death hath brought her (true sorrow for heart
+    so true),
+And so doth it stand the semblance of our queen, on a samite
+    white 485
+Belakané in sable fashioned,--Since against us they came in
+    might,
+(To avenge him for whom she sorrows) so she looks from our
+    portals high.
+And proud Friedebrand's mighty army doth to eight of our
+    gates stand nigh,
+Baptized men, from o'er the waters. A prince doth each portal
+    hold,
+And forth from the gate he sallies, with his banners and
+    warriors bold.' 490
+
+'From the host of Gaschier the Norman, a count have we
+    captive ta'en,
+And heavy methinks the ransom we may hope from that knight to
+    gain;
+He is sister's son to Kailet, and the harm <i>he</i> to us hath
+    done
+His nephew I ween shall pay for! Yet such prize have we
+    seldom won.
+Here have we no grassy meadow, but sand, thirty gallops wide 495Betwixt the tents and the trenches; here many a joust we
+    ride.
+
+And further his host would tell him, 'One knight, he doth
+    never fail
+To ride forth, a fair joust seeking. (If his service shall
+    nought avail
+With her who hath sent him hither, what boots it how well he
+    fight?)
+Proud Heuteger is the hero, of him may I speak with right 500
+For since our besiegers threaten there dawneth never a day
+But before the gates 'neath the castle, that knight doth his
+    charger stay.
+And oft from that dauntless hero many tokens we needs must
+    bear,
+That he smote through our shields at his spear-point, and
+    costly their worth and rare
+When the squire from the shield doth break them. Many knights
+    'fore his joust must fall; 505
+He would that all men may behold him, and our women they
+    praise him all.
+And he who is praised of women, one knoweth that he doth hold
+The prize in his hand, and his heart's joy in full measure
+    shall aye be told!'But now would the sun, grown weary, its wandering rays
+    recall;
+'Twas time that the ride was ended--Then he sought with his
+    host the hall, 510
+And the evening meal was ready; and I needs of that feast
+    must tell,
+'Twas laid in a fitting order, and knightly 'twas served, and
+    well.
+And the queen with mien so stately she unto his table came,
+(Here stood the fish, there the heron) and she counted it not
+    for shame
+To ride adown from her palace, that herself she might be
+    aware 515
+If they cared for the guest as 'twas fitting, and with her
+    rode her maidens fair.
+Low she knelt (and but ill it pleased him) and cut as it
+    seemed her best
+For the knight a fitting portion; she was glad in her goodly
+    guest.
+And she filled for him the wine-cup, and care for his needs
+    would take,
+And well did he mark, the hero, her mien, and the words she
+    spake. 520
+And his fiddlers sat at the table, and over against the
+    knightWas his chaplain: with shy looks shamefast, he spake to the
+    lady bright:
+
+'I looked not to find such welcome as, Lady, thou gavest me,
+Too much must I deem the honour! If rede I might give to
+    thee,
+Then to-day I had claimed naught from thee save was due to my
+    worth alone, 525
+Nor adown the hill hadst thou ridden, nor such service to me
+    hadst shown.
+And, Lady, if I may venture to make unto thee request,
+Let me live but as best befits me, thou dost honour o'ermuch
+    thy guest!'
+
+Yet her kindly care she stayed not; for she stept to his
+    page's seat
+And with gentle words and friendly she prayed them to freely
+    eat, 530
+This she did her guest to honour: and the noble lads, I trow,
+Bare goodwill to the royal lady. Nor the queen methinks was
+    slow
+To pass where the host was seated and his lady, the
+    Burg-gravine,
+And she raised the golden goblet, and she spake as should fit
+    a queen:
+'Now unto your care I give him, our guest, and I rede ye both 535Since the honour is yours, to hearken, and do my will nothing
+    loth!'
+And she bade them farewell, and she turned her, and passed to
+    her guest once more,
+Whose heart for her sake was heavy; and such sorrow for him
+    she bore,
+And her heart and her eyes they answered, and they spake to
+    her sorrow yea!
+And courteous she spake, the lady, 'Sir Knight, thou the word
+    shalt say, 540
+And whate'er be thy will, I will do it, for I hold thee a
+    worthy guest.
+Now give me, I pray, dismissal; if here thou in peace shalt
+    rest,
+Of that shall we all be joyful.' Her torch-holders were of
+    gold,
+And four tapers they bare before her, so she rode to her
+    fortress-hold.
+
+Nor long at the board they lingered--The hero was sad, and
+    gay, 545
+He was glad for the honour done him, yet a sorrow upon him
+    lay,
+And that was strong Love's compelling, that a proud heart and
+    courage high
+Can bend to her will, and gladness shall oft at her bidding    fly.
+
+Then the hostess she passed to her chamber, yea, e'en as the
+    meal was o'er;
+And a couch did they spread for the hero, and love to the
+    labour bore. 550
+And the host to his guest spake kindly, 'Now here shall thy
+    sleep be sweet,
+Thou shalt rest thro' the night that cometh, to thy need
+    shall such rest be meet.'
+Then he spake to his men, and he bade them they should hence
+    from the hall away,
+And the noble youths his pages, their couches around his lay
+Each one with the head toward his master, for so was the
+    custom good; 555
+And tapers so tall and flaming alight round the chamber
+    stood.
+Yet ill did it please the hero that so long were the hours of
+    night,
+For the Moorish queen so dusky, had vanquished his heart of
+    might.
+And he turned as a willow wand bendeth, till his joints they
+    were heard to crack,
+The strife and the love that he craved for he deemed he
+    o'er-long did lack. 560
+And his heart-beats they echoed loudly, as it swelled high    for knighthood fain,
+And he stretched himself as an archer who bendeth a bow
+    amain.
+And so eager his lust for battle that sleepless the hero lay
+Till he saw the grey light of morning, though as yet it
+    should scarce be day.
+And his chaplain for Mass was ready, and to God and the
+    knight they sing, 565
+For so did he give commandment. Then he bade them his harness
+    bring,
+
+And he rode where a joust should wait him, and that self-same
+    hour would ride
+A horse that could charge the foeman, and turn swiftly to
+    either side,
+And answer to bit and bridle if its rider would backward
+    draw.
+And the watchers, both man and woman, his helm in the gateway
+    saw, 570
+And the anchor shone fair upon it; and no man ere this might
+    see
+So wondrous fair a hero, for like to a god was he!
+
+And strong spears they bare for his using--How then was he
+    decked, the knight?
+With iron was his charger covered, as should serve for a    shield in fight,
+And above lay another covering, nor heavy methinks it
+    weighed, 575
+'Twas a samite green; and his surcoat and blazoned coat were
+    made
+Of Achmardi, green to look on, and in Araby fashioned fair,
+And no lie I tell, but the shield-thongs that the weight of
+    the shield should bear
+Were of silk and gold untarnished, and jewel-bedecked their
+    pride,
+And the boss of the shield was covered with red gold, in the
+    furnace tried. 580
+He served but for love's rewarding; sharp conflict he held it
+    light;
+And the queen she looked from her window, with many a lady
+    bright.
+And see, there Heuteger held him, who the prize ne'er had
+    failed to gain;
+When he saw the knight draw nearer, in swift gallop across
+    the plain,
+He thought, 'Now whence came this Frenchman? Who hither this
+    knight hath sent? 585
+If a <i>Moor</i> I had thought this hero, my wit were to madness
+    bent!'No whit they delayed the onslaught, from gallop to swifter
+    flight
+Each man spurred amain his charger; and as fitting a valiant
+    knight
+Nor one would evade the other, but would meet him in jousting
+    fair,
+From brave Heuteger's spear the splinters flew high thro' the
+    summer air, 590
+But his foeman so well withstood him that he thrust him from
+    off his steed
+Adown on the grass; but seldom might he win for his joust
+    such meed!
+And his foe in his course rode o'er him, and trode him unto
+    the ground,
+Yet he sprang up again, and valiant, fresh lust for the
+    strife he found,
+But Gamuret's lance had pierced him thro' the arm, and he
+    bade him yield, 595
+And he knew he had found his master, and he spake from the
+    foughten field,
+'Now who shall have o'erthrown me?' and the victor he swiftly
+    spake,
+'Gamuret Angevin do men call me!' then he quoth, 'Thou my
+    pledge canst take!'Then his pledge the knight took, and straightway he sent him
+    within the wall,
+And much praise did he win from the women who looked from the
+    castle hall. 600
+And swiftly there came towards him, Gaschier of Normandy,
+A proud and wealthy hero and mighty in strife was he.
+And Gamuret made him ready, for a second joust he'ld ride,
+And strong and new was his spear-shaft, and the iron was both
+    sharp and wide,
+And the strangers they faced each other--But unequal their
+    lot, I trow, 605
+For Gaschier and his gallant charger full swiftly were they
+    laid low,
+And the knight with his arms and harness he fell in the shock
+    of strife;
+If he thought it for good or for evil, by his pledge must he
+    win his life.
+
+Then Gamuret quoth, the hero, 'Thou hast pledged unto me
+    thine hand,
+Yet the weapon it well hath wielded! Ride thou to the
+    Scottish band, 610
+And bid them to cease from troubling; if they to thy will are
+    fain,
+Thou canst follow me to the city.' Then the knight hied him
+    o'er the plain.If he prayed them, or gave commandment, they did at the last
+    his will,
+And the Scottish host they rested, and from conflict they
+    held them still.
+
+Then Kailet spurred swift towards him, but Gamuret turned his
+    rein, 615
+His cousin he was, and near kinsman, why then bring him grief
+    and pain?
+And the Spaniard cried loudly on him; on his helm he an
+    ostrich bare,
+And so far as I know to tell ye the knight he was decked so
+    fair
+With silken raiment goodly, and long were his robes and wide,
+And the plain rang clear with the chiming of sweet bells as
+    he o'er it hied. 620
+The flower he of manly beauty, and his fairness it held the
+    field,
+Save for two who should come hereafter, and his fame unto
+    theirs must yield;
+But Parzival and brave Beaucorps, King Lot's son, they are
+    not here,
+Not yet were they born, but hereafter for their beauty men
+    held them dear!Then Gaschier he grasped his bridle. 'Now checked will it be
+    thy race, 625
+So I tell thee upon mine honour, if the Angevin thou shalt
+    face
+Who there my pledge hath taken. Sir Knight, thou shalt list
+    my prayer
+And hearken unto my counsel; in Gamuret's hand I sware
+From strife aside to turn thee: stay thy steed then for my
+    sake,
+For mighty is he in conflict!' Then aloud King Kailet spake, 630
+'Is he Gamuret my cousin, and son unto King Gandein?
+Then I care not with him to battle, no foe shall he be of
+    mine!
+Take thine hand from off my bridle'--'Nay, further thou shalt
+    not fare
+Till mine eyes have first beheld thee, with thine head of the
+    helmet bare,
+For <i>mine</i> with blows is deafened!' Then his helmet the
+    prince unbound. 635
+And yet, tho' with him he fought not, Gamuret other foemen
+    found.
+
+And the day had grown to high morning--And the folk who the
+    joust might see
+Were glad at heart, and they gat them to their bulwarks right
+    speedily,For he was as a net before them, and none might escape his
+    hold.
+And he chose him another charger, so the tale unto me was
+    told, 640
+And it flew, and the earth it spurnèd, and its work could
+    aright fulfil,
+Bold when the knight would battle, yet its speed could he
+    check at will.
+And what would he do the rider? His valour I praise alway,
+For he rode where the Moorish army to the west by the
+    sea-coast lay.
+
+Thence a prince, Rassalig men called him, forgat not each
+    coming morn 645
+(He was Assagog's richest hero, to riches and honour born
+Since he came of a royal lineage) to take from the camp his
+    way
+He would fain joust before the city--But his strength it was
+    quelled that day
+By Anjou's dauntless hero; and a dusky maid made moan
+(Since 'twas she who sent him hither) that her knight should
+    be thus o'erthrown. 650
+For a squire brought, without his bidding, to his master,
+    brave Gamuret,
+A spear, with light reed-shaft fashioned, and its point
+    'gainst the Moor he set,And with it he smote the paynim from his steed down upon the
+    sand,
+Nor longer he bade him lie there than as surety he pledged
+    his hand.
+So the strife it had found its ending, and the hero had won
+    him fame; 655
+Then Gamuret saw eight banners toward the city that onward
+    came,
+And he bade the conquered hero the force with his word to
+    stay,
+And follow him to the city. And that word must he needs obey.
+
+Nor Gaschier delayed his coming; and unto the Burg-grave told
+How his guest sought for further conflict nor his wrath might
+    the host withhold. 660
+If he swallowed not iron as an ostrich, nor his wrath did on
+    stones assuage
+'Twas but that he might not find them! Then he gnashed his
+    teeth for rage,
+And he growled as a mighty lion, and the hair of his head he
+    tare,
+And he quoth, 'So the years of my lifetime a harvest of folly
+    bear,
+The gods they had sent to my keeping a valiant and worthy
+    friend, 665
+If with strife he shall be o'erladen, then mine honour hath    found an end;
+Sword and shield they shall little profit--Yea, shame he
+    would on me cast
+Who should bring this to my remembrance!' Then swift from his
+    place he passed,
+And he gat him into the portal, and a squire towards him
+    drew,
+And he bare a shield that was painted with a knight by a
+    spear pierced thro', 670
+In Eisenhart's land was it fashioned; and a helmet his hand
+    must hold,
+And a sword that Rassalig carried in battle, that heathen
+    bold,
+But now was he parted from it whose fame was in every place;
+Were he slain unbaptized I think me, God had shown to this
+    hero grace!
+
+And e'en as the Burg-grave saw it, ne'er of yore was his joy
+    so great, 675
+For the coat-of-arms he knew it--So he rode thro' the city
+    gate,
+And without, his guest had halted, young hero he, not yet
+    old,
+As one of a joust desirous, and his bridle the Burg-grave
+    bold,
+Lahfilirost was his name, he grasped it, and he led him    within the wall;
+And I wot well no other foeman that day 'neath his spear must
+    fall. 680
+
+Quoth Lahfilirost the Burg-grave, 'Sir Knight, thou shalt
+    tell to me
+If thine hand Rassalig hath vanquished?' 'Then our land from
+    all strife is free;
+For he of the Moors is chieftain, the men of true Eisenhart
+Who have brought unto us such sorrow--But now shall our woe
+    depart,
+'Twas a wrathful god who bade him thus seek us with all his
+    host, 685
+But his weapons to naught are smitten, and to folly is turned
+    his boast!'
+Then he led him in (ill it pleased him) and there met then
+    the royal maid,
+And she loosened the bands of his vizor, and her hand on his
+    bridle laid,
+To her care must the Burg-grave yield it: nor his squires to
+    their task were slack,
+For they turned them about, and swiftly they rode on their
+    master's track. 690
+So men saw the queen so gracious lead her guest thro' the
+    city street
+Who here should be hailed the victor--Then she lighted her on    her feet,
+'Ah me! but thy squires are faithful! Fear ye lest your lord
+    be lost?
+Without ye shall he be cared for; take his steed, here am I
+    his host!'
+
+And above found he many a maiden: then her hands of dusky hue 695
+The queen set unto his harness, and disarmed the knight so
+    true.
+And the bed-covering was of sable, and the couch it was
+    spread so fair,
+And in secret a hidden honour they did for the knight
+    prepare,
+For no one was there to witness--The maidens they might not
+    stay,
+And the door was fast closed behind them, and Frau Minne
+    might have her way. 700
+So the queen in the arms of her true love found guerdon of
+    sweet delight,
+Tho' unlike were the twain in their colour, Moorish princess
+    and Christian knight!
+
+Then the townsfolk brought many an offering to the gods who
+    had seen their woe.
+That which Rassalig needs must promise ere he from the field
+    might goThat he did, in all truth and honour, yet heavy was he at
+    heart, 705
+And afresh sprang the fount of his sorrow for his prince
+    gallant Eisenhart.
+And the Burg-grave he heard of his coming; then loud rang the
+    trumpet call,
+And no man of Zassamank's princes but came to the palace
+    hall.
+They gave Gamuret thanks for the honour he had won in the
+    field that day,
+Four-and-twenty had fallen before him, and their chargers he
+    bore away, 710
+And three chieftains had he made captive. And there rode in
+    the princes' train
+Many gallant knights, in the courtyard of the palace did they
+    draw rein.
+And the hero had slept and eaten, and clad him in raiment
+    fair,
+Chief host was he, for his body fit garments would they
+    prepare.
+And she who afore was a maiden but now was a wife would take 715
+Her lord by the hand, forth she led him, and unto her princes
+    spake:
+'My body and this my kingdom are vassals unto this knight,
+If so be that his foemen fearing, resist not his hand of
+    might!'Then Gamuret spake, and his bidding was courteous, for hero
+    meet,
+Sir Rassalig, go thou nearer, with a kiss thou my wife shalt
+    greet; 720
+And Sir Gaschier, thou shalt do likewise.' Then the Scotch
+    knight proud Heuteger
+He bade on the lips to kiss her (and the wounds won in joust
+    he bare).
+
+Then he bade them all be seated, and standing, he wisely
+    spake:
+'I were fain to behold my kinsman, if he who did captive take
+The knight shall have naught against it--As kinsman it
+    seemeth me 725
+That I find here no other counsel save straightway to set him
+    free!'
+Then the queen she smiled, and bade them go swiftly and seek
+    the knight,
+And then thro' the throng he pressed him, that count so fair
+    and bright,
+Yet bare he the wounds of knighthood, and bravely and well
+    had fought;
+With the host of Gaschier the Norman the land of the Moors he
+    sought. 730
+He was courteous; his sire a Frenchman he was Kailet's
+    sister's son,Killirjacac his name; in the service of fair women fair meed
+    he won,
+
+And the fairest of men they deemed him. When Gamuret saw his
+    face
+(For like were they each to the other, as men of a kindred
+    race)
+He bade his queen to kiss him and embrace him as kinsman
+    true, 735
+And he spake, 'Now come thou and greet me!' and the knight to
+    his arms he drew,
+And he kissed him, and each was joyful that the other he here
+    might meet:
+And Gamuret quoth unto him, 'Alas! cousin fair and sweet,
+What doth thy young strength in this conflict? Say, if woman
+    hath sent thee here?'
+'Nay, never a woman sent me, with my cousin I came, Gaschier, 740
+He knoweth why he hath brought me--A thousand men have I,
+And I do to him loyal service--To Rouen in Normandy
+I came, where his force was gathered, and many a youthful
+    knight
+I brought from Champagne in mine army; 'neath his banner we
+    fain would fight.
+Now evil hath turned against him what of cunning is hers and
+    skill, 745
+Thou wilt honour thyself if thou free him for my sake, and    cure his ill!'
+'Thyself shalt fulfil thy counsel! Go thou, take with thee
+    Gaschier,
+I would fain see my kinsman Kailet, do thou bring him unto me
+    here!'
+So they wrought out the host's desiring, and brought him at
+    his behest,
+And in loving wise and kindly did Gamuret greet his guest; 750
+And ofttimes the queen embraced him, and kissed him with
+    kisses sweet:
+And nothing it wronged her honour in such wise the prince to
+    greet,
+He was cousin unto her husband, by birth was himself a king.
+Then smiling his host spake to him, 'God knows, 'twere an
+    evil thing,
+Had I taken from thee Toledo, and thy goodly land of Spain 755
+For Gascony's king, who wrathful doth plague thee with strife
+    amain;
+'Twere faithless of me, Sir Kailet, since mine aunt's son
+    thou sure shalt be;
+The bravest of knights shall be with thee; say, who forced
+    this strife on thee?'
+
+Then out spake the proud young hero, 'My cousin Schiltung
+    bade
+(Since his daughter Friedebrand wedded) that I lend to the    king mine aid. 760
+For the sake of his wife hath he won him, yea even from me
+    alone
+Six thousand chosen heroes, who valour and skill have shown.
+And other men did I bring him, but a part they shall hence
+    have sailed,
+For the Scottish folk came they hither, brave bands who in
+    strife ne'er failed.
+And there came to his aid from Greenland, strong heroes who
+    bravely fought, 765
+Two mighty kings, and a torrent of knighthood with them they
+    brought,
+And many a goodly vessel: and they pleased me, those men of
+    might--
+And here for his sake came Morhold, who hath cunning and
+    skill in fight.'
+
+'But now have they turned them homewards, and that which the
+    queen shall say
+Even that will I do with mine army, her servant am I alway! 770
+Thou shalt thank me not for this service, from kinsman 'twas
+    due, I ween.
+Now <i>thine</i> are these gallant heroes, if like mine they
+    baptized had been
+And were even as they in colour, then never a monarch crowned
+But if they should fight against him, of conflict his fill    had found!
+But I marvel what here hath brought thee? Say, how didst thou
+    reach this strand?' 775
+'Yestreen I came, and this morning I am lord o'er this goodly
+    land!
+The queen by the hand she took me, and with love I myself
+    would shield,
+For so did my wit give counsel--' 'Yea, so hast thou won the
+    field,
+Those sweet weapons two hosts have vanquished!' 'Thou wouldst
+    say, since I fled from <i>thee</i>,
+So loudly on me thou calledst, say, what wouldst thou force
+    from me? 780
+Let us speak of the thing in friendship!' 'Thine anchor I
+    failed to know,
+But seldom mine aunt's brave husband Gandein, did such token
+    show!'
+'But I, I knew well thine ostrich with the snake's head upon
+    thy breast,
+Aloft stood thy bird so stately, nor hid it within a nest!'
+
+'And I saw in thy mien and bearing that that pledge would
+    have 'seemed thee ill 785
+Which two heroes afore had given, tho' first had they fought
+    their fill.'
+'E'en such fate as theirs were my portion--But this thing I    needs must say,
+Tho' little I like a devil, were he victor as thou this day
+For love of his gallant doings the women had deemed him
+    sweet,
+Yea, as sugar were fain to eat him!' 'Now thou praisest me
+    more than meet!' 790
+'Nay, of flattery know I little, thou shalt see that I hold
+    thee dear
+In other wise!' Then the hero bade Rassalig draw anear.
+
+And courteous he spake, King Kailet, 'My kinsman with valiant
+    hand
+Hath made of thee here his captive?' 'Yea, Sire, so the thing
+    doth stand,
+And I hold him for such a hero that Assagog's kingdom fair 795
+Should fail not to yield him homage, since the crown he may
+    never wear,
+Our prince Eisenhart! In her service was he slain who shall
+    now be wife
+To thy kinsman, as knight so faithful he gave for her love
+    his life.
+With my kiss have I sealed forgiveness, yet my lord and my
+    friend I lost!
+If thy cousin by knightly dealing will repay of his death the
+    cost 800
+I will fold my hands as his vassal: and wealth shall be his    and fame,
+All that Eisenhart from Tánkaneis as his heritage thought to
+    claim.
+Embalmed here the hero lieth, and I gaze on his wounds each
+    day
+Since this spear thro' his true heart piercing, my lord and
+    my king did slay!'
+
+Then he drew it forth from his bosom by a silken cord so
+    fine, 805
+And the heroes saw the spear-blade 'neath his robe on his
+    bare chest shine.
+And he quoth, 'It is now high morning, if my lord Sir
+    Killirjacac
+My token will bear to my princes, with him will the knights
+    ride back.'
+And a finger-ring he sent them: dark as hell were those
+    heroes all
+And they rode who were there of princes, thro' the town to
+    the castle hall. 810
+As his vassals he gave with their banners to Assagog's lords
+    their land,
+And each one rejoiced in the fiefdom he won from his ruler's
+    hand,
+But the better part was his portion, Gamuret's, as their lord
+    and king.And these were the first--as they passed hence their homage
+    they fain would bring
+The princes of Zassamank's kingdom, and they came in their
+    order due, 815
+And each as their queen had bade them, they took from his
+    hand anew
+Their land, and the fruit it should bear them, as to each man
+    was fit and right,
+And poverty fled from his presence. Now he who was slain in
+    fight
+And in life was a prince by lineage, Prothizilas, he had left
+A Dukedom fair, and this country which was thus of its lord
+    bereft 820
+He gave unto him who much honour had won by his strong right
+    hand,
+The Burg-grave, in combat dauntless--With its banners he took
+    the land.
+
+Then Assagog's noble princes took the Scotch Duke, proud
+    Heuteger,
+And Gaschier, the Norman hero, to their lord did they lead
+    them there,
+And he spake them free for their asking, and they thanked
+    brave Gamuret. 825
+Then Heuteger of Scotland with prayers did these knights
+    beset,'Now give to our lord the armour, as prize for his deeds so
+    brave,
+That Eisenhart's life took from us, when to Friedebrand he
+    gave
+That which was of our land the glory--Forfeit of joy the
+    knight,
+And dead on his bier he lieth, since no love might his love
+    requite--' 830
+And earth knoweth naught so goodly, the helm it was strong
+    and hard,
+Yea even of diamond fashioned, in battle a goodly guard.
+Then Heuteger sware unto them, if the land of his lord he saw
+He would pray of his hand the armour, and send it to them
+    once more.
+
+And this did he swear them freely--Then leave would the
+    princes pray 835
+Who stood in the royal presence, and they wend from the hall
+    their way.
+And tho' sorely the land was wasted, yet Gamuret scattered
+    free
+Such royal gifts and goodly as if laden with gold each tree.
+And costly I ween the presents that vassal and friend must
+    share
+From the open hand of the hero; and the queen deemed it right
+    and fair. 840Full many a bitter conflict had been fought ere the bridal
+    feast,
+But peace had the foeman sealèd, and the land was from strife
+    released;
+(Nor this song I myself have woven, but so was it told to me)
+And Eisenhart did they bury with honours right royally.
+To his grave did his kinsmen bear him, and the gold that his
+    lands might bring 845
+In a whole year long, did they spend there, of their free
+    will they did this thing.
+And Gamuret bade his kinsfolk his riches and lands to hold
+And use as they would; tho' they craved not such boon from
+    the hero bold.
+
+At dawn from before the fortress the foe would their camp
+    withdraw,
+And those who were there departed; many litters with them
+    they bore. 850
+And the field was left unsheltered, save for one tent so
+    great and fair,
+And the king he bade his servants that tent to his vessel
+    bear.
+And he said to his folk that to Assagog would he take it, and
+    yet I wot
+He did with that speech deceive them, for Assagog saw him
+    not.Now that proud and gallant hero, his heart gave him little
+    rest 855
+Since he found there no deeds of knighthood, and gladness
+    forsook his breast;
+Yet his dusky wife was dearer than e'en his own life might
+    be,
+Ne'er knew he a truer lady whose heart was from falsehood
+    free,
+She forgat not what 'seemed a woman, and with her as comrades
+    good
+Went purity untarnished, and the ways of true womanhood. 860
+
+He was born in Seville's fair city whom the knight would
+    hereafter pray,
+When he grew of his sojourn weary, to sail with him far away;
+For many a mile had he led him, and he brought him unto this
+    place,
+And a Christian was he, the steersman, nor like to a Moor in
+    face.
+And wisely he spake, 'Thou shalt hide it from them who a dark
+    skin bear, 865
+Too swift is my barque for pursuing, from hence shall we
+    quickly fare!'
+
+Then his gold it was borne to the vessel. Now of parting I
+    needs must tell,By night did he go, the hero, and his purpose he hid it well;
+But when from his wife he sailèd, in her womb did she bear
+    his child:
+And fair blew the wind, and the breezes bare him hence o'er
+    the waters wild. 870
+
+And the lady she found a letter, and 'twas writ by her
+    husband's hand;
+And in French (for she well could read it) did the words of
+    the writing stand:
+'Here one love to another speaketh--As a thief have I stolen
+    away
+That mine eyes might not see thy sorrow--But this thing I
+    needs must say,
+Wert thou, e'en as I, a Christian I ever should weep for
+    thee, 875
+For e'en now I must sorely mourn thee. If it chance that our
+    child shall be
+In face like unto one other, then his is a dowry fair,
+Of Anjou was <i>he</i> born, and Frau Minne for his lady he did
+    declare.
+Yet was he in strife a hailstorm, ill neighbour unto his foe;
+That his grandsire hath been King Gandein, this I will that
+    my son shall know. 880
+Dead he lay thro' his deeds of knighthood; and his father the
+    same death won,Addanz was his name, and unsplintered his shield hath been
+    seen of none;
+And by birth he hath been a Breton, and two brothers' sons
+    were they,
+He and the brave Pendragon, and their sires' names I here
+    will say;
+For Lassalies he hath been the elder, and Brickus was his
+    brother's name, 885
+And Mazadan was their father whom a fay for her love did
+    claim.
+Terre-de-la-schoie did they call her, to Fay-Morgan she led
+    the king,
+For he was her true heart's fetters; and my race from those
+    twain did spring.
+And fair shall they be, and valiant, and as crownèd kings
+    they reign--
+If lady, thou'lt be baptizèd thou mayst win me to thee
+    again!' 890
+
+Yet had she no thought of anger, but she spake, 'Ah! too soon
+    'tis o'er,
+Of a sooth would I do his bidding, would it bring him to me
+    once more.
+In whose charge hath my courteous hero left the fruit of his
+    love so true?
+Alas! for the sweet communion that we twain for a short space    knew!
+Shall the strength of my bitter sorrow rule body and soul
+    alway? 895
+And she quoth, 'Now his God to honour, his will would I fain
+    obey,
+And gladly I'ld be baptizèd, and live as should please my
+    love!'
+And sorrow with her heart struggled, and e'en as the turtle
+    dove
+Her joy sought the withered branches, for the same mind was
+    hers, I ween,
+When the mate of the turtle dieth, she forsaketh the branches
+    green. 900
+
+Then the queen at the time appointed bare a son, who was dark
+    and light,
+For in him had God wrought a wonder, at one while was he
+    black and white.
+And a thousand times she kissed him where white as his sire's
+    his skin.
+And she named the babe of her sorrows Feirefis Angevin.
+And he was a woodland-waster, many spears did he shatter
+    fair, 905
+And shields did he pierce--as a magpie the hue of his face
+    and hair.
+Now a year and more was ended since Gamuret won such fame
