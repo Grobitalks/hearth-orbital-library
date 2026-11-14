@@ -1,0 +1,1277 @@
+HOLB1	24869	31	2480	80	2635	150
+39	Canto II. Brahmá’s Visit
+46	Canto III. The Argument.
+53	Canto IV. The Rhapsodists.
+58	Canto V. Ayodhyá.
+62	Canto VI. The King.
+67	Canto VII. The Ministers.
+71	Canto VIII. Sumantra’s Speech.
+75	Canto IX. Rishyasring.
+86	Canto X. Rishyasring Invited.
+92	Canto XI. The Sacrifice Decreed.
+96	Canto XII. The Sacrifice Begun.
+102	Canto XIII. The Sacrifice Finished.
+111	Canto XIV. Rávan Doomed.
+118	Canto XV. The Nectar.
+122	Canto XVI. The Vánars.
+127	Canto XVII. Rishyasring’s Return.
+134	Canto XVIII. Rishyasring’s Departure.
+138	Canto XIX. The Birth Of The Princes.
+143	Canto XX. Visvámitra’s Visit.
+147	Canto XXI. Visvámitra’s Speech.
+151	Canto XXII. Dasaratha’s Speech.
+155	Canto XXIII. Vasishtha’s Speech.
+158	Canto XXIV. The Spells.
+162	Canto XXV. The Hermitage Of Love.
+166	Canto XXVI. The Forest Of Tádaká.
+171	Canto XXVII. The Birth Of Tádaká.
+174	Canto XXVIII. The Death Of Tádaká.
+180	Canto XXIX. The Celestial Arms.
+187	Canto XXXI. The Perfect Hermitage.
+191	Canto XXXII. Visvámitra’s Sacrifice.
+195	Canto XXXIII. The Sone.
+199	Canto XXXIV. Brahmadatta.
+207	Canto XXXV. Visvámitra’s Lineage.
+211	Canto XXXVI. The Birth Of Gangá.
+215	Canto XXXIX. The Sons Of Sagar.
+219	Canto XL. The Cleaving Of The Earth.
+223	Canto XLI. Kapil.
+227	Canto XLII. Sagar’s Sacrifice.
+231	Canto XLIII. Bhagírath.
+235	Canto XLIV. The Descent Of Gangá.
+244	Canto XLV. The Quest Of The Amrit.
+252	Canto XLVI. Diti’s Hope.
+254	Canto XLVII. Sumati.
+257	Canto XLVIII. Indra And Ahalyá
+262	Canto XLIX. Ahalyá Freed.
+264	Canto L. Janak.
+268	Canto LI. Visvámitra.
+272	Canto LII. Vasishtha’s Feast.
+276	Canto LIII. Visvámitra’s Request.
+280	Canto LIV. The Battle.
+284	Canto LV. The Hermitage Burnt.
+288	Canto LVI. Visvámitra’s Vow.
+292	Canto LVII. Trisanku.
+296	Canto LVIII. Trisanku Cursed.
+300	Canto LIX. The Sons Of Vasishtha.
+304	Canto LX. Trisanku’s Ascension.
+309	Canto LXI. Sunahsepha.
+313	Canto LXII. Ambarísha’s Sacrifice.
+317	Canto LXIII. Menaká.
+322	Canto LXIV. Rambhá.
+325	Canto LXV. Visvámitra’s Triumph
+331	Canto LXVI. Janak’s Speech.
+335	Canto LXVII. The Breaking Of The Bow.
+339	Canto LXVIII. The Envoys’ Speech.
+342	Canto LXIX. Dasaratha’s Visit.
+345	Canto LXX. The Maidens Sought.
+352	Canto LXXI. Janak’s Pedigree.
+356	Canto LXXII. The Gift Of Kine.
+359	Canto LXXIII. The Nuptials.
+368	Canto LXXV. The Parle.
+373	Canto LXXVI. Debarred From Heaven.
+377	Canto LXXVII. Bharat’s Departure.
+381	Canto I. The Heir Apparent.
+387	Canto II. The People’s Speech.
+393	Canto III. Dasaratha’s Precepts.
+401	Canto IV. Ráma Summoned.
+408	Canto V. Ráma’s Fast.
+412	Canto VI. The City Decorated.
+417	Canto VII. Manthará’s Lament.
+422	Canto VIII. Manthará’s Speech.
+428	Canto IX. The Plot.
+437	Canto X. Dasaratha’s Speech.
+444	Canto XI. The Queen’s Demand.
+448	Canto XII. Dasaratha’s Lament.
+465	Canto XIII. Dasaratha’s Distress.
+468	Canto XIV. Ráma Summoned.
+478	Canto XV. The Preparations.
+486	Canto XVI. Ráma Summoned.
+493	Canto XVII. Ráma’s Approach.
+496	Canto XVIII. The Sentence.
+503	Canto XIX. Ráma’s Promise.
+510	Canto XX. Kausalyá’s Lament.
+518	Canto XXI. Kausalyá Calmed.
+528	Canto XXII. Lakshman Calmed.
+533	Canto XXIII. Lakshman’s Anger.
+540	Canto XXIV. Kausalyá Calmed.
+546	Canto XXV. Kausalyá’s Blessing.
+554	Canto XXVI. Alone With Sítá.
+560	Canto XXVII. Sítá’s Speech.
+564	Canto XXVIII. The Dangers Of The Wood.
+568	Canto XXIX. Sítá’s Appeal.
+572	Canto XXX. The Triumph Of Love.
+580	Canto XXXI. Lakshman’s Prayer.
+586	Canto XXXII. The Gift Of The Treasures.
+593	Canto XXXIII. The People’s Lament.
+598	Canto XXXIV. Ráma In The Palace.
+607	Canto XXXV. Kaikeyí Reproached.
+612	Canto XXXVI. Siddhárth’s Speech.
+617	Canto XXXVII. The Coats Of Bark.
+622	Canto XXXVIII. Care For Kausalyá
+626	Canto XXXIX. Counsel To Sítá.
+633	Canto XL. Ráma’s Departure.
+641	Canto XLI. The Citizens’ Lament.
+644	Canto XLII. Dasaratha’s Lament.
+649	Canto XLIII. Kausalyá’s Lament.
+653	Canto XLIV. Sumitrá’s Speech.
+657	Canto XLV. The Tamasá.
+663	Canto XLVI. The Halt.
+669	Canto XLVII. The Citizens’ Return.
+672	Canto XLVIII. The Women’s Lament.
+677	Canto XLIX. The Crossing Of The Rivers.
+686	Canto LI. Lakshman’s Lament.
+690	Canto LII. The Crossing Of Gangá.
+706	Canto LIII. Ráma’s Lament.
+712	Canto LIV. Bharadvája’s Hermitage.
+719	Canto LV. The Passage Of Yamuná.
+724	Canto LVI. Chitrakúta
+730	Canto LVII. Sumantra’s Return.
+735	Canto LVIII. Ráma’s Message.
+741	Canto LIX. Dasaratha’s Lament.
+747	Canto LX. Kausalyá Consoled.
+751	Canto LXI. Kausalyá’s Lament.
+755	Canto LXII. Dasaratha Consoled.
+758	Canto LXIII. The Hermit’s Son.
+766	Canto LXIV. Dasaratha’s Death.
+778	Canto LXV. The Women’s Lament.
+783	Canto LXVI. The Embalming.
+787	Canto LXVII. The Praise Of Kings.
+793	Canto LXVIII. The Envoys.
+797	Canto LXIX. Bharat’s Dream.
+801	Canto LXX. Bharat’s Departure.
+806	Canto LXXI. Bharat’s Return.
+813	Canto LXXII. Bharat’s Inquiry.
+822	Canto LXXIII. Kaikeyí Reproached.
+826	Canto LXXIV. Bharat’s Lament.
+831	Canto LXXV. The Abjuration.
+838	Canto LXXVI. The Funeral.
+842	Canto LXXVII. The Gathering Of The Ashes.
+847	Canto LXXVIII. Manthará Punished.
+851	Canto LXXIX. Bharat’s Commands.
+“It is by <i>tapas</i> (austere fervour) that rishis of subdued souls, subsisting on roots, fruits and air, obtain a vision of the three worlds with all things moving and stationary.” MANU, XI. 236.
+
+15 Son of Manu, the first king of Kośala and founder of the solar dynasty or family of the Children of the Sun, the God of that luminary being the father of Manu.
+
+16 The Indians paid great attention to the art of physiognomy and believed that character and fortune could be foretold not from the face only but from marks upon the neck and hands. Three lines under the chin like those at the mouth of a conch (<i>Śańkha</i>) were regarded as a peculiarly auspicious sign indicating, as did also the mark of Vishṇu’s discus on the hand, one born to be a <i>chakravartin</i> or universal emperor. In the palmistry of Europe the line of fortune, as well as the line of life, is in the hand. Cardan says that marks on the nails and teeth also show what is to happen to us: “Sunt etiam in nobis vestigia quædam futurorum eventuum in unguibus atque etiam in dentibus.” Though the palmy days of Indian chiromancy have passed away, the art is still to some extent studied and believed in.
+
+17 Long arms were regarded as a sign of heroic strength.
+
+18 “Veda means originally knowing or knowledge, and this name is given by the Bráhmans not to one work, but to the whole body of their most ancient sacred literature. Veda is the same word which appears in the Greek οίδα, I know, and in the English wise, wisdom, to wit.The name of Veda is commonly given to four collections of hymns, which are respectively known by the names of Rig-veda, Yajur-veda, Sáma-veda, and Atharva-veda.”
+
+“As the language of the Veda, the Sanskrit, is the most ancient type of the English of the present day, (Sanskrit and English are but varieties of one and the same language,) so its thoughts and feelings contain in reality the first roots and germs of that intellectual growth which by an unbroken chain connects our own generation with the ancestors of the Aryan race,—with those very people who at the rising and setting of the sun listened with trembling hearts to the songs of the Veda, that told them of bright powers above, and of a life to come after the sun of their own lives had set in the clouds of the evening. These men were the true ancestors of our race, and the Veda is the oldest book we have in which to study the first beginnings of our language, and of all that is embodied in language. We are by nature Aryan, Indo-European, not Semitic: our spiritual kith and kin are to be found in India, Persia, Greece, Italy, Germany: not in Mesopotamia, Egypt, or Palestine.”
+
+<i>Chips from a German Workshop</i>, Vol. I. pp. 8. 4.
+
+19 As with the ancient Persians and Scythians, Indian princes were carefully instructed in archery which stands for military science in general, of which, among Hindu heroes, it was the most important branch.
+
+20 Chief of the three queens of Daśaratha and mother of Ráma.21 From <i>hima</i> snow, (Greek χειμ-ών, Latin hiems) and <i>álaya</i> abode, the Mansion of snow.
+
+22 The moon (<i>Soma</i>, <i>Indu</i>, <i>Chandra</i> <i>etc.</i>) is masculine with the Indians as with the Germans.
+
+23 Kuvera, the Indian Plutus, or God of Wealth.
+
+24 The events here briefly mentioned will be related fully in the course of the poem. The first four cantos are introductory, and are evidently the work of a later hand than Valmiki’s.
+
+25 “Chandra, or the Moon, is fabled to have been married to the twenty-seven daughters of the patriarch Daksha, or Aśviní and the rest, who are in fact personifications of the Lunar Asterisms. His favourite amongst them was Rohiṇí to whom he so wholly devoted himself as to neglect the rest. They complained to their father, and Daksha repeatedly interposed, till, finding his remonstrances vain, he denounced a curse upon his son-in-law, in consequence of which he remained childless and became affected by consumption. The wives of Chandra having interceded in his behalf with their father, Daksha modified an imprecation which he could not recall, and pronounced that the decay should be periodical only, not permanent, and that it should alternate with periods of recovery. Hence the successive wane and increase of the Moon. <i>Padma</i>, <i>Puráṇa</i>, <i>Swarga-Khaṇḍa,</i> Sec. II. <i>Rohiṇí</i> in Astronomy is the fourth lunar mansion, containing five stars, the principal of which is Aldebaran.” WILSON, <i>Specimens of the Hindu Theatre. Vol. I. p.</i> 234.The Bengal recension has a different reading:
+
+“Shone with her husband like the light
+Attendant on the Lord of Night.”
+
+26 The garb prescribed for ascetics by Manu.
+
+27 “Mount Meru, situated like Kailása in the lofty regions to the north of the Himálayas, is celebrated in the traditions and myths of India. Meru and Kailása are the two Indian Olympi. Perhaps they were held in such veneration because the Sanskrit-speaking Indians remembered the ancient home where they dwelt with the other primitive peoples of their family before they descended to occupy the vast plains which extend between the Indus and the Ganges.” GORRESIO.
+
+28 The third God of the Indian Triad, the God of destruction and reproduction. See <i>Additional Notes</i>.
+
+29 The epithet <i>dwija</i>, or <i>twice-born</i>, is usually appropriate to Bráhmans, but is applicable to the three higher castes. Investiture with the sacred thread and initiation of the neophyte into certain religious mysteries are regarded as his regeneration or second birth.
+
+30 His shoes to be a memorial of the absent heir and to maintain his right. Kálidása (Raghuvaṅśa, XII. 17.) says that they were to be <i>adhidevate</i> or guardian deities of the kingdom.31 Jaṭáyu, a semi-divine bird, the friend of Ráma, who fought in defence of Sítá.
+
+32 Raghu was one of the most celebrated ancestors of Ráma whose commonest appellation is, therefore, Rághava or descendant of Raghu. Kálidása in the <i>Raghuraṇśa</i> makes him the son of Dilípa and great-grandfather of Ráma. See <i>Idylls from the Sanskrit</i>, “Aja” and “Dilípa.”
+
+33 Dundhubi.
+
+34 Literally <i>ten yojanas</i>. The yojana is a measure of uncertain length variously reckoned as equal to nine miles, five, and a little less.
+
+35 Ceylon.
+
+36 The Jonesia Aśoka is a most beautiful tree bearing a profusion of red blossoms.
+
+_ 37 Brahmá_, the Creator, is usually regarded as the first God of the Indian Trinity, although, as Kálidása says:
+
+“Of Brahmá, Vishṇu, Śiva, each may be
+First, second, third, amid the blessed Three.”
+
+Brahmá had guaranteed Rávaṇ’s life against all enemies except man.38 Ocean personified.
+
+39 The rocks lying between Ceylon and the mainland are still called Ráma’s Bridge by the Hindus.
+
+40 “The Bráhmans, with a system rather cosmogonical than chronological, divide the present mundane period into four ages or <i>yugas</i> as they call them: the Krita, the Tretá, the Dwápara, and the Kali. The Krita, called also the Deva-yuga or that of the Gods, is the age of truth, the perfect age, the Tretá is the age of the three sacred fires, domestic and sacrificial; the Dwápara is the age of doubt; the Kali, the present age, is the age of evil.” GORRESIO.
+
+41 The ancient kings of India enjoyed lives of more than patriarchal length as will appear in the course of the poem.
+
+42 Śúdras, men of the fourth and lowest pure caste, were not allowed to read the poem, but might hear it recited.
+
+43 The three <i>ślokes</i> or distichs which these twelve lines represent are evidently a still later and very awkward addition to the introduction.
+
+44 There are several rivers in India of this name, now corrupted into <i>Tonse</i>. The river here spoken of is that which falls into the Ganges a little below Allahabad.45 “In Book II, Canto LIV, we meet with a saint of this name presiding over a convent of disciples in his hermitage at the confluence of the Ganges and the Jumna. Thence the later author of these introductory cantos has borrowed the name and person, inconsistently indeed, but with the intention of enhancing the dignity of the poet by ascribing to him so celebrated a disciple.” SCHLEGEL.
+
+46 The poet plays upon the similarity in sound of the two words: <i>śoka</i>, means grief, <i>śloka</i>, the heroic measure in which the poem is composed. It need scarcely be said that the derivation is fanciful.
+
+47 Brahmá, the Creator, is usually regarded as the first person of the divine triad of India. The four heads with which he is represented are supposed to have allusion to the four corners of the earth which he is sometimes considered to personify. As an object of adoration Brahmá has been entirely superseded by Śiva and Vishṇu. In the whole of India there is, I believe, but one temple dedicated to his worship. In this point the first of the Indian triad curiously resembles the last of the divine fraternity of Greece, Aïdes the brother of Zeus and Poseidon. “In all Greece, says Pausanias, there is no single temple of Aïdes, except at a single spot in Elis.” See Gladstone’s Juventus Mundi, p. 253.
+
+48 The <i>argha</i> or <i>arghya</i> was a libation or offering to a deity, a Bráhman, or other venerable personage. According to one authority it consisted of water, milk, the points of Kúsa-grass, curds, clarified butter, rice, barley, and white mustard, according to another, of saffron, bel, unbroken grain, flowers, curds, dúrbá-grass, kúsa-grass, and sesamum.49 Sítá, daughter of Janak king of Míthilá.
+
+50 “I congratulate myself,” says Schlegel in the preface to his, alas, unfinished edition of the Rámáyan, “that, by the favour of the Supreme Deity, I have been allowed to begin so great a work; I glory and make my boast that I too after so many ages have helped to confirm that ancient oracle declared to Válmíki by the Father of Gods and men:
+
+Dum stabunt montes, campis dum flumina current,
+Usque tuum toto carmen celebrabitur orbe.”
+
+51 “The sipping of water is a requisite introduction of all rites: without it, says the Sámha Purána, all acts of religion are vain.” COLEBROOKE.
+
+52 The <i>darhha</i> or <i>kuśa</i> (Pea cynosuroides), a kind of grass used in sacrifice by the Hindus as <i>cerbena</i> was by the Romans.
+
+53 The direction in which the grass should be placed upon the ground as a seat for the Gods, on occasion of offerings made to them.
+
+54 Paraśuráma or Ráma with the Axe. See Canto LXXIV.
+
+55 Sítá. Videha was the country of which Míthilá was the capital.
+
+56 The twin sons of Ráma and Sítá, born after Ráma had repudiated Sítá, and brought up in the hermitage of Válmíki.As they were the first rhapsodists the combined name Kuśílava signifies a reciter of poems, or an improvisatore, even to the present day.
+
+57 Perhaps the bass, tenor, and treble, or quick, slow and middle times. we know but little of the ancient music of the Hindus.
+
+58 Eight flavours or sentiments are usually enumerated, love, mirth, tenderness, anger, heroism, terror, disgust, and surprise; tranquility or content, or paternal tenderness, is sometimes considered the ninth. WILSON. See the <i>Sáhitya Darpaṇa</i> or <i>Mirror of Composition</i> translated by Dr. Ballantyne and Bábú Pramadádása Mittra in the <i>Bibliotheca Indica.</i>
+
+59 Saccharum Munja is a plant from whose fibres is twisted the sacred string which a Bráhman wears over one shoulder after he has been initiated by a rite which in some respects answers to confirmation.
+
+60 A description of an Aśvamedha or Horse Sacrifice is given in Canto XIII. of this Book.
+
+61 This exploit is related in Canto XL.
+
+62 The Sarjú or Ghaghra, anciently called Sarayú, rises in the Himalayas, and after flowing through the province of Oudh, falls into the Ganges.
+
+63 The ruins of the ancient capital of Ráma and the Children of the Sun may still be traced in the present Ajudhyá near Fyzabad.Ajudhyá is the Jerusalem or Mecca of the Hindus.
+
+64 A legislator and saint, the son of Brahmá or a personification of Brahmá himself, the creator of the world, and progenitor of mankind. Derived from the root <i>man</i> to think, the word means originally <i>man</i>, the thinker, and is found in this sense in the Rig-veda.
+
+Manu as a legislator is identified with the Cretan Minos, as progenitor of mankind with the German Mannus: “Celebrant carminibus antiquis, quod unum apud illos memoriæ et annalium genus est, Tuisconem deum terra editum, et filium Mannum, originem gentis conditoresque.” TACITUS, <i>Germania</i>, Cap. II.
+
+65 The Sál (Shorea Robusta) is a valuable timber tree of considerable height.
+
+66 The city of Indra is called Amarávatí or Home of the Immortals.
+
+67 Schlegel thinks that this refers to the marble of different colours with which the houses were adorned. It seems more natural to understand it as implying the regularity of the streets and houses.
+
+68 The <i>Śataghní</i> <i>i.e. centicide</i>, or slayer of a hundred, is generally supposed to be a sort of fire-arms, or the ancient Indian rocket; but it is also described as a stone set round with iron spikes.
+
+69 The Nágas (serpents) are demigods with a human face and serpent body. They inhabit Pátála or the regions under the earth.Bhogavatí is the name of their capital city. Serpents are still worshipped in India. See Fergusson’s <i>Tree and Serpent Worship</i>.
+
+70 The fourth and lowest pure caste whose duty was to serve the three first classes.
+
+71 By forbidden marriages between persons of different castes.
+
+72 Váhlí or Váhlíka is Bactriana; its name is preserved in the modern Balkh.
+
+73 The Sanskrit word Sindhu is in the singular the name of the river Indus, in the plural of the people and territories on its banks. The name appears as <i>Hidku</i> in the cuneiform inscription of Darius’ son of Hystaspes, in which the nations tributary to that king are enumerated.
+
+The Hebrew form is <i>Hodda</i> (Esther, I. 1.). In Zend it appears as <i>Hendu</i> in a somewhat wider sense. With the Persians later the signification of <i>Hind</i> seems to have co-extended with their increasing acquaintance with the country. The weak Ionic dialect omitted the Persian <i>h</i>, and we find in Hecatæus and Herodotus Ἴνδος and ἡ Ἰνδική. In this form the Romans received the names and transmitted them to us. The Arabian geographers in their ignorance that Hind and Sind are two forms of the same word have made of them two brothers and traced their decent from Noah. See Lassen’s Indische Alterthumskunde Vol. I. pp. 2, 3.
+
+74 The situation of Vanáyu is not exactly determined: it seems to have lain to the north-west of India.75 Kámboja was probably still further to the north-west. Lassen thinks that the name is etymologically connected with <i>Cambyses</i> which in the cuneiform inscription of Behistun is written Ka(m)bujia.
+
+76 The elephants of Indra and other deities who preside over the four points of the compass.
+
+77 “There are four kinds of elephants. 1 <i>Bhaddar</i>. It is well proportioned, has an erect head, a broad chest, large ears, a long tail, and is bold and can bear fatigue. 2 <i>Mand</i>. It is black, has yellow eyes, a uniformly sized body, and is wild and ungovernable. 3 <i>Mirg</i>. It has a whitish skin, with black spots. 4 <i>Mir</i>. It has a small head, and obeys readily. It gets frightened when it thunders.” <i>Aín-i-Akbarí.</i>. Translated by H. Blochmann, Aín 41, <i>The Imperial Elephant Stables</i>.
+
+78 Ayodhyá means <i>not to be fought against</i>.
+
+79 Attendants of Indra, eight Gods whose names signify fire, light and its phenomena.
+
+80 Kaśyap was a grandson of the God Brahmá. He is supposed to have given his name to Kashmír = Kaśyapa-míra, Kaśyap’s Lake.
+
+81 The people of Anga. “Anga is said in the lexicons to be Bengal; but here certainly another region is intended situated at the confluence of the Sarjú with the Ganges, and not far distant from Daśaratha’s dominions.” GORRESIO.It comprised part of Behar and Bhagulpur.
+
+82 The Koïl or <i>kokila</i> (Cuculus Indicus) as the harbinger of spring and love is a universal favourite with Indian poets. His voice when first heard in a glorious spring morning is not unpleasant, but becomes in the hot season intolerably wearisome to European ears.
+
+83 “Sons and Paradise are intimately connected in Indian belief. A man desires above every thing to have a son to perpetuate his race, and to assist with sacrifices and funeral rites to make him worthy to obtain a lofty seat in heaven or to preserve that which he has already obtained.” GORRESIO.
+
+84 One of the Pleiades and generally regarded as the model of wifely excellence.
+
+85 The Hindu year is divided into six seasons of two months each, spring, summer, rains, autumn, winter, and dews.
+
+86 It was essential that the horse should wander free for a year before immolation, as a sign that his master’s paramount sovereignty was acknowledged by all neighbouring princes.
+
+87 Called also Vidcha, later Tirabhukti, corrupted into the modern Tirhut, a province bounded on the west and east by the Gaudakí and Kauśikí rivers, on the south by the Ganges, and on the north by the skirts of the Himálayas.88 The celebrated city of Benares. See Dr. Hall’s learned and exhaustive Monograph in the <i>Sacred City of the Hindus</i>, by the Rev. M. A. Sherring.
+
+89 Kekaya is supposed to have been in the Panjáb. The name of the king was Aśvapati (Lord of Horses), father of Daśaratha’s wife Kaikeyí.
+
+90 Surat.
+
+91 Apparently in the west of India not far from the Indus.
+
+92 “The Pravargya ceremony lasts for three days, and is always performed twice a day, in the forenoon and afternoon. It precedes the animal and Soma sacrifices. For without having undergone it, no one is allowed to take part in the solemn Soma feast prepared for the gods.” Haug’s <i>Aitareya Bráhmaṇam</i>. Vol. II. p. 41. note <i>q.v.</i>
+
+_ 93 Upasads_. “The Gods said, Let us perform the burnt offerings called Upasads (<i>i.e.</i> besieging). For by means of an <i>Upasad</i>, <i>i.e.</i> besieging, they conquer a large (fortified) town.”—<i>Ibid.</i> p. 32.
+
+94 The Soma plant, or Asclepias Acida. Its fermented juice was drunk in sacrifice by the priests and offered to the Gods who enjoyed the intoxicating draught.
+
+95 “Tum in cærimoniarum intervallis Brachmanæ facundi, sollertes, crebros sermones de rerum causis instituebant, alter alterum vincendi cupidi.This public disputation in the assembly of Bráhmans on the nature of things, and the almost fraternal connexion between theology and philosophy deserves some notice; whereas the priests of some religions are generally but little inclined to show favour to philosophers, nay, sometimes persecute them with the most rancorous hatred, as we are taught both by history and experience.… This śloka is found in the MSS. of different recensions of the Rámáyan, and we have, therefore, the most trustworthy testimony to the antiquity of philosophy among the Indians.” SCHLEGEL.
+
+96 The <i>Angas</i> or appendices of the Vedas, pronunciation, prosody, grammar, ritual, astronomy, and explanation of obscurities.
+
+97 In Sanskrit <i>vilva</i>, the <i>Ægle Marmelos</i>. “He who desires food and wishes to grow fat, ought to make his Yúpa (sacrificial post) of Bilva wood.” Haug’s <i>Aítareya Bráhmanam. Vol. II.</i> p. 73.
+
+98 The <i>Mimosa Catechu</i>. “He who desires heaven ought to make his Yúpa of Khádira wood.”—<i>Ibid.</i>
+
+99 The <i>Butea Frondosa</i>. “He who desires beauty and sacred knowledge ought to make his Yúpa of Paláśa wood.”—<i>Ibid.</i>
+
+100 The <i>Cardia Latifolia</i>.
+
+101 A kind of pine. The word means literally the tree of the Gods. Compare the Hebrew עצי יהוה “trees of the Lord.”102 The Hindus call the constellation of Ursa Major the Seven Rishis or Saints.
+
+103 A minute account of these ancient ceremonies would be out of place here. “Ágnishṭoma is the name of a sacrifice, or rather a series of offerings to fire for five days. It is the first and principal part of the Jyotishṭoma, one of the great sacrifices in which especially the juice of the Soma plant is offered for the purpose of obtaining Swarga or heaven.” GOLDSTÜCKER’S DICTIONARY. “The <i>Ágnishṭoma</i> is Agni. It is called so because they (the gods) praised him with this Stoma. They called it so to hide the proper meaning of the word: for the gods like to hide the proper meaning of words.”
+
+“On account of four classes of gods having praised Agni with four Stomas, the whole was called <i>Chatushṭoma</i> (containing four Stomas).”
+
+“It (the Ágnishṭoma) is called <i>Jyotishṭoma</i>, for they praised Agni when he had risen up (to the sky) in the shape of a light (<i>jyotis</i>).”
+
+“This (Ágnishṭoma) is a sacrificial performance which has no beginning and no end.” HAUG’S <i>Aitareya Bráhmaṇam</i>.
+
+The Atirátra, literally <i>lasting through the night</i>, is a division of the service of the Jyotishṭoma.
+
+The Abhijit, <i>the everywhere victorious</i>, is the name of a sub-division of the great sacrifice of the Gavámanaya.The Viśvajit, or <i>the all-conquering</i>, is a similar sub-division.
+
+Áyus is the name of a service forming a division of the Abhiplava sacrifice.
+
+The <i>Aptoryám</i>, is the seventh or last part of the Jyotishṭoma, for the performance of which it is not essentially necessary, but a voluntary sacrifice instituted for the attainment of a specific desire. The literal meaning of the word would be in conformity with the <i>Prauḍhamanoramá</i>, “a sacrifice which procures the attainment of the desired object.” GOLDSTÜCKER’S DICTIONARY.
+
+“The <i>Ukthya</i> is a slight modification of the Ágnishṭoma sacrifice. The noun to be supplied to it is <i>kratu</i>. It is a Soma sacrifice also, and one of the seven Saṇsthas or component parts of the Jyotishṭoma. Its name indicates its nature. For <i>Ukthya</i> means ‘what refers to the Uktha,’ which is an older name for Shástra, <i>i.e.</i> recitation of one of the Hotri priests at the time of the Soma libations. Thus this sacrifice is only a kind of supplement to the Ágnishṭoma.” HAUG. <i>Ai. B.</i>
+
+104 “Four classes of priests were required in India at the most solemn sacrifices. 1. The officiating priests, manual labourers, and acolytes, who had chiefly to prepare the sacrificial ground, to dress the altar, slay the victims, and pour out the libations. 2. The choristers, who chant the sacred hymns. 3. The reciters or readers, who repeat certain hymns. 4. The overseers or bishops, who watch and superintend the proceedings of the other priests, and ought to be familiar with all the Vedas. The formulas and verses to be muttered by the first class are contained in the Yajur-veda-sanhitá.The hymns to be sung by the second class are in the Sama-veda-sanhitá. The Atharva-veda is said to be intended for the Brahman or overseer, who is to watch the proceedings of the sacrifice, and to remedy any mistake that may occur. The hymns to be recited by the third class are contained in the Rigveda,” <i>Chips from a German Workshop.</i>
+
+105 The Maruts are the winds, deified in the religion of the Veda like other mighty powers and phenomena of nature.
+
+106 A Titan or fiend whose destruction has given Vishṇu one of his well-known titles, Mádhava.
+
+107 The garden of Indra.
+
+108 One of the most ancient and popular of the numerous names of Vishṇu. The word has been derived in several ways, and may mean <i>he who moved on the (primordial) waters</i>, or <i>he who pervades or influences men or their thoughts</i>.
+
+109 The Horse-Sacrifice, just described.
+
+110 To walk round an object keeping the right side towards it is a mark of great respect. The Sanskrit word for the observance is <i>pradakshiṇá</i>, from pra pro, and <i>daksha</i> right, Greek δεξίος, Latin dexter, Gaelic deas-il. A similar ceremony is observed by the Gaels.“In the meantime she traced around him, with wavering steps, the propitiation, which some have thought has been derived from the Druidical mythology. It consists, as is well known, in the person who makes the <i>deasil</i> walking three times round the person who is the object of the ceremony, taking care to move according to the course of the sun.”
+
+SCOTT. <i>The Two Drovers.</i>
+
+111 The <i>Amrit</i>, the nectar of the Indian Gods.
+
+_ 112 Gandharvas_ (Southey’s Glendoveers) are celestial musicians inhabiting Indra’s heaven and forming the orchestra at all the banquets of the principal deities.
+
+_ 113 Yakshas_, demigods attendant especially on Kuvera, and employed by him in the care of his garden and treasures.
+
+_ 114 Kimpurushas_, demigods attached also to the service of Kuvera, celestial musicians, represented like centaurs reversed with human figures and horses’ heads.
+
+_ 115 Siddhas_, demigods or spirits of undefined attributes, occupying with the <i>Vidyádharas</i> the middle air or region between the earth and the sun.
+
+Schlegel translates: “Divi, Sapientes, Fidicines, Præpetes, illustres Genii, Præconesque procrearunt natos, masculos, silvicolas;angues porro, Hippocephali Beati, Aligeri, Serpentesque frequentes alacriter generavere prolem innumerabilem.”
+
+116 A mountain in the south of India.
+
+117 The preceptor of the Gods and regent of the planet Jupiter.
+
+118 The celestial architect, the Indian Hephæstus, Mulciber, or Vulcan.
+
+119 The God of Fire.
+
+120 Twin children of the Sun, the physicians of Swarga or Indra’s heaven.
+
+121 The deity of the waters.
+
+122 Parjanya, sometimes confounded with Indra.
+
+123 The bird and vehicle of Vishṇu. He is generally represented as a being something between a man and a bird and considered as the sovereign of the feathered race. He may be compared with the Simurgh of the Persians, the ’Anká of the Arabs, the Griffin of chivalry, the Phœnix of Egypt, and the bird that sits upon the ash Yggdrasil of the Edda.
+
+124 This Canto will appear ridiculous to the European reader. But it should be remembered that the monkeys of an Indian forest, the “bough-deer” as the poets call them,are very different animals from the “turpissima bestia” that accompanies the itinerant organ-grinder or grins in the Zoological Gardens of London. Milton has made his hero, Satan, assume the forms of a cormorant, a toad, and a serpent, and I cannot see that this creation of semi-divine Vánars, or monkeys, is more ridiculous or undignified.
+
+125 The consort of Indra, called also Śachí and Indráṇí.
+
+126 The <i>Michelia champaca</i>. It bears a scented yellow blossom:
+
+“The maid of India blest again to hold
+In her full lap the Champac’s leaves of gold.”
+
+<i>Lallah Rookh.</i>
+
+127 Vibháṇdak, the father of Rishyaśring
+
+128 A hemiśloka is wanting in Schlegel’s text, which he thus fills up in his Latin translation.
+
+129 Rishyaśring, a Bráhman, had married Śántá who was of the Kshatriya or Warrior caste and an expiatory ceremony was necessary on account of this violation of the law.
+
+130 “The poet no doubt intended to indicate the vernal equinox as the birthday of Ráma.For the month <i>Chaitra</i> is the first of the two months assigned to the spring; it corresponds with the latter half of March and the former half of April in our division of the year. <i>Aditi</i>, the mother of the Gods, is lady of the seventh lunar mansion which is called <i>Punarvasu</i>. The five planets and their positions in the Zodiac are thus enumerated by both commentators: the Sun in Aries, Mars in Capricorn, Saturn in Libra, Jupiter in Cancer, Venus in Pisces.… I leave to astronomers to examine whether the parts of the description agree with one another, and, if this be the case, thence to deduce the date. The Indians place the nativity of Ráma in the confines of the second age (tretá) and the third (dwápara): but it seems that this should be taken in an allegorical sense.… We may consider that the poet had an eye to the time in which, immediately before his own age, the aspects of the heavenly bodies were such as he has described.” SCHLEGEL.
+
+131 The regent of the planet Jupiter.
+
+132 Indra = Jupiter Tonans.
+
+133 “<i>Pushya</i> is the name of a month; but here it means the eighth mansion. The ninth is called <i>Asleshá</i>, or the snake. It is evident from this that Bharat, though his birth is mentioned before that of the twins, was the youngest of the four brothers and Ráma’s junior by eleven months.” SCHLEGEL.
+
+134 A fish, the Zodiacal sign <i>Pisces</i>.
+
+135 One of the constellations, containing stars in the wing of Pegasus.136 Ráma means the Delight (of the World); Bharat, the Supporter; Lakshmaṇ, the Auspicious; Śatrughna, the Slayer of Foes.
+
+137 Schlegel, in the <i>Indische Bibliothek</i>, remarks that the proficiency
+    of the Indians in this art early attracted the attention of
+    Alexander’s successors, and natives of India were so long
+    exclusively employed in this service that the name Indian was
+    applied to any elephant-driver, to whatever country he might belong.
+
+138 The story of this famous saint is given at sufficient length in Cantos LI-LV.
+
+This saint has given his name to the district and city to the east of Benares. The original name, preserved in a land-grant on copper now in the Museum of the Benares College, has been Moslemized into Ghazeepore (the City of the Soldier-martyr).
+
+139 The son of Kuśik is Viśvámitra.
+
+140 At the recollection of their former enmity, to be described hereafter.
+
+141 The Indian nectar or drink of the Gods.
+
+142 Great joy, according to the Hindu belief, has this effect, not causing each particular hair to stand on end, but gently raising all the down upon the body.143 The Rákshasas, giants, or fiends who are represented as disturbing the sacrifice, signify here, as often elsewhere, merely the savage tribes which placed themselves in hostile opposition to Bráhmanical institutions.
+
+144 Consisting of horse, foot, chariots, and elephants.
+
+145 “The Gandharvas, or heavenly bards, had originally a warlike character but were afterwards reduced to the office of celestial musicians cheering the banquets of the Gods. Dr. Kuhn has shown their identity with the Centaurs in name, origin and attributes.” GORRESIO.
+
+146 These mysterious animated weapons are enumerated in Cantos XXIX and XXX. Daksha was the son of Brahmá and one of the Prajápatis, Demiurgi, or secondary authors of creation.
+
+147 Youths of the Kshatriya class used to leave unshorn the side locks of their hair. These were called <i>Káka-paksha</i>, or raven’s wings.
+
+148 The Rákshas or giant Rávaṇ, king of Lanká.
+
+149 “The meaning of Aśvins (from <i>aśva</i> a horse, Persian asp, Greek ἵππος, Latin <i>equus</i>, Welsh ech) is Horsemen. They were twin deities of whom frequent mention is made in the Vedas and the Indian myths. The Aśvins have much in common with the Dioscuri of Greece, and their mythical genealogy seems to indicate that their origin was astronomical. They were, perhaps, at first the morning star and evening star.They are said to be the children of the sun and the nymph Aśviní, who is one of the lunar asterisms personified. In the popular mythology they are regarded as the physicians of the Gods.” GORRESIO.
+
+150 The word Kumára (a young prince, a Childe) is also a proper name of Skanda or Kártikeya God of War, the son of Śiva and Umá. The babe was matured in the fire.
+
+151 “At the rising of the sun as well as at noon certain observances, invocations, and prayers were prescribed which might under no circumstances be omitted. One of these observances was the recitation of the Sávitrí, a Vedic hymn to the Sun of wonderful beauty.” GORRESIO.
+
+_ 152 Tripathaga_, <i>Three-path-go,</i> flowing in heaven, on earth, and under the earth. See Canto XLV.
+
+153 Tennyson’s “Indian Cama,” the God of Love, known also by many other names.
+
+_ 154 Umá_, or <i>Parvatí</i>, was daughter of Himálaya, Monarch of mountains, and wife of Śiva. See Kálidasa’s <i>Kumára Sambhava</i>, or <i>Birth of the War-God</i>.
+
+_ 155 Stháṇu_. The Unmoving one, a name of Śiva.
+
+156 “The practice of austerities, voluntary tortures, and mortifications was anciently universal in India, and was held by the Indians to be of immense efficacy.Hence they mortified themselves to expiate sins, to acquire merits, and to obtain superhuman gifts and powers; the Gods themselves sometimes exercised themselves in such austerities, either to raise themselves to greater power and grandeur, or to counteract the austerities of man which threatened to prevail over them and to deprive them of heaven.… Such austerities were called in India <i>tapas</i> (burning ardour, fervent devotion) and he who practised them <i>tapasvin</i>.” GORRESIO.
+
+_ 157 The Bodiless one._
+
+158 “A celebrated lake regarded in India as sacred. It lies in the lofty region between the northern highlands of the Himálayas and mount Kailása, the region of the sacred lakes. The poem, following the popular Indian belief, makes the river Sarayú (now Sarjú) flow from the Mánasa lake; the sources of the river are a little to the south about a day’s journey from the lake. See Lassen, <i>Indische Alterthumshunde</i>, page 34.” GORRESIO. <i>Manas</i> means mind; <i>mánasa</i>, mental, mind-born.
+
+_ 159 Sarovar_ means best of lakes. This is another of the poet’s fanciful etymologies.
+
+160 The confluence of two or more rivers is often a venerated and holy place. The most famous is Prayág or Allahabad, where the Sarasvatí by an underground course is believed to join the Jumna and the Ganges.161 The botanical names of the trees mentioned in the text are Grislea Tormentosa, Shorea Robusta, Echites Antidysenterica, Bignonia Suaveolens, Œgle Marmelos, and Diospyrus Glutinosa. I have omitted the <i>Kutaja</i> (Echites) and the <i>Tiṇḍuka</i> (Diospyrus).
+
+162 Here we meet with a fresh myth to account for the name of these regions. <i>Malaja</i> is probably a non-Aryan word signifying a hilly country: taken as a Sanskrit compound it means <i>sprung from defilement</i>. The word <i>Karúsha</i> appears to have a somewhat similar meaning.
+
+163 “This is one of those indefinable mythic personages who are found in the ancient traditions of many nations, and in whom cosmogonical or astronomical notions are generally figured. Thus it is related of Agastya that the Vindhyan mountains prostrated themselves before him; and yet the same Agastya is believed to be regent of the star Canopus.” GORRESIO.
+
+He will appear as the friend and helper of Ráma farther on in the poem.
+
+164 The famous pleasure-garden of Kuvera the God of Wealth.
+
+165 “The whole of this Canto together with the following one, regards the belief, formerly prevalent in India, that by virtue of certain spells, to be learnt and muttered, secret knowledge and superhuman powers might be acquired. To this the poet has already alluded in Canto xxiii.These incorporeal weapons are partly represented according to the fashion of those ascribed to the Gods and the different orders of demi-gods, partly are the mere creations of fancy; and it would not be easy to say what idea the poet had of them in his own mind, or what powers he meant to assign to each.” SCHLEGEL.
+
+166 “In Sanskrit <i>Sankára</i>, a word which has various significations but the primary meaning of which is <i>the act of seizing</i>. A magical power seems to be implied of employing the weapons when and where required. The remarks I have made on the preceding Canto apply with still greater force to this. The MSS. greatly vary in the enumeration of these <i>Sankáras</i>, and it is not surprising that copyists have incorrectly written the names which they did not well understand. The commentators throw no light upon the subject.” SCHLEGEL. I have taken the liberty of omitting four of these which Schlegel translates “Scleromphalum, Euomphalum, Centiventrem, and Chrysomphalum.”
+
+167 I omit, after this line, eight <i>ślokes</i> which, as Schlegel allows, are quite out of place.
+
+168 This is the fifth of the <i>avatárs</i>, descents or incarnations of Vishṇu.
+
+169 This is a solar allegory. Vishṇu is the sun, the three steps being his rising, culmination, and setting.
+
+170 Certain ceremonies preliminary to a sacrifice.171 A river which rises in Budelcund and falls into the Ganges near Patna. It is called also <i>Hiraṇyaráhu</i>, Golden-armed, and <i>Hiraṇyaráha</i>, Auriferous.
+
+172 The modern Berar.
+
+173 According to the Bengal recension the first (Kuśámba) is called Kuśáśva, and his city Kauśáśví. This name does not occur elsewhere. The reading of the northern recension is confirmed by Foê Kouê Ki; p. 385, where the city <i>Kiaoshangmi</i> is mentioned. It lay 500 <i>lis</i> to the south-west of <i>Prayága</i>, on the south bank of the Jumna. <i>Mahodaya</i> is another name of Kanyakubja: <i>Dharmáraṇya</i>, the wood to which the God of Justice is said to have fled through fear of Soma the Moon-God was in Magadh. Girivraja was in the same neighbourhood. See Lasson’s I, A. Vol. I. p. 604.
+
+174 That is, the City of the Bent Virgins, the modern Kanauj or Canouge.
+
+175 Literally, Given by <i>Brahma</i> or devout contemplation.
+
+176 Now called Kośí (Cosy) corrupted from Kauśikí, daughter of Kuś]a.
+
+“This is one of those personifications of rivers so frequent in the Grecian mythology, but in the similar myths is seen the impress of the genius of each people, austere and profoundly religious in India, graceful and devoted to the worship of external beauty in Greece.” GORRESIO.177 One of the names of the Ganges considered as the daughter of Jahnu. See Canto XLIV.
+
+178 The Indian Crane.
+
+179 Or, rather, geese.
+
+180 A name of the God Śiva.
+
+181 Garuḍa.
+
+182 Ikshváku, the name of a king of Ayodhyá who is regarded as the founder of the Solar race, means also a <i>gourd</i>. Hence, perhaps, the myth.
+
+183 “The region here spoken of is called in the Laws of Manu <i>Madhyadeśa</i> or the middle region. ‘The region situated between the Himálaya and the Vindhya Mountains … is called <i>Madhyadeśa</i>, or the middle region; the space comprised between these two mountains from the eastern to the western sea is called by sages Áryávartta, <i>the seat of honourable men</i>.’ (MANU, II, 21, 22.) The Sanskrit Indians called themselves Áryans, which means <i>honourable</i>, <i>noble</i>, to distinguish themselves from the surrounding nations of different origin.” GORRESIO.
+
+184 Said to be so called from the Jambu, or Rose Apple, abounding in it, and signifying according to the Puránas the central division of the world, the known world.185 Here used as a name of Vishṇu.
+
+186 Kings are called the husbands of their kingdoms or of the earth; “She and his kingdom were his only brides.” <i>Raghuvaṅśa.</i>
+
+  “Doubly divorced! Bad men, you violate
+A double marriage, ’twixt my crown and me,
+And then between me and my married wife.”
+
+King Richard II. Act V. Sc. I.
+
+187 The thirty-three Gods are said in the <i>Aitareya Bráhmaṇa</i>, Book I. ch. II. 10. to be the eight Vasus, the eleven Rudras, the twelve Ádityas, Prajápati, either Brahmá or Daksha, and Vashatkára or deified oblation. This must have been the actual number at the beginning of the Vedic religion gradually increased by successive mythical and religious creations till the Indian Pantheon was crowded with abstractions of every kind. Through the reverence with which the words of the Veda were regarded, the immense host of multiplied divinities, in later times, still bore the name of the Thirty-three Gods.
+
+188 “One of the elephants which, according to an ancient belief popular in India, supported the earth with their enormous backs; when one of these elephants shook his wearied head the earth trembled with its woods and hills. An idea, or rather a mythical fancy, similar to this, but reduced to proportions less grand, is found in Virgil when he speaks of Enceladus buried under Ætna:”“adi semiustum fulmine corpus
+Urgeri mole hac, ingentemque insuper Ætnam
+Impositam, ruptis flammam expirare caminis;
+Et fessum quoties mutat latus, intre mere omnem
+iam, et cœlum subtexere fumo.”
+
+Æneid. Lib. III. GORRESIO.
+
+189 “The Devas and Asuras (Gods and Titans) fought in the east, the south, the west, and the north, and the Devas were defeated by the Asuras in all these directions. They then fought in the north-eastern direction; there the Devas did not sustain defeat. This direction is <i>aparájitá</i>, <i>i.e.</i> unconquerable. Thence one should do work in this direction, and have it done there; for such a one (alone) is able to clear off his debts.” HAUG’S <i>Aitareya Bráhmanam</i>, Vol. II, p. 33.
+
+The debts here spoken of are a man’s religious obligations to the Gods, the Pitaras or Manes, and men.
+
+190 Vishṇu.
+
+191 “It appears to me that this mythical story has reference to the volcanic phenomena of nature. Kapil may very possibly be that hidden fiery force which suddenly unprisons itself and bursts forth in volcanic effects. Kapil is, moreover, one of the names of Agni the God of Fire.” GORRESIO.192 Garuḍ was the son of Kaśyap and Vinatá.
+
+193 Garuḍ.
+
+194 A famous and venerated region near the Malabar coast.
+
+195 That is four fires and the sun.
+
+196 Heaven.
+
+197 Wind-Gods.
+
+198 Śiva.
+
+199 The lake Vindu does not exist. Of the seven rivers here mentioned two only, the Ganges and the Sindhu or Indus, are known to geographers. Hládiní means the Gladdener, Pávaní the Purifier, Naliní the Lotus-Clad, and Suchakshu the Fair-eyed.
+
+200 The First or Golden Age.
+
+201 Diti and Aditi were wives of Kaśyap, and mothers respectively of Titans and Gods.
+
+202 One of the seven seas surrounding as many worlds in concentric rings.203 Śankar and Rudra are names of Śiva.
+
+204 “Śárṅgin, literally <i>carrying a bow of horn</i>, is a constantly recurring name of Vishṇu. The Indians also, therefore, knew the art of making bows out of the hons of antelopes or wild goats, which Homer ascribes to the Trojans of the heroic age.” SCHLEGEL.
+
+205 Dhanvantari, the physician of the Gods.
+
+206 The poet plays upon the word and fancifully derives it from <i>apsu</i>, the locative case plural of <i>ap</i>, water, and <i>rasa</i>, taste.… The word is probably derived from <i>ap</i>, water, and <i>sri</i>, to go, and seems to signify <i>inhabitants of the water</i>, nymphs of the stream; or, as Goldstücker thinks (Dict. s.v.) these divinities were originally personifications of the vapours which are attracted by the sun and form into mist or clouds.
+
+207 “<i>Surá</i>, in the feminine comprehends all sorts of intoxicating liquors, many kinds of which the Indians from the earliest times distilled and prepared from rice, sugar-cane, the palm tree, and various flowers and plants. Nothing is considered more disgraceful among orthodox Hindus than drunkenness, and the use of wine is forbidden not only to Bráhmans but the two other orders as well.… So it clearly appears derogatory to the dignity of the Gods to have received a nymph so pernicious, who ought rather to have been made over to the Titans. However the etymological fancy has prevailed. The word <i>Sura</i>, a God, is derived from the indeclinable <i>Swar</i> heaven.” SCHLEGEL.208 Literally, high-eared, the horse of Indra. Compare the production of the horse from the sea by Neptune.
+
+  209 “And Kaustubha the best
+Of gems that burns with living light
+Upon Lord Vishṇu’s breast.”
+
+<i>Churning of the Ocean.</i>
+
+210 “That this story of the birth of Lakshmí is of considerable antiquity is evident from one of her names <i>Kshírábdhi-tanayá</i>, daughter of the Milky Sea, which is found in <i>Amarasinha</i> the most ancient of Indian lexicographers. The similarity to the Greek myth of Venus being born from the foam of the sea is remarkable.”
+
+“In this description of Lakshmí one thing only offends me, that she is said to have four arms. Each of Vishṇu’s arms, single, as far as the elbow, there branches into two; but Lakshmí in all the brass seals that I possess or remember to have seen has two arms only. Nor does this deformity of redundant limbs suit the pattern of perfect beauty.” SCHLEGEL. I have omitted the offensive epithet.
+
+211 Purandhar, a common title of Indra.
+
+212 A few verses are here left untranslated on account of the subject and language being offensive to modern taste.213 “In this myth of Indra destroying the unborn fruit of Diti with his thunderbolt, from which afterwards came the Maruts or Gods of Wind and Storm, geological phenomena are, it seems, represented under mythical images. In the great Mother of the Gods is, perhaps, figured the dry earth: Indra the God of thunder rends it open, and there issue from its rent bosom the Maruts or exhalations of the earth. But such ancient myths are difficult to interpret with absolute certainty.” GORRESIO.
+
+214 Wind.
+
+215 Indra, with <i>mahá</i>, great, prefixed.
+
+216 The Heavenly Twins.
+
+217 Not banished from heaven as the inferior Gods and demigods sometimes were.
+
+218 Kumárila says: “In the same manner, if it is said that Indra was the seducer of Ahalyá this does not imply that the God Indra committed such a crime, but Indra means the sun, and Ahalyá (from ahan and lí) the night; and as the night is seduced and ruined by the sun of the morning, therefore is Indra called the paramour of Ahalyá.” MAX MULLER, <i>History of Ancient Sanskrit Literature, p. 530</i>.
+
+219 “The preceding sixteen lines have occurred before in Canto XLVIII. This Homeric custom of repeating a passage of several lines is strange to our poet. This is the only instance I remember.The repetition of single lines is common enough.” SCHLEGEL.
+
+220 Divine personages of minute size produced from the hair of Brahmá, and probably the origin of
+
+      “That small infantry
+Warred on by cranes.”
+
+221 Sweet, salt, pungent, bitter, acid, and astringent.
+
+222 “Of old hoards and minerals in the earth, the king is entitled to half by reason of his general protection, and because he is the lord paramount of the soil.” MANU, Book VIII. 39.
+
+223 Ghí or clarified butter, “holy oil,” being one of the essentials of sacrifice.
+
+224 “A Bráhman had five principal duties to discharge every day: study and teaching the Veda, oblations to the manes or spirits of the departed, sacrifice to the Gods, hospitable offerings to men, and <i>a gift of food to all creatures</i>. The last consisted of rice or other grain which the Bráhman was to offer every day outside his house in the open air. MANU, Book III. 70.” GORRESIO.
+
+225 These were certain sacred words of invocation such a <i>sváhá</i>, <i>vashaṭ</i>, etc., pronounced at the time of sacrifice.226 “It is well known that the Persians were called Pahlavas by the Indians. The <i>Śakas</i> are nomad tribes inhabiting Central Asia, the Scythes of the Greeks, whom the Persians also, as Herodotus tells us, called Sakæ just as the Indians did. Lib. VII 64 ὁι γὰρ Πέρσαι πάντας τοὺς Σύθας. καλέουσι Σάκας. The name Yavans seems to be used rather indefinitely for nations situated beyond Persia to the west.… After the time of Alexander the Great the Indians as well as the Persians called the Greeks also Yavans.” SCHLEGEL.
+
+Lassen thinks that the Pahlavas were the same people as the Πάκτυες of Herodotus, and that this non-Indian people dwelt on the north-west confines of India.
+
+227 See page 13, note 6.
+
+228 Barbarians, non-Sanskrit-speaking tribes.
+
+229 A comprehensive term for foreign or outcast races of different faith and language from the Hindus.
+
+230 The Kirátas and Hárítas are savage aborigines of India who occupy hills and jungles and are altogether different in race and character from the Hindus. Dr. Muir remarks in his Sanskrit Texts, Vol. I. p. 488 (second edition) that it does not appear that it is the object of this legend to represent this miraculous creation as the origin of these tribes, and that nothing more may have been intended than that the cow called into existence large armies, of the same stock with particular tribes previously existing.231 The Great God, Śiva.
+
+232 Nandi, the snow-white bull, the attendant and favourite vehicle of Śiva.
+
+233 “The names of many of these weapons which are mythical and partly allegorical have occurred in Canto XXIX. The general signification of the story is clear enough. It is a contest for supremacy between the regal or military order and Bráhmanical or priestly authority, like one of those struggles which our own Europe saw in the middle ages when without employing warlike weapons the priesthood frequently gained the victory.” SCHLEGEL.
+
+For a full account of the early contests between the Bráhmans and the Kshattriyas, see Muir’s Original Sanskrit Texts (Second edition) Vol. I. Ch. IV.
+
+234 “Triśanku, king of Ayodhyá, was seventh in descent from Ikshváku, and Daśaratha holds the thirty-fourth place in the same genealogy. See Canto LXX. We are thrown back, therefore, to very ancient times, and it occasions some surprise to find Vaśishṭha and Viśvámitra, actors in these occurences, still alive in Rama’s time.”
+
+235 “It does not appear how Triśanku, in asking the aid of Vaśishṭha’s sons after applying in vain to their father, could be charged with resorting to another <i>śákhá</i> (School) in the ordinary sense of that word; as it is not conceivable that the sons should have been of another Śákhá from the father, whose cause they espouse with so much warmth.The commentator in the Bombay edition explains the word <i>Śákhantaram</i> as Yájanádiná rakshántaram, ‘one who by sacrificing for thee, etc., will be another protector.’ Gorresio’s Gauḍa text, which may often be used as a commentary on the older one, has the following paraphrase of the words in question, ch. 60, 3. Múlam utsṛijya kasmát tvam sákhásv ichhasi lambitum. ‘Why, forsaking the root, dost thou desire to hang upon the branches?’ ” MUIR, Sanskrit Texts, Vol. I., p. 401.
+
+236 A Chaṇḍála was a man born of the illegal and impure union of a Śúdra with a woman of one of the three higher castes.
+
+237 “The Chaṇḍála was regarded as the vilest and most abject of the men sprung from wedlock forbidden by the law (Mánavadharmaśástra, Lib. X. 12.); a kind of social malediction weighed upon his head and rejected him from human society.” GORRESIO.
+
+238 This appellation, occuring nowhere else in the poem except as the name of a city, appears twice in this Canto as a name of Vaśishṭha.
+
+239 “The seven ancient rishis or saints, as has been said before, were the seven stars of Ursa Major. The seven other new saints which are here said to have been created by Viśvámitra should be seven new southern stars, a sort of new Ursa. Von Schlegel thinks that this mythical fiction of new stars created by Viśvámitra may signify that these southern stars, unknown to the Indians as long as they remained in the neighbourhood of the Ganges, became known to them at a later date when they colonized the southern regions of India.” GORRESIO.240 “This cannot refer to the events just related: for Viśvámitra was successful in the sacrifice performed for Triśanku. And yet no other impediment is mentioned. Still his restless mind would not allow him to remain longer in the same spot. So the character of Viśvámitra is ingeniously and skilfully shadowed forth: as he had been formerly a most warlike king, loving battle and glory, bold, active, sometimes unjust, and more frequently magnanimous, such also he always shows himself in his character of anchorite and ascetic.” SCHLEGEL.
+
+241 Near the modern city of Ajmere. The place is sacred still, and the name is preserved in the Hindí. Lassen, however, says that this Pushkala or Pushkara, called by the Grecian writers Πευκελίτις, the earliest place of pilgrimage mentioned by name, is not to be confounded with the modern Pushkara in Ajmere.
+
+242 “Ambarísha is the twenty-ninth in descent from Ikshváku, and is therefore separated by an immense space of time from Triśanku in whose story Viśvámitra had played so important a part. Yet Richíka, who is represented as having young sons while Ambarísha was yet reigning being himself the son of Bhrigu and to be numbered with the most ancient sages, is said to have married the younger sister of Viśvámitra. But I need not again remark that there is a perpetual anachronism in Indian mythology.” SCHLEGEL..
+
+“In the mythical story related in this and the following Canto we may discover, I think, some indication of the epoch at which the immolation of lower animals was substituted for human sacrifice.… So when Iphigenia was about to be sacrificed at Aulis, one legend tells us that a hind was substituted for the virgin.” GORRESIO.So the ram caught in the thicket took the place of Isaac, or, as the Musalmáns say, of Ishmael.
+
+243 The Indian Cupid.
+
+244 “The same as she whose praises Viśvámitra has already sung in Canto XXXV, and whom the poet brings yet alive upon the scene in Canto LXI. Her proper name was <i>Satyavatí</i> (Truthful); the patronymic, Kauśikí was preserved by the river into which she is said to have been changed, and is still recognized in the corrupted forms Kuśa and Kuśí. The river flows from the heights of the Himálaya towards the Ganges, bounding on the east the country of Videha (Behar). The name is no doubt half hidden in the <i>Cosoagus</i> of Pliny and the <i>Kossounos</i> of Arrian. But each author has fallen into the same error in his enumeration of these rivers (Condochatem, Erannoboam, Cosoagum, Sonum). The Erannoboas, (Hiraṇyaváha) and the Sone are not different streams, but well-known names of the same river. Moreover the order is disturbed, in which on the right and left they fall into the Ganges. To be consistent with geography it should be written: Erannoboam sive Sonum, Condochatem (Gandakí), Cosoagum.” SCHLEGEL.
+
+245 “Daksha was one of the ancient Progenitors or Prajápatis created by Brahmá. The sacrifice which is here spoken of and in which Śankar or Śiva (called also here Rudra and Bhava) smote the Gods because he had not been invited to share the sacred oblations with them, seems to refer to the origin of the worship of Śiva, to its increase and to the struggle it maintained with other older forms of worship.” GORRESIO.246 Sítá means a furrow.
+
+      “Great Erectheus swayed,
+That owed his nurture to the blue-eyed maid,
+But from the teeming furrow took his birth,
+The mighty offspring of the foodful earth.”
+
+Iliad, Book II.
+
+247 “The whole story of Sítá, as will be seen in the course of the poem has a great analogy with the ancient myth of Proserpine.” GORRESIO.
+
+248 A different lady from the Goddess of the Jumna who bears the same name.
+
+249 This is another fanciful derivation, <i>Sa</i>—with, and <i>gara</i>—poison.
+
+_ 250 Purushádak_ means a cannibal. First called <i>Kalmáshapáda</i> on account of his spotted feet he is said to have been turned into a cannibal for killing the son of Vaśishṭha.
+
+251 “In the setting forth of these royal genealogies the Bengal recension varies but slightly from the Northern. The first six names of the genealogy of the Kings of Ayodhyá are partly theogonical and partly cosmogonical; the other names are no doubt in accordance with tradition and deserve the same amount of credence as the ancient traditional genealogies of other nations.” GORRESIO.252 The tenth of the lunar asterisms, composed of five stars.
+
+253 There are two lunar asterisms of this name, one following the other immediately, forming the eleventh and twelfth of the lunar mansions.
+
+254 This is another Ráma, son of Jamadagni, called Paraśuráma, or Ráma with the axe, from the weapon which he carried. He was while he lived the terror of the Warrior caste, and his name recalls long and fierce struggles between the sacerdotal and military order in which the latter suffered severely at the hands of their implacable enemy.
+
+255 “The author of the <i>Raghuvaṅśa</i> places the mountain Mahendra in the territory of the king of the Kalingans, whose palace commanded a view of the ocean. It is well known that the country along the coast to the south of the mouths of the Ganges was the seat of this people. Hence it may be suspected that this Mahendra is what Pliny calls ‘promontorium Calingon.’ The modern name, <i>Cape Palmyras</i>, from the palmyras Borassus flabelliformis, which abound there agrees remarkably with the description of the poet who speaks of the groves of these trees. <i>Raghuvaṅśa</i>, VI. 51.” SCHLEGEL.
+
+256 Śiva.
+
+257 Siva. God of the Azure Neck.
+
+258 Śatrughna means slayer of foes, and the word is repeated as an intensive epithet.259 Alluding to the images of Vishṇu, which have four arms, the four princes being portions of the substance of that God.
+
+260 Chief of the insignia of imperial dignity.
+
+261 Whisks, usually made of the long tails of the Yak.
+
+262 Chitraratha, King of the Gandharvas.
+
+263 The Chandrakánta or Moonstone, a sort of crystal supposed to be composed of congealed moonbeams.
+
+264 A customary mark of respect to a superior.
+
+265 Ráhu, the ascending node, is in mythology a demon with the tail of a dragon whose head was severed from his body by Vishṇu, but being immortal, the head and tail retained their separate existence and being transferred to the stellar sphere became the authors of eclipses; the first especially by endeavouring to swallow the sun and moon.
+
+266 In eclipse.
+
+267 The seventh of the lunar asterisms.
+
+268 Kauśalyá and Sumitrá.269 A king of the Lunar race, and father of Yayáti.
+
+270 Literally <i>the chamber of wrath,</i> a “<i>growlery</i>,” a small, dark, unfurnished room to which it seems, the wives and ladies of the king betook themselves when offended and sulky.
+
+271 In these four lines I do not translate faithfully, and I do not venture to follow Kaikeyí farther in her eulogy of the hump-back’s charms.
+
+272 These verses are evidently an interpolation. They contain nothing that has not been already related: the words only are altered. As the whole poem could not be recited at once, the rhapsodists at the beginning of a fresh recitation would naturally remind their hearers of the events immediately preceding.
+
+273 The <i>śloka</i> or distich which I have been forced to expand into these nine lines is evidently spurious, but is found in all the commented MSS. which Schlegel consulted.
+
+274 Manmatha, Mind-disturber, a name of Káma or Love.
+
+275 This story is told in the Mahábhárat. A free version of it may be found in <i>Scenes from the Rámáyan, etc.</i>
+
+276 Only the highest merit obtains a home in heaven for ever. Minor degrees of merit procure only leases of heavenly mansions terminable after periods proportioned to the fund which buys them.King Yayáti went to heaven and when his term expired was unceremoniously ejected, and thrown down to earth.
+
+277 See <i>Additional Notes</i>, THE SUPPLIANT DOVE.
+
+278 Indra, called also Purandara, Town-destroyer.
+
+279 Indra’s charioteer.
+
+280 The elephant of Indra.
+
+281 A star in the spike of Virgo: hence the name of the mouth Chaitra or Chait.
+
+282 The Rain-God.
+
+283 In a former life.
+
+284 One of the lunar asterisms, represented as the favourite wife of the Moon. See p. 4, note.
+
+285 The Sea.
+
+286 The Moon.287 The comparison may to a European reader seem a homely one. But Spenser likens an infuriate woman to a cow “That is berobbed of her youngling dere.” Shakspeare also makes King Henry VI compare himself to the calf’s mother that “Runs lowing up and down, Looking the way her harmless young one went.” “Cows,” says De Quincey, “are amongst the gentlest of breathing creatures; none show more passionate tenderness to their young, when deprived of them, and, in short, I am not ashamed to profess a deep love for these gentle creatures.”
+
+288 The commentators say that, in a former creation, Ocean grieved his mother and suffered in consequence the pains of hell.
+
+289 As described in Book I Canto XL.
+
+290 Parasúráma.
+
+291 The Sanskrit word <i>hasta</i> signifies both <i>hand</i>, and the trunk of “The beast that bears between his eyes a serpent for a head.”
+
+292 See P. 41.
+
+293 The first progeny of Brahmá or Brahmá himself.
+
+294 These are three names of the Sun.
+
+295 See P. 1.296 The saints who form the constellation of Ursa Major.
+
+297 The regent of the planet Venus.
+
+298 Kuvera.
+
+_ 299 Bali_, or the presentation of food to all created beings, is one of the five great sacraments of the Hindu religion: it consists in throwing a small parcel of the offering, <i>Ghee</i>, or rice, or the like, into the open air at the back of the house.
+
+300 In mythology, a demon slain by Indra.
+
+301 Called also Garuḍ, the King of the birds, offspring of Vinatá. See p. 53.
+
+302 See P. 56.
+
+303 See P. 43.
+
+304 The story of Sávitrí, told in the Mahábhárat, has been admirably translated by Rückert, and elegantly epitomized by Mrs. Manning in <i>India, Ancient and Mediæval</i>. There is a free rendering of the story in <i>Idylls from the Sanskrit</i>.
+
+305 Fire for sacrificial purposes is produced by the attrition of two pieces of wood.306 Kaikeyí.
+
+307 The chapel where the sacred fire used in worship is kept.
+
+308 The students and teachers of the Taittiríya portion of the Yajur Veda.
+
+309 Two of the divine personages called <i>Prajápatis</i> and <i>Brahmádikas</i> who were first created by Brahmá.
+
+310 It was the custom of the kings of the solar dynasty to resign in their extreme old age the kingdom to the heir, and spend the remainder of their days in holy meditation in the forest:
+
+“For such through ages in their life’s decline
+Is the good custom of Ikshváku’s line.”
+
+<i>Raghuraṅśa.</i>
+
+311 See Book I, Canto XXXIX. An Indian prince in more modern times appears to have diverted himself in a similar way.
+
+It is still reported in Belgaum that Appay Deasy was wont to amuse himself “by making several young and beautiful women stand side by side on a narrow balcony, without a parapet, overhanging the deep reservoir at the new palace in Nipani.He used then to pass along the line of trembling creatures, and suddenly thrusting one of them headlong into the water below, he used to watch her drowning, and derive pleasure from her dying agonies.”—History of the Belgaum District. By H. J. Stokes, M. S. C.
+
+312 Chitraratha, King of the celestial choristers.
+
+313 It is said that the bamboo dies after flowering.
+
+314 “Thirty centuries have passed since he began this memorable journey. Every step of it is known and is annually traversed by thousands: hero worship is not extinct. What can Faith do! How strong are the ties of religion when entwined with the legends of a country! How many a cart creeps creaking and weary along the road from Ayodhyá to Chitrakúṭ. It is this that gives the Rámáyan a strange interest, the story still lives.” <i>Calcutta Review: Vol. XXIII.</i>
+
+315 See p. 72.
+
+316 Four stars of the sixteenth lunar asterism.
+
+317 In the marriage service.
+
+318 The husks and chaff of the rice offered to the Gods.
+
+319 An important sacrifice at which seventeen victims were immolated.320 The great pilgrimage to the Himálayas, in order to die there.
+
+321 Known to Europeans as the Goomtee.
+
+322 A tree, commonly called <i>Ingua</i>.
+
+323 Sacrificial posts to which the victims were tied.
+
+324 Daughter of Jahnu, a name of the Ganges. See p. 55.
+
+325 The <i>Mainá</i> or Gracula religiosa, a favourite cage-bird, easily taught to talk.
+
+326 The Jumna.
+
+327 The Hindu name of Allahabad.
+
+328 The Langúr is a large monkey.
+
+329 A mountain said to lie to the east of Meru.
+
+330 Another name of the Jumna, daughter of the Sun.
+
+331 “We have often looked on that green hill: it is the holiest spot of that sect of the Hindu faith who devote themselves to this incarnation of Vishṇu. The whole neighbourhood is Ráma’s country.Every headland has some legend, every cavern is connected with his name; some of the wild fruits are still called <i>Sítáphal</i>, being the reputed food of the exile. Thousands and thousands annually visit the spot, and round the hill is a raised foot-path, on which the devotee, with naked feet, treads full of pious awe.” <i>Calcutta Review</i>, Vol. XXIII.
+
+332 Deities of a particular class in which five or ten are enumerated. They are worshipped particularly at the funeral obsequies in honour of deceased progenitors.
+
+333 “So in Homer the horses of Achilles lamented with many bitter tears the death of Patroclus slain by Hector:”
+
+“Ἵπποι δ’ Αἰακίδαο, μάχης ἀπάνευθεν ἐότες,
+Κλᾶιον, ἐπειδὴ πρῶτα πυθέσθην ἡνιόχοιο
+Ἐν κονίνσι πεσόντος ὑφ’ Ἕκτορος ἀνδροφόνοιο”
+
+ILIAD. XVII. 426.
+
+“Ancient poesy frequently associated nature with the joys and sorrows of man.” GORRESIO.
+
+334 The lines containing this heap of forced metaphors are marked as spurious by Schlegel.335 The southern region is the abode of Yama the Indian Pluto, and of departed spirits.
+
+336 The five elements of which the body consists, and to which it returns.
+
+337 So dying York cries over the body of Suffolk:
+
+    “Tarry, dear cousin Suffolk!
+My soul shall thine keep company to heaven:
+Tarry, sweet soul, for mine, then fly abreast.”
+
+<i>King Henry V, Act IV, 6.</i>
+
+338 Kauśalyá, daughter of the king of another Kośal.
+
+339 Rájagriha, or Girivraja was the capital of Aśvapati, Bharat’s maternal grandfather.
+
+340 The Kekayas or Kaikayas in the Punjab appear amongst the chief nations in the war of the Mahábhárata; their king being a kinsman of Krishṇa.
+
+341 Hástinapura was the capital of the kingdom of Kuru, near the modern Delhi.
+
+342 The Panchálas occupied the upper part of the Doab.343 “Kurujángala and its inhabitants are frequently mentioned in the <i>Mahábhárata</i>, as in the <i>Ádi-parv.</i> 3789, 4337, <i>et al.</i>” WILSON’S <i>Vishṇu Puráṇa,</i> Vol. II. p. 176. DR. HALL’S Note.
+
+344 “The Ὁξύματις of Arrian. See <i>As. Res.</i> Vol. XV. p. 420, 421, also <i>Indische Alterthumskunde</i>, Vol. I. p. 602, first footnote.” WILSON’S <i>Vishṇu Puráṇa</i>, Vol. I. p. 421. DR. HALL’S Edition. The Ikshumatí was a river in Kurukshetra.
+
+345 “The Báhíkas are described in the Mahábhárata, Karṇa Parvan, with some detail, and comprehend the different nations of the Punjab from the Sutlej to the Indus.” WILSON’S <i>Vishṇu Puráṇa</i>, Vol. I. p. 167.
+
+346 The Beas, Hyphasis, or Bibasis.
+
+347 It would be lost labour to attempt to verify all the towns and streams mentioned in Cantos LXVIII and LXXII. Professor Wilson observes (<i>Vishṇu Puráṇa</i>, p. 139. Dr. Hall’s Edition) “States, and tribes, and cities have disappeared, even from recollection; and some of the natural features of the country, especially the rivers, have undergone a total alteration.… Notwithstanding these impediments, however, we should be able to identify at least mountains and rivers, to a much greater extent than is now practicable, if our maps were not so miserably defective in their nomenclature. None of our surveyors or geographers have been oriental scholars. It may be doubted if any of them have been conversant with the spoken language of the country.They have, consequently, put down names at random, according to their own inaccurate appreciation of sounds carelessly, vulgarly, and corruptly uttered; and their maps of India are crowded with appellations which bear no similitude whatever either to past or present denominations. We need not wonder that we cannot discover Sanskrit names in English maps, when, in the immediate vicinity of Calcutta, Barnagore represents Baráhanagar, Dakshineśwar is metamorphosed into Duckinsore, Ulubaría into Willoughbury.… There is scarcely a name in our Indian maps that does not afford proof of extreme indifference to accuracy in nomenclature, and of an incorrectness in estimating sounds, which is, in some degree, perhaps, a national defect.”
+
+For further information regarding the road from Ayodhyá to Rájagriha, see <i>Additional Notes</i>.
+
+348 “The Śatadrú, ‘the hundred-channeled’—the Zaradrus of Ptolemy, Hesydrus of Pliny—is the Sutlej.” WILSON’S <i>Vishṇu Puráṇa</i>, Vol. II. p. 130.
+
+349 The Sarasvatí or Sursooty is a tributary of the Caggar or Guggur in Sirhind.
+
+_ 350 Súryamcha pratimehatu_, adversus solem mingat. An offence expressly forbidden by the Laws of Manu.
+
+351 Bharat does not intend these curses for any particular person: he merely wishes to prove his own innocence by invoking them on his own head if he had any share in banishing Ráma.352 The Sáma-veda, the hymns of which are chanted aloud.
+
+353 Walking from right to left.
+
+354 Birth and death, pleasure and pain, loss and gain.
+
+355 Erected upon a tree or high staff in honour of Indra.
+
+356 I follow in this stanza the Bombay edition in preference to Schlegel’s which gives the tears of joy to the courtiers.
+
+357 The commentator says “Śatrughna accompanied by the other sons of the king.”
+
+358 Not Bharat’s uncle, but some councillor.
+
+_ 359 Śatakratu_, Lord of a hundred sacrifices, the performance of a hundred <i>Aśvamedhas</i> or sacrifices of a horse entitling the sacrificer to this exalted dignity.
+
+360 The modern Malabar.
+
+361 Now Sungroor, in the Allahabad district.
+
+362 Ráma, Lakshmaṇ, and Sumantra.363 The <i>svastika</i>, a little cross with a transverse line at each extremity.
+
+364 When an army marched it was customary to burn the huts in which it had spent the night.
+
+365 Yáma, Varuṇa, and Kuvera.
+
+366 “A happy land in the remote north where the inhabitants enjoy a natural pefection attended with complete happiness obtained without exertion. There is there no vicissitude, nor decrepitude, nor death, nor fear: no distinction of virtue and vice, none of the inequalities denoted by the words best, worst, and intermediate, nor any change resulting from the succession of the four Yugas.” See MUIR’S <i>Sanskrit Texts</i>, Vol. I. p. 492.
+
+367 The Moon.
+
+368 The poet does not tell us what these lakes contained.
+
+369 These ten lines are a substitution for, and not a translation of the text which Carey and Marshman thus render: “This mountain adorned with mango, jumboo, usuna, lodhra, piala, punusa, dhava, unkotha, bhuvya, tinisha, vilwa, tindooka, bamboo, kashmaree, urista, uruna, madhooka, tilaka, vuduree, amluka, nipa, vetra, dhunwuna, veejaka, and other trees affording flowers, and fruits, and the most delightful shade, how charming does it appear!”
+
+_ 370 Vidyadharis_, Spirits of Air, sylphs.371 A lake attached either to Amarávatí the residence of Indra, or Alaká that of Kuvera.
+
+372 The Ganges of heaven.
+
+373 Naliní, as here, may be the name of any lake covered with lotuses.
+
+374 This canto is allowed, by Indian commentators, to be an
+    interpolation. It cannot be the work of Válmíki.
+
+375 A fine bird with a strong, sweet note, and great imitative powers.
+
+376 Bauhinea variegata, a species of ebony.
+
+377 The rainbow is called the bow of Indra.
+
+378 Bhogavatí, the abode of the Nágas or Serpent race.
+
+379 “The order of the procession on these occasions is that the children precede according to age, then the women and after that the men according to age, the youngest first and the eldest last: when they descend into the water this is reversed and resumed when they come out of it.” CAREY AND MARSHMAN.
+
+380 Vṛihaspati, the preceptor of the Gods.
+
+381 Garuḍ, the king of birds.382 To be won by virtue.
+
+383 The four religious orders, referable to different times of life are, that of the student, that of the householder, that of the anchorite, and that of the mendicant.
+
+384 To Gods, men, and Manes.
+
+385 Gayá is a very holy city in Behar. Every good Hindu ought once in his life to make funeral offerings in Gayá in honour of his ancestors.
+
+_ 386 Put_ is the name of that region of hell to which men are doomed who leave no son to perform the funeral rites which are necessary to assure the happiness of the departed. <i>Putra</i>, the common word for a son is said by the highest authority to be derived from <i>Put</i> and <i>tra</i> deliverer.
+
+387 It was the custom of Indian women when mourning for their absent husbands to bind their hair in a long single braid.
+
+Carey and Marshman translate, “the one-tailed city.”
+
+388 The verses in a different metre with which some cantos end are all to be regarded with suspicion. Schlegel regrets that he did not exclude them all from his edition. These lines are manifestly spurious. See <i>Additional Notes</i>.389 This genealogy is a repetition with slight variation of that given in Book I, Canto LXX.
+
+390 In Gorresio’s recension identified with Vishṇu. See Muir’s <i>Sanskrit Texts, Vol. IV. pp 29, 30</i>.
+
+391 From <i>sa</i> with, and <i>gara</i> poison.
+
+392 See Book I. Canto XL.
+
+393 A practice which has frequently been described, under the name of <i>dherna</i>, by European travellers in India.
+
+394 Compare Milton’s “<i>beseeching or beseiging</i>.”
+
+395 Ten-headed, ten-necked, ten faced, are common epithets of Rávaṇ the giant king of Lanká.
+
+396 The spouse of Rohiṇí is the Moon: Ráhu is the demon who causes eclipses.
+
+397 “Once,” says the Commentator Tírtha, “in the battle between the Gods and demons the Gods were vanquished, and the sun was overthrown by Ráhu. At the request of the Gods Atri undertook the management of the sun for a week.”
+
+398 Now Nundgaon, in Oudh.399 A part of the great Daṇḍak forest.
+
+400 When the saint Máṇḍavya had doomed some saint’s wife, who was Anasúyá’s friend, to become a widow on the morrow.
+
+401 Heavenly nymphs.
+
+402 The <i>ball</i> or present of food to all created beings.
+
+403 The clarified butter &c. cast into the sacred fire.
+
+404 The Moon-God: “he is,” says the commentator, “the special deity of Bráhmans.”
+
+405 “Because he was an incarnation of the deity,” says the commentator, “otherwise such honour paid by men of the sacerdotal caste to one of the military would be improper.”
+
+406 The king of birds.
+
+_ 407 Kálántakayamopamam_, resembling Yáma the destroyer.
+
+408 Somewhat inconsistently with this part of the story Tumburu is mentioned in Book II, Canto XII as one of the Gandharvas or heavenly minstrels summoned to perform at Bharadvája’s feast.409 Rambhá appears in Book I Canto LXIV as the temptress of Viśvámitra.
+
+410 The conclusion of this Canto is all a vain repetition: it is manifestly spurious and a very feeble imitation of Válmíki’s style. See <i>Additional Notes</i>.
+
+411 “Even when he had alighted,” says the commentator: The feet of Gods do not touch the ground.
+
+412 A name of Indra.
+
+413 Śachí is the consort of Indra.
+
+414 The spheres or mansions gained by those who have duly performed the sacrifices required of them. Different situations are assigned to these spheres, some placing them near the sun, others near the moon.
+
+415 Hermits who live upon roots which they dig out of the earth: literally <i>diggers</i>, derived from the prefix <i>vi</i> and <i>khan</i> to dig.
+
+416 Generally, divine personages of the height of a man’s thumb, produced from Brahmá’s hair: here, according to the commentator followed by Gorresio, hermits who when they have obtained fresh food throw away what they had laid up before.
+
+417 Sprung from the washings of Vishṇuu’s feet.418 Four fires burning round them, and the sun above.
+
+419 The tax allowed to the king by the Laws of Manu.
+
+420 Near the celebrated Rámagiri or Ráma’s Hill, now Rám-ṭek, near Nagpore—the scene of the Yaksha’s exile in the <i>Messenger Cloud</i>.
+
+421 A hundred <i>Aśvamedhas</i> or sacrifices of a horse raise the sacrificer to the dignity of Indra.
+
+422 Indra.
+
+423 Gorresio observes that Daśaratha was dead and that Sítá had been informed of his death. In his translation he substitutes for the words of the text “thy relations and mine.” This is quite superfluous. Daśaratha though in heaven still took a loving interest in the fortunes of his son.
+
+424 One of the hermits who had followed Ráma.
+
+425 The lake of the five nymphs.
+
+426 The holy fig-tree.
+
+427 The bread-fruit tree, Artocarpus integrifolia.
+
+428 A fine timber tree, Shorea robusta.429 The God of fire.
+
+430 Kuvera, the God of riches.
+
+431 The Sun.
+
+432 Brahmá, the creator.
+
+433 Śiva.
+
+434 The Wind-God.
+
+435 The God of the sea.
+
+436 A class of demi-gods, eight in number.
+
+437 The holiest text of the Vedas, deified.
+
+438 Vásuki.
+
+439 Garuḍ.
+
+440 The War-God.
+
+441 One of the Pleiades generally regarded as the model of wifely excellence.442 The Madhúka, or, as it is now called, Mahuwá, is the Bassia latifolia, a tree from whose blossoms a spirit is extracted.
+
+443 “I should have doubted whether Manu could have been the right reading here, but that it occurs again in verse 29, where it is in like manner followed in verse 31 by Analá, so that it would certainly seem that the name Manu is intended to stand for a female, the daughter of Daksha. The Gauḍa recension, followed by Signor Gorresio (III 20, 12), adopts an entirely different reading at the end of the line, viz. <i>Balám Atibalám api</i>, ‘Balá and Atibilá,’ instead of Manu and Analá. I see that Professor Roth s.v. adduces the authority of the Amara Kosha and of the Commentator on Páṇini for stating that the word sometimes means ‘the wife of Manu.’ In the following text of the Mahábhárata I. 2553. also, Manu appears to be the name of a female: ‘<i>Anaradyam</i>, <i>Manum</i>, <i>Vañsám</i>, <i>Asurám</i>, <i>Márgaṇapriyám</i>, <i>Anúpám</i>, <i>Subhagám</i>, <i>Bhásím iti</i>, <i>Prádhá vyajayata</i>. Prádhá (daughter of Daksha) bore Anavadyá, Manu, Vanśá, Márgaṇapriyá, Anúpá, Subhagá. and Bhásí.’ ” <i>Muir’s Sanskrit Text</i>, Vol. I. p. 116.
+
+444 The elephant of Indra.
+
+_ 445 Golángúlas_, described as a kind of monkey, of a black colour, and having a tail like a cow.
+
+446 Eight elephants attached to the four quarters and intermediate points of the compass, to support and guard the earth.
+
+447 Some scholars identify the centaurs with the Gandharvas.448 The hooded serpents, says the commentator Tírtha, were the offspring of Surasá: all others of Kadrú.
+
+449 The text reads Kaśyapa, “a descendant of Kaśyapa,” who according to Rám. II. l0, 6, ought to be Vivasvat. But as it is stated in the preceding part of this passage III. 14, 11 f. that Manu was one of Kaśyapa’s eight wives, we must here read Kaśyap. The Ganda recension reads (III, 20, 30) <i>Manur manushyáms cha tatha janayámása Rághana</i>, instead of the corresponding line in the Bombay edition. <i>Muir’s Sanskrit Text, Vol I, p. 117.</i>
+
+450 The original verses merely name the trees. I have been obliged to amplify slightly and to omit some quas versu dicere non est; <i>e.g.</i> the <i>tiniśa</i> (Dalbergia ougeiniensis), <i>punnága</i> (Rottleria tinctoria), <i>tilaka</i> (not named), <i>syandana</i> (Dalbergia ougeiniensis again), <i>vandana</i> (unknown), <i>nípa</i> (Nauclea Kadamba), <i>lakucha</i> (Artœarpus lacucha), <i>dhava</i> (Grislea tomentosa), Aśvakarna (another name for the Sál), <i>Śamí</i> (Acacia Suma), <i>khadira</i> (Mimosa catechu), <i>kinśuka</i> (Butea frondosa), <i>pátala</i> (Bignonia suaveolens).
+
+451 Acacia Suma.
+
+452 The south is supposed to be the residence of the departed.
+
+453 The sun.
+
+454 The night is divided into three watches of four hours each.455 The chief chamberlain and attendant of Śiva or Rudra.
+
+456 Umá or Párvati, the consort of Śiva.
+
+457 A star, one of the favourites of the Moon.
+
+458 The God of love.
+
+459 A demon slain by Indra.
+
+460 Chitraratha, King of the Gandharvas.
+
+461 Titanic.
+
+462 The Sáriká is the Maina, a bird like a starling.
+
+463 Mahákapála, Sthúláksha, Pramátha, Triśiras.
+
+464 Vishṇu, who bears a <i>chakra</i> or discus.
+
+465 Śiva.
+
+466 See <i>Additional Notes</i>—DAKSHA’S SACRIFICE.
+
+467 Himálaya.468 One of the mysterious weapons given to Ráma.
+
+469 A periphrasis for the body.
+
+470 Triśirás.
+
+471 The Three-headed.
+
+472 The demon who causes eclipses.
+
+473 “This Asura was a friend of Indra, and taking advantage of his friend’s confidence, he drank up Indra’s strength along with a draught of wine and Soma. Indra then told the Aśvins and Sarasvatí that Namuchi had drunk up his strength. The Aśvins in consequence gave Indra a thunderbolt in the form of a foam, with which he smote off the head of Namuchi.” GARRETT’S <i>Classical Dictionary of India</i>. See also Book I. p. 39.
+
+474 Indra.
+
+475 Popularly supposed to cause death.
+
+476 Garuḍ, the King of Birds, carried off the Amrit or drink of Paradise from Indra’s custody.
+
+477 A demon, son of Kaśyap and Diti, slain by Rudra or Śiva when he attempted to carry off the tree of Paradise.478 Namuchi and Vritra were two demons slain by Indra. Vritra personifies drought, the enemy of Indra, who imprisons the rain in the cloud.
+
+479 Another demon slain by Indra.
+
+480 The capital of the giant king Rávaṇ.
+
+481 Kuvera, the God of gold.
+
+482 In the great deluge.
+
+483 The giant Márícha, son of Táḍaká. Táḍaká was slain by Ráma. See p. 39.
+
+484 Indra’s elephant.
+
+485 Bhogavatí, in Pátála in the regions under the earth, is the capital of the serpent race whose king is Vásuki.
+
+486 the grove of Indra.
+
+487 Pulastya is considered as the ancestor of the Rakshases or giants, as he is the father of Viśravas, the father of Rávaṇ and his brethren.
+
+488 Beings with the body of a man and the head of a horse.489 Ájas, Maríchipas, Vaikhánasas, Máshas, and Bálakhilyas are classes of supernatural beings who lead the lives of hermits.
+
+490 “The younger brother of the giant Rávaṇ; when he and his brother had practiced austerities for a long series of years, Brahmá appeared to offer them boons: Vibhishaṇa asked that he might never meditate any unrighteousness.… On the death of Rávaṇ Vibhishaṇa was installed as Rája of Lanká.” GARRETT’S <i>Classical Dictionary of India</i>.
+
+491 Serpent-gods.
+
+492 See p. 33.
+
+493 The Sanskrit words for car and jewels begin with <i>ra</i>.
+
+494 A race of beings of human shape but with the heads of horses, like centaurs reversed.
+
+495 The favourite wife of the Moon.
+
+496 The planet Saturn.
+
+497 Another favourite of the Moon; one of the lunar mansions.
+
+498 The Rudras, agents in creation, are eight in number; they sprang from the forehead of Brahmá.499 Maruts, the attendants of Indra.
+
+500 Radiant demi-gods.
+
+501 The mountain which was used by the Gods as a churning stick at the Churning of the Ocean.
+
+502 The story will be found in GARRETT’S <i>Classical Dictionary</i>. See ADDITIONAL NOTES.
+
+503 Mercury: to be carefully distinguished from Buddha.
+
+504 The spirits of the good dwell in heaven until their store of accumulated merit is exhausted. Then they redescend to earth in the form of falling stars.
+
+505 See The Descent of Gangá, Book I Canto XLIV.
+
+506 See Book I Canto XXV.
+
+_ 507 Aśoka_ is compounded of <i>a</i> not and <i>śoka</i> grief.
+
+508 See Book I Canto XXXI.
+
+509 An Asur or demon, king of Tripura, the modern Tipperah.
+
+510 Śiva.511 See Book I, Canto LIX.
+
+512 The preceptor of the Gods.
+
+513 From the root <i>vid</i>, to find.
+
+514 Rávaṇ.
+
+515 Or Curlews’ Wood.
+
+516 Iron-faced.
+
+517 Kabandha means a trunk.
+
+518 A class of mythological giants. In the Epic period they were probably personifications of the aborigines of India.
+
+519 Peace, war, marching, halting, sowing dissensions, and seeking protection.
+
+520 See Book I, Canto XVI.
+
+521 Or as the commentator Tírtha says, Śilápidháná, rock-covered, may be the name of the cavern.
+
+522 Pampá is said by the commentator to be the name both of a lake and a brook which flows into it. The brook is said to rise in the hill Rishyamúka.523 Who was acting as Regent for Ráma and leading an ascetic life while he mourned for his absent brother.
+
+524 The Indian Cuckoo.
+
+525 The Cassia Fistula or Amaltás is a splendid tree like a giant laburnum covered with a profusion of chains and tassels of gold. Dr. Roxburgh well describes it as “uncommonly beautiful when in flower, few trees surpassing it in the elegance of its numerous long pendulous racemes of large bright-yellow flowers intermixed with the young lively green foliage.” It is remarkable also for its curious cylindrical black seed-pods about two feet long, which are called monkeys’ walking-sticks.
+
+526 “The Jonesia Asoca is a tree of considerable size, native of southern India. It blossoms in February and March with large erect compact clusters of flowers, varying in colour from pale-orange to scarlet, almost to be mistaken, on a hasty glance, for immense trusses of bloom of an Ixora. Mr. Fortune considered this tree, when in full bloom, superior in beauty even to the Amherstia.
+
+The first time I saw the Asoc in flower was on the hill where the famous rock-cut temple of Kárlí is situated, and a large concourse of natives had assembled for the celebration of some Hindoo festival. Before proceeding to the temple the Mahratta women gathered from two trees, which were flowering somewhat below, each a fine truss of blossom,and inserted it in the hair at the back of her head.… As they moved about in groups it is impossible to imagine a more delightful effect than the rich scarlet bunches of flowers presented on their fine glossy jet-black hair.” FIRMINGER, <i>Gardening for India</i>.
+
+527 No other word can express the movements of peafowl under the influence of pleasing excitement, especially when after the long drought they hear the welcome roar of the thunder and feel that the rain is near.
+
+528 The Dewy Season is one of the six ancient seasons of the Indian year, lasting from the middle of January to the middle of March.
+
+529 Ráma appears to mean that on a former occasion a crow flying high overhead was an omen that indicated his approaching separation from Sítá; and that now the same bird’s perching on a tree near him may be regarded as a happy augury that she will soon be restored to her husband.
+
+530 A tree with beautiful and fragrant blossoms.
+
+531 A race of semi-divine musicians attached to the service of Kuvera, represented as centaurs reversed with human figures and horses’ heads.
+
+532 Butea Frondosa. A tree that bears a profusion of brilliant red flowers which appear before the leaves.533 I omit five <i>ślokas</i> which contain nothing but a list of trees for which, with one or two exceptions, there are no equivalent names in English. The following is Gorresio’s translation of the corresponding passage in the Bengal recension:—
+
+“Oh come risplendono in questa stagione di primavera i vitici, le galedupe, le bassie, le dalbergie, i diospyri … le tile, le michelie, le rottlerie, le pentaptere ed i pterospermi, i bombaci, le grislee, gli abri, gli amaranti e le dalbergie; i sirii, le galedupe, le barringtonie ed i palmizi, i xanthocymi, il pepebetel, le verbosine e le ticaie, le nauclee le erythrine, gli asochi, e le tapie fanno d’ogni intorno pompa de’ lor fiori.”
+
+534 A sacred stream often mentioned in the course of the poem. See Book II, Canto XCV.
+
+535 A daughter of Daksha who became one of the wives of Kaśyapa and mother of the Daityas. She is termed the general mother of Titans and malignant beings. See Book I Cantos XLV, XLVI.
+
+536 Sugríva, the ex-king of the Vánars, foresters, or monkeys, an exile from his home, wandering about the mountain Rishyamúka with his four faithful ex-ministers.
+
+537 The hermitage of the Saint Matanga which his curse prevented Báli, the present king of the Vánars, from entering. The story is told at length in Canto XI of this Book.538 Hanumán, Sugríva’s chief general, was the son of the God of Wind. See Book I, Canto XVI.
+
+539 A range of hills in Malabar; the Western Ghats in the Deccan.
+
+540 Válmíki makes the second vowel in this name long or short to suit the exigencies of the verse. Other Indian poets have followed his example, and the same licence will be used in this translation.
+
+541 I omit a recapitulatory and interpolated verse in a different metre, which is as follows:—Reverencing with the words, So be it, the speech of the greatly terrified and unequalled monkey king, the magnanimous Hanumán then went where (stood) the very mighty Ráma with Lakshmaṇ.
+
+542 The semi divine Hanumán possesses, like the Gods and demons, the power of wearing all shapes at will. He is one of the <i>Kámarúpís</i>.
+
+Like Milton’s good and bad angels “as they please
+  They limb themselves, and colour, shape, or size
+  Assume as likes them best, condense or rare.”
+
+543 Himálaya is of course <i>par excellence</i> the Monarch of mountains, but the complimentary title is frequently given to other hills as here to Malaya.
+
+544 Twisted up in a matted coil as was the custom of ascetics.545 The sun and moon.
+
+546 The rainbow.
+
+547 The Vedas are four in number, the Rich or Rig-veda, the Yajush or Yajur-veda; the Sáman or Sáma-veda, and the Atharvan or Atharva-veda. See p. 3. Note.
+
+548 The chest, the throat, and the head.
+
+549 “In our own metrical romances, or wherever a poem is meant not for readers but for chanters and oral reciters, these <i>formulæ</i>, to meet the same recurring case, exist by scores. Thus every woman in these metrical romances who happens to be young, is described as ‘so bright of ble,’ or complexion; always a man goes ‘the mountenance of a mile’ before he overtakes or is overtaken. And so on through a vast bead-roll of cases. In the same spirit Homer has his eternal τον δ’αρ’ ὑποδρα ιδων, or τον δ’απαμειβομενος προσφη, &c.
+
+To a reader of sensibility, such recurrences wear an air of child-like simplicity, beautifully recalling the features of Homer’s primitive age. But they would have appeared faults to all commonplace critics in literary ages.”
+
+DE QUINCEY. <i>Homer and the Homeridæ</i>.
+
+550 Bráhmans the sacerdotal caste. Kshatriyas the royal and military, Vaiśyas the mercantile, and Śúdras the servile.551 A protracted sacrifice extending over several days. See Book I, p. 24 Note.
+
+552 Possessed of all the auspicious personal marks that indicate capacity of universal sovereignty. See Book I. p. 2, and Note 3.
+
+553 Kabandha. See Book III. Canto LXXIII.
+
+554 Fire for sacred purposes is produced by the attrition of two pieces of wood. In marriage and other solemn covenants fire is regarded as the holy witness in whose presence the agreement is made. Spenser in a description of a marriage, has borrowed from the Roman rite what he calls the housling, or “matrimonial rite.”
+
+“His owne two hands the holy knots did knit
+That none but death forever can divide.
+His owne two hands, for such a turn most fit,
+The housling fire did kindle and provide.”
+
+Faery Queen, Book I. XII. 37.
+
+555 Indra.
+
+556 Báli the king <i>de facto</i>.557 With the Indians, as with the ancient Greeks, the throbbing of the right eye in a man is an auspicious sign, the throbbing of the left eye is the opposite. In a woman the significations of signs are reversed.
+
+558 The Vedas stolen by the demons Madhu and Kaiṭabha.
+
+“The text has [Sanskrit text] which signifies literally ‘the lost vedic tradition.’ It seems that allusion is here made to the Vedas submerged in the depth of the sea, but promptly recovered by Vishṇu in one of his incarnations, as the brahmanic legend relates, with which the orthodoxy of the Bráhmans intended perhaps to allude to the prompt restoration and uninterrupted continuity of the ancient vedic tradition.”
+
+GORRESIO.
+
+559 Like the wife of a Nága or Serpent-God carried off by an eagle. The enmity between the King of birds and the serpent is of very frequent occurrence. It seems to be a modification of the strife between the Vedic Indra and the Ahi, the serpent or drought-fiend; between Apollôn and the Python, Adam and the Serpent.
+
+560 He means that he has never ventured to raise his eyes to her arms and face, though he has ever been her devoted servant.
+
+561 The wood in which Skanda or Kártikeva was brought up:

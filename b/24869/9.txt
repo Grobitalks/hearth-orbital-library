@@ -1,0 +1,2012 @@
+HOLB1	24869	9	720	80	2635	150
+39	Canto II. Brahmá’s Visit
+46	Canto III. The Argument.
+53	Canto IV. The Rhapsodists.
+58	Canto V. Ayodhyá.
+62	Canto VI. The King.
+67	Canto VII. The Ministers.
+71	Canto VIII. Sumantra’s Speech.
+75	Canto IX. Rishyasring.
+86	Canto X. Rishyasring Invited.
+92	Canto XI. The Sacrifice Decreed.
+96	Canto XII. The Sacrifice Begun.
+102	Canto XIII. The Sacrifice Finished.
+111	Canto XIV. Rávan Doomed.
+118	Canto XV. The Nectar.
+122	Canto XVI. The Vánars.
+127	Canto XVII. Rishyasring’s Return.
+134	Canto XVIII. Rishyasring’s Departure.
+138	Canto XIX. The Birth Of The Princes.
+143	Canto XX. Visvámitra’s Visit.
+147	Canto XXI. Visvámitra’s Speech.
+151	Canto XXII. Dasaratha’s Speech.
+155	Canto XXIII. Vasishtha’s Speech.
+158	Canto XXIV. The Spells.
+162	Canto XXV. The Hermitage Of Love.
+166	Canto XXVI. The Forest Of Tádaká.
+171	Canto XXVII. The Birth Of Tádaká.
+174	Canto XXVIII. The Death Of Tádaká.
+180	Canto XXIX. The Celestial Arms.
+187	Canto XXXI. The Perfect Hermitage.
+191	Canto XXXII. Visvámitra’s Sacrifice.
+195	Canto XXXIII. The Sone.
+199	Canto XXXIV. Brahmadatta.
+207	Canto XXXV. Visvámitra’s Lineage.
+211	Canto XXXVI. The Birth Of Gangá.
+215	Canto XXXIX. The Sons Of Sagar.
+219	Canto XL. The Cleaving Of The Earth.
+223	Canto XLI. Kapil.
+227	Canto XLII. Sagar’s Sacrifice.
+231	Canto XLIII. Bhagírath.
+235	Canto XLIV. The Descent Of Gangá.
+244	Canto XLV. The Quest Of The Amrit.
+252	Canto XLVI. Diti’s Hope.
+254	Canto XLVII. Sumati.
+257	Canto XLVIII. Indra And Ahalyá
+262	Canto XLIX. Ahalyá Freed.
+264	Canto L. Janak.
+268	Canto LI. Visvámitra.
+272	Canto LII. Vasishtha’s Feast.
+276	Canto LIII. Visvámitra’s Request.
+280	Canto LIV. The Battle.
+284	Canto LV. The Hermitage Burnt.
+288	Canto LVI. Visvámitra’s Vow.
+292	Canto LVII. Trisanku.
+296	Canto LVIII. Trisanku Cursed.
+300	Canto LIX. The Sons Of Vasishtha.
+304	Canto LX. Trisanku’s Ascension.
+309	Canto LXI. Sunahsepha.
+313	Canto LXII. Ambarísha’s Sacrifice.
+317	Canto LXIII. Menaká.
+322	Canto LXIV. Rambhá.
+325	Canto LXV. Visvámitra’s Triumph
+331	Canto LXVI. Janak’s Speech.
+335	Canto LXVII. The Breaking Of The Bow.
+339	Canto LXVIII. The Envoys’ Speech.
+342	Canto LXIX. Dasaratha’s Visit.
+345	Canto LXX. The Maidens Sought.
+352	Canto LXXI. Janak’s Pedigree.
+356	Canto LXXII. The Gift Of Kine.
+359	Canto LXXIII. The Nuptials.
+368	Canto LXXV. The Parle.
+373	Canto LXXVI. Debarred From Heaven.
+377	Canto LXXVII. Bharat’s Departure.
+381	Canto I. The Heir Apparent.
+387	Canto II. The People’s Speech.
+393	Canto III. Dasaratha’s Precepts.
+401	Canto IV. Ráma Summoned.
+408	Canto V. Ráma’s Fast.
+412	Canto VI. The City Decorated.
+417	Canto VII. Manthará’s Lament.
+422	Canto VIII. Manthará’s Speech.
+428	Canto IX. The Plot.
+437	Canto X. Dasaratha’s Speech.
+444	Canto XI. The Queen’s Demand.
+448	Canto XII. Dasaratha’s Lament.
+465	Canto XIII. Dasaratha’s Distress.
+468	Canto XIV. Ráma Summoned.
+478	Canto XV. The Preparations.
+486	Canto XVI. Ráma Summoned.
+493	Canto XVII. Ráma’s Approach.
+496	Canto XVIII. The Sentence.
+503	Canto XIX. Ráma’s Promise.
+510	Canto XX. Kausalyá’s Lament.
+518	Canto XXI. Kausalyá Calmed.
+528	Canto XXII. Lakshman Calmed.
+533	Canto XXIII. Lakshman’s Anger.
+540	Canto XXIV. Kausalyá Calmed.
+546	Canto XXV. Kausalyá’s Blessing.
+554	Canto XXVI. Alone With Sítá.
+560	Canto XXVII. Sítá’s Speech.
+564	Canto XXVIII. The Dangers Of The Wood.
+568	Canto XXIX. Sítá’s Appeal.
+572	Canto XXX. The Triumph Of Love.
+580	Canto XXXI. Lakshman’s Prayer.
+586	Canto XXXII. The Gift Of The Treasures.
+593	Canto XXXIII. The People’s Lament.
+598	Canto XXXIV. Ráma In The Palace.
+607	Canto XXXV. Kaikeyí Reproached.
+612	Canto XXXVI. Siddhárth’s Speech.
+617	Canto XXXVII. The Coats Of Bark.
+622	Canto XXXVIII. Care For Kausalyá
+626	Canto XXXIX. Counsel To Sítá.
+633	Canto XL. Ráma’s Departure.
+641	Canto XLI. The Citizens’ Lament.
+644	Canto XLII. Dasaratha’s Lament.
+649	Canto XLIII. Kausalyá’s Lament.
+653	Canto XLIV. Sumitrá’s Speech.
+657	Canto XLV. The Tamasá.
+663	Canto XLVI. The Halt.
+669	Canto XLVII. The Citizens’ Return.
+672	Canto XLVIII. The Women’s Lament.
+677	Canto XLIX. The Crossing Of The Rivers.
+686	Canto LI. Lakshman’s Lament.
+690	Canto LII. The Crossing Of Gangá.
+706	Canto LIII. Ráma’s Lament.
+712	Canto LIV. Bharadvája’s Hermitage.
+719	Canto LV. The Passage Of Yamuná.
+724	Canto LVI. Chitrakúta
+730	Canto LVII. Sumantra’s Return.
+735	Canto LVIII. Ráma’s Message.
+741	Canto LIX. Dasaratha’s Lament.
+747	Canto LX. Kausalyá Consoled.
+751	Canto LXI. Kausalyá’s Lament.
+755	Canto LXII. Dasaratha Consoled.
+758	Canto LXIII. The Hermit’s Son.
+766	Canto LXIV. Dasaratha’s Death.
+778	Canto LXV. The Women’s Lament.
+783	Canto LXVI. The Embalming.
+787	Canto LXVII. The Praise Of Kings.
+793	Canto LXVIII. The Envoys.
+797	Canto LXIX. Bharat’s Dream.
+801	Canto LXX. Bharat’s Departure.
+806	Canto LXXI. Bharat’s Return.
+813	Canto LXXII. Bharat’s Inquiry.
+822	Canto LXXIII. Kaikeyí Reproached.
+826	Canto LXXIV. Bharat’s Lament.
+831	Canto LXXV. The Abjuration.
+838	Canto LXXVI. The Funeral.
+842	Canto LXXVII. The Gathering Of The Ashes.
+847	Canto LXXVIII. Manthará Punished.
+851	Canto LXXIX. Bharat’s Commands.
+Sítá, revere that holy shade:
+There be thy prayers for blessing prayed.
+Thence for a league your way pursue,
+And a dark wood shall meet your view,
+Where tall bamboos their foliage show,
+The Gum-tree and the Jujube grow.
+To Chitrakúṭa have I oft
+Trodden that path so smooth and soft,
+Where burning woods no traveller scare,
+But all is pleasant, green, and fair.”
+
+  When thus the guests their road had learned,
+Back to his cot the hermit turned,
+And Ráma, Lakshmaṇ, Sítá paid
+Their reverent thanks for courteous aid.
+Thus Ráma spake to Lakshmaṇ, when
+The saint had left the lords of men:
+“Great store of bliss in sooth is ours
+On whom his love the hermit showers.”
+As each to other wisely talked,
+The lion lords together walked
+On to Kálindí’s woody shore;
+And gentle Sítá went before.
+They reached that flood, whose waters flee
+With rapid current to the sea;
+Their minds a while to thought they gaveAnd counselled how to cross the wave.
+At length, with logs together laid,
+A mighty raft the brothers made.
+Then dry bamboos across were tied,
+And grass was spread from side to side.
+And the great hero Lakshmaṇ brought
+Cane and Rose-Apple boughs and wrought,
+Trimming the branches smooth and neat,
+For Sítá’s use a pleasant seat.
+And Ráma placed thereon his dame
+Touched with a momentary shame,
+Resembling in her glorious mien
+All-thought-surpassing Fortune’s Queen.
+Then Ráma hastened to dispose,
+Each in its place, the skins and bows,
+And by the fair Videhan laid
+The coats, the ornaments, and spade.
+When Sítá thus was set on board,
+And all their gear was duly stored,
+The heroes each with vigorous hand,
+Pushed off the raft and left the land.
+When half its way the raft had made,
+Thus Sítá to Kálindí prayed:
+“Goddess, whose flood I traverse now,
+Grant that my lord may keep his vow.For thee shall bleed a thousand kine,
+A hundred jars shall pour their wine,
+When Ráma sees that town again
+Where old Ikshváku’s children reign.”
+
+  Thus to Kálindí’s stream she sued
+And prayed in suppliant attitude.
+Then to the river’s bank the dame,
+Fervent in supplication, came.
+They left the raft that brought them o’er,
+And the thick wood that clothed the shore,
+And to the Fig-tree Śyáma made
+Their way, so cool with verdant shade.
+Then Sítá viewed that best of trees,
+And reverent spake in words like these:
+“Hail, hail, O mighty tree! Allow
+My husband to complete his vow;
+Let us returning, I entreat,
+Kauśalyá and Sumitrá meet.”
+Then with her hands together placed
+Around the tree she duly paced.
+When Ráma saw his blameless spouse
+A suppliant under holy boughs,
+The gentle darling of his heart,
+He thus to Lakshmaṇ spake apart:
+“Brother, by thee our way be led;Let Sítá close behind thee tread:
+I, best of men, will grasp my bow,
+And hindmost of the three will go.
+What fruits soe’er her fancy take,
+Or flowers half hidden in the brake,
+For Janak’s child forget not thou
+To gather from the brake or bough.”
+
+  Thus on they fared. The tender dame
+Asked Ráma, as they walked, the name
+Of every shrub that blossoms bore,
+Creeper, and tree unseen before:
+And Lakshmaṇ fetched, at Sítá’s prayer,
+Boughs of each tree with clusters fair.
+Then Janak’s daughter joyed to see
+The sand-discoloured river flee,
+Where the glad cry of many a bird,
+The sáras and the swan, was heard.
+A league the brothers travelled through
+The forest noble game they slew:
+Beneath the trees their meal they dressed
+And sat them down to eat and rest.
+A while in that delightful shade
+Where elephants unnumbered strayed,
+Where peacocks screamed and monkeys played,
+They wandered with delight.Then by the river’s side they found
+A pleasant spot of level ground,
+Where all was smooth and fair around,
+  Their lodging for the night.
+
+<b>Canto LVI. Chitrakúta</b>
+
+Then Ráma, when the morning rose,
+Called Lakshmaṇ gently from repose:
+“Awake, the pleasant voices hear
+Of forest birds that warble near.
+Scourge of thy foes, no longer stay;
+The hour is come to speed away.”
+
+  The slumbering prince unclosed his eyes
+When thus his brother bade him rise,
+Compelling, at the timely cry,
+Fatigue, and sleep, and rest to fly.
+The brothers rose and Sítá too;
+Pure water from the stream they drew,
+Paid morning rites, then followed still
+The road to Chitrakúṭa’s hill.
+Then Ráma as he took the road
+With Lakshmaṇ, while the morning, glowed,
+To the Videhan lady cried,
+Sítá the fair, the lotus-eyed:“Look round thee, dear; each flowery tree
+Touched with the fire of morning see:
+The Kinśuk, now the Frosts are fled,—
+How glorious with his wreaths of red!
+The Bel-trees see, so loved of men,
+Hanging their boughs in every glen.
+O’erburthened with their fruit and flowers:
+A plenteous store of food is ours.
+  See, Lakshmaṇ, in the leafy trees,
+    Where’er they make their home.
+  Down hangs, the work of labouring bees
+    The ponderous honeycomb.
+  In the fair wood before us spread
+    The startled wild-cock cries:
+  Hark, where the flowers are soft to tread,
+    The peacock’s voice replies.
+  Where elephants are roaming free,
+    And sweet birds’ songs are loud,
+  The glorious Chitrakúṭa see:
+    His peaks are in the cloud.
+  On fair smooth ground he stands displayed,
+    Begirt by many a tree:
+  O brother, in that holy shade
+    How happy shall we be!”(331)
+Then Ráma, Lakshmaṇ, Sítá, eachSpoke raising suppliant hands this speech
+To him, in woodland dwelling met,
+Válmíki, ancient anchoret:
+“O Saint, this mountain takes the mind,
+With creepers, trees of every kind,
+With fruit and roots abounding thus,
+A pleasant life it offers us:
+Here for a while we fain would stay,
+And pass a season blithe and gay.”
+
+  Then the great saint, in duty trained,
+With honour gladly entertained:
+He gave his guests a welcome fair,
+And bade them sit and rest them there,
+Ráma of mighty arm and chest
+His faithful Lakshmaṇ then addressed:
+“Brother, bring hither from the wood
+Selected timber strong and good,
+And build therewith a little cot;
+My heart rejoices in the spot
+That lies beneath the mountain’s side,
+Remote, with water well supplied.”
+
+  Sumitrá’s son his words obeyed,
+Brought many a tree, and deftly made,
+With branches in the forest cut,As Ráma bade, a leafy hut.
+Then Ráma, when the cottage stood
+Fair, firmly built, and walled with wood,
+To Lakshmaṇ spake, whose eager mind
+To do his brother’s will inclined:
+“Now, Lakshmaṇ as our cot is made,
+Must sacrifice be duly paid
+By us, for lengthened life who hope,
+With venison of the antelope.
+Away, O bright-eyed Lakshmaṇ, speed:
+Struck by thy bow a deer must bleed:
+As Scripture bids, we must not slight
+The duty that commands the rite.”
+
+  Lakshmaṇ, the chief whose arrows laid
+His foemen low, his word obeyed;
+And Ráma thus again addressed
+The swift performer of his hest:
+“Prepare the venison thou hast shot,
+To sacrifice for this our cot.
+Haste, brother dear, for this the hour,
+And this the day of certain power.”
+Then glorious Lakshmaṇ took the buck
+His arrow in the wood had struck;
+Bearing his mighty load he came,
+And laid it in the kindled flame.Soon as he saw the meat was done,
+And that the juices ceased to run
+From the broiled carcass, Lakshmaṇ then
+Spoke thus to Ráma best of men:
+“The carcass of the buck, entire,
+Is ready dressed upon the fire.
+Now be the sacred rites begun
+To please the God, thou godlike one.”
+
+  Ráma the good, in ritual trained,
+Pure from the bath, with thoughts restrained,
+Hasted those verses to repeat
+Which make the sacrifice complete.
+The hosts celestial came in view,
+And Ráma to the cot withdrew,
+While a sweet sense of rapture stole
+Through the unequalled hero’s soul.
+He paid the Viśvedevas(332) due.
+And Rudra’s right, and Vishṇu’s too,
+Nor wonted blessings, to protect
+Their new-built home, did he neglect.
+With voice repressed he breathed the prayer,
+Bathed duly in the river fair,
+And gave good offerings that remove
+The stain of sin, as texts approve.
+And many an altar there he made,And shrines, to suit the holy shade,
+All decked with woodland chaplets sweet,
+And fruit and roots and roasted meat,
+With muttered prayer, as texts require,
+Water, and grass and wood and fire.
+So Ráma, Lakshmaṇ, Sítá paid
+Their offerings to each God and shade,
+And entered then their pleasant cot
+That bore fair signs of happy lot.
+They entered, the illustrious three,
+The well-set cottage, fair to see,
+Roofed with the leaves of many a tree,
+  And fenced from wind and rain:
+So, at their Father Brahmá’s call,
+The Gods of heaven, assembling all,
+To their own glorious council hall
+  Advance in shining train.
+So, resting on that lovely hill,
+Near the fair lily-covered rill,
+  The happy prince forgot,
+Surrounded by the birds and deer,
+The woe, the longing, and the fear
+  That gloom the exile’s lot.<b>Canto LVII. Sumantra’s Return.</b>
+
+When Ráma reached the southern bank,
+King Guha’s heart with sorrow sank:
+He with Sumantra talked, and spent
+With his deep sorrow, homeward went.
+Sumantra, as the king decreed,
+Yoked to the car each noble steed,
+And to Ayodhyá’s city sped
+With his sad heart disquieted.
+On lake and brook and scented grove
+His glances fell, as on he drove:
+City and village came in view
+As o’er the road his coursers flew.
+On the third day the charioteer,
+When now the hour of night was near,
+Came to Ayodhyá’s gate, and found
+The city all in sorrow drowned.
+To him, in spirit quite cast down,
+Forsaken seemed the silent town,
+And by the rush of grief oppressed
+He pondered in his mournful breast:
+“Is all Ayodhyá burnt with grief,
+Steed, elephant, and man, and chief?
+Does her loved Ráma’s exile so
+Afflict her with the fires of woe?”Thus as he mused, his steeds flew fast,
+And swiftly through the gate he passed.
+On drove the charioteer, and then
+In hundreds, yea in thousands, men
+Ran to the car from every side,
+And, “Ráma, where is Ráma?” cried.
+Sumantra said: “My chariot bore
+The duteous prince to Gangá’s shore;
+I left him there at his behest,
+And homeward to Ayodhyá pressed.”
+Soon as the anxious people knew
+That he was o’er the flood they drew
+Deep sighs, and crying, Ráma! all
+Wailed, and big tears began to fall.
+He heard the mournful words prolonged,
+As here and there the people thronged:
+“Woe, woe for us, forlorn, undone,
+No more to look on Raghu’s son!
+His like again we ne’er shall see,
+Of heart so true, of hand so free,
+In gifts, in gatherings for debate,
+When marriage pomps we celebrate,
+What should we do? What earthly thing
+Can rest, or hope, or pleasure bring?”  Thus the sad town, which Ráma kept
+As a kind father, wailed and wept.
+Each mansion, as the car went by,
+Sent forth a loud and bitter cry,
+As to the window every dame,
+Mourning for banished Ráma, came.
+As his sad eyes with tears o’erflowed,
+He sped along the royal road
+To Daśaratha’s high abode.
+There leaping down his car he stayed;
+Within the gates his way he made;
+Through seven broad courts he onward hied
+Where people thronged on every side.
+From each high terrace, wild with woe,
+The royal ladies flocked below:
+He heard them talk in gentle tone,
+As each for Ráma made her moan:
+“What will the charioteer reply
+To Queen Kauśalyá’s eager cry?
+With Ráma from the gates he went;
+Homeward alone, his steps are bent.
+Hard is a life with woe distressed,
+But difficult to win is rest,
+If, when her son is banished, still
+She lives beneath her load of ill.”  Such was the speech Sumantra heard
+From them whom grief unfeigned had stirred.
+As fires of anguish burnt him through,
+Swift to the monarch’s hall he drew,
+Past the eighth court; there met his sight,
+The sovereign in his palace bright,
+Still weeping for his son, forlorn,
+Pale, faint, and all with sorrow worn.
+As there he sat, Sumantra bent
+And did obeisance reverent,
+And to the king repeated o’er
+The message he from Ráma bore.
+The monarch heard, and well-nigh brake
+His heart, but yet no word he spake:
+Fainting to earth he fell, and dumb,
+By grief for Ráma overcome.
+Rang through the hall a startling cry,
+And women’s arms were tossed on high,
+When, with his senses all astray,
+Upon the ground the monarch lay.
+Kauśalyá, with Sumitrá’s aid,
+Raised from the ground her lord dismayed:
+“Sire, of high fate,” she cried, “O, why
+Dost thou no single word reply
+To Ráma’s messenger who bringsNews of his painful wanderings?
+The great injustice done, art thou
+Shame-stricken for thy conduct now?
+Rise up, and do thy part: bestow
+Comfort and help in this our woe.
+Speak freely, King; dismiss thy fear,
+For Queen Kaikeyí stands not near,
+Afraid of whom thou wouldst not seek
+Tidings of Ráma: freely speak.”
+
+  When the sad queen had ended so,
+She sank, insatiate in her woe,
+And prostrate lay upon the ground,
+While her faint voice by sobs was drowned.
+When all the ladies in despair
+Saw Queen Kauśalyá wailing there,
+And the poor king oppressed with pain,
+They flocked around and wept again.<b>Canto LVIII. Ráma’s Message.</b>
+
+The king a while had senseless lain,
+When care brought memory back again.
+Then straight he called, the news to hear
+Of Ráma, for the charioteer,
+With reverent hand to hand applied
+He waited by the old man’s side,
+Whose mind with anguish was distraught
+Like a great elephant newly caught.
+The king with bitter pain distressed
+The faithful charioteer addressed,
+Who, sad of mien, with flooded eye,
+And dust upon his limbs, stood by:
+“Where will be Ráma’s dwelling now
+At some tree’s foot, beneath the bough;
+Ah, what will be the exile’s food,
+Bred up with kind solicitude?
+Can he, long lapped in pleasant rest,
+Unmeet for pain, by pain oppressed,
+Son of earth’s king, his sad night spend
+Earth-couched, as one that has no friend?
+Behind him, when abroad he sped,
+Cars, elephant, and foot were led:
+Then how shall Ráma dwell afar
+In the wild woods where no men are?How, tell me, did the princes there,
+With Sítá good and soft and fair,
+Alighting from the chariot, tread
+The forest wilds around them spread?
+A happy lot is thine, I ween,
+Whose eyes my two dear sons have seen
+Seeking on foot the forest shade,
+Like the bright Twins to view displayed,
+The heavenly Aśvins, when they seek
+The woods that hang ’neath Mandar’s peak.
+What words, Sumantra, quickly tell,
+From Ráma, Lakshmaṇ, Sítá fell?
+How in the wood did Ráma eat?
+What was his bed, and what his seat?
+Full answer to my questions give,
+For I on thy replies shall live,
+As with the saints Yayáti held
+Sweet converse, from the skies expelled.”
+
+  Urged by the lord of men to speak,
+Whose sobbing voice came faint and weak,
+Thus he, while tears his utterance broke,
+In answer to the monarch spoke:
+“Hear then the words that Ráma said,
+Resolved in duty’s path to tread.
+Joining his hands, his head he bent,And gave this message, reverent:
+“Sumantra, to my father go,
+Whose lofty mind all people know:
+Bow down before him, as is meet,
+And in my stead salute his feet.
+Then to the queen my mother bend,
+And give the greeting that I send:
+Ne’er may her steps from duty err,
+And may it still be well with her.
+And add this word: “O Queen, pursue
+Thy vows with faithful heart and true;
+And ever at due season turn
+Where holy fires of worship burn.
+And, lady, on our lord bestow
+Such honour as to Gods we owe.
+Be kind to every queen: let pride
+And thought of self be cast aside.
+In the king’s fond opinion raise
+Kaikeyí, by respect and praise.
+Let the young Bharat ever be
+Loved, honoured as the king by thee:
+Thy king-ward duty ne’er forget:
+High over all are monarchs set.”
+
+  And Bharat, too, for me address:
+Pray that all health his life may bless.Let every royal lady share,
+As justice bids, his love and care.
+Say to the strong-armed chief who brings
+Joy to Iksváku’s line of kings:
+“As ruling prince thy care be shown
+Of him, our sire, who holds the throne.
+Stricken in years he feels their weight;
+But leave him in his royal state.
+As regent heir content thee still,
+Submissive to thy father’s will.’ ”
+Ráma again his charge renewed,
+As the hot flood his cheek bedewed:
+“Hold as thine own my mother dear
+Who drops for me the longing tear.”
+Then Lakshmaṇ, with his soul on fire,
+Spake breathing fast these words of ire:
+“Say, for what sin, for what offence
+Was royal Ráma banished thence?
+He is the cause, the king: poor slave
+To the light charge Kaikeyí gave.
+Let right or wrong the motive be,
+The author of our woe is he.
+Whether the exile were decreed
+Through foolish faith or guilty greed,
+For promises or empire, stillThe king has wrought a grievous ill.
+Grant that the Lord of all saw fit
+To prompt the deed and sanction it,
+In Ráma’s life no cause I see
+For which the king should bid him flee.
+His blinded eyes refused to scan
+The guilt and folly of the plan,
+And from the weakness of the king
+Here and hereafter woe shall spring.
+No more my sire: the ties that used
+To bind me to the king are loosed.
+My brother Ráma, Raghu’s son,
+To me is lord, friend, sire in one.
+The love of men how can he win,
+Deserting, by the cruel sin,
+Their joy, whose heart is swift to feel
+A pleasure in the people’s weal?
+Shall he whose mandate could expel
+The virtuous Ráma, loved so well,
+To whom his subjects’ fond hearts cling—
+Shall he in spite of them be king?”
+
+  But Janak’s child, my lord, stood by,
+And oft the votaress heaved a sigh.
+She seemed with dull and wandering sense,
+Beneath a spirit’s influence.The noble princess, pained with woe
+Which till that hour she ne’er could know,
+Tears in her heavy trouble shed,
+But not a word to me she said.
+She raised her face which grief had dried
+And tenderly her husband eyed,
+Gazed on him as he turned to go
+While tear chased tear in rapid flow.”<b>Canto LIX. Dasaratha’s Lament.</b>
+
+As thus Sumantra, best of peers,
+Told his sad tale with many tears,
+The monarch cried, “I pray thee, tell
+At length again what there befell.”
+Sumantra, at the king’s behest,
+Striving with sobs he scarce repressed,
+His trembling voice at last controlled,
+And thus his further tidings told:
+“Their locks in votive coils they wound,
+Their coats of bark upon them bound,
+To Gangá’s farther shore they went,
+Thence to Prayág their steps were bent.
+I saw that Lakshmaṇ walked ahead
+To guard the path the two should tread.
+So far I saw, no more could learn,
+Forced by the hero to return.
+Retracing slow my homeward course,
+Scarce could I move each stubborn horse:
+Shedding hot tears of grief he stood
+When Ráma turned him to the wood.(333)
+As the two princes parted thence
+I raised my hands in reverence,
+Mounted my ready car, and bore
+The grief that stung me to the core.With Guha all that day I stayed,
+Still by the earnest hope delayed
+That Ráma, ere the time should end,
+Some message from the wood might send.
+Thy realms, great Monarch, mourn the blow,
+And sympathize with Ráma’s woe.
+Each withering tree hangs low his head,
+And shoot, and bud, and flower are dead.
+Dried are the floods that wont to fill
+The lake, the river, and the rill.
+Drear is each grove and garden now,
+Dry every blossom on the bough.
+Each beast is still, no serpents crawl:
+A lethargy of woe on all.
+The very wood is silent: crushed
+With grief for Ráma, all is hushed.
+Fair blossoms from the water born,
+Gay garlands that the earth adorn,
+And every fruit that gleams like gold,
+Have lost the scent that charmed of old.
+Empty is every grove I see,
+Or birds sit pensive on the tree.
+Where’er I look, its beauty o’er,
+The pleasance charms not as before.
+I drove through fair Ayodhyá’s street:None flew with joy the car to meet.
+They saw that Ráma was not there,
+And turned them sighing in despair.
+The people in the royal way
+Wept tears of bitter grief, when they
+Beheld me coming, from afar,
+No Ráma with me in the car.
+From palace roof and turret high
+Each woman bent her eager eye;
+She looked for Ráma, but in vain;
+Gazed on the car and shrieked for pain.
+Their long clear eyes with sorrow drowned
+They, when this common grief was found,
+Looked each on other, friend and foe,
+In sympathy of levelling woe:
+No shade of difference between
+Foe, friend, or neutral, there was seen.
+Without a joy, her bosom rent
+With grief for Ráma’s banishment,
+Ayodhyá like the queen appears
+Who mourns her son with many tears.”
+
+  He ended: and the king, distressed.
+With sobbing voice that lord addressed:
+“Ah me, by false Kaikeyí led,
+Of evil race, to evil bred,I took no counsel of the sage,
+Nor sought advice from skill and age,
+I asked no lord his aid to lend,
+I called no citizen or friend.
+Rash was my deed, bereft of sense
+Slave to a woman’s influence.
+Surely, my lord, a woe so great
+Falls on us by the will of Fate;
+It lays the house of Raghu low,
+For Destiny will have it so.
+I pray thee, if I e’er have done
+An act to please thee, yea, but one,
+Fly, fly, and Ráma homeward lead:
+My life, departing, counsels speed.
+Fly, ere the power to bid I lack,
+Fly to the wood: bring Ráma back.
+I cannot live for even one
+Short hour bereaved of my son.
+But ah, the prince, whose arms are strong,
+Has journeyed far: the way is long:
+Me, me upon the chariot place,
+And let me look on Ráma’s face.
+Ah me, my son, mine eldest-born,
+Where roams he in the wood forlorn,
+The wielder of the mighty bow,Whose shoulders like the lion’s show?
+O, ere the light of life be dim,
+Take me to Sítá and to him.
+O Ráma, Lakshmaṇ, and O thou
+Dear Sítá, constant to thy vow,
+Beloved ones, you cannot know
+That I am dying of my woe.”
+
+  The king to bitter grief a prey,
+That drove each wandering sense away,
+Sunk in affliction’s sea, too wide
+To traverse, in his anguish cried:
+“Hard, hard to pass, my Queen, this sea
+Of sorrow raging over me:
+No Ráma near to soothe mine eye,
+Plunged in its lowest deeps I lie.
+Sorrow for Ráma swells the tide,
+And Sítá’s absence makes it wide:
+My tears its foamy flood distain,
+Made billowy by my sighs of pain:
+My cries its roar, the arms I throw
+About me are the fish below,
+Kaikeyí is the fire that feeds
+Beneath: my hair the tangled weeds:
+Its source the tears for Ráma shed:
+The hump-back’s words its monsters dread:The boon I gave the wretch its shore,
+Till Ráma’s banishment be o’er.(334)
+  Ah me, that I should long to set
+    My eager eyes to-day
+  On Raghu’s son, and he be yet
+    With Lakshmaṇ far away!”
+  Thus he of lofty glory wailed,
+    And sank upon the bed.
+  Beneath the woe his spirit failed,
+    And all his senses fled.<b>Canto LX. Kausalyá Consoled.</b>
+
+As Queen Kauśalyá, trembling much,
+As blighted by a goblin’s touch,
+Still lying prostrate, half awoke
+To consciousness, ’twas thus she spoke:
+“Bear me away, Sumantra, far,
+Where Ráma, Sítá, Lakshmaṇ are.
+Bereft of them I have no power
+To linger on a single hour.
+Again, I pray, thy steps retrace,
+And me in Daṇḍak forest place,
+For after them I needs must go,
+Or sink to Yama’s realms below.”
+
+  His utterance choked by tears that rolled
+Down from their fountains uncontrolled,
+With suppliant hands the charioteer
+Thus spake, the lady’s heart to cheer:
+“Dismiss thy grief, despair, and dread
+That fills thy soul, of sorrow bred,
+For pain and anguish thrown aside,
+Will Ráma in the wood abide.
+And Lakshmaṇ, with unfailing care
+Will guard the feet of Ráma there,
+Earning, with governed sense, the prizeThat waits on duty in the skies.
+And Sítá in the wild as well
+As in her own dear home will dwell;
+To Ráma all her heart she gives,
+And free from doubt and terror lives.
+No faintest sign of care or woe
+The features of the lady show:
+Methinks Videha’s pride was made
+For exile in the forest shade.
+E’en as of old she used to rove
+Delighted in the city’s grove,
+Thus, even thus she joys to tread
+The woodlands uninhabited.
+Like a young child, her face as fair
+As the young moon, she wanders there.
+What though in lonely woods she stray
+Still Ráma is her joy and stay:
+All his the heart no sorrow bends,
+Her very life on him depends.
+For, if her lord she might not see,
+Ayodhyá like the wood would be.
+She bids him, as she roams, declare
+The names of towns and hamlets there,
+Marks various trees that meet her eye,
+And many a brook that hurries by,And Janak’s daughter seems to roam
+One little league away from home
+When Ráma or his brother speaks
+And gives the answer that she seeks.
+This, Lady, I remember well,
+Nor angry words have I to tell:
+Reproaches at Kaikeyí shot,
+Such, Queen, my mind remembers not.”
+The speech when Sítá’s wrath was high,
+Sumantra passed in silence by,
+That so his pleasant words might cheer
+With sweet report Kauśalyá’s ear.
+“Her moonlike beauty suffers not
+Though winds be rude and suns be hot:
+The way, the danger, and the toil
+Her gentle lustre may not soil.
+Like the red lily’s leafy crown
+Or as the fair full moon looks down,
+So the Videhan lady’s face
+Still shines with undiminished grace.
+What if the borrowed colours throw
+O’er her fine feet no rosy glow,
+Still with their natural tints they spread
+A lotus glory where they tread.
+In sportive grace she walks the groundAnd sweet her chiming anklets sound.
+No jewels clasp the faultless limb:
+She leaves them all for love of him.
+If in the woods her gentle eye
+A lion sees, or tiger nigh,
+Or elephant, she fears no ill
+For Ráma’s arm supports her still.
+No longer be their fate deplored,
+Nor thine, nor that of Kośal’s lord,
+For conduct such as theirs shall buy
+Wide glory that can never die.
+For casting grief and care away,
+Delighting in the forest, they
+With joyful spirits, blithe and gay,
+Set forward on the ancient way
+  Where mighty saints have led:
+Their highest aim, their dearest care
+To keep their father’s honour fair,
+Observing still the oath he sware,
+  They roam, on wild fruit fed.”
+Thus with persuasive art he tried
+To turn her from her grief aside,
+  By soothing fancies won.
+But still she gave her sorrow vent:
+“Ah Ráma,” was her shrill lament,
+  “My love, my son, my son!”<b>Canto LXI. Kausalyá’s Lament.</b>
+
+When, best of all who give delight,
+Her Ráma wandered far from sight,
+Kauśalyá weeping, sore distressed,
+The king her husband thus addressed:
+“Thy name, O Monarch, far and wide
+Through the three worlds is glorified:
+Yet Ráma’s is the pitying mind,
+His speed is true, his heart is kind.
+How will thy sons, good lord, sustain
+With Sítá, all their care and pain?
+How in the wild endure distress,
+Nursed in the lap of tenderness?
+How will the dear Videhan bear
+The heat and cold when wandering there
+Bred in the bliss of princely state,
+So young and fair and delicate?
+The large-eyed lady, wont to eat
+The best of finely seasoned meat—
+How will she now her life sustain
+With woodland fare of self-sown grain?
+Will she, with joys encompassed long,
+Who loved the music and the song,
+In the wild wood endure to hear
+The ravening lion’s voice of fear?Where sleeps my strong-armed hero, where,
+Like Lord Mahendra’s standard, fair?
+Where is, by Lakshmaṇ’s side, his bed,
+His club-like arm beneath his head?
+When shall I see his flower-like eyes,
+And face that with the lotus vies,
+Feel his sweet lily breath, and view
+His glorious hair and lotus hue?
+The heart within my breast, I feel,
+Is adamant or hardest steel,
+Or, in a thousand fragments split,
+The loss of him had shattered it,
+When those I love, who should be blest,
+Are wandering in the wood distressed,
+Condemned their wretched lives to lead
+In exile, by thy ruthless deed.
+If, when the fourteen years are past,
+Ráma reseeks his home at last,
+I think not Bharat will consent
+To yield the wealth and government.
+At funeral feasts some mourners deal
+To kith and kin the solemn meal,
+And having duly fed them all
+Some Bráhmans to the banquet call.
+The best of Bráhmans, good and wise,The tardy summoning despise,
+And, equal to the Gods, disdain
+Cups, e’en of Amrit, thus to drain.
+Nay e’en when Bráhmans first have fed,
+They loathe the meal for others spread,
+And from the leavings turn with scorn,
+As bulls avoid a fractured horn.
+So Ráma, sovereign lord of men,
+Will spurn the sullied kingship then:
+He born the eldest and the best,
+His younger’s leavings will detest,
+Turning from tasted food away,
+As tigers scorn another’s prey.
+The sacred post is used not twice,
+Nor elements, in sacrifice.
+But once the sacred grass is spread,
+But once with oil the flame is fed:
+So Ráma’s pride will ne’er receive
+The royal power which others leave,
+Like wine when tasteless dregs are left,
+Or rites of Soma juice bereft.
+Be sure the pride of Raghu’s race
+Will never stoop to such disgrace:
+The lordly lion will not bear
+That man should beard him in his lair.Were all the worlds against him ranged
+His dauntless soul were still unchanged:
+He, dutiful, in duty strong,
+Would purge the impious world from wrong.
+Could not the hero, brave and bold,
+The archer, with his shafts of gold,
+Burn up the very seas, as doom
+Will in the end all life consume?
+Of lion’s might, eyed like a bull,
+A prince so brave and beautiful,
+Thou hast with wicked hate pursued,
+Like sea-born tribes who eat their brood.
+If thou, O Monarch, hadst but known
+The duty all the Twice-born own,
+If the good laws had touched thy mind,
+Which sages in the Scriptures find,
+Thou ne’er hadst driven forth to pine
+This brave, this duteous son of thine.
+First on her lord the wife depends,
+Next on her son and last on friends:
+These three supports in life has she,
+And not a fourth for her may be.
+Thy heart, O King, I have not won;
+In wild woods roams my banished son;
+Far are my friends: ah, hapless me,
+Quite ruined and destroyed by thee.”<b>Canto LXII. Dasaratha Consoled.</b>
+
+The queen’s stern speech the monarch heard,
+As rage and grief her bosom stirred,
+And by his anguish sore oppressed
+Reflected in his secret breast.
+Fainting and sad, with woe distraught,
+He wandered in a maze of thought;
+At length the queller of the foe
+Grew conscious, rallying from his woe.
+When consciousness returned anew
+Long burning sighs the monarch drew,
+Again immersed in thought he eyed
+Kauśalyá standing by his side.
+Back to his pondering soul was brought
+The direful deed his hand had wrought,
+When, guiltless of the wrong intent,
+His arrow at a sound was sent.
+Distracted by his memory’s sting,
+And mourning for his son, the king
+To two consuming griefs a prey,
+A miserable victim lay.
+The double woe devoured him fast,
+As on the ground his eyes he cast,
+Joined suppliant hands, her heart to touch,
+And spake in the answer, trembling much:“Kauśalyá, for thy grace I sue,
+Joining these hands as suppliants do.
+Thou e’en to foes hast ever been
+A gentle, good, and loving queen.
+Her lord, with noble virtues graced,
+Her lord, by lack of all debased,
+Is still a God in woman’s eyes,
+If duty’s law she hold and prize.
+Thou, who the right hast aye pursued,
+Life’s changes and its chances viewed,
+Shouldst never launch, though sorrow-stirred,
+At me distressed, one bitter word.”
+
+  She listened, as with sorrow faint
+He murmured forth his sad complaint:
+Her brimming eyes with tears ran o’er,
+As spouts the new fallen water pour;
+His suppliant hands, with fear dismayed
+She gently clasped in hers, and laid,
+Like a fair lotus, on her head,
+And faltering in her trouble said:
+“Forgive me; at thy feet I lie,
+With low bent head to thee I cry.
+By thee besought, thy guilty dame
+Pardon from thee can scarcely claim.
+She merits not the name of wifeWho cherishes perpetual strife
+With her own husband good and wise,
+Her lord both here and in the skies.
+I know the claims of duty well,
+I know thy lips the truth must tell.
+All the wild words I rashly spoke,
+Forth from my heart, through anguish, broke;
+For sorrow bends the stoutest soul,
+And cancels Scripture’s high control.
+Yea, sorrow’s might all else o’erthrows
+The strongest and the worst of foes.
+’Tis thus with all: we keenly feel,
+Yet bear the blows our foemen deal,
+But when a slender woe assails
+The manliest spirit bends and quails.
+The fifth long night has now begun
+Since the wild woods have lodged my son:
+To me whose joy is drowned in tears,
+Each day a dreary year appears.
+While all my thoughts on him are set
+Grief at my heart swells wilder yet:
+With doubled might thus Ocean raves
+When rushing floods increase his waves.”
+
+  As from Kauśalyá reasoning well
+The gentle words of wisdom fell,The sun went down with dying flame,
+And darkness o’er the landscape came.
+His lady’s soothing words in part
+Relieved the monarch’s aching heart,
+Who, wearied out by all his woes,
+Yielded to sleep and took repose.
+
+<b>Canto LXIII. The Hermit’s Son.</b>
+
+But soon by rankling grief oppressed
+The king awoke from troubled rest,
+And his sad heart was tried again
+With anxious thought where all was pain.
+Ráma and Lakshmaṇ’s mournful fate
+On Daśaratha, good and great
+As Indra, pressed with crushing weight,
+As when the demon’s might assails
+The Sun-God, and his glory pales.
+Ere yet the sixth long night was spent,
+Since Ráma to the woods was sent,
+The king at midnight sadly thought
+Of the old crime his hand had wrought,
+And thus to Queen Kauśalyá cried
+Who still for Ráma moaned and sighed:
+“If thou art waking, give, I pray,
+Attention to the words I say.Whate’er the conduct men pursue,
+Be good or ill the acts they do,
+Be sure, dear Queen, they find the meed
+Of wicked or of virtuous deed.
+A heedless child we call the man
+Whose feeble judgment fails to scan
+The weight of what his hands may do,
+Its lightness, fault, and merit too.
+One lays the Mango garden low,
+And bids the gay Paláśas grow:
+Longing for fruit their bloom he sees,
+But grieves when fruit should bend the trees.
+Cut by my hand, my fruit-trees fell,
+Paláśa trees I watered well.
+My hopes this foolish heart deceive,
+And for my banished son I grieve.
+Kauśalyá, in my youthful prime
+Armed with my bow I wrought the crime,
+Proud of my skill, my name renowned,
+An archer prince who shoots by sound.
+The deed this hand unwitting wrought
+This misery on my soul has brought,
+As children seize the deadly cup
+And blindly drink the poison up.
+As the unreasoning man may beCharmed with the gay Paláśa tree,
+I unaware have reaped the fruit
+Of joying at a sound to shoot.
+As regent prince I shared the throne,
+Thou wast a maid to me unknown,
+The early Rain-time duly came,
+And strengthened love’s delicious flame.
+The sun had drained the earth that lay
+All glowing ’neath the summer day,
+And to the gloomy clime had fled
+Where dwell the spirits of the dead.(335)
+The fervent heat that moment ceased,
+The darkening clouds each hour increased
+And frogs and deer and peacocks all
+Rejoiced to see the torrents fall.
+Their bright wings heavy from the shower,
+The birds, new-bathed, had scarce the power
+To reach the branches of the trees
+Whose high tops swayed beneath the breeze.
+The fallen rain, and falling still,
+Hung like a sheet on every hill,
+Till, with glad deer, each flooded steep
+Showed glorious as the mighty deep.
+The torrents down its wooded side
+Poured, some unstained, while others dyedGold, ashy, silver, ochre, bore
+The tints of every mountain ore.
+In that sweet time, when all are pleased,
+My arrows and my bow I seized;
+Keen for the chase, in field or grove,
+Down Sarjú’s bank my car I drove.
+I longed with all my lawless will
+Some elephant by night to kill,
+Some buffalo that came to drink,
+Or tiger, at the river’s brink.
+When all around was dark and still,
+I heard a pitcher slowly fill,
+And thought, obscured in deepest shade,
+An elephant the sound had made.
+I drew a shaft that glittered bright,
+Fell as a serpent’s venomed bite;
+I longed to lay the monster dead,
+And to the mark my arrow sped.
+Then in the calm of morning, clear
+A hermit’s wailing smote my ear:
+“Ah me, ah me,” he cried, and sank,
+Pierced by my arrow, on the bank.
+E’en as the weapon smote his side,
+I heard a human voice that cried:
+“Why lights this shaft on one like me,A poor and harmless devotee?
+I came by night to fill my jar
+From this lone stream where no men are.
+Ah, who this deadly shaft has shot?
+Whom have I wronged, and knew it not?
+Why should a boy so harmless feel
+The vengeance of the winged steel?
+Or who should slay the guiltless son
+Of hermit sire who injures none,
+Who dwells retired in woods, and there
+Supports his life on woodland fare?
+Ah me, ah me, why am I slain,
+What booty will the murderer gain?
+In hermit coils I bind my hair,
+Coats made of skin and bark I wear.
+Ah, who the cruel deed can praise
+Whose idle toil no fruit repays,
+As impious as the wretch’s crime
+Who dares his master’s bed to climb?
+Nor does my parting spirit grieve
+But for the life which thus I leave:
+Alas, my mother and my sire,—
+I mourn for them when I expire.
+Ah me, that aged, helpless pair,
+Long cherished by my watchful care,How will it be with them this day
+When to the Five(336) I pass away?
+Pierced by the self-same dart we die,
+Mine aged mother, sire, and I.
+Whose mighty hand, whose lawless mind
+Has all the three to death consigned?”
+
+  When I, by love of duty stirred,
+That touching lamentation heard,
+Pierced to the heart by sudden woe,
+I threw to earth my shafts and bow.
+My heart was full of grief and dread
+As swiftly to the place I sped,
+Where, by my arrow wounded sore,
+A hermit lay on Sarjú’s shore.
+His matted hair was all unbound,
+His pitcher empty on the ground,
+And by the fatal arrow pained,
+He lay with dust and gore distained.
+I stood confounded and amazed:
+His dying eyes to mine he raised,
+And spoke this speech in accents stern,
+As though his light my soul would burn:
+“How have I wronged thee, King, that I
+Struck by thy mortal arrow die?
+The wood my home, this jar I brought,And water for my parents sought.
+This one keen shaft that strikes me through
+Slays sire and aged mother too.
+Feeble and blind, in helpless pain,
+They wait for me and thirst in vain.
+They with parched lips their pangs must bear,
+And hope will end in blank despair.
+Ah me, there seems no fruit in store
+For holy zeal or Scripture lore,
+Or else ere now my sire would know
+That his dear son is lying low.
+Yet, if my mournful fate he knew,
+What could his arm so feeble do?
+The tree, firm-rooted, ne’er may be
+The guardian of a stricken tree.
+Haste to my father, and relate
+While time allows, my sudden fate,
+Lest he consume thee as the fire
+Burns up the forest, in his ire.
+This little path, O King, pursue:
+My father’s cot thou soon wilt view.
+There sue for pardon to the sage,
+Lest he should curse thee in his rage.
+First from the wound extract the dart
+That kills me with its deadly smart,E’en as the flushed impetuous tide
+Eats through the river’s yielding side.”
+
+  I feared to draw the arrow out,
+And pondered thus in painful doubt:
+“Now tortured by the shaft he lies,
+But if I draw it forth he dies.”
+Helpless I stood, faint, sorely grieved:
+The hermit’s son my thought perceived;
+As one o’ercome by direst pain
+He scarce had strength to speak again.
+With writhing limb and struggling breath,
+Nearer and ever nearer death
+“My senses undisturbed remain,
+And fortitude has conquered pain:
+Now from one tear thy soul be freed.
+Thy hand has made a Bráhman bleed.
+Let not this pang thy bosom wring:
+No twice-born youth am I, O King,
+For of a Vaiśya sire I came,
+Who wedded with a Śúdra dame.”
+
+  These words the boy could scarcely say,
+As tortured by the shaft he lay,
+Twisting his helpless body round,
+Then trembling senseless on the ground.Then from his bleeding side I drew
+The rankling shaft that pierced him through.
+With death’s last fear my face he eyed,
+And, rich in store of penance, died.”
+
+<b>Canto LXIV. Dasaratha’s Death.</b>
+
+The son of Raghu to his queen
+Thus far described the unequalled scene,
+And, as the hermit’s death he rued,
+The mournful story thus renewed:
+“The deed my heedless hand had wrought
+Perplexed me with remorseful thought,
+And all alone I pondered still
+How kindly deed might salve the ill.
+The pitcher from the ground I took,
+And filled it from that fairest brook,
+Then, by the path the hermit showed,
+I reached his sainted sire’s abode.
+I came, I saw: the aged pair,
+Feeble and blind, were sitting there,
+Like birds with clipped wings, side by side,
+With none their helpless steps to guide.
+Their idle hours the twain beguiled
+With talk of their returning child,
+And still the cheering hope enjoyed,The hope, alas, by me destroyed.
+Then spoke the sage, as drawing near
+The sound of footsteps reached his ear:
+“Dear son, the water quickly bring;
+Why hast thou made this tarrying?
+Thy mother thirsts, and thou hast played,
+And bathing in the brook delayed.
+She weeps because thou camest not;
+Haste, O my son, within the cot.
+If she or I have ever done
+A thing to pain thee, dearest son,
+Dismiss the memory from thy mind:
+A hermit thou, be good and kind.
+On thee our lives, our all, depend:
+Thou art thy friendless parents’ friend.
+The eyeless couple’s eye art thou:
+Then why so cold and silent now?”
+
+  With sobbing voice and bosom wrung
+I scarce could move my faltering tongue,
+And with my spirit filled with dread
+I looked upon the sage, and said,
+While mind, and sense, and nerve I strung
+To fortify my trembling tongue,
+And let the aged hermit know
+His son’s sad fate, my fear and woe:“High-minded Saint, not I thy child,
+A warrior, Daśaratha styled.
+I bear a grievous sorrow’s weight
+Born of a deed which good men hate.
+My lord, I came to Sarjú’s shore,
+And in my hand my bow I bore
+For elephant or beast of chase
+That seeks by night his drinking place.
+There from the stream a sound I heard
+As if a jar the water stirred.
+An elephant, I thought, was nigh:
+I aimed, and let an arrow fly.
+Swift to the place I made my way,
+And there a wounded hermit lay
+Gasping for breath: the deadly dart
+Stood quivering in his youthful heart.
+I hastened near with pain oppressed;
+He faltered out his last behest.
+And quickly, as he bade me do,
+From his pierced side the shaft I drew.
+I drew the arrow from the rent,
+And up to heaven the hermit went,
+Lamenting, as from earth he passed,
+His aged parents to the last.
+Thus, unaware, the deed was done:My hand, unwitting, killed thy son.
+For what remains, O, let me win
+Thy pardon for my heedless sin.”
+
+  As the sad tale of sin I told
+The hermit’s grief was uncontrolled.
+With flooded eyes, and sorrow-faint,
+Thus spake the venerable saint:
+I stood with hand to hand applied,
+And listened as he spoke and sighed:
+“If thou, O King, hadst left unsaid
+By thine own tongue this tale of dread,
+Thy head for hideous guilt accursed
+Had in a thousand pieces burst.
+A hermit’s blood by warrior spilt,
+In such a case, with purposed guilt,
+Down from his high estate would bring
+Even the thunder’s mighty King.
+And he a dart who conscious sends
+Against the devotee who spends
+His pure life by the law of Heaven—
+That sinner’s head will split in seven.
+Thou livest, for thy heedless hand
+Has wrought a deed thou hast not planned,
+Else thou and all of Raghu’s line
+Had perished by this act of thine.Now guide us,” thus the hermit said,
+“Forth to the spot where he lies dead.
+Guide us, this day, O Monarch, we
+For the last time our son would see:
+The hermit dress of skin he wore
+Rent from his limbs distained with gore;
+His senseless body lying slain,
+His soul in Yama’s dark domain.”
+
+  Alone the mourning pair I led,
+Their souls with woe disquieted,
+And let the dame and hermit lay
+Their hands upon the breathless clay.
+The father touched his son, and pressed
+The body to his aged breast;
+Then falling by the dead boy’s side,
+He lifted up his voice, and cried:
+
+  “Hast thou no word, my child, to say?
+No greeting for thy sire to-day?
+Why art thou angry, darling? why
+Wilt thou upon the cold earth lie?
+If thou, my son, art wroth with me,
+Here, duteous child, thy mother see.
+What! no embrace for me, my son?
+No word of tender love—not one?Whose gentle voice, so soft and clear,
+Soothing my spirit, shall I hear
+When evening comes, with accents sweet
+Scripture or ancient lore repeat?
+Who, having fed the sacred fire,
+And duly bathed, as texts require,
+Will cheer, when evening rites are done,
+The father mourning for his son?
+Who will the daily meal provide
+For the poor wretch who lacks a guide,
+Feeding the helpless with the best
+Berries and roots, like some dear guest?
+How can these hands subsistence find
+For thy poor mother, old and blind?
+The wretched votaress how sustain,
+Who mourns her child in ceaseless pain?
+Stay yet a while, my darling, stay,
+Nor fly to Yama’s realm to-day.
+To-morrow I thy sire and she
+Who bare thee, child, will go with, thee.(337)
+Then when I look on Yama, I
+To great Vivasvat’s son will cry:
+“Hear, King of justice, and restore
+Our child to feed us, I implore.
+Lord of the world, of mighty fame,Faithful and just, admit my claim,
+And grant this single boon to free
+My soul from fear, to one like me.”
+Because, my son, untouched by stain,
+By sinful hands thou fallest slain,
+Win, through thy truth, the sphere where those
+Who die by hostile darts repose.
+Seek the blest home prepared for all
+The valiant who in battle fall,
+Who face the foe and scorn to yield,
+In glory dying on the field.
+Rise to the heaven where Dhundhumár
+And Nahush, mighty heroes, are,
+Where Janamejay and the blest
+Dilípa, Sagar, Saivya, rest:
+Home of all virtuous spirits, earned
+By fervent rites and Scripture learned:
+By those whose sacred fires have glowed,
+Whose liberal hands have fields bestowed:
+By givers of a thousand cows,
+By lovers of one faithful spouse:
+By those who serve their masters well,
+And cast away this earthly shell.
+None of my race can ever know
+The bitter pain of lasting woe.But doomed to that dire fate is he
+Whose guilty hand has slaughtered thee.”
+
+  Thus with wild tears the aged saint
+Made many a time his piteous plaint,
+Then with his wife began to shed
+The funeral water for the dead.
+But in a shape celestial clad,
+Won by the merits of the lad,
+The spirit from the body brake
+And to the mourning parents spake:
+“A glorious home in realms above
+Rewards my care and filial love.
+You, honoured parents, soon shall be
+Partakers of that home with me.”
+
+  He spake, and swiftly mounting high,
+With Indra near him, to the sky
+On a bright car, with flame that glowed,
+Sublime the duteous hermit rode.
+
+  The father, with his consort’s aid,
+The funeral rites with water paid,
+And thus his speech to me renewed
+Who stood in suppliant attitude:
+“Slay me this day, O, slay me, King,For death no longer has a sting.
+Childless am I: thy dart has done
+To death my dear, my only son.
+Because the boy I loved so well
+Slain by thy heedless arrow fell,
+My curse upon thy soul shall press
+With bitter woe and heaviness.
+I mourn a slaughtered child, and thou
+Shalt feel the pangs that kill me now.
+Bereft and suffering e’en as I,
+So shalt thou mourn thy son, and die.
+Thy hand unwitting dealt the blow
+That laid a holy hermit low,
+And distant, therefore, is the time
+When thou shalt suffer for the crime.
+The hour shall come when, crushed by woes
+Like these I feel, thy life shall close:
+A debt to pay in after days
+Like his the priestly fee who pays.”
+
+  This curse on me the hermit laid,
+Nor yet his tears and groans were stayed.
+Then on the pyre their bodies cast
+The pair; and straight to heaven they passed.
+As in sad thought I pondered long
+Back to my memory came the wrongDone in wild youth, O lady dear,
+When ’twas my boast to shoot by ear.
+The deed has borne the fruit, which now
+Hangs ripe upon the bending bough:
+Thus dainty meats the palate please,
+And lure the weak to swift disease.
+Now on my soul return with dread
+The words that noble hermit said,
+That I for a dear son should grieve,
+And of the woe my life should leave.”
+
+  Thus spake the king with many a tear;
+Then to his wife he cried in fear:
+“I cannot see thee, love; but lay
+Thy gentle hand in mine, I pray.
+Ah me, if Ráma touched me thus,
+If once, returning home to us,
+He bade me wealth and lordship give,
+Then, so I think, my soul would live.
+Unlike myself, unjust and mean
+Have been my ways with him, my Queen,
+But like himself is all that he,
+My noble son, has done to me.
+His son, though far from right he stray,
+What prudent sire would cast away?
+What banished son would check his ire,Nor speak reproaches of his sire?
+I see thee not: these eyes grow blind,
+And memory quits my troubled mind.
+Angels of Death are round me: they
+Summon my soul with speed away.
+What woe more grievous can there be,
+That, when from light and life I flee,
+I may not, ere I part, behold
+My virtuous Ráma, true and bold?
+Grief for my son, the brave and true,
+Whose joy it was my will to do,
+Dries up my breath, as summer dries
+The last drop in the pool that lies.
+Not men, but blessed Gods, are they
+Whose eyes shall see his face that day;
+See him, when fourteen years are past,
+With earrings decked return at last.
+My fainting mind forgets to think:
+Low and more low my spirits sink.
+Each from its seat, my senses steal:
+I cannot hear, or taste, or feel.
+This lethargy of soul o’ercomes
+Each organ, and its function numbs:
+So when the oil begins to fail,
+The torch’s rays grow faint and pale.This flood of woe caused by this hand
+Destroys me helpless and unmanned,
+Resistless as the floods that bore
+A passage through the river shore.
+Ah Raghu’s son, ah mighty-armed,
+By whom my cares were soothed and charmed,
+My son in whom I took delight,
+Now vanished from thy father’s sight!
+Kauśalyá, ah, I cannot see;
+Sumitrá, gentle devotee!
+Alas, Kaikeyí, cruel dame,
+My bitter foe, thy father’s shame!”
+
+  Kauśalyá and Sumitrá kept
+Their watch beside him as he wept.
+And Daśaratha moaned and sighed,
+And grieving for his darling died.<b>Canto LXV. The Women’s Lament.</b>
+
+And now the night had past away,
+And brightly dawned another day;
+The minstrels, trained to play and sing,
+Flocked to the chamber of the king:
+Bards, who their gayest raiment wore,
+And heralds famed for ancient lore:
+And singers, with their songs of praise,
+Made music in their several ways.
+There as they poured their blessings choice
+And hailed their king with hand and voice,
+Their praises with a swelling roar
+Echoed through court and corridor.
+Then as the bards his glory sang,
+From beaten palms loud answer rang,
+As glad applauders clapped their hands,
+And told his deeds in distant lands.
+The swelling concert woke a throng
+Of sleeping birds to life and song:
+Some in the branches of the trees,
+Some caged in halls and galleries.
+Nor was the soft string music mute;
+The gentle whisper of the lute,
+And blessings sung by singers skilled
+The palace of the monarch filled.Eunuchs and dames of life unstained,
+Each in the arts of waiting trained,
+Drew near attentive as before,
+And crowded to the chamber door:
+These skilful when and how to shed
+The lustral stream o’er limb and head,
+Others with golden ewers stood
+Of water stained with sandal wood.
+And many a maid, pure, young, and fair,
+Her load of early offerings bare,
+Cups of the flood which all revere,
+And sacred things, and toilet gear.
+Each several thing was duly brought
+As rule of old observance taught,
+And lucky signs on each impressed
+Stamped it the fairest and the best.
+There anxious, in their long array,
+All waited till the shine of day:
+But when the king nor rose nor spoke,
+Doubt and alarm within them woke.
+Forthwith the dames, by duty led,
+Attendants on the monarch’s bed,
+Within the royal chamber pressed
+To wake their master from his rest.
+Skilled in the lore of dreaming, theyFirst touched the bed on which he lay.
+But none replied; no sound was heard,
+Nor hand, nor head, nor body stirred.
+They trembled, and their dread increased,
+Fearing his breath of life had ceased,
+And bending low their heads, they shook
+Like the tall reeds that fringe the brook.
+In doubt and terror down they knelt,
+Looked on his face, his cold hand felt,
+And then the gloomy truth appeared
+Of all their hearts had darkly feared.
+Kauśalyá and Sumitrá, worn
+With weeping for their sons, forlorn,
+Woke not, but lay in slumber deep
+And still as death’s unending sleep.
+Bowed down by grief, her colour fled,
+Her wonted lustre dull and dead,
+Kauśalyá shone not, like a star
+Obscured behind a cloudy bar.
+Beside the king’s her couch was spread,
+And next was Queen Sumitrá’s bed,
+Who shone no more with beauty’s glow,
+Her face bedewed with tears of woe.
+There lapped in sleep each wearied queen,
+There as in sleep, the king was seen;And swift the troubling thought came o’er
+Their spirits that he breathed no more.
+At once with wailing loud and high
+The matrons shrieked a bitter cry,
+As widowed elephants bewail
+Their dead lord in the woody vale.
+At the loud shriek that round them rang,
+Kauśalyá and Sumitrá sprang
+Awakened from their beds, with eyes
+Wide open in their first surprise.
+Quick to the monarch’s side they came,
+And saw and touched his lifeless frame;
+One cry, O husband! forth they sent,
+And prostrate to the ground they went.
+The king of Kośal’s daughter(338) there
+Writhed, with the dust on limb and hair
+Lustreless, as a star might lie
+Hurled downward from the glorious sky.
+When the king’s voice in death was stilled,
+The women who the chamber filled
+Saw, like a widow elephant slain,
+Kauśalyá prostrate in her pain.
+Then all the monarch’s ladies led
+By Queen Kaikeyí at their head,
+Poured forth their tears, and weeping so,Sank on the ground, consumed by woe.
+The cry of grief so long and loud
+Went up from all the royal crowd,
+That, doubled by the matron train,
+It made the palace ring again.
+Filled with dark fear and eager eyes,
+Anxiety and wild surmise;
+Echoing with the cries of grief
+Of sorrowing friends who mourned their chief,
+Dejected, pale with deep distress,
+Hurled from their height of happiness:
+Such was the look the palace wore
+Where lay the king who breathed no more.<b>Canto LXVI. The Embalming.</b>
+
+Kauśalyá’s eyes with tears o’erflowed,
+Weighed down by varied sorrows’ load;
+On her dead lord her gaze she bent,
+Who lay like fire whose might is spent,
+Like the great deep with waters dry,
+Or like the clouded sun on high.
+Then on her lap she laid his head.
+And on Kaikeyí looked and said:
+“Triumphant now enjoy thy reign
+Without a thorn thy side to pain.
+Thou hast pursued thy single aim,
+And killed the king, O wicked dame.
+Far from my sight my Ráma flies,
+My perished lord has sought the skies.
+No friend, no hope my life to cheer,
+I cannot tread the dark path here.
+Who would forsake her husband, who
+That God to whom her love is due,
+And wish to live one hour, but she
+Whose heart no duty owns, like thee?
+The ravenous sees no fault: his greed
+Will e’en on poison blindly feed.
+Kaikeyí, through a hump-back maid,
+This royal house in death has laid.King Janak, with his queen, will hear
+Heart rent like me the tidings drear
+Of Ráma banished by the king,
+Urged by her impious counselling.
+No son has he, his age is great,
+And sinking with the double weight,
+He for his darling child will pine,
+And pierced with woe his life resign.
+Sprung from Videha’s monarch, she
+A sad and lovely devotee,
+Roaming the wood, unmeet for woe,
+Will toil and trouble undergo.
+She in the gloomy night with fear
+The cries of beast and bird will hear,
+And trembling in her wild alarm
+Will cling to Ráma’s sheltering arm.
+Ah, little knows my duteous son
+That I am widowed and undone—
+My Ráma of the lotus eye,
+Gone hence, gone hence, alas, to die.
+Now, as a living wife and true,
+I, e’en this day, will perish too:
+Around his form these arms will throw
+And to the fire with him will go.”  Clasping her husband’s lifeless clay
+A while the weeping votaress lay,
+Till chamberlains removed her thence
+O’ercome by sorrow’s violence.
+Then in a cask of oil they laid
+Him who in life the world had swayed,
+And finished, as the lords desired,
+All rites for parted souls required.
+The lords, all-wise, refused to burn
+The monarch ere his son’s return;
+So for a while the corpse they set
+Embalmed in oil, and waited yet.
+The women heard: no doubt remained,
+And wildly for the king they plained.
+With gushing tears that drowned each eye
+Wildly they waved their arms on high,
+And each her mangling nails impressed
+Deep in her head and knee and breast:
+“Of Ráma reft,—who ever spake
+The sweetest words the heart to take,
+Who firmly to the truth would cling,—
+Why dost thou leave us, mighty King?
+How can the consorts thou hast left
+Widowed, of Raghu’s son bereft,
+Live with our foe Kaikeyí near,The wicked queen we hate and fear?
+She threw away the king, her spite
+Drove Ráma forth and Lakshmaṇ’s might,
+And gentle Sítá: how will she
+Spare any, whosoe’er it be?”
+
+  Oppressed with sorrow, tear-distained,
+The royal women thus complained.
+Like night when not a star appears,
+Like a sad widow drowned in tears,
+Ayodhyá’s city, dark and dim,
+Reft of her lord was sad for him.
+When thus for woe the king to heaven had fled,
+  And still on earth his lovely wives remained.
+With dying light the sun to rest had sped,
+  And night triumphant o’er the landscape reigned.<b>Canto LXVII. The Praise Of Kings.</b>
+
+That night of sorrow passed away,
+And rose again the God of Day.
+Then all the twice-born peers of state
+Together met for high debate.
+Jáválí, lord of mighty fame.
+And Gautam, and Kátyáyan came,
+And Márkandeya’s reverend age,
+And Vámadeva, glorious sage:
+Sprung from Mudgalya’s seed the one,
+The other ancient Kaśyap’s son.
+With lesser lords these Bráhmans each
+Spoke in his turn his several speech,
+And turning to Vaśishṭha, best
+Of household priests him thus addressed:
+“The night of bitter woe has past,
+Which seemed a hundred years to last,
+Our king, in sorrow for his son,
+Reunion with the Five has won.
+His soul is where the blessed are,
+While Ráma roams in woods afar,
+And Lakshmaṇ, bright in glorious deeds,
+Goes where his well-loved brother leads.
+And Bharat and Śatrughna, they
+Who smite their foes in battle fray,Far in the realm of Kekaya stay,
+Where their maternal grandsire’s care
+Keeps Rájagriha’s city fair.
+Let one of old Ikshváku’s race
+Obtain this day the sovereign’s place,
+Or havoc and destruction straight
+Our kingless land will devastate.
+In kingless lands no thunder’s voice,
+No lightning wreaths the heart rejoice,
+Nor does Parjanya’s heavenly rain
+Descend upon the burning plain.
+Where none is king, the sower’s hand
+Casts not the seed upon the land;
+The son against the father strives.
+And husbands fail to rule their wives.
+In kingless realms no princes call
+Their friends to meet in crowded hall;
+No joyful citizens resort
+To garden trim or sacred court.
+In kingless realms no Twice-born care
+To sacrifice with text and prayer,
+Nor Bráhmans, who their vows maintain,
+The great solemnities ordain.
+The joys of happier days have ceased:
+No gathering, festival, or feastTogether calls the merry throng
+Delighted with the play and song.
+In kingless lands it ne’er is well
+With sons of trade who buy and sell:
+No men who pleasant tales repeat
+Delight the crowd with stories sweet.
+In kingless realms we ne’er behold
+Young maidens decked with gems and gold,
+Flock to the gardens blithe and gay
+To spend their evening hours in play.
+No lover in the flying car
+Rides with his love to woods afar.
+In kingless lands no wealthy swain
+Who keeps the herd and reaps the grain,
+Lies sleeping, blest with ample store,
+Securely near his open door.
+Upon the royal roads we see
+No tusked elephant roaming free,
+Of three-score years, whose head and neck
+Sweet tinkling bells of silver deck.
+We hear no more the glad applause
+When his strong bow each rival draws,
+No clap of hands, no eager cries
+That cheer each martial exercise.
+In kingless realms no merchant bandsWho travel forth to distant lands,
+With precious wares their wagons load,
+And fear no danger on the road.
+No sage secure in self-control,
+Brooding on God with mind and soul,
+In lonely wanderings finds his home
+Where’er at eve his feet may roam.
+In kingless realms no man is sure
+He holds his life and wealth secure.
+In kingless lands no warriors smite
+The foeman’s host in glorious fight.
+In kingless lands the wise no more,
+Well trained in Scripture’s holy lore,
+In shady groves and gardens meet
+To argue in their calm retreat.
+No longer, in religious fear,
+Do they who pious vows revere,
+Bring dainty cates and wreaths of flowers
+As offerings to the heavenly powers.
+No longer, bright as trees in spring,
+Shine forth the children of the king
+Resplendent in the people’s eyes
+With aloe wood and sandal dyes.
+A brook where water once has been,
+A grove where grass no more is green,Kine with no herdsman’s guiding hand—
+So wretched is a kingless land.
+The car its waving banner rears,
+Banner of fire the smoke appears:
+Our king, the banner of our pride,
+A God with Gods is glorified.
+In kingless lands no law is known,
+And none may call his wealth his own,
+Each preys on each from hour to hour,
+As fish the weaker fish devour.
+Then fearless, atheists overleap
+The bounds of right the godly keep,
+And when no royal powers restrain,
+Preëminence and lordship gain.
+As in the frame of man the eye
+Keeps watch and ward, a careful spy,
+The monarch in his wide domains
+Protects the truth, the right maintains.
+He is the right, the truth is he,
+Their hopes in him the well-born see.
+On him his people’s lives depend,
+Mother is he, and sire, and friend.
+The world were veiled in blinding night,
+And none could see or know aright,
+Ruled there no king in any stateThe good and ill to separate.
+We will obey thy word and will
+As if our king were living still:
+As keeps his bounds the faithful sea,
+So we observe thy high decree.
+O best of Bráhmans, first in place,
+  Our kingless land lies desolate:
+Some scion of Ikshváku’s race
+  Do thou as monarch consecrate.”<b>Canto LXVIII. The Envoys.</b>
+
+Vaśishṭha heard their speech and prayer,
+And thus addressed the concourse there,
+Friends, Bráhmans, counsellors, and all
+Assembled in the palace hall:
+“Ye know that Bharat, free from care,
+Still lives in Rájagriha(339) where
+The father of his mother reigns:
+Śatrughna by his side remains.
+Let active envoys, good at need,
+Thither on fleetest horses speed,
+To bring the hero youths away:
+Why waste the time in dull delay?”
+
+  Quick came from all the glad reply:
+“Vaśishṭha, let the envoys fly!”
+He heard their speech, and thus renewed
+His charge before the multitude:
+“Nandan, Aśok, Siddhárth, attend,
+Your ears, Jayanta, Vijay, lend:
+Be yours, what need requires, to do:
+I speak these words to all of you.
+With coursers of the fleetest breed
+To Rájagriha’s city speed.
+Then rid your bosoms of distress,And Bharat thus from me address:
+“The household priest and peers by us
+Send health to thee and greet thee thus:
+Come to thy father’s home with haste:
+Thine absent time no longer waste.”
+But speak no word of Ráma fled,
+Tell not the prince his sire is dead,
+Nor to the royal youth the fate
+That ruins Raghu’s race relate.
+Go quickly hence, and with you bear
+Fine silken vestures rich and rare,
+And gems and many a precious thing
+As gifts to Bharat and the king.”
+
+  With ample stores of food supplied,
+Each to his home the envoys hied,
+Prepared, with steeds of swiftest race,
+To Kekaya’s land(340) their way to trace.
+They made all due provision there,
+And every need arranged with care,
+Then ordered by Vaśishṭha, they
+Went forth with speed upon their way.
+Then northward of Pralamba, west
+Of Apartála, on they pressed,
+Crossing the Máliní that flowed
+With gentle stream athwart the road.They traversed Gangá’s holy waves
+Where she Hástinapura(341) laves,
+Thence to Panchála(342) westward fast
+Through Kurujángal’s land(343) they passed.
+On, on their course the envoys held
+By urgency of task impelled.
+Quick glancing at each lucid flood
+And sweet lake gay with flower and bud.
+Beyond, they passed unwearied o’er,
+Where glad birds fill the flood and shore
+Of Śaradaṇḍá racing fleet
+With heavenly water clear and sweet,
+Thereby a tree celestial grows
+Which every boon on prayer bestows:
+To its blest shade they humbly bent,
+Then to Kulingá’s town they went.
+Then, having passed the Warrior’s Wood,
+In Abhikála next they stood,
+O’er sacred Ikshumatí(344) came,
+Their ancient kings’ ancestral claim.
+They saw the learned Bráhmans stand,
+Each drinking from his hollowed hand,
+And through Báhíka(345) journeying still
+They reached at length Sudáman’s hill:
+There Vishṇu’s footstep turned to see,Vipáśá(346) viewed, and Śálmalí,
+And many a lake and river met,
+Tank, pool, and pond, and rivulet.
+And lions saw, and tigers near,
+And elephants and herds of deer,
+And still, by prompt obedience led,
+Along the ample road they sped.
+Then when their course so swift and long,
+Had worn their steeds though fleet and strong,
+To Girivraja’s splendid town
+They came by night, and lighted down.
+To please their master, and to guard
+    The royal race, the lineal right,
+  The envoys, spent with riding hard,
+    To that fair city came by night.(347)<b>Canto LXIX. Bharat’s Dream.</b>
+
+The night those messengers of state
+Had past within the city’s gate,
+In dreams the slumbering Bharat saw
+A sight that chilled his soul with awe.
+The dream that dire events foretold
+Left Bharat’s heart with horror cold,
+And with consuming woes distraught,
+Upon his aged sire he thought.
+His dear companions, swift to trace
+The signs of anguish on his face,
+Drew near, his sorrow to expel,
+And pleasant tales began to tell.
+Some woke sweet music’s cheering sound,
+And others danced in lively round.
+With joke and jest they strove to raise
+His spirits, quoting ancient plays;
+But Bharat still, the lofty-souled,
+Deaf to sweet tales his fellows told,
+Unmoved by music, dance, and jest,
+Sat silent, by his woe oppressed.
+To him, begirt by comrades near,
+Thus spoke the friend he held most dear:
+“Why ringed around by friends, art thou
+So silent and so mournful now?”“Hear thou,” thus Bharat made reply,
+“What chills my heart and dims mine eye.
+I dreamt I saw the king my sire
+Sink headlong in a lake of mire
+Down from a mountain high in air,
+His body soiled, and loose his hair.
+Upon the miry lake he seemed
+To lie and welter, as I dreamed;
+With hollowed hands full many a draught
+Of oil he took, and loudly laughed.
+With head cast down I saw him make
+A meal on sesamum and cake;
+The oil from every member dripped,
+And in its clammy flood he dipped.
+The ocean’s bed was bare and dry,
+The moon had fallen from the sky,
+And all the world lay still and dead,
+With whelming darkness overspread.
+The earth was rent and opened wide,
+The leafy trees were scorched, and died;
+I saw the seated mountains split,
+And wreaths of rising smoke emit.
+The stately beast the monarch rode
+His long tusks rent and splintered showed;
+And flames that quenched and cold had lainBlazed forth with kindled light again.
+I looked, and many a handsome dame,
+Arrayed in brown and sable came
+And bore about the monarch, dressed,
+On iron stool, in sable vest.
+And then the king, of virtuous mind,
+A blood-red wreath around him twined,
+Forth on an ass-drawn chariot sped,
+As southward still he bent his head.
+Then, crimson-clad, a dame appeared
+Who at the monarch laughed and jeered;
+And a she-monster, dire to view,
+Her hand upon his body threw.
+Such is the dream I dreamt by night,
+Which chills me yet with wild affright:
+Either the king or Ráma, I
+Or Lakshmaṇ now must surely die.
+For when an ass-drawn chariot seems
+To bear away a man in dreams,
+Be sure above his funeral pyre
+The smoke soon rears its cloudy spire.
+This makes my spirit low and weak,
+My tongue is slow and loth to speak:
+My lips and throat are dry for dread,
+And all my soul disquieted.

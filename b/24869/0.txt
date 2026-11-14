@@ -1,0 +1,2034 @@
+HOLB1	24869	0	0	80	2635	150
+39	Canto II. Brahmá’s Visit
+46	Canto III. The Argument.
+53	Canto IV. The Rhapsodists.
+58	Canto V. Ayodhyá.
+62	Canto VI. The King.
+67	Canto VII. The Ministers.
+71	Canto VIII. Sumantra’s Speech.
+75	Canto IX. Rishyasring.
+86	Canto X. Rishyasring Invited.
+92	Canto XI. The Sacrifice Decreed.
+96	Canto XII. The Sacrifice Begun.
+102	Canto XIII. The Sacrifice Finished.
+111	Canto XIV. Rávan Doomed.
+118	Canto XV. The Nectar.
+122	Canto XVI. The Vánars.
+127	Canto XVII. Rishyasring’s Return.
+134	Canto XVIII. Rishyasring’s Departure.
+138	Canto XIX. The Birth Of The Princes.
+143	Canto XX. Visvámitra’s Visit.
+147	Canto XXI. Visvámitra’s Speech.
+151	Canto XXII. Dasaratha’s Speech.
+155	Canto XXIII. Vasishtha’s Speech.
+158	Canto XXIV. The Spells.
+162	Canto XXV. The Hermitage Of Love.
+166	Canto XXVI. The Forest Of Tádaká.
+171	Canto XXVII. The Birth Of Tádaká.
+174	Canto XXVIII. The Death Of Tádaká.
+180	Canto XXIX. The Celestial Arms.
+187	Canto XXXI. The Perfect Hermitage.
+191	Canto XXXII. Visvámitra’s Sacrifice.
+195	Canto XXXIII. The Sone.
+199	Canto XXXIV. Brahmadatta.
+207	Canto XXXV. Visvámitra’s Lineage.
+211	Canto XXXVI. The Birth Of Gangá.
+215	Canto XXXIX. The Sons Of Sagar.
+219	Canto XL. The Cleaving Of The Earth.
+223	Canto XLI. Kapil.
+227	Canto XLII. Sagar’s Sacrifice.
+231	Canto XLIII. Bhagírath.
+235	Canto XLIV. The Descent Of Gangá.
+244	Canto XLV. The Quest Of The Amrit.
+252	Canto XLVI. Diti’s Hope.
+254	Canto XLVII. Sumati.
+257	Canto XLVIII. Indra And Ahalyá
+262	Canto XLIX. Ahalyá Freed.
+264	Canto L. Janak.
+268	Canto LI. Visvámitra.
+272	Canto LII. Vasishtha’s Feast.
+276	Canto LIII. Visvámitra’s Request.
+280	Canto LIV. The Battle.
+284	Canto LV. The Hermitage Burnt.
+288	Canto LVI. Visvámitra’s Vow.
+292	Canto LVII. Trisanku.
+296	Canto LVIII. Trisanku Cursed.
+300	Canto LIX. The Sons Of Vasishtha.
+304	Canto LX. Trisanku’s Ascension.
+309	Canto LXI. Sunahsepha.
+313	Canto LXII. Ambarísha’s Sacrifice.
+317	Canto LXIII. Menaká.
+322	Canto LXIV. Rambhá.
+325	Canto LXV. Visvámitra’s Triumph
+331	Canto LXVI. Janak’s Speech.
+335	Canto LXVII. The Breaking Of The Bow.
+339	Canto LXVIII. The Envoys’ Speech.
+342	Canto LXIX. Dasaratha’s Visit.
+345	Canto LXX. The Maidens Sought.
+352	Canto LXXI. Janak’s Pedigree.
+356	Canto LXXII. The Gift Of Kine.
+359	Canto LXXIII. The Nuptials.
+368	Canto LXXV. The Parle.
+373	Canto LXXVI. Debarred From Heaven.
+377	Canto LXXVII. Bharat’s Departure.
+381	Canto I. The Heir Apparent.
+387	Canto II. The People’s Speech.
+393	Canto III. Dasaratha’s Precepts.
+401	Canto IV. Ráma Summoned.
+408	Canto V. Ráma’s Fast.
+412	Canto VI. The City Decorated.
+417	Canto VII. Manthará’s Lament.
+422	Canto VIII. Manthará’s Speech.
+428	Canto IX. The Plot.
+437	Canto X. Dasaratha’s Speech.
+444	Canto XI. The Queen’s Demand.
+448	Canto XII. Dasaratha’s Lament.
+465	Canto XIII. Dasaratha’s Distress.
+468	Canto XIV. Ráma Summoned.
+478	Canto XV. The Preparations.
+486	Canto XVI. Ráma Summoned.
+493	Canto XVII. Ráma’s Approach.
+496	Canto XVIII. The Sentence.
+503	Canto XIX. Ráma’s Promise.
+510	Canto XX. Kausalyá’s Lament.
+518	Canto XXI. Kausalyá Calmed.
+528	Canto XXII. Lakshman Calmed.
+533	Canto XXIII. Lakshman’s Anger.
+540	Canto XXIV. Kausalyá Calmed.
+546	Canto XXV. Kausalyá’s Blessing.
+554	Canto XXVI. Alone With Sítá.
+560	Canto XXVII. Sítá’s Speech.
+564	Canto XXVIII. The Dangers Of The Wood.
+568	Canto XXIX. Sítá’s Appeal.
+572	Canto XXX. The Triumph Of Love.
+580	Canto XXXI. Lakshman’s Prayer.
+586	Canto XXXII. The Gift Of The Treasures.
+593	Canto XXXIII. The People’s Lament.
+598	Canto XXXIV. Ráma In The Palace.
+607	Canto XXXV. Kaikeyí Reproached.
+612	Canto XXXVI. Siddhárth’s Speech.
+617	Canto XXXVII. The Coats Of Bark.
+622	Canto XXXVIII. Care For Kausalyá
+626	Canto XXXIX. Counsel To Sítá.
+633	Canto XL. Ráma’s Departure.
+641	Canto XLI. The Citizens’ Lament.
+644	Canto XLII. Dasaratha’s Lament.
+649	Canto XLIII. Kausalyá’s Lament.
+653	Canto XLIV. Sumitrá’s Speech.
+657	Canto XLV. The Tamasá.
+663	Canto XLVI. The Halt.
+669	Canto XLVII. The Citizens’ Return.
+672	Canto XLVIII. The Women’s Lament.
+677	Canto XLIX. The Crossing Of The Rivers.
+686	Canto LI. Lakshman’s Lament.
+690	Canto LII. The Crossing Of Gangá.
+706	Canto LIII. Ráma’s Lament.
+712	Canto LIV. Bharadvája’s Hermitage.
+719	Canto LV. The Passage Of Yamuná.
+724	Canto LVI. Chitrakúta
+730	Canto LVII. Sumantra’s Return.
+735	Canto LVIII. Ráma’s Message.
+741	Canto LIX. Dasaratha’s Lament.
+747	Canto LX. Kausalyá Consoled.
+751	Canto LXI. Kausalyá’s Lament.
+755	Canto LXII. Dasaratha Consoled.
+758	Canto LXIII. The Hermit’s Son.
+766	Canto LXIV. Dasaratha’s Death.
+778	Canto LXV. The Women’s Lament.
+783	Canto LXVI. The Embalming.
+787	Canto LXVII. The Praise Of Kings.
+793	Canto LXVIII. The Envoys.
+797	Canto LXIX. Bharat’s Dream.
+801	Canto LXX. Bharat’s Departure.
+806	Canto LXXI. Bharat’s Return.
+813	Canto LXXII. Bharat’s Inquiry.
+822	Canto LXXIII. Kaikeyí Reproached.
+826	Canto LXXIV. Bharat’s Lament.
+831	Canto LXXV. The Abjuration.
+838	Canto LXXVI. The Funeral.
+842	Canto LXXVII. The Gathering Of The Ashes.
+847	Canto LXXVIII. Manthará Punished.
+851	Canto LXXIX. Bharat’s Commands.
+*The RÁMÁYAN of VÁLMÍKI*
+
+*Translated into English Verse*
+
+*by*
+
+Ralph T. H. Griffith, M.A.
+
+Principal of the Benares College
+
+London: Trübner & Co.
+
+Benares: E. J. Lazarus and Co.
+
+1870-1874
+
+CONTENTS
+
+Invocation.
+Book I.
+   Canto I. Nárad.
+   Canto II. Brahmá’s Visit
+   Canto III. The Argument.
+   Canto IV. The Rhapsodists.
+   Canto V. Ayodhyá.
+   Canto VI. The King.   Canto VII. The Ministers.
+   Canto VIII. Sumantra’s Speech.
+   Canto IX. Rishyasring.
+   Canto X. Rishyasring Invited.
+   Canto XI. The Sacrifice Decreed.
+   Canto XII. The Sacrifice Begun.
+   Canto XIII. The Sacrifice Finished.
+   Canto XIV. Rávan Doomed.
+   Canto XV. The Nectar.
+   Canto XVI. The Vánars.
+   Canto XVII. Rishyasring’s Return.
+   Canto XVIII. Rishyasring’s Departure.
+   Canto XIX. The Birth Of The Princes.
+   Canto XX. Visvámitra’s Visit.
+   Canto XXI. Visvámitra’s Speech.
+   Canto XXII. Dasaratha’s Speech.
+   Canto XXIII. Vasishtha’s Speech.
+   Canto XXIV. The Spells.
+   Canto XXV. The Hermitage Of Love.
+   Canto XXVI. The Forest Of Tádaká.
+   Canto XXVII. The Birth Of Tádaká.
+   Canto XXVIII. The Death Of Tádaká.
+   Canto XXIX. The Celestial Arms.
+   Canto XXX. The Mysterious Powers.
+   Canto XXXI. The Perfect Hermitage.   Canto XXXII. Visvámitra’s Sacrifice.
+   Canto XXXIII. The Sone.
+   Canto XXXIV. Brahmadatta.
+   Canto XXXV. Visvámitra’s Lineage.
+   Canto XXXVI. The Birth Of Gangá.
+   Canto XXXIX. The Sons Of Sagar.
+   Canto XL. The Cleaving Of The Earth.
+   Canto XLI. Kapil.
+   Canto XLII. Sagar’s Sacrifice.
+   Canto XLIII. Bhagírath.
+   Canto XLIV. The Descent Of Gangá.
+   Canto XLV. The Quest Of The Amrit.
+   Canto XLVI. Diti’s Hope.
+   Canto XLVII. Sumati.
+   Canto XLVIII. Indra And Ahalyá
+   Canto XLIX. Ahalyá Freed.
+   Canto L. Janak.
+   Canto LI. Visvámitra.
+   Canto LII. Vasishtha’s Feast.
+   Canto LIII. Visvámitra’s Request.
+   Canto LIV. The Battle.
+   Canto LV. The Hermitage Burnt.
+   Canto LVI. Visvámitra’s Vow.
+   Canto LVII. Trisanku.
+   Canto LVIII. Trisanku Cursed.   Canto LIX. The Sons Of Vasishtha.
+   Canto LX. Trisanku’s Ascension.
+   Canto LXI. Sunahsepha.
+   Canto LXII. Ambarísha’s Sacrifice.
+   Canto LXIII. Menaká.
+   Canto LXIV. Rambhá.
+   Canto LXV. Visvámitra’s Triumph
+   Canto LXVI. Janak’s Speech.
+   Canto LXVII. The Breaking Of The Bow.
+   Canto LXVIII. The Envoys’ Speech.
+   Canto LXIX. Dasaratha’s Visit.
+   Canto LXX. The Maidens Sought.
+   Canto LXXI. Janak’s Pedigree.
+   Canto LXXII. The Gift Of Kine.
+   Canto LXXIII. The Nuptials.
+   Canto LXXIV. Ráma With The Axe.
+   Canto LXXV. The Parle.
+   Canto LXXVI. Debarred From Heaven.
+   Canto LXXVII. Bharat’s Departure.
+BOOK II.
+   Canto I. The Heir Apparent.
+   Canto II. The People’s Speech.
+   Canto III. Dasaratha’s Precepts.
+   Canto IV. Ráma Summoned.
+   Canto V. Ráma’s Fast.   Canto VI. The City Decorated.
+   Canto VII. Manthará’s Lament.
+   Canto VIII. Manthará’s Speech.
+   Canto IX. The Plot.
+   Canto X. Dasaratha’s Speech.
+   Canto XI. The Queen’s Demand.
+   Canto XII. Dasaratha’s Lament.
+   Canto XIII. Dasaratha’s Distress.
+   Canto XIV. Ráma Summoned.
+   Canto XV. The Preparations.
+   Canto XVI. Ráma Summoned.
+   Canto XVII. Ráma’s Approach.
+   Canto XVIII. The Sentence.
+   Canto XIX. Ráma’s Promise.
+   Canto XX. Kausalyá’s Lament.
+   Canto XXI. Kausalyá Calmed.
+   Canto XXII. Lakshman Calmed.
+   Canto XXIII. Lakshman’s Anger.
+   Canto XXIV. Kausalyá Calmed.
+   Canto XXV. Kausalyá’s Blessing.
+   Canto XXVI. Alone With Sítá.
+   Canto XXVII. Sítá’s Speech.
+   Canto XXVIII. The Dangers Of The Wood.
+   Canto XXIX. Sítá’s Appeal.
+   Canto XXX. The Triumph Of Love.   Canto XXXI. Lakshman’s Prayer.
+   Canto XXXII. The Gift Of The Treasures.
+   Canto XXXIII. The People’s Lament.
+   Canto XXXIV. Ráma In The Palace.
+   Canto XXXV. Kaikeyí Reproached.
+   Canto XXXVI. Siddhárth’s Speech.
+   Canto XXXVII. The Coats Of Bark.
+   Canto XXXVIII. Care For Kausalyá
+   Canto XXXIX. Counsel To Sítá.
+   Canto XL. Ráma’s Departure.
+   Canto XLI. The Citizens’ Lament.
+   Canto XLII. Dasaratha’s Lament.
+   Canto XLIII. Kausalyá’s Lament.
+   Canto XLIV. Sumitrá’s Speech.
+   Canto XLV. The Tamasá.
+   Canto XLVI. The Halt.
+   Canto XLVII. The Citizens’ Return.
+   Canto XLVIII. The Women’s Lament.
+   Canto XLIX. The Crossing Of The Rivers.
+   Canto L. The Halt Under The Ingudí.
+   Canto LI. Lakshman’s Lament.
+   Canto LII. The Crossing Of Gangá.
+   Canto LIII. Ráma’s Lament.
+   Canto LIV. Bharadvája’s Hermitage.
+   Canto LV. The Passage Of Yamuná.   Canto LVI. Chitrakúta
+   Canto LVII. Sumantra’s Return.
+   Canto LVIII. Ráma’s Message.
+   Canto LIX. Dasaratha’s Lament.
+   Canto LX. Kausalyá Consoled.
+   Canto LXI. Kausalyá’s Lament.
+   Canto LXII. Dasaratha Consoled.
+   Canto LXIII. The Hermit’s Son.
+   Canto LXIV. Dasaratha’s Death.
+   Canto LXV. The Women’s Lament.
+   Canto LXVI. The Embalming.
+   Canto LXVII. The Praise Of Kings.
+   Canto LXVIII. The Envoys.
+   Canto LXIX. Bharat’s Dream.
+   Canto LXX. Bharat’s Departure.
+   Canto LXXI. Bharat’s Return.
+   Canto LXXII. Bharat’s Inquiry.
+   Canto LXXIII. Kaikeyí Reproached.
+   Canto LXXIV. Bharat’s Lament.
+   Canto LXXV. The Abjuration.
+   Canto LXXVI. The Funeral.
+   Canto LXXVII. The Gathering Of The Ashes.
+   Canto LXXVIII. Manthará Punished.
+   Canto LXXIX. Bharat’s Commands.
+   Canto LXXX. The Way Prepared.   Canto LXXXI. The Assembly.
+   Canto LXXXII. The Departure.
+   Canto LXXXIII. The Journey Begun.
+   Canto LXXXIV. Guha’s Anger.
+   Canto LXXXV. Guha And Bharat.
+   Canto LXXXVI. Guha’s Speech.
+   Canto LXXXVII. Guha’s Story.
+   Canto LXXXVIII. The Ingudí Tree.
+   Canto LXXXIX. The Passage Of Gangá.
+   Canto XC. The Hermitage.
+   Canto XCI. Bharadvája’s Feast.
+   Canto XCII. Bharat’s Farewell.
+   Canto XCIII. Chitrakúta In Sight.
+   Canto XCIV. Chitrakúta.
+   Canto XCV. Mandákiní.
+   Canto XCVI. The Magic Shaft.
+   Canto XCVII. Lakshman’s Anger.
+   Canto XCVIII. Lakshman Calmed.
+   Canto XCIX. Bharat’s Approach.
+   Canto C. The Meeting.
+   Canto CI. Bharata Questioned.
+   Canto CII. Bharat’s Tidings.
+   Canto CIII. The Funeral Libation.
+   Canto CIV. The Meeting With The Queens.
+   Canto CV. Ráma’s Speech.   Canto CVI. Bharat’s Speech.
+   Canto CVII. Ráma’s Speech.
+   Canto CVIII. Jáváli’s Speech.
+   Canto CIX. The Praises Of Truth.
+   Canto CX. The Sons Of Ikshváku.
+   Canto CXI. Counsel To Bharat.
+   Canto CXII. The Sandals.
+   Canto CXIII. Bharat’s Return.
+   Canto CXIV. Bharat’s Departure.
+   Canto CXV. Nandigrám.
+   Canto CXVI. The Hermit’s Speech.
+   Canto CXVII. Anasúyá.
+   Canto CXVIII. Anasúyá’s Gifts.
+   Canto CXIX. The Forest.
+BOOK III.
+   Canto I. The Hermitage.
+   Canto II. Virádha.
+   Canto III. Virádha Attacked.
+   Canto IV. Virádha’s Death.
+   Canto V. Sarabhanga.
+   Canto VI. Ráma’s Promise.
+   Canto VII. Sutíkshna.
+   Canto VIII. The Hermitage.
+   Canto IX. Sítá’s Speech.
+   Canto X. Ráma’s Reply.   Canto XI. Agastya.
+   Canto XII. The Heavenly Bow.
+   Canto XIII. Agastya’s Counsel.
+   Canto XIV. Jatáyus.
+   Canto XV. Panchavatí.
+   Canto XVI. Winter.
+   Canto XVII. Súrpanakhá.
+   Canto XVIII. The Mutilation.
+   Canto XIX. The Rousing Of Khara.
+   Canto XX. The Giants’ Death.
+   Canto XXI. The Rousing Of Khara.
+   Canto XXII. Khara’s Wrath.
+   Canto XXIII. The Omens.
+   Canto XXIV. The Host In Sight.
+   Canto XXV. The Battle.
+   Canto XXVI. Dúshan’s Death.
+   Canto XXVII. The Death Of Trisirás.
+   Canto XXVIII. Khara Dismounted.
+   Canto XXIX. Khara’s Defeat.
+   Canto XXX. Khara’s Death.
+   Canto XXXI. Rávan.
+   Canto XXXII. Rávan Roused.
+   Canto XXXIII. Súrpanakhá’s Speech.
+   Canto XXXIV. Súrpanakhá’s Speech.
+   Canto XXXV. Rávan’s Journey.   Canto XXXVI. Rávan’s Speech.
+   Canto XXXVII. Márícha’s Speech.
+   Canto XXXVIII. Márícha’s Speech.
+   Canto XXXIX. Márícha’s Speech.
+   Canto XL. Rávan’s Speech.
+   Canto XLI. Márícha’s Reply.
+   Canto XLII. Márícha Transformed.
+   Canto XLIII. The Wondrous Deer.
+   Canto XLIV. Márícha’s Death.
+   Canto XLV. Lakshman’s Departure.
+   Canto XLVI. The Guest.
+   Canto XLVII. Rávan’s Wooing.
+   Canto XLVIII. Rávan’s Speech.
+   Canto XLIX. The Rape Of Sítá.
+   Canto L. Jatáyus.
+   Canto LI. The Combat.
+   Canto LII. Rávan’s Flight.
+   Canto LIII. Sítá’s Threats.
+   Canto LIV. Lanká.
+   Canto LV. Sítá In Prison.
+   Canto LVI. Sítá’s Disdain.
+   Canto LVII. Sítá Comforted.
+   Canto LVIII. The Brothers’ Meeting.
+   Canto LIX. Ráma’s Return.
+   Canto LX. Lakshman Reproved.   Canto LXI. Ráma’s Lament.
+   Canto LXII. Ráma’s Lament.
+   Canto LXIII. Ráma’s Lament.
+   Canto LXIV. Ráma’s Lament.
+   Canto LXV. Ráma’s Wrath.
+   Canto LXVI. Lakshman’s Speech.
+   Canto LXVII. Ráma Appeased.
+   Canto LXVIII. Jatáyus.
+   Canto LXIX. The Death Of Jatáyus.
+   Canto LXX. Kabandha.
+   Canto LXXI. Kabandha’s Speech.
+   Canto LXXII. Kabandha’s Tale.
+   Canto LXXIII. Kabandha’s Counsel.
+   Canto LXXIV. Kabandha’s Death.
+   Canto LXXV. Savarí.
+   Canto LXXVI. Pampá.
+BOOK IV.
+   Canto I. Ráma’s Lament.
+   Canto II. Sugríva’s Alarm.
+   Canto III. Hanumán’s Speech.
+   Canto IV. Lakshman’s Reply.
+   Canto V. The League.
+   Canto VI. The Tokens.
+   Canto VII. Ráma Consoled.
+   Canto VIII. Ráma’s Promise.   Canto IX. Sugríva’s Story.
+   Canto X. Sugríva’s Story.
+   Canto XI. Dundubhi.
+   Canto XII. The Palm Trees.
+   Canto XIII. The Return To Kishkindhá.
+   Canto XIV. The Challenge.
+   Canto XV. Tárá.
+   Canto XVI. The Fall Of Báli.
+   Canto XVII. Báli’s Speech.
+   Canto XVIII. Ráma’s Reply.
+   Canto XIX. Tárá’s Grief.
+   Canto XX. Tárá’s Lament.
+   Canto XXI. Hanumán’s Speech.
+   Canto XXII. Báli Dead.
+   Canto XXIII. Tárá’s Lament.
+   Canto XXIV. Sugríva’s Lament.
+   Canto XXV. Ráma’s Speech.
+   Canto XXVI. The Coronation.
+   Canto XXVII. Ráma On The Hill.
+   Canto XXVIII. The Rains.
+   Canto XXIX. Hanumán’s Counsel.
+   Canto XXX. Ráma’s Lament.
+   Canto XXXI. The Envoy.
+   Canto XXXII. Hanumán’s Counsel.
+   Canto XXXIII. Lakshman’s Entry.   Canto XXXIV. Lakshman’s Speech.
+   Canto XXXV. Tárá’s Speech.
+   Canto XXXVI. Sugríva’s Speech.
+   Canto XXXVII. The Gathering.
+   Canto XXXVIII. Sugríva’s Departure.
+   Canto XXXIX. The Vánar Host.
+   Canto XL. The Army Of The East.
+   Canto XLI. The Army Of The South.
+   Canto XLII. The Army Of The West.
+   Canto XLIII. The Army Of The North.
+   Canto XLIV. The Ring.
+   Canto XLV. The Departure.
+   Canto XLVI. Sugríva’s Tale.
+   Canto XLVII. The Return.
+   Canto XLVIII. The Asur’s Death.
+   Canto XLIX. Angad’s Speech.
+   Canto L. The Enchanted Cave.
+   Canto LI. Svayamprabhá.
+   Canto LII. The Exit.
+   Canto LIII. Angad’s Counsel.
+   Canto LIV. Hanumán’s Speech.
+   Canto LV. Angad’s Reply.
+   Canto LVI. Sampáti.
+   Canto LVII. Angad’s Speech.
+   Canto LVIII. Tidings Of Sítá.   Canto LIX. Sampáti’s Story.
+   Canto LX. Sampáti’s Story.
+   Canto LXI. Sampáti’s Story.
+   Canto LXII. Sampáti’s Story.
+   Canto LXIII. Sampáti’s Story.
+   Canto LXIV. The Sea.
+   Canto LXV. The Council.
+   Canto LXVI. Hanumán.
+   Canto LXVII. Hanumán’s Speech.
+BOOK V.
+   Canto I. Hanumán’s Leap.
+   Canto II. Lanká.
+   Canto III. The Guardian Goddess.
+   Canto IV. Within The City.
+   Canto VI. The Court.
+   Canto VII. Rávan’s Palace.
+   Canto VIII. The Enchanted Car.
+   Canto IX. The Ladies’ Bower.
+   Canto X. Rávan Asleep.
+   Canto XI. The Banquet Hall.
+   Canto XII. The Search Renewed.
+   Canto XIII. Despair And Hope.
+   Canto XIV. The Asoka Grove.
+   Canto XV. Sítá.
+   Canto XVI. Hanumán’s Lament.   Canto XVII. Sítá’s Guard.
+   Canto XVIII. Rávan.
+   Canto XIX. Sítá’s Fear.
+   Canto XX. Rávan’s Wooing.
+   Canto XXI. Sítá’s Scorn.
+   Canto XXII. Rávan’s Threat.
+   Canto XXIII. The Demons’ Threats.
+   Canto XXIV. Sítá’s Reply.
+   Canto XXV. Sítá’s Lament.
+   Canto XXVI. Sítá’s Lament.
+   Canto XXVII. Trijatá’s Dream.
+   Canto XXX. Hanumán’s Deliberation.
+   Canto XXXI. Hanumán’s Speech.
+   Canto XXXII. Sítá’s Doubt.
+   Canto XXXIII. The Colloquy.
+   Canto XXXIV. Hanumán’s Speech.
+   Canto XXXV. Hanumán’s Speech.
+   Canto XXXVI. Ráma’s Ring.
+   Canto XXXVII. Sítá’s Speech.
+   Canto XXXVIII. Sítá’s Gem.
+   Canto XLI. The Ruin Of The Grove.
+   Canto XLII. The Giants Roused.
+   Canto XLIII. The Ruin Of The Temple.
+   Canto XLIV. Jambumáli’s Death.
+   Canto XLV. The Seven Defeated.   Canto XLVI. The Captains.
+   Canto XLVII. The Death Of Aksha.
+   Canto XLVIII. Hanumán Captured.
+   Canto XLIX. Rávan.
+   Canto L. Prahasta’s Questions.
+   Canto LI. Hanumán’s Reply.
+   Canto LII. Vibhishan’s Speech.
+   Canto LIII. The Punishment.
+   Canto LIV. The Burning Of Lanká.
+   Canto LV. Fear For Sítá.
+   Canto LVI. Mount Arishta.
+   Canto LVII. Hanumán’s Return.
+   Canto LVIII. The Feast Of Honey.
+   Canto LXV. The Tidings.
+   Canto LXVI. Ráma’s Speech.
+BOOK VI.
+   Canto I. Ráma’s Speech.
+   Canto II. Sugríva’s Speech.
+   Canto III. Lanká.
+   Canto IV. The March.
+   Canto V. Ráma’s Lament.
+   Canto VI. Rávan’s Speech.
+   Canto VII. Rávan Encouraged.
+   Canto VIII. Prahasta’s Speech.
+   Canto IX. Vibhishan’s Counsel.   Canto X. Vibhishan’s Counsel.
+   Canto XI. The Summons.
+   Canto XII. Rávan’s Speech.
+   Canto XIII. Rávan’s Speech.
+   Canto XIV. Vibhishan’s Speech.
+   Canto XV. Indrajít’s Speech.
+   Canto XVI. Rávan’s Speech.
+   Canto XVII. Vibhishan’s Flight.
+   Canto XVIII. Ráma’s Speech.
+   Canto XIX. Vibhishan’s Counsel.
+   Canto XX. The Spies.
+   Canto XXI. Ocean Threatened.
+   Canto XXII. Ocean Threatened.
+   Canto XXIII. The Omens.
+   Canto XXIV. The Spy’s Return.
+   Canto XXV. Rávan’s Spies.
+   Canto XXVI. The Vánar Chiefs.
+   Canto XXVII. The Vánar Chiefs.
+   Canto XXVIII. The Chieftains.
+   Canto XXIX. Sárdúla Captured.
+   Canto XXX. Sárdúla’s Speech.
+   Canto XXXI. The Magic Head.
+   Canto XXXII. Sítá’s Lament.
+   Canto XXXIII. Saramá.
+   Canto XXXIV. Saramá’s Tidings.   Canto XXXV. Malyaván’s Speech.
+   Canto XXXVI. Rávan’s Reply.
+   Canto XXXVII. Preparations.
+   Canto XXXVIII. The Ascent Of Suvela.
+   Canto XXXIX. Lanká.
+   Canto XL. Rávan Attacked.
+   Canto XLI. Ráma’s Envoy.
+   Canto XLII. The Sally.
+   Canto XLIII. The Single Combats.
+   Canto XLIV. The Night.
+   Canto XLV. Indrajít’s Victory.
+   Canto XLVI. Indrajít’s Triumph.
+   Canto XLVII. Sítá.
+   Canto XLVIII. Sítá’s Lament.
+   Canto XLIX. Ráma’s Lament.
+   Canto L. The Broken Spell.
+   Canto LI. Dhúmráksha’s Sally.
+   Canto LII. Dhúmráksha’s Death.
+   Canto LIII. Vajradanshtra’s Sally.
+   Canto LIV. Vajradanshtra’s Death.
+   Canto LIX. Rávan’s Sally.
+   Canto LX. Kumbhakarna Roused.
+   Canto LXI. The Vánars’ Alarm.
+   Canto LXII. Rávan’s Request.
+   Canto LXIII. Kumbhakarna’s Boast.   Canto LXIV. Mahodar’s Speech.
+   Canto LXV. Kumbhakarna’s Speech.
+   Canto LXVI. Kumbhakarna’s Sally.
+   Canto LXVII. Kumbhakarna’s Death.
+   Canto LXVIII. Rávan’s Lament.
+   Canto LXIX. Narántak’s Death.
+   Canto LXX. The Death Of Trisirás.
+   Canto LXXI. Atikáya’s Death.
+   Canto LXXII. Rávan’s Speech.
+   Canto LXXIII. Indrajít’s Victory.
+   Canto LXXIV. The Medicinal Herbs.
+   Canto LXXV. The Night Attack.
+   Canto XCIII. Rávan’s Lament.
+   Canto XCVI. Rávan’s Sally.
+   Canto C. Rávan In The Field.
+   Canto CI. Lakshman’s Fall.
+   Canto CII. Lakshman Healed.
+   Canto CIII. Indra’s Car.
+   Canto CVI. Glory To The Sun.
+   Canto CVIII. The Battle.
+   Canto CIX. The Battle.
+   Canto CX. Rávan’s Death.
+   Canto CXI. Vibhishan’s Lament.
+   Canto CXII. The Rákshas Dames.
+   Canto CXIII. Mandodarí’s Lament.   Canto CXIV. Vibhishan Consecrated.
+   Canto CXV. Sítá’s Joy.
+   Canto CXVI. The Meeting.
+   Canto CXVII. Sítá’s Disgrace.
+   Canto CXVIII. Sítá’s Reply.
+   Canto CXIX. Glory To Vishnu.
+   Canto CXX. Sítá Restored.
+   Canto CXXI. Dasaratha.
+   Canto CXXII. Indra’s Boon.
+   Canto CXXIII. The Magic Car.
+   Canto CXXIV. The Departure.
+   Canto CXXV. The Return.
+   Canto CXXVI. Bharat Consoled.
+   Canto CXXVII. Ráma’s Message.
+   Canto CXXVIII. Hanumán’s Story.
+   Canto CXXIX. The Meeting With Bharat.
+   Canto CXXX. The Consecration.
+APPENDIX.
+   Section XIII. Rávan Doomed.
+   Caput XIV. RATIO NECANDI RAVANAE EXCOGITATA.
+   Caput XIV. IL MEZZO STABILITO PER UCCIDERE RÁVANO.
+   XIV.
+   Uttarakánda.
+ADDITIONAL NOTES.
+   Queen Fortune.   Indra.
+   Vishnu.
+   Siva.
+   Apsarases.
+   Vishnu’s Incarnation As Ráma.
+   Kusa and Lava.
+   Parasuráma, Page 87.
+   Yáma, Page 68.
+   Fate, Page 68.
+   Visvámitra, Page 76.
+   Household Gods, Page 102.
+   Page 107.
+   Page 108.
+   Page 109.
+   Page 110.
+   Page 120.
+   Page 125.
+   Page 125.
+   Page 136.
+   Page 152.
+   Page 157.
+   Page 161.
+   Page 169.
+   Page 174. The Praise Of Kings
+   Page 176. Sálmalí.   Page 178. Bharat’s Return.
+   Page 183.
+   Page 203.
+   Page 219.
+   Page 249.
+   Page 250.
+   Page 257.
+   Page 286. Urvasí.
+   Page 324.
+   Page 326.
+   Page 329. Ráma’s Alliance With Sugríva.
+   Page 342. The Fall Of Báli.
+   Page 370. The Vánar Host.
+   Page 372.
+   Page 374.
+   Page 378. Northern Kurus.
+   Page 428.
+   Page 431.
+   Page 434.
+   Page 436.
+   Page 452.
+   Page 462.
+   Page 466.
+   Page 470.
+   Page 497.   Page 489.
+   Page 489.
+   Page 492. Rávan’s Funeral.
+   Page 496.
+   Page 503. The Meeting.
+   Final Notes.
+INDEX OF PRINCIPAL NAMES
+Footnotes
+
+INVOCATION.(1)
+
+Praise to Válmíki,(2)bird of charming song,(3)
+  Who mounts on Poesy’s sublimest spray,
+And sweetly sings with accent clear and strong
+  Ráma, aye Ráma, in his deathless lay.
+
+Where breathes the man can listen to the strain
+  That flows in music from Válmíki’s tongue,
+Nor feel his feet the path of bliss attain
+  When Ráma’s glory by the saint is sung!
+
+The stream Rámáyan leaves its sacred fount
+  The whole wide world from sin and stain to free.(4)
+The Prince of Hermits is the parent mount,
+  The lordly Ráma is the darling sea.Glory to him whose fame is ever bright!
+  Glory to him, Prachetas’(5)holy son!
+Whose pure lips quaff with ever new delight
+  The nectar-sea of deeds by Ráma done.
+
+Hail, arch-ascetic, pious, good, and kind!
+  Hail, Saint Válmíki, lord of every lore!
+Hail, holy Hermit, calm and pure of mind!
+  Hail, First of Bards, Válmíki, hail once more!
+
+BOOK I.(6)
+
+Canto I. Nárad.(7)
+
+OM.(8)
+
+  To sainted Nárad, prince of those
+Whose lore in words of wisdom flows.
+Whose constant care and chief delight
+Were Scripture and ascetic rite,
+The good Válmíki, first and best
+Of hermit saints, these words addressed:(9)
+“In all this world, I pray thee, who
+Is virtuous, heroic, true?
+Firm in his vows, of grateful mind,
+To every creature good and kind?Bounteous, and holy, just, and wise,
+Alone most fair to all men’s eyes?
+Devoid of envy, firm, and sage,
+Whose tranquil soul ne’er yields to rage?
+Whom, when his warrior wrath is high,
+Do Gods embattled fear and fly?
+Whose noble might and gentle skill
+The triple world can guard from ill?
+Who is the best of princes, he
+Who loves his people’s good to see?
+The store of bliss, the living mine
+Where brightest joys and virtues shine?
+Queen Fortune’s(10) best and dearest friend,
+Whose steps her choicest gifts attend?
+Who may with Sun and Moon compare,
+With Indra,(11) Vishṇu,(12) Fire, and Air?
+Grant, Saint divine,(13) the boon I ask,
+For thee, I ween, an easy task,
+To whom the power is given to know
+If such a man breathe here below.”
+Then Nárad, clear before whose eye
+The present, past, and future lie,(14)
+Made ready answer: “Hermit, where
+Are graces found so high and rare?
+Yet listen, and my tongue shall tellIn whom alone these virtues dwell.
+From old Ikshváku’s(15) line he came,
+Known to the world by Ráma’s name:
+With soul subdued, a chief of might,
+In Scripture versed, in glory bright,
+His steps in virtue’s paths are bent,
+Obedient, pure, and eloquent.
+In each emprise he wins success,
+And dying foes his power confess.
+Tall and broad-shouldered, strong of limb,
+Fortune has set her mark on him.
+Graced with a conch-shell’s triple line,
+His throat displays the auspicious sign.(16)
+High destiny is clear impressed
+On massive jaw and ample chest,
+His mighty shafts he truly aims,
+And foemen in the battle tames.
+Deep in the muscle, scarcely shown,
+Embedded lies his collar-bone.
+His lordly steps are firm and free,
+His strong arms reach below his knee;(17)
+All fairest graces join to deck
+His head, his brow, his stately neck,
+And limbs in fair proportion set:
+The manliest form e’er fashioned yet.Graced with each high imperial mark,
+His skin is soft and lustrous dark.
+Large are his eyes that sweetly shine
+With majesty almost divine.
+His plighted word he ne’er forgets;
+On erring sense a watch he sets.
+By nature wise, his teacher’s skill
+Has trained him to subdue his will.
+Good, resolute and pure, and strong,
+He guards mankind from scathe and wrong,
+And lends his aid, and ne’er in vain,
+The cause of justice to maintain.
+Well has he studied o’er and o’er
+The Vedas(18)and their kindred lore.
+Well skilled is he the bow to draw,(19)
+Well trained in arts and versed in law;
+High-souled and meet for happy fate,
+Most tender and compassionate;
+The noblest of all lordly givers,
+Whom good men follow, as the rivers
+Follow the King of Floods, the sea:
+So liberal, so just is he.
+The joy of Queen Kauśalyá’s(20)heart,
+In every virtue he has part:
+Firm as Himálaya’s(21) snowy steep,Unfathomed like the mighty deep:
+The peer of Vishṇu’s power and might,
+And lovely as the Lord of Night;(22)
+Patient as Earth, but, roused to ire,
+Fierce as the world-destroying fire;
+In bounty like the Lord of Gold,(23)
+And Justice self in human mould.
+
+  With him, his best and eldest son,
+By all his princely virtues won
+King Daśaratha(24) willed to share
+His kingdom as the Regent Heir.
+But when Kaikeyí, youngest queen,
+With eyes of envious hate had seen
+The solemn pomp and regal state
+Prepared the prince to consecrate,
+She bade the hapless king bestow
+Two gifts he promised long ago,
+That Ráma to the woods should flee,
+And that her child the heir should be.
+
+  By chains of duty firmly tied,
+The wretched king perforce complied.
+Ráma, to please Kaikeyí went
+Obedient forth to banishment.
+Then Lakshmaṇ’s truth was nobly shown,Then were his love and courage known,
+When for his brother’s sake he dared
+All perils, and his exile shared.
+And Sítá, Ráma’s darling wife,
+Loved even as he loved his life,
+Whom happy marks combined to bless,
+A miracle of loveliness,
+Of Janak’s royal lineage sprung,
+Most excellent of women, clung
+To her dear lord, like Rohiṇí
+Rejoicing with the Moon to be.(25)
+The King and people, sad of mood,
+The hero’s car awhile pursued.
+But when Prince Ráma lighted down
+At Śringavera’s pleasant town,
+Where Gangá’s holy waters flow,
+He bade his driver turn and go.
+Guha, Nishádas’ king, he met,
+And on the farther bank was set.
+Then on from wood to wood they strayed,
+O’er many a stream, through constant shade,
+As Bharadvája bade them, till
+They came to Chitrakúṭa’s hill.
+And Ráma there, with Lakshmaṇ’s aid,
+A pleasant little cottage made,And spent his days with Sítá, dressed
+In coat of bark and deerskin vest.(26)
+And Chitrakúṭa grew to be
+As bright with those illustrious three
+As Meru’s(27) sacred peaks that shine
+With glory, when the Gods recline
+Beneath them: Śiva’s(28) self between
+The Lord of Gold and Beauty’s Queen.
+
+  The aged king for Ráma pined,
+And for the skies the earth resigned.
+Bharat, his son, refused to reign,
+Though urged by all the twice-born(29) train.
+Forth to the woods he fared to meet
+His brother, fell before his feet,
+And cried, “Thy claim all men allow:
+O come, our lord and king be thou.”
+But Ráma nobly chose to be
+Observant of his sire’s decree.
+He placed his sandals(30) in his hand
+A pledge that he would rule the land:
+And bade his brother turn again.
+Then Bharat, finding prayer was vain,
+The sandals took and went away;
+Nor in Ayodhyá would he stay.
+But turned to Nandigráma, whereHe ruled the realm with watchful care,
+Still longing eagerly to learn
+Tidings of Ráma’s safe return.
+
+  Then lest the people should repeat
+Their visit to his calm retreat,
+Away from Chitrakúṭa’s hill
+Fared Ráma ever onward till
+Beneath the shady trees he stood
+Of Daṇḍaká’s primeval wood,
+Virádha, giant fiend, he slew,
+And then Agastya’s friendship knew.
+Counselled by him he gained the sword
+And bow of Indra, heavenly lord:
+A pair of quivers too, that bore
+Of arrows an exhaustless store.
+While there he dwelt in greenwood shade
+The trembling hermits sought his aid,
+And bade him with his sword and bow
+Destroy the fiends who worked them woe:
+To come like Indra strong and brave,
+A guardian God to help and save.
+And Ráma’s falchion left its trace
+Deep cut on Śúrpaṇakhá’s face:
+A hideous giantess who came
+Burning for him with lawless flame.Their sister’s cries the giants heard.
+And vengeance in each bosom stirred:
+The monster of the triple head.
+And Dúshaṇ to the contest sped.
+But they and myriad fiends beside
+Beneath the might of Ráma died.
+
+  When Rávaṇ, dreaded warrior, knew
+The slaughter of his giant crew:
+Rávaṇ, the king, whose name of fear
+Earth, hell, and heaven all shook to hear:
+He bade the fiend Márícha aid
+The vengeful plot his fury laid.
+In vain the wise Márícha tried
+To turn him from his course aside:
+Not Rávaṇ’s self, he said, might hope
+With Ráma and his strength to cope.
+Impelled by fate and blind with rage
+He came to Ráma’s hermitage.
+There, by Márícha’s magic art,
+He wiled the princely youths apart,
+The vulture(31) slew, and bore away
+The wife of Ráma as his prey.
+The son of Raghu(32) came and found
+Jaṭáyu slain upon the ground.
+He rushed within his leafy cot;He sought his wife, but found her not.
+Then, then the hero’s senses failed;
+In mad despair he wept and wailed.
+Upon the pile that bird he laid,
+And still in quest of Sítá strayed.
+A hideous giant then he saw,
+Kabandha named, a shape of awe.
+The monstrous fiend he smote and slew,
+And in the flame the body threw;
+When straight from out the funeral flame
+In lovely form Kabandha came,
+And bade him seek in his distress
+A wise and holy hermitess.
+By counsel of this saintly dame
+To Pampá’s pleasant flood he came,
+And there the steadfast friendship won
+Of Hanumán the Wind-God’s son.
+Counselled by him he told his grief
+To great Sugríva, Vánar chief,
+Who, knowing all the tale, before
+The sacred flame alliance swore.
+Sugríva to his new-found friend
+Told his own story to the end:
+His hate of Báli for the wrong
+And insult he had borne so long.And Ráma lent a willing ear
+And promised to allay his fear.
+Sugríva warned him of the might
+Of Báli, matchless in the fight,
+And, credence for his tale to gain,
+Showed the huge fiend(33) by Báli slain.
+The prostrate corse of mountain size
+Seemed nothing in the hero’s eyes;
+He lightly kicked it, as it lay,
+And cast it twenty leagues(34) away.
+To prove his might his arrows through
+Seven palms in line, uninjured, flew.
+He cleft a mighty hill apart,
+And down to hell he hurled his dart.
+Then high Sugríva’s spirit rose,
+Assured of conquest o’er his foes.
+With his new champion by his side
+To vast Kishkindhá’s cave he hied.
+Then, summoned by his awful shout,
+King Báli came in fury out,
+First comforted his trembling wife,
+Then sought Sugríva in the strife.
+One shaft from Ráma’s deadly bow
+The monarch in the dust laid low.
+Then Ráma bade Sugríva reignIn place of royal Báli slain.
+Then speedy envoys hurried forth
+Eastward and westward, south and north,
+Commanded by the grateful king
+Tidings of Ráma’s spouse to bring.
+
+  Then by Sampáti’s counsel led,
+Brave Hanumán, who mocked at dread,
+Sprang at one wild tremendous leap
+Two hundred leagues across the deep.
+To Lanká’s(35) town he urged his way,
+Where Rávaṇ held his royal sway.
+There pensive ’neath Aśoka(36) boughs
+He found poor Sítá, Ráma’s spouse.
+He gave the hapless girl a ring,
+A token from her lord and king.
+A pledge from her fair hand he bore;
+Then battered down the garden door.
+Five captains of the host he slew,
+Seven sons of councillors o’erthrew;
+Crushed youthful Aksha on the field,
+Then to his captors chose to yield.
+Soon from their bonds his limbs were free,
+But honouring the high decree
+Which Brahmá(37) had pronounced of yore,
+He calmly all their insults bore.The town he burnt with hostile flame,
+And spoke again with Ráma’s dame,
+Then swiftly back to Ráma flew
+With tidings of the interview.
+
+  Then with Sugríva for his guide,
+Came Ráma to the ocean side.
+He smote the sea with shafts as bright
+As sunbeams in their summer height,
+And quick appeared the Rivers’ King(38)
+Obedient to the summoning.
+A bridge was thrown by Nala o’er
+The narrow sea from shore to shore.(39)
+They crossed to Lanká’s golden town,
+Where Ráma’s hand smote Rávaṇ down.
+Vibhishaṇ there was left to reign
+Over his brother’s wide domain.
+To meet her husband Sítá came;
+But Ráma, stung with ire and shame,
+With bitter words his wife addressed
+Before the crowd that round her pressed.
+But Sítá, touched with noble ire,
+Gave her fair body to the fire.
+Then straight the God of Wind appeared,
+And words from heaven her honour cleared.
+And Ráma clasped his wife again,Uninjured, pure from spot and stain,
+Obedient to the Lord of Fire
+And the high mandate of his sire.
+Led by the Lord who rules the sky,
+The Gods and heavenly saints drew nigh,
+And honoured him with worthy meed,
+Rejoicing in each glorious deed.
+His task achieved, his foe removed,
+He triumphed, by the Gods approved.
+By grace of Heaven he raised to life
+The chieftains slain in mortal strife;
+Then in the magic chariot through
+The clouds to Nandigráma flew.
+Met by his faithful brothers there,
+He loosed his votive coil of hair:
+Thence fair Ayodhyá’s town he gained,
+And o’er his father’s kingdom reigned.
+Disease or famine ne’er oppressed
+His happy people, richly blest
+With all the joys of ample wealth,
+Of sweet content and perfect health.
+No widow mourned her well-loved mate,
+No sire his son’s untimely fate.
+They feared not storm or robber’s hand;
+No fire or flood laid waste the land:The Golden Age(40) had come again
+To bless the days of Ráma’s reign.
+
+  From him, the great and glorious king,
+Shall many a princely scion spring.
+And he shall rule, beloved by men,
+Ten thousand years and hundreds ten,(41)
+And when his life on earth is past
+To Brahmá’s world shall go at last.”
+
+  Whoe’er this noble poem reads
+That tells the tale of Ráma’s deeds,
+Good as the Scriptures, he shall be
+From every sin and blemish free.
+Whoever reads the saving strain,
+With all his kin the heavens shall gain.
+Bráhmans who read shall gather hence
+The highest praise for eloquence.
+The warrior, o’er the land shall reign,
+The merchant, luck in trade obtain;
+And Śúdras listening(42) ne’er shall fail
+To reap advantage from the tale.(43)<b>Canto II. Brahmá’s Visit</b>
+
+Válmíki, graceful speaker, heard,
+To highest admiration stirred.
+To him whose fame the tale rehearsed
+He paid his mental worship first;
+Then with his pupil humbly bent
+Before the saint most eloquent.
+Thus honoured and dismissed the seer
+Departed to his heavenly sphere.
+Then from his cot Válmíki hied
+To Tamasá’s(44) sequestered side,
+Not far remote from Gangá’s tide.
+He stood and saw the ripples roll
+Pellucid o’er a pebbly shoal.
+To Bharadvája(45) by his side
+He turned in ecstasy, and cried:
+“See, pupil dear, this lovely sight,
+The smooth-floored shallow, pure and bright,
+With not a speck or shade to mar,
+And clear as good men’s bosoms are.
+Here on the brink thy pitcher lay,
+And bring my zone of bark, I pray.
+Here will I bathe: the rill has not,
+To lave the limbs, a fairer spot.
+Do quickly as I bid, nor wasteThe precious time; away, and haste.”
+
+  Obedient to his master’s hest
+Quick from the cot he brought the vest;
+The hermit took it from his hand,
+And tightened round his waist the band;
+Then duly dipped and bathed him there,
+And muttered low his secret prayer.
+To spirits and to Gods he made
+Libation of the stream, and strayed
+Viewing the forest deep and wide
+That spread its shade on every side.
+Close by the bank he saw a pair
+Of curlews sporting fearless there.
+But suddenly with evil mind
+An outcast fowler stole behind,
+And, with an aim too sure and true,
+The male bird near the hermit slew.
+The wretched hen in wild despair
+With fluttering pinions beat the air,
+And shrieked a long and bitter cry
+When low on earth she saw him lie,
+Her loved companion, quivering, dead,
+His dear wings with his lifeblood red;
+And for her golden crested mate
+She mourned, and was disconsolate.  The hermit saw the slaughtered bird,
+And all his heart with ruth was stirred.
+The fowler’s impious deed distressed
+His gentle sympathetic breast,
+And while the curlew’s sad cries rang
+Within his ears, the hermit sang:
+“No fame be thine for endless time,
+Because, base outcast, of thy crime,
+Whose cruel hand was fain to slay
+One of this gentle pair at play!”
+E’en as he spoke his bosom wrought
+And laboured with the wondering thought
+What was the speech his ready tongue
+Had uttered when his heart was wrung.
+He pondered long upon the speech,
+Recalled the words and measured each,
+And thus exclaimed the saintly guide
+To Bharadvája by his side:
+“With equal lines of even feet,
+With rhythm and time and tone complete,
+The measured form of words I spoke
+In shock of grief be termed a śloke.”(46)
+And Bharadvája, nothing slow
+His faithful love and zeal to show,
+Answered those words of wisdom, “Be
+The name, my lord, as pleases thee.”  As rules prescribe the hermit took
+Some lustral water from the brook.
+But still on this his constant thought
+Kept brooding, as his home he sought;
+While Bharadvája paced behind,
+A pupil sage of lowly mind,
+And in his hand a pitcher bore
+With pure fresh water brimming o’er.
+Soon as they reached their calm retreat
+The holy hermit took his seat;
+His mind from worldly cares recalled,
+And mused in deepest thought enthralled.
+
+  Then glorious Brahmá,(47) Lord Most High,
+Creator of the earth and sky,
+The four-faced God, to meet the sage
+Came to Válmíki’s hermitage.
+Soon as the mighty God he saw,
+Up sprang the saint in wondering awe.
+Mute, with clasped hands, his head he bent,
+And stood before him reverent.
+His honoured guest he greeted well,
+Who bade him of his welfare tell;
+Gave water for his blessed feet,
+Brought offerings,(48) and prepared a seat.
+In honoured place the God Most HighSate down, and bade the saint sit nigh.
+There sate before Válmíki’s eyes
+The Father of the earth and skies;
+But still the hermit’s thoughts were bent
+On one thing only, all intent
+On that poor curlew’s mournful fate
+Lamenting for her slaughtered mate;
+And still his lips, in absent mood,
+The verse that told his grief, renewed:
+“Woe to the fowler’s impious hand
+That did the deed that folly planned;
+That could to needless death devote
+The curlew of the tuneful throat!”
+
+  The heavenly Father smiled in glee,
+And said, “O best of hermits, see,
+A verse, unconscious, thou hast made;
+No longer be the task delayed.
+Seek not to trace, with labour vain,
+The unpremeditated strain.
+The tuneful lines thy lips rehearsed
+Spontaneous from thy bosom burst.
+Then come, O best of seers, relate
+The life of Ráma good and great,
+The tale that saintly Nárad told,
+In all its glorious length unfold.Of all the deeds his arm has done
+Upon this earth, omit not one,
+And thus the noble life record
+Of that wise, brave, and virtuous lord.
+His every act to day displayed,
+His secret life to none betrayed:
+How Lakshmaṇ, how the giants fought;
+With high emprise and hidden thought:
+And all that Janak’s child(49) befell
+Where all could see, where none could tell.
+The whole of this shall truly be
+Made known, O best of saints, to thee.
+In all thy poem, through my grace,
+No word of falsehood shall have place.
+Begin the story, and rehearse
+The tale divine in charming verse.
+As long as in this firm-set land
+The streams shall flow, the mountains stand,
+So long throughout the world, be sure,
+The great Rámáyan shall endure.(50)
+While the Rámáyan’s ancient strain
+Shall glorious in the earth remain,
+To higher spheres shalt thou arise
+And dwell with me above the skies.”  He spoke, and vanished into air,
+And left Válmíki wondering there.
+The pupils of the holy man,
+Moved by their love of him, began
+To chant that verse, and ever more
+They marvelled as they sang it o’er:
+“Behold, the four-lined balanced rime,
+Repeated over many a time,
+In words that from the hermit broke
+In shock of grief, becomes a śloke.”
+This measure now Válmíki chose
+Wherein his story to compose.
+In hundreds of such verses, sweet
+With equal lines and even feet,
+The saintly poet, lofty-souled,
+The glorious deeds of Ráma told.<b>Canto III. The Argument.</b>
+
+The hermit thus with watchful heed
+Received the poem’s pregnant seed,
+And looked with eager thought around
+If fuller knowledge might be found.
+His lips with water first bedewed,(51)
+He sate, in reverent attitude
+On holy grass,(52) the points all bent
+Together toward the orient;(53)
+And thus in meditation he
+Entered the path of poesy.
+Then clearly, through his virtue’s might,
+All lay discovered to his sight,
+Whate’er befell, through all their life,
+Ráma, his brother, and his wife:
+And Daśaratha and each queen
+At every time, in every scene:
+His people too, of every sort;
+The nobles of his princely court:
+Whate’er was said, whate’er decreed,
+Each time they sate each plan and deed:
+For holy thought and fervent rite
+Had so refined his keener sight
+That by his sanctity his view
+The present, past, and future knew,And he with mental eye could grasp,
+Like fruit within his fingers clasp,
+The life of Ráma, great and good,
+Roaming with Sítá in the wood.
+He told, with secret-piercing eyes,
+The tale of Ráma’s high emprise,
+Each listening ear that shall entice,
+A sea of pearls of highest price.
+Thus good Válmíki, sage divine,
+Rehearsed the tale of Raghu’s line,
+As Nárad, heavenly saint, before
+Had traced the story’s outline o’er.
+He sang of Ráma’s princely birth,
+His kindness and heroic worth;
+His love for all, his patient youth,
+His gentleness and constant truth,
+And many a tale and legend old
+By holy Viśvámitra told.
+How Janak’s child he wooed and won,
+And broke the bow that bent to none.
+How he with every virtue fraught
+His namesake Ráma(54) met and fought.
+The choice of Ráma for the throne;
+The malice by Kaikeyí shown,
+Whose evil counsel marred the planAnd drove him forth a banisht man.
+How the king grieved and groaned, and cried,
+And swooned away and pining died.
+The subjects’ woe when thus bereft;
+And how the following crowds he left:
+With Guha talked, and firmly stern
+Ordered his driver to return.
+How Gangá’s farther shore he gained;
+By Bharadvája entertained,
+By whose advice he journeyed still
+And came to Chitrakúṭa’s hill.
+How there he dwelt and built a cot;
+How Bharat journeyed to the spot;
+His earnest supplication made;
+Drink-offerings to their father paid;
+The sandals given by Ráma’s hand,
+As emblems of his right, to stand:
+How from his presence Bharat went
+And years in Nandigráma spent.
+How Ráma entered Daṇḍak wood
+And in Sutíkhṇa’s presence stood.
+The favour Anasúyá showed,
+The wondrous balsam she bestowed.
+How Śarabhanga’s dwelling-place
+They sought; saw Indra face to face;The meeting with Agastya gained;
+The heavenly bow from him obtained.
+How Ráma with Virádha met;
+Their home in Panchavaṭa set.
+How Śúrpaṇakhá underwent
+The mockery and disfigurement.
+Of Triśirá’s and Khara’s fall,
+Of Rávaṇ roused at vengeance call,
+Márícha doomed, without escape;
+The fair Videhan(55) lady’s rape.
+How Ráma wept and raved in vain,
+And how the Vulture-king was slain.
+How Ráma fierce Kabandha slew;
+Then to the side of Pampá drew,
+Met Hanumán, and her whose vows
+Were kept beneath the greenwood boughs.
+How Raghu’s son, the lofty-souled,
+On Pampá’s bank wept uncontrolled,
+Then journeyed, Rishyamúk to reach,
+And of Sugríva then had speech.
+The friendship made, which both had sought:
+How Báli and Sugríva fought.
+How Báli in the strife was slain,
+And how Sugríva came to reign.
+The treaty, Tára’s wild lament;The rainy nights in watching spent.
+The wrath of Raghu’s lion son;
+The gathering of the hosts in one.
+The sending of the spies about,
+And all the regions pointed out.
+The ring by Ráma’s hand bestowed;
+The cave wherein the bear abode.
+The fast proposed, their lives to end;
+Sampati gained to be their friend.
+The scaling of the hill, the leap
+Of Hanumán across the deep.
+Ocean’s command that bade them seek
+Maináka of the lofty peak.
+The death of Sinhiká, the sight
+Of Lanká with her palace bright
+How Hanumán stole in at eve;
+His plan the giants to deceive.
+How through the square he made his way
+To chambers where the women lay,
+Within the Aśoka garden came
+And there found Ráma’s captive dame.
+His colloquy with her he sought,
+And giving of the ring he brought.
+How Sítá gave a gem o’erjoyed;
+How Hanumán the grove destroyed.How giantesses trembling fled,
+And servant fiends were smitten dead.
+How Hanumán was seized; their ire
+When Lanká blazed with hostile fire.
+His leap across the sea once more;
+The eating of the honey store.
+How Ráma he consoled, and how
+He showed the gem from Sítá’s brow.
+With Ocean, Ráma’s interview;
+The bridge that Nala o’er it threw.
+The crossing, and the sitting down
+At night round Lanká’s royal town.
+The treaty with Vibhíshaṇ made:
+The plan for Rávaṇ’s slaughter laid.
+How Kumbhakarṇa in his pride
+And Meghanáda fought and died.
+How Rávaṇ in the fight was slain,
+And captive Sítá brought again.
+Vibhíshaṇ set upon the throne;
+The flying chariot Pushpak shown.
+How Brahmá and the Gods appeared,
+And Sítá’s doubted honour cleared.
+How in the flying car they rode
+To Bharadvája’s cabin abode.
+The Wind-God’s son sent on afar;How Bharat met the flying car.
+How Ráma then was king ordained;
+The legions their discharge obtained.
+How Ráma cast his queen away;
+How grew the people’s love each day.
+Thus did the saint Válmíki tell
+Whate’er in Ráma’s life befell,
+And in the closing verses all
+That yet to come will once befall.<b>Canto IV. The Rhapsodists.</b>
+
+When to the end the tale was brought,
+Rose in the sage’s mind the thought;
+“Now who throughout this earth will go,
+And tell it forth that all may know?”
+As thus he mused with anxious breast,
+Behold, in hermit’s raiment dressed,
+Kuśá and Lava(56) came to greet
+Their master and embrace his feet.
+The twins he saw, that princely pair
+Sweet-voiced, who dwelt beside him there
+None for the task could be more fit,
+For skilled were they in Holy Writ;
+And so the great Rámáyan, fraught
+With lore divine, to these he taught:
+The lay whose verses sweet and clear
+Take with delight the listening ear,
+That tell of Sítá’s noble life
+And Rávaṇ’s fall in battle strife.
+Great joy to all who hear they bring,
+Sweet to recite and sweet to sing.
+For music’s sevenfold notes are there,
+And triple measure,(57) wrought with care
+With melody and tone and time,
+And flavours(58) that enhance the rime;Heroic might has ample place,
+And loathing of the false and base,
+With anger, mirth, and terror, blent
+With tenderness, surprise, content.
+When, half the hermit’s grace to gain,
+And half because they loved the strain,
+The youth within their hearts had stored
+The poem that his lips outpoured,
+Válmíki kissed them on the head,
+As at his feet they bowed, and said;
+“Recite ye this heroic song
+In tranquil shades where sages throng:
+Recite it where the good resort,
+In lowly home and royal court.”
+
+  The hermit ceased. The tuneful pair,
+Like heavenly minstrels sweet and fair,
+In music’s art divinely skilled,
+Their saintly master’s word fulfilled.
+Like Ráma’s self, from whom they came,
+They showed their sire in face and frame,
+As though from some fair sculptured stone
+Two selfsame images had grown.
+Sometimes the pair rose up to sing,
+Surrounded by a holy ring,
+Where seated on the grass had metFull many a musing anchoret.
+Then tears bedimmed those gentle eyes,
+As transport took them and surprise,
+And as they listened every one
+Cried in delight, Well done! Well done!
+Those sages versed in holy lore
+Praised the sweet minstrels more and more:
+And wondered at the singers’ skill,
+And the bard’s verses sweeter still,
+Which laid so clear before the eye
+The glorious deeds of days gone by.
+Thus by the virtuous hermits praised,
+Inspirited their voice they raised.
+Pleased with the song this holy man
+Would give the youths a water-can;
+One gave a fair ascetic dress,
+Or sweet fruit from the wilderness.
+One saint a black-deer’s hide would bring,
+And one a sacrificial string:
+One, a clay pitcher from his hoard,
+And one, a twisted munja cord.(59)
+One in his joy an axe would find,
+One braid, their plaited locks to bind.
+One gave a sacrificial cup,
+One rope to tie their fagots up;While fuel at their feet was laid,
+Or hermit’s stool of fig-tree made.
+All gave, or if they gave not, none
+Forgot at least a benison.
+Some saints, delighted with their lays,
+Would promise health and length of days;
+Others with surest words would add
+Some boon to make their spirit glad.
+In such degree of honour then
+That song was held by holy men:
+That living song which life can give,
+By which shall many a minstrel live.
+In seat of kings, in crowded hall,
+They sang the poem, praised of all.
+And Ráma chanced to hear their lay,
+While he the votive steed(60) would slay,
+And sent fit messengers to bring
+The minstrel pair before the king.
+They came, and found the monarch high
+Enthroned in gold, his brothers nigh;
+While many a minister below,
+And noble, sate in lengthened row.
+The youthful pair awhile he viewed
+Graceful in modest attitude,
+And then in words like these addressedHis brother Lakshmaṇ and the rest:
+“Come, listen to the wondrous strain
+Recited by these godlike twain,
+Sweet singers of a story fraught
+With melody and lofty thought.”
+
+  The pair, with voices sweet and strong,
+Rolled the full tide of noble song,
+With tone and accent deftly blent
+To suit the changing argument.
+Mid that assembly loud and clear
+Rang forth that lay so sweet to hear,
+That universal rapture stole
+Through each man’s frame and heart and soul.
+“These minstrels, blest with every sign
+That marks a high and princely line,
+  In holy shades who dwell,
+Enshrined in Saint Válmíki’s lay,
+A monument to live for aye,
+  My deeds in song shall tell.”
+Thus Ráma spoke: their breasts were fired,
+And the great tale, as if inspired,
+  The youths began to sing,
+While every heart with transport swelled,
+And mute and rapt attention held
+  The concourse and the king.<b>Canto V. Ayodhyá.</b>
+
+  “Ikshváku’s sons from days of old
+Were ever brave and mighty-souled.
+The land their arms had made their own
+Was bounded by the sea alone.
+Their holy works have won them praise,
+Through countless years, from Manu’s days.
+Their ancient sire was Sagar, he
+Whose high command dug out the sea:(61)
+With sixty thousand sons to throng
+Around him as he marched along.
+From them this glorious tale proceeds:
+The great Rámáyan tells their deeds.
+This noble song whose lines contain
+Lessons of duty, love, and gain,
+We two will now at length recite,
+While good men listen with delight.
+
+  On Sarjú’s(62) bank, of ample size,
+The happy realm of Kośal lies,
+With fertile length of fair champaign
+And flocks and herds and wealth of grain.
+There, famous in her old renown,
+Ayodhyá(63) stands, the royal town,
+In bygone ages built and plannedBy sainted Manu’s(64) princely hand.
+Imperial seat! her walls extend
+Twelve measured leagues from end to end,
+And three in width from side to side,
+With square and palace beautified.
+Her gates at even distance stand;
+Her ample roads are wisely planned.
+Right glorious is her royal street
+Where streams allay the dust and heat.
+On level ground in even row
+Her houses rise in goodly show:
+Terrace and palace, arch and gate
+The queenly city decorate.
+High are her ramparts, strong and vast,
+By ways at even distance passed,
+With circling moat, both deep and wide,
+And store of weapons fortified.
+
+  King Daśaratha, lofty-souled,
+That city guarded and controlled,
+With towering Sál trees belted round,(65)
+And many a grove and pleasure ground,
+As royal Indra, throned on high,
+Rules his fair city in the sky.(66)
+She seems a painted city, fair
+With chess-board line and even square.(67)And cool boughs shade the lovely lake
+Where weary men their thirst may slake.
+There gilded chariots gleam and shine,
+And stately piles the Gods enshrine.
+There gay sleek people ever throng
+To festival and dance and song.
+A mine is she of gems and sheen,
+The darling home of Fortune’s Queen.
+With noblest sort of drink and meat,
+The fairest rice and golden wheat,
+And fragrant with the chaplet’s scent
+With holy oil and incense blent.
+With many an elephant and steed,
+And wains for draught and cars for speed.
+With envoys sent by distant kings,
+And merchants with their precious things
+With banners o’er her roofs that play,
+And weapons that a hundred slay;(68)
+All warlike engines framed by man,
+And every class of artisan.
+A city rich beyond compare
+With bards and minstrels gathered there,
+And men and damsels who entrance
+The soul with play and song and dance.
+In every street is heard the lute,The drum, the tabret, and the flute,
+The Veda chanted soft and low,
+The ringing of the archer’s bow;
+With bands of godlike heroes skilled
+In every warlike weapon, filled,
+And kept by warriors from the foe,
+As Nágas guard their home below.(69)
+There wisest Bráhmans evermore
+  The flame of worship feed,
+And versed in all the Vedas’ lore,
+  Their lives of virtue lead.
+Truthful and pure, they freely give;
+  They keep each sense controlled,
+And in their holy fervour live
+  Like the great saints of old.<b>Canto VI. The King.</b>
+
+There reigned a king of name revered,
+To country and to town endeared,
+Great Daśaratha, good and sage,
+Well read in Scripture’s holy page:
+Upon his kingdom’s weal intent,
+Mighty and brave and provident;
+The pride of old Ikshváku’s seed
+For lofty thought and righteous deed.
+Peer of the saints, for virtues famed,
+For foes subdued and passions tamed:
+A rival in his wealth untold
+Of Indra and the Lord of Gold.
+Like Manu first of kings, he reigned,
+And worthily his state maintained.
+For firm and just and ever true
+Love, duty, gain he kept in view,
+And ruled his city rich and free,
+Like Indra’s Amarávatí.
+And worthy of so fair a place
+There dwelt a just and happy race
+  With troops of children blest.
+Each man contented sought no more,
+Nor longed with envy for the store
+  By richer friends possessed.For poverty was there unknown,
+And each man counted as his own
+  Kine, steeds, and gold, and grain.
+All dressed in raiment bright and clean,
+And every townsman might be seen
+  With earrings, wreath, or chain.
+None deigned to feed on broken fare,
+And none was false or stingy there.
+A piece of gold, the smallest pay,
+Was earned by labour for a day.
+On every arm were bracelets worn,
+And none was faithless or forsworn,
+  A braggart or unkind.
+None lived upon another’s wealth,
+None pined with dread or broken health,
+  Or dark disease of mind.
+High-souled were all. The slanderous word,
+The boastful lie, were never heard.
+Each man was constant to his vows,
+And lived devoted to his spouse.
+No other love his fancy knew,
+And she was tender, kind, and true.
+Her dames were fair of form and face,
+With charm of wit and gentle grace,
+With modest raiment simply neat,And winning manners soft and sweet.
+The twice-born sages, whose delight
+Was Scripture’s page and holy rite,
+Their calm and settled course pursued,
+Nor sought the menial multitude.
+In many a Scripture each was versed,
+And each the flame of worship nursed,
+  And gave with lavish hand.
+Each paid to Heaven the offerings due,
+And none was godless or untrue
+  In all that holy band.
+To Bráhmans, as the laws ordain,
+The Warrior caste were ever fain
+  The reverence due to pay;
+And these the Vaiśyas’ peaceful crowd,
+Who trade and toil for gain, were proud
+  To honour and obey;
+And all were by the Śúdras(70) served,
+Who never from their duty swerved,
+Their proper worship all addressed
+To Bráhman, spirits, God, and guest.
+Pure and unmixt their rites remained,
+Their race’s honour ne’er was stained.(71)
+Cheered by his grandsons, sons, and wife,
+Each passed a long and happy life.Thus was that famous city held
+By one who all his race excelled,
+  Blest in his gentle reign,
+As the whole land aforetime swayed
+By Manu, prince of men, obeyed
+  Her king from main to main.
+And heroes kept her, strong and brave,
+As lions guard their mountain cave:
+Fierce as devouring flame they burned,
+And fought till death, but never turned.
+Horses had she of noblest breed,
+Like Indra’s for their form and speed,
+From Váhlí’s(72) hills and Sindhu’s(73) sand,
+Vanáyu(74) and Kámboja’s land.(75)
+Her noble elephants had strayed
+Through Vindhyan and Himálayan shade,
+Gigantic in their bulk and height,
+Yet gentle in their matchless might.
+They rivalled well the world-spread fame
+Of the great stock from which they came,
+  Of Váman, vast of size,
+Of Mahápadma’s glorious line,
+Thine, Anjan, and, Airávat, thine.(76)
+  Upholders of the skies.
+With those, enrolled in fourfold class,Who all their mighty kin surpass,
+  Whom men Matangas name,
+And Mrigas spotted black and white,
+And Bhadras of unwearied might,
+And Mandras hard to tame.(77)
+Thus, worthy of the name she bore,(78)
+Ayodhyá for a league or more
+  Cast a bright glory round,
+Where Daśaratha wise and great
+Governed his fair ancestral state,
+  With every virtue crowned.
+Like Indra in the skies he reigned
+In that good town whose wall contained
+  High domes and turrets proud,
+With gates and arcs of triumph decked,
+And sturdy barriers to protect
+  Her gay and countless crowd.<b>Canto VII. The Ministers.</b>
+
+Two sages, holy saints, had he,
+His ministers and priests to be:
+Vaśishṭha, faithful to advise,
+And Vámadeva, Scripture-wise.
+Eight other lords around him stood,
+All skilled to counsel, wise and good:
+Jayanta, Vijay, Dhrishṭi bold
+In fight, affairs of war controlled:
+Siddhárth and Arthasádhak true
+Watched o’er expense and revenue,
+And Dharmapál and wise Aśok
+Of right and law and justice spoke.
+With these the sage Sumantra, skilled
+To urge the car, high station filled.
+  All these in knowledge duly trained
+Each passion and each sense restrained:
+With modest manners, nobly bred
+Each plan and nod and look they read,
+Upon their neighbours’ good intent,
+Most active and benevolent:
+As sit the Vasus(79) round their king,
+They sate around him counselling.
+They ne’er in virtue’s loftier pride
+Another’s lowly gifts decried.In fair and seemly garb arrayed,
+No weak uncertain plans they made.
+Well skilled in business, fair and just,
+They gained the people’s love and trust,
+And thus without oppression stored
+The swelling treasury of their lord.
+Bound in sweet friendship each to each,
+They spoke kind thoughts in gentle speech.
+They looked alike with equal eye
+On every caste, on low and high.
+Devoted to their king, they sought,
+Ere his tongue spoke, to learn his thought,
+And knew, as each occasion rose,
+To hide their counsel or disclose.
+In foreign lands or in their own
+Whatever passed, to them was known.
+By secret spies they timely knew
+What men were doing or would do.
+Skilled in the grounds of war and peace
+They saw the monarch’s state increase,
+Watching his weal with conquering eye
+That never let occasion by,
+While nature lent her aid to bless
+Their labours with unbought success.
+Never for anger, lust, or gain,Would they their lips with falsehood stain.
+Inclined to mercy they could scan
+The weakness and the strength of man.
+They fairly judged both high and low,
+And ne’er would wrong a guiltless foe;
+Yet if a fault were proved, each one
+Would punish e’en his own dear son.
+But there and in the kingdom’s bound
+No thief or man impure was found:
+None of loose life or evil fame,
+No tempter of another’s dame.
+Contented with their lot each caste
+Calm days in blissful quiet passed;
+And, all in fitting tasks employed,
+Country and town deep rest enjoyed,
+With these wise lords around his throne
+  The monarch justly reigned,
+And making every heart his own
+  The love of all men gained.
+With trusty agents, as beseems,
+  Each distant realm he scanned,
+As the sun visits with his beams
+  Each corner of the land.
+Ne’er would he on a mightier foe
+  With hostile troops advance,Nor at an equal strike a blow
+  In war’s delusive chance.
+These lords in council bore their part
+With ready brain and faithful heart,
+With skill and knowledge, sense and tact,
+Good to advise and bold to act.
+And high and endless fame he won
+  With these to guide his schemes,
+As, risen in his might, the sun
+  Wins glory with his beams.<b>Canto VIII. Sumantra’s Speech.</b>
+
+But splendid, just, and great of mind,
+The childless king for offspring pined.
+No son had he his name to grace,
+Transmitter of his royal race.
+Long had his anxious bosom wrought,
+And as he pondered rose the thought:
+“A votive steed ’twere good to slay,
+So might a son the gift repay.”
+Before his lords his plan he laid,
+And bade them with their wisdom aid:
+Then with these words Sumantra, best
+Of royal counsellors, addressed:
+“Hither, Vaśishṭha at their head,
+Let all my priestly guides be led.”
+  To him Sumantra made reply:
+“Hear, Sire, a tale of days gone by.
+To many a sage in time of old,
+Sanatkumár, the saint, foretold
+How from thine ancient line, O King,
+A son, when years came round, should spring.
+“Here dwells,” ’twas thus the seer began,
+“Of Kaśyap’s(80) race, a holy man,
+Vibháṇdak named: to him shall spring
+A son, the famous Rishyaśring.Bred with the deer that round him roam,
+The wood shall be that hermit’s home.
+To him no mortal shall be known
+Except his holy sire alone.
+Still by those laws shall he abide
+Which lives of youthful Bráhmans guide,
+Obedient to the strictest rule
+That forms the young ascetic’s school:
+And all the wondering world shall hear
+Of his stern life and penance drear;
+His care to nurse the holy fire
+And do the bidding of his sire.
+Then, seated on the Angas’(81) throne,
+Shall Lomapád to fame be known.
+But folly wrought by that great king
+A plague upon the land shall bring;
+No rain for many a year shall fall
+And grievous drought shall ruin all.
+The troubled king with many a prayer
+Shall bid the priests some cure declare:
+“The lore of Heaven ’tis yours to know,
+Nor are ye blind to things below:
+Declare, O holy men, the way
+This plague to expiate and stay.”
+Those best of Bráhmans shall reply:“By every art, O Monarch, try
+Hither to bring Vibháṇdak’s child,
+Persuaded, captured, or beguiled.
+And when the boy is hither led
+To him thy daughter duly wed.”
+
+  But how to bring that wondrous boy
+His troubled thoughts will long employ,
+And hopeless to achieve the task
+He counsel of his lords will ask,
+And bid his priests and servants bring
+With honour saintly Rishyaśring.
+But when they hear the monarch’s speech,
+All these their master will beseech,
+With trembling hearts and looks of woe,
+To spare them, for they fear to go.
+And many a plan will they declare
+  And crafty plots will frame,
+And promise fair to show him there,
+  Unforced, with none to blame.
+On every word his lords shall say,
+  The king will meditate,
+And on the third returning day
+  Recall them to debate.
+Then this shall be the plan agreed,
+  That damsels shall be sentAttired in holy hermits’ weed,
+  And skilled in blandishment,
+That they the hermit may beguile
+With every art and amorous wile
+Whose use they know so well,
+And by their witcheries seduce
+The unsuspecting young recluse
+  To leave his father’s cell.
+Then when the boy with willing feet
+Shall wander from his calm retreat
+  And in that city stand,
+The troubles of the king shall end,
+And streams of blessed rain descend
+  Upon the thirsty land.
+Thus shall the holy Rishyaśring
+To Lomapád, the mighty king,
+  By wedlock be allied;
+For Śántá, fairest of the fair,
+In mind and grace beyond compare,
+  Shall be his royal bride.
+He, at the Offering of the Steed,
+The flames with holy oil shall feed,
+And for King Daśaratha gain
+Sons whom his prayers have begged in vain.”
+“I have repeated, Sire, thus far,The words of old Sanatkumár,
+In order as he spoke them then
+Amid the crowd of holy men.”
+  Then Daśaratha cried with joy,
+“Say how they brought the hermit boy.”
+
+<b>Canto IX. Rishyasring.</b>
+
+The wise Sumantra, thus addressed,
+Unfolded at the king’s behest
+The plan the lords in council laid
+To draw the hermit from the shade:
+“The priest, amid the lordly crowd,
+To Lomapád thus spoke aloud:
+“Hear, King, the plot our thoughts have framed,
+A harmless trick by all unblamed.
+Far from the world that hermit’s child
+Lives lonely in the distant wild:
+A stranger to the joys of sense,
+His bliss is pain and abstinence;
+And all unknown are women yet
+To him, a holy anchoret.
+The gentle passions we will wake
+That with resistless influence shake
+  The hearts of men; and he
+Drawn by enchantment strong and sweetShall follow from his lone retreat,
+  And come and visit thee.
+Let ships be formed with utmost care
+That artificial trees may bear,
+  And sweet fruit deftly made;
+Let goodly raiment, rich and rare,
+And flowers, and many a bird be there
+  Beneath the leafy shade.
+Upon the ships thus decked a band
+Of young and lovely girls shall stand,
+Rich in each charm that wakes desire,
+And eyes that burn with amorous fire;
+Well skilled to sing, and play, and dance
+And ply their trade with smile and glance
+Let these, attired in hermits’ dress,
+Betake them to the wilderness,
+And bring the boy of life austere
+A voluntary captive here.”
+  He ended; and the king agreed,
+  By the priest’s counsel won.
+And all the ministers took heed
+  To see his bidding done.
+In ships with wondrous art prepared
+Away the lovely women fared,
+And soon beneath the shade they stoodOf the wild, lonely, dreary wood.
+And there the leafy cot they found
+  Where dwelt the devotee,
+And looked with eager eyes around
+  The hermit’s son to see.
+Still, of Vibháṇdak sore afraid,
+They hid behind the creepers’ shade.
+But when by careful watch they knew
+The elder saint was far from view,
+With bolder steps they ventured nigh
+To catch the youthful hermit’s eye.
+Then all the damsels, blithe and gay,
+At various games began to play.
+They tossed the flying ball about
+With dance and song and merry shout,
+And moved, their scented tresses bound
+With wreaths, in mazy motion round.
+Some girls as if by love possessed,
+Sank to the earth in feigned unrest,
+Up starting quickly to pursue
+Their intermitted game anew.
+It was a lovely sight to see
+  Those fair ones, as they played,
+While fragrant robes were floating free,
+And bracelets clashing in their glee  A pleasant tinkling made.
+The anklet’s chime, the Koïl’s(82) cry
+  With music filled the place
+As ’twere some city in the sky
+Which heavenly minstrels grace.
+With each voluptuous art they strove
+To win the tenant of the grove,
+And with their graceful forms inspire
+His modest soul with soft desire.
+With arch of brow, with beck and smile,
+With every passion-waking wile
+Of glance and lotus hand,
+With all enticements that excite
+The longing for unknown delight
+  Which boys in vain withstand.
+Forth came the hermit’s son to view
+The wondrous sight to him so new,
+  And gazed in rapt surprise,
+For from his natal hour till then
+On woman or the sons of men
+  He ne’er had cast his eyes.
+He saw them with their waists so slim,
+With fairest shape and faultless limb,
+In variegated robes arrayed,
+And sweetly singing as they played.Near and more near the hermit drew,
+  And watched them at their game,
+And stronger still the impulse grew
+  To question whence they came.
+They marked the young ascetic gaze
+With curious eye and wild amaze,
+And sweet the long-eyed damsels sang,
+And shrill their merry laughter rang.
+Then came they nearer to his side,
+And languishing with passion cried:
+“Whose son, O youth, and who art thou,
+Come suddenly to join us now?
+And why dost thou all lonely dwell
+In the wild wood? We pray thee, tell,
+We wish to know thee, gentle youth;
+Come, tell us, if thou wilt, the truth.”
+  He gazed upon that sight he ne’er
+Had seen before, of girls so fair,
+And out of love a longing rose
+His sire and lineage to disclose:
+“My father,” thus he made reply,
+“Is Kaśyap’s son, a saint most high,
+Vibháṇdak styled; from him I came,
+And Rishyaśring he calls my name.
+Our hermit cot is near this place:

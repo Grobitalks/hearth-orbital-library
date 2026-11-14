@@ -1,0 +1,2029 @@
+HOLB1	24869	26	2080	80	2635	150
+39	Canto II. Brahmá’s Visit
+46	Canto III. The Argument.
+53	Canto IV. The Rhapsodists.
+58	Canto V. Ayodhyá.
+62	Canto VI. The King.
+67	Canto VII. The Ministers.
+71	Canto VIII. Sumantra’s Speech.
+75	Canto IX. Rishyasring.
+86	Canto X. Rishyasring Invited.
+92	Canto XI. The Sacrifice Decreed.
+96	Canto XII. The Sacrifice Begun.
+102	Canto XIII. The Sacrifice Finished.
+111	Canto XIV. Rávan Doomed.
+118	Canto XV. The Nectar.
+122	Canto XVI. The Vánars.
+127	Canto XVII. Rishyasring’s Return.
+134	Canto XVIII. Rishyasring’s Departure.
+138	Canto XIX. The Birth Of The Princes.
+143	Canto XX. Visvámitra’s Visit.
+147	Canto XXI. Visvámitra’s Speech.
+151	Canto XXII. Dasaratha’s Speech.
+155	Canto XXIII. Vasishtha’s Speech.
+158	Canto XXIV. The Spells.
+162	Canto XXV. The Hermitage Of Love.
+166	Canto XXVI. The Forest Of Tádaká.
+171	Canto XXVII. The Birth Of Tádaká.
+174	Canto XXVIII. The Death Of Tádaká.
+180	Canto XXIX. The Celestial Arms.
+187	Canto XXXI. The Perfect Hermitage.
+191	Canto XXXII. Visvámitra’s Sacrifice.
+195	Canto XXXIII. The Sone.
+199	Canto XXXIV. Brahmadatta.
+207	Canto XXXV. Visvámitra’s Lineage.
+211	Canto XXXVI. The Birth Of Gangá.
+215	Canto XXXIX. The Sons Of Sagar.
+219	Canto XL. The Cleaving Of The Earth.
+223	Canto XLI. Kapil.
+227	Canto XLII. Sagar’s Sacrifice.
+231	Canto XLIII. Bhagírath.
+235	Canto XLIV. The Descent Of Gangá.
+244	Canto XLV. The Quest Of The Amrit.
+252	Canto XLVI. Diti’s Hope.
+254	Canto XLVII. Sumati.
+257	Canto XLVIII. Indra And Ahalyá
+262	Canto XLIX. Ahalyá Freed.
+264	Canto L. Janak.
+268	Canto LI. Visvámitra.
+272	Canto LII. Vasishtha’s Feast.
+276	Canto LIII. Visvámitra’s Request.
+280	Canto LIV. The Battle.
+284	Canto LV. The Hermitage Burnt.
+288	Canto LVI. Visvámitra’s Vow.
+292	Canto LVII. Trisanku.
+296	Canto LVIII. Trisanku Cursed.
+300	Canto LIX. The Sons Of Vasishtha.
+304	Canto LX. Trisanku’s Ascension.
+309	Canto LXI. Sunahsepha.
+313	Canto LXII. Ambarísha’s Sacrifice.
+317	Canto LXIII. Menaká.
+322	Canto LXIV. Rambhá.
+325	Canto LXV. Visvámitra’s Triumph
+331	Canto LXVI. Janak’s Speech.
+335	Canto LXVII. The Breaking Of The Bow.
+339	Canto LXVIII. The Envoys’ Speech.
+342	Canto LXIX. Dasaratha’s Visit.
+345	Canto LXX. The Maidens Sought.
+352	Canto LXXI. Janak’s Pedigree.
+356	Canto LXXII. The Gift Of Kine.
+359	Canto LXXIII. The Nuptials.
+368	Canto LXXV. The Parle.
+373	Canto LXXVI. Debarred From Heaven.
+377	Canto LXXVII. Bharat’s Departure.
+381	Canto I. The Heir Apparent.
+387	Canto II. The People’s Speech.
+393	Canto III. Dasaratha’s Precepts.
+401	Canto IV. Ráma Summoned.
+408	Canto V. Ráma’s Fast.
+412	Canto VI. The City Decorated.
+417	Canto VII. Manthará’s Lament.
+422	Canto VIII. Manthará’s Speech.
+428	Canto IX. The Plot.
+437	Canto X. Dasaratha’s Speech.
+444	Canto XI. The Queen’s Demand.
+448	Canto XII. Dasaratha’s Lament.
+465	Canto XIII. Dasaratha’s Distress.
+468	Canto XIV. Ráma Summoned.
+478	Canto XV. The Preparations.
+486	Canto XVI. Ráma Summoned.
+493	Canto XVII. Ráma’s Approach.
+496	Canto XVIII. The Sentence.
+503	Canto XIX. Ráma’s Promise.
+510	Canto XX. Kausalyá’s Lament.
+518	Canto XXI. Kausalyá Calmed.
+528	Canto XXII. Lakshman Calmed.
+533	Canto XXIII. Lakshman’s Anger.
+540	Canto XXIV. Kausalyá Calmed.
+546	Canto XXV. Kausalyá’s Blessing.
+554	Canto XXVI. Alone With Sítá.
+560	Canto XXVII. Sítá’s Speech.
+564	Canto XXVIII. The Dangers Of The Wood.
+568	Canto XXIX. Sítá’s Appeal.
+572	Canto XXX. The Triumph Of Love.
+580	Canto XXXI. Lakshman’s Prayer.
+586	Canto XXXII. The Gift Of The Treasures.
+593	Canto XXXIII. The People’s Lament.
+598	Canto XXXIV. Ráma In The Palace.
+607	Canto XXXV. Kaikeyí Reproached.
+612	Canto XXXVI. Siddhárth’s Speech.
+617	Canto XXXVII. The Coats Of Bark.
+622	Canto XXXVIII. Care For Kausalyá
+626	Canto XXXIX. Counsel To Sítá.
+633	Canto XL. Ráma’s Departure.
+641	Canto XLI. The Citizens’ Lament.
+644	Canto XLII. Dasaratha’s Lament.
+649	Canto XLIII. Kausalyá’s Lament.
+653	Canto XLIV. Sumitrá’s Speech.
+657	Canto XLV. The Tamasá.
+663	Canto XLVI. The Halt.
+669	Canto XLVII. The Citizens’ Return.
+672	Canto XLVIII. The Women’s Lament.
+677	Canto XLIX. The Crossing Of The Rivers.
+686	Canto LI. Lakshman’s Lament.
+690	Canto LII. The Crossing Of Gangá.
+706	Canto LIII. Ráma’s Lament.
+712	Canto LIV. Bharadvája’s Hermitage.
+719	Canto LV. The Passage Of Yamuná.
+724	Canto LVI. Chitrakúta
+730	Canto LVII. Sumantra’s Return.
+735	Canto LVIII. Ráma’s Message.
+741	Canto LIX. Dasaratha’s Lament.
+747	Canto LX. Kausalyá Consoled.
+751	Canto LXI. Kausalyá’s Lament.
+755	Canto LXII. Dasaratha Consoled.
+758	Canto LXIII. The Hermit’s Son.
+766	Canto LXIV. Dasaratha’s Death.
+778	Canto LXV. The Women’s Lament.
+783	Canto LXVI. The Embalming.
+787	Canto LXVII. The Praise Of Kings.
+793	Canto LXVIII. The Envoys.
+797	Canto LXIX. Bharat’s Dream.
+801	Canto LXX. Bharat’s Departure.
+806	Canto LXXI. Bharat’s Return.
+813	Canto LXXII. Bharat’s Inquiry.
+822	Canto LXXIII. Kaikeyí Reproached.
+826	Canto LXXIV. Bharat’s Lament.
+831	Canto LXXV. The Abjuration.
+838	Canto LXXVI. The Funeral.
+842	Canto LXXVII. The Gathering Of The Ashes.
+847	Canto LXXVIII. Manthará Punished.
+851	Canto LXXIX. Bharat’s Commands.
+And punish thee with sword and flame,
+The tyrant fiend who stole my dame.
+Now show the might, employ the guile,
+O Monarch of the giants’ isle,
+Which stole a helpless dame away:
+Call up thy power and strength to-day.
+Once more I warn thee, Rákshas King,
+This hour the Maithil lady bring,
+And, yielding while there yet is time,
+Seek, suppliant, pardon for the crime,
+Or I will leave beneath the sun
+No living Rákshas, no, not one.
+In vain from battle wilt thou fly,
+Or borne on pinions seek the sky;
+The hand of Ráma shall not spare;
+His fiery shaft shall smite thee there.’ ”
+
+  He ceased: and Angad bowed his head;
+Thence like embodied flame he sped,
+And lighted from his airy road
+Within the Rákshas king’s abode.
+There sate, the centre of a ring
+Of counsellors, the giant king.
+Swift through the circle Angad pressed,
+And spoke with fury in his breast:
+“Sent by the lord of Kośal’s land,His envoy here, O King, I stand,
+Angad the son of Báli: fame
+Has haply taught thine ears my name.
+Thus in the words of Ráma I
+Am come to warn thee or defy:
+Come forth, and fighting in the van
+Display the spirit of a man.
+This arm shall slay thee, tyrant: all
+Thy nobles, kith and kin shall fall:
+And earth and heaven, from terror freed,
+Shall joy to see the oppressor bleed.
+Vibhishaṇ, when his foe is slain,
+Anointed king in peace shall reign.
+Once more I counsel thee: repent,
+Avoid the mortal punishment,
+With honour due the dame restore,
+And pardon for thy sin implore.”
+
+  Loud rose the king’s infuriate cry:
+“Seize, seize the Vánar, let him die.”
+Four of his band their lord obeyed,
+And eager hands on Angad laid.
+He purposing his strength to show
+Gave no resistance to the foe,
+But swiftly round his captors cast
+His mighty arms and held them fast.Fierce shout and cry around him rang:
+Light to the palace roof he sprang,
+There his detaining arms unwound,
+And hurled the giants to the ground.
+Then, smiting with a fearful stroke,
+A turret from the roof he broke,—
+As when the fiery levin sent
+By Indra from the clouds has rent
+The proud peak of the Lord of Snow,—
+And flung the stony mass below.
+Again with loud terrific cry
+He sprang exulting to the sky,
+And, joyous for his errand done,
+Stood by the side of Raghu’s son.<b>Canto XLII. The Sally.</b>
+
+Still was the cry, “The Vánar foes
+Around the leaguered city close.”
+King Rávaṇ from the terrace gazed
+And saw, with eyes where fury blazed,
+The Vánar host in serried ranks
+Press to the moat and line the banks,
+And, first in splendour and in place,
+The lion lord of Raghu’s race.
+And Ráma looked on Lanká where
+Gay flags were streaming to the air,
+And, while keen sorrow pierced him through,
+His loving thoughts to Sítá flew:
+“There, there in deep affliction lies
+My darling with the fawn-like eyes.
+There on the cold bare ground she keeps
+Sad vigil and for Ráma weeps.”
+Mad with the thought, “Charge, charge,” he cried.
+“Let earth with Rákshas blood be dyed.”
+
+  Responsive to his call rang out
+A loud, a universal shout,
+As myriads filled the moat with stone,
+Trees, rocks, and mountains overthrown,
+And charging at their leader’s callPressed forward furious to the wall.
+Some in their headlong ardour scaled
+The rampart’s height, the guard assailed,
+And many a ponderous fragment rent
+From portal, tower, and battlement.
+Huge gates adorned with burnished gold
+Were loosed and lifted from their hold;
+And post and pillar, with a sound
+Like thunder, fell upon the ground.
+At every portal, east and west
+And north and south, the chieftains pressed
+Each in his post appointed led
+His myriads in the forest bred.
+
+  “Charge, let the gates be opened wide:
+Charge, charge, my giants,” Rávaṇ cried.
+They heard his voice, and loud and long
+Rang the wild clamour of the throng,
+And shell and drum their notes upsent,
+And every martial instrument.
+Forth, at the bidding of their lord
+From every gate the giants poured,
+As, when the waters rise and swell,
+Huge waves preceding waves impel.
+Again from every Vánar throat
+A scream of fierce defiance smoteThe welkin: earth and sea and sky
+Reëchoed with the awful cry.
+The roar of elephants, the neigh
+Of horses eager for the fray.
+The frequent clash of warriors’ steel,
+The rattling of the chariot wheel.
+Fierce was the deadly fight: opposed
+In terrible array they closed,
+As when the Gods of heaven enraged
+With rebel fiends wild battle waged.
+Axe, spear, and mace were wielded well:
+At every blow a Vánar fell.
+But shivered rock and brandished tree
+Brought many a giant on his knee,
+To perish in his turn beneath
+The deadly wounds of nails and teeth.<b>Canto XLIII. The Single Combats.</b>
+
+Brave chiefs of each opposing side
+Their strength in single combat tried.
+Fierce Indrajít the fight began
+With Angad in the battle’s van.
+Sampáti, strongest of his race,
+Stood with Prajangha face to face.
+Hanúmán, Jambumáli met
+In mortal opposition set.
+Vibhishaṇ, brother of the lord
+Of Lanká, raised his threatening sword
+And singled out, with eyes aglow
+With wrath, Śatrughna for his foe.
+The mighty Gaja Tapan sought,
+And Níla with Nikumbha fought.
+Sugríva, Vánar king, defied
+Fierce Praghas long in battle tried,
+And Lakshmaṇ fearless in the fight
+Encountered Vírúpáksha’s might.
+To meet the royal Ráma came
+Wild Agniketu fierce as flame;
+Mitraghana, he who loved to strike
+His foeman and his friend alike:
+With Raśmiketu, known and feared
+Where’er his ponderous flag was reared;And Yajnakopa whose delight
+Was ruin of the sacred rite.
+These met and fought, with thousands more,
+And trampled earth was red with gore.
+Swift as the bolt which Indra sends
+When fire from heaven the mountain rends
+Smote Indrajít with furious blows
+On Angad queller of his foes.
+But Angad from his foeman tore
+The murderous mace the warrior bore,
+And low in dust his coursers rolled,
+His driver, and his car of gold.
+Struck by the shafts Prajangha sped,
+The Vánar chief Sampáti bled,
+But, heedless of his gashes he
+Crushed down the giant with a tree.
+Then car-borne Jambumáli smote
+Hanumán on the chest and throat;
+But at the car the Vánar rushed,
+And chariot, steeds, and rider crushed.
+Sugríva whirled a huge tree round,
+And struck fierce Praghas to the ground.
+One arrow shot from Lakshmaṇ’s bow
+Laid mighty Vírúpáksha low.
+His giant foes round Ráma pressedAnd shot their shafts at head and breast;
+But, when the iron shower was spent,
+Four arrows from his bow he sent,
+And every missile, deftly sped;
+Cleft from the trunk a giant head.(951)
+
+<b>Canto XLIV. The Night.</b>
+
+The lord of Light had sunk and set:
+Night came; the foeman struggled yet;
+And fiercer for the gloom of night
+Grew the wild fury of the fight.
+Scarce could each warrior’s eager eye
+The foeman from the friend descry.
+“Rákshas or Vánar? say;” cried each,
+And foe knew foeman by his speech.
+“Why wilt thou fly? O warrior, stay:
+Turn on the foe, and rend and slay:”
+Such were the cries, such words of fear
+Smote through the gloom each listening ear.
+Each swarthy rover of the night
+Whose golden armour flashed with light,
+Showed like a towering hill embraced
+By burning woods about his waist.
+The giants at the Vánars flew,
+And ravening ate the foes they slew:With mortal bite like serpent’s fang,
+The Vánars at the giants sprang,
+And car and steeds and they who bore
+The pennons fell bedewed with gore.
+No serried band, no firm array
+The fury of their charge could stay.
+Down went the horse and rider, down
+Went giant lords of high renown.
+Though midnight’s shade was dense and dark,
+With skill that swerved not from the mark
+Their bows the sons of Raghu drew,
+And each keen shaft a chieftain slew.
+Uprose the blinding dust from meads
+Ploughed by the cars and trampling steeds,
+And where the warriors fell the flood
+Was dark and terrible with blood.
+Six giants(952) singled Ráma out,
+And charged him with a furious shout
+Loud as the roaring of the sea
+When every wind is raging free.
+Six times he shot: six heads were cleft;
+Six giants dead on earth were left.
+Nor ceased he yet: his bow he strained,
+And from the sounding weapon rained
+A storm of shafts whose fiery glareFilled all the region of the air;
+And chieftains dropped before his aim
+Like moths that perish in the flame.
+Earth glistened where the arrows fell,
+As shines in autumn nights a dell
+Which fireflies, flashing through the gloom,
+With momentary light illume.
+
+  But Indrajít, when Báli’s son(953)
+The victory o’er the foe had won,
+Saw with a fury-kindled eye
+His mangled steeds and driver die;
+Then, lost in air, he fled the fight,
+And vanished from the victor’s sight.
+The Gods and saints glad voices raised,
+And Angad for his virtue praised;
+And Raghu’s sons bestowed the meed
+Of honour due to valorous deed.
+
+  Compelled his shattered car to quit,
+Rage filled the soul of Indrajít,
+Who brooked not, strong by Brahmá’s grace
+Defeat from one of Vánar race.
+In magic mist concealed from view
+His bow the treacherous warrior drew,
+And Raghu’s sons were first to feelThe tempest of his winged steel.
+Then when his arrows failed to kill
+The princes who defied him still,
+He bound them with the serpent noose,(954)
+The magic bond which none might loose.
+
+<b>Canto XLV. Indrajít’s Victory.</b>
+
+Brave Ráma, burning still to know
+The station of his artful foe,
+Gave to ten chieftains, mid the best
+Of all the host, his high behest.
+Swift rose in air the Vánar band:
+Each region of the sky they scanned:
+But Rávaṇ’s son by magic skill
+Checked them with arrows swifter still,
+When streams of blood from chest and side
+The dauntless Vánars’ limbs had dyed,
+The giant in his misty shroud
+Showed like the sun obscured by cloud.
+Like serpents hissing through the air,
+His arrows smote the princely pair;
+And from their limbs at every rent
+A stream of rushing blood was sent.
+Like Kinśuk trees they stood, that show
+In spring their blossoms’ crimson glow.Then Indrajít with fury eyed
+Ikshváku’s royal sons, and cried:
+
+  “Not mighty Indra can assail
+Or see me when I choose to veil
+My form in battle: and can ye,
+Children of earth, contend with me?
+The arrowy noose this hand has shot
+Has bound you with a hopeless knot;
+And, slaughtered by my shafts and bow,
+To Yáma’s hall this hour ye go.”
+
+  He spoke, and shouted. Then anew
+The arrows from his bowstring flew,
+And pierced, well aimed with perfect art,
+Each limb and joint and vital part.
+Transfixed with shafts in every limb,
+Their strength relaxed, their eyes grew dim.
+As two tall standards side by side,
+With each sustaining rope untied,
+Fall levelled by the howling blast,
+So earth’s majestic lords at last
+Beneath the arrowy tempest reeled,
+And prostrate pressed the battle field.<b>Canto XLVI. Indrajít’s Triumph.</b>
+
+The Vánar chiefs whose piercing eyes
+Scanned eagerly the earth and skies,
+Saw the brave brothers wounded sore
+Transfixed with darts and stained with gore.
+The monarch of the Vánar race,
+With wise Vibhishaṇ, reached the place;
+Angad and Níla came behind,
+And others of the forest kind,
+And standing with Hanúmán there
+Lamented for the fallen pair.
+Their melancholy eyes they raised;
+In fruitless search a while they gazed.
+But magic arts Vibhishaṇ knew;
+Not hidden from his keener view,
+Though veiled by magic from the rest,
+The son of Rávaṇ stood confessed.
+Fierce Indrajít with savage pride
+The fallen sons of Raghu eyed,
+And every giant heart was proud
+As thus the warrior cried aloud:
+
+  “Slain by mine arrows Ráma lies,
+And closed in death are Lakshmaṇ’s eyes.
+Dead are the mighty princes whoDúshaṇ and Khara smote and slew.
+The Gods and fiends may toil in vain
+To free them from the binding chain.
+The haughty chief, my father’s dread,
+Who drove him sleepless from his bed,
+While Lanká, troubled like a brook
+In rain time, heard his name and shook:
+He whose fierce hate our lives pursued
+Lies helpless by my shafts subdued.
+Now fruitless is each wondrous deed
+Wrought by the race the forests breed,
+And fruitless every toil at last
+Like cloudlets when the rains are past.”
+Then rose the shout of giants loud
+As thunder from a bursting cloud,
+When, deeming Ráma, dead, they raised
+Their voices and the conqueror praised.
+
+  Still motionless, as lie the slain,
+The brothers pressed the bloody plain,
+No sigh they drew, no breath they heaved,
+And lay as though of life bereaved.
+Proud of the deed his art had done,
+To Lanká’s town went Rávaṇ’s son,
+Where, as he passed, all fear was stilled,
+And every heart with triumph filled.Sugríva trembled as he viewed
+Each fallen prince with blood bedewed,
+And in his eyes which overflowed
+With tears the flame of anger glowed.
+“Calm,” cried Vibhishaṇ, “calm thy fears,
+And stay the torrent of thy tears.
+Still must the chance of battle change,
+And victory still delight to range.
+Our cause again will she befriend
+And bring us triumph in the end.
+This is not death: each prince will break
+The spell that holds him, and awake;
+Nor long shall numbing magic bind
+The mighty arm, the lofty mind.”
+
+  He ceased: his finger bathed in dew
+Across Sugríva’s eyes he drew;
+From dulling mist his vision freed,
+And spoke these words to suit the need:
+“No time is this for fear: away
+With fainting heart and weak delay.
+Now, e’en the tear which sorrow wrings
+From loving eyes destruction brings.
+Up, on to battle at the head
+Of those brave troops which Ráma led.
+Or guardian by his side remainTill sense and strength the prince regain.
+Soon shall the trance-bound pair revive,
+And from our hearts all sorrow drive.
+Though prostrate on the earth he lie,
+Deem not that Ráma’s death is nigh;
+Deem not that Lakshmí will forget
+Or leave her darling champion yet.
+Rest here and be thy heart consoled;
+Ponder my words, be firm and bold.
+I, foremost in the battlefield,
+Will rally all who faint or yield.
+Their staring eyes betray their fear;
+They whisper each in other’s ear.
+They, when they hear my cheering cry
+And see the friend of Ráma nigh,
+Will cast their gloom and fears away
+Like faded wreaths of yesterday.”
+
+  Thus calmed he King Sugríva’s dread;
+Then gave new heart to those who fled.
+Fierce Indrajít, his soul on fire
+With pride of conquest, sought his sire,
+Raised reverent hands, and told him all,
+The battle and the princes’ fall.
+Rejoicing at his foes’ defeat
+Upsprang the monarch from his seat,Girt by his giant courtiers: round
+His warrior son his arms he wound,
+Close kisses on his head applied,
+And heard again how Ráma died.
+
+<b>Canto XLVII. Sítá.</b>
+
+Still on the ground where Ráma slept
+Their faithful watch the Vánars kept.
+There Angad stood o’erwhelmed with grief
+And many a lord and warrior chief;
+And, ranged in densest mass around,
+Their tree-armed legions held the ground.
+Far ranged each Vánar’s eager eye,
+Now swept the land, now sought the sky,
+All fearing, if a leaf was stirred,
+A Rákshas in the sound they heard.
+The lord of Lanká in his hall,
+Rejoicing at his foeman’s fall,
+Commanded and the warders came
+Who ever watched the Maithil dame.
+“Go,” cried the Rákshas king, “relate
+To Janak’s child her husband’s fate.
+Low on the earth her Ráma lies,
+And dark in death are Lakshmaṇ’s eyes.
+Bring forth my car and let her rideTo view the chieftains side by side.
+The lord to whom her fancy turned
+For whose dear sake my love she spurned,
+Lies smitten, as he fiercely led
+The battle, with his brother dead.
+Lead forth the royal lady: go
+Her husband’s lifeless body show.
+Then from all doubt and terror free
+Her softening heart will turn to me.”
+
+  They heard his speech: the car was brought;
+That shady grove the warders sought
+Where, mourning Ráma night and day,
+The melancholy lady lay.
+They placed her in the car and through
+The yielding air they swiftly flew.
+The lady looked upon the plain,
+Looked on the heaps of Vánar slain,
+Saw where, triumphant in the fight,
+Thronged the fierce rovers of the night,
+And Vánar chieftains, mournful-eyed,
+Watched by the fallen brothers’ side.
+There stretched upon his gory bed
+Each brother lay as lie the dead,
+With shattered mail and splintered bow
+Pierced by the arrows of the foe.When on the pair her eyes she bent,
+Burst from her lips a wild lament
+Her eyes o’erflowed, she groaned and sighed
+And thus in trembling accents cried:
+
+<b>Canto XLVIII. Sítá’s Lament.</b>
+
+“False are they all, proved false to-day,
+The prophets of my fortune, they
+Who in the tranquil time of old
+A blessed life for me foretold,
+Predicting I should never know
+A childless dame’s, a widow’s woe,
+False are they all, their words are vain,
+For thou, my lord and life, art slain.
+False was the priest and vain his lore
+Who blessed me in those days of yore
+By Ráma’s side in bliss to reign:
+For thou, my lord and life, art slain.
+They hailed me happy from my birth,
+Proud empress of the lord of earth.
+They blessed me—but the thought is pain—
+For thou, my lord and life, art slain.
+Ah, fruitless hope! each glorious sign
+That stamps the future queen is mine,
+With no ill-omened mark to showA widow’s crushing hour of woe.
+They say my hair is black and fine,
+They praise my brows’ continuous line;
+My even teeth divided well,
+My bosom for its graceful swell.
+They praise my feet and fingers oft;
+They say my skin is smooth and soft,
+And call me happy to possess
+The twelve fair marks that bring success.(955)
+But ah, what profit shall I gain?
+Thou, O my lord and life, art slain.
+The flattering seer in former days
+My gentle girlish smile would praise,
+And swear that holy water shed
+By Bráhman hands upon my head
+Should make me queen, a monarch’s bride:
+How is the promise verified?
+Matchless in might the brothers slew
+In Janasthán the giant crew.
+And forced the indomitable sea
+To let them pass to rescue me.
+Theirs was the fiery weapon hurled
+By him who rules the watery world;(956)
+Theirs the dire shaft by Indra sped;
+Theirs was the mystic Brahmá’s Head.(957)In vain they fought, the bold and brave:
+A coward’s hand their death-wounds gave.
+By secret shafts and magic spell
+The brothers, peers of Indra, fell.
+That foe, if seen by Ráma’s eye
+One moment, had not lived to fly.
+Though swift as thought, his utmost speed
+Had failed him in the hour of need.
+No might, no tear, no prayer may stay
+Fate’s dark inevitable day.
+Nor could their matchless valour shield
+These heroes on the battle field.
+I sorrow for the noble dead,
+I mourn my hopes for ever fled;
+But chief my weeping eyes o’erflow
+For Queen Kauśalyá’s hopeless woe.
+The widowed queen is counting now
+Each hour prescribed by Ráma’s vow,
+And lives because she longs to see
+Once more her princely sons and me.”
+
+  Then Trijaṭá,(958) of gentler mould
+Though Rákshas born, her grief consoled:
+“Dear Queen, thy causeless woe dispel:
+Thy husband lives, and all is well.
+Look round: in every Vánar faceThe light of joyful hope I trace.
+Not thus, believe me, shine the eyes
+Of warriors when their leader dies.
+An Army, when the chief is dead,
+Flies from the field dispirited.
+Here, undisturbed in firm array,
+The Vánars by the brothers stay.
+Love prompts my speech; no longer grieve;
+Ponder my counsel, and believe.
+These lips of mine from earliest youth
+Have spoken, and shall speak, the truth.
+Deep in my heart thy gentle grace
+And patient virtues hold their place.
+Turn, lady, turn once more thine eye:
+Though pierced with shafts the heroes lie,
+On brows and cheeks with blood-drops wet
+The light of beauty lingers yet.
+Such beauty ne’er is found in death,
+But vanishes with parting breath.
+O, trust the hope these tokens give:
+The heroes are not dead, but live.”
+
+  Then Sítá joined her hands, and sighed,
+“O, may thy words be verified!”
+The car was turned, which fleet as thought
+The mourning queen to Lanká brought.They led her to the garden, where
+Again she yielded to despair,
+Lamenting for the chiefs who bled
+On earth’s cold bosom with the dead.
+
+<b>Canto XLIX. Ráma’s Lament.</b>
+
+Ranged round the spot where Ráma fell
+Each Vánar chief stood sentinel.
+At length the mighty hero broke
+The trance that held him, and awoke.
+He saw his senseless brother, dyed
+With blood from head to foot, and cried:
+“What have I now to do with life
+Or rescue of my prisoned wife,
+When thus before my weeping eyes,
+Slain in the fight, my brother lies?
+A queen like Sítá I may find
+Among the best of womankind,
+But never such a brother, tried
+In war, my guardian, friend, and guide.
+If he be dead, the brave and true,
+I will not live but perish too.
+How, reft of Lakshmaṇ, shall I meet
+My mother, and Kaikeyí greet?
+My brother’s eager question brook,And fond Sumitrá’s longing look?
+What shall I say, o’erwhelmed with shame
+To cheer the miserable dame?
+How, when she hears her son is dead,
+Will her sad heart be comforted?
+Ah me, for longer life unfit
+This mortal body will I quit;
+For Lakshmaṇ slaughtered for my sake,
+From sleep of death will never wake.
+Ah when I sank oppressed with care,
+Thy gentle voice could soothe despair.
+And art thou, O my brother, killed?
+Is that dear voice for ever stilled?
+Cold are those lips, my brother, whence
+Came never word to breed offence?
+Ah stretched upon the gory plain
+My brother lies untimely slain:
+Numbed is the mighty arm that slew
+The leaders of the giant crew.
+Transfixed with shafts, with blood-streams red,
+Thou liest on thy lowly bed:
+So sinks to rest, his journey done,
+Mid arrowy rays the crimson sun.
+Thou, when from home and sire I fled,
+The wood’s wild ways with me wouldst tread:Now close to thine my steps shall be,
+For I in death will follow thee.
+Vibhishaṇ now will curse my name,
+And Ráma as a braggart blame,
+Who promised—but his word is vain—
+That he in Lanká’s isle should reign.
+Return, Sugríva: reft of me
+Lead back thy Vánars o’er the sea,
+Nor hope to battle face to face
+With him who rules the giant race.
+Well have ye done and nobly fought,
+And death in desperate combat sought.
+All that heroic might can do,
+Brave Vánars, has been done by you.
+My faithful friends I now dismiss:
+Return: my last farewell is this.”
+
+  Bedewed with tears was every cheek
+As thus the Vánars heard him speak.
+Vibhishaṇ on the field had stayed
+The Vánar hosts who fled dismayed.
+Now lifting up his mace on high
+With martial step the chief drew nigh.
+The hosts who watched by Ráma’s side
+Beheld his shape and giant stride.
+’Tis he, ’tis Rávaṇ’s son, they thought:And all in flight their safety sought.
+
+<b>Canto L. The Broken Spell.</b>
+
+Sugríva viewed the flying crowd,
+And thus to Angad cried aloud:
+“Why run the trembling hosts, as flee
+Storm-scattered barks across the sea?”
+“Dost thou not mark,” the chief replied,
+“Transfixed with shafts, with bloodstreams dyed,
+With arrowy toils about them wound,
+The sons of Raghu on the ground?”
+
+  That moment brought Vibhishaṇ near.
+Sugríva knew the cause of fear,
+And ordered Jámbaván, who led
+The bears, to check the hosts that fled.
+The king of bears his hest obeyed:
+The Vánars’ headlong flight was stayed.
+A little while Vibhishaṇ eyed
+The brothers fallen side by side.
+His giant fingers wet with dew
+Across the heroes’ eyes he drew,
+Still on the pair his sad look bent,
+And spoke these word in wild lament:
+“Ah for the mighty chiefs brought lowBy coward hand and stealthy blow!
+Brave pair who loved the open fight,
+Slain by that rover of the night.
+Dishonest is the victory won
+By Indrajít my brother’s son.
+I on their might for aid relied,
+And in my cause they fought and died.
+Lost is the hope that soothed each pain:
+I live, but live no more to reign,
+While Lanká’s lord, untouched by ill,
+Exults in safe defiance still.”
+
+  “Not thus,” Sugríva said, “repine,
+For Lanká’s isle shall still be thine.
+Nor let the tyrant and his son
+Exult before the fight be done.
+These royal chiefs, though now dismayed,
+Freed from the spell by Garuḍ’s aid,
+Triumphant yet the foe shall meet
+And lay the robber at their feet.”
+
+  His hope the Vánar monarch told,
+And thus Vibhishaṇ’s grief consoled.
+Then to Susheṇ who at his side
+Expectant stood, Sugríva cried:
+“When these regain their strength and sense,Fly, bear them to Kishkindhá hence.
+Here with my legions will I stay,
+The tyrant and his kinsmen slay,
+And, rescued from the giant king,
+The Maithil lady will I bring,
+Like Glory lost of old, restored
+By Śakra, heaven’s almighty lord.”
+
+  Susheṇ made answer: “Hear me yet:
+When Gods and fiends in battle met,
+So fiercely fought the demon crew,
+So wild a storm of arrows flew,
+That heavenly warriors faint with pain,
+Sank smitten by the ceaseless rain.
+Vṛihaspati,(959) with herb and spell,
+Cured the sore wounds of those who fell.
+And, skilled in arts that heal and save,
+New life and sense and vigour gave.
+Far, on the Milky Ocean’s shore,
+Still grow those herbs in boundless store;
+Let swiftest Vánars thither speed
+And bring them for our utmost need.
+Those herbs that on the mountain spring
+Let Panas and Sampáti bring,
+For well the wondrous leaves they know,
+That heal each wound and life bestow.Beside that sea which, churned of yore,
+The amrit on its surface bore,
+Where the white billows lash the land,
+Chandra’s fair height and Droṇa stand.
+Planted by Gods each glittering steep
+Looks down upon the milky deep.
+Let fleet Hanúmán bring us thence
+Those herbs of wondrous influence.”
+
+  Meanwhile the rushing wind grew loud,
+Red lightnings flashed from banks of cloud.
+The mountains shook, the wild waves rose,
+And smitten with resistless blows
+Unrooted fell each stately tree
+That fringed the margin of the sea.
+All life within the waters feared
+Then, as the Vánars gazed, appeared
+King Garuḍ’s self, a wondrous sight,
+Disclosed in flames of fiery light.
+From his fierce eye in sudden dread
+All serpents in a moment fled.
+And those transformed to shaft that bound
+The princes vanished in the ground.
+On Raghu’s sons his eyes he bent,
+And hailed the lords armipotent.
+Then o’er them stooped the feathered king,And touched their faces with his wing.
+His healing touch their pangs allayed,
+And closed each rent the shafts had made.
+Again their eyes were bright and bold,
+Again the smooth skin shone like gold.
+Again within their shell enshrined
+Came memory and each power of mind:
+And, from those numbing bonds released,
+Their spirit, zeal, and strength increased.
+Firm on their feet they stood, and then
+Thus Ráma spake, the lord of men:
+
+  “By thy dear grace in sorest need
+From deadly bonds we both are freed.
+To these glad eyes as welcome now
+As Aja(960) or my sire art thou.
+Who art thou, mighty being? say,
+Thus glorious in thy bright array.”
+He ceased: the king of birds replied,
+While flashed his eye with joy and pride:
+“In me, O Raghu’s son, behold
+One who has loved thee from of old:
+Garuḍ, the lord of all that fly,
+Thy guardian and thy friend am I.
+Not all the Gods in heaven could loose
+These numbing bonds, this serpent noose,Wherewith fierce Rávaṇ’s son, renowned
+For magic arts, your limbs had bound.
+Those arrows fixed in every limb
+Were mighty snakes, transformed by him.
+Blood thirsty race, they live beneath
+The earth, and slay with venomed teeth.
+On, smite the lord of Lanká’s isle,
+But guard you from the giants’ guile
+Who each dishonest art employ
+And by deceit brave foes destroy.
+So shall the tyrant Rávaṇ bleed,
+And Sítá from his power be freed.”
+Thus Garuḍ spake: then, swift as thought,
+The region of the sky he sought,
+Where in the distance like a blaze
+Of fire he vanished from the gaze.
+
+  Then the glad Vánars’ joy rang out
+In many a wild tumultuous shout,
+And the loud roar of drum and shell
+Startled each distant sentinel.<b>Canto LI. Dhúmráksha’s Sally.</b>
+
+King Rávaṇ, where he sat within,
+Heard from his hall the deafening din,
+And with a spirit ill at ease
+Addressed his lords in words like these:
+
+  “That warlike shout, those joyous cries,
+Loud as the thunder of the skies,
+Upsent from every Vánar throat,
+Some new-born confidence denote.
+Hark, how the sea and trembling shore
+Re-echo with the Vánars’ roar.
+Though arrowy chains, securely twined
+Both Ráma and his brother bind,
+Still must the fierce triumphant shout
+Disturb my soul with rising doubt.
+Swift envoys to the army send,
+And learn what change these cries portend.”
+
+  Obedient, at their master’s call,
+Fleet giants clomb the circling wall.
+They saw the Vánars formed and led:
+They saw Sugríva at their head,
+The brothers from their bonds released:
+And hope grew faint and fear increased.Their faces pale with doubt and dread,
+Back to the giant king they sped,
+And to his startled ear revealed
+The tidings of the battle field.
+
+  The flush of rage a while gave place
+To chilling fear that changed his face:
+
+  “What?” cried the tyrant, “are my foes
+Freed from the binding snakes that close
+With venomed clasp round head and limb,
+Bright as the sun and fierce like him:
+The spell a God bestowed of yore,
+The spell that never failed before?
+If arts like these be useless, how
+Shall giant strength avail us now?
+Go forth, Dhúmráksha, good at need,
+The bravest of my warriors lead:
+Force through the foe thy conquering way,
+And Ráma and the Vánars slay.”
+
+  Before his king with reverence due
+Dhúmráksha bowed him, and withdrew.
+Around him at his summons came
+Fierce legions led by chiefs of fame.
+Well armed with sword and spear and mace,They hurried to the gathering place,
+And rushed to battle, borne at speed
+By elephant and car and steed.
+
+<b>Canto LII. Dhúmráksha’s Death.</b>
+
+The Vánars saw the giant foe
+Pour from the gate in gallant show,
+Rejoiced with warriors’ fierce delight
+And shouted, longing for the fight.
+Near came the hosts and nearer yet:
+Dire was the tumult as they met,
+As, serried line to line opposed,
+The Vánars and the giants closed.
+Fierce on the foe the Vánars rushed,
+And, wielding trees, the foremost crushed;
+But, feathered from the heron’s wing,
+With eager flight from sounding string,
+Against them shot with surest aim
+A ceaseless storm of arrows came:
+And, pierced in head and chest and side,
+Full many a Vánar fell and died.
+They perished slain in fierce attacks
+With sword and pike and battle-axe;
+But myriads following undismayed
+Their valour in the fight displayed.Unnumbered Vánars rent and torn
+With shaft and spear to earth were borne.
+But crushed by branchy trees and blocks
+Of jagged stone and shivered rocks
+Which the wild Vánars wielded well
+The bravest of the giants fell.
+Their trampled banners strewed the fields,
+And broken swords and spears and shields;
+And, crushed by blows which none might stay,
+Cars, elephants, and riders lay.
+Dhúmráksha turned his furious eye
+And saw his routed legions fly.
+Still dauntless, with terrific blows,
+He struck and slew his foremost foes.
+At every blow, at every thrust,
+He laid a Vánar in the dust.
+So fell they neath the sword and lance
+In battle’s wild Gandharva(961) dance,
+Where clang of bow and clash of sword
+Did duty for the silvery chord,
+And hoofs that rang and steeds that neighed
+Loud concert for the dancers made.
+So fiercely from Dhúmráksha’s bow
+His arrows rained in ceaseless flow,
+The Vánar legions turned and fledTo all the winds discomfited.
+Hanúmán saw the Vánars fly;
+He heaved a mighty rock on high.
+His keen eyes flashed with wrathful fire,
+And, rapid as the Wind his sire,
+Strong as the rushing tempests are,
+He hurled it at the advancing car.
+Swift through the air the missile sang:
+The giant from the chariot sprang,
+Ere crushed by that terrific blow
+Lay pole and wheel and flag and bow.
+Hanúmán’s eyes with fury blazed:
+A mountain’s rocky peak he raised,
+Poised it on high in act to throw,
+And rushed upon his giant foe.
+Dhúmráksha saw: he raised his mace
+And smote Hanúmán on the face,
+Who maddened by the wound’s keen pang
+Again upon his foeman sprang;
+And on the giant’s head the rock
+Descended with resistless shock.
+Crushed was each limb: a shapeless mass
+He lay upon the blood-stained grass.<b>Canto LIII. Vajradanshtra’s Sally.</b>
+
+When Rávaṇ in his palace heard
+The mournful news, his wrath was stirred;
+And, gasping like a furious snake,
+To Vajradanshṭra thus he spake:
+
+  “Go forth, my fiercest captain, lead
+The bravest of the giants’ breed.
+Go forth, the sons of Raghu slay
+And by their side Sugríva lay.”
+
+  He ceased: the chieftain bowed his head
+And forth with gathered troops he sped.
+Cars, camels, steeds were well arrayed,
+And coloured banners o’er them played.
+Rings decked his arms: about his waist
+The life-protecting mail was braced,
+And on the chieftain’s forehead set
+Glittered his cap and coronet.
+Borne on a bannered car that glowed
+With golden sheen the warrior rode,
+And footmen marched with spear and sword
+And bow and mace behind their lord.
+In pomp and pride of warlike state
+They sallied from the southern gate,But saw, as on their way they sped,
+Dread signs around and overhead.
+For there were meteors falling fast,
+Though not a cloud its shadow cast;
+And each ill-omened bird and beast,
+Forboding death, the fear increased,
+While many a giant slipped and reeled,
+Falling before he reached the field.
+They met in mortal strife engaged,
+And long and fierce the battle raged.
+Spears, swords uplifted, gleamed and flashed,
+And many a chief to earth was dashed.
+A ceaseless storm of arrows rained,
+And limbs were pierced and blood-distained.
+Terrific was the sound that filled
+The air, and every heart was chilled,
+As hurtling o’er the giants flew
+The rocks and trees which Vánars threw.
+Fierce as a hungry lion when
+Unwary deer approach his den,
+Angad, his eyes with fury red,
+Waving a tree above his head,
+Rushed with wild charge which none could stay
+Where stood the giants’ dense array.
+Like tall trees levelled by the blastBefore him fell the giants fast,
+And earth that streamed with blood was strown
+With warriors, steeds, and cars o’erthrown.
+
+<b>Canto LIV. Vajradanshtra’s Death.</b>
+
+The giant leader fiercely rained
+His arrows and the fight maintained.
+Each time the clanging cord he drew
+His certain shaft a Vánar slew.
+Then, as the creatures he has made
+Fly to the Lord of Life for aid,
+To Angad for protection fled
+The Vánar hosts dispirited.
+Then raged the battle fiercer yet
+When Angad and the giant met.
+A hundred thousand arrows, hot
+With flames of fire, the giant shot;
+And every shaft he deftly sent
+His foeman’s body pierced and rent.
+From Angad’s limbs ran floods of gore:
+A stately tree from earth he tore,
+Which, maddened as his gashes bled,
+He hurled at his opponent’s head.
+His bow the dauntless giant drew;
+To meet the tree swift arrows flew,Checked the huge missile’s onward way,
+And harmless on the earth it lay.
+A while the Vánar chieftain gazed,
+Then from the earth a rock he raised
+Rent from a thunder-splitten height,
+And cast it with resistless might.
+The giant marked, and, mace in hand,
+Leapt from his chariot to the sand,
+Ere the rough mass descending broke
+The seat, the wheel, the pole and yoke.
+
+  Then Angad seized a shattered hill,
+Whereon the trees were flowering still,
+And with full force the jagged peak
+Fell crashing on the giant’s cheek.
+He staggered, reeled, and fell: the blood
+Gushed from the giant in a flood.
+Reft of his might, each sense astray,
+A while upon the sand he lay.
+But strength and wandering sense returned
+Again his eyes with fury burned,
+And with his mace upraised on high
+He wounded Angad on the thigh.
+Then from his hand his mace he threw,
+And closer to his foeman drew.
+Then with their fists they fought, and smoteOn brow and cheek and chest and throat.
+Worn out with toil, their limbs bedewed,
+With blood, the strife they still renewed,
+Like Mercury and fiery Mars
+Met in fierce battle mid the stars.
+
+  A while the deadly fight was stayed:
+Each armed him with his trusty blade
+Whose sheath with tinkling bells supplied,
+And golden net, adorned his side;
+And grasped his ponderous leather shield
+To fight till one should fall or yield.
+Unnumbered wounds they gave and took:
+Their wearied bodies reeled and shook.
+At length upon the sand that drank
+Streams of their blood the warriors sank,
+But as a serpent rears his head
+Sore wounded by a peasant’s tread,
+So Angad, fallen on his knees,
+Yet gathered strength his sword to seize;
+And, severed by the glittering blade,
+The giant’s head on earth was laid.
+
+[I omit Cantos LV, LVI, LVII, and LVIII, which relate how Akampan and Prahasta sally out and fall. There is little novelty of incident in these Cantos and the results are exactly the same as before.In Canto LV, Akampan, at the command of Rávaṇ, leads forth his troops. Evil omens are seen and heard. The enemies meet, and many fall on each side, the Vánars transfixed with arrows, the Rákshases crushed with rocks and trees.
+
+In Canto LVI Akampan sees that the Rákshases are worsted, and fights with redoubled rage and vigour. The Vánars fall fast under his “nets of arrows.” Hanumán comes to the rescue. He throws mountain peaks at the giant which are dexterously stopped with flights of arrows; and at last beats him down and kills him with a tree.
+
+In Canto LVII, Rávaṇ is seriously alarmed. He declares that he himself, Kumbhakarṇa or Prahasta, must go forth. Prahasta sallies out vaunting that the fowls of the air shall eat their fill of Vánar flesh.
+
+In Canto LVIII, the two armies meet. Dire is the conflict; ceaseless is the rain of stones and arrows. At last Níla meets Prahasta and breaks his bow. Prahasta leaps from his car, and the giant and the Vánar fight on foot. Níla with a huge tree crushes his opponent who falls like a tree when its roots are cut.]<b>Canto LIX. Rávan’s Sally.</b>
+
+They told him that the chief was killed,
+And Rávaṇ’s breast with rage was filled.
+Then, fiercely moved by wrath and pride,
+Thus to his lords the tyrant cried:
+
+  “No longer, nobles, may we show
+This lofty scorn for such a foe
+By whom our bravest, with his train
+Of steeds and elephants, is slain.
+Myself this day will take the field,
+And Raghu’s sons their lives shall yield.”
+
+  High on the royal car, that glowed
+With glory from his face, he rode;
+And tambour shell and drum pealed out,
+And joyful was each giant’s shout.
+A mighty host, with eyeballs red
+Like flames of kindled fire, he led.
+He passed the city gate, and viewed,
+Arrayed, the Vánar multitude,
+Those wielding massy rocks, and these
+Armed with the stems of uptorn trees,
+And Ráma with his eyes aglow
+With warlike ardour viewed the foe,And thus the brave Vibhishaṇ, best
+Of weapon-wielding chiefs, addressed:
+“What captain leads this bright array
+Where lances gleam and banners play,
+And thousands armed with spear and sword
+Await the bidding of their lord?”
+
+  “Seest, thou,” Vibhishaṇ answered, “one
+Whose face is as the morning sun,
+Preëminent for hugest frame?
+Akampan(962) is the giant’s name.
+Behold that chieftain, chariot-borne,
+Whom Brahmá’s chosen gifts adorn.
+He wields a bow like Indra’s own;
+A lion on his flag is shown,
+His eyes with baleful fire are lit:
+’Tis Rávaṇ’s son, ’tis Indrajít.
+There, brandishing in mighty hands
+His huge bow, Atikáya stands.
+And that proud warrior o’er whose head
+A moon-bright canopy is spread:
+Whose might, in many a battle tried,
+Has tamed imperial Indra’s pride;
+Who wears a crown of burnished gold,
+Is Lanká’s lord the lofty-souled.”  He ceased: and Ráma knew his foe,
+And laid an arrow on his bow:
+“Woe to the wretch,” he cried, “whom fate
+Abandons to my deadly hate.”
+He spoke, and, firm by Lakshmaṇ’s side,
+The giant to the fray defied.
+The lord of Lanká bade his train
+Of warriors by the gates remain,
+To guard the city from surprise
+By Ráma’s forest born allies.
+Then as some monster of the sea
+Cleaves swift-advancing billows, he
+Charged with impetuous onset through
+The foe, and cleft the host in two.
+Sugríva ran, the king to meet:
+A hill uprooted from its seat
+He hurled, with trees that graced the height
+Against the rover of the night:
+But cleft with shafts that checked its way
+Harmless upon the earth it lay.
+Then fiercer Rávaṇ’s fury grew,
+An arrow from his side he drew,
+Swift as a thunderbolt, aglow
+With fire, and launched it at the foe.
+Through flesh and bone a way it found,And stretched Sugríva on the ground.
+Susheṇ and Nala saw him fall,
+Gaváksha, Gavaya heard their call,
+And, poising hills, in act to fling
+They charged amain the giant king.
+They charged, they hurled the hills in vain,
+He checked them with his arrowy rain,
+And every brave assailant felt
+The piercing wounds his missiles dealt,
+Then smitten by the shafts that came
+Keen, fleet, and thick, with certain aim,
+They fled to Ráma, sure defence
+Against the oppressor’s violence,
+Then, reverent palm to palm applied,
+Thus Lakshmaṇ to his brother cried:
+“To me, my lord, the task entrust
+To lay this giant in the dust.”
+“Go, then,” said Ráma, “bravely fight;
+Beat down this rover of the night.
+But he, unmatched in bold emprise,
+Fears not the Lord of earth and skies,
+Keep on thy guard: with keenest eye
+Thy moments of attack espy.
+Let hand and eye in due accord
+Protect thee with the bow and sword.”  Then Lakshmaṇ round his brother threw
+His mighty arms in honour due,
+Bent lowly down his reverent head,
+And onward to the battle sped.
+Hanúmán from afar beheld
+How Rávaṇ’s shafts the Vánars quelled:
+To meet the giant’s car he ran,
+Raised his right arm and thus began:
+“If Brahmá’s boon thy life has screened
+From Yaksha, God, Gandharva, fiend,
+With these contending fear no ill,
+But tremble at a Vánar still.”
+With fury flashing from his eye
+The lord of Lanká made reply:
+“Strike, Vánar, strike: the fray begin,
+And hope eternal fame to win.
+This arm shall prove thee in the strife
+And end thy glory and thy life.”
+“Remember,” cried the Wind-God’s son,
+“Remember all that I have done,
+My prowess, King, thou knowest well,
+Shown in the fight when Aksha(963) fell.”
+
+  With heavy hand the giant smote
+Hanúmán on the chest and throat,
+Who reeled and staggered to and fro,Stunned for a moment by the blow.
+Till, mustering strength, his hand he reared
+And struck the foe whom Indra feared.
+His huge limbs bent beneath the shock,
+As mountains, in an earthquake, rock,
+And from the Gods and sages pealed
+Shouts of loud triumph as he reeled.
+But strength returning nerved his frame:
+His eyeballs flashed with fiercer flame.
+No living creature might resist
+That blow of his tremendous fist
+Which fell upon Hanúmán’s flank:
+And to the ground the Vánar sank,
+No sign of life his body showed:
+And Rávaṇ in his chariot rode
+At Níla; and his arrowy rain
+Fell on the captain and his train.
+Fierce Níla stayed his Vánar band,
+And, heaving with his single hand
+A mountain peak, with vigorous swing
+Hurled the huge missile at the king.
+
+  Hanúmán life and strength regained,
+Burned for the fight and thus complained:
+“Why, coward giant, didst thou flee
+And leave the doubtful fight with me?”Seven mighty arrows keen and fleet
+The giant launched, the hill to meet;
+And, all its force and fury stayed,
+The harmless mass on earth was laid.
+Enraged the Vánar chief beheld
+The mountain peak by force repelled,
+And rained upon the foe a shower
+Of trees uptorn with branch and flower.
+Still his keen shafts which pierced and rent
+Each flying tree the giant sent:
+Still was the Vánar doomed to feel
+The tempest of the winged steel.
+Then, smarting from that arrowy storm,
+The Vánar chief condensed his form,(964)
+And lightly leaping from the ground
+On Rávaṇ’s standard footing found;
+Then springing unimpeded down
+Stood on his bow and golden crown.
+The Vánar’s nimble leaps amazed
+Ikshváku’s son who stood and gazed.
+The giant, raging in his heart,
+Laid on his bow a fiery dart;
+The Vánar on his flagstaff eyed,
+And thus in tones of fury cried:
+“Well skilled in magic lore art thou:But will thine art avail thee now?
+See if thy magic will defend
+Thy life against the dart I send.”
+
+  Thus Rávaṇ spake, the giant king,
+And loosed the arrow from the string.
+It pierced, with direst fury sped,
+The Vánar with its flaming head.
+His father’s might, his power innate
+Preserved him from the threatened fate.
+Upon his knees he fell, distained
+With streams of blood, but life remained.
+
+  Still Rávaṇ for the battle burned:
+At Lakshmaṇ next his car he turned,
+And charged amain with furious show,
+Straining in mighty hands his bow.
+“Come,” Lakshmaṇ cried, “assay the fight:
+Leave foes unworthy of thy might.”
+Thus Lakshmaṇ spoke: and Lanká’s lord
+Heard the dread thunder of the cord.
+And mad with burning rage and pride
+In hasty words like these replied:
+“Joy, joy is mine, O Raghu’s son:
+Thy fate to-day thou canst not shun.
+Slain by mine arrows thou shalt treadThe gloomy pathway of the dead.”
+
+  Thus as he spoke his bow he drew,
+And seven keen shafts at Lakshmaṇ flew,
+But Raghu’s son with surest aim
+Cleft every arrow as it came.
+Thus with fleet shafts each warrior shot
+Against his foe, and rested not.
+Then one choice weapon from his store,
+By Brahmá’s self bestowed of yore,
+Fierce as the flames that end the world,
+The giant king at Lakshmaṇ hurled.
+The hero fell, and racked with pain,
+Scarce could his hand his bow retain.
+But sense and strength resumed their seat
+And, lightly springing to his feet,
+He struck with one tremendous stroke
+And Rávaṇ’s bow in splinters broke.
+From Lakshmaṇ’s cord three arrows flew
+And pierced the giant monarch through.
+Sore wounded Rávaṇ closed, and round
+Ikshváku’s son his strong arms wound.
+With strength unrivalled, Brahmá’s gift,
+He strove from earth his foe to lift.
+“Shall I,” he cried, “who overthrow
+Mount Meru and the Lord of Snow,And heaven and all who dwell therein,
+Be foiled by one of Ráma’s kin?”
+But though he heaved, and toiled, and strained,
+Unmoved Ikshváku’s son remained.
+His frame by those huge arms compressed
+The giant’s God-given force confessed,
+But conscious that himself was part
+Of Vishṇu, he was firm in heart.
+
+  The Wind-God’s son the fight beheld,
+And rushed at Rávaṇ, rage-impelled.
+Down crashed his mighty hand; the foe
+Full in the chest received the blow.
+His eyes grew dim, his knees gave way,
+And senseless on the earth he lay.
+
+  The Wind-God’s son to Ráma bore
+Deep-wounded Lakshmaṇ stained with gore.
+He whom no foe might lift or bend
+Was light as air to such a friend.
+The dart that Lakshmaṇ’s side had cleft,
+Untouched, the hero’s body left,
+And flashing through the air afar
+Resumed its place in Rávaṇ’s car;
+And, waxing well though wounded sore,
+He felt the deadly pain no more.And Rávaṇ, though with deep wounds pained,
+Slowly his sense and strength regained,
+And furious still and undismayed
+On bow and shaft his hand he laid.
+
+  Then Hanumán to Ráma cried:
+“Ascend my back, great chief, and ride
+Like Vishṇu borne on Garuḍ’s wing,
+To battle with the giant king.”
+So, burning for the dire attack,
+Rode Ráma on the Vánar’s back,
+And with fierce accents loud and slow
+Thus gave defiance to the foe,
+While his strained bowstring made a sound
+Like thunder when it shakes the ground:
+“Stay, Monarch of the giants, stay,
+The penalty of sin to pay.
+Stay! whither wilt thou fly, and how
+Escape the death that waits thee now?”
+
+  No word the giant king returned:
+His eyes with flames of fury burned.
+His arm was stretched, his bow was bent,
+And swift his fiery shafts were sent.
+Red torrents from the Vánar flowed:
+Then Ráma near to Rávaṇ strode,And with keen darts that never failed,
+The chariot of the king assailed.
+With surest aim his arrows flew:
+The driver and the steeds he slew.
+And shattered with the pointed steel
+Car, flag, and pole and yoke and wheel.
+As Indra hurls his bolt to smite
+Mount Meru’s heaven-ascending height,
+So Ráma with a flaming dart
+Struck Lanká’s monarch near the heart,
+Who reeled and fell beneath the blow
+And from loose fingers dropped his bow.
+Bright as the sun, with crescent head,
+From Ráma’s bow an arrow sped,
+And from his forehead, proud no more,
+Cleft the bright coronet he wore.
+Then Ráma stood by Rávaṇ’s side
+And to the conquered giant cried:
+“Well hast thou fought: thine arm has slain
+Strong heroes of the Vánar train.
+I will not strike or slay thee now,
+For weary, faint with fight art thou.
+To Lanká’s town thy footsteps bend,
+And there the night securely spend.
+To-morrow come with car and bow,
+And then my prowess shalt thou know.”  He ceased: the king in humbled pride
+Rose from the earth and naught replied.
+With wounded limbs and shattered crown
+He sought again his royal town.
+
+<b>Canto LX. Kumbhakarna Roused.</b>
+
+With humbled heart and broken pride
+Through Lanká’s gate the giant hied,
+Crushed, like an elephant beneath
+A lion’s spring and murderous teeth,
+Or like a serpent ’neath the wing
+And talons of the Feathered King.
+Such was the giant’s wild alarm
+At arrows shot by Ráma’s arm;
+Shafts with red lightning round them curled,
+Like Brahmá’s bolts that end the world.
+
+  Supported on his golden throne,
+With failing eye and humbled tone,
+“Giants,” he cried, “the toil is vain,
+Fruitless the penance and the pain,
+If I whom Indra owned his peer,
+Secure from Gods, a mortal fear.
+My soul remembers, now too late,
+Lord Brahmá’s words who spoke my fate:“Tremble, proud Giant,” thus they ran,
+“And dread thy death from slighted man.
+Secure from Gods and demons live,
+And serpents, by the boon I give.
+Against their power thy life is charmed,
+But against man is still unarmed.”
+This Ráma is the man foretold
+By Anaraṇya’s(965) lips of old:
+
+  “Fear, Rávaṇ, basest of the base:
+For of mine own imperial race
+A prince in after time shall spring
+And thee and thine to ruin bring.
+And Vedavatí,(966) ere she died
+Slain by my ruthless insult, cried:
+“A scion of my royal line
+Shall slay, vile wretch, both thee and thine.”
+She in a later birth became
+King Janak’s child, now Ráma’s dame.
+Nandíśvara(967) foretold this fate,
+And Umá(968) when I moved her hate,
+And Rambhá,(969) and the lovely child
+Of Varuṇ(970) by my touch defiled.
+I know the fated hour is nigh:
+Hence, captains, to your stations fly.
+Let warders on the rampart stand:Place at each gate a watchful band;
+And, terror of immortal eyes,
+Let mightiest Kumbhakarṇa rise.
+He, slumbering, free from care and pain,
+By Brahmá’s curse, for months has lain.
+But when Prahasta’s death he hears,
+Mine own defeat and doubts and fears,
+The chief will rise to smite the foe
+And his unrivalled valour show.
+Then Raghu’s royal sons and all
+The Vánars neath his might will fall.”
+
+  The giant lords his hest obeyed,
+They left him, trembling and afraid,
+And from the royal palace strode
+To Kumbhakarṇa’s vast abode.
+They carried garlands sweet and fresh,
+And reeking loads of blood and flesh.
+They reached the dwelling where he lay,
+A cave that reached a league each way,
+Sweet with fair blooms of lovely scent
+And bright with golden ornament.
+His breathings came so fierce and fast,
+Scarce could the giants brook the blast.
+They found him on a golden bed
+With his huge limbs at length outspread.They piled their heaps of venison near,
+Fat buffaloes and boars and deer.
+With wreaths of flowers they fanned his face,
+And incense sweetened all the place.
+Each raised his mighty voice as loud
+As thunders of an angry cloud,
+And conchs their stirring summons gave
+That echoed through the giant’s cave.
+Then on his breast they rained their blows,
+And high the wild commotion rose
+When cymbal vied with drum and horn.
+And war cries on the gale upborne.
+Through all the air loud discord spread,
+And, struck with fear, the birds fell dead.
+But still he slept and took his rest.
+Then dashed they on his shaggy chest
+Clubs, maces, fragments of the rock:
+He moved not once, nor felt the shock.
+The giants made one effort more
+With shell and drum and shout and roar.
+Club, mallet, mace, in fury plied,
+Rained blows upon his breast and side.
+And elephants were urged to aid,
+And camels groaned and horses neighed.
+They drenched him with a hundred pails,They tore his ears with teeth and nails.
+They bound together many a mace
+And beat him on the head and face;
+And elephants with ponderous tread
+Stamped on his limbs and chest and head.
+The unusual weight his slumber broke:
+He started, shook his sides, and woke;
+And, heedless of the wounds and blows,
+Yawning with thirst and hunger rose,
+His jaws like hell gaped fierce and wide,
+Dire as the flame neath ocean’s tide.
+Red as the sun on Meru’s crest
+The giant’s face his wrath expressed,
+And every burning breath he drew
+Was like the blast that rushes through
+The mountain cedars. Up he raised
+His awful head with eyes that blazed
+Like comets, dire as Death in form
+Who threats the worlds with fire and storm.
+The giants pointed to their stores
+Of buffaloes and deer and boars,
+And straight he gorged him with a flood
+Of wine, with marrow, flesh, and blood.
+He ceased: the giants ventured near
+And bent their lowly heads in fear.Then Kumbhakar[n.]a glared with eyes
+Still heavy in their first surprise,
+Still drowsy from his troubled rest,
+And thus the giant band addressed.
+“How have ye dared my sleep to break?
+No trifling cause should bid me wake.
+Say, is all well? or tell the need
+That drives you with unruly speed
+To wake me. Mark the words I say,
+The king shall tremble in dismay,
+The fire be quenched and Indra slain
+Ere ye shall break my rest in vain.”
+
+  Yúpáksha answered: “Chieftain, hear;
+No God or fiend excites our fear.
+But men in arms our walls assail:
+We tremble lest their might prevail.
+For vengeful Ráma vows to slay
+The foe who stole his queen away,
+And, matchless for his warlike deeds,
+A host of mighty Vánars leads.
+Ere now a monstrous Vánar came,
+Laid Lanká waste with ruthless flame,
+And Aksha, Rávaṇ’s offspring, slew
+With all his warrior retinue.
+Our king who never trembled yetFor heavenly hosts in battle met,
+At length the general dread has shared,
+O’erthrown by Ráma’s arm and spared.”
+
+  He ceased: and Kumbhakarṇa spake:
+“I will go forth and vengeance take;
+Will tread their hosts beneath my feet,
+Then triumph-flushed our king will meet.
+Our giant bands shall eat their fill
+Of Vánars whom this arm shall kill.
+The princes’ blood shall be my draught,
+The chieftains’ shall by you be quaffed.”
+He spake, and, with an eager stride
+That shook the earth, to Rávaṇ hied.<b>Canto LXI. The Vánars’ Alarm.</b>
+
+The son of Raghu near the wall
+Saw, proudly towering over all,
+The mighty giant stride along
+Attended by the warrior throng;
+Heard Kumbhakarṇa’s heavy feet
+Awake the echoes of the street;
+And, with the lust of battle fired,
+Turned to Vibhishaṇ and inquired:
+“Vibhishaṇ, tell that chieftain’s name
+Who rears so high his mountain frame;
+With glittering helm and lion eyes,
+Preëminent in might and size
+Above the rest of giant birth,
+He towers the standard of the earth;
+And all the Vánars when they see
+The mighty warrior turn and flee.”
+
+  “In him,” Vibhishaṇ answered, “know
+Viśravas’ son, the Immortals’ foe,
+Fierce Kumbhakarṇa, mightier far
+Than Gods and fiends and giants are.
+He conquered Yáma in the fight,
+And Indra trembling owned his might.
+His arm the Gods and fiends subdued,Gandharvas and the serpent brood.
+The rest of his gigantic race
+Are wondrous strong by God-giving grace;
+But nature at his birth to him
+Gave matchless power and strength of limb.
+Scarce was he born, fierce monster, when
+He killed and ate a thousand men.
+The trembling race of men, appalled,
+On Indra for protection called;
+And he, to save the suffering world,
+His bolt at Kumbhakarṇa hurled.
+So awful was the monster’s yell
+That fear on all the nations fell,
+He, rushing on with furious roar,
+A tusk from huge Airávat tore,
+And dealt the God so dire a blow
+That Indra reeling left his foe,
+And with the Gods and mortals fled
+To Brahmá’s throne dispirited.
+“O Brahmá,” thus the suppliants cried,
+“Some refuge for this woe provide.
+If thus his maw the giant sate
+Soon will the world be desolate.”
+The Self-existent calmed their woe,
+And spake in anger to their foe:“As thou wast born, Pulastya’s son,
+That worlds might weep by thee undone,
+Thou like the dead henceforth shalt be:
+Such is the curse I lay on thee.”
+Senseless he lay, nor spoke nor stirred;
+Such was the power of Brahmá’s word.
+But Rávaṇ, troubled for his sake,
+Thus to the Self-existent spake:
+“Who lops the tree his care has reared
+When golden fruit has first appeared?
+Not thus, O Brahmá, deal with one
+Descended from thine own dear son.(971)
+Still thou, O Lord, thy word must keep,
+He may not die, but let him sleep.
+Yet fix a time for him to break
+The chains of slumber and awake.”
+He ceased: and Brahmá made reply;
+“Six months in slumber shall he lie
+And then arising for a day
+Shall cast the numbing bonds away.”
+Now Rávaṇ in his doubt and dread
+Has roused the monster from his bed,
+Who comes in this the hour of need
+On slaughtered Vánars flesh to feed.
+Each Vánar, when his awe-struck eyesBehold the monstrous chieftain, flies.
+With hopeful words their minds deceive,
+And let our trembling hosts believe
+They see no giant, but, displayed,
+A lifeless engine deftly made.”
+
+  Then Ráma called to Níla: “Haste,
+Let troops near every gate be placed,
+And, armed with fragments of the rock
+And trees, each lane and alley block.”
+Thus Ráma spoke: the chief obeyed,
+And swift the Vánars stood arrayed,
+As when the black clouds their battle form,
+The summit of a hill to storm.<b>Canto LXII. Rávan’s Request.</b>
+
+Along bright Lanká’s royal road
+The giant, roused from slumber, strode,
+While from the houses on his head
+A rain of fragrant flowers was shed.
+He reached the monarch’s gate whereon
+Rich gems and golden fretwork shone.
+Through court and corridor that shook
+Beneath his tread his way he took,
+And stood within the chamber where
+His brother sat in dark despair.
+But sudden, at the grateful sight
+The monarch’s eye again grew bright.
+He started up, forgot his fear,
+And drew his giant brother near.
+The younger pressed the elder’s feet
+And paid the King observance meet,
+Then cried: “O Monarch, speak thy will,
+And let my care thy word fulfil.
+What sudden terror and dismay
+Have burst the bonds in which I lay?”
+
+  Fierce flashed the flame from Rávaṇ’s eye,
+As thus in wrath he made reply:
+“Fair time, I ween, for sleep is this,To lull thy soul in tranquil bliss,
+Unheeding, in oblivion drowned,
+The dangers that our lives surround.
+Brave Ráma, Daśaratha’s son,
+A passage o’er the sea has won,
+And, with the Vánar monarch’s aid,
+Round Lanká’s walls his hosts arrayed.
+Though never in the deadly field
+My Rákshas troops were known to yield,
+The bravest of the giant train
+Have fallen by the Vánars slain.
+Hence comes my fear. O fierce and brave,
+Go forth, our threatened Lanká save.
+Go forth, a dreadful vengeance take:
+For this, O chief, I bade thee wake.
+The Gods and trembling fiends have felt
+The furious blows thine arm has dealt.
+Earth has no warrior, heaven has none
+To match thy might, Paulastya’s son.”<b>Canto LXIII. Kumbhakarna’s Boast.</b>
+
+Then Kumbhakarṇa laughed aloud
+And cried; “O Monarch, once so proud,
+We warned thee, but thou wouldst not hear;
+And now the fruits of sin appear.
+We warned thee, I, thy nobles, all
+Who loved thee, in thy council hall.
+Those sovereigns who with blinded eyes
+Neglect the foe their hearts despise,
+Soon, falling from their high estate
+Bring on themselves the stroke of fate.
+Accept at length, thy life to save,
+The counsel sage Vibhishaṇ gave,
+The prudent counsel spurned before,
+And Sítá to her lord restore.”(972)
+
+  The monarch frowned, by passion moved
+And thus in angry words reproved:
+“Wilt thou thine elder brother school,
+Forgetful of the ancient rule
+That bids thee treat him as the sage
+Who guides thee with the lore of age?
+Think on the dangers of the day,
+Nor idly throw thy words away:
+If, led astray, by passion stirred,I in the pride of power have erred;
+If deeds of old were done amiss,
+No time for vain reproach is this.
+Up, brother; let thy loving care
+The errors of thy king repair.”
+
+  To calm his wrath, his soul to ease,
+The younger spake in words like these:
+“Yea, from our bosoms let us cast
+All idle sorrow for the past.
+Let grief and anger be repressed:
+Again be firm and self-possessed.
+This day, O Monarch, shalt thou see
+The Vánar legions turn and flee,
+And Ráma and his brother slain
+With their hearts’ blood shall dye the plain.
+Yea, if the God who rules the dead,
+And Varuṇ their battalions led;
+If Indra with the Storm-Gods came
+Against me, and the Lord of Flame,
+Still would I fight with all and slay
+Thy banded foes, my King, to-day.
+If Raghu’s son this day withstand
+The blow of mine uplifted hand,
+Deep in his breast my darts shall sink,
+And torrents of his life-blood drink.O fear not, in my promise trust:
+This arm shall lay him in the dust,
+Shall leave the fierce Sugríva dyed
+With gore, and Lakshmaṇ by his side,
+And strike the great Hanúmán down,
+The spoiler of our glorious town.”(973)
+
+<b>Canto LXIV. Mahodar’s Speech.</b>
+
+He ceased: and when his lips were closed
+Mahodar thus his rede opposed:
+“Why wilt thou shame thy noble birth
+And speak like one of little worth?
+Why boast thee thus in youthful pride
+Rejecting wisdom for thy guide?
+How will thy single arm oppose
+The victor of a thousand foes,
+Who proved in Janasthán his might
+And slew the rovers of the night?
+The remnant of those legions, they
+Who saw his power that fatal day,
+Now in this leaguered city dread
+The mighty chief from whom they fled.
+And wouldst thou meet the lord of men,
+Beard the great lion in his den,
+And, when thine eyes are open, breakThe slumber of a deadly snake?
+Who may an equal battle wage
+With him, so awful in his rage,
+Fierce as the God of Death whom none
+May vanquish, Daśaratha’s son?
+But, Rávaṇ, shall the lady still
+Refuse compliance with thy will?
+No, listen, King, to this design
+Which soon shall make the captive thine.
+This day through Lanká’s streets proclaim
+That four of us(974) of highest fame
+With Kumbhakarṇa at our head
+Will strike the son of Raghu dead.
+Forth to the battle will we go
+And prove our prowess on the foe.
+Then, if our bold attempt succeed,
+No further plans thy hopes will need.
+But if in vain our warriors strive,
+And Raghu’s son be left alive,
+We will return, and, wounded sore,
+Our armour stained with gouts of gore,
+Will show the shafts that rent each frame,
+Keen arrows marked with Ráma’s name,
+And say we giants have devoured
+The princes whom our might o’erpowered.Then let the joyful tidings spread
+That Raghu’s royal sons are dead.
+To all around thy pleasure show,
+Gold, pearls, and precious robes, bestow.
+Gay garlands round the portals twine,
+Enjoy the banquet and the wine.
+Then go, the scornful lady seek,
+And woo her when her heart is weak.
+Rich robes and gold and gems display,
+And gently wile her grief away.
+Then will she feel her hopeless state,
+Widowed, forlorn, and desolate;
+Know that on thee her bliss depends,
+Far from her country and her friends;
+Then, her proud spirit overthrown,
+The lady will be all thine own.”<b>Canto LXV. Kumbhakarna’s Speech.</b>
+
+But haughty Kumbhakarṇa spurned
+His counsel, and to Rávaṇ turned:
+“Thy life from peril will I free
+And slay the foe who threatens thee.
+A hero never vaunts in vain,
+Like bellowing clouds devoid of rain,
+Nor, Monarch, be thine ear inclined
+To counsellors of slavish kind,
+Who with mean arts their king mislead
+And mar each gallant plan and deed.
+O, let not words like his beguile
+The glorious king of Lanká’s isle.”
+
+  Thus scornful Kumbhakarṇa cried,
+And Rávaṇ with a laugh replied:
+“Mahodar fears and fain would shun
+The battle with Ikshváku’s son.
+Of all my giant warriors, who
+Is strong as thou, and brave and true?
+Ride, conqueror, to the battle ride,
+And tame the foeman’s senseless pride.
+Go forth like Yáma to the field,
+And let thine arm thy trident wield.
+Scared by the lightning of thine eyeThe Vánar hosts will turn and fly;
+And Ráma, when he sees thee near,
+With trembling heart will own his fear.”
+
+  The champion heard, and, well content,
+Forth from the hall his footsteps bent.
+He grasped his spear, the foeman’s dread,
+Black iron all, both shaft and head,
+Which, dyed in many a battle, bore
+Great spots of slaughtered victims’ gore.
+The king upon his neck had thrown
+The jewelled chain which graced his own.
+And garlands of delicious scent
+About his limbs for ornament.
+Around his arms gay bracelets clung,
+And pendants in his ears were hung.
+Adorned with gold, about his waist
+His coat of mail was firmly braced,
+And like Náráyaṇ(975) or the God
+Who rules the sky he proudly trod.
+Behind him went a mighty throng
+Of giant warriors tall and strong,
+On elephants of noblest breeds.
+With cars, with camels, and with steeds:
+And, armed with spear and axe and sword
+Were fain to battle for their lord.(976)<b>Canto LXVI. Kumbhakarna’s Sally.</b>
+
+In pomp and pride of warlike state
+The giant passed the city gate.
+He raised his voice: the hills, the shore
+Of Lanká’s sea returned the roar.
+The Vánars saw the chief draw nigh
+Whom not the ruler of the sky,
+Nor Yáma, monarch of the dead,
+Might vanquish, and affrighted fled.
+When royal Angad, Báli’s son,
+Saw the scared Vánars turn and run,
+Undaunted still he kept his ground,
+And shouted as he gazed around:
+“O Nala, Níla, stay nor let
+Your souls your generous worth forget,
+O Kumud and Gaváksha, why
+Like base-born Vánars will ye fly?
+Turn, turn, nor shame your order thus:
+This giant is no match for us”
+
+  They heard his voice: the flight was stayed;
+Again for war they stood arrayed,
+And hurled upon the foe a shower
+Of mountain peaks and trees in flower.
+Still on his limbs their missiles rained:Unmoved, their blows he still sustained,
+And seemed unconscious of the stroke
+When rocks against his body broke.
+Fierce as the flame when woods are dry
+He charged with fury in his eye.
+Like trees consumed with fervent heat
+They fell beneath the giant’s feet.
+Some o’er the ground, dyed red with gore,
+Fled wild with terror to the shore,
+And, deeming that all hope was lost,
+Ran to the bridge they erst had crossed.
+Some clomb the trees their lives to save,
+Some sought the mountain and the cave;
+Some hid them in the bosky dell,
+And there in deathlike slumber fell.
+
+  When Angad saw the chieftains fly
+He called them with a mighty cry:
+“Once more, O Vánars, charge once more,
+On to the battle as before.
+In all her compass earth has not,
+To hide you safe, one secret spot.
+What! leave your arms? each nobler dame
+Will scorn her consort for the shame.
+This blot upon your names efface,
+And keep your valour from disgrace.Stay, chieftains; wherefore will ye run,
+A band of warriors scared by one?”
+
+  Scarce would they hear: they would not stay,
+And basely spoke in wild dismay:
+“Have we not fought, and fought in vain
+Have we not seen our mightiest slain?
+The giant’s matchless force we fear,
+And fly because our lives are dear.”
+But Báli’s son with gentle art
+Dispelled their dread and cheered each heart.
+They turned and formed and waited still
+Obedient to the prince’s will.<b>Canto LXVII. Kumbhakarna’s Death.</b>
+
+Thus from their flight the Vánars turned,
+And every heart for battle burned,
+Determined on the spot to die
+Or gain a warrior’s meed on high.
+Again the Vánars stooped to seize
+Their weapons, rocks and fallen trees;
+Again the deadly fight began,
+And fiercely at the giant ran.
+Unmoved the monster kept his place:
+He raised on high his awful mace,
+Whirled the huge weapon round his head
+And laid the foremost Vánars dead.
+Eight thousand fell bedewed with gore,
+Then sank and died seven hundred more.
+Then thirty, twenty, ten, or eight
+At each fierce onset met their fate,
+And fast the fallen were devoured
+Like snakes by Garuḍ’s beak o’erpowered.
+Then Dwivid from the Vánar van,
+Armed with an uptorn mountain, ran,
+Like a huge cloud when fierce winds blow,
+And charged amain the mountain foe.
+With wondrous force the hill he threw:
+O’er Kumbhakarṇa’s head it flew,And falling on his host afar
+Crushed many a giant, steed, and car.
+Rocks, trees, by fierce Hanúmán sped,
+Rained fast on Kumbhakarṇa’s head.
+Whose spear each deadlier missile stopped,
+And harmless on the plain it dropped.
+Then with his furious eyes aglow
+The giant rushed upon the foe,
+Where, with a woody hill upheaved,
+Hanúmán’s might his charge received.
+Through his vast frame the giant felt
+The angry blow Hanúmán dealt.
+He reeled a moment, sore distressed,
+Then smote the Vánar on the breast,
+As when the War-God’s furious stroke
+Through Krauncha’s hill a passage broke.(977)
+Fierce was the blow, and deep and wide
+The rent: with crimson torrents dyed,
+Hanúmán, maddened by the pain,
+Roared like a cloud that brings the rain,
+And from each Rákshas throat rang out
+Loud clamour and exultant shout.
+Then Níla hurled with mustered might
+The fragment of a mountain height;
+Nor would the rock the foe have missed,

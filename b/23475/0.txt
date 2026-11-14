@@ -1,0 +1,1755 @@
+HOLB1	23475	0	0	80	1161	105
+2	Preface To The Fifth Volume.
+7	Introduction to _The Age of Bronze_ 537 _The A…
+9	Introduction To _sardanapalus
+14	Preface
+17	Act I, SCENE I.--_A Hall in the Palace_.
+19	Act I, Scene II.
+58	Act II, SCENE I.--_The Portal of the same Hall
+98	Act III.
+127	Act IV.
+161	Act V, SCENE I.-_The same Hall in the Palace_.
+215	Introduction To _the Two Foscari
+223	Act I, SCENE I.--_A Hall in the Ducal Palace_.
+250	Act II, SCENE I.--_A hall in the_ DOGE'S _Pala
+278	Act III, SCENE I.--_The prison of_ JACOPO FOSC
+305	Act IV, SCENE I.--_A Hall in the Ducal Palace_
+330	Act V, SCENE I.--_The_ DOGE'S _Apartment_.
+375	Introduction To _cain_.
+384	Preface
+388	Act I, SCENE I.--_The Land without Paradise.--
+424	Act II, SCENE I.--_The Abyss of Space_.
+437	Act II, SCENE II.--_Hades_.
+466	Act III, SCENE I.--_The Earth, near Eden, as i
+519	Introduction To _heaven And Earth_.
+524	Act III, SCENE I.--_A woody and mountainous di
+533	Act III, SCENE II.--_Enter_ IRAD _and_ JAPHET.
+595	Introduction To _werner_.
+610	Preface
+612	Act I.
+659	Act II, SCENE I.--_A Hall in the same Palace_.
+679	Act II, SCENE II.--_The Apartment of_ WERNER, 
+708	Act III, SCENE I.--_A Hall in the same Palace,
+732	Act III, SCENE II.--STRALENHEIM'S _Chamber_.
+734	Act III, SCENE III.--_The secret Passage_.
+736	Act III, SCENE IV.--_A Garden_.
+746	Act IV, SCENE I.--_A Gothic Hall in the Castle
+782	Act V.
+813	Act V, SCENE II.--_The Interior of the Turret_
+832	Act I, SCENE I.--_A ruinous chateau on the Sil
+840	Act I, Scene II.
+856	Introduction To _the Deformed Transformed_.
+863	Act I, SCENE I.--_A Forest_.
+897	Act I, SCENE II.--_A Camp before the walls of 
+904	Song of the Soldiers within_.
+922	VIII.
+948	IV.
+976	Introduction To _the Age Of Bronze_.
+982	II.
+984	III.
+986	IV.
+988	V.
+993	VI.
+996	VII.
+999	VIII.
+1001	IX.
+1002	X.
+1005	XII.
+1006	XIII.
+1008	XIV.
+1012	XV.
+1014	XVI.
+1015	XVII.
+1017	XVIII.
+1057	Introduction To _the Island
+1065	II.
+1069	VI.
+1071	VIII.
+1072	IX.
+1074	X.
+1076	I.
+1077	II.
+1080	V.
+1081	VI.
+1082	VII.
+1084	VIII.
+1086	X.
+1087	XI.
+1089	XII.
+1090	XIII.
+1092	XV.
+1093	XVI.
+1095	XVII.
+1096	XVIII.
+1097	XIX.
+1098	XX.
+1100	XXI.
+1102	I.
+1103	II.
+1105	III.
+1106	IV.
+1109	VI.
+1110	VII.
+1111	VIII.
+1113	X.
+1115	II.
+1116	III.
+1117	IV.
+1119	VI.
+1121	VII.
+1122	VIII.
+1123	IX.
+1125	X.
+1126	XI.
+1127	XII.
+1131	XIV.
+1132	XV.
+TRANSCRIBER'S NOTES
+
+This etext is a Latin-1 file. The original work contained a few phrases or lines of Greek text. These are represented here as Beta-code transliterations, for example [Greek: tragos]. The original text used a few other characters not found in the Latin-1 character set. These have been represented using bracket notation, as follows: [)a], [)e], [)s] and [)z] represent letters with a breve (curved line) above; [=a] and [=u] represent letters with a macron (straight line) above. In a few places, a single superscript is shown by a caret, and two superscript letters by carets, as in J^n 10^th^.
+
+An important feature of this edition is its copious footnotes. Footnotes indexed with arabic numbers (as [17], [221]) are informational. Note text in square brackets is the work of editor E. H. Coleridge. Unbracketed note text is from earlier editions and is by a preceding editor or Byron himself. Footnotes indexed with letters (as [c], [bf]) document variant forms of the text from manuscripts and other sources.
+
+In the original, footnotes are printed at the foot of the page on which they are referenced, and their indices start over on each page. Here, footnotes are collected at the ends of each play or poem, and are numbered consecutively throughout. Within the blocks of footnotes are numbers in braces: {321}. These represent the page number on which following notes originally appeared. To find a note that was originally printed on page 27, search for {27}.
+
+The WorksOF
+
+LORD BYRON.
+
+A NEW, REVISED AND ENLARGED EDITION,
+        WITH ILLUSTRATIONS.
+
+Poetry. Vol. V.
+
+        EDITED BY
+ERNEST HARTLEY COLERIDGE, M.A.,
+        HON. F.R.S.L.
+
+        LONDON:
+  JOHN MURRAY, ALBEMARLE STREET.
+NEW YORK: CHARLES SCRIBNER'S SONS.
+        1901.<b>PREFACE TO THE FIFTH VOLUME.</b>
+
+The plays and poems contained in this volume were written within the space of two years--the last two years of Byron's career as a poet. But that was not all. Cantos VI.-XV. of <i>Don Juan</i>, <i>The Vision of Judgment</i>, <i>The Blues</i>, <i>The Irish Avatar</i>, and other minor poems, belong to the same period. The end was near, and, as though he had received a warning, he hastened to make the roll complete.
+
+Proof is impossible, but the impression remains that the greater part of this volume has been passed over and left unread by at least two generations of readers. Old play-goers recall Macready as "Werner," and many persons have read <i>Cain</i>; but apart from students of literature, readers of <i>Sardanapalus</i> and of <i>The Two Foscari</i> are rare; of <i>The Age of Bronze</i> and <i>The Island</i> rarer still. A few of Byron's later poems have shared the fate of Southey's epics; and, yet, with something of Southey's persistence, Byron believed that posterity would weigh his "regular dramas" in a fresh balance, and that his heedless critics would kick the beam. But "can these bones live"? Can dramas which excited the wondering admiration of Goethe and Lamartine and Sir Walter Scott touch or lay hold of the more adventurous reader of the present day? It is certain that even the half-forgotten works of a great and still popular poet, which have left their mark on the creative imagination of the poets and playwrights of three quarters of a century, will always be studied by the few from motives of curiosity, or for purposes of reference; but it is improbable, though not impossible, that in the revolution of taste and sentiment, moribund or extinct poetry will be born again into the land of the living.Poetry which has never had its day, such as Blake's <i>Songs of Innocence</i>, the <i>Lyrical Ballads</i>, or Fitzgerald's <i>Omar Khayyam</i>, may come, in due time, to be recognized at its full worth; but it is a harder matter for a poem which has lost its vogue to recapture the interest and enthusiasm of the many.
+
+Byron is only an instance in point. Bygone poetry has little or no attraction for modern readers. This poem or that drama may be referred to, and occasionally examined in the interests of general culture, or in support of a particular belief or line of conduct, as a classical or quasi-scriptural authority; but, with the rarest exceptions, plays and narrative poems are not read spontaneously or with any genuine satisfaction or delight. An old-world poem which will not yield up its secret to the idle <i>reader</i> "of an empty day" is more or less "rudely dismissed," without even a show of favour or hospitality.
+
+And yet these forgotten works of the imagination are full of hidden treasures! There is not one of Byron's "impressionist studies" of striking episodes of history or historical legend, flung, as it were, with a "Take it or leave it" in the face of friend or foe, which does not transform names and shadows into persons and substance, which does not contain lines and passages of unquestionable beauty and distinction.
+
+But some would have it that Byron's plays, as a whole, are dull and uninspiring, monotonous harpings on worn-out themes, which every one has mastered or wishes to forget. A close study of the text, together with some knowledge of the subject as it presented itself to the author and arrested <i>his</i> attention, may compel these impatient critics to a different conclusion.Byron did not scruple to refer the reader to his "sources," and was at pains to publish, in the notes and appendices to his dramas and poems, long extracts from old chronicles, from Plutarch's <i>Lives</i>, from French and Italian histories, which he had read himself, and, as he fondly believed, would be read by others, who were willing to submit themselves to his guidance. He expected his readers to take some trouble and to display some intelligence.
+
+Poetry is successful only so far as it is intelligible. To a clear cry an answer comes, but not to a muffled call. The reader who comes within speaking distance of his author can hear him, and to bring the living within speaking distance of the dead, the living must know the facts, and understand the ideas which informed and inspired the dead. Thought and attention are scarcely to be reckoned among necromantic arts, but thought and knowledge "can make these bones live," and stand upon their feet, if they do not leap and sing.
+
+I desire to renew my acknowledgments of the generous assistance of the officials of the British Museum, and, more especially, of Mr. Ernest Wallis Budge, Litt.D., M.A., <i>Keeper of Egyptian and Assyrian Antiquities</i>; of Mr. Leonard W. King, M.A., of the same department; and of Mr. George F. Barwick, <i>Superintendent of the Reading Room</i>.
+
+To Dr. Garnett, C.B., I am greatly indebted for invaluable hints and suggestions with regard to the interpretation of some obscure passages in <i>The Age of Bronze</i> and other parts of the volume, and for reading the proofs of the "Introduction" and "Note to the Introduction to <i>Werner</i>."I have also to acknowledge the assistance and advice of Mr. W. Hale White, and of my friend Mr. Frank E. Taylor, of Chertsey.
+
+For assistance during the preparation of the volume, and more especially in the revision of proofs, I desire to express my cordial thanks to Mr. John Murray.
+
+ERNEST HARTLEY COLERIDGE.
+
+<i>December</i> 3, 1901.
+
+CONTENTS OF VOL. V
+
+Preface to Vol. V. of the Poems v
+
+SARDANAPALUS: A TRAGEDY.
+
+Introduction to <i>Sardanapalus</i> 3 Dedication 7 Preface 9 <i>Sardanapalus</i> 13
+
+THE TWO FOSCARI: AN HISTORICAL TRAGEDY.
+
+Introduction to <i>The Two Foscari</i> 115 <i>The Two Foscari</i> 121
+
+CAIN: A MYSTERY.
+
+Introduction to <i>Cain</i> 199 Dedication 205 Preface 207 <i>Cain</i> 213HEAVEN AND EARTH; A MYSTERY.
+
+Introduction to <i>Heaven and Earth</i> 279 <i>Heaven and Earth</i> 285
+
+WERNER; OR, THE INHERITANCE: A TRAGEDY.
+
+Introduction to <i>Werner</i> 325 Note to the Introduction to <i>Werner</i> 329 Dedication 335 Preface 337 <i>Werner</i> 341 <i>Werner</i>. [First Draft.] 453
+
+THE DEFORMED TRANSFORMED: A DRAMA.
+
+Introduction to <i>The Deformed Transformed</i> 469 Advertisement 473 <i>The Deformed Transformed</i> 477 Fragment of the Third Part of <i>The Deformed Transformed</i> 531
+
+THE AGE OF BRONZE; OR, CARMEN SECULARE ET ANNUS HAUD MIRABILIS.<b>Introduction to <i>The Age of Bronze</i> 537 <i>The Age of Bronze</i> 541</b>
+
+THE ISLAND; OR, CHRISTIAN AND HIS COMRADES.
+
+Introduction to <i>The Island</i> 581 Advertisement 585 <i>The Island</i>. Canto the First 587 Canto the Second 598 Canto the Third 618 Canto the Fourth 626
+
+LIST OF ILLUSTRATIONS
+
+1. LORD BYRON, FROM A PORTRAIT IN OILS BY W. E. WEST,
+   IN THE POSSESSION OF MR. PERCY KENT <i>Frontispiece</i>
+
+2. ASSUR-BANI-PAL, FROM A SLAB IN THE BRITISH MUSEUM To face p. 12
+
+3. THE LION OF S. MARK'S 138
+
+4. GOETHE, FROM A DRAWING BY D. MACLISE, R.A., IN THE VICTORIA AND ALBERT MUSEUM 282
+
+5. GEORGIANA, DUCHESS OF DEVONSHIRE, FROM THE MEZZOTINT BY VALENTINE GREEN, AFTER SIR J. REYNOLDS, P.R.A. 330
+
+6. MARY WOLLSTONECRAFT SHELLEY, FROM A PICTURE BY R. ROTHWELL, R.H.A., IN THE NATIONAL PORTRAIT GALLERY (1841) 474
+
+SARDANAPALUSA TRAGEDY.
+
+[<i>Sardanapale, Tragedie Imitee de Lord Byron</i>, par L. Alvin, was performed at the Theatre Royal at Brussels, January 13, 16, 1834.
+
+<i>Sardanapalus</i>, a Tragedy, was played for the first time at Drury Lane Theatre, April 10, 1834, and (for the twenty-second time) June 5, 1834. Macready appeared as "Sardanapalus," Miss Phillips as "Zarina," and Miss Ellen Tree as "Myrrha." [In his diary for April 11, 1834 (see <i>Reminiscences</i>, 1875, i. 414, 415) Macready wrote, "On arriving at my chambers ... I found a letter without a signature; the seal was the head of Byron, and in the envelope was a folded sheet with merely the words, 'Werner, Nov., 1830. Byron, Ravenna, 1821,' and 'Sardanapalus, April 10th, 1834.' Encircling the name of Byron, etc., was a lock of grey hair fastened by a gold thread, which I am sure was Byron's, ... it surprised and pleased me."]
+
+<i>Sardanapalus, King of Assyria</i>, was produced at the Princess's Theatre, June 13, 1853, and played till September 2, 1853. Charles Kean appeared as "Sardanapalus," Miss Heath as "Zarina," and Mrs. Charles Kean as "Myrrha."
+
+<i>Sardanapale, Opera en Trois Actes</i>, par M. Henry Becque, Musique de M. Victorin Joncieres, was performed for the first time at the Theatre Imperial-Lyrique, February 8, 1867.
+
+<i>Lord Byron's Tragedy of Sardanapalus</i>, in four acts, was performed at the Theatre Royal, Manchester, March 31-April 28, 1877.Charles Calvert (the adapter) played "Sardanapalus," Miss Hathaway "Zarina," and Miss Fanny Ensor "Myrrha;" and June 26-July 27, 1877, at the Royal Alexandra Theatre, Liverpool. Calvert's adaptation was also performed at Booth's Theatre, New York.]
+
+<b>INTRODUCTION TO _SARDANAPALUS</b>
+
+Byron's passion or infatuation for the regular drama lasted a little over a year. <i>Marino Faliero</i>, <i>Sardanapalus</i>, and the <i>Two Foscari</i>, were the fruits of his "self-denying ordinance to dramatize, like the Greeks ... striking passages of history" (letter to Murray, July 14, 1821, <i>Letters</i>, 1901, v. 323). The mood was destined to pass, but for a while the neophyte was spell-bound.
+
+<i>Sardanapalus, a Tragedy</i>, the second and, perhaps, the most successful of these studies in the poetry of history, was begun at Ravenna, January 13, 1821, "with all deliberate speed;" but, for a time, from laziness or depression of spirits, or, perhaps, from the counter-excitement of "the poetry of politics" (<i>Letters</i>, 1901, v. 205), that is, the revolutionary drama which had begun to run its course, a month went by before he had finished the first act (February 15). Three months later (May 28) he announces the completion of the drama, the last act having been "dashed off" in two or three days (<i>Letters</i>, 1901, v. 300).
+
+For the story of Sardanapalus, which had excited his interest as a schoolboy, Byron consulted the pages of Diodorus Siculus (<i>Bibliothecae Historicae</i>, lib. ii. pp. 78, sq., ed.1604), and, possibly to ward off and neutralize the distracting influence of Shakespeare and other barbarian dramatists, he "turned over" the tragedies of Seneca (<i>Letters</i>, 1901, v. 173). It is hardly necessary to remind the modern reader that the Sardanapalus of history is an unverified if not an unverifiable personage. Diodorus the Sicilian, who was contemporary with Cicero, derived his knowledge of Assyrian history from the <i>Persica</i> of Ctesias of Cnidos, who was private physician at the court of Artaxerxes Mnemon (B.C. 405-359), and is said to have had access to, and to have consulted, the "Persian authorities" ([Greek: diphthe/rai Basilikai\]).
+
+The character which Ctesias depicted or invented, an effeminate debauchee, sunk in luxury and sloth, who at the last was driven to take up arms, and, after a prolonged but ineffectual resistance, avoided capture by suicide, cannot be identified. Asurbanipal (A[)s]ur-b[=a]ni-apli), the son of Esarhaddon and grandson of Sennacherib, who ascended the throne B.C. 668, and reigned for about forty years, was, as the cuneiform records and the friezes of his palace testify, a bold hunter and a mighty warrior. He vanquished Tark[=u] (Tirhakah) of Ethiopia, and his successor, Urdaman[=e]. Ba'al King of Tyre, Yakinl[=u] King of the island-city of Arvad, Sand[)a]sarm[=u] of Cilicia, Teumman of Elam, and other potentates, suffered defeat at his hands. "The land of Elam," writes the king or his "Historiographer Royal," "through its extent I covered as when a mighty storm approaches; I cut off the head of Teumman, their king... Beyond number I slew his warriors; alive in my hands I took his fighting men; with their corpses, as with thorns and thistles, I filled the vicinity of Susa; their blood I caused to flow in the Eulaeus, and I stained its waters like wool."Clearly the Sardanapalus who painted his face and carded purple wool in the <i>penetralia</i> of his seraglio does not bear even a traditional resemblance to A[)s]ur-b[=a]ni-apli the Conqueror.
+
+All that can be affirmed with any certainty is that within twenty years of the death of Asurbanipal, the Assyrian Empire passed into the hands of the Medes;[1] but there is nothing to show whether the period of decay had already set in before the close of his reign, or under which of his two successors, [)A]sur-etil-il[=a]ni or Sin-[)s]ar-i[)s]kun, the final catastrophe (B.C. 606) took place (<i>Encyclopedia Biblica</i>, art. "Assyria," art. "[)A]sur-bani-pal," by Leonard W. King).
+
+"I have made," writes Byron (May 25, 1821), "Sardanapalus brave though voluptuous (as history represents him), and as amiable as my poor pen could make him." Diodorus, or rather Ctesias, who may have drawn upon personal reminiscences of his patron, Artaxerxes Mnemon (see Plutarch's <i>Artaxerxes</i>, <i>passim</i>), does not enlarge upon his amiability, and credits him only with the courage of despair. Byron's Sardanapalus, with his sudden transition from voluptuous abandonment to heroic chivalry, his remorseful recognition of the sanctities of wedlock, his general good nature, his "sly, insinuating sarcasms" (Moore's Diary, September 30, 1821, <i>Memoirs</i>, iii. 282), "all made out of the carver's brain," resembles <i>history</i> as little as <i>history</i> resembles the Assyrian record. Fortunately, the genius of the poet escaped from the meshes which he had woven round himself, and, in spite of himself, he was constrained to "beat his music out," regardless of his authorities.The character of Myrrha, which bears some resemblance to Aspasia, "a native of Phocea in Ionia--the favourite mistress of Cyrus" (see Plutarch's <i>Artaxerxes</i>, Langhorne's Translation, 1838, p. 699), was introduced partly to pacify the Countess Guiccioli, who had quarrelled with him for maintaining that "love was not the loftiest theme for true tragedy," and, in part, to prove that he was not a slave to his own ideals, and could imagine and delineate a woman who was both passionate and high-minded. Diodorus (<i>Bibl. Hist.</i>, lib. iii. p. 130) records the exploits of Myrina, Queen of the Amazons, but it is probable that Byron named his Ionian slave after Mirra, who gives her name to Alfieri's tragedy, which brought on a convulsive fit of tears and shuddering when he first saw it played at Bologna in August, 1819 (<i>Letters</i>, 1900, iv. 339).
+
+<i>Sardanapalus, a Tragedy</i>, was published together with <i>The Two Foscari, a Tragedy</i>, and <i>Cain, a Mystery</i>, December 19, 1821.
+
+The three plays were reviewed by Heber in the <i>Quarterly Review</i>, July, 1822, vol. xxvii. pp. 476-524; by Jeffrey in the <i>Edinburgh Review</i>, February, 1822, vol. 36, pp. 413-452; in <i>Blackwood's Edinburgh Magazine</i>, February, 1822, vol. xi. pp. 212-217; and in the <i>Portfolio</i> (Philadelphia), December, 1822, vol. xiv. pp. 487-492.
+
+TO
+
+THE ILLUSTRIOUS GOETHE        A STRANGER
+        PRESUMES TO OFFER THE HOMAGE
+  OF A LITERARY VASSAL TO HIS LIEGE LORD,
+       THE FIRST OF EXISTING WRITERS,
+        WHO HAS CREATED
+     THE LITERATURE OF HIS OWN COUNTRY,
+      AND ILLUSTRATED THAT OF EUROPE.
+        THE UNWORTHY PRODUCTION
+WHICH THE AUTHOR VENTURES TO INSCRIBE TO HIM
+        IS ENTITLED
+
+SARDANAPALUS.[2]<b>PREFACE</b>
+
+In publishing the following Tragedies[3] I have only to repeat, that they were not composed with the most remote view to the stage. On the attempt made by the managers in a former instance, the public opinion has been already expressed. With regard to my own private feelings, as it seems that they are to stand for nothing, I shall say nothing.
+
+For the historical foundation of the following compositions the reader is referred to the Notes.
+
+The Author has in one instance attempted to preserve, and in the other to approach, the "unities;" conceiving that with any very distant departure from them, there may be poetry, but can be no drama. He is aware of the unpopularity of this notion in present English literature; but it is not a system of his own, being merely an opinion, which, not very long ago, was the law of literature throughout the world, and is still so in the more civilised parts of it. But "nous avons change tout cela," and are reaping the advantages of the change. The writer is far from conceiving that any thing he can adduce by personal precept or example can at all approach his regular, or even irregular predecessors: he is merely giving a reason why he preferred the more regular formation of a structure, however feeble, to an entire abandonment of all rules whatsoever. Where he has failed, the failure is in the architect,--and not in the art.
+
+In this tragedy it has been my intention to follow the account of Diodorus Siculus;[4] reducing it, however,to such dramatic regularity as I best could, and trying to approach the unities. I therefore suppose the rebellion to explode and succeed in one day by a sudden conspiracy, instead of the long war of the history.
+
+DRAMATIS PERSONAE
+
+MEN.
+
+SARDANAPALUS, <i>king of Nineveh and Assyria, etc.</i>
+
+ARBACES, <i>the Mede who aspired to the Throne</i>.
+
+BELESES, <i>a Chaldean and Soothsayer</i>.
+
+SALEMENES, <i>the King's Brother-in-Law</i>.
+
+ALTADA, <i>an Assyrian Officer of the Palace</i>.
+
+PANIA.
+
+ZAMES.
+
+SFERO.
+
+BALEA.WOMEN.
+
+ZARINA, <i>the Queen</i>.
+
+MYRRHA, _an Ionian female Slave, and the Favourite Mistress
+        of_ SARDANAPALUS.
+
+<i>Women composing the Harem of</i> SARDANAPALUS, _Guards,
+   Attendants, Chaldean Priests, Medes, etc., etc._
+
+SCENE.--A Hall in the Royal Palace of Nineveh.
+
+SARDANAPALUS.[5]
+
+ACT I.<b>SCENE I.--<i>A Hall in the Palace</i>.</b>
+
+<i>Salemenes</i> (<i>solus</i>).
+He hath wronged his queen, but still he is her lord;
+He hath wronged my sister--still he is my brother;
+He hath wronged his people--still he is their sovereign--
+And I must be his friend as well as subject:
+He must not perish thus. I will not see
+The blood of Nimrod and Semiramis
+Sink in the earth, and thirteen hundred years
+Of Empire ending like a shepherd's tale;
+He must be roused. In his effeminate heart
+There is a careless courage which Corruption 10
+Has not all quenched, and latent energies,
+Repressed by circumstance, but not destroyed--
+Steeped, but not drowned, in deep voluptuousness.
+If born a peasant, he had been a man
+To have reached an empire: to an empire born,
+He will bequeath none; nothing but a name,
+Which his sons will not prize in heritage:--
+Yet--not all lost--even yet--he may redeem
+His sloth and shame, by only being that
+Which he should be, as easily as the thing 20
+He should not be and is. Were it less toil
+To sway his nations than consume his life?
+To head an army than to rule a harem?He sweats in palling pleasures, dulls his soul,[a]
+And saps his goodly strength, in toils which yield not
+Health like the chase, nor glory like the war--
+He must be roused. Alas! there is no sound
+        [<i>Sound of soft music heard from within</i>.
+To rouse him short of thunder. Hark! the lute--
+The lyre--the timbrel; the lascivious tinklings
+Of lulling instruments, the softening voices 30
+Of women, and of beings less than women,
+Must chime in to the echo of his revel,
+While the great King of all we know of earth
+Lolls crowned with roses, and his diadem
+Lies negligently by to be caught up
+By the first manly hand which dares to snatch it.
+Lo, where they come! already I perceive
+The reeking odours of the perfumed trains,
+And see the bright gems of the glittering girls,[b]
+At once his Chorus and his Council, flash 40
+Along the gallery, and amidst the damsels,
+As femininely garbed, and scarce less female,
+The grandson of Semiramis, the Man-Queen.--
+He comes! Shall I await him? yes, and front him,
+And tell him what all good men tell each other,
+Speaking of him and his. They come, the slaves
+Led by the monarch subject to his slaves.<b>SCENE II.</b>
+
+  <i>Enter</i> SARDANAPALUS _effeminately dressed, his Head
+crowned with Flowers, and his Robe negligently flowing,
+    attended by a Train of Women and young Slaves_.
+
+<i>Sar.</i> (<i>speaking to some of his attendants</i>).
+Let the pavilion[6] over the Euphrates
+Be garlanded, and lit, and furnished forth
+For an especial banquet; at the hour
+Of midnight we will sup there: see nought wanting,
+And bid the galley be prepared. There is
+A cooling breeze which crisps the broad clear river:
+We will embark anon. Fair Nymphs, who deign
+To share the soft hours of Sardanapalus,
+We'll meet again in that the sweetest hour,
+When we shall gather like the stars above us, 10
+And you will form a heaven as bright as theirs;
+Till then, let each be mistress of her time,
+And thou, my own Ionian Myrrha,[7] choose;
+Wilt thou along with them or me?
+
+<i>Myr.</i> My Lord--
+
+<i>Sar.</i> My Lord!--my Life! why answerest thou so coldly? It is the curse of kings to be so answered.Rule thy own hours, thou rulest mine--say, wouldst thou Accompany our guests, or charm away The moments from me?
+
+<i>Myr.</i> The King's choice is mine.
+
+<i>Sar.</i> I pray thee say not so: my chiefest joy 20
+Is to contribute to thine every wish.
+I do not dare to breathe my own desire,
+Lest it should clash with thine; for thou art still
+Too prompt to sacrifice thy thoughts for others.
+
+<i>Myr.</i> I would remain: I have no happiness
+Save in beholding thine; yet--
+
+<i>Sar.</i> Yet! what YET?
+Thy own sweet will shall be the only barrier
+Which ever rises betwixt thee and me.
+
+<i>Myr.</i> I think the present is the wonted hour
+Of council; it were better I retire. 30
+
+<i>Sal.</i> (<i>comes forward and says</i>)
+The Ionian slave says well: let her retire.
+
+<i>Sar.</i> Who answers? How now, brother?<i>Sal.</i> The <i>Queen's</i> brother, And your most faithful vassal, royal Lord.
+
+<i>Sar.</i> (<i>addressing his train</i>).
+As I have said, let all dispose their hours
+Till midnight, when again we pray your presence.
+        [<i>The court retiring</i>.
+(<i>To</i> MYRRHA,[c] <i>who is going</i>.)
+Myrrha! I thought <i>thou</i> wouldst remain.
+
+<i>Myr.</i> Great King,
+Thou didst not say so.
+
+<i>Sar.</i> But <i>thou</i> looked'st it:
+I know each glance of those Ionic eyes,[d]
+Which said thou wouldst not leave me.
+
+<i>Myr.</i> Sire! your brother----
+
+<i>Sal.</i> His <i>Consort's</i> brother, minion of Ionia! 40 How darest <i>thou</i> name <i>me</i> and not blush?
+
+<i>Sar.</i> Not blush! Thou hast no more eyes than heart to make her crimson Like to the dying day on Caucasus, Where sunset tints the snow with rosy shadows, And then reproach her with thine own cold blindness, Which will not see it. What! in tears, my Myrrha?<i>Sal.</i> Let them flow on; she weeps for more than one, And is herself the cause of bitterer tears.
+
+<i>Sar.</i> Cursed be he who caused those tears to flow!
+
+<i>Sal.</i> Curse not thyself--millions do that already. 50
+
+<i>Sar.</i> Thou dost forget thee: make me not remember
+I am a monarch.
+
+<i>Sal.</i> Would thou couldst!
+
+<i>Myr.</i> My sovereign,
+I pray, and thou, too, Prince, permit my absence.
+
+<i>Sar.</i> Since it must be so, and this churl has checked
+Thy gentle spirit, go; but recollect
+That we must forthwith meet: I had rather lose
+An empire than thy presence. [<i>Exit</i> MYRRHA.
+
+<i>Sal.</i> It may be,
+Thou wilt lose both--and both for ever!
+
+<i>Sar.</i> Brother!
+I can at least command myself, who listen
+To language such as this: yet urge me not 60Beyond my easy nature.
+
+<i>Sal.</i> 'Tis beyond
+That easy--far too easy--idle nature,
+Which I would urge thee. O that I could rouse thee!
+Though 'twere against myself.
+
+<i>Sar.</i> By the god Baal!
+The man would make me tyrant.
+
+<i>Sal.</i> So thou art.
+Think'st thou there is no tyranny but that
+Of blood and chains? The despotism of vice,
+The weakness and the wickedness of luxury,
+The negligence, the apathy, the evils
+Of sensual sloth--produce ten thousand tyrants, 70
+Whose delegated cruelty surpasses
+The worst acts of one energetic master,
+However harsh and hard in his own bearing.
+The false and fond examples of thy lusts
+Corrupt no less than they oppress, and sap
+In the same moment all thy pageant power
+And those who should sustain it; so that whether
+A foreign foe invade, or civil broil
+Distract within, both will alike prove fatal:
+The first thy subjects have no heart to conquer; 80The last they rather would assist than vanquish.
+
+<i>Sar.</i> Why, what makes thee the mouth-piece of the people?
+
+<i>Sal.</i> Forgiveness of the Queen, my sister wrongs;
+A natural love unto my infant nephews;
+Faith to the King, a faith he may need shortly,
+In more than words; respect for Nimrod's line;
+Also, another thing thou knowest not.
+
+<i>Sar.</i> What's that?
+
+<i>Sal.</i> To thee an unknown word.
+
+<i>Sar.</i> Yet speak it; I love to learn.
+
+<i>Sal.</i> Virtue.
+
+<i>Sar.</i> Not know the word! Never was word yet rung so in my ears-- 90 Worse than the rabble's shout, or splitting trumpet: I've heard thy sister talk of nothing else.
+
+<i>Sal.</i> To change the irksome theme, then, hear of vice.
+
+<i>Sar.</i> From whom?<i>Sal.</i> Even from the winds, if thou couldst listen Unto the echoes of the Nation's voice.
+
+<i>Sar.</i> Come, I'm indulgent, as thou knowest, patient, As thou hast often proved--speak out, what moves thee?
+
+<i>Sal.</i> Thy peril.
+
+<i>Sar.</i> Say on.
+
+<i>Sal.</i> Thus, then: all the nations, For they are many, whom thy father left In heritage, are loud in wrath against thee. 100
+
+<i>Sar.</i> 'Gainst <i>me!!</i> What would the slaves?
+
+<i>Sal.</i> A king.
+
+<i>Sar.</i> And what Am I then?
+
+<i>Sal.</i> In their eyes a nothing; but
+In mine a man who might be something still.
+
+<i>Sar.</i> The railing drunkards! why, what would they have? Have they not peace and plenty?<i>Sal.</i> Of the first
+More than is glorious: of the last, far less
+Than the King recks of.
+
+<i>Sar.</i> Whose then is the crime,
+But the false satraps, who provide no better?
+
+<i>Sal.</i> And somewhat in the Monarch who ne'er looks
+Beyond his palace walls, or if he stirs 110
+Beyond them, 'tis but to some mountain palace,
+Till summer heats wear down. O glorious Baal!
+Who built up this vast empire, and wert made
+A God, or at the least shinest like a God
+Through the long centuries of thy renown,
+This, thy presumed descendant, ne'er beheld
+As king the kingdoms thou didst leave as hero,
+Won with thy blood, and toil, and time, and peril!
+For what? to furnish imposts for a revel,
+Or multiplied extortions for a minion. 120
+
+<i>Sar.</i> I understand thee--thou wouldst have me go
+Forth as a conqueror. By all the stars
+Which the Chaldeans read--the restless slaves[e]
+Deserve that I should curse them with their wishes,
+And lead them forth to glory.<i>Sal.</i> Wherefore not?
+Semiramis--a woman only--led
+These our Assyrians to the solar shores
+Of Ganges.
+
+<i>Sar.</i> Tis most true. And <i>how</i> returned?
+
+<i>Sal.</i> Why, like a <i>man</i>--a hero; baffled, but Not vanquished. With but twenty guards, she made 130 Good her retreat to Bactria.
+
+<i>Sar.</i> And how many
+Left she behind in India to the vultures?
+
+<i>Sal.</i> Our annals say not.
+
+<i>Sar.</i> Then I will say for them--
+That she had better woven within her palace
+Some twenty garments, than with twenty guards
+Have fled to Bactria, leaving to the ravens,
+And wolves, and men--the fiercer of the three,
+Her myriads of fond subjects. Is <i>this</i> Glory?
+Then let me live in ignominy ever.
+
+<i>Sal.</i> All warlike spirits have not the same fate. 140
+Semiramis, the glorious parent of
+A hundred kings, although she failed in India,Brought Persia--Media--Bactria--to the realm
+Which she once swayed--and thou <i>mightst</i> sway.
+
+<i>Sar.</i> <i>I sway</i> them-- She but subdued them.
+
+<i>Sal.</i> It may be ere long
+That they will need her sword more than your sceptre.
+
+<i>Sar.</i> There was a certain Bacchus, was there not?
+I've heard my Greek girls speak of such--they say
+He was a God, that is, a Grecian god,
+An idol foreign to Assyria's worship, 150
+Who conquered this same golden realm of Ind
+Thou prat'st of, where Semiramis was vanquished.
+
+<i>Sal.</i> I have heard of such a man; and thou perceiv'st That he is deemed a God for what he did.
+
+<i>Sar.</i> And in his godship I will honour him--
+Not much as man. What, ho! my cupbearer!
+
+<i>Sal.</i> What means the King?
+
+<i>Sar.</i> To worship your new God
+And ancient conqueror. Some wine, I say.<i>Enter Cupbearer</i>.
+
+<i>Sar.</i> (<i>addressing the Cupbearer</i>).
+Bring me the golden goblet thick with gems,
+Which bears the name of Nimrod's chalice. Hence, 160
+Fill full, and bear it quickly. [<i>Exit Cupbearer</i>.
+
+<i>Sal.</i> Is this moment
+A fitting one for the resumption of
+Thy yet unslept-off revels?
+
+<i>Re-enter Cupbearer, with wine</i>.
+
+<i>Sar.</i> (<i>taking the cup from him</i>). Noble kinsman,
+If these barbarian Greeks of the far shores
+And skirts of these our realms lie not, this Bacchus
+Conquered the whole of India,[8] did he not?
+
+<i>Sal.</i> He did, and thence was deemed a Deity.[f]
+
+<i>Sar.</i> Not so:--of all his conquests a few columns.[9]
+Which may be his, and might be mine, if I
+Thought them worth purchase and conveyance, are 170
+The landmarks of the seas of gore he shed,
+The realms he wasted, and the hearts he broke.
+But here--here in this goblet is his titleTo immortality--the immortal grape
+From which he first expressed the soul, and gave
+To gladden that of man, as some atonement
+For the victorious mischiefs he had done.
+Had it not been for this, he would have been
+A mortal still in name as in his grave;
+And, like my ancestor Semiramis, 180
+A sort of semi-glorious human monster.
+Here's that which deified him--let it now
+Humanise thee; my surly, chiding brother,
+Pledge me to the Greek God!
+
+<i>Sal.</i> For all thy realms
+I would not so blaspheme our country's creed.
+
+<i>Sar.</i> That is to say, thou thinkest him a hero,
+That he shed blood by oceans; and no God,
+Because he turned a fruit to an enchantment,
+Which cheers the sad, revives the old, inspires
+The young, makes Weariness forget his toil, 190
+And Fear her danger; opens a new world
+When this, the present, palls. Well, then <i>I</i> pledge thee
+And <i>him</i> as a true man, who did his utmost
+In good or evil to surprise mankind. [<i>Drinks</i>.
+
+<i>Sal.</i> Wilt thou resume a revel at this hour?<i>Sar.</i> And if I did, 'twere better than a trophy,
+Being bought without a tear. But that is not
+My present purpose: since thou wilt not pledge me,
+Continue what thou pleasest.
+(<i>To the Cupbearer</i>.) Boy, retire. [<i>Exit Cupbearer</i>.
+
+<i>Sal.</i> I would but have recalled thee from thy dream; 200 Better by me awakened than rebellion.
+
+<i>Sar.</i> Who should rebel? or why? what cause? pretext?
+I am the lawful King, descended from
+A race of Kings who knew no predecessors.
+What have I done to thee, or to the people,
+That thou shouldst rail, or they rise up against me?
+
+<i>Sal.</i> Of what thou hast done to me, I speak not.
+
+<i>Sar.</i> But Thou think'st that I have wronged the Queen: is't not so?
+
+<i>Sal.</i> <i>Think!</i> Thou hast wronged her!
+
+<i>Sar.</i> Patience, Prince, and hear me.
+She has all power and splendour of her station, 210
+Respect, the tutelage of Assyria's heirs,
+The homage and the appanage of sovereignty.
+I married her as monarchs wed--for state,And loved her as most husbands love their wives.
+If she or thou supposedst I could link me
+Like a Chaldean peasant to his mate,
+Ye knew nor me--nor monarchs--nor mankind.
+
+<i>Sal.</i> I pray thee, change the theme: my blood disdains
+Complaint, and Salemenes' sister seeks not
+Reluctant love even from Assyria's lord! 220
+Nor would she deign to accept divided passion
+With foreign strumpets and Ionian slaves.
+The Queen is silent.
+
+<i>Sar.</i> And why not her brother?
+
+<i>Sal.</i> I only echo thee the voice of empires,
+Which he who long neglects not long will govern.
+
+<i>Sar.</i> The ungrateful and ungracious slaves! they murmur
+Because I have not shed their blood, nor led them
+To dry into the desert's dust by myriads,
+Or whiten with their bones the banks of Ganges;
+Nor decimated them with savage laws, 230
+Nor sweated them to build up Pyramids,
+Or Babylonian walls.<i>Sal.</i> Yet these are trophies
+More worthy of a people and their prince
+Than songs, and lutes, and feasts, and concubines,
+And lavished treasures, and contemned virtues.
+
+<i>Sar.</i> Or for my trophies I have founded cities:
+There's Tarsus and Anchialus, both built
+In one day--what could that blood-loving beldame,
+My martial grandam, chaste Semiramis,
+Do more, except destroy them?
+
+<i>Sal.</i> 'Tis most true; 240
+I own thy merit in those founded cities,
+Built for a whim, recorded with a verse
+Which shames both them and thee to coming ages.
+
+<i>Sar.</i> Shame me! By Baal, the cities, though well built,
+Are not more goodly than the verse! Say what
+Thou wilt 'gainst me, my mode of life or rule,
+But nothing 'gainst the truth of that brief record.
+Why, those few lines contain the history
+Of all things human: hear--"Sardanapalus,
+The king, and son of Anacyndaraxes, 250
+In one day built Anchialus and Tarsus.
+Eat, drink, and love; the rest's not worth a fillip."[10]<i>Sal.</i> A worthy moral, and a wise inscription,
+For a king to put up before his subjects!
+
+<i>Sar.</i> Oh, thou wouldst have me doubtless set up edicts--
+"Obey the king--contribute to his treasure--
+Recruit his phalanx--spill your blood at bidding--
+Fall down and worship, or get up and toil."
+Or thus--"Sardanapalus on this spot
+Slew fifty thousand of his enemies. 260
+These are their sepulchres, and this his trophy."
+I leave such things to conquerors; enough
+For me, if I can make my subjects feel
+The weight of human misery less, and glide
+Ungroaning to the tomb: I take no license
+Which I deny to them. We all are men.
+
+<i>Sal.</i> Thy Sires have been revered as Gods--
+
+<i>Sar.</i> In dust
+And death, where they are neither Gods nor men.
+Talk not of such to me! the worms are Gods;[11]
+At least they banqueted upon your Gods, 270
+And died for lack of farther nutriment.
+Those Gods were merely men; look to their issue--
+I feel a thousand mortal things about me,
+But nothing godlike,--unless it may beThe thing which you condemn, a disposition
+To love and to be merciful, to pardon
+The follies of my species, and (that's human)
+To be indulgent to my own.
+
+<i>Sal.</i> Alas!
+The doom of Nineveh is sealed.--Woe--woe
+To the unrivalled city!
+
+<i>Sar.</i> What dost dread? 280
+
+<i>Sal.</i> Thou art guarded by thy foes: in a few hours
+The tempest may break out which overwhelms thee,
+And thine and mine; and in another day
+What <i>is</i> shall be the past of Belus' race.
+
+<i>Sar.</i> What must we dread?
+
+<i>Sal.</i> Ambitious treachery,
+Which has environed thee with snares; but yet
+There is resource: empower me with thy signet
+To quell the machinations, and I lay
+The heads of thy chief foes before thy feet.
+
+<i>Sar.</i> The heads--how many?<i>Sal.</i> Must I stay to number 290 When even thine own's in peril? Let me go; Give me thy signet--trust me with the rest.
+
+<i>Sar.</i> I will trust no man with unlimited lives.
+When we take those from others, we nor know
+What we have taken, nor the thing we give.
+
+<i>Sal.</i> Wouldst thou not take their lives who seek for thine?
+
+<i>Sar.</i> That's a hard question--But I answer, Yes.
+Cannot the thing be done without? Who are they
+Whom thou suspectest?--Let them be arrested.
+
+<i>Sal.</i> I would thou wouldst not ask me; the next moment 300
+Will send my answer through thy babbling troop
+Of paramours, and thence fly o'er the palace,
+Even to the city, and so baffle all.--
+Trust me.
+
+<i>Sar.</i> Thou knowest I have done so ever;
+Take thou the signet. [<i>Gives the signet</i>.
+
+<i>Sal.</i> I have one more request.
+
+<i>Sar.</i> Name it.<i>Sal.</i> That thou this night forbear the banquet In the pavilion over the Euphrates.
+
+<i>Sar.</i> Forbear the banquet! Not for all the plotters
+That ever shook a kingdom! Let them come,
+And do their worst: I shall not blench for them; 310
+Nor rise the sooner; nor forbear the goblet;
+Nor crown me with a single rose the less;
+Nor lose one joyous hour.--I fear them not.
+
+<i>Sal.</i> But thou wouldst arm thee, wouldst thou not, if needful?
+
+<i>Sar.</i> Perhaps. I have the goodliest armour, and
+A sword of such a temper, and a bow,
+And javelin, which might furnish Nimrod forth:
+A little heavy, but yet not unwieldy.
+And now I think on't, 'tis long since I've used them,
+Even in the chase. Hast ever seen them, brother? 320
+
+<i>Sal.</i> Is this a time for such fantastic trifling?-- If need be, wilt thou wear them?
+
+<i>Sar.</i> Will I not?
+Oh! if it must be so, and these rash slaves
+Will not be ruled with less, I'll use the sword
+Till they shall wish it turned into a distaff.<i>Sal.</i> They say thy Sceptre's turned to that already.
+
+<i>Sar.</i> That's false! but let them say so: the old Greeks,
+Of whom our captives often sing, related
+The same of their chief hero, Hercules,
+Because he loved a Lydian queen: thou seest 330
+The populace of all the nations seize
+Each calumny they can to sink their sovereigns.
+
+<i>Sal.</i> They did not speak thus of thy fathers.
+
+<i>Sar.</i> No;
+They dared not. They were kept to toil and combat;
+And never changed their chains but for their armour:
+Now they have peace and pastime, and the license
+To revel and to rail; it irks me not.
+I would not give the smile of one fair girl
+For all the popular breath[12] that e'er divided
+A name from nothing. What are the rank tongues[13] 340
+Of this vile herd, grown insolent with feeding,
+That I should prize their noisy praise, or dread
+Their noisome clamour?
+
+<i>Sal.</i> You have said they are men;
+As such their hearts are something.<i>Sar.</i> So my dogs' are;
+And better, as more faithful:--but, proceed;
+Thou hast my signet:--since they are tumultuous,
+Let them be tempered, yet not roughly, till
+Necessity enforce it. I hate all pain,
+Given or received; we have enough within us,
+The meanest vassal as the loftiest monarch, 350
+Not to add to each other's natural burthen
+Of mortal misery, but rather lessen,
+By mild reciprocal alleviation,
+The fatal penalties imposed on life:
+But this they know not, or they will not know.
+I have, by Baal! done all I could to soothe them:
+I made no wars, I added no new imposts,
+I interfered not with their civic lives,
+I let them pass their days as best might suit them,
+Passing my own as suited me.
+
+<i>Sal.</i> Thou stopp'st 360 Short of the duties of a king; and therefore They say thou art unfit to be a monarch.
+
+<i>Sar.</i> They lie.--Unhappily, I am unfit
+To be aught save a monarch; else for me
+The meanest Mede might be the king instead.
+
+<i>Sal.</i> There is one Mede, at least, who seeks to be so.<i>Sar.</i> What mean'st thou!--'tis thy secret; thou desirest
+Few questions, and I'm not of curious nature.
+Take the fit steps; and, since necessity
+Requires, I sanction and support thee. Ne'er 370
+Was man who more desired to rule in peace
+The peaceful only: if they rouse me, better
+They had conjured up stern Nimrod from his ashes,
+"The Mighty Hunter!" I will turn these realms
+To one wide desert chase of brutes, who <i>were</i>,
+But <i>would</i> no more, by their own choice, be human.
+<i>What</i> they have found me, they belie; <i>that which</i>
+They yet may find me--shall defy their wish
+To speak it worse; and let them thank themselves.
+
+<i>Sal.</i> Then thou at last canst feel?
+
+<i>Sar.</i> Feel! who feels not 380 Ingratitude?[14]
+
+<i>Sal.</i> I will not pause to answer
+With words, but deeds. Keep thou awake that energy
+Which sleeps at times, but is not dead within thee,
+And thou may'st yet be glorious in thy reign,
+As powerful in thy realm. Farewell! [<i>Exit</i> SALEMENES.
+
+<i>Sar.</i> (<i>solus</i>). Farewell!
+He's gone; and on his finger bears my signet,Which is to him a sceptre. He is stern
+As I am heedless; and the slaves deserve
+To feel a master. What may be the danger,
+I know not: he hath found it, let him quell it. 390
+Must I consume my life--this little life--
+In guarding against all may make it less?
+It is not worth so much! It were to die
+Before my hour, to live in dread of death,
+Tracing revolt; suspecting all about me,
+Because they are near; and all who are remote,
+Because they are far. But if it should be so--
+If they should sweep me off from Earth and Empire,
+Why, what is Earth or Empire of the Earth?
+I have loved, and lived, and multiplied my image; 400
+To die is no less natural than those
+Acts of this clay! 'Tis true I have not shed
+Blood as I might have done, in oceans, till
+My name became the synonyme of Death--
+A terror and a trophy. But for this
+I feel no penitence; my life is love:
+If I must shed blood, it shall be by force.
+Till now, no drop from an Assyrian vein
+Hath flowed for me, nor hath the smallest coin
+Of Nineveh's vast treasures e'er been lavished 410
+On objects which could cost her sons a tear:If then they hate me, 'tis because I hate not:
+If they rebel, 'tis because I oppress not.
+Oh, men! ye must be ruled with scythes, not sceptres,
+And mowed down like the grass, else all we reap
+Is rank abundance, and a rotten harvest
+Of discontents infecting the fair soil,
+Making a desert of fertility.--
+I'll think no more.--Within there, ho!
+
+<i>Enter an</i> ATTENDANT.
+
+<i>Sar.</i> Slave, tell
+The Ionian Myrrha we would crave her presence. 420
+
+<i>Attend.</i> King, she is here.
+
+MYRRHA <i>enters</i>.
+
+<i>Sar.</i> (<i>apart to Attendant</i>). Away!
+
+(<i>Addressing</i> MYRRHA.) Beautiful being!
+Thou dost almost anticipate my heart;
+It throbbed for thee, and here thou comest: let me
+Deem that some unknown influence, some sweet oracle,
+Communicates between us, though unseen,
+In absence, and attracts us to each other.<i>Myr.</i> There doth.
+
+<i>Sar.</i> I know there doth, but not its name: What is it?
+
+<i>Myr.</i> In my native land a God,
+And in my heart a feeling like a God's,
+Exalted; yet I own 'tis only mortal; 430
+For what I feel is humble, and yet happy--
+That is, it would be happy; but---- [MYRRHA <i>pauses</i>.
+
+<i>Sar.</i> There comes
+For ever something between us and what
+We deem our happiness: let me remove
+The barrier which that hesitating accent
+Proclaims to thine, and mine is sealed.
+
+<i>Myr.</i> My Lord!--
+
+<i>Sar.</i> My Lord--my King--Sire--Sovereign; thus it is--
+For ever thus, addressed with awe. I ne'er
+Can see a smile, unless in some broad banquet's
+Intoxicating glare, when the buffoons 440
+Have gorged themselves up to equality,
+Or I have quaffed me down to their abasement.
+Myrrha, I can hear all these things, these names,
+Lord--King--Sire--Monarch--nay, time was I prized them;That is, I suffered them--from slaves and nobles;
+But when they falter from the lips I love,
+The lips which have been pressed to mine, a chill
+Comes o'er my heart, a cold sense of the falsehood
+Of this my station, which represses feeling
+In those for whom I have felt most, and makes me 450
+Wish that I could lay down the dull tiara,
+And share a cottage on the Caucasus
+With thee--and wear no crowns but those of flowers.
+
+<i>Myr.</i> Would that we could!
+
+<i>Sar.</i> And dost <i>thou</i> feel this?--Why?
+
+<i>Myr.</i> Then thou wouldst know what thou canst never know.
+
+<i>Sar.</i> And that is----
+
+<i>Myr.</i> The true value of a heart;
+At least, a woman's.
+
+<i>Sar.</i> I have proved a thousand--A
+thousand, and a thousand.
+
+<i>Myr.</i> Hearts?<i>Sar.</i> I think so.
+
+<i>Myr.</i> Not one! the time may come thou may'st.
+
+<i>Sar.</i> It will.
+Hear, Myrrha; Salemenes has declared-- 460
+Or why or how he hath divined it, Belus,
+Who founded our great realm, knows more than I--
+But Salemenes hath declared my throne
+In peril.
+
+<i>Myr.</i> He did well.
+
+<i>Sar.</i> And say'st <i>thou</i> so?
+Thou whom he spurned so harshly, and now dared[g]
+Drive from our presence with his savage jeers,
+And made thee weep and blush?
+
+<i>Myr.</i> I should do both
+More frequently, and he did well to call me
+Back to my duty. But thou spakest of peril
+Peril to thee----
+
+<i>Sar.</i> Aye, from dark plots and snares 470
+From Medes--and discontented troops and nations.
+I know not what--a labyrinth of things--A maze of muttered threats and mysteries:
+Thou know'st the man--it is his usual custom.
+But he is honest. Come, we'll think no more on't--
+But of the midnight festival.
+
+<i>Myr.</i> 'Tis time
+To think of aught save festivals. Thou hast not
+Spurned his sage cautions?
+
+<i>Sar.</i> What?--and dost thou fear?
+
+<i>Myr.</i> Fear!--I'm a Greek, and how should I fear death? A slave, and wherefore should I dread my freedom? 480
+
+<i>Sar.</i> Then wherefore dost thou turn so pale?
+
+<i>Myr.</i> I love.
+
+<i>Sar.</i> And do not I? I love thee far--far more
+Than either the brief life or the wide realm,
+Which, it may be, are menaced;--yet I blench not.
+
+<i>Myr.</i> That means thou lovest nor thyself nor me;
+For he who loves another loves himself,
+Even for that other's sake. This is too rash:
+Kingdoms and lives are not to be so lost.<i>Sar.</i> Lost!--why, who is the aspiring chief who dared Assume to win them?
+
+<i>Myr.</i> Who is he should dread 490 To try so much? When he who is their ruler Forgets himself--will they remember him?
+
+<i>Sar.</i> Myrrha!
+
+<i>Myr.</i> Frown not upon me: you have smiled
+Too often on me not to make those frowns
+Bitterer to bear than any punishment
+Which they may augur.--King, I am your subject!
+Master, I am your slave! Man, I have loved you!--
+Loved you, I know not by what fatal weakness,
+Although a Greek, and born a foe to monarchs--
+A slave, and hating fetters--an Ionian, 500
+And, therefore, when I love a stranger, more
+Degraded by that passion than by chains!
+Still I have loved you. If that love were strong
+Enough to overcome all former nature,
+Shall it not claim the privilege to save you?
+
+<i>Sar.</i> <i>Save</i> me, my beauty! Thou art very fair,
+And what I seek of thee is love--not safety.
+
+<i>Myr.</i> And without love where dwells security?<i>Sar.</i> I speak of woman's love.
+
+<i>Myr.</i> The very first Of human life must spring from woman's breast, 510 Your first small words are taught you from her lips, Your first tears quenched by her, and your last sighs Too often breathed out in a woman's hearing, When men have shrunk from the ignoble care Of watching the last hour of him who led them.
+
+<i>Sar.</i> My eloquent Ionian! thou speak'st music:
+The very chorus of the tragic song
+I have heard thee talk of as the favourite pastime
+Of thy far father-land. Nay, weep not--calm thee.
+
+<i>Myr.</i> I weep not.--But I pray thee, do not speak 520 About my fathers or their land.
+
+<i>Sar.</i> Yet oft
+Thou speakest of them.
+
+<i>Myr.</i> True--true: constant thought
+Will overflow in words unconsciously;
+But when another speaks of Greeks, it wounds me.
+
+<i>Sar.</i> Well, then, how wouldst thou <i>save</i> me, as thou saidst?<i>Myr.</i> By teaching thee to save thyself, and not
+Thyself alone, but these vast realms, from all
+The rage of the worst war--the war of brethren.
+
+<i>Sar.</i> Why, child, I loathe all war, and warriors; I live in peace and pleasure: what can man 530 Do more?
+
+<i>Myr.</i> Alas! my Lord, with common men
+There needs too oft the show of war to keep
+The substance of sweet peace; and, for a king,
+'Tis sometimes better to be feared than loved.
+
+<i>Sar.</i> And I have never sought but for the last.
+
+<i>Myr.</i> And now art neither.
+
+<i>Sar.</i> Dost <i>thou</i> say so, Myrrha?
+
+<i>Myr.</i> I speak of civic popular love, <i>self</i>-love,
+Which means that men are kept in awe and law,
+Yet not oppressed--at least they must not think so,
+Or, if they think so, deem it necessary, 540
+To ward off worse oppression, their own passions.
+A King of feasts, and flowers, and wine, and revel,
+And love, and mirth, was never King of Glory.<i>Sar.</i> Glory! what's that?
+
+<i>Myr.</i> Ask of the Gods thy fathers.
+
+<i>Sar.</i> They cannot answer; when the priests speak for them, 'Tis for some small addition to the temple.
+
+<i>Myr.</i> Look to the annals of thine Empire's founders.
+
+<i>Sar.</i> They are so blotted o'er with blood, I cannot. But what wouldst have? the Empire <i>has been</i> founded. I cannot go on multiplying empires. 550
+
+<i>Myr.</i> Preserve thine own.
+
+<i>Sar.</i> At least, I will enjoy it.
+Come, Myrrha, let us go on to the Euphrates:
+The hour invites, the galley is prepared,
+And the pavilion, decked for our return,
+In fit adornment for the evening banquet,
+Shall blaze with beauty and with light, until
+It seems unto the stars which are above us
+Itself an opposite star; and we will sit
+Crowned with fresh flowers like----
+
+<i>Myr.</i> Victims.<i>Sar.</i> No, like sovereigns, The Shepherd Kings of patriarchal times, 560 Who knew no brighter gems than summer wreaths,[h] And none but tearless triumphs. Let us on.
+
+<i>Enter</i> PANIA.
+
+<i>Pan.</i> May the King live for ever!
+
+<i>Sar.</i> Not an hour
+Longer than he can love. How my soul hates
+This language, which makes life itself a lie,
+Flattering dust with eternity.[i] Well, Pania!
+Be brief.
+
+<i>Pan.</i> I am charged by Salemenes to
+Reiterate his prayer unto the King,
+That for this day, at least, he will not quit
+The palace: when the General returns, 570
+He will adduce such reasons as will warrant
+His daring, and perhaps obtain the pardon
+Of his presumption.
+
+<i>Sar.</i> What! am I then cooped?
+Already captive? can I not even breathe
+The breath of heaven? Tell prince Salemenes,
+Were all Assyria raging round the wallsIn mutinous myriads, I would still go forth.
+
+<i>Pan.</i> I must obey, and yet----
+
+<i>Myr.</i> Oh, Monarch, listen.--
+How many a day and moon thou hast reclined
+Within these palace walls in silken dalliance, 580
+And never shown thee to thy people's longing;
+Leaving thy subjects' eyes ungratified,
+The satraps uncontrolled, the Gods unworshipped,
+And all things in the anarchy of sloth,
+Till all, save evil, slumbered through the realm!
+And wilt thou not now tarry for a day,--
+A day which may redeem thee? Wilt thou not
+Yield to the few still faithful a few hours,
+For them, for thee, for thy past fathers' race,
+And for thy sons' inheritance?
+
+<i>Pan.</i> 'Tis true! 590
+From the deep urgency with which the Prince
+Despatched me to your sacred presence, I
+Must dare to add my feeble voice to that
+Which now has spoken.
+
+<i>Sar.</i> No, it must not be.<i>Myr.</i> For the sake of thy realm!
+
+<i>Sar.</i> Away!
+
+<i>Pan.</i> For that
+Of all thy faithful subjects, who will rally
+Round thee and thine.
+
+<i>Sar.</i> These are mere fantasies:
+There is no peril:--'tis a sullen scheme
+Of Salemenes, to approve his zeal,
+And show himself more necessary to us. 600
+
+<i>Myr.</i> By all that's good and glorious take this counsel.
+
+<i>Sar.</i> Business to-morrow.
+
+<i>Myr.</i> Aye--or death to-night.
+
+<i>Sar.</i> Why let it come then unexpectedly,
+'Midst joy and gentleness, and mirth and love;
+So let me fall like the plucked rose!--far better
+Thus than be withered.
+
+<i>Myr.</i> Then thou wilt not yield,
+Even for the sake of all that ever stirredA monarch into action, to forego
+A trifling revel.
+
+<i>Sar.</i> No.
+
+<i>Myr.</i> Then yield for <i>mine</i>;
+For my sake!
+
+<i>Sar.</i> Thine, my Myrrha!
+
+<i>Myr.</i> 'Tis the first 610 Boon which I ever asked Assyria's king.
+
+<i>Sar.</i> That's true, and, wer't my kingdom, must be granted. Well, for thy sake, I yield me. Pania, hence! Thou hear'st me.
+
+<i>Pan.</i> And obey. [<i>Exit</i> PANIA.
+
+<i>Sar.</i> I marvel at thee.
+What is thy motive, Myrrha, thus to urge me?
+
+<i>Myr.</i> Thy safety; and the certainty that nought
+Could urge the Prince thy kinsman to require
+Thus much from thee, but some impending danger.
+
+<i>Sar.</i> And if I do not dread it, why shouldst thou?<i>Myr.</i> Because <i>thou</i> dost not fear, I fear for <i>thee</i>. 620
+
+<i>Sar.</i> To-morrow thou wilt smile at these vain fancies.
+
+<i>Myr.</i> If the worst come, I shall be where none weep, And that is better than the power to smile. And thou?
+
+<i>Sar.</i> I shall be King, as heretofore.
+
+<i>Myr.</i> Where?
+
+<i>Sar.</i> With Baal, Nimrod, and Semiramis,
+Sole in Assyria, or with them elsewhere.
+Fate made me what I am--may make me nothing--
+But either that or nothing must I be:
+I will not live degraded.
+
+<i>Myr.</i> Hadst thou felt
+Thus always, none would ever dare degrade thee. 630
+
+<i>Sar.</i> And who will do so now?
+
+<i>Myr.</i> Dost thou suspect none?
+
+<i>Sar.</i> Suspect!--that's a spy's office. Oh! we lose
+Ten thousand precious moments in vain words,And vainer fears. Within there!--ye slaves, deck
+The Hall of Nimrod for the evening revel;
+If I must make a prison of our palace,
+At least we'll wear our fetters jocundly;
+If the Euphrates be forbid us, and
+The summer-dwelling on its beauteous border,
+Here we are still unmenaced. Ho! within there! 640
+        [<i>Exit</i> SARDANAPALUS.
+
+<i>Myr.</i> (<i>solus</i>).
+Why do I love this man? My country's daughters
+Love none but heroes. But I have no country!
+The slave hath lost all save her bonds. I love him;
+And that's the heaviest link of the long chain--
+To love whom we esteem not. Be it so:
+The hour is coming when he'll need all love,
+And find none. To fall from him now were baser
+Than to have stabbed him on his throne when highest
+Would have been noble in my country's creed:
+I was not made for either. Could I save him, 650
+I should not love <i>him</i> better, but myself;
+And I have need of the last, for I have fallen
+In my own thoughts, by loving this soft stranger:
+And yet, methinks, I love him more, perceiving
+That he is hated of his own barbarians,
+The natural foes of all the blood of Greece.Could I but wake a single thought like those
+Which even the Phrygians felt when battling long
+'Twixt Ilion and the sea, within his heart,
+He would tread down the barbarous crowds, and triumph. 660
+He loves me, and I love him; the slave loves
+Her master, and would free him from his vices.
+If not, I have a means of freedom still,
+And if I cannot teach him how to reign,
+May show him how alone a King can leave
+His throne. I must not lose him from my sight. [<i>Exit</i>.
+
+ACT II.<b>SCENE I.--<i>The Portal of the same Hall of the Palace</i>.</b>
+
+<i>Beleses</i> (<i>solus</i>).
+The Sun goes down: methinks he sets more slowly,
+Taking his last look of Assyria's Empire.
+How red he glares amongst those deepening clouds,
+Like the blood he predicts. If not in vain,
+Thou Sun that sinkest, and ye stars which rise,
+I have outwatched ye, reading ray by ray
+The edicts of your orbs, which make Time tremble[j]
+For what he brings the nations, 'tis the furthest
+Hour of Assyria's years. And yet how calm!
+An earthquake should announce so great a fall-- 10
+A summer's sun discloses it. Yon disk,
+To the star-read Chaldean, bears upon
+Its everlasting page the end of what
+Seemed everlasting; but oh! thou true Sun!
+The burning oracle of all that live,
+As fountain of all life, and symbol of
+Him who bestows it, wherefore dost thou limit
+Thy lore unto calamity? Why not
+Unfold the rise of days more worthy thine
+All-glorious burst from ocean? why not dart 20
+A beam of hope athwart the future years,
+As of wrath to its days? Hear me! oh, hear me!
+I am thy worshipper, thy priest, thy servant--I have gazed on thee at thy rise and fall,
+And bowed my head beneath thy mid-day beams,
+When my eye dared not meet thee. I have watched
+For thee, and after thee, and prayed to thee,
+And sacrificed to thee, and read, and feared thee,
+And asked of thee, and thou hast answered--but
+Only to thus much: while I speak, he sinks-- 30
+Is gone--and leaves his beauty, not his knowledge,
+To the delighted West, which revels in
+Its hues of dying glory. Yet what is
+Death, so it be but glorious? 'Tis a sunset;
+And mortals may be happy to resemble
+The Gods but in decay.
+
+<i>Enter</i> ARBACES <i>by an inner door</i>.
+
+<i>Arb.</i> Beleses, why
+So wrapt in thy devotions? Dost thou stand
+Gazing to trace thy disappearing God
+Into some realm of undiscovered day?
+Our business is with night--'tis come.
+
+<i>Bel.</i> But not 40 Gone.
+
+<i>Arb.</i> Let it roll on--we are ready.<i>Bel.</i> Yes.
+Would it were over!
+
+<i>Arb.</i> Does the prophet doubt,
+To whom the very stars shine Victory?
+
+<i>Bel.</i> I do not doubt of Victory--but the Victor.
+
+<i>Arb.</i> Well, let thy science settle that. Meantime
+I have prepared as many glittering spears
+As will out-sparkle our allies--your planets.
+There is no more to thwart us. The she-king,
+That less than woman, is even now upon
+The waters with his female mates. The order 50
+Is issued for the feast in the pavilion.
+The first cup which he drains will be the last
+Quaffed by the line of Nimrod.
+
+<i>Bel.</i> 'Twas a brave one.
+
+<i>Arb.</i> And is a weak one--'tis worn out--we'll mend it.
+
+<i>Bel.</i> Art sure of that?
+
+<i>Arb.</i> Its founder was a hunter-- I am a soldier--what is there to fear?<i>Bel.</i> The soldier.
+
+<i>Arb.</i> And the priest, it may be: but
+If you thought thus, or think, why not retain
+Your king of concubines? why stir me up?
+Why spur me to this enterprise? your own 60
+No less than mine?
+
+<i>Bel.</i> Look to the sky!
+
+<i>Arb.</i> I look.
+
+<i>Bel.</i> What seest thou?
+
+<i>Arb.</i> A fair summer's twilight, and The gathering of the stars.
+
+<i>Bel.</i> And midst them, mark
+Yon earliest, and the brightest, which so quivers,
+As it would quit its place in the blue ether.
+
+<i>Arb.</i> Well?
+
+<i>Bel.</i> 'Tis thy natal ruler--thy birth planet.
+
+<i>Arb.</i> (<i>touching his scabbard</i>).
+My star is in this scabbard: when it shines,It shall out-dazzle comets. Let us think
+Of what is to be done to justify
+Thy planets and their portents. When we conquer, 70
+They shall have temples--aye, and priests--and thou
+Shalt be the pontiff of--what Gods thou wilt;
+For I observe that they are ever just,
+And own the bravest for the most devout.
+
+<i>Bel.</i> Aye, and the most devout for brave--thou hast not Seen me turn back from battle.
+
+<i>Arb.</i> No; I own thee
+As firm in fight as Babylonia's captain,
+As skilful in Chaldea's worship: now,
+Will it but please thee to forget the priest,
+And be the warrior?
+
+<i>Bel.</i> Why not both?
+
+<i>Arb.</i> The better; 80
+And yet it almost shames me, we shall have
+So little to effect. This woman's warfare
+Degrades the very conqueror. To have plucked
+A bold and bloody despot from his throne,
+And grappled with him, clashing steel with steel,
+That were heroic or to win or fall;But to upraise my sword against this silkworm,[15]
+And hear him whine, it may be----
+
+<i>Bel.</i> Do not deem it:
+He has that in him which may make you strife yet;
+And were he all you think, his guards are hardy, 90
+And headed by the cool, stern Salemenes.
+
+<i>Arb.</i> They'll not resist.
+
+<i>Bel.</i> Why not? they are soldiers.
+
+<i>Arb.</i> True, And therefore need a soldier to command them.
+
+<i>Bel.</i> That Salemenes is.
+
+<i>Arb.</i> But not their King.
+Besides, he hates the effeminate thing that governs,
+For the Queen's sake, his sister. Mark you not
+He keeps aloof from all the revels?
+
+<i>Bel.</i> But
+Not from the council--there he is ever constant.
+
+<i>Arb.</i> And ever thwarted: what would you have more
+To make a rebel out of? A fool reigning, 100His blood dishonoured, and himself disdained:
+Why, it is <i>his</i> revenge we work for.
+
+<i>Bel.</i> Could
+He but be brought to think so: this I doubt of.
+
+<i>Arb.</i> What, if we sound him?
+
+<i>Bel.</i> Yes--if the time served.
+
+<i>Enter</i> BALEA.
+
+<i>Bal.</i> Satraps! The king commands your presence at
+The feast to-night.
+
+<i>Bel.</i> To hear is to obey.
+In the pavilion?
+
+<i>Bal.</i> No; here in the palace.
+
+<i>Arb.</i> How! in the palace? it was not thus ordered.
+
+<i>Bal.</i> It is so ordered now.
+
+<i>Arb.</i> And why?<i>Bal.</i> I know not.
+May I retire?
+
+<i>Arb.</i> Stay.
+
+<i>Bel.</i> (<i>to Arb. aside</i>). Hush! let him go his way. 110 (<i>Alternately to Bal.</i>) Yes, Balea, thank the Monarch, kiss the hem Of his imperial robe, and say, his slaves Will take the crumbs he deigns to scatter from His royal table at the hour--was't midnight?
+
+<i>Bal.</i> It was: the place, the hall of Nimrod. Lords, I humble me before you, and depart. [<i>Exit</i> BALEA.
+
+<i>Arb.</i> I like not this same sudden change of place;
+There is some mystery: wherefore should he change it?
+
+<i>Bel.</i> Doth he not change a thousand times a day?
+Sloth is of all things the most fanciful-- 120
+And moves more parasangs in its intents
+Than generals in their marches, when they seek
+To leave their foe at fault.--Why dost thou muse?
+
+<i>Arb.</i> He loved that gay pavilion,--it was ever
+His summer dotage.<i>Bel.</i> And he loved his Queen--
+And thrice a thousand harlotry besides--
+And he has loved all things by turns, except
+Wisdom and Glory.
+
+<i>Arb.</i> Still--I like it not.
+If he has changed--why, so must we: the attack
+Were easy in the isolated bower, 130
+Beset with drowsy guards and drunken courtiers;
+But in the hall of Nimrod----
+
+<i>Bel.</i> Is it so?
+Methought the haughty soldier feared to mount
+A throne too easily--does it disappoint thee
+To find there is a slipperier step or two
+Than what was counted on?
+
+<i>Arb.</i> When the hour comes,
+Thou shall perceive how far I fear or no.
+Thou hast seen my life at stake--and gaily played for:
+But here is more upon the die--a kingdom.
+
+<i>Bel.</i> I have foretold already--thou wilt win it: 140 Then on, and prosper.
+
+<i>Arb.</i> Now were I a soothsayer,
+I would have boded so much to myself.But be the stars obeyed--I cannot quarrel
+With them, nor their interpreter. Who's here?
+
+<i>Enter</i> SALEMENES.
+
+<i>Sal.</i> Satraps!
+
+<i>Bel.</i> My Prince!
+
+<i>Sal.</i> Well met--I sought ye both, But elsewhere than the palace.
+
+<i>Arb.</i> Wherefore so?
+
+<i>Sal.</i> 'Tis not the hour.
+
+<i>Arb.</i> The hour!--what hour?
+
+<i>Sal.</i> Of midnight.
+
+<i>Bel.</i> Midnight, my Lord!
+
+<i>Sal.</i> What, are you not invited?
+
+<i>Bel.</i> Oh! yes--we had forgotten.<i>Sal.</i> Is it usual
+Thus to forget a Sovereign's invitation?
+
+<i>Arb.</i> Why--we but now received it. 150
+
+<i>Sal.</i> Then why here?
+
+<i>Arb.</i> On duty.
+
+<i>Sal.</i> On what duty?
+
+<i>Bel.</i> On the state's.
+We have the privilege to approach the presence;
+But found the Monarch absent.[k]
+
+<i>Sal.</i> And I too
+Am upon duty.
+
+<i>Arb.</i> May we crave its purport?
+
+<i>Sal.</i> To arrest two traitors. Guards! Within there!
+
+<i>Enter Guards</i>.
+
+<i>Sal.</i> (<i>continuing</i>). Satraps, Your swords.<i>Bel.</i> (<i>delivering his</i>). My lord, behold my scimitar.
+
+<i>Arb.</i> (<i>drawing his sword</i>). Take mine.
+
+<i>Sal.</i> (<i>advancing</i>). I will.
+
+<i>Arb.</i> But in your heart the blade-- The hilt quits not this hand.[l]
+
+<i>Sal.</i> (<i>drawing</i>). How! dost thou brave me? Tis well--this saves a trial, and false mercy. 160 Soldiers, hew down the rebel!
+
+<i>Arb.</i> Soldiers! Aye--
+<i>Alone, you</i> dare not.
+
+<i>Sal.</i> Alone! foolish slave-- What is there in thee that a Prince should shrink from Of open force? We dread thy treason, not Thy strength: thy tooth is nought without its venom-- The serpent's, not the lion's. Cut him down.
+
+<i>Bel.</i> (<i>interposing</i>). Arbaces! Are you mad? Have I not rendered <i>My</i> sword? Then trust like me our Sovereign's justice.
+
+<i>Arb.</i> No--I will sooner trust the stars thou prat'st of, And this slight arm, and die a king at least 170 Of my own breath and body--so far that None else shall chain them.
+
+<i>Sal.</i> (<i>to the Guards</i>). You hear <i>him</i> and <i>me</i>. Take him not,--kill.[<i>The Guards attack</i> ARBACES, _who defends himself
+    valiantly and dexterously till they waver_.
+
+<i>Sal.</i> Is it even so; and must
+I do the hangman's office? Recreants! see
+How you should fell a traitor.
+        [SALEMENES <i>attacks</i> ARBACES.
+
+<i>Enter</i> SARDANAPALUS <i>and Train</i>.
+
+<i>Sar.</i> Hold your hands--
+Upon your lives, I say. What, deaf or drunken?
+My sword! O fool, I wear no sword: here, fellow,
+Give me thy weapon. [<i>To a Guard</i>.
+
+[SARDANAPALUS _snatches a sword from one of the soldiers,
+    and rushes between the combatants--they separate_.
+
+<i>Sar.</i> In my very palace!
+What hinders me from cleaving you in twain,
+Audacious brawlers?
+
+<i>Bel.</i> Sire, your justice.
+
+<i>Sal.</i> Or-- 180 Your weakness.<i>Sar.</i> (<i>raising the sword</i>). How?
+
+<i>Sal.</i> Strike! so the blow's repeated
+Upon yon traitor--whom you spare a moment,
+I trust, for torture--I'm content.
+
+<i>Sar.</i> What--him!
+Who dares assail Arbaces?
+
+<i>Sal.</i> I!
+
+<i>Sar.</i> Indeed!
+Prince, you forget yourself. Upon what warrant?
+
+<i>Sal.</i> (<i>showing the signet</i>). Thine.
+
+<i>Arb.</i> (<i>confused</i>). The King's!
+
+<i>Sal.</i> Yes! and let the King confirm it.
+
+<i>Sar.</i> I parted not from this for such a purpose.
+
+<i>Sal.</i> You parted with it for your safety--I
+Employed it for the best. Pronounce in person.
+Here I am but your slave--a moment past 190
+I was your representative.<i>Sar.</i> Then sheathe
+Your swords.
+       [ARBACES <i>and</i> SALEMENES <i>return their swords to the scabbards</i>.
+
+<i>Sal.</i> Mine's sheathed: I pray you sheathe <i>not</i> yours: Tis the sole sceptre left you now with safety.
+
+<i>Sar.</i> A heavy one; the hilt, too, hurts my hand. (<i>To a Guard</i>.) Here, fellow, take thy weapon back. Well, sirs, What doth this mean?
+
+<i>Bel.</i> The Prince must answer that.
+
+<i>Sal.</i> Truth upon my part, treason upon theirs.
+
+<i>Sar.</i> Treason--Arbaces! treachery and Beleses!
+That were an union I will not believe.
+
+<i>Bel.</i> Where is the proof?
+
+<i>Sal.</i> I'll answer that, if once 200 The king demands your fellow-traitor's sword.
+
+<i>Arb.</i> (<i>to Sal.</i>). A sword which hath been drawn as oft as thine Against his foes.<i>Sal.</i> And now against his brother,
+And in an hour or so against himself.
+
+<i>Sar.</i> That is not possible: he dared not; no--
+No--I'll not hear of such things. These vain bickerings
+Are spawned in courts by base intrigues, and baser
+Hirelings, who live by lies on good men's lives.
+You must have been deceived, my brother.
+
+<i>Sal.</i> First
+Let him deliver up his weapon, and 210
+Proclaim himself your subject by that duty,
+And I will answer all.
+
+<i>Sar.</i> Why, if I thought so--
+But no, it cannot be: the Mede Arbaces--
+The trusty, rough, true soldier--the best captain
+Of all who discipline our nations----No,
+I'll not insult him thus, to bid him render
+The scimitar to me he never yielded
+Unto our enemies. Chief, keep your weapon.
+
+<i>Sal.</i> (<i>delivering back the signet</i>).
+Monarch, take back your signet.<i>Sar.</i> No, retain it;
+But use it with more moderation.
+
+<i>Sal.</i> Sire, 200
+I used it for your honour, and restore it
+Because I cannot keep it with my own.
+Bestow it on Arbaces.
+
+<i>Sar.</i> So I should:
+He never asked it.
+
+<i>Sal.</i> Doubt not, he will have it,
+Without that hollow semblance of respect.
+
+<i>Bel.</i> I know not what hath prejudiced the Prince
+So strongly 'gainst two subjects, than whom none
+Have been more zealous for Assyria's weal.
+
+<i>Sal.</i> Peace, factious priest, and faithless soldier! thou
+Unit'st in thy own person the worst vices 230
+Of the most dangerous orders of mankind.
+Keep thy smooth words and juggling homilies
+For those who know thee not. Thy fellow's sin
+Is, at the least, a bold one, and not tempered
+By the tricks taught thee in Chaldea.<i>Bel.</i> Hear him,
+My liege--the son of Belus! he blasphemes
+The worship of the land, which bows the knee
+Before your fathers.
+
+<i>Sar.</i> Oh! for that I pray you
+Let him have absolution. I dispense with
+The worship of dead men; feeling that I 240
+Am mortal, and believing that the race
+From whence I sprung are--what I see them--ashes.
+
+<i>Bel.</i> King! Do not deem so: they are with the stars, And----
+
+<i>Sar.</i> You shall join them ere they will rise,
+If you preach farther--Why, <i>this</i> is rank treason.
+
+<i>Sal.</i> My lord!
+
+<i>Sar.</i> To school me in the worship of
+Assyria's idols! Let him be released--
+Give him his sword.
+
+<i>Sal.</i> My Lord, and King, and Brother,
+I pray ye pause.<i>Sar.</i> Yes, and be sermonised, And dinned, and deafened with dead men and Baal, 250 And all Chaldea's starry mysteries.
+
+<i>Bel.</i> Monarch! respect them.
+
+<i>Sar.</i> Oh! for that--I love them;
+I love to watch them in the deep blue vault,
+And to compare them with my Myrrha's eyes;
+I love to see their rays redoubled in
+The tremulous silver of Euphrates' wave,
+As the light breeze of midnight crisps the broad
+And rolling water, sighing through the sedges
+Which fringe his banks: but whether they may be
+Gods, as some say, or the abodes of Gods, 260
+As others hold, or simply lamps of night,
+Worlds--or the lights of Worlds--I know nor care not.
+There's something sweet in my uncertainty
+I would not change for your Chaldean lore;
+Besides, I know of these all clay can know
+Of aught above it, or below it--nothing.
+I see their brilliancy and feel their beauty[m]--
+When they shine on my grave I shall know neither.
+
+<i>Bel.</i> For <i>neither</i>, Sire, say <i>better</i>.<i>Sar.</i> I will wait, If it so please you, Pontiff, for that knowledge. 270 In the mean time receive your sword, and know That I prefer your service militant Unto your ministry--not loving either.
+
+<i>Sal.</i> (<i>aside</i>). His lusts have made him mad. Then must I save him, Spite of himself.
+
+<i>Sar.</i> Please you to hear me, Satraps!
+And chiefly thou, my priest, because I doubt thee
+More than the soldier; and would doubt thee all
+Wert thou not half a warrior: let us part
+In peace--I'll not say pardon--which must be
+Earned by the guilty; this I'll not pronounce ye, 280
+Although upon this breath of mine depends
+Your own; and, deadlier for ye, on my fears.
+But fear not--for that I am soft, not fearful--
+And so live on. Were I the thing some think me,
+Your heads would now be dripping the last drops
+Of their attainted gore from the high gates
+Of this our palace, into the dry dust,
+Their only portion of the coveted kingdom
+They would be crowned to reign o'er--let that pass.
+As I have said, I will not <i>deem</i> ye guilty, 290
+Nor <i>doom</i> ye guiltless. Albeit better men
+Than ye or I stand ready to arraign you;
+And should I leave your fate to sterner judges,And proofs of all kinds, I might sacrifice
+Two men, who, whatsoe'er they now are, were
+Once honest. Ye are free, sirs.
+
+<i>Arb.</i> Sire, this clemency----
+
+<i>Bel.</i> (<i>interrupting him</i>).
+Is worthy of yourself; and, although innocent,
+We thank----
+
+<i>Sar.</i> Priest! keep your thanksgivings for Belus; His offspring needs none.
+
+<i>Bel.</i> But being innocent----
+
+<i>Sar.</i> Be silent.--Guilt is loud. If ye are loyal, 300 Ye are injured men, and should be sad, not grateful.
+
+<i>Bel.</i> So we should be, were justice always done
+By earthly power omnipotent; but Innocence
+Must oft receive her right as a mere favour.
+
+<i>Sar.</i> That's a good sentence for a homily,
+Though not for this occasion. Prithee keep it
+To plead thy Sovereign's cause before his people.
+
+<i>Bel.</i> I trust there is no cause.<i>Sar.</i> No <i>cause</i>, perhaps;
+But many causers:--if ye meet with such
+In the exercise of your inquisitive function 310
+On earth, or should you read of it in heaven
+In some mysterious twinkle of the stars,
+Which are your chronicles, I pray you note,
+That there are worse things betwixt earth and heaven
+Than him who ruleth many and slays none;
+And, hating not himself, yet loves his fellows
+Enough to spare even those who would not spare him
+Were they once masters--but that's doubtful. Satraps!
+Your swords and persons are at liberty
+To use them as ye will--but from this hour 320
+I have no call for either. Salemenes!
+Follow me.
+
+[<i>Exeunt</i> SARDANAPALUS, SALEMENES, _and the Train, etc.,
+    leaving_ ARBACES <i>and</i> BELESES.
+
+<i>Arb.</i> Beleses!
+
+<i>Bel.</i> Now, what think you?
+
+<i>Arb.</i> That we are lost.
+
+<i>Bel.</i> That we have won the kingdom.

@@ -1,0 +1,2057 @@
+HOLB1	24869	4	320	80	2635	150
+39	Canto II. Brahmá’s Visit
+46	Canto III. The Argument.
+53	Canto IV. The Rhapsodists.
+58	Canto V. Ayodhyá.
+62	Canto VI. The King.
+67	Canto VII. The Ministers.
+71	Canto VIII. Sumantra’s Speech.
+75	Canto IX. Rishyasring.
+86	Canto X. Rishyasring Invited.
+92	Canto XI. The Sacrifice Decreed.
+96	Canto XII. The Sacrifice Begun.
+102	Canto XIII. The Sacrifice Finished.
+111	Canto XIV. Rávan Doomed.
+118	Canto XV. The Nectar.
+122	Canto XVI. The Vánars.
+127	Canto XVII. Rishyasring’s Return.
+134	Canto XVIII. Rishyasring’s Departure.
+138	Canto XIX. The Birth Of The Princes.
+143	Canto XX. Visvámitra’s Visit.
+147	Canto XXI. Visvámitra’s Speech.
+151	Canto XXII. Dasaratha’s Speech.
+155	Canto XXIII. Vasishtha’s Speech.
+158	Canto XXIV. The Spells.
+162	Canto XXV. The Hermitage Of Love.
+166	Canto XXVI. The Forest Of Tádaká.
+171	Canto XXVII. The Birth Of Tádaká.
+174	Canto XXVIII. The Death Of Tádaká.
+180	Canto XXIX. The Celestial Arms.
+187	Canto XXXI. The Perfect Hermitage.
+191	Canto XXXII. Visvámitra’s Sacrifice.
+195	Canto XXXIII. The Sone.
+199	Canto XXXIV. Brahmadatta.
+207	Canto XXXV. Visvámitra’s Lineage.
+211	Canto XXXVI. The Birth Of Gangá.
+215	Canto XXXIX. The Sons Of Sagar.
+219	Canto XL. The Cleaving Of The Earth.
+223	Canto XLI. Kapil.
+227	Canto XLII. Sagar’s Sacrifice.
+231	Canto XLIII. Bhagírath.
+235	Canto XLIV. The Descent Of Gangá.
+244	Canto XLV. The Quest Of The Amrit.
+252	Canto XLVI. Diti’s Hope.
+254	Canto XLVII. Sumati.
+257	Canto XLVIII. Indra And Ahalyá
+262	Canto XLIX. Ahalyá Freed.
+264	Canto L. Janak.
+268	Canto LI. Visvámitra.
+272	Canto LII. Vasishtha’s Feast.
+276	Canto LIII. Visvámitra’s Request.
+280	Canto LIV. The Battle.
+284	Canto LV. The Hermitage Burnt.
+288	Canto LVI. Visvámitra’s Vow.
+292	Canto LVII. Trisanku.
+296	Canto LVIII. Trisanku Cursed.
+300	Canto LIX. The Sons Of Vasishtha.
+304	Canto LX. Trisanku’s Ascension.
+309	Canto LXI. Sunahsepha.
+313	Canto LXII. Ambarísha’s Sacrifice.
+317	Canto LXIII. Menaká.
+322	Canto LXIV. Rambhá.
+325	Canto LXV. Visvámitra’s Triumph
+331	Canto LXVI. Janak’s Speech.
+335	Canto LXVII. The Breaking Of The Bow.
+339	Canto LXVIII. The Envoys’ Speech.
+342	Canto LXIX. Dasaratha’s Visit.
+345	Canto LXX. The Maidens Sought.
+352	Canto LXXI. Janak’s Pedigree.
+356	Canto LXXII. The Gift Of Kine.
+359	Canto LXXIII. The Nuptials.
+368	Canto LXXV. The Parle.
+373	Canto LXXVI. Debarred From Heaven.
+377	Canto LXXVII. Bharat’s Departure.
+381	Canto I. The Heir Apparent.
+387	Canto II. The People’s Speech.
+393	Canto III. Dasaratha’s Precepts.
+401	Canto IV. Ráma Summoned.
+408	Canto V. Ráma’s Fast.
+412	Canto VI. The City Decorated.
+417	Canto VII. Manthará’s Lament.
+422	Canto VIII. Manthará’s Speech.
+428	Canto IX. The Plot.
+437	Canto X. Dasaratha’s Speech.
+444	Canto XI. The Queen’s Demand.
+448	Canto XII. Dasaratha’s Lament.
+465	Canto XIII. Dasaratha’s Distress.
+468	Canto XIV. Ráma Summoned.
+478	Canto XV. The Preparations.
+486	Canto XVI. Ráma Summoned.
+493	Canto XVII. Ráma’s Approach.
+496	Canto XVIII. The Sentence.
+503	Canto XIX. Ráma’s Promise.
+510	Canto XX. Kausalyá’s Lament.
+518	Canto XXI. Kausalyá Calmed.
+528	Canto XXII. Lakshman Calmed.
+533	Canto XXIII. Lakshman’s Anger.
+540	Canto XXIV. Kausalyá Calmed.
+546	Canto XXV. Kausalyá’s Blessing.
+554	Canto XXVI. Alone With Sítá.
+560	Canto XXVII. Sítá’s Speech.
+564	Canto XXVIII. The Dangers Of The Wood.
+568	Canto XXIX. Sítá’s Appeal.
+572	Canto XXX. The Triumph Of Love.
+580	Canto XXXI. Lakshman’s Prayer.
+586	Canto XXXII. The Gift Of The Treasures.
+593	Canto XXXIII. The People’s Lament.
+598	Canto XXXIV. Ráma In The Palace.
+607	Canto XXXV. Kaikeyí Reproached.
+612	Canto XXXVI. Siddhárth’s Speech.
+617	Canto XXXVII. The Coats Of Bark.
+622	Canto XXXVIII. Care For Kausalyá
+626	Canto XXXIX. Counsel To Sítá.
+633	Canto XL. Ráma’s Departure.
+641	Canto XLI. The Citizens’ Lament.
+644	Canto XLII. Dasaratha’s Lament.
+649	Canto XLIII. Kausalyá’s Lament.
+653	Canto XLIV. Sumitrá’s Speech.
+657	Canto XLV. The Tamasá.
+663	Canto XLVI. The Halt.
+669	Canto XLVII. The Citizens’ Return.
+672	Canto XLVIII. The Women’s Lament.
+677	Canto XLIX. The Crossing Of The Rivers.
+686	Canto LI. Lakshman’s Lament.
+690	Canto LII. The Crossing Of Gangá.
+706	Canto LIII. Ráma’s Lament.
+712	Canto LIV. Bharadvája’s Hermitage.
+719	Canto LV. The Passage Of Yamuná.
+724	Canto LVI. Chitrakúta
+730	Canto LVII. Sumantra’s Return.
+735	Canto LVIII. Ráma’s Message.
+741	Canto LIX. Dasaratha’s Lament.
+747	Canto LX. Kausalyá Consoled.
+751	Canto LXI. Kausalyá’s Lament.
+755	Canto LXII. Dasaratha Consoled.
+758	Canto LXIII. The Hermit’s Son.
+766	Canto LXIV. Dasaratha’s Death.
+778	Canto LXV. The Women’s Lament.
+783	Canto LXVI. The Embalming.
+787	Canto LXVII. The Praise Of Kings.
+793	Canto LXVIII. The Envoys.
+797	Canto LXIX. Bharat’s Dream.
+801	Canto LXX. Bharat’s Departure.
+806	Canto LXXI. Bharat’s Return.
+813	Canto LXXII. Bharat’s Inquiry.
+822	Canto LXXIII. Kaikeyí Reproached.
+826	Canto LXXIV. Bharat’s Lament.
+831	Canto LXXV. The Abjuration.
+838	Canto LXXVI. The Funeral.
+842	Canto LXXVII. The Gathering Of The Ashes.
+847	Canto LXXVIII. Manthará Punished.
+851	Canto LXXIX. Bharat’s Commands.
+“Let Kuśik’s son,” they counselled, “be
+A Mighty saint by just decree.”
+His ear to hear their counsel lent
+The Sire of worlds, omnipotent.
+To him enriched by rites severe
+He spoke in accents sweet to hear:
+“Hail, Mighty Saint! dear son, all hail!
+Thy fervour wins, thy toils prevail.
+Won by thy vows and zeal intense
+I give this high preëminence.”
+He to the General Sire replied,
+Not sad, nor wholly satisfied:
+“When thou, O Brahmá, shalt declare
+The title, great beyond compare,
+Of Bráhman saint my worthy meed,
+Hard earned by many a holy deed,
+Then may I deem in sooth I hold
+Each sense of body well controlled.”
+Then Brahmá cried, “Not yet, not yet:
+Toil on awhile O Anchoret!”
+
+  Thus having said to heaven he went,
+The saint, upon his task intent,
+Began his labours to renew,
+Which sterner yet and fiercer grew.
+His arms upraised, without a rest,With but one foot the earth he pressed;
+The air his food, the hermit stood
+Still as a pillar hewn from wood.
+Around him in the summer days
+Five mighty fires combined to blaze.
+In floods of rain no veil was spread
+Save clouds, to canopy his head.
+In the dank dews both night and day
+Couched in the stream the hermit lay.
+Thus, till a thousand years had fled,
+He plied his task of penance dread.
+Then Vishṇu and the Gods with awe
+The labours of the hermit saw,
+And Śakra, in his troubled breast,
+Lord of the skies, his fear confessed.
+And brooded on a plan to spoil
+The merits of the hermit’s toil.
+Encompassed by his Gods of Storm
+He summoned Rambhá, fair of form,
+And spoke a speech for woe and weal,
+The saint to mar, the God to heal.<b>Canto LXIV. Rambhá.</b>
+
+“A great emprise, O lovely maid,
+To save the Gods, awaits thine aid:
+To bind the son of Kuśik sure,
+And take his soul with love’s sweet lure.”
+Thus order’d by the Thousand-eyed
+The suppliant nymph in fear replied:
+“O Lord of Gods, this mighty sage
+Is very fierce and swift to rage.
+I doubt not, he so dread and stern
+On me his scorching wrath will turn.
+Of this, my lord, am I afraid:
+Have mercy on a timid maid.”
+Her suppliant hands began to shake,
+When thus again Lord Indra spake:
+“O Rambhá, drive thy fears away,
+And as I bid do thou obey.
+In Koïl’s form, who takes the heart
+When trees in spring to blossom start,
+I, with Kandarpa for my friend,
+Close to thy side mine aid will lend.
+Do thou thy beauteous splendour arm
+With every grace and winsome charm,
+And from his awful rites seduce
+This Kuśik’s son, the stern recluse.”  Lord Indra ceased. The nymph obeyed:
+In all her loveliest charms arrayed,
+With winning ways and witching smile
+She sought the hermit to beguile.
+The sweet note of that tuneful bird
+The saint with ravished bosom heard,
+And on his heart a rapture passed
+As on the nymph a look he cast.
+But when he heard the bird prolong
+His sweet incomparable song,
+And saw the nymph with winning smile,
+The hermit’s heart perceived the wile.
+And straight he knew the Thousand-eyed
+A plot against his peace had tried.
+Then Kuśik’s son indignant laid
+His curse upon the heavenly maid:
+“Because thou wouldst my soul engage
+Who fight to conquer love and rage,
+Stand, till ten thousand years have flown,
+Ill-fated maid, transformed to stone.
+A Bráhman then, in glory strong,
+Mighty through penance stern and long,
+Shall free thee from thine altered shape;
+Thou from my curse shalt then escape.”
+But when the saint had cursed her so,His breast was burnt with fires of woe,
+Grieved that long effort to restrain
+His mighty wrath was all in vain.
+Cursed by the angry sage’s power,
+She stood in stone that selfsame hour.
+Kandarpa heard the words he said,
+And quickly from his presence fled.
+His fall beneath his passion’s sway
+Had reft the hermit’s meed away.
+Unconquered yet his secret foes,
+The humbled saint refused repose:
+“No more shall rage my bosom till,
+Sealed be my lips, my tongue be still.
+My very breath henceforth I hold
+Until a thousand years are told:
+Victorious o’er each erring sense,
+I’ll dry my frame with abstinence,
+Until by penance duly done
+A Bráhman’s rank be bought and won.
+For countless years, as still as death,
+I taste no food, I draw no breath,
+And as I toil my frame shall stand
+Unharmed by time’s destroying hand.”<b>Canto LXV. Visvámitra’s Triumph</b>
+
+Then from Himálaya’s heights of snow,
+The glorious saint prepared to go,
+And dwelling in the distant east
+His penance and his toil increased.
+A thousand years his lips he held
+Closed by a vow unparalleled,
+And other marvels passing thought,
+Unrivalled in the world, he wrought.
+In all the thousand years his frame
+Dry as a log of wood became.
+By many a cross and check beset,
+Rage had not stormed his bosom yet.
+With iron will that naught could bend
+He plied his labour till the end.
+So when the weary years were o’er,
+Freed from his vow so stern and sore,
+The hermit, all his penance sped,
+Sate down to eat his meal of bread.
+Then Indra, clad in Bráhman guise,
+Asked him for food with hungry eyes.
+The mighty saint, with steadfast soul,
+To the false Bráhman gave the whole,
+And when no scrap for him remained,
+Fasting and faint, from speech refrained.His silent vow he would not break:
+No breath he heaved, no word he spake,
+Then as he checked his breath, behold!
+Around his brow thick smoke-clouds rolled
+And the three worlds, as if o’erspread
+With ravening flames, were filled with dread.
+Then God and saint and bard, convened,
+And Nága lord, and snake, and fiend,
+Thus to the General Father cried,
+Distracted, sad, and terrified:
+“Against the hermit, sore assailed,
+Lure, scathe, and scorn have naught availed,
+Proof against rage and treacherous art
+He keeps his vow with constant heart.
+Now if his toils assist him naught
+To gain the boon his soul has sought,
+He through the worlds will ruin send
+That fixt and moving things shall end,
+The regions now are dark with doom,
+No friendly ray relieves the gloom.
+Each ocean foams with maddened tide,
+The shrinking hills in fear subside.
+Trembles the earth with feverous throe
+The wind in fitful tempest blows.
+No cure we see with troubled eyes:And atheist brood on earth may rise.
+The triple world is wild with care,
+Or spiritless in dull despair.
+Before that saint the sun is dim,
+His blessed light eclipsed by him.
+Now ere the saint resolve to bring
+Destruction on each living thing,
+Let us appease, while yet we may,
+Him bright as fire, like fire to slay.
+Yea, as the fiery flood of Fate
+Lays all creation desolate,
+He o’er the conquered Gods may reign:
+O, grant him what he longs to gain.”
+
+Then all the Blest, by Brahmá led,
+Approached the saint and sweetly said:
+“Hail, Bráhman Saint! for such thy place:
+Thy vows austere have won our grace.
+A Bráhman’s rank thy penance stern
+And ceaseless labour richly earn.
+I with the Gods of Storm decree
+Long life, O Bráhman Saint, to thee.
+May peace and joy thy soul possess:
+Go where thou wilt in happiness.”  Thus by the General Sire addressed,
+Joy and high triumph filled his breast.
+His head in adoration bowed,
+Thus spoke he to the Immortal crowd:
+“If I, ye Gods, have gained at last
+Both length of days and Bráhman caste,
+Grant that the high mysterious name,
+And holy Vedas, own my claim,
+And that the formula to bless
+The sacrifice, its lord confess.
+And let Vaśishṭha, who excels
+In Warriors’ art and mystic spells,
+In love of God without a peer,
+Confirm the boon you promise here.”
+
+  With Brahmá’s son Vaśishṭha, best
+Of those who pray with voice repressed,
+The Gods by earnest prayer prevailed,
+And thus his new-made friend he hailed:
+“Thy title now is sure and good
+To rights of saintly Bráhmanhood.”
+Thus spake the sage. The Gods, content,
+Back to their heavenly mansions went.
+And Viśvámitra, pious-souled,
+Among the Bráhman saints enrolled,
+On reverend Vaśishṭha pressedThe honours due to holy guest.
+Successful in his high pursuit,
+The sage, in penance resolute,
+Walked in his pilgrim wanderings o’er
+The whole broad land from shore to shore.
+’Twas thus the saint, O Raghu’s son,
+His rank among the Bráhmans won.
+Best of all hermits, Prince, is he;
+In him incarnate Penance see.
+Friend of the right, who shrinks from ill,
+Heroic powers attend him still.”
+
+  The Bráhman, versed in ancient lore,
+Thus closed his tale, and said no more,
+To Śatánanda Kuśik’s son
+Cried in delight, Well done! well done!
+Then Janak, at the tale amazed,
+Spoke thus with suppliant hands upraised:
+“High fate is mine, O Sage, I deem,
+And thanks I owe for bliss supreme,
+That thou and Raghu’s children too
+Have come my sacrifice to view.
+To look on thee with blessed eyes
+Exalts my soul and purifies.
+Yea, thus to see thee face to face
+Enriches me with store of grace.Thy holy labours wrought of old,
+And mighty penance, fully told,
+Ráma and I with great delight
+Have heard, O glorious Anchorite.
+Unrivalled thine ascetic deeds:
+Thy might, O Saint, all might exceeds.
+No thought may scan, no limit bound
+The virtues that in thee are found.
+The story of thy wondrous fate
+My thirsty ears can never sate.
+The hour of evening rites is near:
+The sun declines in swift career.
+At early dawn, O Hermit, deign
+To let me see thy face again.
+Best of ascetics, part in bliss:
+Do thou thy servant now dismiss.”
+
+  The saint approved, and glad and kind
+Dismissed the king with joyful mind
+Around the sage King Janak went
+With priests and kinsmen reverent.
+Then Viśvámitra, honoured so,
+By those high-minded, rose to go,
+And with the princes took his way
+To seek the lodging where they lay.<b>Canto LXVI. Janak’s Speech.</b>
+
+With cloudless lustre rose the sun;
+The king, his morning worship done,
+Ordered his heralds to invite
+The princes and the anchorite.
+With honour, as the laws decree,
+The monarch entertained the three.
+Then to the youths and saintly man
+Videha’s lord this speech began:
+“O blameless Saint, most welcome thou!
+If I may please thee tell me how.
+Speak, mighty lord, whom all revere,
+’Tis thine to order, mine to hear.”
+
+  Thus he on mighty thoughts intent;
+Then thus the sage most eloquent:
+“King Daśaratha’s sons, this pair
+Of warriors famous everywhere,
+Are come that best of bows to see
+That lies a treasure stored by thee.
+This, mighty Janak, deign to show,
+That they may look upon the bow,
+And then, contented, homeward go.”
+Then royal Janak spoke in turn:
+“O best of Saints, the story learnWhy this famed bow, a noble prize,
+A treasure in my palace lies.
+A monarch, Devarát by name,
+Who sixth from ancient Nimi came,
+Held it as ruler of the land,
+A pledge in his successive hand.
+This bow the mighty Rudra bore
+At Daksha’s(245) sacrifice of yore,
+When carnage of the Immortals stained
+The rite that Daksha had ordained.
+Then as the Gods sore wounded fled,
+Victorious Rudra, mocking, said:
+“Because, O Gods, ye gave me naught
+When I my rightful portion sought,
+Your dearest parts I will not spare,
+But with my bow your frames will tear.”
+
+  The Sons of Heaven, in wild alarm,
+Soft flatteries tried his rage to charm.
+Then Bhava, Lord whom Gods adore,
+Grew kind and friendly as before,
+And every torn and mangled limb
+Was safe and sound restored by him.
+Thenceforth this bow, the gem of bows,
+That freed the God of Gods from foes,
+Stored by our great forefathers layA treasure and a pride for aye.
+Once, as it chanced, I ploughed the ground,
+When sudden, ’neath the share was found
+An infant springing from the earth,
+Named Sítá from her secret birth.(246)
+In strength and grace the maiden grew,
+My cherished daughter, fair to view.
+I vowed her, of no mortal birth,
+Meet prize for noblest hero’s worth.
+In strength and grace the maiden grew,
+And many a monarch came to woo.
+To all the princely suitors I
+Gave, mighty Saint, the same reply:
+“I give not thus my daughter, she
+Prize of heroic worth shall be.(247)
+To Míthilá the suitors pressed
+Their power and might to manifest.
+To all who came with hearts aglow
+I offered Śiva’s wondrous bow.
+Not one of all the royal band
+Could raise or take the bow in hand.
+The suitors’ puny might I spurned,
+And back the feeble princes turned.
+Enraged thereat, the warriors met,
+With force combined my town beset.Stung to the heart with scorn and shame,
+With war and threats they madly came,
+Besieged my peaceful walls, and long
+To Míthilá did grievous wrong.
+There, wasting all, a year they lay,
+And brought my treasures to decay,
+Filling my soul, O Hermit chief,
+With bitter woe and hopeless grief.
+At last by long-wrought penance I
+Won favour with the Gods on high,
+Who with my labours well content
+A four-fold host to aid me sent.
+Then swift the baffled heroes fled
+To all the winds discomfited—
+Wrong-doers, with their lords and host,
+And all their valour’s idle boast.
+This heavenly bow, exceeding bright,
+These youths shall see, O Anchorite.
+Then if young Ráma’s hand can string
+The bow that baffled lord and king,
+To him I give, as I have sworn,
+My Sítá, not of woman born.”<b>Canto LXVII. The Breaking Of The Bow.</b>
+
+Then spoke again the great recluse:
+“This mighty bow, O King, produce.”
+King Janak, at the saint’s request,
+This order to his train addressed:
+“Let the great bow be hither borne,
+Which flowery wreaths and scents adorn.”
+Soon as the monarch’s words were said,
+His servants to the city sped,
+Five thousand youths in number, all
+Of manly strength and stature tall,
+The ponderous eight-wheeled chest that held
+The heavenly bow, with toil propelled.
+At length they brought that iron chest,
+And thus the godlike king addressed:
+“This best of bows, O lord, we bring,
+Respected by each chief and king,
+And place it for these youths to see,
+If, Sovereign, such thy pleasure be.”
+
+  With suppliant palm to palm applied
+King Janak to the strangers cried:
+“This gem of bows, O Bráhman Sage,
+Our race has prized from age to age,
+Too strong for those who yet have reigned,Though great in might each nerve they strained.
+Titan and fiend its strength defies,
+God, spirit, minstrel of the skies.
+And bard above and snake below
+Are baffled by this glorious bow.
+Then how may human prowess hope
+With such a bow as this to cope?
+What man with valour’s choicest gift
+This bow can draw, or string, or lift?
+Yet let the princes, holy Seer,
+Behold it: it is present here.”
+
+  Then spoke the hermit pious-souled:
+“Ráma, dear son, the bow behold.”
+Then Ráma at his word unclosed
+The chest wherein its might reposed,
+Thus crying, as he viewed it: “Lo!
+I lay mine hand upon the bow:
+May happy luck my hope attend
+Its heavenly strength to lift or bend.”
+“Good luck be thine,” the hermit cried:
+“Assay the task!” the king replied.
+Then Raghu’s son, as if in sport,
+Before the thousands of the court,
+The weapon by the middle raised
+That all the crowd in wonder gazed.With steady arm the string he drew
+Till burst the mighty bow in two.
+As snapped the bow, an awful clang,
+Loud as the shriek of tempests, rang.
+The earth, affrighted, shook amain
+As when a hill is rent in twain.
+Then, senseless at the fearful sound,
+The people fell upon the ground:
+None save the king, the princely pair,
+And the great saint, the shock could bear.
+
+  When woke to sense the stricken train,
+And Janak’s soul was calm again,
+With suppliant hands and reverent head,
+These words, most eloquent, he said:
+“O Saint, Prince Ráma stands alone:
+His peerless might he well has shown.
+A marvel has the hero wrought
+Beyond belief, surpassing thought.
+My child, to royal Ráma wed,
+New glory on our line will shed:
+And true my promise will remain
+That hero’s worth the bride should gain.
+Dearer to me than light and life,
+My Sítá shall be Ráma’s wife.
+If thou, O Bráhman, leave concede,My counsellors, with eager speed,
+Borne in their flying cars, to fair
+Ayodhyá’s town the news shall bear,
+With courteous message to entreat
+The king to grace my royal seat.
+This to the monarch shall they tell,
+The bride is his who won her well:
+And his two sons are resting here
+Protected by the holy seer.
+So, at his pleasure, let them lead
+The sovereign to my town with speed.”
+
+  The hermit to his prayer inclined
+And Janak, lord of virtuous mind,
+With charges, to Ayodhyá sent
+His ministers: and forth they went.<b>Canto LXVIII. The Envoys’ Speech.</b>
+
+Three nights upon the road they passed
+To rest the steeds that bore them fast,
+And reached Ayodhyá’s town at last.
+Then straight at Daśaratha’s call
+They stood within the royal hall,
+Where, like a God, inspiring awe,
+The venerable king they saw.
+With suppliant palm to palm applied,
+And all their terror laid aside,
+They spoke to him upon the throne
+With modest words, in gentle tone:
+“Janak, Videha’s king, O Sire,
+Has sent us hither to inquire
+The health of thee his friend most dear,
+Of all thy priests and every peer.
+Next Kuśik’s son consenting, thus
+King Janak speaks, dread liege, by us:
+“I made a promise and decree
+That valour’s prize my child should be.
+Kings, worthless found in worth’s assay,
+With mien dejected turned away.
+Thy sons, by Viśvámitra led,
+Unurged, my city visited,
+And peerless in their might have gainedMy daughter, as my vow ordained.
+Full in a vast assembly’s view
+Thy hero Ráma broke in two
+The gem of bows, of monstrous size,
+That came a treasure from the skies.
+Ordained the prize of hero’s might,
+Sítá my child is his by right.
+Fain would I keep my promise made,
+If thou, O King, approve and aid.
+Come to my town thy son to see:
+Bring holy guide and priest with thee.
+O lord of kings, my suit allow,
+And let me keep my promised vow.
+So joying for thy children’s sake
+Their triumph too shalt thou partake,
+With Viśvámitra’s high consent.”
+Such words with friendship eloquent
+Spoke Janak, fair Videha’s king,
+By Śatánanda’s counselling.”
+
+  The envoys thus the king addressed,
+And mighty joy his heart possessed.
+To Vámadeva quick he cried,
+Vaśishṭha, and his lords beside:
+“Lakshmaṇ, and he, my princely boy
+Who fills Kauśalyá’s soul with joy,By Viśvámitra guarded well
+Among the good Videhans dwell.
+Their ruler Janak, prompt to own
+The peerless might my child has shown,
+To him would knit in holy ties
+His daughter, valour’s lovely prize.
+If Janak’s plan seem good to you,
+Come, speed we to his city too,
+Nor let occasion idly by.”
+
+  He ceased. There came a glad reply
+From priest and mighty saint and all
+The councillors who thronged the hall.
+Then cried the king with joyous heart:
+“To-morrow let us all depart.”
+
+  That night the envoys entertained
+With honour and all care remained.<b>Canto LXIX. Dasaratha’s Visit.</b>
+
+Soon as the shades of night had fled,
+Thus to the wise Sumantra said
+The happy king, while priest and peer,
+Each in his place, were standing near:
+“Let all my treasurers to-day,
+Set foremost in the long array,
+With gold and precious gems supplied
+In bounteous store, together ride.
+And send you out a mighty force,
+Foot, chariot, elephant, and horse.
+Besides, let many a car of state,
+And noblest steeds, my will await.
+Vaśishṭha, Vámadeva sage,
+And Márkaṇdeya’s reverend age,
+Jáváli, Kaśyap’s godlike seed,
+And wise Kátyáyana, shall lead.
+Thy care, Sumantra, let it be
+To yoke a chariot now for me,
+That so we part without delay:
+These envoys hasten me away.”
+
+  So fared he forth. That host, with speed,
+Quadruple, as the king decreed,
+With priests to head the bright array,Followed the monarch on his way.
+Four days they travelled on the road,
+And eve Videha’s kingdom showed.
+Janak had left his royal seat
+The venerable king to greet,
+And, noblest, with these words addressed
+That noblest lord, his happy guest:
+“Hail, best of kings: a blessed fate
+Has led thee, Monarch, to my state.
+Thy sons, supreme in high emprise,
+Will gladden now their father’s eyes.
+And high my fate, that hither leads
+Vaśishṭha, bright with holy deeds,
+Girt with these sages far-renowned,
+Like Indra with the Gods around.
+Joy! joy! for vanquished are my foes:
+Joy! for my house in glory grows,
+With Raghu’s noblest sons allied,
+Supreme in strength and valour’s pride.
+To-morrow with its early light
+Will shine on my completed rite.
+Then, sanctioned by the saints and thee,
+The marriage of thy Ráma see.”
+
+  Then Daśaratha, best of those
+Whose speech in graceful order flows,With gathered saints on every side,
+Thus to the lord of earth replied:
+“A truth is this I long have known,
+A favour is the giver’s own.
+What thou shalt bid, O good and true,
+We, as our power permits, will do.”
+
+  That answer of the truthful lord,
+With virtuous worth and honour stored,
+Janak, Videha’s noble king,
+Heard gladly, greatly marvelling.
+With bosoms filled with pleasure met
+Long-parted saint and anchoret,
+And linked in friendship’s tie they spent
+The peaceful night in great content.
+
+  Ráma and Lakshmaṇ thither sped,
+By sainted Viśvámitra led,
+And bent in filial love to greet
+Their father, and embraced his feet.
+The aged king, rejoiced to hear
+And see again his children dear,
+Honoured by Janak’s thoughtful care,
+With great enjoyment rested there.
+King Janak, with attentive heed,
+Consulted first his daughters’ need,And ordered all to speed the rite;
+Then rested also for the night.
+
+<b>Canto LXX. The Maidens Sought.</b>
+
+Then with the morn’s returning sun.
+King Janak, when his rites were done,
+Skilled all the charms of speech to know,
+Spoke to wise Śatánanda so:
+“My brother, lord of glorious fame,
+My younger, Kuśadhwaj by name,
+Whose virtuous life has won renown,
+Has settled in a lovely town,
+Sánkáśyá, decked with grace divine,
+Whose glories bright as Pushpak’s shine,
+While Ikshumatí rolls her wave
+Her lofty rampart’s foot to lave.
+Him, holy priest, I long to see:
+The guardian of my rite is he:
+That my dear brother may not miss
+A share of mine expected bliss.”
+
+  Thus in the presence of the priest
+The royal Janak spoke, and ceased.
+Then came his henchmen, prompt and brave,
+To whom his charge the monarch gave.Soon as they heard his will, in haste
+With fleetest steeds away they raced,
+To lead with them that lord of kings,
+As Indra’s call Lord Vishṇu brings.
+Sánkáśyá’s walls they duly gained,
+And audience of the king obtained.
+To him they told the news they brought
+Of marvels past and Janak’s thought.
+Soon as the king the story knew
+From those good envoys swift and true,
+To Janak’s wish he gave assent,
+And swift to Míthilá he went.
+He paid to Janak reverence due,
+And holy Śatánanda too,
+Then sate him on a glorious seat
+For kings or Gods celestial meet.
+Soon as the brothers, noble pair
+Peerless in might, were seated there,
+They gave the wise Sudáman, best
+Of councillors, their high behest:
+“Go, noble councillor,” they cried,
+“And hither to our presence guide
+Ikshváku’s son, Ayodhyá’s lord,
+Invincible by foeman’s sword,
+With both his sons, each holy seer,And every minister and peer.”
+Sudáman to the palace flew,
+And saw the mighty king who threw
+Splendour on Raghu’s splendid race,
+Then bowed his head with seemly grace:
+“O King, whose hand Ayodhyá sways,
+My lord, whom Míthilá obeys,
+Yearns with desire, if thou agree,
+Thee with thy guide and priest to see.”
+Soon as the councillor had ceased,
+The king, with saint and peer and priest,
+Sought, speeding through the palace gate,
+The hall where Janak held his state.
+There, with his nobles round him spread,
+Thus to Videha’s lord be said:
+“Thou knowest, King, whose aid divine
+Protects Ikshváku’s royal line.
+In every need, whate’er befall,
+The saint Vaśishṭha speaks for all.
+If Viśvámitra so allow,
+And all the saints around me now,
+The sage will speak, at my desire,
+As order and the truth require.”
+
+  Soon as the king his lips had stilled,
+Up rose Vaśishṭha, speaker skilled.And to Videha’s lord began
+In flowing words that holy man:
+“From viewless Nature Brahmá rose,
+No change, no end, no waste he knows.
+A son had he Maríchi styled,
+And Kaśyap was Maríchi’s child.
+From him Vivasvat sprang: from him
+Manu whose fame shall ne’er be dim.
+Manu, who life to mortals gave,
+Begot Ikshváku good and brave.
+First of Ayodhyá’s kings was he,
+Pride of her famous dynasty.
+From him the glorious Kukshi sprang,
+Whose fame through all the regions rang.
+Rival of Kukshi’s ancient fame,
+His heir, the great Vikukshi, came,
+His son was Váṇa, lord of might;
+His Anaraṇya, strong to fight.
+His son was Prithu, glorious name;
+From him the good Triśanku came.
+He left a son renowned afar,
+Known by the name of Dhundhumár.
+His son, who drove the mighty car,
+Was Yuvanáśva, feared in war.
+He passed away. Him followed thenHis son Mándhátá, king of men.
+His son was blest in high emprise,
+Susandhi, fortunate and wise.
+Two noble sons had he, to wit
+Dhruvasandhi and Prasenajit.
+Bharat was Dhruvasandhi’s son,
+And glorious fame that monarch won.
+The warrior Asit he begot.
+Asit had warfare, fierce and hot,
+With rival kings in many a spot,
+Haihayas, Tálajanghas styled,
+And Śaśivindus, strong and wild.
+Long time he strove, but forced to yield
+Fled from his kingdom and the field.
+With his two wives away he fled
+Where high Himálaya lifts his head,
+And, all his wealth and glory past,
+He paid the dues of Fate at last.
+The wives he left had both conceived—
+So is the ancient tale believed—
+One, of her rival’s hopes afraid
+Fell poison in her viands laid.
+It chanced that Chyavan, Bhrigu’s child,
+Had wandered to that pathless wild,
+And there Himálaya’s lovely heightDetained him with a strange delight.
+There came the other widowed queen,
+With lotus eyes and beauteous mien,
+Longing a noble son to bear,
+And wooed the saint with earnest prayer.
+When thus Kálindi,(248) fairest dame,
+With reverent supplication came,
+To her the holy sage replied:
+“Born with the poison from thy side,
+O happy Queen, shall spring ere long
+An infant fortunate and strong.
+Then weep no more, and check thy sighs,
+Sweet lady of the lotus eyes.”
+The queen, who loved her perished lord,
+For meet reply, the saint adored,
+And, of her husband long bereaved,
+She bore a son by him conceived.
+Because her rival mixed the bane
+To render her conception vain,
+And fruit unripened to destroy,
+Sagar(249) she called her darling boy.
+To Sagar Asamanj was heir:
+Bright Anśumán his consort bare.
+Anśumán’s son, Dilípa famed,
+Begot a son Bhagírath named.From him the great Kakutstha rose:
+From him came Raghu, feared by foes,
+Of him sprang Purushádak bold,
+Fierce hero of gigantic mould:
+Kalmáshapáda’s name he bore,
+Because his feet were spotted o’er.(250)
+From him came Śankaṇ, and from him
+Sudarśan, fair in face and limb.
+From beautiful Sudarśan came
+Prince Agnivarṇa, bright as flame.
+His son was Śíghraga, for speed
+Unmatched; and Maru was his seed.
+Praśuśruka was Maru’s child;
+His son was Ambarísha styled.
+Nahush was Ambarísha’s heir,
+The mighty lord of regions fair:
+Nahush begot Yayáti: he,
+Nábhág of happy destiny.
+Son of Nábhág was Aja: his,
+The glorious Daśaratha is,
+Whose noble children boast to be
+Ráma and Lakshmaṇ, whom we see.
+Thus do those kings of purest race
+Their lineage from Ikshváku trace:
+Their hero lives the right maintained,Their lips with falsehood ne’er were stained.
+In Ráma’s and in Lakshmaṇ’s name
+Thy daughters as their wives I claim,
+So shall in equal bands be tied
+Each peerless youth with peerless bride.”
+
+<b>Canto LXXI. Janak’s Pedigree.</b>
+
+Then to the saint supremely wise
+King Janak spoke in suppliant guise:
+“Deign, Hermit, with attentive ear,
+Mv race’s origin to hear.
+When kings a daughter’s hand bestow,
+’Tis right their line and fame to show.
+There was a king whose deeds and worth
+Spread wide his name through heaven and earth,
+Nimi, most virtuous e’en from youth,
+The best of all who love the truth.
+His son and heir was Mithi, and
+His Janak, first who ruled this land.
+He left a son Udávasu,
+Blest with all virtues, good and true.
+His son was Nandivardhan, dear
+For pious heart and worth sincere.
+His son Suketu, hero brave,
+To Devarát, existence gave.King Devarát, a royal sage,
+For virtue, glory of the age,
+Begot Vrihadratha; and he
+Begot, his worthy heir to be,
+The splendid hero Mahábír
+Who long in glory governed here.
+His son was Sudhriti, a youth
+Firm in his purpose, brave in sooth,
+His son was Dhrisṭaketu, blest
+With pious will and holy breast.
+The fame of royal saint he won:
+Haryaśva was his princely son.
+Haryaśva’s son was Maru, who
+Begot Pratíndhak, wise and true.
+Next Kírtiratha held the throne,
+His son, for gentle virtues known.
+Then followed Devamidha, then
+Vibudh, Mahándhrak, kings of men.
+Mahándhrak’s son, of boundless might,
+Was Kírtirát, who loved the right.
+He passed away, a sainted king,
+And Maháromá following
+To Swarṇaromá left the state.
+Then Hraśvaromá, good and great,
+Succeeded, and to him a pairOf sons his royal consort bare,
+Elder of these I boast to be:
+Brave Kuśadhwaj is next to me.(251)
+Me then, the elder of the twain,
+My sire anointed here to reign.
+He bade me tend my brother well,
+Then to the forest went to dwell.
+He sought the heavens, and I sustained
+The burden as by law ordained,
+And noble Kuśadhwaj, the peer
+Of Gods, I ever held most dear.
+Then came Sánkáśyá’s mighty lord,
+Sudhanvá, threatening siege and sword,
+And bade me swift on him bestow
+Śiva’s incomparable bow,
+And Sítá of the lotus eyes:
+But I refused each peerless prize.
+Then, host to host, we met the foes,
+And fierce the din of battle rose,
+Sudhanvá, foremost of his band,
+Fell smitten by my single hand.
+When thus Sánkáśyá’s lord was slain,
+I sanctified, as laws ordain,
+My brother in his stead to reign,
+Thus are we brothers, Saint most highThe younger he, the elder I.
+Now, mighty Sage, my spirit joys
+To give these maidens to the boys.
+Let Sítá be to Ráma tied.
+And Urmilá be Lakshmaṇ’s bride.
+First give, O King, the gift of cows,
+As dowry of each royal spouse,
+Due offerings to the spirits pay,
+And solemnize the wedding-day.
+The moon tonight, O royal Sage,
+In Maghá’s(252) House takes harbourage;
+On the third night his rays benign
+In second Phálguni(253) will shine:
+Be that the day, with prosperous fate,
+The nuptial rites to celebrate.”<b>Canto LXXII. The Gift Of Kine.</b>
+
+When royal Janak’s words were done,
+Joined with Vaśishṭha Kuśik’s son,
+The mighty sage began his speech:
+“No mind may soar, no thought can reach
+The glories of Ikshváku’s line,
+Or, great Videha’s King, of thine:
+None in the whole wide world may vie
+With them in fame and honours high.
+Well matched, I ween, in holy bands,
+These peerless pairs will join their hands.
+But hear me as I speak once more;
+Thy brother, skilled in duty’s lore,
+Has at his home a royal pair
+Of daughters most divinely fair.
+I for the hands of these sweet two
+For Bharat and Śatrughna sue,
+Both princes of heroic mould,
+Wise, fair of form, and lofty-souled.
+All Daśaratha’s sons, I ween,
+Own each young grace of form and mien:
+Brave as the Gods are they, nor yield
+To the great Lords the worlds who shield.
+By these, good Prince of merits high,
+Ikshváku’s house with thine ally.”  The suit the holy sage preferred,
+With willing ear the monarch heard:
+Vaśishṭha’s lips the counsel praised:
+Then spake the king with hands upraised:
+“Now blest indeed my race I deem,
+Which your high will, O Saints supreme,
+With Daśaratha’s house unites
+In bonds of love and marriage rites.
+So be it done. My nieces twain
+Let Bharat and Śatrughna gain,
+And the four youths the selfsame day
+Four maiden hands in theirs shall lay.
+No day so lucky may compare,
+For marriage—so the wise declare—
+With the last day of Phálguni
+Ruled by the genial deity.”
+Then with raised hands in reverence due
+To those arch-saints he spoke anew:
+“I am your pupil, ever true:
+To me high favour have ye shown;
+Come, sit ye on my royal throne,
+For Daśaratha rules these towers
+E’en as Ayodhyá now is ours.
+Do with your own whate’er ye choose:
+Your lordship here will none refuse.”  He spoke, and to Videha’s king
+Thus Daśaratha, answering:
+“Boundless your virtues, lords, whose sway
+The realms of Mithilá obey.
+With honouring care you entertain.
+Both holy sage and royal train.
+Now to my house my steps I bend—
+May blessings still on you at end—
+Due offerings to the shades to pay.”
+Thus spoke the king, and turned away:
+To Janak first he bade adieu,
+Then followed fast those holy two.
+The monarch reached his palace where
+The rites were paid with solemn care.
+When the next sun began to shine
+He rose and made his gift of kine.
+A hundred thousand cows prepared
+For each young prince the Bráhmans shared.
+Each had her horns adorned with gold;
+And duly was the number told,
+Four hundred thousand perfect tale:
+Each brought a calf, each filled a pail.
+And when that glorious task was o’er,
+The monarch with his children four,
+Showed like the Lord of Life divine
+When the worlds’ guardians round him shine.<b>Canto LXXIII. The Nuptials.</b>
+
+On that same day that saw the king
+His gift of kine distributing,
+The lord of Kekaya’s son, by name
+Yudhájit, Bharat’s uncle, came,
+Asked of the monarch’s health, and then
+Addressed the reverend king of men:
+“The lord of Kekaya’s realm by me
+Sends greeting, noble King, to thee:
+Asks if the friends thy prayers would bless
+Uninterrupted health possess.
+Right anxious, mighty King, is he
+My sister’s princely boy to see.
+For this I sought Ayodhyá fair
+The message of my sire to bear.
+There learning, O my liege, that thou
+With sons and noble kinsmen now
+Wast resting here, I sought the place
+Longing to see my nephew’s face.”
+The king with kind observance cheered
+His friend by tender ties endeared,
+And every choicest honour pressed
+Upon his honourable guest.  That night with all his children spent,
+At morn King Daśaratha went,
+Behind Vaśishṭha and the rest,
+To the fair ground for rites addressed.
+Then when the lucky hour was nigh
+Called Victory, of omen high,
+Came Ráma, after vow and prayer
+For nuptial bliss and fortune fair,
+With the three youths in bright attire,
+And stood beside his royal sire.
+To Janak then Vaśishṭha sped,
+And to Videha’s monarch said:
+“O King, Ayodhyá’s ruler now
+Has breathed the prayer and vowed the vow,
+And with his sons expecting stands
+The giver of the maidens’ hands.
+The giver and the taker both
+Must ratify a mutual oath.
+Perform the part for which we wait,
+And rites of marriage celebrate.”
+
+  Skilled in the laws which Scriptures teach,
+He answered thus Vaśishṭha’s speech:
+“O Saint, what warder bars the gate?
+Whose bidding can the king await?
+In one’s own house what doubt is shown?This kingdom, Sage, is all thine own.
+E’en now the maidens may be found
+Within the sacrificial ground:
+Each vow is vowed and prayed each prayer,
+And they, like fire, are shining there.
+Here by the shrine my place I took
+Expecting thee with eager look,
+No bar the nuptial rites should stay:
+What cause have we for more delay?”
+When Janak’s speech the monarch heard,
+To sons and saints he gave the word,
+And set them in the holy ring,
+Then to Vaśishṭha spoke the king
+Of Mithilá: “O mighty Sage,
+Now let this task thy care engage,
+And lend thine aid and counsel wise
+The nuptial rites to solemnize.”
+
+  The saint Vaśishṭha gave assent,
+And quickly to the task he went,
+With Viśvámitra, nothing loth,
+And Śatánanda aiding both.
+Then, as the rules prescribe, they made
+An altar in the midst, and laid
+Fresh wreaths of fragrant flowers thereon.
+The golden ladles round it shone;And many a vase, which branches hid
+Fixed in the perforated lid,
+And sprays, and cups, and censers there
+Stood filled with incense rich and rare;
+Shell-bowls, and spoons, and salvers dressed
+With gifts that greet the honoured guest;
+Piles of parched rice some dishes bore,
+Others with corn prepared ran o’er;
+And holy grass was duly spread
+In equal lengths, while prayers were said.
+Next chief of saints, Vaśishṭha came
+And laid the offering in the flame.
+Then by the hand King Janak drew
+His Sítá, beautiful to view,
+And placed her, bright in rich attire,
+Ráma to face, before the fire,
+Thus speaking to the royal boy
+Who filled Kauśalyá’s heart with joy:
+“Here Sítá stands, my daughter fair,
+The duties of thy life to share.
+Take from her father, take thy bride;
+Join hand to hand, and bliss betide!
+A faithful wife, most blest is she,
+And as thy shade will follow thee.”  Thus as he spoke the monarch threw
+O’er her young limbs the holy dew,
+While Gods and saints were heard to swell
+The joyous cry, ’Tis well! ’Tis well!
+His daughter Sítá thus bestowed,
+O’er whom the sacred drops had flowed.
+King Janak’s heart with rapture glowed.
+Then to Prince Lakshmaṇ thus he cried:
+“Take Urmilá thine offered bride,
+And clasp her hand within thine own
+Ere yet the lucky hour be flown.”
+Then to Prince Bharat thus cried he;
+“Come, take the hand of Mándavi.”
+Then to Śatrughna: “In thy grasp
+The hand of Srutakírti clasp.
+Now, Raghu’s sons, may all of you
+Be gentle to your wives and true;
+Keep well the vows you make to-day,
+Nor let occasion slip away.”
+
+  King Janak’s word the youths obeyed;
+The maidens’ hands in theirs they laid.
+Then with their brides the princes went
+With ordered steps and reverent
+Round both the fire and Janak, round
+The sages and the sacred ground.  A flowery flood of lucid dyes
+In rain descended from the skies,
+While with celestial voices blent
+Sweet strains from many an instrument,
+And the nymphs danced in joyous throng
+Responsive to the minstrel’s song.
+Such signs of exultation they
+Saw on the princes’ wedding day.
+Still rang the heavenly music’s sound
+When Raghu’s sons thrice circled round
+The fire, each one with reverent head,
+And homeward then their brides they led.
+They to the sumptuous palace hied
+That Janak’s care had seen supplied.
+The monarch girt with saint and peer
+Still fondly gazing followed near.
+
+Canto LXXIV. Ráma With The Axe.(254)
+
+Soon as the night had reached its close
+The hermit Viśvámitra rose;
+To both the kings he bade adieu
+And to the northern hill withdrew.
+Ayodhyá’s lord of high renown
+Received farewell, and sought his town.
+Then as each daughter left her bowerKing Janak gave a splendid dower,
+Rugs, precious silks, a warrior force,
+Cars, elephants, and foot, and horse,
+Divine to see and well arrayed;
+And many a skilful tiring-maid,
+And many a young and trusty slave
+The father of the ladies gave.
+Silver and coral, gold and pearls
+He gave to his beloved girls.
+These precious gifts the king bestowed
+And sped his guest upon his road.
+The lord of Mithilá’s sweet town
+Rode to his court and lighted down.
+Ayodhyá’s monarch, glad and gay,
+Led by the seers pursued his way
+With his dear sons of lofty mind:
+The royal army marched behind.
+As on he fared the voice he heard
+Around of many a dismal bird,
+And every beast in wild affright
+Began to hurry to the right.
+The monarch to Vaśishṭha cried:
+“What strange misfortune will betide?
+Why do the beasts in terror fly,
+And birds of evil omen cry?What is it shakes my heart with dread?
+Why is my soul disquieted?”
+
+  Soon as he heard, the mighty saint
+Thus answered Daśaratha’s plaint
+In sweetest tone: “Now, Monarch, mark,
+And learn from me the meaning dark.
+The voices of the birds of air
+Great peril to the host declare:
+The moving beasts the dread allay,
+So drive thy whelming fear away,”
+
+  As he and Daśaratha spoke
+A tempest from the welkin broke,
+That shook the spacious earth amain
+And hurled high trees upon the plain.
+The sun grew dark with murky cloud,
+And o’er the skies was cast a shroud,
+While o’er the army, faint with dread,
+A veil of dust and ashes spread.
+King, princes, saints their sense retained,
+Fear-stupefied the rest remained.
+At length, their wits returning, all
+Beneath the gloom and ashy pall
+Saw Jamadagni’s son with dread,
+His long hair twisted round his head,Who, sprung from Bhrigu, loved to beat
+The proudest kings beneath his feet.
+Firm as Kailása’s hill he showed,
+Fierce as the fire of doom he glowed.
+His axe upon his shoulder lay,
+His bow was ready for the fray,
+With thirsty arrows wont to fly
+Like Lightnings from the angry sky.
+A long keen arrow forth he drew,
+Invincible like those which flew
+From Śiva’s ever-conquering bow
+And Tripura in death laid low.
+
+  When his wild form, that struck with awe,
+Fearful as ravening flame, they saw,
+Vaśishṭha and the saints whose care
+Was sacrifice and muttered prayer,
+Drew close together, each to each,
+And questioned thus with bated speech:
+“Indignant at his father’s fate
+Will he on warriors vent his hate,
+The slayers of his father slay,
+And sweep the loathed race away?
+But when of old his fury raged
+Seas of their blood his wrath assuaged:
+So doubtless now he has not plannedTo slay all warriors in the land.”
+
+  Then with a gift the saints drew near
+To Bhrigu’s son whose look was fear,
+And Ráma! Ráma! soft they cried.
+The gift he took, no word replied.
+Then Bhrigu’s son his silence broke
+And thus to Ráma Ráma spoke:
+
+<b>Canto LXXV. The Parle.</b>
+
+“Heroic Ráma, men proclaim
+The marvels of thy matchless fame,
+And I from loud-voiced rumour know
+The exploit of the broken bow,
+Yea, bent and broken, mighty Chief,
+A feat most wondrous, past belief.
+Stirred by thy fame thy face I sought:
+A peerless bow I too have brought.
+This mighty weapon, strong and dire,
+Great Jamadagni owned, my sire.
+Draw with its shaft my father’s bow,
+And thus thy might, O Ráma, show.
+This proof of prowess let me see—
+The weapon bent and drawn by thee;
+Then single fight our strength shall try,And this shall raise thy glory high.”
+
+  King Daśaratha heard with dread
+The boastful speech, and thus he said;
+Raising his hands in suppliant guise,
+With pallid cheek and timid eyes:
+“Forgetful of the bloody feud
+Ascetic toils hast thou pursued;
+Then, Bráhman, let thy children be
+Untroubled and from danger free.
+Sprung of the race of Bhrigu, who
+Read holy lore, to vows most true,
+Thou swarest to the Thousand-eyed
+And thy fierce axe was cast aside.
+Thou turnedst to thy rites away
+Leaving the earth to Kaśyap’s sway,
+And wentest far a grove to seek
+Beneath Mahendra’s(255) mountain peak.
+Now, mighty Hermit, art thou here
+To slay us all with doom severe?
+For if alone my Ráma fall,
+We share his fate and perish all.”
+
+  As thus the aged sire complained
+The mighty chief no answer deigned.
+To Ráma only thus he cried:“Two bows, the Heavenly Artist’s pride,
+Celestial, peerless, vast, and strong,
+By all the worlds were honoured long.
+One to the Three-eyed God(256) was given,
+By glory to the conflict driven,
+Thus armed fierce Tripura he slew:
+And then by thee ’twas burst in two.
+The second bow, which few may brave,
+The highest Gods to Vishṇu gave.
+This bow I hold; before it fall
+The foeman’s fenced tower and wall.
+Then prayed the Gods the Sire Most High
+By some unerring proof to try
+Were praise for might Lord Vishṇu’s due,
+Or his whose Neck is stained with Blue.(257)
+The mighty Sire their wishes knew,
+And he whose lips are ever true
+Caused the two Gods to meet as foes.
+Then fierce the rage of battle rose:
+Bristled in dread each starting hair
+As Śiva strove with Vishṇu there.
+But Vishṇu raised his voice amain.
+And Śiva’s bowstring twanged in vain;
+Its master of the Three bright Eyes
+Stood fixt in fury and surprise.Then all the dwellers in the sky,
+Minstrel, and saint, and God drew nigh,
+And prayed them that the strife might cease,
+And the great rivals met in peace.
+’Twas seen how Śiva’s bow has failed
+Unnerved, when Vishṇu’s might assailed,
+And Gods and heavenly sages thence
+To Vishnu gave preëminence.
+Then glorious Śiva in his rage
+Gave it to Devarát the sage
+Who ruled Videha’s fertile land,
+To pass it down from hand to hand.
+But this my bow, whose shafts smite down
+The foeman’s fenced tower and town,
+To great Richíka Vishṇu lent
+To be a pledge and ornament,
+Then Jamadagni, Bráhman dread,
+My sire, the bow inherited.
+But Arjun stooped to treachery vile
+And slew my noble sire by guile,
+Whose penance awful strength had gained,
+Whose hand the God-given bow retained.
+I heard indignant how he fell
+By mournful fate, too sad to tell.
+My vengeful fury since that timeScourges all Warriors for the crime.
+As generations spring to life
+I war them down in endless strife.
+All earth I brought beneath my sway,
+And gave it for his meed and pay
+To holy Kaśyap, when of yore
+The rites performed by him were o’er.
+Then to Mahendra’s hill I turned
+Strong in the strength that penance earned,
+And toiled upon his lofty head
+By Gods immortal visited.
+The breaking of the bow I knew
+From startled Gods conversing, through
+The airy regions, of thy deed,
+And hither came with swiftest speed.
+Now, for thy Warrior’s honour sake,
+This best of bows, O Ráma, take:
+This, owned by Vishṇu’s self of old,
+My sire and grandsire loved to hold.
+Drawn to its head upon the string,
+One town-destroying arrow bring;
+If this thou can, O hero, I
+In single fight thy strength will try.”<b>Canto LXXVI. Debarred From Heaven.</b>
+
+The haughty challenge, undeterred
+The son of Daśaratha heard,
+And cried, while reverence for his sire
+Checked the full torrent of his ire:
+“Before this day have I been told
+The deed that stained thy hands of old.
+But pity bids my soul forget:
+Thy father, murdered, claimed the debt.
+My strength, O Chief, thou deemest slight,
+Too feeble for a Warrior’s might.
+Now will I show thy wondering eyes
+The prowess which they dare despise.”
+
+  He hastened then with graceful ease
+That mighty bow and shaft to seize.
+His hand the weapon strung and swayed:
+The arrow on the string was laid.
+Then Jamadagni’s son he eyed,
+And thus in words of fury cried:
+“Thou art a Bráhman, still to be
+Most highly honoured, Chief, by me.
+For Viśvámitra’s sake beside
+Shall reverence due be ne’er denied.
+Though mine the power, I would not sendA dart at thee thy life to end.
+But thy great power to wander free,
+Which penance-rites have won for thee,
+Or glorious worlds from thee to wrest,
+Is the firm purpose of my breast,
+And Vishṇu’s dart which now I strain
+Can ne’er be shot to fall in vain:
+It strikes the mighty, and it stuns
+The madness of the haughty ones.”
+
+  Then Gods, and saints and heavenly choir
+Preceded by the General Sire,
+Met in the air and gazed below
+On Ráma with that wondrous bow.
+Nymph, minstrel, angel, all were there,
+Snake-God, and spirit of the air,
+Giant, and bard, and gryphon, met,
+Their eyes upon the marvel set.
+In senseless hush the world was chained
+While Ráma’s hand the bow retained,
+And Jamadagni’s son amazed
+And powerless on the hero gazed.
+Then when his swelling heart had shrunk,
+And his proud strength in torpor sunk,
+Scarce his voice ventured, low and weak,
+To Ráma lotus-eyed, to speak:“When long ago I gave away
+The whole broad land to Kaśyap’s sway
+He charged me never to remain
+Within the limits of his reign.
+Obedient to my guide’s behest
+On earth by night I never rest.
+My choice is made, I will not dim
+Mine honour and be false to him.
+So, son of Raghu, leave me still
+The power to wander where I will,
+And swifter than the thought my flight
+Shall place me on Mahendra’s height.
+My mansions of eternal joy,
+By penance won, thou mayst destroy,
+My path to these thy shaft may stay.
+Now to the work! No more delay!
+I know thee Lord of Gods; I know
+Thy changeless might laid Madhu low.
+All other hands would surely fail
+To bend this bow. All hail! all hail!
+See! all the Gods have left the skies
+To bend on thee their eager eyes,
+With whose achievements none compete,
+Whose arm in war no God can meet.
+No shame is mine, I ween, for thou,Lord of the Worlds, hast dimmed my brow.
+Now, pious Ráma, ’tis thy part
+To shoot afar that glorious dart:
+I, when the fatal shaft is shot,
+Will seek that hill and tarry not.”
+
+  He ceased. The wondrous arrow flew,
+And Jamadagni’s offspring knew
+Those glorious worlds to him were barred,
+Once gained by penance long and hard.
+Then straight the airy quarters cleared,
+And the mid regions bright appeared,
+While Gods and saints unnumbered praised
+Ráma, the mighty bow who raised.
+And Jamadagni’s son, o’erawed.
+Extolled his name with highest laud,
+With reverent steps around him strode,
+Then hastened on his airy road.
+Far from the sight of all he fled,
+And rested on Mahendra’s head.<b>Canto LXXVII. Bharat’s Departure.</b>
+
+Then Ráma with a cheerful mind
+The bow to Varuṇ’s hand resigned.
+Due reverence to the saints he paid,
+And thus addressed his sire dismayed:
+“As Bhrigu’s son is far from view,
+Now let the host its march pursue,
+And to Ayodhyá’s town proceed
+In four-fold bands, with thee to lead.”
+
+  King Daśaratha thus addressed
+His lips to Ráma’s forehead pressed,
+And held him to his aged breast.
+Rejoiced in sooth was he to know
+That Bhrigu’s son had parted so,
+And hailed a second life begun
+For him and his victorious son.
+He urged the host to speed renewed,
+And soon Ayodhyá’s gates he viewed.
+High o’er the roofs gay pennons played;
+Tabour and drum loud music made;
+Fresh water cooled the royal road,
+And flowers in bright profusion glowed.
+Glad crowds with garlands thronged the ways
+Rejoicing on their king to gazeAnd all the town was bright and gay
+Exalting in the festive day.
+People and Bráhmans flocked to meet
+Their monarch ere he gained the street.
+The glorious king amid the throng
+Rode with his glorious sons along,
+And passed within his dear abode
+That like Himálaya’s mountain showed.
+And there Kauśalyá, noble queen,
+Sumitrá with her lovely mien,
+Kaikeyí of the dainty waist,
+And other dames his bowers who graced,
+Stood in the palace side by side
+And welcomed home each youthful bride:
+Fair Sítá, lofty-fated dame,
+Urmilá of the glorious fame,
+And Kuśadhwaj’s children fair,
+With joyous greeting and with prayer,
+As all in linen robes arrayed
+With offerings at the altars prayed.
+Due reverence paid to God above,
+Each princess gave her soul to love,
+And hidden in her inmost bower
+Passed with her lord each blissful hour.
+The royal youths, of spirit high,With whom in valor none could vie,
+Lived each within his palace bounds
+Bright as Kuvera’s pleasure-grounds,
+With riches, troops of faithful friends,
+And bliss that wedded life attends:
+Brave princes trained in warlike skill,
+And duteous to their father’s will.
+At length the monarch called one morn
+Prince Bharat, of Kaikeyí born,
+And cried: “My son, within our gates
+Lord Yudhájit thine uncle waits.
+The son of Kekaya’s king is he,
+And came, my child, to summon thee.”
+
+  Then Bharat for the road prepared,
+And with Śatrughna forth he fared.
+First to his sire he bade adieu,
+Brave Ráma, and his mothers too.
+Lord Yudhájit with joyful pride
+Went forth, the brothers by his side,
+And reached the city where he dwelt:
+And mighty joy his father felt.
+
+  Ráma and Lakshmaṇ honoured still
+Their godlike sire with duteous will.
+Two constant guides for Ráma stood,His father’s wish, the people’s good.
+Attentive to the general weal
+He thought and wrought to please and heal.
+His mothers too he strove to please
+With love and sonly courtesies.
+At every time, in every spot,
+His holy guides he ne’er forgot.
+So for his virtues kind and true
+Dearer and dearer Ráma grew
+To Daśaratha, Bráhmans, all
+In town and country, great and small.
+And Ráma by his darling’s side
+Saw many a blissful season glide,
+Lodged in her soul, each thought on her,
+Lover, and friend, and worshipper.
+He loved her for his father’s voice
+Had given her and approved the choice:
+He loved her for each charm she wore
+And her sweet virtues more and more.
+So he her lord and second life
+Dwelt in the bosom of his wife,
+In double form, that, e’en apart,
+Each heart could commune free with heart.
+
+  Still grew that child of Janak’s race,
+More goddess-fair in form and face,The loveliest wife that e’er was seen,
+In mortal mould sweet Beauty’s Queen.
+Then shone the son Kauśalyá bore,
+  With this bright dame allied,
+Like Vishṇu whom the Gods adore,
+  With Lakshmi by his side.
+
+BOOK II.
+
+<b>Canto I. The Heir Apparent.</b>
+
+So Bharat to his grandsire went
+Obedient to the message sent,
+And for his fond companion chose
+Śatrughna slayer of his foes.(258)
+There Bharat for a time remained
+With love and honour entertained,
+King Aśvapati’s constant care,
+Beloved as a son and heir.
+Yet ever, as they lived at ease,
+While all around combined to please,
+The aged sire they left behind
+Was present to each hero’s mind.
+Nor could the king’s fond memory stray
+From his brave children far away,
+Dear Bharat and Śatrughna dear,Each Varuṇ’s match or Indra’s peer.
+
+  To all the princes, young and brave,
+His soul with fond affection clave;
+Around his loving heart they clung
+Like arms from his own body sprung.(259)
+But best and noblest of the four,
+Good as the God whom all adore,
+Lord of all virtues, undefiled,
+His darling was his eldest child.
+For he was beautiful and strong,
+From envy free, the foe of wrong,
+With all his father’s virtues blest,
+And peerless in the world confessed.
+With placid soul he softly spoke:
+No harsh reply could taunts provoke.
+He ever loved the good and sage
+Revered for virtue and for age,
+And when his martial tasks were o’er
+Sate listening to their peaceful lore.
+Wise, modest, pure, he honoured eld,
+His lips from lying tales withheld;
+Due reverence to the Bráhmans gave,
+And ruled each passion like a slave.
+Most tender, prompt at duty’s call,
+Loved by all men he loved them all.Proud of the duties of his race,
+With spirit meet for Warrior’s place.
+He strove to win by glorious deed,
+Throned with the Gods, a priceless meed.
+With him in speech and quick reply
+Vrihaspati might hardly vie,
+But never would his accents flow
+For evil or for empty show.
+In art and science duly trained,
+His student vow he well maintained;
+He learnt the lore for princes fit,
+The Vedas and their Holy Writ,
+And with his well-drawn bow at last
+His mighty father’s fame surpassed.
+Of birth exalted, truthful, just,
+With vigorous hand, with noble trust,
+Well taught by aged twice-born men
+Who gain and right could clearly ken,
+Full well the claims and bounds he knew
+Of duty, gain, and pleasure too:
+Of memory keen, of ready tact,
+In civil business prompt to act.
+Reserved, his features ne’er disclosed
+What counsel in his heart reposed.
+All idle rage and mirth controlled,He knew the times to give and hold,
+Firm in his faith, of steadfast will,
+He sought no wrong, he spoke no ill:
+Not rashly swift, not idly slow,
+His faults and others’ keen to know.
+Each merit, by his subtle sense;
+He matched with proper recompense.
+He knew the means that wealth provide,
+And with keen eye expense could guide.
+Wild elephants could he reclaim,
+And mettled steeds could mount and tame.
+No arm like his the bow could wield,
+Or drive the chariot to the field.
+Skilled to attack, to deal the blow,
+Or lead a host against the foe:
+Yea, e’en infuriate Gods would fear
+To meet his arm in full career.
+As the great sun in noontide blaze
+Is glorious with his world of rays,
+So Ráma with these virtues shone
+Which all men loved to gaze upon.
+
+  The aged monarch fain would rest,
+And said within his weary breast,
+“Oh that I might, while living yet,
+My Ráma o’er the kingdom set.And see, before my course be run,
+The hallowed drops anoint my son;
+See all this spacious land obey,
+From side to side, my first-born’s sway,
+And then, my life and joy complete,
+Obtain in heaven a blissful seat!”
+In him the monarch saw combined
+The fairest form, the noblest mind,
+And counselled how his son might share,
+The throne with him as Regent Heir.
+For fearful signs in earth and sky,
+And weakness warned him death was nigh:
+But Ráma to the world endeared
+By every grace his bosom cheered,
+The moon of every eye, whose ray
+Drove all his grief and fear away.
+So duty urged that hour to seize,
+Himself, his realm, to bless and please.
+
+  From town and country, far and near,
+He summoned people, prince, and peer.
+To each he gave a meet abode,
+And honoured all and gifts bestowed.
+Then, splendid in his king’s attire,
+He viewed them, as the general Sire,
+In glory of a God arrayed,Looks on the creatures he has made.
+But Kekaya’s king he called not then
+For haste, nor Janak, lord of men;
+For after to each royal friend
+The joyful tidings he would send.
+Mid crowds from distant countries met
+The king upon his throne was set;
+Then honoured by the people, all
+The rulers thronged into the hall.
+On thrones assigned, each king in place
+Looked silent on the monarch’s face.
+  Then girt by lords of high renown
+  And throngs from hamlet and from town
+  He showed in regal pride,
+As, honoured by the radiant band
+Of blessed Gods that round him stand,
+Lord Indra, Thousand-eyed.<b>Canto II. The People’s Speech.</b>
+
+Then to the full assembly bowed
+The monarch, and addressed the crowd
+With gracious speech, in accents loud
+As heavenly drum or thunder-cloud:
+
+  “Needs not to you who know declare
+How ever with paternal care
+My fathers of Ikshváku’s line
+Have ruled the realm which now is mine.
+I too have taught my feet to tread
+The pathway of the mighty dead,
+And with fond care that never slept
+Have, as I could, my people kept.
+So toiling still, and ne’er remiss
+For all my people’s weal and bliss,
+Beneath the white umbrella’s(260) shade.
+Old age is come and strength decayed.
+Thousands of years have o’er me flown,
+And generations round me grown
+And passed away. I crave at length
+Repose and ease for broken strength.
+Feeble and worn I scarce can bear
+The ruler’s toil, the judge’s care,
+With royal dignity, a weightThat tries the young and temperate.
+I long to rest, my labour done,
+And in my place to set my son,
+If to the twice-born gathered here
+My counsel wise and good appear.
+For greater gifts than mine adorn
+Ráma my son, my eldest-born.
+Like Indra brave, before him fall
+The foeman’s cities, tower and wall.
+Him prince of men for power and might,
+The best maintainer of the right,
+Fair as the moon when nothing bars
+His glory close to Pushya’s stars,
+Him with to-morrow’s light I fain
+Would throne the consort of my reign.
+A worthy lord for you, I ween,
+Marked as her own by Fortune’s Queen.
+The triple world itself would be
+Well ruled by such a king as he.
+To such high bliss and happy fate
+Will I the country dedicate,
+And my sad heart will cease to grieve
+If he the precious charge receive.
+Thus is my careful plan matured,
+Thus for myself is rest secured;Lieges, approve the words I say,
+Or point ye out some wiser way.
+Devise your prudent plan. My mind
+Is fondly to this thought inclined,
+But men by keen debating move
+Some middle course which all approve.”
+
+  The monarch ceased. In answer came
+The joyous princes’ glad acclaim.
+So peacocks in the rain rejoice
+And hail the cloud with lifted voice.
+Murmurs of joy from thousands round
+Shook the high palace with the sound.
+Then when the gathered throng had learned
+His will who right and gain discerned,
+Peasant and townsman, priest and chief,
+All met in consultation brief,
+And soon agreed with one accord
+Gave answer to their sovereign lord:
+“King of the land, we know thee old:
+Thousands of years have o’er thee rolled,
+Ráma thy son, we pray, anoint,
+And at thy side his place appoint
+Our gallant prince, so brave and strong,
+Riding in royal state along,
+Our eyes with joyful pride will seeScreened by the shade that shelters thee.”
+Then spake the king again, as though
+Their hearts’ true wish he sought to know:
+“These prayers for Ráma’s rule suggest
+One question to my doubting breast.
+This thing, I pray, with truth explain:
+Why would ye, while I justly reign,
+That he, mine eldest son, should bear
+His part with me as ruling heir?”
+Then all the people made reply,
+Peasant and townsman, low and high:
+“Each noblest gift of form and mind,
+O Monarch, in thy son we find.
+Do thou the godlike virtues hear
+Which Ráma to our hearts endear.
+So richly blest with graces, none
+In all the earth excels thy son:
+Nay, who to match with him may claim
+In truth, in justice, and in fame?
+True to his promise, gentle, kind,
+Unenvious, of grateful mind,
+Versed in the law and firm of soul,
+He keeps each sense with strict control.
+With duteous care he loves to sit
+By Bráhmans skilled in Holy Writ.Hence brightest glory, ne’er to end,
+And matchless fame his youth attend.
+Skilled in the use of spear and shield,
+And arms which heavenly warriors wield,
+Supreme in war, unconquered yet
+By man, fiend, God in battle met,
+Whene’er in pomp of war he goes
+’Gainst town or city of the foes,
+He ever comes with Lakshmaṇ back
+Victorious from the fierce attack.
+Returning homeward from afar
+Borne on his elephant or car,
+He ever to the townsmen bends
+And greets them as beloved friends,
+Asks how each son, each servant thrives,
+How fare our pupils, offerings, wives;
+And like a father bids us tell,
+Each for himself, that all is well.
+If pain or grief the city tries
+His heart is swift to sympathize.
+When festive scenes our thoughts employ
+He like a father shares the joy.
+High is the fate, O King, that gave
+Thy Ráma born to bless and save,
+With filial virtues fair and mildLike Kaśyap old Maríchi’s child.
+Hence to the kingdom’s distant ends
+One general prayer for him ascends.
+Each man in town and country prays
+For Ráma’s strength, health, length of days.
+With hearts sincere, their wish the same,
+The tender girl, the aged dame,
+Subject and stranger, peasant, hind,
+One thought impressed on every mind,
+At evening and at dawning day
+To all the Gods for Ráma pray.
+Do thou, O King, of grace comply,
+And hear the people’s longing cry,
+And let us on the throne by thee
+The lotus-tinted Ráma see.
+  O thou who givest boons, attend;
+  A gracious ear, O Monarch, lend
+    And for our weal install,
+Consenting to our earnest prayer,
+Thy godlike Ráma Regent Heir,
+    Who seeks the good of all.”<b>Canto III. Dasaratha’s Precepts.</b>
+
+The monarch with the prayer complied
+Of suppliant hands, on every side
+Uplifted like a lotus-bed:
+And then these gracious words he said:
+“Great joy and mighty fame are mine
+Because your loving hearts incline,
+In full assembly clearly shown
+To place my Ráma on the throne.”
+Then to Vaśishṭha, standing near,
+And Vámadeva loud and clear
+The monarch spoke that all might hear:
+“’Tis pure and lovely Chaitra now
+When flowers are sweet on every bough;
+All needful things with haste prepare
+That Ráma be appointed heir.”
+
+  Then burst the people’s rapture out
+In loud acclaim and joyful shout;
+And when the tumult slowly ceased
+The king addressed the holy priest:
+“Give order, Saint, with watchful heed
+For what the coming rite will need.
+This day let all things ready wait
+Mine eldest son to consecrate.”Best of all men of second birth
+Vaśishṭha heard the lord of earth,
+And gave commandment to the bands
+Of servitors with lifted hands
+Who waited on their master’s eye:
+“Now by to-morrow’s dawn supply
+Rich gold and herbs and gems of price
+And offerings for the sacrifice,
+Wreaths of white flowers and roasted rice,
+And oil and honey, separate;
+New garments and a car of state,
+An elephant with lucky signs,
+A fourfold host in ordered lines,
+The white umbrella, and a pair
+Of chowries,(261) and a banner fair;
+A hundred vases, row on row,
+To shine like fire in splendid glow,
+A tiger’s mighty skin, a bull
+With gilded horns most beautiful.
+All these, at dawn of coming day,
+Around the royal shrine array,
+Where burns the fire’s undying ray.
+Each palace door, each city gate
+With wreaths of sandal decorate.
+And with the garlands’ fragrant scentLet clouds of incense-smoke be blent.
+Let food of noble kind and taste
+Be for a hundred thousand placed;
+Fresh curds with streams of milk bedewed
+To feed the Bráhman multitude.
+With care be all their wants supplied.
+And mid the twice-born chiefs divide
+Rich largess, with the early morn,
+And oil and curds and roasted corn.
+Soon as the sun has shown his light
+Pronounce the prayer to bless the rite,
+And then be all the Bráhmans called
+And in their ordered seats installed.
+Let all musicians skilled to play,
+And dancing-girls in bright array
+Stand ready in the second ring
+Within the palace of the king.
+Each honoured tree, each holy shrine
+With leaves and flowery wreaths entwine,
+And here and there beneath the shade
+Be food prepared and presents laid.
+Then brightly clad, in warlike guise,
+With long swords girt upon their thighs,
+Let soldiers of the nobler sort
+March to the monarch’s splendid court.”  Thus gave command the twice-born pair
+To active servants stationed there.
+Then hastened to the king and said
+That all their task was duly sped,
+The king to wise Sumantra spake:
+“Now quick, my lord, thy chariot take,
+And hither with thy swiftest speed
+My son, my noble Ráma lead.”
+
+  Sumantra, ere the word was given,
+His chariot from the court had driven,
+And Ráma, best of all who ride
+In cars, came sitting by his side.
+The lords of men had hastened forth
+From east and west and south and north,
+Áryan and stranger, those who dwell
+In the wild wood and on the fell,
+And as the Gods to Indra, they
+Showed honour to the king that day.
+
+  Like Vásav, when his glorious form
+Is circled by the Gods of storm,
+Girt in his hall by kings he saw
+His car-borne Ráma near him draw,
+Like him who rules the minstrel band
+Of heaven;(262) whose valour filled the land,Of mighty arm and stately pride
+Like a wild elephant in stride,
+As fair in face as that fair stone
+Dear to the moon, of moonbeams grown,(263)
+With noble gifts and grace that took
+The hearts of all, and chained each look,
+World-cheering as the Lord of Rain
+When floods relieve the parching plain.
+The father, as the son came nigh,
+Gazed with an ever-thirstier eye.
+Sumantra helped the prince alight
+From the good chariot passing bright,
+And as to meet his sire he went
+Followed behind him reverent.
+Then Ráma clomb, the king to seek
+That terrace like Kailása’s peak,
+And reached the presence of the king,
+Sumantra closely following.
+Before his father’s face he came,
+Raised suppliant hands and named his name,(264)
+And bowing lowly as is meet
+Paid reverence to the monarch’s feet.
+But soon as Daśaratha viewed
+The prince in humble attitude,
+He raised him by the hand in hasteAnd his beloved son embraced,
+Then signed him to a glorious throne,
+Gem-decked and golden, near his own.
+Then Ráma, best of Raghu’s line,
+Made the fair seat with lustre shine
+As when the orient sun upsprings
+And his pure beam on Meru flings.
+The glory flashed on roof and wall,
+And with strange sheen suffused the hall,
+As when the moon’s pure rays are sent
+Through autumn’s star-lit firmament.
+Then swelled his breast with joy and pride
+As his dear son the father eyed,
+E’en as himself more fair arrayed
+In some clear mirror’s face displayed.
+The aged monarch gazed awhile,
+Then thus addressed him with a smile,
+As Kaśyap, whom the worlds revere,
+Speaks for the Lord of Gods to hear:
+“O thou of all my sons most dear,
+In virtue best, thy father’s peer,
+Child of my consort first in place,
+Mine equal in her pride of race,
+Because the people’s hearts are bound
+To thee by graces in thee found,Be thou in Pushya’s favouring hour
+Made partner of my royal power.
+I know that thou by nature’s bent
+Both modest art and excellent,
+But though thy gifts no counsel need
+My love suggests the friendly rede.
+Mine own dear son, be modest still,
+And rule each sense with earnest will.
+Keep thou the evils far away
+That spring from love and anger’s sway.
+Thy noble course alike pursue
+In secret as in open view,
+And every nerve, the love to gain
+Of ministers and subjects, strain.
+The happy prince who sees with pride
+His thriving people satisfied;
+Whose arsenals with arms are stored,
+And treasury with golden hoard,—
+His friends rejoice as joyed the Blest
+When Amrit crowned their eager quest.
+So well, my child, thy course maintain,
+And from all ill thy soul refrain.”
+
+  The friends of Ráma, gathered nigh,
+Longing their lord to gratify,
+Ran to Kauśalyá’s bower to tell

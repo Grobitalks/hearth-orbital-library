@@ -1,0 +1,1534 @@
+HOLB1	24869	28	2240	80	2635	150
+39	Canto II. Brahmá’s Visit
+46	Canto III. The Argument.
+53	Canto IV. The Rhapsodists.
+58	Canto V. Ayodhyá.
+62	Canto VI. The King.
+67	Canto VII. The Ministers.
+71	Canto VIII. Sumantra’s Speech.
+75	Canto IX. Rishyasring.
+86	Canto X. Rishyasring Invited.
+92	Canto XI. The Sacrifice Decreed.
+96	Canto XII. The Sacrifice Begun.
+102	Canto XIII. The Sacrifice Finished.
+111	Canto XIV. Rávan Doomed.
+118	Canto XV. The Nectar.
+122	Canto XVI. The Vánars.
+127	Canto XVII. Rishyasring’s Return.
+134	Canto XVIII. Rishyasring’s Departure.
+138	Canto XIX. The Birth Of The Princes.
+143	Canto XX. Visvámitra’s Visit.
+147	Canto XXI. Visvámitra’s Speech.
+151	Canto XXII. Dasaratha’s Speech.
+155	Canto XXIII. Vasishtha’s Speech.
+158	Canto XXIV. The Spells.
+162	Canto XXV. The Hermitage Of Love.
+166	Canto XXVI. The Forest Of Tádaká.
+171	Canto XXVII. The Birth Of Tádaká.
+174	Canto XXVIII. The Death Of Tádaká.
+180	Canto XXIX. The Celestial Arms.
+187	Canto XXXI. The Perfect Hermitage.
+191	Canto XXXII. Visvámitra’s Sacrifice.
+195	Canto XXXIII. The Sone.
+199	Canto XXXIV. Brahmadatta.
+207	Canto XXXV. Visvámitra’s Lineage.
+211	Canto XXXVI. The Birth Of Gangá.
+215	Canto XXXIX. The Sons Of Sagar.
+219	Canto XL. The Cleaving Of The Earth.
+223	Canto XLI. Kapil.
+227	Canto XLII. Sagar’s Sacrifice.
+231	Canto XLIII. Bhagírath.
+235	Canto XLIV. The Descent Of Gangá.
+244	Canto XLV. The Quest Of The Amrit.
+252	Canto XLVI. Diti’s Hope.
+254	Canto XLVII. Sumati.
+257	Canto XLVIII. Indra And Ahalyá
+262	Canto XLIX. Ahalyá Freed.
+264	Canto L. Janak.
+268	Canto LI. Visvámitra.
+272	Canto LII. Vasishtha’s Feast.
+276	Canto LIII. Visvámitra’s Request.
+280	Canto LIV. The Battle.
+284	Canto LV. The Hermitage Burnt.
+288	Canto LVI. Visvámitra’s Vow.
+292	Canto LVII. Trisanku.
+296	Canto LVIII. Trisanku Cursed.
+300	Canto LIX. The Sons Of Vasishtha.
+304	Canto LX. Trisanku’s Ascension.
+309	Canto LXI. Sunahsepha.
+313	Canto LXII. Ambarísha’s Sacrifice.
+317	Canto LXIII. Menaká.
+322	Canto LXIV. Rambhá.
+325	Canto LXV. Visvámitra’s Triumph
+331	Canto LXVI. Janak’s Speech.
+335	Canto LXVII. The Breaking Of The Bow.
+339	Canto LXVIII. The Envoys’ Speech.
+342	Canto LXIX. Dasaratha’s Visit.
+345	Canto LXX. The Maidens Sought.
+352	Canto LXXI. Janak’s Pedigree.
+356	Canto LXXII. The Gift Of Kine.
+359	Canto LXXIII. The Nuptials.
+368	Canto LXXV. The Parle.
+373	Canto LXXVI. Debarred From Heaven.
+377	Canto LXXVII. Bharat’s Departure.
+381	Canto I. The Heir Apparent.
+387	Canto II. The People’s Speech.
+393	Canto III. Dasaratha’s Precepts.
+401	Canto IV. Ráma Summoned.
+408	Canto V. Ráma’s Fast.
+412	Canto VI. The City Decorated.
+417	Canto VII. Manthará’s Lament.
+422	Canto VIII. Manthará’s Speech.
+428	Canto IX. The Plot.
+437	Canto X. Dasaratha’s Speech.
+444	Canto XI. The Queen’s Demand.
+448	Canto XII. Dasaratha’s Lament.
+465	Canto XIII. Dasaratha’s Distress.
+468	Canto XIV. Ráma Summoned.
+478	Canto XV. The Preparations.
+486	Canto XVI. Ráma Summoned.
+493	Canto XVII. Ráma’s Approach.
+496	Canto XVIII. The Sentence.
+503	Canto XIX. Ráma’s Promise.
+510	Canto XX. Kausalyá’s Lament.
+518	Canto XXI. Kausalyá Calmed.
+528	Canto XXII. Lakshman Calmed.
+533	Canto XXIII. Lakshman’s Anger.
+540	Canto XXIV. Kausalyá Calmed.
+546	Canto XXV. Kausalyá’s Blessing.
+554	Canto XXVI. Alone With Sítá.
+560	Canto XXVII. Sítá’s Speech.
+564	Canto XXVIII. The Dangers Of The Wood.
+568	Canto XXIX. Sítá’s Appeal.
+572	Canto XXX. The Triumph Of Love.
+580	Canto XXXI. Lakshman’s Prayer.
+586	Canto XXXII. The Gift Of The Treasures.
+593	Canto XXXIII. The People’s Lament.
+598	Canto XXXIV. Ráma In The Palace.
+607	Canto XXXV. Kaikeyí Reproached.
+612	Canto XXXVI. Siddhárth’s Speech.
+617	Canto XXXVII. The Coats Of Bark.
+622	Canto XXXVIII. Care For Kausalyá
+626	Canto XXXIX. Counsel To Sítá.
+633	Canto XL. Ráma’s Departure.
+641	Canto XLI. The Citizens’ Lament.
+644	Canto XLII. Dasaratha’s Lament.
+649	Canto XLIII. Kausalyá’s Lament.
+653	Canto XLIV. Sumitrá’s Speech.
+657	Canto XLV. The Tamasá.
+663	Canto XLVI. The Halt.
+669	Canto XLVII. The Citizens’ Return.
+672	Canto XLVIII. The Women’s Lament.
+677	Canto XLIX. The Crossing Of The Rivers.
+686	Canto LI. Lakshman’s Lament.
+690	Canto LII. The Crossing Of Gangá.
+706	Canto LIII. Ráma’s Lament.
+712	Canto LIV. Bharadvája’s Hermitage.
+719	Canto LV. The Passage Of Yamuná.
+724	Canto LVI. Chitrakúta
+730	Canto LVII. Sumantra’s Return.
+735	Canto LVIII. Ráma’s Message.
+741	Canto LIX. Dasaratha’s Lament.
+747	Canto LX. Kausalyá Consoled.
+751	Canto LXI. Kausalyá’s Lament.
+755	Canto LXII. Dasaratha Consoled.
+758	Canto LXIII. The Hermit’s Son.
+766	Canto LXIV. Dasaratha’s Death.
+778	Canto LXV. The Women’s Lament.
+783	Canto LXVI. The Embalming.
+787	Canto LXVII. The Praise Of Kings.
+793	Canto LXVIII. The Envoys.
+797	Canto LXIX. Bharat’s Dream.
+801	Canto LXX. Bharat’s Departure.
+806	Canto LXXI. Bharat’s Return.
+813	Canto LXXII. Bharat’s Inquiry.
+822	Canto LXXIII. Kaikeyí Reproached.
+826	Canto LXXIV. Bharat’s Lament.
+831	Canto LXXV. The Abjuration.
+838	Canto LXXVI. The Funeral.
+842	Canto LXXVII. The Gathering Of The Ashes.
+847	Canto LXXVIII. Manthará Punished.
+851	Canto LXXIX. Bharat’s Commands.
+<b>Canto CXIV. Vibhishan Consecrated.</b>
+
+Joy reigned in heaven where every eye
+Had seen the Lord of Lanká die.
+In cars whose sheen surpassed the sun’s
+Triumphant rode the radiant ones:
+And Rávaṇ’s death, by every tongue,
+And Ráma’s glorious deeds were sung.
+They praised the Vánars true and brave,
+The counsel wise Sugríva gave.
+The deeds of Hanúmán they told,
+The valiant chief supremely bold,
+The strong ally, the faithful friend,
+And Sítá’s truth which naught could bend.
+
+  To Mátali, whom Indra sent,
+His head the son of Raghu bent:
+And he with fiery steeds who clove
+The clouds again to Swarga drove.
+Round King Sugríva brave and true
+His arms in rapture Ráma threw,
+Looked on the host with joy and pride,
+And thus to noble Lakshmaṇ cried:
+
+  “Now let king-making drops be shed,
+Dear brother, on Vibhishaṇ’s headFor truth and friendship nobly shown,
+And make him lord of Rávaṇ’s throne.”
+This longing of his heart he told:
+And Lakshmaṇ took an urn of gold
+And bade the wind-fleet Vánars bring
+Sea water for the giants’ king.
+The brimming urn was swiftly brought:
+Then on a throne superbly wrought
+Vibhishaṇ sat, the giants’ lord,
+And o’er his brows the drops were poured.
+As Raghu’s son the rite beheld
+His loving heart with rapture swelled:
+But tenderer thoughts within him woke,
+And thus to Hanúmán he spoke:
+
+  “Go to my queen: this message give:
+Say Lakshmaṇ and Sugríva live.
+The death of Lanká’s monarch tell,
+And bid her joy, for all is well.”<b>Canto CXV. Sítá’s Joy.</b>
+
+The Vánar chieftain bowed his head,
+Within the walls of Lanká sped,
+Leave from the new-made king obtained,
+And Sítá’s lovely garden gained.
+Beneath a tree the queen he found,
+Where Rákshas warders watched around.
+Her pallid cheek, her tangled hair,
+Her raiment showed her deep despair,
+Near and more near the envoy came
+And gently hailed the weeping dame.
+She started up in sweet surprise,
+And sudden joy illumed her eyes.
+For well the Vánar’s voice she knew,
+And hope reviving sprang and grew.
+
+  “Fair Queen,” he said, “our task is done:
+The foe is slain and Lanká won.
+Triumphant mid triumphant friends
+Kind words of greeting Ráma sends.
+“Blest for thy sake, O spouse most true,
+My deadly foe I met and slew.
+Mine eyes are strangers yet to sleep:
+I built a bridge athwart the deep
+And crossed the sea to Lanká’s shoreTo keep the mighty oath I swore.
+Now, gentle love, thy cares dispel,
+And weep no more, for all is well.
+Fear not in Rávaṇ’s house to stay
+For good Vibhishaṇ now bears sway,
+For constant truth and friendship known
+Regard his palace as thine own.”
+He greets thee thus thy heart to cheer,
+And urged by love will soon be here.”
+
+  Then flushed with joy the lady’s cheek.
+Her eyes o’erflowed, her voice was weak;
+But struggling with her sobs she broke
+Her silence thus, and faintly spoke:
+“So fast the flood of rapture came,
+My trembling tongue no words could frame.
+Ne’er have I heard in days of bliss
+A tale that gave such joy as this.
+More precious far than gems and gold
+The message which thy lips have told.”
+
+  His reverent hands the Vánar raised
+And thus the lady’s answer praised:
+“Sweet are the words, O Queen, which thou
+True to thy lord, hast spoken now,
+Better than gems and pearls of price,Yea, or the throne of Paradise.
+But, lady, ere I leave this place,
+Grant me, I pray, a single grace.
+Permit me, and this vengeful hand
+Shall slay thy guards, this Rákshas band,
+Whose cruel insult threat and scorn
+Thy gentle soul too long has borne.”
+
+  Thus, stern of mood, Hanúmán cried:
+The Maithil lady thus replied:
+“Nay, be not wroth with servants: they,
+When monarchs bid must needs obey.
+And, vassals of their lords, fulfil
+Each fancy of their sovereign will.
+To mine own sins the blame impute,
+For as we sow we reap the fruit.
+The tyrant’s will these dames obeyed
+When their fierce threats my soul dismayed.”
+
+  She ceased: with admiration moved
+The Vánar chief her words approved:
+“Thy speech,” he cried, “is worthy one
+Whom love has linked to Raghu’s son.
+Now speak, O Queen, that I may know
+Thy pleasure, for to him I go.”
+The Vánar ceased: then Janak’s childMade answer as she sweetly smiled:
+“’My first, my only wish can be,
+O chief, my loving lord to see.”
+Again the Vánar envoy spoke,
+And with his words new rapture woke:
+“Queen, ere this sun shall cease to shine
+Thy Ráma’s eyes shall look in thine.
+Again the lord of Raghu’s race
+Shall turn to thee his moon-bright face.
+His faithful brother shall thou see
+And every friend who fought for thee,
+And greet once more thy king restored
+Like Śachí(1014) to her heavenly lord.”
+To Raghu’s son his steps he bent
+And told the message that she sent.<b>Canto CXVI. The Meeting.</b>
+
+He looked upon that archer chief
+Whose full eye mocked the lotus leaf,
+And thus the noble Vánar spake:
+“Now meet the queen for whose dear sake
+Thy mighty task was first begun,
+And now the glorious fruit is won.
+O’erwhelmed with woe thy lady lies,
+The hot tears streaming from her eyes.
+And still the queen must long and pine
+Until those eyes be turned to thine.”
+
+  But Ráma stood in pensive mood,
+And gathering tears his eyes bedewed.
+His sad looks sought the ground: he sighed
+And thus to King Vibhishaṇ cried:
+“Let Sítá bathe and tire her head
+And hither to my sight be led
+In raiment sweet with precious scent,
+And gay with golden ornament.”
+
+  The Rákshas king his palace sought,
+And Sítá from her bower was brought.
+Then Rákshas bearers tall and strong,
+Selected from the menial throng,Through Lanká’s gate the queen, arrayed
+In glorious robes and gems, conveyed.
+Concealed behind the silken screen,
+Swift to the plain they bore the queen,
+While Vánars, close on every side,
+With eager looks the litter eyed.
+The warders at Vibhishaṇ’s hest
+The onward rushing throng repressed,
+While like the roar of ocean loud
+Rose the wild murmur of the crowd.
+The son of Raghu saw and moved
+With anger thus the king reproved:
+“Why vex with hasty blow and threat
+The Vánars, and my rights forget?
+Repress this zeal, untimely shown:
+I count this people as mine own.
+A woman’s guard is not her bower,
+The lofty wall, the fenced tower:
+Her conduct is her best defence,
+And not a king’s magnificence.
+At holy rites, in war and woe,
+Her face unveiled a dame may show;
+When at the Maiden’s Choice(1015) they meet,
+When marriage troops parade the street.
+And she, my queen, who long has lainIn prison racked with care and pain,
+May cease a while her face to hide,
+For is not Ráma by her side?
+Lay down the litter: on her feet
+Let Sítá come her lord to meet.
+And let the hosts of woodland race
+Look near upon the lady’s face.”
+
+  Then Lakshmaṇ and each Vánar chief
+Who heard his words were filled with grief.
+The lady’s gentle spirit sank,
+And from each eye in fear she shrank,
+As, her sweet eyelids veiled for shame,
+Slowly before her lord she came.
+While rapture battled with surprise
+She raised to his her wistful eyes.
+Then with her doubt and fear she strove,
+And from her breast all sorrow drove.
+Regardless of the gathering crowd,
+Bright as the moon without a cloud,
+She bent her eyes, no longer dim,
+In joy and trusting love on him.<b>Canto CXVII. Sítá’s Disgrace.</b>
+
+He saw her trembling by his side,
+And looked upon her face and cried:
+“Lady, at length my task is done,
+And thou, the prize of war, art won,
+This arm my glory has retrieved,
+And all that man might do achieved;
+The insulting foe in battle slain
+And cleared mine honour from its stain.
+This day has made my name renowned
+And with success my labour crowned.
+Lord of myself, the oath I swore
+Is binding on my soul no more.
+If from my home my queen was reft,
+This arm has well avenged the theft,
+And in the field has wiped away
+The blot that on mine honour lay.
+The bridge that spans the foaming flood,
+The city red with giants’ blood;
+The hosts by King Sugríva led
+Who wisely counselled, fought and bled;
+Vibhishaṇ’s love, our guide and stay—
+All these are crowned with fruit to-day.
+But, lady, ’twas not love for thee
+That led mine army o’er the sea.’Twas not for thee our blood was shed,
+Or Lanká filled with giant dead.
+No fond affection for my wife
+Inspired me in the hour of strife.
+I battled to avenge the cause
+Of honour and insulted laws.
+My love is fled, for on thy fame
+Lies the dark blot of sin and shame;
+And thou art hateful as the light
+That flashes on the injured sight.
+The world is all before thee: flee:
+Go where thou wilt, but not with me.
+How should my home receive again
+A mistress soiled with deathless stain?
+How should I brook the foul disgrace,
+Scorned by my friends and all my race?
+For Rávaṇ bore thee through the sky,
+And fixed on thine his evil eye.
+About thy waist his arms he threw,
+Close to his breast his captive drew,
+And kept thee, vassal of his power,
+An inmate of his ladies’ bower.”<b>Canto CXVIII. Sítá’s Reply.</b>
+
+Struck down with overwhelming shame
+She shrank within her trembling frame.
+Each word of Ráma’s like a dart
+Had pierced the lady to the heart;
+And from her sweet eyes unrestrained
+The torrent of her sorrows, rained.
+Her weeping eyes at length she dried,
+And thus mid choking sobs replied:
+“Canst thou, a high-born prince, dismiss
+A high-born dame with speech like this?
+Such words befit the meanest hind,
+Not princely birth and generous mind,
+By all my virtuous life I swear
+I am not what thy words declare.
+If some are faithless, wilt thou find
+No love and truth in womankind?
+Doubt others if thou wilt, but own
+The truth which all my life has shown.
+If, when the giant seized his prey,
+Within his hated arms I lay,
+And felt the grasp I dreaded, blame
+Fate and the robber, not thy dame.
+What could a helpless woman do?
+My heart was mine and still was true,Why when Hanúmán sent by thee
+Sought Lanká’s town across the sea,
+Couldst thou not give, O lord of men,
+Thy sentence of rejection then?
+Then in the presence of the chief
+Death, ready death, had brought relief,
+Nor had I nursed in woe and pain
+This lingering life, alas in vain.
+Then hadst thou shunned the fruitless strife
+Nor jeopardied thy noble life,
+But spared thy friends and bold allies
+Their vain and weary enterprise.
+Is all forgotten, all? my birth,
+Named Janak’s child, from fostering earth?
+That day of triumph when a maid
+My trembling hand in thine I laid?
+My meek obedience to thy will,
+My faithful love through joy and ill,
+That never failed at duty’s call—
+O King, is all forgotten, all?”
+
+  To Lakshmaṇ then she turned and spoke
+While sobs and sighs her utterance broke:
+“Sumitrá’s son, a pile prepare,
+My refuge in my dark despair.
+I will not live to bear this weightOf shame, forlorn and desolate.
+The kindled fire my woes shall end
+And be my best and surest friend.”
+
+  His mournful eyes the hero raised
+And wistfully on Ráma gazed,
+In whose stern look no ruth was seen,
+No mercy for the weeping queen.
+No chieftain dared to meet those eyes,
+To pray, to question or advise.
+
+  The word was passed, the wood was piled
+And fain to die stood Janak’s child.
+She slowly paced around her lord,
+The Gods with reverent act adored,
+Then raising suppliant hands the dame
+Prayed humbly to the Lord of Flame:
+“As this fond heart by virtue swayed
+From Raghu’s son has never strayed,
+So, universal witness, Fire
+Protect my body on the pyre,
+As Raghu’s son has idly laid
+This charge on Sítá, hear and aid.”
+
+  She ceased: and fearless to the last
+Within the flame’s wild fury passed.Then rose a piercing cry from all
+Dames, children, men, who saw her fall
+Adorned with gems and gay attire
+Beneath the fury of the fire.
+
+<b>Canto CXIX. Glory To Vishnu.</b>
+
+The shrill cry pierced through Ráma’s ears
+And his sad eyes o’erflowed with tears,
+When lo, transported through the sky
+A glorious band of Gods was nigh.
+Ancestral shades,(1016) by men revered,
+In venerable state appeared,
+And he from whom all riches flow,(1017)
+And Yáma Lord who reigns below:
+King Indra, thousand-eyed, and he
+Who wields the sceptre of the sea.(1018)
+The God who shows the blazoned bull,(1019)
+And Brahmá Lord most bountiful
+By whose command the worlds were made
+All these on radiant cars conveyed,
+Brighter than sun-beams, sought the place
+Where stood the prince of Raghu’s race,
+And from their glittering seats the best
+Of blessed Gods the chief addressed:  “Couldst thou, the Lord of all, couldst thou,
+Creator of the worlds, allow
+Thy queen, thy spouse to brave the fire
+And give her body to the pyre?
+Dost thou not yet, supremely wise,
+Thy heavenly nature recognize?”
+They ceased: and Ráma thus began:
+“I deem myself a mortal man.
+Of old Ikshváku’s line, I spring
+From Daśaratha Kośal’s king.”
+He ceased: and Brahmá’s self replied:
+“O cast the idle thought aside.
+Thou art the Lord Náráyaṇ, thou
+The God to whom all creatures bow.
+Thou art the saviour God who wore
+Of old the semblance of a boar;
+Thou he whose discus overthrows
+All present, past and future foes;
+Thou Brahmá, That whose days extend
+Without beginning, growth or end;
+The God, who, bears the bow of horn,
+Whom four majestic arms adorn;
+Thou art the God who rules the sense
+And sways with gentle influence;
+Thou all-pervading Vishṇu LordWho wears the ever-conquering sword;
+Thou art the Guide who leads aright,
+Thou Krishṇa of unequalled might.
+Thy hand, O Lord, the hills and plains,
+And earth with all her life sustains;
+Thou wilt appear in serpent form
+When sinks the earth in fire and storm.
+Queen Sítá of the lovely brows
+Is Lakshmí thy celestial spouse.
+To free the worlds from Rávaṇ thou
+Wouldst take the form thou wearest now.
+Rejoice: the mighty task is done:
+Rejoice, thou great and glorious one.
+The tyrant, slain, thy labours end:
+Triumphant now to heaven ascend.
+High bliss awaits the devotee
+Who clings in loving faith to thee,
+Who celebrates with solemn praise
+The Lord of ne’er beginning days.
+On earth below, in heaven above
+Great joy shall crown his faith and love.
+And he who loves the tale divine
+Which tells each glorious deed of thine
+Through life’s fair course shall never know
+The fierce assault of pain and woe.”(1020)<b>Canto CXX. Sítá Restored.</b>
+
+Thus spoke the Self-existent Sire:
+Then swiftly from the blazing pyre
+The circling flames were backward rolled,
+And, raising in his gentle hold
+Alive unharmed the Maithil dame,
+The Lord of Fire embodied came.
+Fair as the morning was her sheen,
+And gold and gems adorned the queen.
+Her form in crimson robes arrayed,
+Her hair was bound in glossy braid.
+Her wreath was fresh and sweet of scent,
+Undimmed was every ornament.
+Then, standing close to Ráma’a side,
+The universal witness cried:
+“From every blot and blemish free
+Thy faithful queen returns to thee.
+In word or deed, in look or mind
+Her heart from thee has ne’er declined.
+By force the giant bore away
+From thy lone cot his helpless prey;
+And in his bowers securely kept
+She still has longed for thee and wept.
+With soft temptation, bribe and threat,
+He bade the dame her love forget:But, nobly faithful to her lord,
+Her soul the giant’s suit abhorred.
+Receive, O King, thy queen again,
+Pure, ever pure from spot and stain.”
+
+  Still stood the king in thoughtful mood
+And tears of joy his eyes bedewed.
+Then to the best of Gods the best
+Of warrior chiefs his mind expressed:
+
+  “’Twas meet that mid the thousands here
+The searching fire my queen should clear;
+For long within the giant’s bower
+She dwelt the vassal of his power.
+For else had many a slanderous tongue
+Reproaches on mine honour flung,
+And scorned the king who, love-impelled,
+His consort from the proof withheld.
+No doubt had I, but surely knew
+That Janak’s child was pure and true,
+That, come what might, in good and ill
+Her faithful heart was with me still.
+I knew that Rávaṇ could not wrong
+My queen whom virtue made so strong.
+I knew his heart would sink and fail,
+Nor dare her honour to assail,As Ocean, when he raves and roars,
+Fears to o’erleap his bounding shores.
+Now to the worlds her truth is shown,
+And Sítá is again mine own.
+Thus proved before unnumbered eyes,
+On her pure fame no shadow lies.
+As heroes to their glory cleave,
+Mine own dear spouse I ne’er will leave.”
+He ceased: and clasped in fond embrace
+On his dear breast she hid her face.<b>Canto CXXI. Dasaratha.</b>
+
+To him Maheśvar thus replied:
+“O strong-armed hero, lotus-eyed,
+Thou, best of those who love the right,
+Hast nobly fought the wondrous fight.
+Dispelled by thee the doom that spread
+Through trembling earth and heaven is fled.
+The worlds exult in light and bliss,
+And praise thy name, O chief, for this.
+Now peace to Bharat’s heart restore,
+And bid Kausalyá weep no more.
+Thy face let Queen Kaikeyí see,
+Let fond Sumitrá gaze on thee.
+The longing of thy friends relieve,
+The kingdom of thy sires receive.
+Let sons of gentle Sítá born
+Ikshváku’s ancient line adorn.
+Then from all care and foemen freed
+Perform the offering of the steed.
+In pious gifts thy wealth expend,
+Then to the home of Gods ascend,
+Thy sire, this glorious king, behold,
+Among the blest in heaven enrolled.
+He comes from where the Immortals dwell:
+Salute him, for he loves thee well.”  His mandate Raghu’s sons obeyed,
+And to their sire obeisance made,
+Where high he stood above the car
+In wondrous light that shone afar,
+His limbs in radiant garments dressed
+Whereon no spot of dust might rest.
+When on the son he loved so well
+The eyes of Daśaratha fell,
+He strained the hero to his breast
+And thus with gentle words addressed:
+“No joy to me is heavenly bliss,
+For there these eyes my Ráma miss.
+Enrolled on high with saint and sage,
+Thy woes, dear son, my thoughts engage.
+Kaikeyí’s guile I ne’er forget:
+Her cruel words will haunt me yet,
+Which sent thee forth, my son, to roam
+The forest far from me and home.
+Now when I look on each dear face,
+And hold you both in fond embrace,
+My heart is full of joy to see
+The sons I love from danger free.
+Now know I what the Gods designed,
+And how in Ráma’s form enshrined
+The might of Purushottam lay,The tyrant of the worlds to slay.
+Ah, how Kausalyá will rejoice
+To hear again her darling’s voice,
+And, all thy weary wanderings o’er,
+To gaze upon thy face once more.
+Ah blest, for ever blest are they
+Whose eyes shall see the glorious day
+Of thy return in joy at last,
+Thy term of toil and exile past.
+Ayodhyá’s lord, begin thy reign,
+And day by day new glory gain.”
+
+  He ceased: and Ráma thus replied:
+“Be not this grace, O sire, denied.
+Those hasty words, that curse revoke
+Which from thy lips in anger broke:
+“Kaikeyí, be no longer mine:
+I cast thee off, both thee and thine.”
+O father, let no sorrow fall
+On her or hers: thy curse recall.”
+“Yea, she shall live, if so thou wilt,”
+The sire replied, “absolved from guilt.”
+Round Lakshmaṇ then his arms he threw,
+And moved by love began anew:
+“Great store of merit shall be thine,
+And brightly shall thy glory shine;Secure on earth thy brother’s grace.
+And high in heaven shall be thy place.
+Thy glorious king obey and fear:
+To him the triple world is dear.
+God, saint, and sage, by Indra led,
+To Ráma bow the reverent head,
+Nor from the Lord, the lofty-souled,
+Their worship or their praise withhold.
+Heart of the Gods, supreme is he,
+The One who ne’er shall cease to be.”
+
+  On Sítá then he looked and smiled;
+“List to my words” he said, “dear child,
+Let not thy gentle breast retain
+One lingering trace of wrath or pain.
+When by the fire thy truth be proved,
+By love for thee his will was moved.
+The furious flame thy faith confessed
+Which shrank not from the awful test:
+And thou, in every heart enshrined,
+Shalt live the best of womankind.”
+
+  He ceased: he bade the three adieu,
+And home to heaven exulting flew.<b>Canto CXXII. Indra’s Boon.</b>
+
+Then Indra, he whose fiery stroke
+Slew furious Páka, turned and spoke:
+“A glorious day, O chief, is this,
+Rich with the fruit of lasting bliss.
+Well pleased are we: we love thee well
+Now speak, thy secret wishes tell.”
+
+  Thus spake the sovereign of the sky,
+And this was Ráma’s glad reply:
+“If I have won your grace, incline
+To grant this one request of mine.
+Restore, O King: the Vánar dead
+Whose blood for me was nobly shed.
+To life and strength my friends recall,
+And bring them back from Yáma’s hall.
+When, fresh in might the warriors rise,
+Prepare a feast to glad their eyes.
+Let fruits of every season glow,
+And streams of purest water flow.”
+
+  Thus Raghu’s son, great-hearted, prayed,
+And Indra thus his answer made:
+“High is the boon thou seekest: none
+Should win this grace but Raghu’s son.Yet, faithful to the word I spake,
+I grant the prayer for thy dear sake.
+The Vánars whom the giants slew
+Their life and vigour shall renew.
+Their strength repaired, their gashes healed
+Whose torrents dyed the battle field,
+The warrior hosts from death shall rise
+Like sleepers when their slumber flies.”
+
+  Restored from Yáma’s dark domain
+The Vánar legions filled the plain,
+And, round the royal chief arrayed,
+With wondering hearts obeisance paid.
+Each God the son of Raghu praised,
+And cried as loud his voice he raised:
+“Turn, King, to fair Ayodhyá speed,
+And leave thy friends of Vánar breed.
+Thy true devoted consort cheer
+After long days of woe and fear.
+Bharat, thy loyal brother, see,
+A hermit now for love of thee.
+The tears of Queen Kauśalyá dry,
+And light with joy each stepdame’s eye;
+Then consecrated king of men
+Make glad each faithful citizen.”  They ceased: and borne on radiant cars
+Sought their bright home amid the stars.
+
+<b>Canto CXXIII. The Magic Car.</b>
+
+Then slept the tamer of his foes
+And spent the night in calm repose.
+Vibhishaṇ came when morning broke,
+And hailed the royal chief, and spoke:
+“Here wait thee precious oil and scents,
+And rich attire and ornaments.
+The brimming urns are newly filled,
+And women in their duty skilled,
+With lotus-eyes, thy call attend,
+Assistance at thy bath to lend.”
+“Let others,” Ráma cried, “desire
+These precious scents, this rich attire,
+I heed not such delights as these,
+For faithful Bharat, ill at ease,
+Watching for me is keeping now
+Far far away his rigorous vow.
+By Bharat’s side I long to stand,
+I long to see my fatherland.
+Far is Ayodhyá: long, alas,
+The dreary road and hard to pass.”  “One day,” Vibhishaṇ cried, “one day
+Shall bear thee o’er that length of way.
+Is not the wondrous chariot mine,
+Named Pushpak, wrought by hands divine.
+The prize which Rávaṇ seized of old
+Victorious o’er the God of Gold?
+This chariot, kept with utmost care,
+Will waft thee through the fields of air,
+And thou shalt light unwearied down
+In fair Ayodhyá’s royal town.
+But yet if aught that I have done
+Has pleased thee well, O Raghu’s son;
+If still thou carest for thy friend,
+Some little time in Lanká spend;
+There after toil of battle rest
+Within my halls an honoured guest.”
+Again the son of Raghu spake:
+“Thy life was perilled for my sake.
+Thy counsel gave me priceless aid:
+All honours have been richly paid.
+Scarce can my love refuse, O best
+Of giant kind, thy last request.
+But still I yearn once more to see
+My home and all most dear to me;
+Nor can I brook one hour’s delay:
+Forgive me, speed me on my way.”  He ceased: the magic car was brought.
+Of yore by Viśvakarmá wrought.
+In sunlike sheen it flashed and blazed;
+And Raghu’s sons in wonder gazed.
+
+<b>Canto CXXIV. The Departure.</b>
+
+The giant lord the chariot viewed,
+And humbly thus his speech renewed:
+“Behold, O King, the car prepared:
+Now be thy further will declared.”
+He ceased: and Ráma spake once more:
+“These hosts who thronged to Lanká’s shore
+Their faith and might have nobly shown,
+And set thee on the giants’ throne.
+Let pearls and gems and gold repay
+The feats of many a desperate day,
+That all may go triumphant hence
+Proud of their noble recompense.”
+Vibhishaṇ, ready at his call,
+With gold and gems enriched them all.
+Then Ráma clomb the glorious car
+That shone like day’s resplendent star.
+There in his lap he held his dame
+Vailing her eyes in modest shame.
+Beside him Lakshmaṇ took his stand,Whose mighty bow still armed his hand,
+“O King Vibhishaṇ,” Ráma cried,
+“O Vánar chiefs, so long allied,
+My comrades till the foemen fell,
+List, for I speak a long farewell.
+The task, in doubt and fear begun,
+With your good aid is nobly done.
+Leave Lanká’s shore, your steps retrace,
+Brave warriors of the Vánar race.
+Thou, King Sugríva, true, through all,
+To friendship’s bond and duty’s call,
+Seek far Kishkindhá with thy train
+And o’er thy realm in glory reign.
+Farewell, Vibhishaṇ, Lanká’s throne
+Won by our arms is now thine own,
+Thou, mighty lord, hast nought to dread
+From heavenly Gods by Indra led.
+My last farewell, 0 King, receive,
+For Lanká’s isle this hour I leave.”
+
+  Loud rose their cry in answer: “We,
+O Raghu’s son, would go with thee.
+With thee delighted would we stray
+Where sweet Ayodhyá’s groves are gay,
+Then in the joyous synod view
+King-making balm thy brows bedew;Our homage to Kauśalyá pay,
+And hasten on our homeward way.”
+
+  Their prayer the son of Raghu heard,
+And spoke, his heart with rapture stirred:
+“Sugríva, O my faithful friend,
+Vibhishaṇ and ye chiefs, ascend.
+A joy beyond all joys the best
+Will fill my overflowing breast,
+If girt by you, O noble band,
+I seek again my native land.”
+With Vánar lords in danger tried
+Sugríva sprang to Ráma’s side,
+And girt by chiefs of giant kind
+Vibhíshan’s step was close behind.
+Swift through the air, as Ráma chose,
+The wondrous car from earth arose.
+And decked with swans and silver wings
+Bore through the clouds its freight of kings.<b>Canto CXXV. The Return.</b>
+
+Then Ráma, speeding through the skies,
+Bent on the earth his eager eyes:
+“Look, Sítá, see, divinely planned
+And built by Viśvakarmá’s hand,
+Lanká the lovely city rest
+Enthroned on Mount Trikúṭa’s crest
+Behold those fields, ensanguined yet,
+Where Vánar hosts and giants met.
+There, vainly screened by charm and spell,
+The robber Rávan fought and fell.
+There knelt Mandodarí(1021) and shed
+Her tears in floods for Rávan dead.
+And every dame who loved him sent
+From her sad heart her wild lament.
+There gleams the margin of the deep,
+Where, worn with toil, we sank to sleep.
+Look, love, the unconquered sea behold,
+King Varuṇ’s home ordained of old,
+Whose boundless waters roar and swell
+Rich with their store of pearl and shell.
+O see, the morning sun is bright
+On fair Hiraṇyanábha’s(1022) height,
+Who rose from Ocean’s sheltering breast
+That Hanumán might stay and rest.There stretches, famed for evermore,
+The wondrous bridge from shore to shore.
+The worlds, to life’s remotest day,
+Due reverence to the work shall pay,
+Which holier for the lapse of time
+Shall give release from sin and crime.
+Now thither bend, dear love, thine eyes
+Where green with groves Kishkindhá lies,
+The seat of King Sugríva’s reign,
+Where Báli by this hand was slain.(1023)
+There Ríshyamúka’s hill behold
+Bright gleaming with embedded gold.
+There too my wandering foot I set,
+There King Sugríva first I met.
+And, where yon trees their branches wave,
+My promise of assistance gave.
+There, flushed with lilies, Pampá shines
+With banks which greenest foliage lines,
+Where melancholy steps I bent
+And mourned thee with a mad lament.
+There fierce Kabandha, spreading wide
+His giant arms, in battle died.
+Turn, Sítá, turn thine eyes and see
+In Janasthán that glorious tree:
+There Rávaṇ, lord of giants slewOur friend Jaṭáyus brave and true,
+Thy champion in the hopeless strife,
+Who gave for thee his noble life.
+Now mark that glade amid the trees
+Where once we lived as devotees.
+See, see our leafy cot between
+Those waving boughs of densest green,
+Where Rávaṇ seized his prize and stole
+My love the darling of my soul.
+O, look again: beneath thee gleams
+Godávarí the best of streams,
+Whose lucid waters sweetly glide
+By lilies that adorn her side.
+There dwelt Agastya, holy sage,
+In plantain-sheltered hermitage.
+See Śarabhanga’s humble shed
+Which sovereign Indra visited.
+See where the gentle hermits dwell
+Neath Atri’s rule who loved us well;
+Where once thine eyes were blest to see
+His sainted dame who talked with thee.
+Now rest thine eyes with new delight
+On Chitrakúṭa’s woody height,
+See Jumna flashing in the sun
+Through groves of brilliant foliage run.Screened by the shade of spreading boughs.
+There Bharadvája keeps his vows,
+There Gangá, river of the skies,
+Rolls the sweet wave that purifies,
+There Śringavera’s towers ascend
+Where Guha reigns, mine ancient friend.
+I see, I see thy glittering spires,
+Ayodhyá, city of my sires.
+Bow down, bow down thy head, my sweet,
+Our home, our long-lost home to greet.”<b>Canto CXXVI. Bharat Consoled.</b>
+
+But Ráma bade the chariot stay,
+And halting in his airy way,
+In Bharadvája’s holy shade
+His homage to the hermit paid.
+“O saint,” he cried, “I yearn to know
+My dear Ayodhyá’s weal and woe.
+O tell me that the people thrive,
+And that the queens are yet alive.”
+
+  Joy gleamed in Bhardvája’s eye,
+Who gently smiled and made reply:
+“Thy brother, studious of thy will,
+Is faithful and obedient still.
+In tangled twine he coils his hair:
+Thy safe return is all his care.
+Before thy shoes he humbly bends,
+And to thy house and realm attends.
+When first these dreary years began,
+When first I saw the banished man,
+With Sítá, in his hermit coat,
+At this sad heart compassion smote.
+My breast with tender pity swelled:
+I saw thee from thy home expelled,
+Reft of all princely state, forlorn,A hapless wanderer travel-worn,
+Firm in thy purpose to fulfil
+Thy duty and thy father’s will.
+But boundless is my rapture now:
+Triumphant, girt with friends, art thou.
+Where’er thy wandering steps have been,
+Thy joy and woe mine eyes have seen.
+Thy glorious deeds to me art known,
+The Bráhmans saved, the foes o’erthrown.
+Such power have countless seasons spent
+In penance and devotion lent.
+Thy virtues, best of chiefs, I know,
+And now a boon would fain bestow.
+This hospitable gift(1024) receive:
+Then with the dawn my dwelling leave.”
+The bended head of Ráma showed
+His reverence for the grace bestowed;
+Then for each brave companion’s sake
+He sought a further boon and spake:
+
+  “O let that mighty power of thine
+The road to fair Ayodhyá line
+With trees where fruit of every hue
+The Vánars’ eye and taste may woo,
+And flowers of every season, sweet
+With stores of honeyed juice, may meet.”The hero ceased: the hermit bent
+His reverend head in glad assent;
+And swift, as Bharadvája willed,
+The prayer of Ráma was fulfilled.
+For many a league the lengthening road
+Trees thick with fruit and blossom showed
+With luscious beauty to entice
+The taste like trees of Paradise.
+The Vánars passed beneath the shade
+Of that delightful colonnade,
+Still tasting with unbounded glee
+The treasures of each wondrous tree.<b>Canto CXXVII. Ráma’s Message.</b>
+
+But Ráma, when he first looked down
+And saw afar Ayodhyá’s town,
+Had called Hanumán to his side,
+The chief on whom his heart relied,
+And said: “Brave Vánar, good at need,
+Haste onward, to Ayodhyá speed,
+And learn, I pray, if all be well
+With those who in the palace dwell.
+But as thou speedest on thy way
+Awhile at Śringavera stay.
+Tell Guha the Nishádas’ lord,
+That victor, with my queen restored,
+In health and strength with many a friend
+Homeward again my steps I bend.
+Thence by the road that he will show
+On to Ayodhyá swiftly go.
+There with my love my brother greet,
+And all our wondrous tale repeat.
+Say that victorious in the strife
+I come with Lakshmaṇ and my wife,
+Then mark with keenest eye each trace
+Of joy or grief on Bharat’s face.
+Be all his gestures closely viewed,
+Each change of look and attitude.Where breathes the man who will not cling
+To all that glorifies a king?
+Where beats the heart that can resign
+An ancient kingdom, nor repine
+To lose a land renowned for breeds
+Of elephants and warrior steeds?
+If, won by custom day by day,
+My brother Bharat thirsts for sway,
+Still let him rule the nations, still
+The throne of old Ikshváku fill.
+Go, mark him well: his feelings learn,
+And, ere we yet be near return.”
+
+  He ceased: and, garbed in human form,
+Forth sped Hanúmán swift as storm.
+Sublime in air he rose, and through
+The region of his father flew.
+He saw far far beneath his feet
+Where Gangá’s flood and Jumna meet.
+Descending from the upper air
+He entered Śringavera, where
+King Guha’s heart was well content
+To hear the message Ráma sent.
+Then, with his mighty strength renewed,
+The Vánar chief his way pursued,
+Válúkiní was far behind,And Gomatí with forests lined,
+And golden fields and pastures gay
+With flocks and herds beneath him lay.
+Then Nandigráma charmed his eye
+Where flowers were bright with every dye,
+And trees of lovely foliage made
+With meeting boughs delightful shade,
+Where women watched in trim array
+Their little sons’ and grandsons’ play.
+His eager eye on Bharat fell
+Who sat before his lonely cell.
+In hermit weed, with tangled hair,
+Pale, weak, and worn with ceaseless care.
+His royal pomp and state resigned
+For Ráma still he watched and pined,
+Still to his dreary vows adhered,
+And royal Ráma’s shoes revered.
+Yet still the terror of his arm
+Preserved the land from fear and harm.
+
+  The Wind-God’s son, in form a man,
+Raised reverent hands and thus began:
+“Fond greeting, Prince, I bring to thee,
+And Ráma’s self has sent it: he
+For whom thy spirit sorrows yet
+As for a hapless anchoretIn Daṇḍak wood, in dire distress,
+With matted hair and hermit dress.
+This sorrow from thy bosom fling,
+And hear the tale of joy I bring.
+This day thy brother shalt thou meet
+Exulting in his foe’s defeat,
+Freed from his toil and lengthened vow,
+The light of victory on his brow,
+With Sítá, Lakshmaṇ and his friends
+Homeward at last his steps he bends.”
+
+  Then joy, too mighty for control,
+Rushed in full flood o’er Bharat’s soul;
+His reeling sense and strength gave way,
+And fainting on the earth he lay,
+At length upspringing from the ground,
+His arms about Hanúmán wound,
+With tender tears of rapture sprung,
+He dewed the neck to which he clung:
+“Art thou a God or man,” he cried,
+“Whom love and pity hither guide?
+For this a hundred thousand kine,
+A hundred villages be thine.
+A score of maids of spotless lives
+To thee I give to be thy wives,
+Of golden hue and bright of face,Each lovely for her tender grace.”
+
+  He ceased a while by joy subdued,
+And then his eager speech renewed.
+
+<b>Canto CXXVIII. Hanumán’s Story.</b>
+
+“In doubt and fear long years have passed
+And glorious tidings come at last.
+True, true is now the ancient verse
+Which men in time of bliss rehearse:
+“Once only in a hundred years
+Great joy to mortal men appears.”
+But now his woes and triumph tell,
+And loss and gain as each befell.”
+He ceased: Hanúmán mighty-souled
+The tale of Ráma’s wanderings told
+From that first day on which he stood
+In the drear shade of Daṇḍak wood.
+He told how fierce Virádha fell;
+He told of Śarabhanga’s cell
+Where Ráma saw with wondering eyes
+Indra descended from the skies.
+He told how Śúrpaṇakhí came,
+Her soul aglow with amorous flame,
+And fled repulsed, with rage and tears,Reft of her nose and severed ears.
+He told how Ráma’s might subdued
+The giants’ furious multitude;
+How Khara with the troops he led
+And Triśirás and Dúshaṇ bled:
+How Ráma, tempted from his cot,
+The golden deer pursued and shot,
+And Rávaṇ came and stole away
+The Maithil queen his hapless prey,
+When, as he fought, the dame to save,
+His noble life Jatáyus gave:
+How Ráma still the the search renewed,
+The robber to his hold pursued,
+Bridging the sea from shore to shore,
+And found his queen to part no more.(1025)<b>Canto CXXIX. The Meeting With Bharat.</b>
+
+O’erwhelmed with rapture Bharat heard
+The tale that all his being stirred,
+And, heralding the glad event,
+This order to Śatrughna sent:
+“Let every shrine with flowers be gay
+Let incense burn and music play.
+Go forth, go forth to meet your king,
+Let tabours sound and minstrels sing,
+Let bards swell high the note of praise
+Skilled in the lore of ancient days,
+Call forth the royal matrons: call
+Each noble from the council hall.
+Send all we love and honour most,
+Send Bráhmans and the warrior host,
+A glorious company to bring
+In triumph home our lord the king.”
+
+  Great rapture filled Śatrughna’s breast,
+Obedient to his brother’s hest.
+“Send forth ten thousand men” he cried,
+“Let brawny arms be stoutly plied,
+And, smoothing all with skilful care,
+The road for Kośal’s king prepare.
+Then o’er the earth let thousands throwFresh showers of water cool as snow,
+And others strew with garlands gay
+With loveliest blooms our monarch’s way.
+On tower and temple porch and gate
+Let banners wave in royal state,
+And be each roof and terrace lined
+With blossoms loose and chaplets twined.”
+
+  The nobles hasting forth fulfilled
+His order as Śatrughna willed.
+Sublime on elephants they rode
+Whose gilded girths with jewels glowed.
+Attended close by thousands more
+Gay with the gear and flags they bore.
+A thousand chiefs their steeds bestrode,
+Their glittering cars a thousand showed.
+And countless hosts in rich array
+Pursued on foot their eager way.
+Veiled from the air with silken screens
+In litters rode the widowed queens.
+Kausalyá first, acknowledged head
+And sovereign of the household, led:
+Sumitrá next, and after, dames
+Of lower rank and humbler names.
+Then compassed by a white-robed throng
+Of Bráhmans, heralded with song,With shouts of joy from countless throats,
+And shells’ and tambours’ mingled notes,
+And drums resounding long and loud,
+Exulting Bharat joined the crowd.
+Still on his head, well-trained in lore
+Of duty, Ráma’s shoes he bore.
+The moon-white canopy was spread
+With flowery twine engarlanded,
+And jewelled cheuries, meet to hold
+O’er Ráma’s brow, shone bright with gold,
+Though Nandigráma’s town they neared,
+Of Ráma yet no sign appeared.
+Then Bharat called the Vánar chief
+And questioned thus in doubt and grief:
+“Hast thou uncertain, like thy kind,
+A sweet delusive guile designed?
+Where, where is royal Ráma? show
+The hero, victor of the foe.
+I gaze, but see no Vánars still
+Who wear each varied shape at will.”
+
+  In eager love thus Bharat cried,
+And thus the Wind-God’s son replied:
+“Look, Bharat, on those laden trees
+That murmur with the song of bees;
+For Ráma’s sake the saint has madeUntimely fruits, unwonted shade.
+Such power in ages long ago
+Could Indra’s gracious boon bestow.
+O, hear the Vánars’ voices, hear
+The shouting which proclaims them near.
+E’en now about to cross they seem
+Sweet Gomatí’s delightful stream.
+I see, I see the car designed
+By Brahmá’s own creative mind,
+The car which, radiant as the moon,
+Moves at the will by Brahmá’s boon;
+The car which once was Rávan’s pride,
+The victor’s spoil when Rávan died.
+Look, there are Raghu’s sons: between
+The brothers stands the rescued queen.
+There is Vibhishaṇ full in view,
+Sugríva and his retinue.”
+
+  He ceased: then rapture loosed each tongue:
+From men and dames, from old and young,
+One long, one universal cry,
+’Tis he, ’tis Ráma, smote the sky.
+All lighted down with eager speed
+From elephant and car and steed,
+And every joyful eye intent
+On Ráma’s moonbright face was bent.Entranced a moment Bharat gazed:
+Then reverential hands he raised,
+And on his brother humbly pressed
+The honours due to welcome guest.
+Then Bharat clomb the car to greet
+His king and bowed him at his feet,
+Till Ráma raised him face to face
+And held him in a close embrace.
+Then Lakshmaṇ and the Maithil dame
+He greeted as he spoke his name(1026)
+He greeted next, supreme in place,
+The sovereign of the Vánar race,
+And Jámbaván and Báli’s son,
+And lords and chiefs, omitting none.(1027)
+Sugríva to his heart he pressed
+And thus with grateful words addressed:
+“Four brothers, Vánar king, were we,
+And now we boast a fifth in thee.
+By kindly acts a friend we know:
+Offence and wrong proclaim the foe.”
+To King Vibhishaṇ then he spake:
+“Well hast thou fought for Ráma’s sake.”
+Nor was the brave Śatrughna slow
+His reverential love to show
+To both his brothers, as was meet,And venerate the lady’s feet.
+Then Ráma to his mother came,
+Saw her pale cheek and wasted frame,
+With gentle words her heart consoled,
+And clasped her feet with loving hold.
+Then at Sumitrá’s feet he bent,
+And fair Kaikeyí’s, reverent,
+Greeted each dame from chief to least,
+And bowed him to the household priest.
+Up rose a shout from all the throng:
+“O welcome, Ráma, mourned so long.
+Welcome, Kausalyá’s joy and pride,”
+Ten hundred thousand voices cried.
+Then Bharat placed, in duty taught,
+On Ráma’s feet the shoes he brought:
+“My King,” he cried, “receive again
+The pledge preserved through years of pain,
+The rule and lordship of the land
+Entrusted to my weaker hand.
+No more I sigh o’er sorrows past,
+My birth and life are blest at last
+In the glad sight this day has shown,
+When Ráma comes to rule his own.”
+
+  He ceased: the faithful love that moved
+The prince’s soul each heart approved;Nor could the Vánar chiefs refrain
+From tender tears that fell like rain.
+Then Ráma, stirred with joy anew,
+His arms about his brother threw,
+And to the grove his course he bent
+Where Bharat’s hermit days were spent.
+Alighting in that pure retreat
+He pressed the earth with eager feet.
+Then, at his hest, the car rose high
+And sailing through the northern sky
+Sped homeward to the Lord of Gold
+Who owned the wondrous prize of old.(1028)<b>Canto CXXX. The Consecration.</b>
+
+Then, reverent hand to hand applied,
+Thus Bharat to his brother cried:
+“Thy realm, O King, is now restored,
+Uninjured to the rightful lord.
+This feeble arm with toil and pain,
+The weighty charge could scarce sustain.
+And the great burthen wellnigh broke
+The neck untrained to bear the yoke.
+The royal swan outspeeds the crow:
+The steed is swift, the mule is slow,
+Nor can my feeble feet be led
+O’er the rough ways where thine should tread.
+Now grant what all thy subjects ask:
+Begin, O King, thy royal task.
+Now let our longing eyes behold
+The glorious rite ordained of old,
+And on the new-found monarch’s head
+Let consecrating drops be shed.”
+
+  He ceased; victorious Ráma bent
+His head in token of assent.
+He sat, and tonsors trimmed with care
+His tangles of neglected hair
+Then, duly bathed, the hero shoneWith all his splendid raiment on.
+And Sítá with the matrons’ aid
+Her limbs in shining robes arrayed,
+Sumantra then, the charioteer,
+Drew, ordered by Śatrughna near,
+And stayed within the hermit grove
+The chariot and the steeds he drove.
+Therein Sugríva’s consorts, graced
+With gems, and Ráma’s queen were placed,
+All fain Ayodhyá to behold:
+And swift away the chariot rolled.
+Like Indra Lord of Thousand Eyes,
+Drawn by fleet lions through the skies.
+Thus radiant in his glory showed
+King Ráma as he homeward rode,
+In power and might unparalleled.
+The reins the hand of Bharat held.
+Above the peerless victor’s head
+The snow-white shade Śatrughna spread,
+And Lakshmaṇ’s ever-ready hand
+His forehead with a chourie fanned.
+Vibhishaṇ close to Lakshmaṇ’s side
+Sharing his task a chourie plied.
+Sugríva on Śatrunjay came,
+An elephant of hugest frame:Nine thousand others bore, behind,
+The chieftains of the Vánar kind
+All gay, in forms of human mould,
+With rich attire and gems and gold.
+Thus borne along in royal state
+King Ráma reached Ayodbyá’s gate
+With merry noise of shells and drums
+And joyful shouts, He comes, he comes,
+A Bráhman host with solemn tread,
+And kine the long procession led,
+And happy maids in ordered bands
+Threw grain and gold with liberal hands.
+Neath gorgeous flags that waved in rows
+On towers and roofs and porticoes.
+Mid merry crowds who sang and cheered
+The palace of the king they neared.
+Then Raghu’s son to Bharat, best
+Of duty’s slaves, these words addressed:
+“Pass onward to the monarch’s hall.
+The high-souled Vánars with thee call,
+And let the chieftains, as is meet,
+The widows of our father greet.
+And to the Vánar king assign
+Those chambers, best of all, which shine
+With lazulite and pearl inlaid,
+And pleasant grounds with flowers and shade.”  He ceased: and Bharat bent his head;
+Sugríva by the hand he led
+And passed within the palace where
+Stood couches which Śatrughna’s care,
+With robes and hangings richly dyed,
+And burning lamps, had seen supplied.
+Then Bharat spake: “I pray thee, friend,
+Thy speedy messengers to send,
+Each sacred requisite to bring
+That we may consecrate our king.”
+Sugríva raised four urns of gold,
+The water for the rite to hold,
+And bade four swiftest Vánars flee
+And fill them from each distant sea.
+Then east and west and south and north
+The Vánar envoys hastened forth.
+Each in swift flight an ocean sought
+And back through air his treasure brought,
+And full five hundred floods beside
+Pure water for the king supplied.
+Then girt by many a Bráhman sage,
+Vaśishṭha, chief for reverend age,
+High on a throne with jewels graced
+King Ráma and his Sítá placed.
+There by Jábáli, far revered,Vijay and Kaśyap’s son appeared;
+By Gautam’s side Kátváyan stood,
+And Vámadeva wise and good,
+Whose holy hands in order shed
+The pure sweet drops on Ráma’s head.
+Then priests and maids and warriors, all
+Approaching at Vaśishṭha’s call,
+With sacred drops bedewed their king,
+The centre of a joyous ring,
+The guardians of the worlds, on high,
+And all the children of the sky
+From herbs wherewith their hands were filled
+Rare juices on his brow distilled.
+His brows were bound with glistering gold
+Which Manu’s self had worn of old,
+Bright with the flash of many a gem
+His sire’s ancestral diadem.
+Śatrughna lent his willing aid
+And o’er him held the regal shade:
+The monarchs whom his arm had saved
+The chouries round his forehead waved.
+A golden chain, that flashed and glowed
+With gems the God of Wind bestowed:
+Mahendra gave a glorious string
+Of fairest pearls to deck the king,The skies with acclamation rang,
+The gay nymphs danced, the minstrels sang.
+On that blest day the joyful plain
+Was clothed anew with golden grain.
+The trees the witching influence knew,
+And bent with fruits of loveliest hue,
+And Ráma’s consecration lent
+New sweetness to each flowret’s scent.
+The monarch, joy of Raghu’s line,
+Gave largess to the Bráhmans, kine
+And steeds unnumbered, wealth untold
+Of robes and pearls and gems and gold.
+A jewelled chain, whose lustre passed
+The glory of the sun, he cast
+About his friend Sugríva’s neck;
+And, Angad Báli’s son to deck,
+He gave a pair of armlets bright
+With diamond and lazulite.
+A string of pearls of matchless hue
+Which gleams like tender moonlight threw
+Adorned with gems of brightest sheen,
+He gave to grace his darling queen.
+The offering from his hand received
+A moment on her bosom heaved;
+Then from her neck the chain she drew,A glance on all the Vánars threw,
+And wistful eyes on Ráma bent
+As still she held the ornament.
+Her wish he knew, and made reply
+To that mute question of her eye:
+“Yea, love; the chain on him bestow
+Whose wisdom truth and might we know,
+The firm ally, the faithful friend
+Through toil and peril to the end.”
+
+  Then on Hanúmán’s bosom hung
+The chain which Sítá’s hand had flung:
+So may a cloud, when winds are still
+With moon-lit silver gird a hill.
+
+  To every Vánar Ráma gave
+Rich treasures from the mine and wave.
+And with their honours well content
+Homeward their steps the chieftains bent.
+Ten thousand years Ayodhyá, blest
+With Ráma’s rule, had peace and rest,
+No widow mourned her murdered mate,
+No house was ever desolate.
+The happy land no murrain knew,
+The flocks and herds increased and grew.
+The earth her kindly fruits supplied,No harvest failed, no children died.
+Unknown were want, disease, and crime:
+So calm, so happy was the time.(1029)
+
+APPENDIX.
+
+<b>Section XIII. Rávan Doomed.</b>
+
+Afterwards Rishyaśring said again to the King “I will perform another sacrificial act to secure thee a son.” Then the son of Vibháṇdak, of subdued passions, seeking the happiness of the king, proceeded to perform the sacrifice for the accomplishment of his wishes. Hither were previously collected the gods, with the Gandharvas, the Siddhas and the sages, for the sake of receiving their respective shares, Brahmá too, the sovereign of the gods, with Stháṇu, and Náráyaṇa, chief of beings and the four supporters of the universe, and the divine mothers of all the celestials, met together there. To the Aśvamedha, the great sacrifice of the magnanimous monarch, came also Indra the glorious one, surrounded by the Maruts. Rishyaśring then supplicated the gods assembled for their share of the sacrifice (saying), “This devout king Daśaratha, who, through the desire of offspring, confiding in you, has performed sacred austerities, and who has offered to you the sacrifice called Aśvamedha, is about to perform another sacrifice for the sake of obtaining sons: To him thus desirous of offspring be pleased to grant the blessing: I supplicate you all with joined hands. May he have four sons, renowned through the universe.” The gods replied to the sage’s son supplicating with joined hands, “Be it so: thou, O Bráhman, art ever to be regarded by us, as the king is in a peculiar manner.The lord of men by this sacrifice shall obtain the great object of his desires.” Having thus said, the gods preceded by Indra, disappeared.
+
+They all then having seen that (sacrifice) performed by the great sage according to the ordinance went to Prajápati the lord of mankind, and with joined hands addressed Brahmá the giver of blessings, “O Brahmá, the Ráksha Rávaṇa by name, to whom a blessing was awarded by thee, through pride troubleth all of us the gods, and even the great sages, who perpetually practise sacred austerities. We, O glorious one, regarding the promise formerly granted by thy kindness that he should be invulnerable to the gods, the Dánavas and the Yakshas have born (<i>sic</i>) all, (his oppression); this lord of Rákshas therefore distresses the universe; and, inflated by this promise unjustly vexes the divine sages, the Yakshas, and Gandharvas, the Asuras, and men: where Rávaṇa remains there the sun loses his force, the winds through fear of him do not blow; the fire ceases to burn; the rolling ocean, seeing him, ceases to move its waves. Viśravas, distressed by his power, has abandoned Lanká and fled. O divine one save us from Rávaṇa, who fills the world with noise and tumult. O giver of desired things, be pleased to contrive a way for his destruction.”
+
+Brahmá thus informed by the devas, reflecting, replied, “Oh! I have devised the method for slaying this outrageous tyrant. Upon his requesting, ‘May I be invulnerable to the divine sages, the Gaundharvas, the Yakshas, the Rákshasas and the serpents,’ I replied ‘Be it so.’ This Ráksha, through contempt, said nothing respecting man; therefore this wicked one shall be destroyed by man.” The gods, preceded by Śakra, hearing these words spoken by Brahmá, were filled with joy.At this time Vishṇu the glorious, the lord of the world, arrayed in yellow, with hand ornaments of glowing gold, riding on Vinateya, as the sun on a cloud, arrived with his conch, his discus, and his club in his hand. Being adored by the excellent celestials, and welcomed by Brahmá, he drew near and stood before him. All the gods then addressed Vishṇu, “O Madhusudana, thou art able to abolish the distress of the distressed. We intreat thee, be our sanctuary, O Vishṇu.” Vishṇu replied, “Say, what shall I do?” The celestials hearing these his words added further. “The virtuous, the encourager of excellence, eminent for truth, the firm observer of his vows, being childless, is performing an Aśvamedha for the purpose of obtaining offspring. For the sake of the good of the universe, we intreat thee, O Vishṇu, to become his son. Dividing thyself into four parts, in the wombs of his three consorts equal to Hari, Śrí, and Kirti, assume the sonship of king Daśaratha, the lord of Ayodhyá, eminent in the knowledge of duty, generous and illustrious, as the great sages. Thus becoming man, O Vishṇu, conquer in battle Rávaṇa, the terror of the universe, who is invulnerable to the gods. This ignorant Rákshasa Rávaṇa, by the exertion of his power, afflicts the gods, the Gandharvaa, the Siddhas, and the most excellent sages; these sages, the Gandharvas, and the Apsaras, sporting in the forest Nandana have been destroyed by that furious one. We, with the sages, are come to thee seeking his destruction. The Siddhas, the Gandharvas, and the Yakshas betake themselves to thee, thou art our only refuge; O Deva, afflicter of enemies, regard the world of men, and destroy the enemy of the gods.”Vishṇu, the sovereign of the gods, the chief of the celestials, adored by all beings, being thus supplicated, replied to all the assembled gods (standing) before Brahmá, “Abandon fear; peace be with you; for your benefit having killed Rávaṇa the cruel, destructively active, the cause of fear to the divine sages, together with all his posterity, his courtiers and counsellors, and his relations, and friends, protecting the earth, I will remain incarnate among men for the space of eleven thousand years.”
+
+Having given this promise to the gods, the divine Vishṇu, ardent in the work, sought a birth-place among men. Dividing himself into four parts, he whose eyes resemble the lotus and the pulasa, the lotus petal-eyed, chose for his father Daśaratha the sovereign of men. The divine sages then with the Gandharvas, the Rudras, and the (different sorts of) Apsaras, in the most excellent strains, praised the destroyer of Madhu, (saying) “Root up Rávaṇa, of fervid energy, the devastator, the enemy of Indra swollen with pride. Destroy him, who causes universal lamentation, the annoyer of the holy ascetics, terrible, the terror of the devout Tapaswis. Having destroyed Rávaṇa, tremendously powerful, who causes universal weeping, together with his army and friends, dismissing all sorrow, return to heaven, the place free from stain and sin, and protected by the sovereign of the celestial powers.”
+
+Thus far the Section, containing the plan for the death of Rávaṇ.
+
+CAREY AND MARSHMAN.
+
+Caput XIV. RATIO NECANDI RAVANAE EXCOGITATA.Prudens ille, voluminum sacrorum gnarus, responsum quod dederat aliquamdiu meditatus, mente ad se revocata regem deuno est effatus: Parabo tibi aliud sacrum, genitale, prolis masculae adipiscendae gratia, cum carminibus in ATHARVANIS exordio expressis rite peragendum. Tum coepit modestus Vibhândaci filius, regis commodis intentus, parare sacrum, quo eius desiderium expleret. Iam’antea eo convenerant, ut suam quisque portionem acciperent, Dî cum fidicinum coelestium choris, Beatique cum Sapientibus; Brachman Superûm regnator, Sthânus nec non augustus Nârâyanus, Indrasque almus, coram visendus Ventorum cohorte circumdatus, in magno isto sacrificio equino regis magnanimi. Ibidem vates ille deos, qui portiones suas accipiendi gratia advenerant, apprecatus, En inquit, hicce ex Dasarathus filiorum desiderio castimoniis adstrictus, fidei plenus, vestrum numen adoravit sacrificio equino. Nunc iterum accingit se ad aliud sacrum peragendum: quamobrem aequum est, ut filios cupienti vos faveatis. Ille ego, qui manus supplices tendo, vos universos pro eo apprecor: nascantur ei filii quatuor, faina per triplicem mundum clari. Divi supplicem vatis filium invicem affari: Fiat quod petis! Tu nobis, virsancte, imprimis es venerandus, nee minus rex ille; compos fiet voti sui egregii hominum princeps. Ita locuti Dî Indra duce, ex oculis evanuerunt.
+
+Superi vero, legitime in concilio congregati. BRACHMANEM mundi creatorem his verbis compellarunt: Tuo munere auctus, O Brachman! gigas nomine Râvanas, prae superbia nos omnes vexat, pariterque Sapientes castimoniis gaudentes. A te propitio olim ex voto ei hoc munus concessum fuit, ut ne a diis, Danuidis, Geniisve necari posset. Nos, oraculum tuum reveriti, facinora eius qualiacunque toleramus.At ille gigantum tyrannus ternos mundos gravibus iniuriis vexat Deos, Sapientes, Genios, Fidicines coelestes, Titanes, mortales denique, exsuperat ille aegre cohibendus, tuoque munere demens. Non ibi calet sol, neque Ventus prae timore spirat, nee flagrat ignis, ubi Râvanas versatur. Ipse oceanus, vagis fluctibus redimitus, isto viso stat immotus; eiectus fuit e sede sua Cuvêrus, huius robore vexatus. Ergo ingens nobis periculum imminet ab hoc gigante visu horribili; tuum est, alme Parens! auxilium parare, quo hic deleatur. Ita admonitus ille a diis universis, paulisper meditatus, Ehem! inquit, hancce inveni rationem nefarium istum necandi. Petierat is a me, ut a Gandharvis, a Geniis, a Divis, Danuibus Gigantibusque necari non posset et me annuente voto suo potitus est. Prae contemptu vero monstrum illud homines non commemoravit: ideo ab homine est necandus: nullum aliud exstat leti genus, quod ei sit fatale. Postquam audiverant gratum hunc sermonem BRACHMANIS ore prolatum, Dî cum duce suo Indra summopere gaudio erecti sunt. Eodem temporis momento Vishnus, istuc accessit, splendore insignis, concham, discum et clavum manibus gestans, croceo vestitu, mundi dominus, vulturis Vinateii dorso, sicuti sol nimbo, vectus, armillas ex auro candente gerens, salutatus a Superûm primoribus. Quem laudibus celebratum reverenter Dî universi compellarunt. Tu animantium afflictorum es vindex, Madhûs interfector! quamobrem nos afflicti te apprecamur. Sis praesidio nobis numine tuo inconcusso. Dicite, inquit Vishnus, quid pro vobis facere me oporteat. Audito eius sermone, Dî hunc in modum respondent: Rex quidam, nomine Dasarathus, austeris castimoniis sese castigavit, litavit sacrificio equino, prolis cupidus et prole carens.Nostro hortatu tu, Vishnus, conditionem natorum eius subeas: ex tribus eius uxoribus, Pudicitiae, Venustatis et Famae similibus, nasci, velis, temetipsum quadrifariam dividens. Ibi tu in humanam naturam conversus Râvanam, gravissimam mundi pestem, diis insuperabilem, O Vishnus! proelio caede. Gigas ille vecors Râvanas Deos cum Fidicinum choris, Beatos et Sapientes praestantissimos vexat, audacia superbiens. Etenim ab hoc furioso Sapientes Fidicines et nymphae, ludentes in Nandano viridario, sunt proculcati. Tu es nostrum omnium summa salus, divine bellator! Ut deoram hostes extinguas, ad sortem humanam animum converte. Augustus ille Nârâyanus, diis hunc in modum coram hortantibus, eosdem apto hoc sermone compellavit: Quare, quaeso, hac in re negotium vestrum a me potissimum, corporea specie palam facto, est peragendum aut unde tantus vobis terror fuit iniectus? His verbis a Vishnû interrogati Dî talia proferre: Terror nobis instat, O Vishnus! a Râvana mundi direptore; a quo nos vindicare, corpore humano assumpto, tuum est. Nemo alius coelicoiarum praeter te hunc scelestum enecare potis est. Nimirum ille, O hostium domitor! per diuturnum tempus sese excruciaverat severissima abstinentia, qua magnus hicce rerum Parens propitius ipsi redditus est. Itaque almus votorum sponsor olim ei concessit securitatem ab ommibus animantibus, hominibus tamen exceptis. Hinc ilium, voti compotem, non aliunde quam ab homine necis periculum urget: tu ergo, humanitate assumpta eum intertice. Sic monitus Vishnus, Superûm princeps, quem mundus universus adorat, magnum Parentem oeterosque deos, in concilio congregatos, recti auctores, affatur: Mittite timorem; bene bobis eveniat!Vestrae salutis gratia, postquam praelio necavero Râvanam cum filiis nepotibusque, cum amicis, ministris, cognatis sociisque, crudelem istum aegre cohibendum, qui divinis Sapientibus terrorem meutit, per decem millia annorum decies centenis additis, commorabor in mortalium sedibus, orbem terrarum imperio regens. Tum divini sapientes et Fidicines conjuncti cum Rudris nympharumque choris celebravere Madhûs interfectorem hymnis, quales sedem aetheriam decent.
+
+“Râvanam ilium insolentem, acri impetu actum, superbia elatum, Superûm hostem, tumultus cientem, bonorum piorumque pestem, humanitate assumpta pessamdare tuum est.”
+
+SCHLEGEL.
+
+Caput XIV. IL MEZZO STABILITO PER UCCIDERE RÁVANO.
+
+Ma Riseyasringo soggiunse poscia al re: Tappresterò io un altro rito santissimo, genitale, onde tu conseguisca la prole che tu bramí. E in quel punto stesso il saggio figliulo di Vibhândaco, intento alla prosperità del re, pose mano al sacro rito per condurre ad effetto il suo desiderio. Già erano prima, per ricevere ciascuno la sua parte, qui convenuti al gran sacrifizio del re magnanimo l’Asvamedha, i Devi coi Gandharvi, i Siddhi e i Muni, Brahma Signor dei Sari, Sthânu e l’ Augusto Nârâyana, i quattio custodi dell’ universo e le Madri degli Iddu, i Yacsi insieme cogli Dei, e il sovrano, venerando Indra, visibile, circondato dalla schiera dei Maruti.Quivi così parlò Riscyasringo agli Dei venuti a partecipare del sacrifizio: Questo è il re Dasaratha, che per desiderio di progenie già s’ astrinse ad osservanze austeré, e testè pieno di fede ha a voi, O eccelsi, sacrificato con un Asvamedha. Ora egli, sollecito d’ aver figli, si dispone ad adempiere un nuovo rito; vogliate essere favorevole a lui che sospira progenie. Io alzo a voi supplici le mani, e voi tutti per lui imploro: nascano a lui quattro figli degni d’essere celebrati pei tre mondi. Risposero gli Dei al supplichevole figliuolo del Risci: Sia fatto ciò che chiedi; a te ed al re parimente si debbe da noi, O Brahmano, sommo pregio; canseguirà il re per questo sacro rito il suo suppremo desiderio. Ciò detto disparvero i Numi preceduti da Indra.
+
+Poichè videro gli Dei compiersi debitamente dal gran Risci l’oblazione, venuti al cospetto di Brahma facitor del mondo, signor delle creature, così parlarono reverenti a lui dator di grazie: O Brahma, un Racsaso per nome Râvano, eui tu fosti largo del tuo favore, è per superbia infesto a noi tutti e ai grandi Saggi penitenti. Un di, O Nume, augusto, tu propizio a lui gli accordasti il favore, ch’ egli bramava, di non poter essere ucciso dagli Dei, dai Dânavi nè dai Yacsi: noi venerando i tuoi oracoli, ogni cosa sopportiamo da costui. Quindi il signor dei Racsasi infesta con perpetue offese i tre mondi, i Devi, i Risci, i Yacsi ed i Gandharvi, gli Asuri e gli uomini: tutti egli opprime indegnamente inorgoglito pel tuo dono. Colà dove si trova Râvano, più non isfavilla per timore il sole, più non spira il vento, più non fiammeggia il fuoco: l’ oceano stesso cui fan corona i vasti flutti, veggendo costui, tutto si turba e si commuove. Stretto dalla forza di costui e ridotto allo stremo dovette Vaisravano abbandonare Lancâ.Da questo Râvano, terror del mondo, tu ne proteggi, O almo Nume: degna, O dator d’ogni bene, trovar modo ad estirpar costui. Fatto di queste cose conscio dai Devi, stette alquanto meditando, poi rispose Brahma: Orsù! è stabilito il modo onde distruggere questo iniquo. Egli a me chiese, ed io gliel concessi, di non poter essere ucciso dai Devi, dai Risci, dai Gandharvi, dai Yacsi, dai Racsasi nè dai Serpenti; ma per disprezzo non fece menzione degli uomini quel Racso: or bene, sarà quell’ empio ucciso da un uomo. Udite le fauste parole profferte da Brahma, furono per ogni parte liete gli Iddii col loro duce Indra. In questo mezzo quì sopravvenne raggiante d’immensa luce il venerando Visnu, pensato da Brahma nell’ immortal sua mente, siccome atto ad estirpar colui; Allora Brahma colla schiera de’ Celesti così parlò a Visnu: Tu sei il conforto delle gente oppresse, O distruttor di Madhu: noi quindi a te supplichiamo afflitti: sia tu nostro sostegno, O Aciuto. Dite, loro rispose Visnu, quale cosa io debba far per voi; e gli Dei, udite queste parole, cosi soggiunsero: Un re per nome Dasaratha, giusto, virtuoso, veridico e pio, non ha progenie e la desidera: ei già s’ impose durissime penitenze, ed ora ha sacrificato con un Asvamedha: tu, per nostro consiglio, O Visnu, consenti a divenir suo figlio: fatte di te quattro parti, ti manifesta, O invocato dalle genti, nel seno delle quattro sue consorti, simili alla venusta Dea. Così esortato dagli Dei quivi presenti, l’augusto Nârâyana loro rispose queste opportune parole: Quale opra s’ha da me, fatto visible nel mondo, a compiere per voi, O Devi? e d’onde in voi cotal terrore? Intese le parole di Visnu, così risposero gli Dei: Il nostro terrore. O Visnu, nasce da un Racsaso per nome Râvano, spavento dell’ universo. Vestendo umano corpo, tu debbi esterminar costui.Nessuno fra i Celesti, fuorchè tu solo, è valevole ad uccidere quell’ iniquo. Egli, O domator de’ tuoi nemici, sostenne per lungo tempo acerbissime macerazioni: per esse fu di lui contento l’augusto sommo Genitore: e un di gli accordò propizio la sicurezza da tutti gli esseri, eccettutine gli uomini. Per questo favore a lui concesso nou ha egli a temere offesa da alcuna parte, fuorchè dall’ uomo, perciò, assumendo la natura umana, costui tu uccidi. Egli, il peggior di tutti i Racsasi, insano per la forza che gli infonde il dono avuto, da travaglio ai Devi ed ai Gaudharvi, ai Risci, ai Muni ed ai mortali. Egli, sicuro da morte pel favore ottenuto, è turbatore dei sacrifizj, nemico ed uccisor dei Brahmi, divoratore degli uomini, peste del mondo. Da lui furono assaliti re coi loro carri ed elefanti; altri percessi e fugati si dispersero per ogni dove. Da lui furono divorati Risci ed Apsarase: egli insomma oltracotato continuamente e quasi per ischerzo tutti travaglia i sette mondi. Perciò, O terribile ai nemici è stabilita la morte di costui per opra d’un uomo; poich’ un di per superbia del dono tutti sprezzò gli uomini. Tu, O supremo fra i Numi, dei, umanandoti, estirpare questo tremendo, superbo Ràvano, oltracotato, a noi nemico, terrore e flagello dei penitenti.
+
+GORRESIO.<b>XIV.</b>
+
+De nouveau Rishyaçringa tint ce langage au Monarque: “Je vais célébrer un autre sacrifice, afin que le ciel accorde à tes vœux les enfants que tu souhaites.” Cela dit, cherchant le bonheur du roi et pour l’accomplissement de son désir, le fils puissant de Vibhándaka se mit à célébrer ce nouveau sacrifice.
+
+Là auparavant, étaient venus déjà recevoir une part de l’ offrande les Dieux, accompagnés des Gaudharvas, et les Siddhas avec les Mounis divins, Brahma, le monarque des Souras, l’ immuable Śiva, et l’ auguste Náráyana, et les quatre gardiens vigilants du monde, et les mères des Immortels, et tous les Dieux, escortés des Yakshas, et le maître éminent du ciel, Indra, qui se manifestait aux yeux, environné par l’ essaim des Maroutes. Alors ce jeune anachorète avait supplié tous les Dieux, que le désir d’une part dans l’ offrande avait conduits á l’ açwamédha, cette grande cérémonie de ce roi magnanime; <i>et, dans ce moment, l’ époux de Śántá les conjurait ainsi pour la seconde fois</i>: “Cet homme <i>en prières</i>, c’est le roi Daçaratha, qui est privé de fils. Il est rempli d’ une foi vive; il s’est infligé de pénibles austérités; il vous a déjà servi, divinités augustes, le sacrifice d’un açwa-médha, et maintenant il s’étudie encore à vous plaire avec ce nouveau sacrifice dans l’espérance que vous lui donnerez les fils, où tendent ses désirs. Versez donc sur lui votre bienveillance et daignez sourire à son vœu pour des fils. C’est pour lui que moi ici, les mains jointes, je vous adresse à tous mes supplications: envoyez-lui quatre fils, qui soient vantés dans les trois mondes!”“Ouí! répondirent les Dieux au fils suppliant du rishi; tu mérites que nous t’écoutions avec faveur, toi, brahme saint, et même, en premier lieu, ce roi. Comme récompense de ces différents sacrifices, le monarque obtendra cet objet le plus cher de ses désirs.”
+
+Ayant aussi parlé et vu que le grand saint avait mis fin suivant les rites à son <i>pieux</i> sacrifice, les Dieux, Indra à leur tête, s’évanouissent dans le vide des airs et se rendent vers l’ architecte des mondes, le souverain des créatures, le donateur des biens, vers Brahma enfin, auquel tous, les mains jointes, ils adressent les paroles suivantes: “O Brahma, un rakshasa, nommé Râvana, tourne su mal les grâces, qu’il a reçues de toi. Dans son orgueil, il nous opprime tous; il opprime avec nous les grands anchorètes, qui se font un bonheur des macérations: car jadis, ayant su te plaire, O Bhagavat, il a reçu de toi ce don incomparable. ‘Oui, as-tu dit, exauçant le vœu du mauvais Génie; Dieu. Yaksha ou Démon ne pourra jamais causer ta mort!’ Et nous, par qui ta parole est respectée, nous avons tout supporté de ce roi des rakshasas, qui écrase de sa tyrannie les trois mondes, ou il promène l’ injure impunément. Enorgueilli de ce don victorieux, il opprime indignement les Dieux, les rishis, les Yakshas, les Gandharvas, les Asouras et les enfants de Manou. Là ou se tient Râvana, la peur empêche le soleil d’échauffer, le vent craint de souffler, et le feu n’ose flamboyer. A son aspect, la guirlande même des grands flots tremble au sein de la mer. Accablé par sa vigueur indomptable, Kouvéra défait lui a cédé Lanká. Suave-nous donc, ô toi, qui reposes daus le bonheur absolu; sauve-nous de Râvana, le fléau des mondes. Daigne, ô toi, qui souris aux vœux du suppliant, daigne imaginer un expedient pour ôter la vie à ce cruel Démon.”Les Dieux ayant ainsi dénoncé leurs maux à Brahma, il réfléchit un instant et leur tint ce langage: “Bien, voici que j’ai découvert un moyen pour tuer ce Génie scélérat. Que ni les Dieux, a-t-il dit, ni les rishis, ni les Gandharvas ni les Yakshas, ni les rakshasas, ni les Nágas même ne puissent me donner la mort! Soit lui ai-je répondu. Mais, par dédain pour la force humaine, les hommes n’ont pas été compris daus sa demande. C’est donc par la main d’ un homme, qu’il faut immoler ce méchant.” Ainsi tombée de la bouche du créateur, cette parole salutaire satisfit pleinement le roi des habitants du ciel et tous les Dieux avec lui. Lá, dans ce même instant, survint le fortuné Visnou, revêtu d’ une splendeur infinie; car c’était a lui, que Brahma avait pensé dans son âme pour la mort du tyran. Celui-ci donc avec l’essaim des Immortels adresse à Vishnou ces paroles: “Meurtrier de Madhou, comme tu aimes á tirer de l’affliction les êtres malheureux, nous te supplions, nous qui sommes plongés dans la tristesse, Divinité auguste, sois notre asyle!” “Dites! reprit Vishnou; que dois-je faire?” “Ayant oui les paroles de l’ineffable, tous les Dieux repondirent: Il est un roi nommé Daçaratha; il a embrassé une très-duré pénitence; il a célébré même le sacrifice d’un açwa-medha, parce qu’il n’a point de fils et qu’il veut en obtenir du ciel. Il est inébranlable dans sa piété, il est vanté pour ses vertus; la justice est son caractère, la verite est sa parole. Acquiesce donc à notre demande, ô toi, Vishnou, et consens à naître comme son fils. Divisé en quatre portions de toi-même, daigne, ô toi, qui foules aux pieds tes ennemis, daigne t’ incarner dans le sein de ses trois épouses, belles comme la déesse de la beauté.”Náráyana, le maître, <i>non perceptible aux sens, mais qui alors s’ était rendu</i> visible, Náráyana répondit cette parole salutaire aux Dieux, qui i invitaient à cet <i>heroique avatára</i>. Quelle chose, une fois revêtu de cette incarnation, faudra-t-il encore que je fasse pour vous, et de quelle part vient la terreur, qui vous trouble ainsi? A ces mots du grand Vishnou: “C’est le démon Rávana, reprirent les Dieux; c’est lui, Vishnou, cette désolation des mondes, qui nous inspire un tel effroi. Enveloppe-toi d’un corps, humain, et qu’il te plaise arrâcher du monde cette blessante epine; car nul autre que toi parmi les habitants du ciel n’est capable d’immoler ce pécheur. <i>Sache que</i> longtemps il s’est imposé la plus austére pénitence, et <i>que</i> par elle il s’est rendu agreable au suprême ayeul de toutes les créatures. Aussi le distributeur ineffable des gràces lui a-t-il accordé ce don insigne d’être invulnérable à tous les êtres, l’ homme seul excepté. Puisque, doué ainsi de cette faveur, la mort terrible et sûre ne peut venir à lui de nulle autre part que de l’homme, va, dompteur <i>puissant</i> de tes ennemis, va dans la condition humaine, et tue-le. Car ce don, auquel on ne peut résister, élevant au plus haut point l’ivresse de sa force, le vil rakshasa tourmente les Dieux, les rishis, les Gandharvas, les hommes sanctifiés par la pénitence; et, quoique, destructeur des sacrifices, lacérateur des Saintes Ecritures, ennemi des brahmes, dévorateur des hommes, cette faveur incomparable sauve de la mort Rávana le triste fléau des mondes. Il ose attaquer les rois, que défendant les chars de guerre, que remparent les élephants: d’autres blessés et mis en fuite, sont dissipés ça et là devant lui. Il a dévoré des saints, il a dévoré même une foule d’apsaras. Sans cesse, dans son délire, il s’amuse à tourmenter les sept mondes.Comme <i>on vient de nous apprendre qu’</i> il n’a point daigné parler d’eux ce jour, que lui fut donnée cette faveur, <i>dont il abuse</i>, entre dans un corps humain, ô toi, qui peux briser tes ennemis, et jette sans vie à tes pieds, roi puissant des treize Dieux, ce Rávana superbe, d’une force épouvantable, d’un orgueil immense, l’ennemi de tous les ascètes, ce ver, <i>qui les ronge</i>, cette cause de leurs gémissements.”
+
+<i>Ici, dans le premier tome du saint Râmâyana</i>, Finit le quatorzième chapitre, nommé: UN EXPÉDIENT POUR TUER RÁVANA.
+
+HIPPOLYTE FAUCHE.
+
+Uttarakánda.
+
+The Rámáyan ends, epically complete, with the triumphant return of Ráma and his rescued queen to Ayodhyá and his consecration and coronation in the capital of his forefathers. Even if the story were not complete, the conclusion of the last Canto of the sixth Book, evidently the work of a later hand than Válmíki’s, which speaks of Ráma’s glorious and happy reign and promises blessings to those who read and hear the Rámáyan, would be sufficient to show that, when these verses were added, the poem was considered to be finished. The Uttarakáṇḍa or Last Book is merely an appendix or a supplement and relates only events antecedent and subsequent to those described in the original poem. Indian scholars however, led by reverential love of tradition, unanimously ascribe this Last Book to Válmíki, and regard it as part of the Rámáyan.Signor Gorresio has published an excellent translation of the Uttarakáṇḍa, in Italian prose, from the recension current in Bengal;(1030) and Mr. Muir has epitomized a portion of the book in the Appendix to the Fourth Part of his Sanskrit Texts (1862). From these scholars I borrow freely in the following pages, and give them my hearty thanks for saving me much wearisome labour.
+
+“After Ráma had returned to Ayodhyá and taken possession of the throne, the rishis [saints] assembled to greet him, and Agastya, in answer to his questions recounted many particulars regarding his old enemies. In the Krita Yuga (or Golden Age) the austere and pious Brahman rishi Pulastya, a son of Brahmá, being teased with the visits of different damsels, proclaimed that any one of them whom he again saw near his hermitage should become pregnant. This had not been heard by the daughter of the royal rishi Triṇavindu, who one day came into Pulastya’s neighbourhood, and her pregnancy was the result (Sect. 2, vv. 14 ff.). After her return home, her father, seeing her condition, took her to Pulastya, who accepted her as his wife, and she bore a son who received the name of Viśravas. This son was, like his father, an austere and religious sage. He married the daughter of the muni Bharadvája, who bore him a son to whom Brahmá gave the name of Vaiśravaṇ-Kuvera (Sect. 3, vv. 1 ff.). He performed austerities for thousands of years, when he obtained from Brahmá as a boon that he should be one of the guardians of the world (along with Indra, Varuṇa, and Yáma) and the god of riches. He afterwards consulted his father Viśravas about an abode, and at his suggestion took possession of the city of Lanká, which had formerly been built by Viśvakarmán for the Rákshasas, but had been abandoned by them through fear of Vishṇu, and was at that time unoccupied. Ráma then (Sect.4) says he is surprised to hear that Lanká had formerly belonged to the Rákshasas, as he had always understood that they were the descendants of Pulastya, and now he learns that they had also another origin. He therefore asks who was their ancestor, and what fault they had committed that they were chased away by Vishṇu. Agastya replies that when Brahmá created the waters, he formed certain beings,—some of whom received the name of Rákshasas,—to guard them. The first Rákshasas kings were Heti and Praheti. Heti married a sister of Kála (Time). She bore him a son Vidyutkeśa, who in his turn took for his wife Lankatanka[t.]á, the daughter of Sandhyá (V. 21). She bore him a son Sukeśa, whom she abandoned, but he was seen by Śiva as he was passing by with his wife Párvatí, who made the child as old as his mother, and immortal, and gave him a celestial city. Sukeśa married a Gandharví called Devavatí who bore three sons, Mályavat, Sumáli and Máli. These sons practised intense austerities, when Brahmá appeared and conferred on them invincibility and long life. They then harassed the gods. Viśvakarmá gave them a city, Lanká, on the mountain Trikúṭa, on the shore of the southern ocean, which he had built at the command of Indra.… The three Rákshasa, Mályavat and his two brothers, then began to oppress the gods, rishis, etc.; who (Sect. 6, v. 1 ff.) in consequence resort for aid to Mahádeva, who having regard to his protégé Sukeśa the father of Mályavat, says that he cannot kill the Rákshasas, but advises the suppliants to go to Vishṇu, which they do, and receive from him a promise that he will destroy their enemies. The three Rákshasa kings, hearing of this, consult together, and proceed to heaven to attack the gods. Vishṇu prepares to meet them. The battle is described in the seventh section.The Rákshasas are defeated by Vishṇu with great slaughter, and driven back to Lanká, one of their leaders, Máli, being slain. Mályavat remonstrates with Vishṇu, who was assaulting the rear of the fugitives, for his unwarrior-like conduct, and wishes to renew the combat (Sect. 8, v. 3 ff.). Vishṇu replies that he must fulfil his promise to the gods by slaying the Rákshasas, and that he would destroy them even if they fled to Pátála. These Rákshasas, Agastya says, were more powerful than Rávaṇa, and, could only be destroyed by Náráyaṇa, <i>i.e.</i> by Ráma himself, the eternal, indestructible god. Sumáli with his family lived for along time in Pátála, while Kuvera dwelt in Lanká. In section 9 it is related that Sumáli once happened to visit the earth, when he observed Kuvera going in his chariot to see his father Viśravas. This leads him to consider how he might restore his own fortunes. He consequently desires his daughter Kaikasí to go and woo Viśravas, who receives her graciously. She becomes the mother of the dreadful Rávaṇa, of the huge Kumbhakarṇa, of Śúrpaṇakhá, and of the righteous Vibhishaṇa, who was the last son. These children grow up in the forest. Kumbhakarṇa goes about eating rishis. Kuvera comes to visit his father, when Kaikasí takes occasion to urge her son Rávaṇa to strive to become like his brother (Kuvera) in splendour. This Rávaṇa promises to do. He then goes to the hermitage of Gokarna with his brothers to perform austerity. In section 10 their austere observances are described: after a thousand years’ penance Rávaṇa throws his head into the fire. He repeats this oblation nine times after equal intervals, and is about to do it the tenth time, when Brahmá appears, and offers a boon. Rávaṇa asks immortality, but is refused.He then asks that he may be indestructible by all creatures more powerful than men; which boon is accorded by Brahmá together with the recovery of all the heads he had sacrificed and the power of assuming any shape he pleased. Vibhishaṇa asks as his boon that even amid the greatest calamities he may think only of righteousness, and that the weapon of Brahmá may appear to him unlearnt, etc. The god grants his request, and adds the gift of immortality. When Brahmá is about to offer a boon to Kumbhakarṇa, the gods interpose, as, they say, he had eaten seven Apsarases and ten followers of Indra, besides rishis and men; and beg that under the guise of a boon stupefaction may be inflicted on him. Brahmá thinks on Sarasvatí, who arrives and, by Brahmá’s command, enters into Kumbhakarṇa’s mouth that she may speak for him. Under this influence he asks that he may receive the boon of sleeping for many years, which is granted. When however Sarasvatí has left him, and he recovers his own consciousness, he perceives that he has been deluded. Kuvera by his father’s advice, gives up the city of Lanká to Rávaṇ.”(1031) Rávaṇa marries (Sect. 12) Mandodarí the beautiful daughter of the Asur Maya whose name has several times occurred in the Rámáyan as that of an artist of wonderful skill. She bears a son Meghanáda or the Roaring Cloud who was afterwards named Indrajít from his victory over the sovereign of the skies. The conquest of Kuvera, and the acquisition of the magic self-moving chariot which has done much service in the Rámáyan, form the subject of sections XIII., XIV. and XV. “The rather pretty story of Vedavatí is related in the seventeenth section, as follows: Rávaṇa in the course of his progress through the world, comes to the forest on the Himálaya, where he sees a damsel of brilliant beauty, but in ascetic garb, of whom he straightway becomes enamoured.He tells her that such an austere life is unsuited to her youth and attractions, and asks who she is and why she is leading an ascetic existence. She answers that she is called Vedavatí, and is the vocal daughter of Vṛihaspati’s son, the rishi Kuśadhwaja, sprung from him during his constant study of the Veda. The gods, gandharvas, etc., she says, wished that she should choose a husband, but her father would give her to no one else than to Vishṇu, the lord of the world, whom he desired for his son-in-law. Vedavatí then proceeds: ‘In order that I may fulfil this desire of my father in respect of Náráyaṇa, I wed him with my heart. Having entered into this engagement I practise great austerity. Náráyaṇa and no other than he, Purushottama, is my husband. From the desire of obtaining him, I resort to this severe observance.’ Rávaṇa’s passion is not in the least diminished by this explanation and he urges that it is the old alone who should seek to become distinguished by accumulating merit through austerity, prays that she who is so young and beautiful shall become his bride; and boasts that he is superior to Vishṇu. She rejoins that no one but he would thus contemn that deity. On receiving this reply he touches the hair of her head with the tip of his finger. She is greatly incensed, and forthwith cuts off her hair and tells him that as he has so insulted her, she cannot continue to live, but will enter into the fire before his eyes. She goes on ‘Since I have been insulted in the forest by thee who art wicked-hearted, I shall be born again for thy destruction. For a man of evil desire cannot be slain by a woman; and the merit of my austerity would be lost if I were to launch a curse against thee. But if I have performed or bestowed or sacrificed aught may I be born the virtuous daughter, not produced from the womb, of a righteous man.’Having thus spoken she entered the blazing fire. Then a shower of celestial flowers fell (from every part of the sky). It is she, lord, who, having been Vedavatí in the Krita age, has been born (in the Treta age) as the daughter of the king of the Janakas, and (has become) thy [Ráma’s] bride; for thou art the eternal Vishṇu. The mountain-like enemy who was [virtually] destroyed before by her wrath, has now been slain by her having recourse to thy superhuman energy.” On this the commentator remarks: “By this it is signified that Sítá was the principal cause of Rávaṇa’s death; but the function of destroying him is ascribed to Ráma.” On the words, “thou art Vishṇu,” in the preceding verse the same commentator remarks: “By this it is clearly affirmed that Sítá was Lakshmí.” This is what Paráśara says: “In the god’s life as Ráma, she became Sítá, and in his birth as Krishṇa [she became] Rukminí.”(1032)
+
+In the following section (XVIII.) “Rávaṇa is described as violently interrupting a sacrifice which is being performed by king Marutta, and the assembled gods in terror assume different shapes to escape; Indra becomes a peacock, Yáma a crow, Kuvera a lizard, and Varuṇa a swan; and each deity bestows a boon on the animal he had chosen. The peacock’s tail recalls Indra’s thousand eyes; the swan’s colour becomes white, like the foam of the ocean (Varuṇa being its lord); the lizard obtains a golden colour; and the crow is never to die except when killed by a violent death, and the dead are to enjoy the funeral oblations when they have been devoured by the crows.”(1033)

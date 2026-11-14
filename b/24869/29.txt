@@ -1,0 +1,1021 @@
+HOLB1	24869	29	2320	80	2635	150
+39	Canto II. Brahmá’s Visit
+46	Canto III. The Argument.
+53	Canto IV. The Rhapsodists.
+58	Canto V. Ayodhyá.
+62	Canto VI. The King.
+67	Canto VII. The Ministers.
+71	Canto VIII. Sumantra’s Speech.
+75	Canto IX. Rishyasring.
+86	Canto X. Rishyasring Invited.
+92	Canto XI. The Sacrifice Decreed.
+96	Canto XII. The Sacrifice Begun.
+102	Canto XIII. The Sacrifice Finished.
+111	Canto XIV. Rávan Doomed.
+118	Canto XV. The Nectar.
+122	Canto XVI. The Vánars.
+127	Canto XVII. Rishyasring’s Return.
+134	Canto XVIII. Rishyasring’s Departure.
+138	Canto XIX. The Birth Of The Princes.
+143	Canto XX. Visvámitra’s Visit.
+147	Canto XXI. Visvámitra’s Speech.
+151	Canto XXII. Dasaratha’s Speech.
+155	Canto XXIII. Vasishtha’s Speech.
+158	Canto XXIV. The Spells.
+162	Canto XXV. The Hermitage Of Love.
+166	Canto XXVI. The Forest Of Tádaká.
+171	Canto XXVII. The Birth Of Tádaká.
+174	Canto XXVIII. The Death Of Tádaká.
+180	Canto XXIX. The Celestial Arms.
+187	Canto XXXI. The Perfect Hermitage.
+191	Canto XXXII. Visvámitra’s Sacrifice.
+195	Canto XXXIII. The Sone.
+199	Canto XXXIV. Brahmadatta.
+207	Canto XXXV. Visvámitra’s Lineage.
+211	Canto XXXVI. The Birth Of Gangá.
+215	Canto XXXIX. The Sons Of Sagar.
+219	Canto XL. The Cleaving Of The Earth.
+223	Canto XLI. Kapil.
+227	Canto XLII. Sagar’s Sacrifice.
+231	Canto XLIII. Bhagírath.
+235	Canto XLIV. The Descent Of Gangá.
+244	Canto XLV. The Quest Of The Amrit.
+252	Canto XLVI. Diti’s Hope.
+254	Canto XLVII. Sumati.
+257	Canto XLVIII. Indra And Ahalyá
+262	Canto XLIX. Ahalyá Freed.
+264	Canto L. Janak.
+268	Canto LI. Visvámitra.
+272	Canto LII. Vasishtha’s Feast.
+276	Canto LIII. Visvámitra’s Request.
+280	Canto LIV. The Battle.
+284	Canto LV. The Hermitage Burnt.
+288	Canto LVI. Visvámitra’s Vow.
+292	Canto LVII. Trisanku.
+296	Canto LVIII. Trisanku Cursed.
+300	Canto LIX. The Sons Of Vasishtha.
+304	Canto LX. Trisanku’s Ascension.
+309	Canto LXI. Sunahsepha.
+313	Canto LXII. Ambarísha’s Sacrifice.
+317	Canto LXIII. Menaká.
+322	Canto LXIV. Rambhá.
+325	Canto LXV. Visvámitra’s Triumph
+331	Canto LXVI. Janak’s Speech.
+335	Canto LXVII. The Breaking Of The Bow.
+339	Canto LXVIII. The Envoys’ Speech.
+342	Canto LXIX. Dasaratha’s Visit.
+345	Canto LXX. The Maidens Sought.
+352	Canto LXXI. Janak’s Pedigree.
+356	Canto LXXII. The Gift Of Kine.
+359	Canto LXXIII. The Nuptials.
+368	Canto LXXV. The Parle.
+373	Canto LXXVI. Debarred From Heaven.
+377	Canto LXXVII. Bharat’s Departure.
+381	Canto I. The Heir Apparent.
+387	Canto II. The People’s Speech.
+393	Canto III. Dasaratha’s Precepts.
+401	Canto IV. Ráma Summoned.
+408	Canto V. Ráma’s Fast.
+412	Canto VI. The City Decorated.
+417	Canto VII. Manthará’s Lament.
+422	Canto VIII. Manthará’s Speech.
+428	Canto IX. The Plot.
+437	Canto X. Dasaratha’s Speech.
+444	Canto XI. The Queen’s Demand.
+448	Canto XII. Dasaratha’s Lament.
+465	Canto XIII. Dasaratha’s Distress.
+468	Canto XIV. Ráma Summoned.
+478	Canto XV. The Preparations.
+486	Canto XVI. Ráma Summoned.
+493	Canto XVII. Ráma’s Approach.
+496	Canto XVIII. The Sentence.
+503	Canto XIX. Ráma’s Promise.
+510	Canto XX. Kausalyá’s Lament.
+518	Canto XXI. Kausalyá Calmed.
+528	Canto XXII. Lakshman Calmed.
+533	Canto XXIII. Lakshman’s Anger.
+540	Canto XXIV. Kausalyá Calmed.
+546	Canto XXV. Kausalyá’s Blessing.
+554	Canto XXVI. Alone With Sítá.
+560	Canto XXVII. Sítá’s Speech.
+564	Canto XXVIII. The Dangers Of The Wood.
+568	Canto XXIX. Sítá’s Appeal.
+572	Canto XXX. The Triumph Of Love.
+580	Canto XXXI. Lakshman’s Prayer.
+586	Canto XXXII. The Gift Of The Treasures.
+593	Canto XXXIII. The People’s Lament.
+598	Canto XXXIV. Ráma In The Palace.
+607	Canto XXXV. Kaikeyí Reproached.
+612	Canto XXXVI. Siddhárth’s Speech.
+617	Canto XXXVII. The Coats Of Bark.
+622	Canto XXXVIII. Care For Kausalyá
+626	Canto XXXIX. Counsel To Sítá.
+633	Canto XL. Ráma’s Departure.
+641	Canto XLI. The Citizens’ Lament.
+644	Canto XLII. Dasaratha’s Lament.
+649	Canto XLIII. Kausalyá’s Lament.
+653	Canto XLIV. Sumitrá’s Speech.
+657	Canto XLV. The Tamasá.
+663	Canto XLVI. The Halt.
+669	Canto XLVII. The Citizens’ Return.
+672	Canto XLVIII. The Women’s Lament.
+677	Canto XLIX. The Crossing Of The Rivers.
+686	Canto LI. Lakshman’s Lament.
+690	Canto LII. The Crossing Of Gangá.
+706	Canto LIII. Ráma’s Lament.
+712	Canto LIV. Bharadvája’s Hermitage.
+719	Canto LV. The Passage Of Yamuná.
+724	Canto LVI. Chitrakúta
+730	Canto LVII. Sumantra’s Return.
+735	Canto LVIII. Ráma’s Message.
+741	Canto LIX. Dasaratha’s Lament.
+747	Canto LX. Kausalyá Consoled.
+751	Canto LXI. Kausalyá’s Lament.
+755	Canto LXII. Dasaratha Consoled.
+758	Canto LXIII. The Hermit’s Son.
+766	Canto LXIV. Dasaratha’s Death.
+778	Canto LXV. The Women’s Lament.
+783	Canto LXVI. The Embalming.
+787	Canto LXVII. The Praise Of Kings.
+793	Canto LXVIII. The Envoys.
+797	Canto LXIX. Bharat’s Dream.
+801	Canto LXX. Bharat’s Departure.
+806	Canto LXXI. Bharat’s Return.
+813	Canto LXXII. Bharat’s Inquiry.
+822	Canto LXXIII. Kaikeyí Reproached.
+826	Canto LXXIV. Bharat’s Lament.
+831	Canto LXXV. The Abjuration.
+838	Canto LXXVI. The Funeral.
+842	Canto LXXVII. The Gathering Of The Ashes.
+847	Canto LXXVIII. Manthará Punished.
+851	Canto LXXIX. Bharat’s Commands.
+Rávaṇ then attacks Arjuna or Kárttavírya the mighty king of Máhishmati on the banks of the Narmadá, and is defeated, captured and imprisoned by Arjuna. At the intercession of Pulastya (Sect. XXII.) he is released from his bonds. He then visits Kishkindhá where he enters into alliance with Báli the King of the Vánars: “We will have all things in common,” says Rávaṇ, “dames, sons, cities and kingdoms, food, vesture, and all delights.” His next exploit is the invasion of the kingdom of departed spirits and his terrific battle with the sovereign Yáma. The poet in his description of these regions with the detested river with waves of blood, the dire lamentations, the cries for a drop of water, the devouring worm, all the tortures of the guilty and the somewhat insipid pleasures of the just, reminds one of the scenes in the under world so vividly described by Homer, Virgil, and Dante. Yáma is defeated (Sect. XXVI.) by the giant, not so much by his superior power as because at the request of Brahmá Yáma refrains from smiting with his deadly weapon the Rákshas enemy to whom that God had once given the promise that preserved him. In the twenty-seventh section Rávaṇ goes “under the earth into Pátála the treasure-house of the waters inhabited by swarms of serpents and Daityas, and well defended by Varuṇ.” He subdues Bhogavatí the city ruled by Vásuki and reduces the Nágas or serpents to subjection. He penetrates even to the imperial seat of Varuṇ. The God himself is absent, but his sons come forth and do battle with the invader. The giant is victorious and departs triumphant. The twenty-eighth section gives the details of a terrific battle between Rávaṇ and Mándhátá King of Ayodhyá, a distinguished ancestor of Ráma. Supernatural weapons are employed on both sides and the issue of the conflict is long doubtful.But at last Mándhátá prepares to use the mighty weapon “acquired by severe austerities through the grace and favour of Rudra.” The giant would inevitably have been slain. But two pre-eminent Munis Pulastya and Gálava beheld the fight through the power given by contemplation, and with words of exhortation they parted King Mándhátá and the sovereign of the Rákshases. Rávaṇ at last (Sect. XXXII.) returns homeward carrying with him in his car Pushpak the virgin daughters of kings, of Rishis, of Daityas, and Gandharvas whom he has seized upon his way. The thirty-sixth section describes a battle with Indra, in which the victorious Meghanáda son of the giant, makes the King of the Gods his prisoner, binds him with his magic art, and carries him away (Sect. XXVII.) in triumph to Lanká. Brahmá intercedes (Sect. XXXVIII.) and Indrajít releases his prisoner on obtaining in return the boon that sacrifice to the Lord of Fire shall always make him invincible in the coming battle. In sections XXXIX., XL, “we have a legend related to Ráma by the sage Agastya to account for the stupendous strength of the monkey Hanumán, as it had been described in the <i>Rámáyaṇa</i>. Rama naturally wonders (as perhaps many readers of the <i>Rámáyaṇa</i> have done since) why a monkey of such marvellous power and prowess had not easily overcome Báli and secured the throne for his friend Sugríva. Agastya replies that Hanumán was at that time under a curse from a Rishi, and consequently was not conscious of his own might.”(1034) The whole story of the marvellous Vánar is here given at length, but nothing else of importance is added to the tale already given in the Rámáyaṇa. The Rishis or saints then (Sect. XL.) return to their celestial seats, and the Vánars, Rákshases and bears also (Sect. XLIII.) take their departure.The chariot Pushpak is restored to its original owner Kuvera, as has already been related in the Rámáyaṇ.
+
+The story of Ráma and Sítá is then continued, and we meet with matter of more human interest. The winter is past and the pleasant spring-time is come, and Ráma and Sítá sit together in the shade of the Aśoka trees happy as Indra and Śachí when they drink in Paradise the nectar of the Gods. “Tell me, my beloved,” says Ráma, “for thou wilt soon be a mother, hast thou a wish in thy heart for me to gratify?” And Sítá smiles and answers: “I long, O son of Raghu, to visit the pure and holy hermitages on the banks of the Ganges and to venerate the feet of the saints who there perform their rigid austerities and live on roots and berries. This is my chief desire, to stand within the hermits’ grove were it but for a single day.” And Ráma said: “Let not the thought trouble thee: thou shalt go to the grove of the ascetics.” But slanderous tongues have been busy in Ayodhyá, and Sítá has not been spared. Ráma hears that the people are lamenting his blind folly in taking back to his bosom the wife who was so long a captive in the palace of Rávaṇ. Ráma well knows her spotless purity in thought, word, and deed, and her perfect love of him; but he cannot endure the mockery and the shame and resolves to abandon his unsuspecting wife. He orders the sad but still obedient Lakshmaṇ to convey her to the hermitage which she wishes to visit and to leave her there, for he will see her face again no more. They arrive at the hermitage, and Lakshmaṇ tells her all. She falls fainting on the ground, and when she recovers her consciousness sheds some natural tears and bewails her cruel and undeserved lot.But she resolves to live for the sake of Ráma and her unborn son, and she sends by Lakshmaṇ a dignified message to the husband who has forsaken her: “I grieve not for myself,” she says “because I have been abandoned on account of what the people say, and not for any evil that I have done. The husband is the God of the wife, the husband is her lord and guide; and what seems good unto him she should do even at the cost of her life.”
+
+Sítá is honourably received by the saint Válmíki himself, and the holy women of the hermitage are charged to entertain and serve her. In this calm retreat she gives birth to two boys who receive the names of Kuśa and Lava. They are carefully brought up and are taught by Válmíki himself to recite the Rámáyaṇ. The years pass by: and Ráma at length determines to celebrate the Aśvamedha or Sacrifice of the Steed. Válmíki, with his two young pupils, attends the ceremony, and the unknown princes recite before the delighted father the poem which recounts his deeds. Ráma inquires into their history and recognizes them as his sons. Sítá is invited to return and solemnly affirm her innocence before the great assembly.
+
+“But Sítá’s heart was too full; this second ordeal was beyond even her power to submit to, and the poet rose above the ordinary Hindu level of women when he ventured to paint her conscious purity as rebelling: ‘Beholding all the spectators, and clothed in red garments, Sítá clasping her hands and bending low her face, spoke thus in a voice choked with tears: “as I, even in mind, have never thought of any other than Ráma, so may Mádhaví the goddess of Earth, grant me a hiding-place.” As Sítá made this oath, lo! a marvel appeared.Suddenly cleaving the earth, a divine throne of marvellous beauty rose up, borne by resplendent dragons on their heads: and seated on it, the goddess of Earth, raising Sítá with her arm, said to her, “Welcome to thee!” and placed her by her side. And as the queen, seated on the throne, slowly descended to Hades, a continuous shower of flowers fell down from heaven on her head.’(1035)”
+
+“Both the great Hindu epics thus end in disappointment and sorrow. In the <i>Mahábhárata</i> the five victorious brothers abandon the hardly won throne to die one by one in a forlorn pilgrimage to the Himálaya; and in the same way Ráma only regains his wife, after all his toils, to lose her. It is the same in the later Homeric cycle—the heroes of the <i>Iliad</i> perish by ill-fated deaths. And even Ulysses, after his return to Ithaca, sets sail again to Thesprotia, and finally falls by the hand of his own son. But in India and Greece alike this is an afterthought of a self-conscious time, which has been subsequently added to cast a gloom on the strong cheerfulness of the heroic age.”(1036)
+
+“The termination of Ráma’s terrestrial career is thus told in Sections 116 ff. of the Uttarakáṇda. Time, in the form of an ascetic, comes to his palace gate, and asks, as the messenger of the great rishi (Brahmá) to see Ráma. He is admitted and received with honour, but says, when he is asked what he has to communicate, that his message must be delivered in private, and that any one who witnesses the interview is to lose his life. Ráma informs Lakshmaṇ of all this, and desires him to stand outside.Time then tells Ráma that he has been sent by Brahmá, to say that when he (Ráma, <i>i.e.</i> Vishṇu) after destroying the worlds was sleeping on the ocean, he had formed him (Brahmá) from the lotus springing from his navel, and committed to him the work of creation; that he (Brahmá) had then entreated Ráma to assume the function of Preserver, and that the latter had in consequence become Vishṇu, being born as the son of Aditi, and had determined to deliver mankind by destroying Rávaṇa, and to live on earth ten thousand and ten hundred years; that period, adds Time, was now on the eve of expiration, and Ráma could either at his pleasure prolong his stay on earth, or ascend to heaven and rule over the gods. Ráma replies, that he had been born for the good of the three worlds, and would now return to the place whence he had come, as it was his function to fulfil the purposes of the gods. While they are speaking the irritable rishi Durvásas comes, and insists on seeing Ráma immediately, under a threat, if refused, of cursing Ráma and all his family.”
+
+Lakshmaṇ, preferring to save his kinsman, though knowing that his own death must be the consequence of interrupting the interview of Ráma with Time, enters the palace and reports the rishi’s message to Ráma. Ráma comes out, and when Durvásas has got the food he wished, and departed, Ráma reflects with great distress on the words of Time, which require that Lakshmaṇ should die. Lakshmaṇ however exhorts Ráma not to grieve, but to abandon him and not break his own promise. The counsellors concurring in this advice, Ráma abandons Lakshmaṇ, who goes to the river Sarayú, suppresses all his senses, and is conveyed bodily by Indra to heaven. The gods are delighted by the arrival of the fourth part of Vishṇu. Ráma then resolves to install Bharata as his successor and retire to the forest and follow Lakshmaṇ.Bharata however refuses the succession, and determines to accompany his brother. Ráma’s subjects are filled with grief, and say they also will follow him wherever he goes. Messengers are sent to Śatrughna, the other brother, and he also resolves to accompany Ráma; who at length sets out in procession from his capital with all the ceremonial appropriate to the “great departure,” silent, indifferent to external objects, joyless, with Śrí on his right, the goddess Earth on his left, Energy in front, attended by all his weapons in human shapes, by the Vedas in the forms of Bráhmans, by the Gáyatrí, the Omkára, the Vashaṭkára, by rishis, by his women, female slaves, eunuchs, and servants. Bharata with his family, and Śatrughna, follow together with Bráhmans bearing the sacred fire, and the whole of the people of the country, and even with animals, etc., etc. Ráma, with all these attendants, comes to the banks of the Sarayú. Brahmá, with all the gods and innumerable celestial cars, now appears, and all the sky is refulgent with the divine splendour. Pure and fragrant breezes blow, a shower of flowers falls. Ráma enters the waters of the Sarayú; and Brahmá utters a voice from the sky, saying: “Approach, Vishṇu; Rághava, thou hast happily arrived, with thy godlike brothers. Enter thine own body as Vishṇu or the eternal ether. For thou art the abode of the worlds: no one comprehends thee, the inconceivable and imperishable, except the large-eyed Máyá thy primeval spouse.” Hearing these words, Ráma enters the glory of Vishṇu with his body and his followers. He then asks Brahmá to find an abode for the people who had accompanied him from devotion to his person, and Brahmá appoints them a celestial residence accordingly.(1037)
+
+ADDITIONAL NOTES.Queen Fortune.
+
+“A curious festival is celebrated in honour of this divinity (Lakshmî) on the fifth lunar day of the light half of the month Mâgha (February), when she is identified with Saraswatí the consort of Brahmá, and the goddess of learning. In his treatise on festivals, a great modern authority, Raghunandana, mentions, on the faith of a work called <i>Samvatsara-sandipa</i>, that Lakshmî is to be worshipped in the forenoon of that day with flowers, perfumes, rice, and water; that due honour is to be paid to inkstand and writing-reed, and no writing to be done. Wilson, in his essay on the <i>Religious Festivals of the Hindus</i> (works, vol. ii, p. 188. ff.) adds that on the morning of the 2nd February, the whole of the pens and inkstands, and the books, if not too numerous and bulky, are collected, the pens or reeds cleaned, the inkstands scoured, and the books wrapped up in new cloth, are arranged upon a platform, or a sheet, and strewn over with flowers and blades of young barley, and that no flowers except white are to be offered. After performing the necessary rites, … all the members of the family assemble and make their prostrations; the books, the pens, and ink having an entire holiday; and should any emergency require a written communication on the day dedicated to the divinity of scholarship, it is done with chalk or charcoal upon a black or white board.”
+
+CHAMBERS’S ENCYCLOPÆDIA. <i>Lakshmî</i>.
+
+Indra.“The Hindu Jove or Jupiter Tonans, chief of the secondary deities. He presides over swarga or paradise, and is more particularly the god of the atmosphere and winds. He is also regent of the east quarter of the sky. As chief of the deities he is called Devapati, Devadeva, Surapati, etc.; as lord of the atmosphere Divaspati; as lord of the eight Vasus or demigods, Fire, etc., Vásava; as breaking cities into fragments, Purandara, Puranda; as lord of a hundred sacrifices (the performance of a hundred Aśvamedhas elevating the sacrificer to the rank of Indra) Śatakratu, Śatamakha; as having a thousand eyes, Sahasráksha; as husband of Śachí, Śachípati. His wife is called Śachí, Indráṇí, Sakráṇí, Maghoni, Indraśakti, Pulomajá, and Paulomí. His son is Jayanta. His pleasure garden or elysium is Nandana; his city, Amarávatí; his palace, Vaijayanta; his horse, Uchchaihśravas, his elephant, Airávata; his charioteer, Mátali.”
+
+PROFESSOR M. WILLIAMS’S English-Sanskrit Dictionary. <i>Indra</i>.
+
+Vishnu.
+
+“The second person of the Hindu triad, and the most celebrated and popular of all the Indian deities. He is the personification of the preserving power, and became incarnate in nine different forms, for the preservation of mankind in various emergencies. Before the creation of the universe, and after its temporary annihilation, he is supposed to sleep on the waters, floating on the serpent Śesha, and is then identified with Náráyaṇa. Brahmá, the creator, is fabled to spring at that time from a lotus which grows from his navel, whilst thus asleep.… His ten avatárs or incarnations are:“1. The Matsya, or fish. In this avatár Vishṇu descended in the form of a fish to save the pious king Satyavrata, who with the seven Rishis and their wives had taken refuge in the ark to escape the deluge which then destroyed the earth. 2, The Kúrma, or Tortoise. In this he descended in the form of a tortoise, for the purpose of restoring to man some of the comforts lost during the flood. To this end he stationed himself at the bottom of the ocean, and allowed the point of the great mountain Mandara to be placed upon his back, which served as a hard axis, whereon the gods and demons, with the serpent Vásuki twisted round the mountain for a rope, churned the waters for the recovery of the amrita or nectar, and fourteen other sacred things. 3. The Varáha, or Boar. In this he descended in the form of a boar to rescue the earth from the power of a demon called ‘golden-eyed,’ Hiraṇyáksha. This demon had seized on the earth and carried it with him into the depths of the ocean. Vishṇu dived into the abyss, and after a contest of a thousand years slew the monster. 4. The Narasinha, or Man-lion. In this monstrous shape of a creature half-man, half-lion, Vishṇu delivered the earth from the tyranny of an insolent demon called Hiraṇyakaśipu. 5. Vámana, or Dwarf. This avatár happened in the second age of the Hindús or Tretáyug, the four preceding are said to have occurred in the first or Satyayug; the object of this avatár was to trick Bali out of the dominion of the three worlds. Assuming the form of a wretched dwarf he appeared before the king and asked, as a boon, as much land as he could pace in three steps. This was granted; and Vishṇu immediately expanding himself till he filled the world, deprived Bali at two steps of heaven and earth, but in consideration of some merit, left Pátála still in his dominion. 6. Paraśuráma. 7. Rámchandra. 8.Krishṇa, or according to some Balaráma. 9. Buddha. In this avatár Vishṇu descended in the form of a sage for the purpose of making some reform in the religion of the Brahmins, and especially to reclaim them from their proneness to animal sacrifice. Many of the Hindús will not allow this to have been an incarnation of their favourite god. 10. Kalki, or White Horse. This is yet to come. Vishṇu mounted on a white horse, with a drawn scimitar, blazing like a comet, will, according to prophecy, end this present age, viz. the fourth or Kaliyug, by destroying the world, and then renovating creation by an age of purity.”
+
+WILLIAM’S DICTIONARY. <i>Vishṇu.</i>
+
+Siva.
+
+“A celebrated Hindú God, the Destroyer of creation, and therefore the most formidable of the Hindú Triad. He also personifies reproduction, since the Hindú philosophy excludes the idea of total annihilation without subsequent regeneration. Hence he is sometimes confounded with Brahmá, the creator or first person of the Triad. He is the particular God of the Tántrikas, or followers of the books called Tantras. His worshippers are termed Śaivas, and although not so numerous as the Vaishṇavas, exalt their god to the highest place in the heavens, and combine in him many of the attributes which properly belong to the other deities. According to them Śiva is Time, Justice, Fire, Water, the Sun, the Destroyer and Creator. As presiding over generation, his type is the Linga, or Phallus, the origin probably of the Phallic emblem of Egypt and Greece. As the God of generation and justice, which latter character he shares with the god Yama, he is represented riding a white bull.His own colour, as well as that of the bull, is generally white, referring probably to the unsullied purity of Justice. His throat is dark-blue; his hair of a light reddish colour, and thickly matted together, and gathered above his head like the hair of an ascetic. He is sometimes seen with two hands, sometimes with four, eight, or ten, and with five faces. He has three eyes, one being in the centre of his forehead, pointing up and down. These are said to denote his view of the three divisions of time, past, present, and future. He holds a trident in his hand to denote, as some say, his relationship to water, or according to others, to show that the three great attributes of Creator, Destroyer, and Regenerator are combined in him. His loins are enveloped in a tiger’s skin. In his character of Time, he not only presides over its extinction, but also its astronomical regulation. A crescent or half-moon on his forehead indicates the measure of time by the phases of the moon; a serpent forms one of his necklaces to denote the measure of time by years, and a second necklace of human skulls marks the lapse and revolution of ages, and the extinction and succession of the generations of mankind. He is often represented as entirely covered with serpents, which are the emblems of immortality. They are bound in his hair, round his neck, wrists, waist, arms and legs; they serve as rings for his fingers, and earrings for his ears, and are his constant companions. Śiva has more than a thousand names which are detailed at length in the sixty-ninth chapter of the Śiva Puráṇa.”—WILLIAMS’S DICTIONARY, <i>Śiva</i>.
+
+Apsarases.“Originally these deities seem to have been personifications of the vapours which are attracted by the sun, and form into mist or clouds: their character may be thus interpreted in the few hymns of the Rigveda where mention is made of them. At a subsequent period when the Gandharva of the Rigveda who personifies there especially the Fire of the Sun, expanded into the Fire of Lightning, the rays of the moon and other attributes of the elementary life of heaven as well as into pious acts referring to it, the Apsarasas become divinities which represent phenomena or objects both of a physical and ethical kind closely associated with that life; thus in the <i>Yajurveda</i> Sunbeams are called the Apsarasas associated with the Gandharva who is the Sun; Plants are termed the Apsarasas connected with the Gandharva Fire: Constellations are the Apsarasas of the Gandharva Moon: Waters the Apsarasas of the Gandharva Wind, etc. etc.… In the last Mythological epoch when the Gandharvas have saved from their elementary nature merely so much as to be musicians in the paradise of Indra, the Apsarasas appear among other subordinate deities which share in the merry life of Indra’s heaven, as the wives of the Gandharvas, but more especially as wives of a licentious sort, and they are promised therefore, too, as a reward to heroes fallen in battle when they are received in the paradise of Indra; and while, in the Rigveda, they assist Soma to pour down his floods, they descend in the epic literature on earth merely to shake the virtue of penitent Sages and to deprive them of the power they would otherwise have acquired through unbroken austerities.”—GOLDSTÜCKER’S <i>Sanskrit Dictionary</i>.
+
+Vishnu’s Incarnation As Ráma.“Here is described one of the <i>avatárs</i>, descents or manifestations of Vishṇu in a visible form. The word <i>avatár</i> signifies literally <i>descent</i>. The <i>avatár</i> which is here spoken of, that in which, according to Indian traditions, Vishṇu descended and appeared upon earth in the corporeal form of Ráma, the hero of the Rámáyana, is the seventh in the series of Indian <i>avatárs</i>. Much has been said before now of these avatárs, and through deficient knowledge of the ideas and doctrines of India, they have been compared to the sublime dogma of the Christian Incarnation. This is one of the grossest errors that ignorance of the ideas and beliefs of a people has produced. Between the <i>avatárs</i> of India and the Christian Incarnation there is such an immensity of difference that it is impossible to find any reasonable analogy that can approximate them. The idea of the <i>avatárs</i> is intimately united with that of the Trimúrti; the bond of connection between these two ideas is an essential notion common to both, the notion of Vishṇu. What is the Trimúrti? I have already said that it is composed of three Gods, Brahmá (masculine), Vishṇu the God of <i>avatárs</i>, and Śiva. These three Gods, who when reduced to their primitive and most simple expression are but three cosmogonical personifications, three powers or forces of nature, these Gods, I say, are here found, according to Indian doctrines, entirely external to the true God of India, or Brahma in the neuter gender. Brahma is alone, unchangeable in the midst of creation: all emanates from him, he comprehends all, but he remains extraneous to all: he is Being and the negation of beings. Brahma is never worshipped; the indeterminate Being is never invoked; he is inaccessible to the prayers as the actions of man; humanity, as well as nature, is extraneous to him.External to Brahma rises the Trimúrti, that is to say, Brahmá (masculine) the power which creates, Vishṇu the power which preserves, and Śiva the power which destroys: theogony here commences at the same time with cosmogony. The three divinities of the Trimúrti govern the phenomena of the universe and influence all nature. The real God of India is by himself without power; real efficacious power is attributed only to three divinities who exist externally to him. Brahmá, Vishṇu, and Śiva, possessed of qualities in part contradictory and attributes that are mutually exclusive, have no other accord or harmony than that which results from the power of things itself, and which is found external to their own thoughts. Such is the Indian Trimúrti. What an immense difference between this Triad and the wonderful Trinity of Christianity! Here there is only one God, who created all, provides for all, governs all. He exists in three Persons equal to one another, and intimately united in one only infinite and eternal substance. The Father represents the eternal thought and the power which created, the Son infinite love, the Holy Spirit universal sanctification. This one and triune God completes by omnipotent power the great work of creation which, when it has come forth from His hands, proceeds in obedience to the laws which He has given it, governed with certain order by His infinite providence.
+
+“The immense difference between the Trimúrti of India and the Christian Trinity is found again between the <i>avatárs</i> of Vishṇu and the Incarnation of Christ. The <i>avatár</i> was effected altogether externally to the Being who is in India regarded as the true God. The manifestation of one essentially cosmogonical divinity wrought for the most part only material and cosmogonical prodigies.At one time it takes the form of the gigantic tortoise which sustains Mount Mandar from sinking in the ocean; at another of the fish which raises the lost Veda from the bottom of the sea, and saves mankind from the waters. When these <i>avatárs</i> are not cosmogonical they consist in some protection accorded to men or Gods, a protection which is neither universal nor permanent. The very manner in which the <i>avatár</i> is effected corresponds to its material nature, for instance the mysterious vase and the magic liquor by means of which the <i>avatár</i> here spoken of takes place. What are the forms which Vishṇu takes in his descents? They are the simple forms of life; he becomes a tortoise, a boar, a fish, but he is not obliged to take the form of intelligence and liberty, that is to say, the form of man. In the <i>avatár</i> of Vishṇu is discovered the inpress of pantheistic ideas which have always more or less prevailed in India. Does the <i>avatár</i> produce a permanent and definitive result in the world? By no means. It is renewed at every catastrophe either of nature or man, and its effects are only transitory.… To sum up then, the Indian <i>avatár</i> is effected externally to the true God of India, to Brahma; it has only a cosmogonical or historical mission which is neither lasting nor decisive; it is accomplished by means of strange prodigies and magic transformations; it may assume promiscuously all the forms of life; it may be repeated indefinitely. Now let the whole of this Indian idea taken from primitive tradition be compared with the Incarnation of Christ and it will be seen that there is between the two an irreconcilable difference. According to the doctrines of Christianity the Everlasting Word, Infinite Love, the Son of God, and equal to Him, assumed a human body, and being born as a man accomplished by his divine act the great miracle of the spiritual redemption of man.His coming had for its sole object to bring erring and lost humanity back to Him; this work being accomplished, and the divine union of men with God being re-established, redemption is complete and remains eternal.
+
+“The superficial study of India produced in the last century many erroneous ideas, many imaginary and false parallels between Christianity and the Brahmanical religion. A profounder knowledge of Indian civilization and religion, and philological studies enlarged and guided by more certain principles have dissipated one by one all those errors. The attributes of the Christian God, which by one of those intellectual errors, which Vico attributes to the vanity of the learned, had been transferred to Vishṇu, have by a better inspired philosophy been reclaimed for Christianity, and the result of the two religions, one immovable and powerless, the other diffusing itself with all its inherent force and energy, has shown further that there is a difference, a real opposition, between the two principles.”—GORRESIO.
+
+Kusa and Lava.
+
+As the story of the banishment of Sítá and the subsequent birth in Válmíki’s hermitage of Kuśa and Lava the rhapsodists of the Rámáyan, is intimately connected with the account in the introductory cantos of Válmíki’s composition of the poem, I shall, I trust, be pardoned for extracting it from my rough translation of Kálidása’s Raghuvaṇśa, parts only of which have been offered to the public.“Then, day by day, the husband’s hope grew high,
+Gazing with love on Sítá’s melting eye:
+With anxious care he saw her pallid cheek,
+And fondly bade her all her wishes speak.
+“Once more I fain would see,” the lady cried,
+“The sacred groves that rise on Gangá’s side,
+Where holy grass is ever fresh and green,
+And cattle feeding on the rice are seen:
+There would I rest awhile, where once I strayed
+Linked in sweet friendship to each hermit maid.”
+And Ráma smiled upon his wife, and sware,
+With many a tender oath, to grant her prayer.
+It chanced, one evening, from a lofty seat
+He viewed Ayodhyá stretched before his feet:
+He looked with pride upon the royal road
+Lined with gay shops their glittering stores that showed,
+He looked on Sarjú’s silver waves, that bore
+The light barks flying with the sail and oar;
+He saw the gardens near the town that lay,
+Filled with glad citizens and boys at play.
+Then swelled the monarch’s bosom with delight,
+And his heart triumphed at the happy sight.
+He turned to Bhadra, standing by his side,—
+Upon whose secret news the king relied.—
+And bade him say what people said and thoughtOf all the exploits that his arm had wrought.
+The spy was silent, but, when questioned still,
+Thus spake, obedient to his master’s will:
+“For all thy deeds in peace and battle done
+The people praise thee, King, except for one:
+This only act of all thy life they blame,—
+Thy welcome home of her, thy ravished dame.”
+Like iron yielding to the iron’s blow,
+Sank Ráma, smitten by those words of woe.
+His breast, where love and fear for empire vied,
+Swayed, like a rapid swing, from side to side.
+Shall he this rumour scorn, which blots his life,
+Or banish her, his dear and spotless wife?
+But rigid Duty left no choice between
+His perilled honour and his darling queen.
+Called to his side, his brothers wept to trace
+The marks of anguish in his altered face.
+No longer bright and glorious as of old,
+He thus addressed them when the tale was told:
+“Alas! my brothers, that my life should blot
+The fame of those the Sun himself begot:
+As from the labouring cloud the driven rain
+Leaves on the mirror’s polished face a stain.
+E’en as an elephant who loathes the stake
+And the strong chain he has no power to break,I cannot brook this cry on every side,
+That spreads like oil upon the moving tide.
+I leave the daughter of Videha’s King,
+And the fair blossom soon from her to spring,
+As erst, obedient to my sire’s command,
+I left the empire of the sea-girt land.
+Good is my queen, and spotless; but the blame
+Is hard to bear, the mockery and the shame.
+Men blame the pure Moon for the darkened ray,
+When the black shadow takes the light away.
+And, O my brothers, if ye wish to see
+Ráma live long from this reproach set free,
+Let not your pity labour to control
+The firm sad purpose of his changeless soul.”
+
+  Thus Ráma spake. The sorrowing brothers heard
+His stern resolve, without an answering word;
+For none among them dared his voice to raise,
+That will to question:—and they could not praise.
+“Beloved brother,” thus the monarch cried
+To his dear Lakshmaṇ, whom he called aside.—
+Lakshmaṇ, who knew no will save his alone
+Whose hero deeds through all the world were known:—
+“My queen has told me that she longs to rove
+Beneath the shade of Saint Válmíki’s grove:
+Now mount thy car, away my lady bear;Tell all, and leave her in the forest there.”
+
+  The car was brought, the gentle lady smiled,
+As the glad news her trusting heart beguiled.
+She mounted up: Sumantra held the reins;
+And forth the coursers bounded o’er the plains.
+She saw green fields in all their beauty dressed,
+And thanked her husband in her loving breast.
+Alas! deluded queen! she little knew
+How changed was he whom she believed so true;
+How one she worshipped like the Heavenly Tree
+Could, in a moment’s time, so deadly be.
+Her right eye throbbed,—ill-omened sign, to tell
+The endless loss of him she loved so well,
+And to the lady’s saddening heart revealed
+The woe that Lakshmaṇ, in his love, concealed.
+Pale grew the bloom of her sweet face,—as fade
+The lotus blossoms,—by that sign dismayed.
+“Oh, may this omen,”—was her silent prayer,—
+“No grief to Ráma or his brothers bear!”
+
+  When Lakshmaṇ, faithful to his brother, stood
+Prepared to leave her in the distant wood,
+The holy Gangá, flowing by the way,
+Raised all her hands of waves to bid him stay.
+At length with sobs and burning tears that rolledDown his sad face, the king’s command he told;
+As when a monstrous cloud, in evil hour,
+Rains from its labouring womb a stony shower.
+She heard, she swooned, she fell upon the earth,
+Fell on that bosom whence she sprang to birth.
+As, when the tempest in its fury flies,
+Low in the dust the prostrate creeper lies,
+So, struck with terror sank she on the ground,
+And all her gems, like flowers, lay scattered round.
+But Earth, her mother, closed her stony breast,
+And, filled with doubt, denied her daughter rest.
+She would not think the Chief of Raghu’s race
+Would thus his own dear guiltless wife disgrace.
+Stunned and unconscious, long the lady lay,
+And felt no grief, her senses all astray.
+But gentle Lakshmaṇ, with a brother’s care,
+Brought back her sense, and with her sense, despair.
+But not her wrongs, her shame, her grief, could wring
+One angry word against her lord the King:
+Upon herself alone the blame she laid,
+For tears and sighs that would not yet be stayed.
+To soothe her anguish Lakshmaṇ gently strove;
+He showed the path to Saint Válmíki’s grove;
+And craved her pardon for the share of ill
+He wrought, obedient to his brother’s will.“O, long and happy, dearest brother, live!
+I have to praise,” she cried, “and not forgive:
+To do his will should be thy noblest praise;
+As Vishṇu ever Indra’s will obeys.
+Return, dear brother: on each royal dame
+Bestow a blessing in poor Sítá’s name,
+And bid them, in their love, kind pity take
+Upon her offspring, for the father’s sake.
+And speak my message in the monarch’s ear,
+The last last words of mine that he shall hear:
+“Say, was it worthy of thy noble race
+Thy guiltless queen thus lightly to disgrace?
+For idle tales to spurn thy faithful bride,
+Whose constant truth the searching fire had tried?
+Or may I hope thy soul refused consent,
+And but thy voice decreed my banishment?
+Hope that no care could turn, no love could stay
+The lightning stroke that falls on me to-day?
+That sins committed in the life that’s fled
+Have brought this evil on my guilty head?
+Think not I value now my widowed life,
+Worthless to her who once was Ráma’s wife.
+I only live because I hope to see
+The dear dear babe that will resemble thee.
+And then my task of penance shall be done,With eyes uplifted to the scorching sun;
+So shall the life that is to come restore
+Mine own dear husband, to be lost no more.”
+And Lakshmaṇ swore her every word to tell,
+Then turned to go, and bade the queen farewell.
+Alone with all her woes, her piteous cries
+Rose like a butchered lamb’s that struggling dies.
+The reverend sage who from his dwelling came
+For sacred grass and wood to feed the flame,
+Heard her loud shrieks that rent the echoing wood,
+And, quickly following, by the mourner stood.
+Before the sage the lady bent her low,
+Dried her poor eyes, and strove to calm her woe.
+With blessings on her hopes the blameless man
+In silver tones his soothing speech began:
+“First of all faithful wives, O Queen, art thou;
+And can I fail to mourn thy sorrows now?
+Rest in this holy grove, nor harbour fear
+Where dwell in safety e’en the timid deer.
+Here shall thine offspring safely see the light,
+And be partaker of each holy rite.
+Here, near the hermits’ dwellings, shall thou lave
+Thy limbs in Tonse’s sin-destroying wave,
+And on her isles, by prayer and worship, gain
+Sweet peace of mind, and rest from care and pain.Each hermit maiden with her sweet soft voice,
+Shall soothe thy woe, and bid thy heart rejoice:
+With fruit and early flowers thy lap shall fill,
+And offer grain that springs for us at will.
+And here, with labour light, thy task shall be
+To water carefully each tender tree,
+And learn how sweet a nursing mother’s joy
+Ere on thy bosom rest thy darling boy.…”
+
+That very night the banished Sítá bare
+Two royal children, most divinely fair.…
+
+The saint Válmíki, with a friend’s delight,
+Graced Sítá’s offspring with each holy rite.
+Kuśa and Lava—such the names they bore—
+Learnt, e’en in childhood, all the Vedas’ lore;
+And then the bard, their minstrel souls to train,
+Taught them to sing his own immortal strain.
+And Ráma’s deeds her boys so sweetly sang,
+That Sítá’s breast forgot her bitterest pang.…
+
+Then Sítá’s children, by the saint’s command,
+Sang the Rámáyan, wandering through the land.
+How could the glorious poem fail to gain
+Each heart, each ear that listened to the strain!
+So sweet each minstrel’s voice who sang the praiseOf Ráma deathless in Válmíki’s lays.
+Ráma himself amid the wondering throng
+Marked their fair forms, and loved the noble song,
+While, still and weeping, round the nobles stood,
+As, on a windless morn, a dewy wood.
+On the two minstrels all the people gazed,
+Praised their fair looks and marvelled as they praised;
+For every eye amid the throng could trace
+Ráma’s own image in each youthful face.
+Then spoke the king himself and bade them say
+Who was their teacher, whose the wondrous lay.
+Soon as Válmíki, mighty saint, he saw,
+He bowed his head in reverential awe.
+“These are thy children” cried the saint, “recall
+Thine own dear Sítá, pure and true through all.”
+“O holy father,” thus the king replied,
+“The faithful lady by the fire was tried;
+But the foul demon’s too successful arts
+Raised light suspicions in my people’s hearts.
+Grant that their breasts may doubt her faith no more,
+And thus my Sítá and her sons restore.”
+
+<i>Raghuvaṇśa Cantos XIV, XV.</i>
+
+Parasuráma, Page 87.“He cleared the earth thrice seven times of the Kshatriya caste, and filled with their blood the five large lakes of Samanta, from which he offered libations to the race of Bhrigu. Offering a solemn sacrifice to the King of the Gods Paraśuráma presented the earth to the ministering priests. Having given the earth to Kaśyapa, the hero of immeasurable prowess retired to the Mahendra mountain, where he still resides; and in this manner was there enmity between him and the race of the Kshatriyas, and thus was the whole earth conquered by Paraśuráma.” The destruction of the Kshatriyas by Paraśuráma had been provoked by the cruelty of the Kshatriyas. <i>Chips from a German Workshop</i>, <i>Vol.</i> II. p. 334.
+
+The scene in which he appears is probably interpolated for the sake of making him declare Ráma to be Vishṇu. “Herr von Schlegel has often remarked to me,” says Lassen, “that without injuring the connexion of the story all the chapters [of the Rámáyan] might be omitted in which Ráma is regarded as an incarnation of Vishṇu. In fact, where the incarnation of Vishṇu as the four sons of Daśaratha is described, the great sacrifice is already ended, and all the priests remunerated at the termination, when the new sacrifice begins at which the Gods appear, then withdraw, and then first propose the incarnation to Vishṇu. If it had been an original circumstance of the story, the Gods would certainly have deliberated on the matter earlier, and the celebration of the sacrifice would have continued without interruption.” LASSEN, <i>Indische Alterthumskunde, Vol. I.</i> p. 489.
+
+Yáma, Page 68.Son of Vivasvat=Jima son of Vivanghvat, the Jamshíd of the later Persians.
+
+Fate, Page 68.
+
+“The idea of fate was different in India from that which prevailed in Greece. In Greece fate was a mysterious, inexorable power which governed men and human events, and from which it was impossible to escape. In India Fate was rather an inevitable consequence of actions done in births antecedent to one’s present state of existence, and was therefore connected with the doctrine of metempsychosis. A misfortune was for the most part a punishment, an expiation of ancient faults not yet entirely cancelled.” GORRESIO.
+
+Visvámitra, Page 76.
+
+“Though of royal extraction, Viśvámitra conquered for himself and his family the privileges of a Brahman. He became a Brahman, and thus broke through all the rules of caste. The Brahmans cannot deny the fact, because it forms one of the principal subjects of their legendary poems. But they have spared no pains to represent the exertions of Viśvámitra, in his struggle for Brahmanhood, as so superhuman that no one would easily be tempted to follow his example. No mention is made of these monstrous penances in the Veda, where the struggle between Viśvámitra, the leader of the Kuśikas or Bharatas, and the Brahman Vaśishtha, the leader of the white-robed Tritsus, is represented as the struggle of two rivals for the place of Purohita or chief priest and minister at the court of King Sudás, the son of Pijavana.” <i>Chips from a German Workshop</i>, <i>Vol. II.</i> p. 336.Household Gods, Page 102.
+
+“No house is supposed to be without its tutelary divinity, but the notion attached to this character is now very far from precise. The deity who is the object of hereditary and family worship, the <i>Kuladevatá</i>, is always one of the leading personages of the Hindu mythology, as Śiva, Vishṇu or Durgá, but the <i>Grihadevatá</i> rarely bears any distinct appellation. In Bengal, the domestic god is sometimes the <i>Sálagrám</i> stone, sometimes the <i>tulasi</i> plant, sometimes a basket with a little rice in it, and sometimes a water-jar—to either of which a brief adoration is daily addressed, most usually by the females of the family. Occasionally small images of Lakshmi or Chaṇdi fulfil the office, or should a snake appear, he is venerated as the guardian of the dwelling. In general, however, in former times, the household deities were regarded as the unseen spirits of ill, the ghosts and goblins who hovered about every spot, and claimed some particular sites as their own. Offerings were made to them in the open air, by scattering a little rice with a short formula at the close of all ceremonies to keep them in good humour.
+
+“The household gods correspond better with the genii locorum than with the lares or penates of autiquity.”
+
+H. H. WILSON.
+
+Page 107.<i>Śaivya, a king whom earth obeyed,</i>
+<i>Once to a hawk a promise made.</i>
+
+The following is a free version of this very ancient story which occurs more than once in the <i>Mahábhárat</i>:
+
+THE SUPPLIANT DOVE.
+
+Chased by a hawk there came a dove
+  With worn and weary wing,
+And took her stand upon the hand
+  Of Káśí’s mighty king.
+The monarch smoothed her ruffled plumes
+  And laid her on his breast,
+And cried, “No fear shall vex thee here,
+  Rest, pretty egg-born, rest!
+Fair Káśí’s realm is rich and wide,
+  With golden harvests gay,
+But all that’s mine will I resign
+  Ere I my guest betray.”
+But panting for his half won spoil
+  The hawk was close behind.
+And with wild cry and eager eye
+  Came swooping down the wind:
+“This bird,” he cried, “my destined prize,
+  ’Tis not for thee to shield:’Tis mine by right and toilsome flight
+  O’er hill and dale and field.
+Hunger and thirst oppress me sore,
+  And I am faint with toil:
+Thou shouldst not stay a bird of prey
+  Who claims his rightful spoil.
+They say thou art a glorious king,
+  And justice is thy care:
+Then justly reign in thy domain,
+  Nor rob the birds of air.”
+Then cried the king: “A cow or deer
+  For thee shall straightway bleed,
+Or let a ram or tender lamb
+  Be slain, for thee to feed.
+Mine oath forbids me to betray
+  My little twice-born guest:
+See how she clings with trembling wings
+  To her protector’s breast.”
+“No flesh of lambs,” the hawk replied,
+  “No blood of deer for me;
+The falcon loves to feed on doves
+  And such is Heaven’s decree.
+But if affection for the dove
+  Thy pitying heart has stirred,
+Let thine own flesh my maw refresh,  Weighed down against the bird.”
+He carved the flesh from off his side,
+  And threw it in the scale,
+While women’s cries smote on the skies
+  With loud lament and wail.
+He hacked the flesh from side and arm,
+  From chest and back and thigh,
+But still above the little dove
+  The monarch’s scale stood high.
+He heaped the scale with piles of flesh,
+  With sinews, blood and skin,
+And when alone was left him bone
+  He threw himself therein.
+Then thundered voices through the air;
+  The sky grew black as night;
+And fever took the earth that shook
+  To see that wondrous sight.
+The blessed Gods, from every sphere,
+  By Indra led, came nigh:
+While drum and flute and shell and lute
+  Made music in the sky.
+They rained immortal chaplets down,
+  Which hands celestial twine,
+And softly shed upon his head
+  Pure Amrit, drink divine.Then God and Seraph, Bard and Nymph
+  Their heavenly voices raised,
+And a glad throng with dance and song
+  The glorious monarch praised.
+They set him on a golden car
+  That blazed with many a gem;
+Then swiftly through the air they flew,
+  And bore him home with them.
+Thus Káśí’s lord, by noble deed,
+  Won heaven and deathless fame:
+And when the weak protection seek
+  From thee, do thou the same.
+
+<i>Scenes from the Rámáyan, &c.</i>
+
+Page 108.
+
+The ceremonies that attended the consecration of a king (<i>Abhikshepa lit. Sprinkling over</i>) are fully described in Goldstücker’s Dictionary, from which the following extract is made: “The type of the inauguration ceremony as practised at the Epic period may probably be recognized in the history of the inauguration of <i>Ráma</i>, as told in the <i>Rámáyana</i>, and in that of the inauguration of <i>Yudhishṭhira</i>, as told in the <i>Mahábháratha</i>.Neither ceremony is described in these poems with the full detail which is given of the vaidik rite in the <i>Aitareya-Bráhmaṇam</i>; but the allusion that Ráma was inaugurated by <i>Vaśishṭha</i> and the other Bráhmanas in the same manner as Indra by the Vasus … and the observation which is made in some passages that a certain rite of the inauguration was performed ‘according to the sacred rule’ … admit of the conclusion that the ceremony was supposed to have taken place in conformity with the vaidik injunction.… As the inauguration of <i>Ráma</i> was intended and the necessary preparations for it were made when his father Daśaratha was still alive, but as the ceremony itself, through the intrigues of his step-mother <i>Kaikeyí</i>, did not take place then, but fourteen years later, after the death of <i>Daśaratha</i>, an account of the preparatory ceremonies is given in the <i>Ayodhyákáṇḍa</i> (Book II) as well as in the <i>Yuddha-Káṇḍa</i> (Book VI.) of the Rámáyaṇa, but an account of the complete ceremony in the latter book alone. According to the <i>Ayodhyákáṇḍa</i>, on the day preceding the intended inauguration <i>Ráma</i> and his wife <i>Sítá</i> held a fast, and in the night they performed this preliminary rite: <i>Ráma</i> having made his ablutions, approached the idol of <i>Náráyaṇa</i>, took a cup of clarified butter, as the religious law prescribes, made a libation of it into the kindled fire, and drank the remainder while wishing what was agreeable to his heart. Then, with his mind fixed on the divinity he lay, silent and composed, together with <i>Sítá</i>, on a bed of Kuśa-grass, which was spread before the altar of Vishṇu, until the last watch of the night, when he awoke and ordered the palace to be prepared for the solemnity. At day-break reminded of the time by the voices of the bards, he performed the usual morning devotion and praised the divinity.In the meantime the town Ayodhyá had assumed a festive appearance and the inauguration implements had been arranged … golden water-jars, an ornamented throne-seat, a chariot covered with a splendid tiger-skin, water taken from the confluence of the Ganges and Jumna, as well as from other sacred rivers, tanks, wells, lakes, and from all oceans, honey, curd, clarified butter, fried grain, Kuśa-grass, flowers, milk; besides, eight beautiful damsels, and a splendid furious elephant, golden and silver jars, filled with water, covered with <i>Udumbara</i> branches and various lotus flowers, besides a white jewelled <i>chourie</i>, a white splendid parasol, a white bull, a white horse, all manner of musical instruments and bards.… In the preceding chapter … there are mentioned <i>two</i> white <i>chouries</i> instead of one, and all kinds of seeds, perfumes and jewels, a scimitar, a bow, a litter, a golden vase, and a blazing fire, and amongst the living implements of the pageant, instead of the bards, gaudy courtesans, and besides the eight damsels, professors of divinity, Bráhmaṇas, cows and pure kinds of wild beasts and birds, the chiefs of town and country-people and the citizens with their train.”
+
+Page 109.
+
+<i>Then with the royal chaplains they</i>
+<i>Took each his place in long array.</i>
+
+<i>The twice born chiefs, with zealous heed,</i>
+<i>Made ready what the rite would need.</i>“Now about the office of a Purohita (house priest). The gods do not eat the food offered by a king, who has no house-priest (Purohita). Thence the king even when (not) intending to bring a sacrifice, should appoint a Bráhman to the office of house-priest.” HAUG’S <i>Autareya Bráhmanam. Vol. II. p. 528</i>.
+
+Page 110.
+
+<i>There by the gate the Sáras screamed.</i>
+
+The Sáras or Indian Crane is a magnificent bird easily domesticated and speedily constituting himself the watchman of his master’s house and garden. Unfortunately he soon becomes a troublesome and even dangerous dependent, attacking strangers with his long bill and powerful wings, and warring especially upon “small infantry” with unrelenting ferocity.
+
+Page 120.
+
+<i>My mothers or my sire the king.</i>
+
+All the wives of the king his father are regarded and spoken of by Ráma as his mothers.
+
+Page 125.
+
+<i>Such blessings as the Gods o’erjoyed</i>
+<i>Poured forth when Vritra was destroyed.</i>“Mythology regards Vritra as a demon or Asur, the implacable enemy of Indra, but this is not the primitive idea contained in the name of Vritra. In the hymns of the Veda Vritra appears to be the thick dark cloud which Indra the God of the firmament attacks and disperses with his thunderbolt.” GORRESIO.
+
+“In that class of Rig-veda hymns which there is reason to look upon as the oldest portion of Vedic poetry, the character of Indra is that of a mighty ruler of the firmament, and his principal feat is that of conquering the demon <i>Vritra</i>, a symbolical personification of the cloud which obstructs the clearness of the sky, and withholds the fructifying rain from the earth. In his battles with Vritra he is therefore described as ‘opening the receptacles of the waters,’ as ‘cleaving the cloud’ with his ‘far-whirling thunderbolt,’ as ‘casting the waters down to earth,’ and ‘restoring the sun to the sky.’ He is in consequence ‘the upholder of heaven, earth, and firmament,’ and the god ‘who has engendered the sun and the dawn.’ ” CHAMBERS’S CYCLOPÆDIA, <i>Indra</i>.
+
+“Throughout these hymns two images stand out before us with overpowering distinctness. On one side is the bright god of the heaven, as beneficent as he is irresistible: on the other the demon of night and of darkness, as false and treachorous as he is malignant.… The latter (as his name Vritra, from var, to veil, indicates) is pre-eminently the thief who hides away the rain-clouds.… But the myth is yet in too early a state to allow of the definite designations which are brought before us in the conflicts of Zeus with Typhôn and his monstrous progeny, of Apollôn with the Pythôn, of Bellerophôn with Chimaira of Oidipous with the Sphinx, of Hercules with Cacus, of Sigurd with the dragon Fafnir;and thus not only is Vritra known by many names, but he is opposed sometimes by Indra, sometimes by Agni the fire-god, sometimes by Trita, Brihaspati, or other deities; or rather these are all names of one and the same god.” COX’S <i>Mythology of the Aryan Nations. Vol. II. p. 326</i>.
+
+Page 125.
+
+<i>And that prized herb whose sovereign power</i>
+<i>Preserves from dark misfortune’s hour.</i>
+“And yet more medicinal is it than that Moly,
+That Hermes once to wise Ulysses gave;
+He called it Hæmony, and gave it me,
+And bade me keep it as of sovereign use
+’Gainst all enchantment, mildew, blast, or damp,
+Or ghastly furies’ apparition.” <i>Comus.</i>
+
+The <i>Moly</i> of Homer, which Dierbach considers to have been the <i>Mandrake</i>, is probably a corruption of the Sanskrit <i>Múla</i> a root.
+
+Page 136.
+
+<i>True is the ancient saw: the Neem</i>
+<i>Can ne’er distil a honeyed stream.</i>
+
+The Neem tree, especially in the Rains, emits a strong unpleasant smell like that of onions.Its leaves however make an excellent cooling poultice, and the Extract of Neem is an admirable remedy for cutaneous disorders.
+
+Page 152.
+
+<i>Who of Nisháda lineage came.</i>
+
+The following account of the origin of the Nishádas is taken from Wilson’s <i>Vishṇu Puráṇa</i>, Book I. Chap. 15. “Afterwards the Munis beheld a great dust arise, and they said to the people who were nigh: ‘What is this?’ And the people answered and said: ‘Now that the kingdom is without a king, the dishonest men have begun to seize the property of their neighbours. The great dust that you behold, excellent Munis, is raised by troops of clustering robbers, hastening to fall upon their prey.’ The sages, hearing this, consulted, and together rubbed the thigh of the king (Vena), who had left no offspring, to produce a son. From the thigh, thus rubbed, came forth a being of the complexion of a charred stake, with flattened features like a negro, and of dwarfish stature. ‘What am I to do,’ cried he eagerly to the Munis. ‘Sit down (nishída),’ said they. And thence his name was Nisháda. His descendants, the inhabitants of the Vindhyá mountain, great Muni, are still called Nishádas and are characterized by the exterior tokens of depravity.” Professor Wilson adds, in his note on the passage: “The Matsya says that there were born outcast or barbarous races, Mlechchhas, as black as collyrium. The Bhágavata describes an individual of dwarfish stature, with short arms and legs, of a complexion as black as a crow, with projecting chin, broad flat nose, red eyes, and tawny hair, whose descendants were mountaineers and foresters.The Padma (Bhúmi Khaṇḍa) has a similar deccription; adding to the dwarfish stature and black complexion, a wide mouth, large ears, and a protuberant belly. It also particularizes his posterity as Nishádas, Kirátas, Bhillas, and other barbarians and Mlechchhas, living in woods and on mountains. These passages intend, and do not much exaggerate, the uncouth appearance of the Gonds, Koles, Bhils, and other uncivilized tribes, scattered along the forests and mountains of Central India from Behar to Khandesh, and who are, not improbably, the predecessors of the present occupants of the cultivated portions of the country. They are always very black, ill-shapen, and dwarfish, and have countenances of a very African character.”
+
+Manu gives a different origin of the Nishádas as the offspring of a Bráhman father and a Súdra mother. See Muir’s <i>Sanskrit Texts</i>, Vol. I. p. 481.
+
+Page 157.
+
+<i>Beneath a fig-tree’s mighty shade,</i>
+<i>With countless pendent shoots displayed.</i>
+“So counselled he, and both together went
+Into the thickest wood; there soon they chose
+The fig-tree: not that kind for fruit renowned,
+But such as at this day, to Indians known,
+In Malabar or Deccan spreads her arms
+Branching so broad and long, that in the ground
+The bended twigs take root, and daughters grow
+About the mother tree, a pillared shadeHigh overarched, and echoing walks between.”
+
+<i>Paradise Lost</i>, Book IX.
+
+Page 161.
+
+<i>Now, Lakshmaṇ, as our cot is made,</i>
+<i>Must sacrifice be duly paid.</i>
+
+The rites performed in India on the completion of a house are represented in modern Europe by the familiar “house-warming.”
+
+Page 169.
+
+<i>I longed with all my lawless will</i>
+<i>Some elephant by night to kill.</i>
+
+One of the regal or military caste was forbidden to kill an elephant except in battle.
+
+<i>Thy hand has made no Bráhman bleed.</i>
+
+“The punishment which the Code of Manu awards to the slayer of a Brahman was to be branded in the forehead with the mark of a headless corpse, and entirely banished from society; this being apparently commutable for a fine.The poem is therefore in accordance with the Code regarding the peculiar guilt of killing Brahmans; but in allowing a hermit who was not a <i>Divija</i> (twice-born) to go to heaven, the poem is far in advance of the Code. The youth in the poem is allowed to read the Veda, and to accumulate merit by his own as well as his father’s pious acts; whereas the exclusive Code reserves all such privileges to <i>Divijas</i> invested with the sacred cord.” Mrs. SPEIR’S <i>Life in Ancient India</i>, p. 107.
+
+Page 174. The Praise Of Kings
+
+“Compare this magnificent eulogium of kings and kingly government with what Samuel says of the king and his authority: And Samuel told all the words of the LORD unto the people that asked of him a king.
+
+And he said, This will be the manner of the king that shall reign over you: He will take your sons, and appoint them for himself, for his chariots, and to be his horsemen: and some shall run before his chariots.
+
+And he will appoint him captains over thousands, and captains over fifties, and will set them to work his ground, and to reap his harvest, and to make his instrument of war, and instruments of his chariots.
+
+And he will take your daughters to be confectionaries, and to be cooks, and to be bakers.And he will take your fields, and your vineyards and your oliveyards, even the best of them, and give them to his servants.
+
+And he will take the tenth of your seed, and of your vineyards, and give to his officers, and to his servants.
+
+And he will take your men-servants, and your maid-servants, and your goodliest young men, and your asses, and put them to his work.
+
+He will take the tenth of your sheep: and ye shall be his servants.
+
+And ye shall cry out in that day because of your king which ye shall have chosen you. I. <i>Samuel</i>, VIII.
+
+In India kingly government was ancient and consecrated by tradition: whence to change it seemed disorderly and revolutionary: in Judæa theocracy was ancient and consecrated by tradition, and therefore the innovation which would substitute a king was represented as full of dangers.” GORRESIO.
+
+Page 176. Sálmalí.
+
+According to the Bengal recension Śálmalí appears to have been another name of the Vipáśá. Śálmalí may be an epithet signifying rich in Bombax heptaphyllon. The commentator makes another river out of the word.
+
+Page 178. Bharat’s Return.“Two routes from Ayodhyá to Rájagriha or Girivraja are described. That taken by the envoys appears to have been the shorter one, and we are not told why Bharat returned by a different road. The capital of the Kekayas lay to the west of the Vipáśá. Between it and the Śatadru stretched the country of the Báhíkas. Upon the remaining portion of the road the two recensions differ. According to that of Bengal there follow towards the east the river Indamatí, then the town Ajakála belonging to the Bodhi, then Bhulingá, then the river Śaradaṇḍá. According to the other instead of the first river comes the Ikshumatí … instead of the first town Abhikála, instead of the second Kulingá, then the second river. According to the direction of the route both the above-mentioned rivers must be tributaries of the Śatadrú.… The road then crossed the Yamuná (Jumna), led beyond that river through the country of the Panchálas, and reached the Ganges at Hástinapura, where the ferry was. Thence it led over the Rámagangá and its eastern tributaries, then over the Gomati, and then in a southern direction along the Málini, beyond which it reached Ayodhyá. In Bharat’s journey the following rivers are passed from west to east: <i>Kutikoshṭiká</i>, <i>Uttániká</i>, <i>Kuṭiká</i>, <i>Kapívatí</i>, <i>Gomatí</i> according to Schlegel, and <i>Hiraṇyavatí</i>, <i>Uttáriká</i>, <i>Kuṭilá</i>, <i>Kapívatí</i>, <i>Gomatí</i> according to Gorresio. As these rivers are to be looked for on the east of the Ganges, the first must be the modern <i>Koh</i>, a small affluent of the Rámagangá, over which the highway cannot have gone as it bends too far to the north. The Uttániká or Uttáriká must be the Rámagangá, the Kuṭiká or Kuṭilá its eastern tributary, Kośilá, the Kapívatí the next tributary which on the maps has different names, <i>Gurra</i> or above Kailas, lower down <i>Bhaigu</i>. The Gomatí (Goomtee) retains its old name.The Máliní, mentioned only in the envoys’ journey, must have been the western tributary of the Sarayú now called Chuká.” LASSEN’S <i>Indische Alterthumskunde</i>, Vol. II. P. 524.
+
+Page 183.
+
+<i>What worlds await thee, Queen, for this?</i>
+
+“Indian belief divided the universe into several worlds (<i>lokáh</i>). The three principal worlds were heaven, earth, and hell. But according to another division there were seven: Bhúrloka or the earth, Bhuvarloka or the space between the earth and the sun, the seat of the Munis, Siddhas, &c., Svarloka or the heaven of Indra between the sun and the polar star, and the seventh Brahmaloka or the world of Brahma. Spirits which reached the last were exempt from being born again.” GORRESIO.
+
+Page 203.
+
+<i>When from a million herbs a blaze</i>
+<i>Of their own luminous glory plays.</i>
+
+This mention of lambent flames emitted by herbs at night may be compared with Lucan’s description of a similar phenomenon in the Druidical forest near Marseilles, (<i>Pharsalia</i>, III. 420.).
+
+<i>Non ardentis</i> fulgere incendia silvae.Seneca, speaking of Argolis, (Thyestes, Act IV), says:—
+
+Tota solet
+
+Micare flamma silva, et excelsae trabes
+<i>Ardent sine igni</i>.
+
+Thus also the bush at Horeb (Exod. II.) flamed, but was not consumed.
+
+The Indian explanation of the phenomenon is, that the sun before he sets deposits his rays for the night with the deciduous plants. See <i>Journal of R. As. S. Bengal</i>, Vol. II. p. 339.
+
+Page 219.
+
+<i>We rank the Buddhist with the thief.</i>
+
+Schlegel says in his Preface: “Lubrico vestigio insistit V. Cl. <i>Heerenius, prof. Gottingensis</i>, in libro suo de commerciis veterum populorum (OPP. Vol. HIST. XII, pag. 129,) dum putat, ex mentione sectatorum Buddhae secundo libro Rameidos iniecta de tempore, quo totum carmen sit conditum, quicquam legitime concludi posse.… Sunt versus spurii, reiecti a Bengalis in sola commentatorum recensione leguntur. Buddhas quidem mille fere annis ante Christum natun vixit: sed post multa demumsecula, odiointernecivo inter Brachmanos et Buddhae sectatores orto, his denique ex India pulsis, fingi potuit iniquissima criminatio, eos animi immortalitatem poenasque et praemia in vita futura negare.Praeterea metrum, quo concinnati sunt hi versus, de quo metro mox disseram, recentiorem aetatem arguit.… Poenitet me nunc mei consilii, quod non statim ab initio, … eiecerim cuncta disticha diversis a sloco vulgari metris composita. Metra sunt duo: pariter ambo constant quatuor hemistichiis inter se aequalibus, alterum undenarum syllabarum, alterum duodenarum, hunc in modum:
+
+[-)] [-] [)] [-] | [-] [)] [)] [-] | [)] [-] [-)]
+[)] [-] [)] [-] | [-] [)] [)] [-] | [)] [-] [)] [-)]
+
+Cuius generis versus in primo et secundo Rameidos libro nusquam nisi ad finem capitum apposita inveniuntur, et huic loco unice sunt accommodata, quasi peroratio, lyricis numeris assurgens, quo magis canorae cadant clausulae: sicut musici in concentibus extremis omnium vocum instrumentorumque ictu fortiore aures percellere amant. Igitur disticha illa non ante divisionem per capita illatam addi potuerunt: hanc autem grammaticis deberi argumento est ipse recensionum dissensus, manifesto inde ortus, quod singuli editores in ea constituenda suo quisque iudicio usi sunt; praeterquam quod non credibile est, poetam artis suae peritum narrationem continuam in membra tam minuta dissecuisse. Porro discolor est dictio: magniloquentia affectatur, sed nimis turgida illa atque effusa, nec sententiarum pondere satis suffulta. Denique nihil fere novi affertur: ampli ficantur prius dicta, rarius aliquid ex capite sequente anticipatur. Si quis appendices hosce legendo transiliat, sentiet slocum ultimum cum primo capitis proximi apte coagmentatum, nec sine vi quadam inde avulsum. Eiusmodi versus exhibet utraque recensio, sed modo haec modo illa plures paucioresve numero, et lectio interdum magnopere variat.”“The narrative of Ráma’s exile in the jungle is one of the most obscure portions of the Rámáyana, inasmuch as it is difficult to discover any trace of the original tradition, or any illustration of actual life and manners, beyond the artificial life of self-mortification and selfdenial said to have been led by the Brahman sages of olden time. At the same time, however, the story throws some light upon the significance of the poem, and upon the character in which the Brahmanical author desired to represent Ráma; and consequently it deserves more serious consideration than the nature of the subject-matter would otherwise seem to imply.
+
+“According to the Rámáyana, the hero Ráma spent more than thirteen years of his exile in wandering amongst the different Brahmanical settlements, which appear to have been scattered over the country between the Ganges and the Godáveri; his wanderings extending from the hill of Chitra-kúṭa in Bundelkund, to the modern town of Nasik on the western side of India, near the source of the Godáveri river, and about seventy-five miles to the north-west of Bombay. The appearance of these Brahmanical hermitages in the country far away to the south of the Raj of Kasala, seems to call for critical inquiry. Each hermitage is said to have belonged to some particular sage, who is famous in Brahmanical tradition. But whether the sages named were really contemporaries of Ráma, or whether they could possibly have flourished at one and the same period, is open to serious question.It is of course impossible to fix with any degree of certainty the relative chronology of the several sages, who are said to have been visited by Ráma; but still it seems tolerably clear that some belonged to an age far anterior to that in which the Rámáyana was composed, and probably to an age anterior to that in which Ráma existed as a real and living personage; whilst, at least, one sage is to be found who could only have existed in the age during which the Rámáyana was produced in its present form. The main proofs of these inferences are as follows. An interval of many centuries seems to have elapsed between the composition of the Rig-Veda and that of the Rámáyana: a conclusion which has long been proved by the evidence of language, and is generally accepted by Sanskrit scholars. But three of the sages, said to have been contemporary with Ráma, namely, Viśvámitra, Atri and Agastya, are frequently mentioned in the hymns of the Rig-Veda; whilst Válmíki, the sage dwelling at Chitra-kúṭa, is said to have been himself the composer of the Rámáyana. Again, the sage Atri, whom Ráma visited immediately after his departure from Chitra-kúṭa, appears in the genealogical list preserved in the Mahá Bhárata, as the progenitor of the Moon, and consequently as the first ancestor of the Lunar race: whilst his grandson Buddha [Budha] is said to have married Ilá, the daughter of Ikhsváku who was himself the remote ancestor of the Solar race of Ayodhyá, from whom Ráma was removed by many generations.These conclusions are not perhaps based upon absolute proof, because they are drawn from untrustworthy authorities; but still the chronological difficulties have been fully apprehended by the Pundits, and an attempt has been made to reconcile all contradictions by representing the sages to have lived thousands of years, and to have often re-appeared upon earth in different ages widely removed from each other. Modern science refuses to accept such explanations; and consequently it is impossible to escape the conclusion that if Válmíki composed the Rámáyana in the form of Sanskrit in which it has been preserved, he could not have flourished in the same age as the sages who are named in the Rig-Veda.” WHEELER’S <i>History of India, Vol.</i> II, 229.
+
+Page 249.
+
+<i>And King Himálaya’s Child.</i>
+
+Umá or Párvatí, was the daughter of Himálaya and Mená. She is the heroine of Kálidása’s <i>Kumára-Sambhava</i> or <i>Birth of the War-God</i>.
+
+Page 250.
+
+<i>Strong Kumbhakarṇa slumbering deep</i>
+<i>In chains of never-ending sleep.</i>
+
+“Kumbhakarṇa, the gigantic brother of the titanic Rávaṇ,—named from the size of his ears which could contain a <i>Kumbha</i> or large water-jar—had such an appetite that he used to consume six months’ provisions in a single day.Brahmá, to relieve the alarm of the world, which had begun to entertain serious apprehensions of being eaten up, decreed that the giant should sleep six months at a time and wake for only one day during which he might consume his six months’ allowance without trespassing unduly on the reproductive capabilities of the ” <i>Scenes front the Rámáyan</i>, p. 153, 2nd Edit.
+
+Page 257.
+
+<i>Like Śiva when his angry might</i>
+<i>Stayed Daksha’s sacrificial rite.</i>
+
+The following spirited version of this old story is from the pen of Mr. W. Waterfield:
+
+“This is a favorite subject of Hindú sculpture, especially on the temples of Shiva, such as the caves of Elephanta and Ellora. It, no doubt, is an allegory of the contest between the followers of Shiva and the worshippers of the Elements, who observed the old ritual of the Vedas; in which the name of Shiva is never mentioned.
+
+Daksha for devotion
+  Made a mighty feast:
+Milk and curds and butter,
+  Flesh of bird and beast,
+Rice and spice and honey,
+  Sweetmeats ghí and gur,(1038)Gifts for all the Bráhmans,
+  Food for all the poor.
+At the gates of Gangá(1039)
+  Daksha held his feast;
+Called the gods unto it,
+  Greatest as the least.
+All the gods were gathered
+  Round with one accord;
+All the gods but Umá,
+  All but Umá’s lord.
+Umá sat with Shiva
+  On Kailása hill:
+Round them stood the Rudras
+  Watching for their will.
+Who is this that cometh
+  Lilting to his lute?
+All the birds of heaven
+  Heard his music, mute.
+Round his head a garland
+  Rich of hue was wreathed:
+Every sweetest odour
+  From its blossoms breathed.
+’Tis the Muni Nárad;
+  ’Mong the gods he fares,
+Ever making mischief  By the tales he bears.
+“Hail to lovely Umá!
+  Hail to Umá’s lord!
+Wherefore are they absent
+  For her father’s board?
+Multiplied his merits
+  Would be truly thrice,
+Could he gain your favour
+  For his sacrifice.”
+Worth of heart was Umá;
+  To her lord she spake:—
+“Why dost thou, the mighty,
+  Of no rite partake?
+Straight I speed to Daksha
+  Such a sight to see:
+If he be my father,
+  He must welcome thee.”
+Wondrous was in glory
+  Daksha’s holy rite;
+Never had creation
+  Viewed so brave a sight.
+Gods, and nymphs, find fathers,
+  Sages, Bráhmans, sprites,—
+Every diverge creature
+  Wrought that rite of rites.Quickly then a quaking
+  Fell on all from far;
+Umá stood among them
+  On her lion car.
+“Greeting, gods and sages,
+  Greeting, father mine!
+Work hath wondrous virtue,
+  Where such aids combine.
+Guest-hall never gathered
+  Goodlier company:
+Seemeth all are welcome.
+  All the gods but me.”
+Spake the Muni Daksha,
+  Stern and cold his tone:—
+“Welcome thou, too, daughter,
+  Since thou com’st alone.
+But thy frenzied husband
+  Suits another shrine;
+He is no partaker
+  Of this feast of mine.
+He who walks in darkness
+  Loves no deeds of light:
+He who herds with demons
+  Shuns each kindly sprite.
+Let him wander naked.—  Wizard weapons wield,—
+Dance his frantic measure
+  Round the funeral field.
+Art thou yet delighted
+  With the reeking hide,
+Body smeared with ashes.
+  Skulls in necklace tied?
+Thou to love this monster?
+  Thou to plead his part!
+Know the moon and Gangá
+  Share that faithless heart
+Vainly art thou vying
+  With thy rivals’ charms.
+Are not coils of serpents
+  Softer than thine arms?”
+Words like these from Daksha
+  Daksha’s daughter heard:
+Then a sudden passion
+  All her bosom stirred.
+Eyes with fury flashing.
+  Speechless in her ire,
+Headlong did she hurl her
+  ’Mid the holy fire.
+Then a trembling terror
+  Overcame each one,And their minds were troubled
+  Like a darkened sun;
+And a cruel Vision,
+  Face of lurid flame,
+Umá’s Wrath incarnate,
+  From the altar came.
+Fiendlike forms by thousands
+  Started from his side,
+’Gainst the sacrificers
+  All their might they plied:
+Till the saints availed not
+  Strength like theirs to stay,
+And the gods distracted
+  Turned and fled away.
+Hushed were hymns and chanting,
+  Priests were mocked and spurned;
+Food defiled and scattered;
+  Altars overturned.—
+Then, to save the object
+  Sought at such a price,
+Like a deer in semblance
+  Sped the sacrifice.
+Soaring toward the heavens,
+  Through the sky it fled?
+But the Rudras chasing  Smote away its head.
+Prostrate on the pavement
+  Daksha fell dismayed:—
+“Mightiest, thou hast conquered
+  Thee we ask for aid.
+Let not our oblations
+  All be rendered vain;
+Let our toilsome labour
+  Full fruition gain.”
+Bright the broken altars
+  Shone with Shiva’s form;
+“Be it so!” His blessing
+  Soothed that frantic storm.
+Soon his anger ceases,
+  Though it soon arise;—
+But the Deer’s Head ever
+  Blazes in the skies.”
+
+<i>Indian Ballads and other Poems.</i>
+
+Page 286. Urvasí.
+
+“The personification of Urvasî herself is as thin as that of Eôs or Selênê. Her name is often found in the Veda as a mere name for the morning, and in the plural number it is used to denote the dawns which passing over men bring them to old age and death.Urvasî is the bright flush of light overspreading the heaven before the sun rises, and is but another form of the many mythical beings of Greek mythology whose names take us back to the same idea or the same root. As the dawn in the Vedic hymns is called Urûkî, the far-going (Têlephassa, Têlephos), so is she also Uruasî, the wide-existing or wide-spreading; as are Eurôpê, Euryanassa, Euryphassa, and many more of the sisters of Athênê and Aphroditê. As such she is the mother of Vasishtha, the bright being, as Oidipous is the son of Iokastê; and although Vasishtha, like Oidipous, has become a mortal bard or sage, he is still the son of Mitra and Varuṇa, of night and day. Her lover Purûravas is the counterpart of the Hellenic Polydeukês; but the continuance of her union with him depends on the condition that she never sees him unclothed. But the Gandharvas, impatient of her long sojourn among mortal men resolved to bring her back to their bright home; and Purûravas is thus led unwitingly to disregard her warning. A ewe with two lambs was tied to her couch, and the Gandharvas stole one of them; Urvasî said, ‘They take away my darling, as if I lived in a land where there is no hero and no man.’ They stole the second, and she upbraided her husband again. Then Purûravas looked and said, ‘How can that be a land without heroes or men where I am?’ And naked he sprang up; he thought it was too long to put on his dress. Then the Gandharvas sent a flash of lighting, and Urvasî saw her husband naked as by daylight. Then she vanished. ‘I come back,’ she said, and went. ‘Then he bewailed his vanished love in bitter grief.’ Her promise to return was fulfilled, but for a moment only, at the Lotos-lake, and Purûravas in vain beseeches her to tarry longer. ‘What shall I do with thy speech?’ is the answer of Urvasî. ‘I am gone like the first of the dawns. Purûravas, go home again.I am hard to be caught like the winds.’ Her lover is in utter despair; but when he lies down to die, the heart of Urvasî was melted, and she bids him come to her on the last night of the year. On that night only he might be with her; but a son should be born to him. On that day he went up to the golden seats, and there Urvasî told him that the Gandharvas would grant him one wish, and that he must make his choice. ‘Choose thou for me,’ he said: and she answered, ‘Say to them, Let me be one of you.’ ”
+
+COX’S <i>Mythology of the Aryan Nations.</i> Vol. I. p. 397.
+
+Page 324.
+
+<i>The sovereign of the Vánar race.</i>
+
+“Vánar is one of the most frequently occurring names by which the poem calls the monkeys of Ráma’s army. Among the two or three derivations of which the word Vánar is susceptible, one is that which deduces it from vana which signifies a wood, and thus Vánar would mean a forester, an inhabitant of the wood. I have said elsewhere that the monkeys, the Vánars, whom Ráma led to the conquest of Ceylon were fierce woodland tribes who occupied the mountainous regions of the south of India, where their descendants may still be seen. I shall hence forth promiscuously employ the word <i>Vánar</i> to denote those monkeys, those fierce combatants of Ráma’s army.” GORRESIO.
+
+Page 326.<i>No change of hue, no pose of limb</i>
+<i>Gave sign that aught was false in him.</i>
+<i>Concise, unfaltering, sweet and clear,</i>
+<i>Without a word to pain the ear,</i>
+<i>From chest to throat, nor high nor low,</i>
+<i>His accents came in measured flow.</i>
+
+Somewhat similarly in <i>The Squire’s Tale</i>:
+
+“He with a manly voice said his message,
+After the form used in his language,
+Withouten vice of syllable or of letter.
+And for his talë shouldë seem the better
+Accordant to his wordës was his chere,
+As teacheth art of speech them that it lere.”
+
+Page 329. Ráma’s Alliance With Sugríva.
+
+“The literal interpretation of this portion of the Rámáyana is indeed deeply rooted in the mind of the Hindu. He implicitly believes that Ráma is Vishnu, who became incarnate for the purpose of destroying the demon Rávana: that he permitted his wife to be captured by Rávana for the sake of delivering the gods and Bráhmans from the oppressions of the Rákshasa; and that he ultimately assembled an army of monkeys, who were the progeny of the gods, and led them against the strong-hold of Rávana at Lanká, and delivered the world from the tyrant Rákshasa, whilst obtaining ample revenge for his own personal wrongs.One other point seems to demand consideration, namely, the possibility of such an alliance as that which Ráma is said to have concluded with the monkeys. This possibility will of course be denied by modern critics, but still it is interesting to trace out the circumstances which seem to have led to the acceptance of such a wild belief by the dreamy and marvel loving Hindi. The south of India swarms with monkeys of curious intelligence and rare physical powers. Their wonderful instinct for organization, their attachment to particular localities, their occasional journeys in large numbers over mountains and across rivers, their obstinate assertion of supposed rights, and the ridiculous caricature which they exhibit of all that is animal and emotional in man, would naturally create a deep impression.… Indeed the habits of monkeys well deserve to be patiently studied; not as they appear in confinement, when much that is revolting in their nature is developed, but as they appear living in freedom amongst the trees of the forest, or in the streets of crowded cities, or precincts of temples. Such a study would not fail to awaken strange ideas; and although the European would not be prepared to regard monkeys as sacred animals he might be led to speculate as to their origin by the light of data, which are at present unknown to the naturalist whose observations have been derived from the menagerie alone.
+
+Whatever, however, may have been the train of ideas which led the Hindú to regard the monkey as a being half human and half divine, there can be little doubt that in the Rámáyana the monkeys of southern India have been confounded with what may be called the aboriginal people of the country. The origin of this confusion may be easily conjectured.Perchance the aborigines of the country may have been regarded as a superior kind of monkeys; and to this day the features of the Marawars, who are supposed to be the aborigines of the southern part of the Carnatic, are not only different from those of their neighbours, but are of a character calculated to confirm the conjecture. Again, it is probable that the army of aborigines may have been accompanied by outlying bands of monkeys impelled by that magpie-like curiosity and love of plunder which are the peculiar characteristics of the monkey race; and this incident may have given rise to the story that the army was composed of Monkeys.”
+
+WHEELER’S <i>History of India. Vol. II. pp. 316 ff.</i>
+
+Page 342. The Fall Of Báli.
+
+“As regards the narrative, it certainly seems to refer to some real event amongst the aboriginal tribes: namely, the quarrel between an elder and younger brother for the possession of a Ráj; and the subsequent alliance of Ráma with the younger brother. It is somewhat remarkable that Ráma appears to have formed an alliance with the wrong party, for the right of Báli was evidently superior to that of Sugríva; and it is especially worthy of note that Ráma compassed the death of Báli by an act contrary to all the laws of fair fighting.Again, Ráma seems to have tacitly sanctioned the transfer of Tárá from Báli to Sugríva, which was directly opposed to modern rule, although in conformity with the rude customs of a barbarous age; and it is remarkable that to this day the marriage of both widows and divorced women is practised by the Marawars, or aborigines of the southern Carnatic, contrary to the deeply-rooted prejudice which exists against such unions amongst the Hindús at large.”
+
+WHEELER’S <i>History of India, Vol. II. 324</i>.
+
+Page 370. The Vánar Host.
+
+“The splendid Marutas form the army of Indras, the red-haired monkeys and bears that of Râmas; and the mythical and solar nature of the monkeys and bears of the Râmâyaṇam manifests itself several times. The king of the monkeys is a sun-god. The ancient king was named Bâlin, and was the son of Indras. His younger brother Sugrívas, he who changes his shape at pleasure (Kâmarúpas), who, helped by Râmas, usurped his throne, is said to be own child of the sun. Here it is evident that the Vedic antagonism between Indras and Vishṇus is reproduced in a zoological and entirely apish form. The old Zeus must give way to the new, the moon to the sun, the evening to the morning sun, the sun of winter to that of spring; the young son betrays and overthrows the old one.… Râmas, who treacherously kills the old king of the monkeys, Bâlin, is the equivalent of Vishṇus, who hurls his predecessor Indras from his throne; and Sugrívas, the new king of the monkeys resembles Indras when he promises to find the ravished Sítá, in the same way as Vishṇus in one of his incarnations finds again the lost vedás.And there are other indications in the Râmâyaṇam of opposition between Indras and the monkeys who assist Râmas. The great monkey Hanumant, of the reddish colour of gold, has his jaw broken, Indras having struck him with his thunderbolt and caused him to fall upon a mountain, because, while yet a child, he threw himself off a mountain into the air in order to arrest the course of the sun, whose rays had no effect upon him. (The cloud rises from the mountain and hides the sun, which is unable of itself to disperse it; the tempest comes, and brings flashes of lightning and thunder-bolts, which tear the cloud in pieces.)
+
+The whole legend of the monkey Hanumant represents the sun entering into the cloud or darkness, and coming out of it. His father is said to be now the wind, now the elephant of the monkeys (Kapikunjaras), now Keśarin, the long-haired sun, the sun with a mane, the lion sun (whence his name of <i>Keśariṇah putrah</i>). From this point of view, Hanumant would seem to be the brother of Sugrívas, who is also the offspring of the sun.…
+
+All the epic monkeys of the <i>Râmâyaṇam</i> are described in the twentieth canto of the first book by expressions which very closely resemble those applied in the Vedic hymns to the Marutas, as swift as the tempestuous wind, changing their shape at pleasure, making a noise like clouds, sounding like thunder, battling, hurling mountain-peaks, shaking great uprooted trees, stirring up the deep waters, crushing the earth with their arms, making the clouds fall. Thus Bâlin comes out of the cavern as the sun out of the cloud.…But the legend of the monkey Hanumant presents another curious resemblance to that of Samson. Hanumant is bound with cords by Indrajit, son of Rávaṇas; he could easily free himself, but does not wish to do so. Rávaṇas to put him to shame, orders his tail to be burned, because the tail is the part most prized by monkeys.…
+
+The tail of Hanumant, which sets fire to the city of the monsters, is probably a personification of the rays of the morning or spring sun, which sets fire to the eastern heavens, and destroys the abode of the nocturnal or winter monsters.”
+
+DE GUBERNATIS, <i>Zoological Mythology</i>, Vol. II. pp. 100 ff.
+
+“The Jaitwas of Rajputana, a tribe politically reckoned as Rajputs, nevertheless trace their descent from the monkey-god Hanuman, and confirm it by alleging that their princes still bear its evidence in a tail-like prolongation of the spine; a tradition which has probably a real ethnological meaning, pointing out the Jaitwas as of non-Aryan race.”(1040) TYLOR’S <i>Primitive Culture</i>, Vol. I. p. 341.
+
+Page 372.
+
+The names of peoples occurring in the following <i>ślokas</i> are omitted in the metrical translation:“Go to the Brahmamálas,(1041) the Videhas,(1042) the Málavas,(1043) the Káśikośalas,(1044) the Mágadnas,(1045) the Puṇḍras,(1046) and the Angas,(1047) and the land of the weavers of silk, and the land of the mines of silver, and the hills that stretch into the sea, and the towns and the hamlets that are about the top of Mandar, and the Karṇaprávaraṇas,(1048) and the Oshṭhakarṇakas,(1049) and the Ghoralohamukhas,(1050) and the swift Ekapádakas,(1051) and the strong imperishable Eaters of Men, and the Kirátas(1052) with stiff hair-tufts, men like gold and fair to look upon: And the Eaters of Raw Fish, and the Kirátas who dwell in islands, and the fierce Tiger-men(1053) who live amid the waters.”
+
+Page 374.
+
+“Go to the Vidarbhas(1054) and the Rishṭikas(1055) and the Mahishikas,(1056) and the Matsyas(1057) and Kalingas(1058) and the Kauśikas(1059) … and the Andhras(1060) and the Puṇḍras(1061) and the Cholas(1062) and the Paṇḍyas(1063) and the Keralas,(1064) Mlechchhas(1065) and the Pulindas(1066) and the Śúrasenas,(1067) and the Prasthalas and the Bharatas and Madrakas(1068) and the Kámbojas(1069) and the Yavanas(1070) and the towns of the Śakas(1071) and the Varadas.”(1072)
+
+Page 378. Northern Kurus.
+
+Professor Lassen remarks in the Zeitschrift für die Kunde des Morgenlandes, ii. 62: “At the furthest accessible extremity of the earth appears Harivarsha with the northern Kurus. The region of Hari or Vishṇu belongs to the system of mythical geography; but the case is different with the Uttara Kurus.Here there is a real basis of geographical fact; of which fable has only taken advantage, without creating it. The Uttara Kurus were formerly quite independent of the mythical system of <i>dvípas</i>, though they were included in it at an early date.” Again the same writer says at p. 65: “That the conception of the Uttara Kurus is based upon an actual country and not on mere invention, is proved (1) by the way in which they are mentioned in the Vedas; (2) by the existence of Uttara Kuru in historical times as a real country; and (3) by the way in which the legend makes mention of that region as the home of primitive customs. To begin with the last point the Mahábhárata speaks as follows of the freer mode of life which women led in the early world, Book I. verses 4719-22: ‘Women were formerly unconfined and roved about at their pleasure, independent. Though in their youthful innocence they abandoned their husbands, they were guilty of no offence; for such was the rule in early times. This ancient custom is even now the law for creatures born as brutes, which are free from lust and anger. This custom is supported by authority and is observed by great rishis, and it is <i>still practiced among the northern Kurus</i>.’
+
+“The idea which is here conveyed is that of the continuance in one part of the world of that original blessedness which prevailed in the golden age. To afford a conception of the happy condition of the southern Kurus it is said in another place (M.-Bh, i. 4346.) ‘The southern Kurus vied in happiness with the northern Kurus and with the divine rishis and bards.’Professor Lassen goes on to say: ‘Ptolemy (vi. 16.) is also acquainted with <i>Uttara Kuru</i>. He speaks of a mountain, a people, and a city called <i>Ottorakorra</i>. Most of the other ancient authors who elsewhere mention this name, have it from him. It is a part of the country which he calls Serica; according to him the city lies twelve degrees west from the metropolis of Sera, and the mountain extends from thence far to the eastward. As Ptolemy has misplaced the whole of eastern Asia beyond the Ganges, the <i>relative</i> position which he assigns will guide us better that the absolute one, which removes <i>Ottorakorra</i> so far to the east that a correction is inevitable. According to my opinion the <i>Ottorakorra</i> of Ptolemy must be sought for to the east of Kashgar.’ Lassen also thinks that Magasthenes had the Uttara Kurus in view when he referred to the Hyperboreans who were fabled by Indian writers to live a thousand years. In his Indian antiquities, (Ind. Alterthumskunde, i. 511, 512. and note,) the same writer concludes that though the passages above cited relative to the Uttara Kurus indicate a belief in the existence of a really existing country of that name in the far north, yet that the descriptions there given are to be taken as pictures of an ideal paradise, and not as founded on any recollections of the northern origin of the Kurus. It is probable, he thinks, that some such reminiscences originally existed, and still survived in the Vedic era, though there is no trace of their existence in latter times.” MUIR’S <i>Sanskrit Texts</i>, Vol. II. pp. 336, 337.
+
+Page 428.
+
+<i>Trust to these mighty Vánars.</i>The corresponding passage in the Bengal recension has “these silvans in the forms of monkeys, vánaráh kapirupinah.” “Here it manifestly appears,” says Gorresio, “that these hosts of combatants whom Ráma led to the conquest of Lanká (Ceylon) the kingdom and seat of the Hamitic race, and whom the poem calls monkeys, were in fact as I have elsewhere observed, inhabitants of the mountainous and southern regions of India, who were wild-looking and not altogether unlike monkeys. They were perhaps the remote ancestors of the Malay races.”
+
+Page 431.
+
+<i>"Art thou not he who slew of old</i>
+<i>The Serpent-Gods, and stormed their hold."</i>
+
+All these exploits of Rávaṇ are detailed in the <i>Uttarakáṇḍa</i>, and epitomized in the Appendix.
+
+Page 434.
+
+<i>Within the consecrated hall</i>.
+
+The Bráhman householder ought to maintain three sacred fires, the <i>Gárhapatya</i>, the <i>Ahavaniya</i> and the <i>Dakshiṇa</i>. These three fires were made use of in many Brahmanical solemnities, for example in funeral rites when the three fires were arranged in prescribed order.
+
+Page 436.<i>Fair Punjikasthalá I met.</i>
+
+“I have not noticed in the Úttara Káṇda any story about the daughter of Varuṇa, but the commentator on the text (VI 60, 11) explains the allusion to her thus:
+
+“The daughter of Varuṇa was Punjikasthalí. On her account, a curse of Brahmá, involving the penalty of death, [was pronounced] on the rape of women.” MUIR, <i>Sanskrit Texts</i>, Part IV. Appendix.
+
+Page 452.
+
+_“__Shall no funereal honours grace_
+_The parted lord of Raghu’s race?__”_
+
+“Here are indicated those admirable rites and those funeral prayers which Professor Müller has described in his excellent work, <i>Die Todtenbestattung bei den Brahmanen</i>, Sítá laments that the body of Ráma will not be honoured with those rites and prayers, nor will the Bráhman priest while laying the ashes from the pile in the bosom of the earth, pronounce over them those solemn and magnificent words: ‘Go unto the earth, thy mother, the ample, wide, and blessed earth.… And do thou, O Earth, open and receive him as a friend with sweet greeting: enfold him in thy bosom as a mother wraps her child in her robes.’ ” GORRESIO.
+
+Page 462.        <i>Each glorious sign</i>
+<i>That stamps the future queen is mine</i>.
+
+We read in Josephus that Caesar was so well versed in chiromancy that when one day a <i>soi-disant</i> son of Herod had audience of him, he at once detected the impostor because his hand was destitute of all marks of royalty.
+
+Page 466.
+
+<i>In battle’s wild Gandharva dance</i>.
+
+“Here the commentator explains: ‘the battle resembled the dance of the Gandharvas,’ in accordance with the notion of the Gandharvas entertained in his day. They were regarded as celestial musicians enlivening with their melodies Indra’s heaven and the banquets of the Gods. But the Gandharvas before becoming celestial musicians in popular tradition, were in the primitive and true signification of the name heroes, spirited and ardent warriors, followers of Indra, and combined the heroical character with their atmospherical deity. Under this aspect the dance of the Gandharvas may be a very different thing from what the commentator means, and may signify the horrid dance of war.” GORRESIO.
+
+The Homeric expression is similar, “to dance a war-dance before Ares.”
+
+Page 470.
+
+<i>By Anaraṇya’s lips of old.</i>“The story of Anaraṇya is told in the Uttara Kaṇḍa of the Rámáyaṇa.… Anaraṇya a descendant of Ixváku and King of Ayodhyá, when called upon to fight with Rávaṇa or acknowledge himself conquered, prefers the former alternative; but his army is overcome, and he himself is thrown from his chariot.
+
+When Rávaṇa triumphs over his prostrate foe, the latter says that he has been vanquished not by him but by fate, and that Rávaṇa is only the instrument of his overthrow; and he predicts that Rávaṇa shall one day be slain by his descendant Ráma.” <i>Sanskrit Texts</i>, IV., Appendix.
+
+Page 497.
+
+“With regard to the magic image of Sítá made by Indrajit, we may observe that this thoroughly oriental idea is also found in Greece in Homer’s Iliad, where Apollo forms an image of Æneas to save that hero beloved by the Gods: it occurs too in the Æneid of Virgil where Juno forms a fictitious Æneas to save Turnus:
+
+  Tum dea nube cava tenuem sine viribus umbram
+In faciem Æneæ (visu mirabile monstrum)
+Dardaniis ornat telis; clipeumque jubasque
+Divini assimulat capitis; dat inania verba;
+Dat sine mente sonum, gressusque effingit euntis.
+
+(<i>Æneidos</i>, lib. X.)” GORRESIO.Page 489.
+
+<i>"To Raghu’s son my chariot lend."</i>
+
+“Analogous to this passage of the Rámáyana, where Indra sends to Ráma his own chariot, his own charioteer, and his own arms, is the passage in the Æneid where Venus descending from heaven brings celestial arms to her son Æneas when he is about to enter the battle:
+
+  At Venus æthereos inter dea candida nimbos
+Dona fereus aderat;…
+…
+Arma sub adversa posuit radiantia quercum.
+Ille, deæ donis et tanto lætus honore,
+Expleri nequit, atque oculus per singula volvit,
+Miraturque, interque manus et brachia versat
+Terribilem cristis galeam flammasque vomentem,
+Fatiferumque ensem, loricam ex ære rigentem.
+
+(<i>Æneidos</i>, lib. VIII)” GORRESIO.
+
+Page 489.
+
+<i>Agastya came and gently spake.</i>“The Muni or saint Agastya, author of several Vedic hymns, was celebrated in Indo-Sanskrit tradition for having directed the first brahmanical settlements in the southern regions of India; and the Mahábhárata gives him the credit of having subjected those countries, expelled the Rákshases. and given security to the solitary ascetics, who were settled there. Hence Agastya was regarded in ancient legend as the conqueror and ruler of the southern country. This tradition refers to the earliest migrations made by the Sanskrit Indians towards the south of India. To Agastya are attributed many marvellous mythic deeds which adumbrate and veil ancient events; some of which are alluded to here and there in the Rámáyana.” GORRESIO.
+
+The following is the literal translation of the Canto, text and commentary, from the Calcutta edition:
+
+Having found Ráma weary with fighting and buried in deep thought, and Rávaṇ standing before him ready to engage in battle, the holy Agastya, who had come to see the battle, approached Ráma and spoke to him thus: “O mighty Ráma, listen to the old mystery by which thou wilt conquer all thy foes in the battle. Having daily repeated the Ádityahridaya (the delighter of the mind of the Sun) the holy prayer which destroys all enemies (of him who repeats it) gives victory, removes all sins, sorrows and distress, increases life, and which is the blessing of all blessings, worship the rising and splendid sun who is respected by both the Gods and demons, who gives light to all bodies and who is the rich lord of all the worlds, (To the question why this prayer claims so great reverence;the sage answers) Since yonder(1073) sun is full of glory and all gods reside in him (he being their material cause) and bestows being and the active principle on all creatures by his rays; and since he protects all deities, demons and men with his rays.
+
+He is Brahmá,(1074) Vishṇu,(1075) Śiva,(1076) Skanda,(1077) Prajápati,(1078) Mahendra,(1079) Dhanada,(1080) Kála,(1081) Yáma,(1082) Soma,(1083) Apàm Pati <i>i.e.</i> The lord of waters, Pitris,(1084) Vasus,(1085) Sádhyas,(1086) Aśvins,(1087) Maruts,(1088) Manu,(1089) Váyu,(1090) Vahni,(1091) Prajá,(1092) Práṇa,(1093) Ritukartá,(1094) Prabhákara,(1095) (Thou,(1096) art) Aditya,(1097) Savitá,(1098) Súrya,(1099) Khaga,(1100) Púshan,(1101) Gabhastimán,(1102) Śuvarṇasadriśa,(1103) Bhánu,(1104) Hiraṇyaretas,(1105) Divákara,(1106) Haridaśva,(1107) Sahasrárchish,(1108) Saptasapti,(1109) Marichimán,(1110) Timironmathana,(1111) Sambhu,(1112) Twashtá,(1113) Mártanda,(1114) Anśumán,(1115) Hiranyagarbha,(1116) Siśira,(1117) Tapana,(1118) Ahaskara,(1119) Ravi,(1120) Agnigarbha,(1121) Aditiputra,(1122) Sankha,(1123) Siśiranáśana,(1124) Vyomanátha,(1125) Tamobhedí,(1126) Rigyajussámapáraga,(1127) Ghanavríshti,(1128) Apám-Mitra,(1129) Vindhyavíthíplavangama,(1130) Átapí,(1131) Mandalí,(1132) Mrityu (death), Pingala,(1133) Sarvatápana,(1134) Kavi,(1135) Viśva,(1136) Mahátejas,(1137) Rakta,(1138) Sarvabhavodbhava.(1139) The Lord of stars, planets, and other luminous bodies, Viśvabhávana,(1140) Tejasvinám-Tejasvi,(1141) Dwádaśátman:(1142) I salute thee. I salute thee who art the eastern mountain. I salute thee who art the western mountain. I salute thee who art the Lord of all the luminous bodies. I salute thee who art the Lord of days.I respectfully salute thee who art Jaya,(1143) Jayabhadra,(1144) Haryaśa,(1145) O Thou who hast a thousand rays, I repeatedly salute thee. I repeatedly and respectfully salute thee who art Áditya, I repeatedly salute thee who art Ugra,(1146) Víra,(1147) and Sáranga.(1148) I salute thee who openest the lotuses (or the lotus of the heart). I salute thee who art furious. I salute thee who art the Lord of Brahmá, Śiva and Vishṇu. I salute thee who art the sun, Ádityavarchas,(1149) splendid, Sarvabhaksha,(1150)and Raudravapush.(1151)
+
+I salute thee who destroyest darkness, cold and enemies: whose form is boundless, who art the destroyer of the ungrateful; who art Deva;(1152) who art the Lord of the luminous bodies, and who appearest like the heated gold. I salute thee who art Hari,(1153) Viśvakarman,(1154) the destroyer of darkness, and who art splendid and Lokasákshin.(1155) Yonder sun destroys the whole of the material world and also creates it. Yonder sun dries (all earthly things), destroys them and causes rain with his rays. He wakes when our senses are asleep; and resides within all beings. Yonder sun is Agnihotra(1156) and also the fruit obtained by the performer of Agnihotra. He is identified with the gods, sacrifices, and the fruit of the sacrifices. He is the Lord of all the duties known to the world, if any man, O Rághava, in calamities, miseries, forests and dangers, prays to yonder sun, he is never overwhelmed by distress.
+
+Worship, with close attention Him the God of gods and the Lord of the world; and recite these verses thrice, whereby thou wilt be victorious in the battle. O brave one, thou wilt kill Rávaṇa this very instant.”Thereupon Agastya having said this went away as he came. The glorious Ráma having heard this became free from sorrow. Rághava whose senses were under control, being pleased, committed the hymn to memory, recited it facing the sun, and obtained great delight. The brave Ráma having sipped water thrice and become pure took his bow, and seeing Rávaṇa, was delighted, and meditated on the sun.
+
+Page 492. Rávan’s Funeral.
+
+“In the funeral ceremonies of India the fire was placed on three sides of the pyre; the <i>Dakshiṇa</i> on the south, the <i>Gárhapatya</i> on the west, and the <i>Áhavaníya</i> on the east. The funeral rites are not described in detail here, and it is therefore difficult to elucidate and explain them. The poem assigns the funeral ceremonies of Aryan Brahmans to the Rákshases, a race different from them in origin and religion, in the same way as Homer sometimes introduces into Troy the rites of the Grecian cult.” GORRESIO.
+
+Mr. Muir translates the description of the funeral from the Calcutta edition, as follows: “They formed, with Vedic rites, a funeral pile of faggots of sandal-wood, with <i>padmaka</i> wood, <i>uśira</i> grass, and sandal, and covered with a quilt of deer’s hair. They then performed an unrivalled obsequial ceremony for the Ráxasa prince, placing the sacrificial ground to the S.E. and the fire in the proper situation. They cast the ladle filled with curds and ghee on the shoulder(1157) of the deceased; he (?) placed the car on the feet, and the mortar between the thighs. Having deposited all the wooden vessels, the [upper] and lower fire-wood, and the other pestle, in their proper places, they departed.The Ráxasas having then slain a victim to their prince in the manner prescribed in the Śástras, and enjoined by great rishis, cast [into the fire] the coverlet of the king saturated with ghee. They then, Vibhíshaṇa included, with afflicted hearts, adorned Rávaṇa with perfumes and garlands, and with various vestments, and besprinkled him with fried grain. Vibhíshaṇa having bathed, and having, with his clothes wet, scattered in proper form <i>tila</i> seeds mixed with <i>darbha</i> grass, and moistened with water, applied the fire [to the pile].”
+
+Page 496.
+
+The following is a literal translation of Brahmá’s address to Ráma according to the Calcutta edition, text and commentary:
+
+“O Ráma, how dost thou, being the creator of all the world, best of all those who have profound knowledge of the Upanishads and all-powerful as thou art, suffer Sítá to fall in the fire? How dost thou not know thyself as the best of the gods? Thou art one of the primeval Vasus,(1158) and also their lord and creator. Thou art thyself the lord and first creator of the three worlds. Thou art the eighth (that is Mahádeva) of the Rudras,(1159) and also the fifth(1160) of the Sádhyas.(1161) (The poet describes Ráma as made of the following gods) The Aśvinikumáras (the twin divine physicians of the gods) are thy ears; the sun and the moon are thy eyes; and thou hast been seen in the beginning and at the end of creation. How dost thou neglect the daughter of Videha (Janaka} like a man whose actions are directed by the dictates of nature?” Thus addressed by Indra, Brahmá and the other gods, Ráma the descendant of Raghu, lord of the world and the best of the virtuous, spoke to the chief of the gods.“As I take myself to be a man of the name of Ráma and son of Daśaratha, therefore, sir, please tell me who I am and whence have I come.” “O thou whose might is never failing,” said Brahmá to Kákutstha the foremost of those who thoroughly know Brahmá, “Thou art Náráyaṇa,(1162) almighty, possessed of fortune, and armed with the discus. Thou art the boar(1163) with one tusk; the conqueror of thy past and future foes. Thou art Brahmá true and eternal or undecaying. Thou art Viśvaksena,(1164) having four arms; Thou art Hrishíkeśa,(1165) whose bow is made of horn; Thou art Purusha,(1166) the best of all beings; Thou art one who is never defeated by any body; Thou art the holder of the sword (named Nandaka). Thou art Vishṇu (the pervader of all); blue in colour: of great might; the commander of armies; and lord of villages. Thou art truth. Thou art embodied intelligence, forgiveness, control over the senses, creation, and destruction. Thou art Upendra(1167) and Madhusúdana.(1168) Thou art the creator of Indra, the ruler over all the world, Padmanábha,(1169) and destroyer of enemies in the battle. The divine Rishis call thee shelter of refugees, as well as the giver of shelter. Thou hast a thousand horns,(1170) a hundred heads.(1171) Thou art respected of the respected; and the lord and first creator of the three worlds. Thou art the forefather and shelter of Siddhas,(1172) and Sádhyas.(1173) Thou art sacrifices; Vashaṭkára,(1174) Omkára.(1175) Thou art beyond those who are beyond our senses. There is none who knows who thou art and who knows thy beginning and end. Thou art seen in all material objects, in Bráhmans, in cows, and also in all the quarters, sky and streams. Thou hast a thousand feet, a hundred heads, and a thousand eyes. Thou hast borne the material objects and the earth with the mountains; and at the bottom of the ocean thou art seen the great serpent.O Ráma, Thou hast borne the three worlds, gods, Gandharvas,(1176) and demons. I am, O Ráma, thy heart; the goddess of learning is thy tongue; the gods are the hairs of thy body; the closing of thy eyelids is called the night: and their opening is called the day. The Vedas are thy Sanskáras.(1177) Nothing can exist without thee. The whole world is thy body; the surface of the earth is thy stability.”
+
+O Śrívatsalakshaṇa, fire is thy anger, and the moon is thy favour. In the time of thy incarnation named Vámana, thou didst pervade the three worlds with thy three steps; and Mahendra was made the king of paradise by thee having confined the fearful Bali.(1178) Sítá (thy wife) is Lakshmí; and thou art the God Vishṇu,(1179) Krishṇa,(1180) and Prajápati. To kill Rávaṇ thou hast assumed the form of a man; therefore, O best of the virtuous, thou hast completed this task imposed by us (gods). O Ráma, Rávaṇa has been killed by thee: now being joyful (i.e. having for some time reigned in the kingdom of Ayodhyá,) go to paradise. O glorious Ráma, thy power and thy valour are never failing. The visit to thee and the prayers made to thee are never fruitless. Thy devotees will never be unsuccessful. Thy devotees who obtain thee (thy favour) who art first and best of mankind, shall obtain their desires in this world as well as in the next. They who recite this prayer, founded on the Vedas (or first uttered by the sages), and the old and divine account of (Ráma) shall never suffer defeat.”
+
+Page 503. The Meeting.

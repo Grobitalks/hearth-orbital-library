@@ -1,0 +1,2020 @@
+HOLB1	24869	13	1040	80	2635	150
+39	Canto II. Brahmá’s Visit
+46	Canto III. The Argument.
+53	Canto IV. The Rhapsodists.
+58	Canto V. Ayodhyá.
+62	Canto VI. The King.
+67	Canto VII. The Ministers.
+71	Canto VIII. Sumantra’s Speech.
+75	Canto IX. Rishyasring.
+86	Canto X. Rishyasring Invited.
+92	Canto XI. The Sacrifice Decreed.
+96	Canto XII. The Sacrifice Begun.
+102	Canto XIII. The Sacrifice Finished.
+111	Canto XIV. Rávan Doomed.
+118	Canto XV. The Nectar.
+122	Canto XVI. The Vánars.
+127	Canto XVII. Rishyasring’s Return.
+134	Canto XVIII. Rishyasring’s Departure.
+138	Canto XIX. The Birth Of The Princes.
+143	Canto XX. Visvámitra’s Visit.
+147	Canto XXI. Visvámitra’s Speech.
+151	Canto XXII. Dasaratha’s Speech.
+155	Canto XXIII. Vasishtha’s Speech.
+158	Canto XXIV. The Spells.
+162	Canto XXV. The Hermitage Of Love.
+166	Canto XXVI. The Forest Of Tádaká.
+171	Canto XXVII. The Birth Of Tádaká.
+174	Canto XXVIII. The Death Of Tádaká.
+180	Canto XXIX. The Celestial Arms.
+187	Canto XXXI. The Perfect Hermitage.
+191	Canto XXXII. Visvámitra’s Sacrifice.
+195	Canto XXXIII. The Sone.
+199	Canto XXXIV. Brahmadatta.
+207	Canto XXXV. Visvámitra’s Lineage.
+211	Canto XXXVI. The Birth Of Gangá.
+215	Canto XXXIX. The Sons Of Sagar.
+219	Canto XL. The Cleaving Of The Earth.
+223	Canto XLI. Kapil.
+227	Canto XLII. Sagar’s Sacrifice.
+231	Canto XLIII. Bhagírath.
+235	Canto XLIV. The Descent Of Gangá.
+244	Canto XLV. The Quest Of The Amrit.
+252	Canto XLVI. Diti’s Hope.
+254	Canto XLVII. Sumati.
+257	Canto XLVIII. Indra And Ahalyá
+262	Canto XLIX. Ahalyá Freed.
+264	Canto L. Janak.
+268	Canto LI. Visvámitra.
+272	Canto LII. Vasishtha’s Feast.
+276	Canto LIII. Visvámitra’s Request.
+280	Canto LIV. The Battle.
+284	Canto LV. The Hermitage Burnt.
+288	Canto LVI. Visvámitra’s Vow.
+292	Canto LVII. Trisanku.
+296	Canto LVIII. Trisanku Cursed.
+300	Canto LIX. The Sons Of Vasishtha.
+304	Canto LX. Trisanku’s Ascension.
+309	Canto LXI. Sunahsepha.
+313	Canto LXII. Ambarísha’s Sacrifice.
+317	Canto LXIII. Menaká.
+322	Canto LXIV. Rambhá.
+325	Canto LXV. Visvámitra’s Triumph
+331	Canto LXVI. Janak’s Speech.
+335	Canto LXVII. The Breaking Of The Bow.
+339	Canto LXVIII. The Envoys’ Speech.
+342	Canto LXIX. Dasaratha’s Visit.
+345	Canto LXX. The Maidens Sought.
+352	Canto LXXI. Janak’s Pedigree.
+356	Canto LXXII. The Gift Of Kine.
+359	Canto LXXIII. The Nuptials.
+368	Canto LXXV. The Parle.
+373	Canto LXXVI. Debarred From Heaven.
+377	Canto LXXVII. Bharat’s Departure.
+381	Canto I. The Heir Apparent.
+387	Canto II. The People’s Speech.
+393	Canto III. Dasaratha’s Precepts.
+401	Canto IV. Ráma Summoned.
+408	Canto V. Ráma’s Fast.
+412	Canto VI. The City Decorated.
+417	Canto VII. Manthará’s Lament.
+422	Canto VIII. Manthará’s Speech.
+428	Canto IX. The Plot.
+437	Canto X. Dasaratha’s Speech.
+444	Canto XI. The Queen’s Demand.
+448	Canto XII. Dasaratha’s Lament.
+465	Canto XIII. Dasaratha’s Distress.
+468	Canto XIV. Ráma Summoned.
+478	Canto XV. The Preparations.
+486	Canto XVI. Ráma Summoned.
+493	Canto XVII. Ráma’s Approach.
+496	Canto XVIII. The Sentence.
+503	Canto XIX. Ráma’s Promise.
+510	Canto XX. Kausalyá’s Lament.
+518	Canto XXI. Kausalyá Calmed.
+528	Canto XXII. Lakshman Calmed.
+533	Canto XXIII. Lakshman’s Anger.
+540	Canto XXIV. Kausalyá Calmed.
+546	Canto XXV. Kausalyá’s Blessing.
+554	Canto XXVI. Alone With Sítá.
+560	Canto XXVII. Sítá’s Speech.
+564	Canto XXVIII. The Dangers Of The Wood.
+568	Canto XXIX. Sítá’s Appeal.
+572	Canto XXX. The Triumph Of Love.
+580	Canto XXXI. Lakshman’s Prayer.
+586	Canto XXXII. The Gift Of The Treasures.
+593	Canto XXXIII. The People’s Lament.
+598	Canto XXXIV. Ráma In The Palace.
+607	Canto XXXV. Kaikeyí Reproached.
+612	Canto XXXVI. Siddhárth’s Speech.
+617	Canto XXXVII. The Coats Of Bark.
+622	Canto XXXVIII. Care For Kausalyá
+626	Canto XXXIX. Counsel To Sítá.
+633	Canto XL. Ráma’s Departure.
+641	Canto XLI. The Citizens’ Lament.
+644	Canto XLII. Dasaratha’s Lament.
+649	Canto XLIII. Kausalyá’s Lament.
+653	Canto XLIV. Sumitrá’s Speech.
+657	Canto XLV. The Tamasá.
+663	Canto XLVI. The Halt.
+669	Canto XLVII. The Citizens’ Return.
+672	Canto XLVIII. The Women’s Lament.
+677	Canto XLIX. The Crossing Of The Rivers.
+686	Canto LI. Lakshman’s Lament.
+690	Canto LII. The Crossing Of Gangá.
+706	Canto LIII. Ráma’s Lament.
+712	Canto LIV. Bharadvája’s Hermitage.
+719	Canto LV. The Passage Of Yamuná.
+724	Canto LVI. Chitrakúta
+730	Canto LVII. Sumantra’s Return.
+735	Canto LVIII. Ráma’s Message.
+741	Canto LIX. Dasaratha’s Lament.
+747	Canto LX. Kausalyá Consoled.
+751	Canto LXI. Kausalyá’s Lament.
+755	Canto LXII. Dasaratha Consoled.
+758	Canto LXIII. The Hermit’s Son.
+766	Canto LXIV. Dasaratha’s Death.
+778	Canto LXV. The Women’s Lament.
+783	Canto LXVI. The Embalming.
+787	Canto LXVII. The Praise Of Kings.
+793	Canto LXVIII. The Envoys.
+797	Canto LXIX. Bharat’s Dream.
+801	Canto LXX. Bharat’s Departure.
+806	Canto LXXI. Bharat’s Return.
+813	Canto LXXII. Bharat’s Inquiry.
+822	Canto LXXIII. Kaikeyí Reproached.
+826	Canto LXXIV. Bharat’s Lament.
+831	Canto LXXV. The Abjuration.
+838	Canto LXXVI. The Funeral.
+842	Canto LXXVII. The Gathering Of The Ashes.
+847	Canto LXXVIII. Manthará Punished.
+851	Canto LXXIX. Bharat’s Commands.
+A bridegroom meet to match with me.
+Each way with anxious thought he scanned,
+And thus at length the monarch planned:
+“The Bride’s Election will I hold,
+With every rite prescribed of old.”
+It pleased King Varuṇ to bestow
+Quiver and shafts and heavenly bow
+Upon my father’s sire who reigned,
+When Daksha his great rite ordained.
+Where was the man might bend or lift
+With utmost toil that wondrous gift?
+Not e’en in dreams could mortal king
+Strain the great bow or draw the string.
+Of this tremendous bow possessed,
+My truthful father thus addressed
+The lords of many a region, all
+Assembled at the monarch’s call:
+“Whoe’er this bow can manage, he
+The husband of my child shall be.”
+The suitors viewed with hopeless eyes
+That wondrous bow of mountain size,
+Then to my sire they bade adieu,
+And all with humbled hearts withdrew.
+At length with Viśvámitra came
+This son of Raghu, dear to fame,The royal sacrifice to view.
+Near to my father’s home he drew,
+His brother Lakshmaṇ by his side,
+Ráma, in deeds heroic tried.
+My sire with honour entertained
+The saint in lore of duty trained,
+Who thus in turn addressed the king:
+“Ráma and Lakshmaṇ here who spring
+From royal Daśaratha, long
+To see thy bow so passing strong.”
+
+  Before the prince’s eyes was laid
+That marvel, as the Bráhman prayed.
+One moment on the bow he gazed,
+Quick to the notch the string he raised,
+Then, in the wandering people’s view,
+The cord with mighty force he drew.
+Then with an awful crash as loud
+As thunderbolts that cleave the cloud,
+The bow beneath the matchless strain
+Of arms heroic snapped in twain.
+Thus, giving purest water, he,
+My sire, to Ráma offered me.
+The prince the offered gift declined
+Till he should learn his father’s mind;
+So horsemen swift Ayodhyá soughtAnd back her aged monarch brought.
+Me then my sire to Ráma gave,
+Self-ruled, the bravest of the brave.
+And Urmilá, the next to me,
+Graced with all gifts, most fair to see,
+My sire with Raghu’s house allied,
+And gave her to be Lakshmaṇ’s bride.
+Thus from the princes of the land
+Lord Ráma won my maiden hand,
+And him exalted high above
+Heroic chiefs I truly love.”<b>Canto CXIX. The Forest.</b>
+
+When Anasúyá, virtuous-souled,
+Had heard the tale by Sítá told,
+She kissed the lady’s brow and laced
+Her loving arms around her waist.
+“With sweet-toned words distinct and clear
+Thy pleasant tale has charmed mine ear,
+How the great king thy father held
+That Maiden’s Choice unparalleled.
+But now the sun has sunk from sight,
+And left the world to holy Night.
+Hark! how the leafy thickets sound
+With gathering birds that twitter round:
+They sought their food by day, and all
+Flock homeward when the shadows fall.
+See, hither comes the hermit band,
+Each with his pitcher in his hand:
+Fresh from the bath, their locks are wet,
+Their coats of bark are dripping yet.
+Here saints their fires of worship tend,
+And curling wreaths of smoke ascend:
+Borne on the flames they mount above,
+Dark as the brown wings of the dove.
+The distant trees, though well-nigh bare,
+Gloom thickened by the evening air,And in the faint uncertain light
+Shut the horizon from our sight.
+The beasts that prowl in darkness rove
+On every side about the grove,
+And the tame deer, at ease reclined
+Their shelter near the altars find.
+The night o’er all the sky is spread,
+With lunar stars engarlanded,
+And risen in his robes of light
+The moon is beautifully bright.
+Now to thy lord I bid thee go:
+Thy pleasant tale has charmed me so:
+One thing alone I needs must pray,
+Before me first thyself array:
+Here in thy heavenly raiment shine,
+And glad, dear love, these eyes of mine.”
+Then like a heavenly Goddess shone
+Fair Sítá with that raiment on.
+She bowed her to the matron’s feet,
+Then turned away her lord to meet.
+The hero prince with joy surveyed
+His Sítá in her robes arrayed,
+As glorious to his arms she came
+With love-gifts of the saintly dame.
+She told him how the saint to showHer fond affection would bestow
+That garland of celestial twine,
+Those ornaments and robes divine.
+Then Ráma’s heart, nor Lakshmaṇ’s less,
+Was filled with pride and happiness,
+For honours high had Sítá gained,
+Which mortal dames have scarce obtained.
+There honoured by each pious sage
+Who dwelt within the hermitage,
+Beside his darling well content
+That sacred night the hero spent.
+
+  The princes, when the night had fled,
+Farewell to all the hermits said,
+Who gazed upon the distant shade,
+Their lustral rites and offerings paid.
+The saints who made their dwelling there
+In words like these addressed the pair:
+“O Princes, monsters fierce and fell
+Around that distant forest dwell:
+On blood from human veins they feed,
+And various forms assume at need,
+With savage beasts of fearful power
+That human flesh and blood devour.
+Our holy saints they rend and tear
+When met alone or unaware,And eat them in their cruel joy:
+These chase, O Ráma, or destroy.
+By this one path our hermits go
+To fetch the fruits that yonder grow:
+By this, O Prince, thy feet should stray
+Through pathless forests far away.”
+
+  Thus by the reverent saints addressed,
+And by their prayers auspicious blessed,
+  He left the holy crowd:
+His wife and brother by his side,
+Within the mighty wood he hied.
+So sinks the Day-God in his pride
+  Beneath a bank of cloud.
+
+BOOK III.<b>Canto I. The Hermitage.</b>
+
+When Ráma, valiant hero, stood
+In the vast shade of Daṇḍak wood,
+His eyes on every side he bent
+And saw a hermit settlement,
+Where coats of bark were hung around,
+And holy grass bestrewed the ground.
+Bright with Bráhmanic lustre glowed
+That circle where the saints abode:
+Like the hot sun in heaven it shone,
+Too dazzling to be looked upon.
+Wild creatures found a refuge where
+The court, well-swept, was bright and fair,
+And countless birds and roedeer made
+Their dwelling in the friendly shade.
+Beneath the boughs of well-loved trees
+Oft danced the gay Apsarases.(401)
+Around was many an ample shed
+Wherein the holy fire was fed;
+With sacred grass and skins of deer,
+Ladles and sacrificial gear,
+And roots and fruit, and wood to burn,
+And many a brimming water-urn.
+Tall trees their hallowed branches spread,
+Laden with pleasant fruit, o’erhead;And gifts which holy laws require,(402)
+And solemn offerings burnt with fire,(403)
+And Veda chants on every side
+That home of hermits sanctified.
+There many a flower its odour shed,
+And lotus blooms the lake o’erspred.
+There, clad in coats of bark and hide,—
+Their food by roots and fruit supplied,—
+Dwelt many an old and reverend sire
+Bright as the sun or Lord of Fire,
+All with each worldly sense subdued,
+A pure and saintly multitude.
+The Veda chants, the saints who trod
+The sacred ground and mused on God,
+Made that delightful grove appear
+Like Brahmá’s own most glorious sphere.
+As Raghu’s splendid son surveyed
+That hermit home and tranquil shade,
+He loosed his mighty bow-string, then
+Drew nearer to the holy men.
+With keen celestial sight endued
+Those mighty saints the chieftain viewed,
+With joy to meet the prince they came,
+And gentle Sítá dear to fame.
+They looked on virtuous Ráma, fairAs Soma(404) in the evening air,
+And Lakshmaṇ by his brother’s side,
+And Sítá long in duty tried,
+And with glad blessings every sage
+Received them in the hermitage.
+Then Ráma’s form and stature tall
+Entranced the wondering eyes of all,—
+His youthful grace, his strength of limb,
+And garb that nobly sat on him.
+To Lakshmaṇ too their looks they raised,
+And upon Sítá’s beauty gazed
+With eyes that closed not lest their sight
+Should miss the vision of delight.
+Then the pure hermits of the wood,
+Rejoicing in all creatures’ good,
+Their guest, the glorious Ráma, led
+Within a cot with leaves o’erhead.
+With highest honour all the best
+Of radiant saints received their guest,
+With kind observance, as is meet,
+And gave him water for his feet.
+To highest pitch of rapture wrought
+Their stores of roots and fruit they brought.
+They poured their blessings on his head,
+And “All we have is thine,” they said.Then, reverent hand to hand applied,(405)
+Each duty-loving hermit cried:
+“The king is our protector, bright
+In fame, maintainer of the right.
+He bears the awful sword, and hence
+Deserves an elder’s reverence.
+One fourth of Indra’s essence, he
+Preserves his realm from danger free,
+Hence honoured by the world of right
+The king enjoys each choice delight.
+Thou shouldst to us protection give,
+For in thy realm, dear lord, we live:
+Whether in town or wood thou be,
+Thou art our king, thy people we.
+Our wordly aims are laid aside,
+Our hearts are tamed and purified.
+To thee our guardian, we who earn
+Our only wealth by penance turn.”
+
+  Then the pure dwellers in the shade
+To Raghu’s son due honour paid,
+And Lakshmaṇ, bringing store of roots,
+And many a flower, and woodland fruits.
+And others strove the prince to please
+With all attentive courtesies.<b>Canto II. Virádha.</b>
+
+Thus entertained he passed the night,
+Then, with the morning’s early light,
+To all the hermits bade adieu
+And sought his onward way anew.
+He pierced the mighty forest where
+Roamed many a deer and pard and bear:
+Its ruined pools he scarce could see.
+For creeper rent and prostrate tree,
+Where shrill cicada’s cries were heard,
+And plaintive notes of many a bird.
+Deep in the thickets of the wood
+With Lakshmaṇ and his spouse he stood,
+There in the horrid shade he saw
+A giant passing nature’s law:
+Vast as some mountain-peak in size,
+With mighty voice and sunken eyes,
+Huge, hideous, tall, with monstrous face,
+Most ghastly of his giant race.
+A tiger’s hide the Rákshas wore
+Still reeking with the fat and gore:
+Huge-faced, like Him who rules the dead,
+All living things he struck with dread.
+Three lions, tigers four, ten deer
+He carried on his iron spear,Two wolves, an elephant’s head beside
+With mighty tusks which blood-drops dyed.
+When on the three his fierce eye fell,
+He charged them with a roar and yell
+As furious as the grisly King
+When stricken worlds are perishing.
+Then with a mighty roar that shook
+The earth beneath their feet, he took
+The trembling Sítá to his side.
+Withdrew a little space, and cried:
+“Ha, short lived wretches, ye who dare,
+In hermit dress with matted hair,
+Armed each with arrows, sword, and bow,
+Through Daṇḍak’s pathless wood to go:
+How with one dame, I bid you tell,
+Can you among ascetics dwell?
+Who are ye, sinners, who despise
+The right, in holy men’s disguise?
+The great Virádha, day by day
+Through this deep-tangled wood I stray,
+And ever, armed with trusty steel,
+I seize a saint to make my meal.
+This woman young and fair of frame
+Shall be the conquering giant’s dame:
+Your blood, ye things of evil life,
+My lips shall quaff in battle strife.”  He spoke: and Janak’s hapless child,
+Scared by his speech so fierce and wild,
+Trembled for terror, as a frail
+Young plantain shivers in the gale.
+When Ráma saw Virádha clasp
+Fair Sítá in his mighty grasp,
+Thus with pale lips that terror dried
+The hero to his brother cried:
+“O see Virádha’s arm enfold
+My darling in its cursed hold,—
+The child of Janak best of kings,
+My spouse whose soul to virtue clings,
+Sweet princess, with pure glory bright,
+Nursed in the lap of soft delight.
+Now falls the blow Kaikeyí meant,
+Successful in her dark intent:
+This day her cruel soul will be
+Triumphant over thee and me.
+Though Bharat on the throne is set,
+Her greedy eyes look farther yet:
+Me from my home she dared expel,
+Me whom all creatures loved so well.
+This fatal day at length, I ween,
+Brings triumph to the younger queen.
+I see with bitterest grief and shameAnother touch the Maithil dame.
+Not loss of sire and royal power
+So grieves me as this mournful hour.”
+
+  Thus in his anguish cried the chief:
+Then drowned in tears, o’erwhelmed by grief,
+Thus Lakshmaṇ in his anger spake,
+Quick panting like a spell-bound snake:
+
+  “Canst thou, my brother, Indra’s peer,
+When I thy minister am near,
+Thus grieve like some forsaken thing,
+Thou, every creature’s lord and king?
+My vengeful shaft the fiend shall slay,
+And earth shall drink his blood to-day.
+The fury which my soul at first
+Upon usurping Bharat nursed,
+On this Virádha will I wreak
+As Indra splits the mountain peak.
+Winged by this arm’s impetuous might
+  My shaft with deadly force
+The monster in the chest shall smite,
+  And fell his shattered corse.”<b>Canto III. Virádha Attacked.</b>
+
+Virádha with a fearful shout
+That echoed through the wood, cried out:
+
+  “What men are ye, I bid you say,
+And whither would ye bend your way?”
+
+  To him whose mouth shot fiery flame
+The hero told his race and name:
+“Two Warriors, nobly bred, are we,
+And through this wood we wander free.
+But who art thou, how born and styled,
+Who roamest here in Daṇḍak’s wild?”
+
+  To Ráma, bravest of the brave,
+His answer thus Virádha gave:
+“Hear, Raghu’s son, and mark me well,
+And I my name and race will tell.
+Of Śatahradá born, I spring
+From Java as my sire, O King:
+Me, of this lofty lineage, all
+Giants on earth Virádha call.
+The rites austere I long maintained
+From Brahmá’s grace the boon have gained
+To bear a charmed frame which ne’erWeapon or shaft may pierce or tear.
+Go as ye came, untouched by fear,
+And leave with me this woman here:
+Go, swiftly from my presence fly,
+Or by this hand ye both shall die.”
+
+  Then Ráma with his fierce eyes red
+With fury to the giant said:
+“Woe to thee, sinner, fond and weak,
+Who madly thus thy death wilt seek!
+Stand, for it waits thee in the fray:
+With life thou ne’er shalt flee away.”
+
+  He spoke, and raised the cord whereon
+A pointed arrow flashed and shone,
+Then, wild with anger, from his bow,
+He launched the weapon on the foe.
+Seven times the fatal cord he drew,
+And forth seven rapid arrows flew,
+Shafts winged with gold that left the wind
+And e’en Suparṇa’s(406) self behind.
+Full on the giant’s breast they smote,
+And purpled like the peacock’s throat,
+Passed through his mighty bulk and came
+To earth again like flakes of flame.
+The fiend the Maithil dame unclasped;In his fierce hand his spear he grasped,
+And wild with rage, pierced through and through,
+At Ráma and his brother flew.
+So loud the roar which chilled with fear,
+So massy was the monster’s spear,
+He seemed, like Indra’s flagstaff, dread
+As the dark God who rules the dead.
+On huge Virádha fierce as He(407)
+Who smites, and worlds have ceased to be,
+The princely brothers poured amain
+Their fiery flood of arrowy rain.
+Unmoved he stood, and opening wide
+His dire mouth laughed unterrified,
+And ever as the monster gaped
+Those arrows from his jaws escaped.
+Preserving still his life unharmed,
+By Brahmá’s saving promise charmed,
+His mighty spear aloft in air
+He raised, and rushed upon the pair.
+From Ráma’s bow two arrows flew
+And cleft that massive spear in two,
+Dire as the flaming levin sent
+From out the cloudy firmament.
+Cut by the shafts he guided well
+To earth the giant’s weapon fell:As when from Meru’s summit, riven
+By fiery bolts, a rock is driven.
+Then swift his sword each warrior drew,
+Like a dread serpent black of hue,
+And gathering fury for the blow
+Rushed fiercely on the giant foe.
+Around each prince an arm he cast,
+And held the dauntless heroes fast:
+Then, though his gashes gaped and bled,
+Bearing the twain he turned and fled.
+
+  Then Ráma saw the giant’s plan,
+And to his brother thus began:
+“O Lakshmaṇ, let Virádha still
+Hurry us onward as he will,
+For look, Sumitrá’s son, he goes
+Along the path we freely chose.”
+
+  He spoke: the rover of the night
+Upraised them with terrific might,
+Till, to his lofty shoulders swung,
+Like children to his neck they clung.
+Then sending far his fearful roar,
+The princes through the wood he bore,—
+A wood like some vast cloud to view,
+Where birds of every plumage flew,And mighty trees o’erarching threw
+  Dark shadows on the ground;
+Where snakes and silvan creatures made
+Their dwelling, and the jackal strayed
+  Through tangled brakes around.
+
+<b>Canto IV. Virádha’s Death.</b>
+
+But Sítá viewed with wild affright
+The heroes hurried from her sight.
+She tossed her shapely arms on high,
+And shrieked aloud her bitter cry:
+“Ah, the dread giant bears away
+The princely Ráma as his prey,
+Truthful and pure, and good and great,
+And Lakshmaṇ shares his brother’s fate.
+The brindled tiger and the bear
+My mangled limbs for food will tear.
+Take me, O best of giants, me,
+And leave the sons of Raghu free.”
+
+  Then, by avenging fury spurred,
+Her mournful cry the heroes heard,
+And hastened, for the lady’s sake,
+The wicked monster’s life to take.
+Then Lakshmaṇ with resistless strokeThe foe’s left arm that held him broke,
+And Ráma too, as swift to smite,
+Smashed with his heavy hand the right.
+With broken arms and tortured frame
+To earth the fainting giant came,
+Like a huge cloud, or mighty rock
+Rent, sundered by the levin’s shock.
+Then rushed they on, and crushed and beat
+Their foe with arms and fists and feet,
+And nerved each mighty limb to pound
+And bray him on the level ground.
+Keen arrows and each biting blade
+Wide rents in breast and side had made;
+But crushed and torn and mangled, still
+The monster lived they could not kill.
+When Ráma saw no arms might slay
+The fiend who like a mountain lay,
+The glorious hero, swift to save
+In danger, thus his counsel gave:
+“O Prince of men, his charmed life
+No arms may take in battle strife:
+Now dig we in this grove a pit
+His elephantine bulk to fit,
+And let the hollowed earth enfold
+The monster of gigantic mould.”  This said, the son of Raghu pressed
+His foot upon the giant’s breast.
+With joy the prostrate monster heard
+Victorious Ráma’s welcome word,
+And straight Kakutstha’s son, the best
+Of men, in words like these addressed:
+“I yield, O chieftain, overthrown
+By might that vies with Indra’s own.
+Till now my folly-blinded eyes
+Thee, hero, failed to recognize.
+Happy Kauśalyá! blest to be
+The mother of a son like thee!
+I know thee well, O chieftain, now:
+Ráma, the prince of men, art thou.
+There stands the high-born Maithil dame,
+There Lakshmaṇ, lord of mighty fame.
+My name was Tumburu,(408) for song
+Renowned among the minstrel throng:
+Cursed by Kuvera’s stern decree
+I wear the hideous shape you see.
+But when I sued, his grace to crave,
+The glorious God this answer gave:
+“When Ráma, Daśaratha’s son,
+Destroys thee and the fight is won,
+Thy proper shape once more assume,And heaven again shall give thee room.”
+When thus the angry God replied,
+No prayers could turn his wrath aside,
+And thus on me his fury fell
+For loving Rambhá’s(409) charms too well.
+Now through thy favour am I freed
+From the stern fate the God decreed,
+And saved, O tamer of the foe,
+By thee, to heaven again shall go.
+A league, O Prince, beyond this spot
+Stands holy Śarabhanga’s cot:
+The very sun is not more bright
+Than that most glorious anchorite:
+To him, O Ráma, quickly turn,
+And blessings from the hermit earn.
+First under earth my body throw,
+Then on thy way rejoicing go.
+Such is the law ordained of old
+For giants when their days are told:
+Their bodies laid in earth, they rise
+To homes eternal in the skies.”
+
+  Thus, by the rankling dart oppressed,
+Kakutstha’s offspring he addressed:
+In earth his mighty body lay,
+His spirit fled to heaven away.  Thus spake Virádha ere he died;
+And Ráma to his brother cried:
+“Now dig we in this grove a pit
+His elephantine bulk to fit.
+And let the hollowed earth enfold
+This mighty giant fierce and bold.”
+
+  This said, the valiant hero put
+Upon the giant’s neck his foot.
+His spade obedient Lakshmaṇ plied,
+And dug a pit both deep and wide
+By lofty souled Virádha’s side.
+Then Raghu’s son his foot withdrew,
+And down the mighty form they threw;
+One awful shout of joy he gave
+And sank into the open grave.
+The heroes, to their purpose true,
+In fight the cruel demon slew,
+  And radiant with delight
+Deep in the hollowed earth they cast
+The monster roaring to the last,
+  In their resistless might.
+Thus when they saw the warrior’s steel
+No life-destroying blow might deal,
+  The pair, for lore renowned,
+Deep in the pit their hands had madeThe unresisting giant laid,
+  And killed him neath the ground.
+Upon himself the monster brought
+From Ráma’s hand the death he sought
+  With strong desire to gain:
+And thus the rover of the night
+Told Ráma, as they strove in fight,
+That swords might rend and arrows smite
+  Upon his breast in vain.
+Thus Ráma, when his speech he heard,
+The giant’s mighty form interred,
+  Which mortal arms defied.
+With thundering crash the giant fell,
+And rock and cave and forest dell
+  With echoing roar replied.
+The princes, when their task was done
+And freedom from the peril won,
+  Rejoiced to see him die.
+Then in the boundless wood they strayed,
+Like the great sun and moon displayed
+  Triumphant in the sky.(410)<b>Canto V. Sarabhanga.</b>
+
+Then Ráma, having slain in fight
+Virádha of terrific might,
+With gentle words his spouse consoled,
+And clasped her in his loving hold.
+Then to his brother nobly brave
+The valiant prince his counsel gave:
+“Wild are these woods around us spread;
+And hard and rough the ground to tread:
+We, O my brother, ne’er have viewed
+So dark and drear a solitude:
+To Śarabhanga let us haste,
+Whom wealth of holy works has graced.”
+
+  Thus Ráma spoke, and took the road
+To Śarabhanga’s pure abode.
+But near that saint whose lustre vied
+With Gods, by penance purified,
+With startled eyes the prince beheld
+A wondrous sight unparalleled.
+In splendour like the fire and sun
+He saw a great and glorious one.
+Upon a noble car he rode,
+And many a God behind him glowed:
+And earth beneath his feet unpressed(411)The monarch of the skies confessed.
+Ablaze with gems, no dust might dim
+The bright attire that covered him.
+Arrayed like him, on every side
+High saints their master glorified.
+Near, borne in air, appeared in view
+His car which tawny coursers drew,
+Like silver cloud, the moon, or sun
+Ere yet the day is well begun.
+Wreathed with gay garlands, o’er his head
+A pure white canopy was spread,
+And lovely nymphs stood nigh to hold
+Fair chouris with their sticks of gold,
+Which, waving in each gentle hand,
+The forehead of their monarch fanned.
+God, saint, and bard, a radiant ring,
+Sang glory to their heavenly King:
+Forth into joyful lauds they burst
+As Indra with the sage conversed.
+Then Ráma, when his wondering eyes
+Beheld the monarch of the skies,
+To Lakshmaṇ quickly called, and showed
+The car wherein Lord Indra rode:
+“See, brother, see that air-borne car,
+Whose wondrous glory shines afar:Wherefrom so bright a lustre streams
+That like a falling sun it seems:
+These are the steeds whose fame we know,
+Of heavenly race through heaven they go:
+These are the steeds who bear the yoke
+Of Śakra,(412) Him whom all invoke.
+Behold these youths, a glorious band,
+Toward every wind a hundred stand:
+A sword in each right hand is borne,
+And rings of gold their arms adorn.
+What might in every broad deep chest
+And club-like arm is manifest!
+Clothed in attire of crimson hue
+They show like tigers fierce to view.
+Great chains of gold each warder deck,
+Gleaming like fire beneath his neck.
+The age of each fair youth appears
+Some score and five of human years:
+The ever-blooming prime which they
+Who live in heaven retain for aye:
+Such mien these lordly beings wear,
+Heroic youths, most bright and fair.
+Now, brother, in this spot, I pray,
+With the Videhan lady stay,
+Till I have certain knowledge who
+This being is, so bright to view.”  He spoke, and turning from the spot
+Sought Śarabhanga’s hermit cot.
+But when the lord of Śachí(413) saw
+The son of Raghu near him draw,
+He hastened of the sage to take
+His leave, and to his followers spake:
+
+  “See, Ráma bends his steps this way,
+But ere he yet a word can say,
+Come, fly to our celestial sphere;
+It is not meet he see me here.
+Soon victor and triumphant he
+In fitter time shall look on me.
+Before him still a great emprise,
+A task too hard for others, lies.”
+
+  Then with all marks of honour high
+The Thunderer bade the saint good-bye,
+And in his car which coursers drew
+Away to heaven the conqueror flew.
+Then Ráma, Lakshmaṇ, and the dame,
+To Śarabhanga nearer came,
+Who sat beside the holy flame.
+Before the ancient sage they bent,
+And clasped his feet most reverent;
+Then at his invitation foundA seat beside him on the ground.
+Then Ráma prayed the sage would deign
+Lord Indra’s visit to explain;
+And thus at length the holy man
+In answer to his prayer began:
+
+  “This Lord of boons has sought me here
+To waft me hence to Brahmá’s sphere,
+Won by my penance long and stern,—
+A home the lawless ne’er can earn.
+But when I knew that thou wast nigh,
+To Brahmá’s world I could not fly
+Until these longing eyes were blest
+With seeing thee, mine honoured guest.
+Since thou, O Prince, hast cheered my sight,
+Great-hearted lover of the right,
+To heavenly spheres will I repair
+And bliss supreme that waits me there.
+For I have won, dear Prince, my way
+To those fair worlds which ne’er decay,
+Celestial seat of Brahmá’s reign:
+Be thine, with me, those worlds to gain.”
+
+  Then master of all sacred lore,
+Spake Ráma to the saint once more:  “I, even I, illustrious sage,
+Will make those worlds mine heritage:
+But now, I pray, some home assign
+Within this holy grove of thine.”
+
+  Thus Ráma, Indra’s peer in might,
+Addressed the aged anchorite:
+And he, with wisdom well endued,
+To Raghu’s son his speech renewed:
+
+  “Sutíkshṇa’s woodland home is near,
+A glorious saint of life austere,
+True to the path of duty; he
+With highest bliss will prosper thee.
+Against the stream thy course must be
+Of this fair brook Mandákiní,
+Whereon light rafts like blossoms glide;
+Then to his cottage turn aside.
+There lies thy path: but ere thou go,
+Look on me, dear one, till I throw
+Aside this mould that girds me in,
+As casts the snake his withered skin.”
+
+  He spoke, the fire in order laid
+With holy oil due offerings made,
+And Śarabhanga, glorious sire,Laid down his body in the fire.
+Then rose the flame above his head,
+On skin, blood, flesh, and bones it fed,
+Till forth, transformed, with radiant hue
+Of tender youth, he rose anew,
+Far-shining in his bright attire
+Came Śarabhanga from the pyre:
+Above the home of saints, and those
+Who feed the quenchless flame,(414) he rose:
+Beyond the seat of Gods he passed,
+And Brahmá’s sphere was gained at last.
+The noblest of the twice-born race,
+For holy works supreme in place,
+The Mighty Father there beheld
+Girt round by hosts unparalleled;
+And Brahmá joying at the sight
+Welcomed the glorious anchorite.<b>Canto VI. Ráma’s Promise.</b>
+
+When he his heavenly home had found,
+The holy men who dwelt around
+To Ráma flocked, whose martial fame
+Shone glorious as the kindled flame:
+Vaikhánasas(415) who love the wild,
+Pure hermits Bálakhilyas(416) styled,
+Good Samprakshálas,(417) saints who live
+On rays which moon and daystar give:
+Those who with leaves their lives sustain
+And those who pound with stones their grain:
+And they who lie in pools, and those
+Whose corn, save teeth, no winnow knows:
+Those who for beds the cold earth use,
+And those who every couch refuse:
+And those condemned to ceaseless pains,
+Whose single foot their weight sustains:
+And those who sleep neath open skies,
+Whose food the wave or air supplies,
+And hermits pure who spend their nights
+On ground prepared for sacred rites;
+Those who on hills their vigil hold,
+Or dripping clothes around them fold:
+The devotees who live for prayer,
+Or the five fires(418) unflinching bear.On contemplation all intent,
+With light that heavenly knowledge lent,
+They came to Ráma, saint and sage,
+In Śarabhanga’s hermitage.
+The hermit crowd around him pressed,
+And thus the virtuous chief addressed:
+“The lordship of the earth is thine,
+O Prince of old Ikshváku’s line.
+Lord of the Gods is Indra, so
+Thou art our lord and guide below.
+Thy name, the glory of thy might,
+Throughout the triple world are bright:
+Thy filial love so nobly shown,
+Thy truth and virtue well are known.
+To thee, O lord, for help we fly,
+And on thy love of right rely:
+With kindly patience hear us speak,
+And grant the boon we humbly seek.
+That lord of earth were most unjust,
+Foul traitor to his solemn trust,
+Who should a sixth of all(419) require,
+Nor guard his people like a sire.
+But he who ever watchful strives
+To guard his subjects’ wealth and lives,
+Dear as himself or, dearer still,His sons, with earnest heart and will,—
+That king, O Raghu’s son, secures
+High fame that endless years endures,
+And he to Brahmá’s world shall rise,
+Made glorious in the eternal skies.
+Whate’er, by duty won, the meed
+Of saints whom roots and berries feed,
+One fourth thereof, for tender care
+Of subjects, is the monarch’s share.
+These, mostly of the Bráhman race,
+Who make the wood their dwelling-place,
+Although a friend in thee they view,
+Fall friendless neath the giant crew.
+Come, Ráma, come, and see hard by
+The holy hermits’ corpses lie,
+Where many a tangled pathway shows
+The murderous work of cruel foes.
+These wicked fiends the hermits kill—
+Who live on Chitrakúṭa’s hill,
+And blood of slaughtered saints has dyed
+Mandákiní and Pampá’s side.
+No longer can we bear to see
+The death of saint and devotee
+Whom through the forest day by day
+These Rákshasas unpitying slay.To thee, O Prince, we flee, and crave
+Thy guardian help our lives to save.
+From these fierce rovers of the night
+Defend each stricken anchorite.
+Throughout the world ’twere vain to seek
+An arm like thine to aid the weak.
+O Prince, we pray thee hear our call,
+And from these fiends preserve us all.”
+
+  The son of Raghu heard the plaint
+Of penance-loving sage and saint,
+And the good prince his speech renewed
+To all the hermit multitude:
+
+  “To me, O saints, ye need not sue:
+I wait the hests of all of you.
+I by mine own occasion led
+This mighty forest needs must tread,
+And while I keep my sire’s decree
+Your lives from threatening foes will free.
+I hither came of free accord
+To lend the aid by you implored,
+And richest meed my toil shall pay,
+While here in forest shades I stay.
+I long in battle strife to close.
+And slay these fiends, the hermits’ foes,That saint and sage may learn aright
+My prowess and my brother’s might.”
+
+  Thus to the saints his promise gave
+That prince who still to virtue clave
+  With never-wandering thought:
+And then with Lakshmaṇ by his side,
+With penance-wealthy men to guide,
+  Sutíkshṇa’s home he sought.<b>Canto VII. Sutíkshna.</b>
+
+So Raghu’s son, his foemen’s dread,
+With Sítá and his brother sped,
+Girt round by many a twice-born sage,
+To good Sutíkshṇa’s hermitage.(420)
+Through woods for many a league he passed,
+O’er rushing rivers full and fast,
+Until a mountain fair and bright
+As lofty Meru rose in sight.
+Within its belt of varied wood
+Ikshváku’s sons and Sítá stood,
+Where trees of every foliage bore
+Blossom and fruit in endless store.
+There coats of bark, like garlands strung,
+Before a lonely cottage hung,
+And there a hermit, dust-besmeared,
+A lotus on his breast, appeared.
+Then Ráma with obeisance due
+Addressed the sage, as near he drew:
+“My name is Ráma, lord; I seek
+Thy presence, saint, with thee to speak.
+O sage, whose merits ne’er decay,
+Some word unto thy servant say.”  The sage his eyes on Ráma bent,
+Of virtue’s friends preëminent;
+Then words like these he spoke, and pressed
+The son of Raghu to his breast:
+“Welcome to thee, illustrious youth,
+Best champion of the rights of truth!
+By thine approach this holy ground
+A worthy lord this day has found.
+I could not quit this mortal frame
+Till thou shouldst come, O dear to fame:
+To heavenly spheres I would not rise,
+Expecting thee with eager eyes.
+I knew that thou, unkinged, hadst made
+Thy home in Chitrakúṭa’s shade.
+E’en now, O Ráma, Indra, lord
+Supreme by all the Gods adored,
+King of the Hundred Offerings,(421) said,
+When he my dwelling visited,
+That the good works that I have done
+My choice of all the worlds have won.
+Accept this meed of holy vows,
+And with thy brother and thy spouse,
+Roam, through my favour, in the sky
+Which saints celestial glorify.”  To that bright sage, of penance stern,
+The high-souled Ráma spake in turn,
+As Vásava(422) who rules the skies
+To Brahmá’s gracious speech replies:
+“I of myself those worlds will win,
+O mighty hermit pure from sin:
+But now, O saint, I pray thee tell
+Where I within this wood may dwell:
+For I by Śarabhanga old,
+The son of Gautama, was told
+That thou in every lore art wise,
+And seest all with loving eyes.”
+
+  Thus to the saint, whose glories high
+Filled all the world, he made reply:
+And thus again the holy man
+His pleasant speech with joy began:
+“This calm retreat, O Prince, is blest
+With many a charm: here take thy rest.
+Here roots and kindly fruits abound,
+And hermits love the holy ground.
+Fair silvan beasts and gentle deer
+In herds unnumbered wander here:
+And as they roam, secure from harm,
+Our eyes with grace and beauty charm:
+Except the beasts in thickets bred,This grove of ours has naught to dread.”
+
+  The hermit’s speech when Ráma heard,—
+The hero ne’er by terror stirred,—
+On his great bow his hand he laid,
+And thus in turn his answer made:
+“O saint, my darts of keenest steel,
+Armed with their murderous barbs, would deal
+Destruction mid the silvan race
+That flocks around thy dwelling-place.
+Most wretched then my fate would be
+For such dishonour shown to thee:
+And only for the briefest stay
+Would I within this grove delay.”
+
+  He spoke and ceased. With pious care
+He turned him to his evening prayer,
+Performed each customary rite,
+And sought his lodging for the night,
+With Sítá and his brother laid
+Beneath the grove’s delightful shade,
+First good Sutíkshṇa, as elsewhere, when he saw
+The shades of night around them draw,
+  With hospitable care
+The princely chieftains entertained
+With store of choicest food ordained  For holy hermit’s fare.
+
+<b>Canto VIII. The Hermitage.</b>
+
+So Ráma and Sumitrá’s son,
+When every honour due was done,
+Slept through the night. When morning broke,
+The heroes from their rest awoke.
+Betimes the son of Raghu rose,
+With gentle Sítá, from repose,
+And sipped the cool delicious wave
+Sweet with the scent the lotus gave,
+Then to the Gods and sacred flame
+The heroes and the lady came,
+And bent their heads in honour meet
+Within the hermit’s pure retreat.
+When every stain was purged away,
+They saw the rising Lord of Day:
+Then to Sutíkshṇa’s side they went,
+And softly spoke, most reverent:
+
+  “Well have we slept, O holy lord,
+Honoured of thee by all adored:
+Now leave to journey forth we pray:
+These hermits urge us on our way.
+We haste to visit, wandering by,The ascetics’ homes that round you lie,
+And roaming Daṇḍak’s mighty wood
+To view each saintly brotherhood,
+For thy permission now we sue,
+With these high saints to duty true,
+By penance taught each sense to tame,—
+In lustre like the smokeless flame.
+Ere on our brows the sun can beat
+With fierce intolerable heat.
+Like some unworthy lord who wins
+His power by tyranny and sins,
+O saint, we fain would part.” The three
+Bent humbly to the devotee.
+He raised the princes as they pressed
+His feet, and strained them to his breast;
+And then the chief of devotees
+Bespake them both in words like these:
+“Go with thy brother, Ráma, go,
+Pursue thy path untouched by woe:
+Go with thy faithful Sítá, she
+Still like a shadow follows thee.
+Roam Daṇḍak wood observing well
+The pleasant homes where hermits dwell,—
+Pure saints whose ordered souls adhere
+To penance rites and vows austere.There plenteous roots and berries grow,
+And noble trees their blossoms show,
+And gentle deer and birds of air
+In peaceful troops are gathered there.
+There see the full-blown lotus stud
+The bosom of the lucid flood,
+And watch the joyous mallard shake
+The reeds that fringe the pool and lake.
+See with delighted eye the rill
+Leap sparkling from her parent hill,
+And hear the woods that round thee lie
+Reëcho to the peacock’s cry.
+And as I bid thy brother, so,
+Sumitrá’s child, I bid thee go.
+Go forth, these varied beauties see,
+And then once more return to me.”
+
+  Thus spake the sage Sutíkshṇa: both
+The chiefs assented, nothing loth,
+Round him with circling steps they paced,
+Then for the road prepared with haste.
+There Sítá stood, the dame long-eyed,
+Fair quivers round their waists she tied,
+And gave each prince his trusty bow,
+And sword which ne’er a spot might know.
+Each took his quiver from her hand.And clanging bow and gleaming brand:
+Then from the hermits’ home the two
+Went forth each woodland scene to view.
+Each beauteous in the bloom of age,
+Dismissed by that illustrious sage,
+With bow and sword accoutred, hied
+Away, and Sítá by their side.
+
+<b>Canto IX. Sítá’s Speech.</b>
+
+Blest by the sage, when Raghu’s son
+His onward journey had begun,
+Thus in her soft tone Sítá, meek
+With modest fear, began to speak:
+“One little slip the great may lead
+To shame that follows lawless deed:
+Such shame, my lord, as still must cling
+To faults from low desire that spring.
+Three several sins defile the soul,
+Born of desire that spurns control:
+First, utterance of a lying word,
+Then, viler both, the next, and third:
+The lawless love of other’s wife,
+The thirst of blood uncaused by strife.
+The first, O Raghu’s son, in thee
+None yet has found, none e’er shall see.Love of another’s dame destroys
+All merit, lost for guilty joys:
+Ráma, such crime in thee, I ween,
+Has ne’er been found, shall ne’er be seen:
+The very thought, my princely lord,
+Is in thy secret soul abhorred.
+For thou hast ever been the same
+Fond lover of thine own dear dame,
+Content with faithful heart to do
+Thy father’s will, most just and true:
+Justice, and faith, and many a grace
+In thee have found a resting-place.
+Such virtues, Prince, the good may gain
+Who empire o’er each sense retain;
+And well canst thou, with loving view
+Regarding all, each sense subdue.
+But for the third, the lust that strives,
+Insatiate still, for others’ lives,—
+Fond thirst of blood where hate is none,—
+This, O my lord, thou wilt not shun.
+Thou hast but now a promise made,
+The saints of Daṇḍak wood to aid:
+And to protect their lives from ill
+The giants’ blood in tight wilt spill:
+And from thy promise lasting fameWill glorify the forest’s name.
+Armed with thy bow and arrows thou
+Forth with thy brother journeyest now,
+While as I think how true thou art
+Fears for thy bliss assail my heart,
+And all my spirit at the sight
+Is troubled with a strange affright.
+I like it not—it seems not good—
+Thy going thus to Daṇḍak wood:
+And I, if thou wilt mark me well,
+The reason of my fear will tell.
+Thou with thy brother, bow in hand,
+Beneath those ancient trees wilt stand,
+And thy keen arrows will not spare
+Wood-rovers who will meet thee there.
+For as the fuel food supplies
+That bids the dormant flame arise,
+Thus when the warrior grasps his bow
+He feels his breast with ardour glow.
+Deep in a holy grove, of yore,
+Where bird and beast from strife forbore,
+Śuchi beneath the sheltering boughs,
+A truthful hermit kept his vows.
+Then Indra, Śachí’s heavenly lord,
+Armed like a warrior with a sword,Came to his tranquil home to spoil
+The hermit of his holy toil,
+And left the glorious weapon there
+Entrusted to the hermit’s care,
+A pledge for him to keep, whose mind
+To fervent zeal was all resigned.
+He took the brand: with utmost heed
+He kept it for the warrior’s need:
+To keep his trust he fondly strove
+When roaming in the neighbouring grove:
+Whene’er for roots and fruit he strayed
+Still by his side he bore the blade:
+Still on his sacred charge intent,
+He took his treasure when he went.
+As day by day that brand he wore,
+The hermit, rich in merit’s store
+From penance rites each thought withdrew,
+And fierce and wild his spirit grew.
+With heedless soul he spurned the right,
+And found in cruel deeds delight.
+So, living with the sword, he fell,
+A ruined hermit, down to hell.
+This tale applies to those who deal
+Too closely with the warrior’s steel:
+The steel to warriors is the sameAs fuel to the smouldering flame.
+Sincere affection prompts my speech:
+I honour where I fain would teach.
+Mayst thou, thus armed with shaft and bow,
+So dire a longing never know
+As, when no hatred prompts the fray,
+These giants of the wood to slay:
+For he who kills without offence
+Shall win but little glory thence.
+The bow the warrior joys to bend
+Is lent him for a nobler end,
+That he may save and succour those
+Who watch in woods when pressed by foes.
+What, matched with woods, is bow or steel?
+What, warrior’s arm with hermit’s zeal?
+We with such might have naught to do:
+The forest rule should guide us too.
+But when Ayodhyá hails thee lord,
+Be then thy warrior life restored:
+So shall thy sire(423) and mother joy
+In bliss that naught may e’er destroy.
+And if, resigning empire, thou
+Submit thee to the hermit’s vow,
+The noblest gain from virtue springs,
+And virtue joy unending brings.All earthly blessings virtue sends:
+On virtue all the world depends.
+Those who with vow and fasting tame
+To due restraint the mind and frame,
+Win by their labour, nobly wise,
+The highest virtue for their prize.
+Pure in the hermit’s grove remain,
+True to thy duty, free from stain.
+But the three worlds are open thrown
+To thee, by whom all things are known.
+Who gave me power that I should dare
+His duty to my lord declare?
+’Tis woman’s fancy, light as air,
+  That moves my foolish breast.
+Now with thy brother counsel take,
+Reflect, thy choice with judgment make,
+  And do what seems the best.”<b>Canto X. Ráma’s Reply.</b>
+
+The words that Sítá uttered, spurred
+By truest love, the hero heard:
+Then he who ne’er from virtue strayed
+To Janak’s child his answer made:
+“In thy wise speech, sweet love, I find
+True impress of thy gentle mind,
+Well skilled the warrior’s path to trace,
+Thou pride of Janak’s ancient race.
+What fitting answer shall I frame
+To thy good words, my honoured dame?
+Thou sayst the warrior bears the bow
+That misery’s tears may cease to flow;
+And those pure saints who love the shade
+Of Daṇḍak wood are sore dismayed.
+They sought me of their own accord,
+With suppliant prayers my aid implored:
+They, fed on roots and fruit, who spend
+Their lives where bosky wilds extend,
+My timid love, enjoy no rest
+By these malignant fiends distressed.
+These make the flesh of man their meat:
+The helpless saints they kill and eat.
+The hermits sought my side, the chief
+Of Bráhman race declared their grief.I heard, and from my lips there fell
+The words which thou rememberest well:
+I listened as the hermits cried,
+And to their prayers I thus replied:
+
+  “Your favour, gracious lords, I claim,
+O’erwhelmed with this enormous shame
+That Bráhmans, great and pure as you,
+Who should be sought, to me should sue.”
+And then before the saintly crowd,
+“What can I do?” I cried aloud.
+Then from the trembling hermits broke
+One long sad cry, and thus they spoke:
+“Fiends of the wood, who wear at will
+Each varied shape, afflict us still.
+To thee in our distress we fly:
+O help us, Ráma, or we die.
+When sacred rites of fire are due,
+When changing moons are full or new,
+These fiends who bleeding flesh devour
+Assail us with resistless power.
+They with their cruel might torment
+The hermits on their vows intent:
+We look around for help and see
+Our surest refuge, Prince, in thee.
+We, armed with powers of penance, mightDestroy the rovers of the night:
+But loth were we to bring to naught
+The merit years of toil have bought.
+Our penance rites are grown too hard,
+By many a check and trouble barred,
+But though our saints for food are slain
+The withering curse we yet restrain.
+Thus many a weary day distressed
+By giants who this wood infest,
+We see at length deliverance, thou
+With Lakshmaṇ art our guardian now.”
+
+  As thus the troubled hermits prayed,
+I promised, dame, my ready aid,
+And now—for truth I hold most dear—
+Still to my word must I adhere.
+My love, I might endure to be
+Deprived of Lakshmaṇ, life, and thee,
+But ne’er deny my promise, ne’er
+To Bráhmans break the oath I sware.
+I must, enforced by high constraint,
+Protect them all. Each suffering saint
+In me, unasked, his help had found;
+Still more in one by promise bound.
+I know thy words, mine own dear dame,
+From thy sweet heart’s affection came:I thank thee for thy gentle speech,
+For those we love are those we teach.
+’Tis like thyself, O fair of face,
+’Tis worthy of thy noble race:
+Dearer than life, thy feet are set
+In righteous paths they ne’er forget.”
+
+  Thus to the Maithil monarch’s child,
+His own dear wife, in accents mild
+    The high-souled hero said:
+Then to the holy groves which lay
+Beyond them fair to see, their way
+    The bow-armed chieftain led.<b>Canto XI. Agastya.</b>
+
+Ráma went foremost of the three,
+Next Sítá, followed, fair to see,
+And Lakshmaṇ with his bow in hand
+Walked hindmost of the little band.
+As onward through the wood they went,
+With great delight their eyes were bent
+On rocky heights beside the way
+And lofty trees with blossoms gay;
+And streamlets running fair and fast
+The royal youths with Sítá passed.
+They watched the sáras and the drake
+On islets of the stream and lake,
+And gazed delighted on the floods
+Bright with gay birds and lotus buds.
+They saw in startled herds the roes,
+The passion-frenzied buffaloes,
+Wild elephants who fiercely tore
+The tender trees, and many a boar.
+A length of woodland way they passed,
+And when the sun was low at last
+A lovely stream-fed lake they spied,
+Two leagues across from side to side.
+Tall elephants fresh beauty gave
+To grassy bank and lilied wave,By many a swan and sáras stirred,
+Mallard, and gay-winged water-bird.
+From those sweet waters, loud and long,
+Though none was seen to wake the song,
+Swelled high the singer’s music blent
+With each melodious instrument.
+Ráma and car-borne Lakshmaṇ heard
+The charming strain, with wonder stirred,
+Turned on the margent of the lake
+To Dharmabhrit(424) the sage, and spake:
+
+  “Our longing souls, O hermit, burn
+This music of the lake to learn:
+We pray thee, noblest sage, explain
+The cause of the mysterious strain.”
+He, as the son of Raghu prayed,
+With swift accord his answer made,
+And thus the hermit, virtuous-souled,
+The story of the fair lake told:
+
+  “Through every age ’tis known to fame,
+Panchápsaras(425) its glorious name,
+By holy Máṇḍakarṇi wrought
+With power his rites austere had bought.
+For he, great votarist, intent
+On strictest rule his stern life spent.Ten thousand years the stream his bed,
+Ten thousand years on air he fed.
+Then on the blessed Gods who dwell
+In heavenly homes great terror fell:
+They gathered all, by Agni led,
+And counselled thus disquieted:
+“The hermit by ascetic pain
+The seat of one of us would gain.”
+Thus with their hearts by fear oppressed
+In full assembly spoke the Blest,
+And bade five loveliest nymphs, as fair
+As lightning in the evening air,
+Armed with their winning wiles, seduce
+From his stern vows the great recluse.
+Though lore of earth and heaven he knew,
+The hermit from his task they drew,
+And made the great ascetic slave
+To conquering love, the Gods to save.
+Each of the heavenly five became,
+Bound to the sage, his wedded dame;
+And he, for his beloved’s sake,
+Formed a fair palace neath the lake.
+Under the flood the ladies live,
+To joy and ease their days they give,
+And lap in bliss the hermit wooedFrom penance rites to youth renewed.
+So when the sportive nymphs within
+Those secret bowers their play begin,
+You hear the singers’ dulcet tones
+Blend sweetly with their tinkling zones.”
+
+  “How wondrous are these words of thine!”
+Cried the famed chiefs of Raghu’s line,
+As thus they heard the sage unfold
+The marvels of the tale he told.
+
+  As Ráma spake, his eyes were bent
+Upon a hermit settlement
+With light of heavenly lore endued,
+With sacred grass and vesture strewed.
+His wife and brother by his side,
+Within the holy bounds he hied,
+And there, with honour entertained
+By all the saints, a while remained.
+In time, by due succession led,
+Each votary’s cot he visited,
+And then the lord of martial lore,
+Returned where he had lodged before.
+Here for the months, content, he stayed,
+There for a year his visit paid:
+Here for four months his home would fix,There, as it chanced, for five or six.
+Here for eight months and there for three
+The son of Raghu’s stay would be:
+Here weeks, there fortnights, more or less,
+He spent in tranquil happiness.
+As there the hero dwelt at ease
+Among those holy devotees,
+In days untroubled o’er his head
+Ten circling years of pleasure fled.
+So Raghu’s son in duty trained
+A while in every cot remained,
+Then with his dame retraced the road
+To good Sutíkshṇa’s calm abode.
+Hailed by the saints with honours due
+Near to the hermit’s home he drew,
+And there the tamer of his foes
+Dwelt for a time in sweet repose.
+One day within that holy wood
+By saint Sutíkshṇa Ráma stood,
+And thus the prince with reverence meek
+To that high sage began to speak:
+
+  “In the wide woodlands that extend
+Around us, lord most reverend,
+As frequent voice of rumour tells,
+Agastya, saintliest hermit, dwells.So vast the wood, I cannot trace
+The path to reach his dwelling place,
+Nor, searching unassisted, find
+That hermit of the thoughtful mind.
+I with my wife and brother fain
+Would go, his favour to obtain,
+Would seek him in his lone retreat
+And the great saint with reverence greet.
+This one desire, O Master, long
+Cherished within my heart, is strong,
+That I may pay of free accord
+My duty to that hermit lord.”
+
+  As thus the prince whose heart was bent
+On virtue told his firm intent,
+The good Sutíkshṇa’s joy rose high,
+And thus in turn he made reply:
+“The very thing, O Prince, which thou
+Hast sought, I wished to urge but now,
+Bid thee with wife and brother see
+Agastya, glorious devotee.
+I count this thing an omen fair
+That thou shouldst thus thy wish declare,
+And I, my Prince, will gladly teach
+The way Agastya’s home to reach.
+Southward, dear son, direct thy feetEight leagues beyond this still retreat:
+Agastya’s hermit brother there
+Dwells in a home most bright and fair.
+’Tis on a knoll of woody ground,
+With many a branching Pippal(426) crowned:
+There sweet birds’ voices ne’er are mute,
+And trees are gay with flower and fruit.
+There many a lake gleams bright and cool,
+And lilies deck each pleasant pool,
+While swan, and crane, and mallard’s wings
+Are lovely in the water-springs.
+There for one night, O Ráma, stay,
+And with the dawn pursue thy way.
+Still farther, bending southward, by
+The thicket’s edge the course must lie,
+And thou wilt see, two leagues from thence
+Agastya’s lovely residence,
+Set in the woodland’s fairest spot,
+All varied foliage decks the cot:
+There Sítá, Lakshmaṇ thou, at ease
+May spend sweet hours neath shady trees,
+For all of noblest growth are found
+Luxuriant on that bosky ground.
+If it be still thy firm intent
+To see that saint preëminent,O mighty counsellor, this day
+Depart upon thine onward way.”
+
+  The hermit spake, and Ráma bent
+His head, with Lakshmaṇ, reverent,
+And then with him and Janak’s child
+Set out to trace the forest wild.
+He saw dark woods that fringed the road,
+And distant hills like clouds that showed,
+And, as the way he followed, met
+With many a lake and rivulet.
+So passing on with ease where led
+The path Sutíkshṇa bade him tread,
+The hero with exulting breast
+His brother in these words addressed:
+
+  “Here, surely, is the home, in sight,
+Of that illustrious anchorite:
+Here great Agastya’s brother leads
+A life intent on holy deeds.
+Warned of each guiding mark and sign,
+I see them all herein combine:
+I see the branches bending low
+Beneath the flowers and fruit they show.
+A soft air from the forest springs,
+Fresh from the odorous grass, and bringsA spicy fragrance as it flees
+O’er the ripe fruit of Pippal trees.
+See, here and there around us high
+Piled up in heaps cleft billets lie,
+And holy grass is gathered, bright
+As strips of shining lazulite.
+Full in the centre of the shade
+The hermits’ holy fire is laid:
+I see its smoke the pure heaven streak
+Dense as a big cloud’s dusky peak.
+The twice-born men their steps retrace
+From each sequestered bathing-place,
+And each his sacred gift has brought
+Of blossoms which his hands have sought.
+Of all these signs, dear brother, each
+Agrees with good Sutíkshṇa’s speech,
+And doubtless in this holy bound
+Agastya’s brother will be found.
+Agastya once, the worlds who viewed
+With love, a Deathlike fiend subdued,
+And armed with mighty power, obtained
+By holy works, this grove ordained
+To be a refuge and defence
+From all oppressors’ violence.
+In days of yore within this placeTwo brothers fierce of demon race,
+Vátápi dire and Ilval, dwelt,
+And slaughter mid the Bráhmans dealt.
+A Bráhman’s form, the fiend to cloak,
+Fierce Ilval wore, and Sanskrit spoke,
+And twice-born sages would invite
+To solemnize some funeral rite.
+His brother’s flesh, concealed within
+A ram’s false shape and borrowed skin,—
+As men are wont at funeral feasts,—
+He dressed and fed those gathered priests.
+The holy men, unweeting ill,
+Took of the food and ate their fill.
+Then Ilval with a mighty shout
+Exclaimed “Vátápi, issue out.”
+Soon as his brother’s voice he heard,
+The fiend with ram-like bleating stirred:
+Rending in pieces every frame,
+Forth from the dying priests he came.
+So they who changed their forms at will
+Thousands of Bráhmans dared to kill,—
+Fierce fiends who loved each cruel deed,
+And joyed on bleeding flesh to feed.
+Agastya, mighty hermit, pressed
+To funeral banquet like the rest,Obedient to the Gods’ appeal
+Ate up the monster at a meal.
+“’Tis done, ’tis done,” fierce Ilval cried,
+And water for his hands supplied:
+Then lifting up his voice he spake:
+“Forth, brother, from thy prison break.”
+Then him who called the fiend, who long
+Had wrought the suffering Bráhmans wrong,
+Thus thoughtful-souled Agastya, best
+Of hermits, with a smile addressed:
+“How, Rákshas, is the fiend empowered
+To issue forth whom I devoured?
+Thy brother in a ram’s disguise
+Is gone where Yáma’s kingdom lies.”
+When from the words Agastya said
+He knew his brother fiend was dead,
+His soul on fire with vengeful rage,
+Rushed the night-rover at the sage.
+One lightning glance of fury, hot
+As fire, the glorious hermit shot,
+As the fiend neared him in his stride,
+And straight, consumed to dust, he died.
+In pity for the Bráhmans’ plight
+Agastya wrought this deed of might:
+This grove which lakes and fair trees grace
+In his great brother’s dwelling place.”  As Ráma thus the tale rehearsed,
+And with Sumitrá’s son conversed,
+The setting sun his last rays shed,
+And evening o’er the land was spread.
+A while the princely brothers stayed
+And even rites in order paid,
+Then to the holy grove they drew
+And hailed the saint with honour due.
+With courtesy was Ráma met
+By that illustrious anchoret,
+And for one night he rested there
+Regaled with fruit and hermit fare.
+But when the night had reached its close,
+And the sun’s glorious circle rose,
+The son of Raghu left his bed
+And to the hermit’s brother said:
+“Well rested in thy hermit cell,
+I stand, O saint, to bid farewell;
+For with thy leave I journey hence
+Thy brother saint to reverence.”
+“Go, Ráma go,” the sage replied:
+Then from the cot the chieftain hied.
+And while the pleasant grove he viewed,
+The path the hermit showed, pursued.
+Of every leaf, of changing hue.Plants, trees by hundreds round him grew,
+With joyous eyes he looked on all,
+Then Jak,(427) the wild rice, and Sál;(428)
+He saw the red Hibiscus glow,
+He saw the flower-tipped creeper throw
+The glory of her clusters o’er
+Tall trees that loads of blossom bore.
+Some, elephants had prostrate laid,
+In some the monkeys leapt and played,
+And through the whole wide forest rang
+The charm of gay birds as they sang.
+Then Ráma of the lotus eye
+To Lakshmaṇ turned who followed nigh,
+And thus the hero youth impressed
+With Fortune’s favouring signs, addressed:
+
+  “How soft the leaves of every tree,
+How tame each bird and beast we see!
+Soon the fair home shall we behold
+Of that great hermit tranquil-souled.
+The deed the good Agastya wrought
+High fame throughout the world has bought:
+I see, I see his calm retreat
+That balms the pain of weary feet.
+Where white clouds rise from flames beneath,
+Where bark-coats lie with many a wreath,Where silvan things, made gentle, throng,
+And every bird is loud in song.
+With ruth for suffering creatures filled,
+A deathlike fiend with might he killed,
+And gave this southern realm to be
+A refuge, from oppression free.
+There stands his home, whose dreaded might
+Has put the giant crew to flight,
+Who view with envious eyes afar
+The peaceful shades they cannot mar.
+Since that most holy saint has made
+His dwelling in this lovely shade,
+Checked by his might the giant brood
+Have dwelt in peace with souls subdued.
+And all this southern realm, within
+Whose bounds no fiend may entrance win,
+Now bears a name which naught may dim,
+Made glorious through the worlds by him.
+When Vindhya, best of hills, would stay
+The journey of the Lord of Day,
+Obedient to the saint’s behest
+He bowed for aye his humbled crest.
+That hoary hermit, world-renowned
+For holy deeds, within this ground
+Has set his pure and blessed home,Where gentle silvan creatures roam.
+Agastya, whom the worlds revere,
+Pure saint to whom the good are dear,
+To us his guests all grace will show,
+Enriched with blessings ere we go.
+I to this aim each thought will turn,
+The favour of the saint to earn,
+That here in comfort may be spent
+The last years of our banishment.
+Here sanctities and high saints stand,
+Gods, minstrels of the heavenly band;
+Upon Agastya’s will they wait,
+And serve him, pure and temperate.
+The liar’s tongue, the tyrant’s mind
+Within these bounds no home may find:
+No cheat, no sinner here can be:
+So holy and so good is he.
+Here birds and lords of serpent race,
+Spirits and Gods who haunt the place,
+Content with scanty fare remain,
+As merit’s meed they strive to gain.
+Made perfect here, the saints supreme,
+On cars that mock the Day-God’s gleam,—
+Their mortal bodies cast aside,—
+Sought heaven transformed and glorified,Here Gods to living things, who win
+Their favour, pure from cruel sin,
+Give royal rule and many a good,
+Immortal life and spirithood.
+Now, Lakshmaṇ, we are near the place:
+Do thou precede a little space,
+And tell the mighty saint that I
+With Sítá at my side am nigh.”<b>Canto XII. The Heavenly Bow.</b>
+
+He spoke: the younger prince obeyed:
+Within the bounds his way he made,
+And thus addressed, whom first he met,
+A pupil of the anchoret:
+
+  “Brave Ráma, eldest born, who springs,
+From Daśaratha, hither brings
+His wife the lady Sítá: he
+Would fain the holy hermit see.
+Lakshmaṇ am I—if happy fame
+E’er to thine ears has brought the name—
+His younger brother, prompt to do
+His will, devoted, fond, and true.
+We, through our royal sire’s decree,
+To the dread woods were forced to flee.
+Tell the great Master, I entreat,
+Our earnest wish our lord to greet.”
+
+  He spoke: the hermit rich in store
+Of fervid zeal and sacred lore,
+Sought the pure shrine which held the fire,
+To bear his message to the sire.
+Soon as he reached the saint most bright
+In sanctity’s surpassing might,He cried, uplifting reverent hands:
+“Lord Ráma near thy cottage stands.”
+Then spoke Agastya’s pupil dear
+The message for his lord to hear:
+“Ráma and Lakshmaṇ, chiefs who spring
+From Daśaratha, glorious king,
+Thy hermitage e’en now have sought,
+And lady Sítá with them brought.
+The tamers of the foe are here
+To see thee, Master, and revere.
+’Tis thine thy further will to say:
+Deign to command, and we obey.”
+
+  When from his pupil’s lips he knew
+The presence of the princely two,
+And Sítá born to fortune high.
+The glorious hermit made reply:
+“Great joy at last is mine this day
+That Ráma hither finds his way,
+For long my soul has yearned to see
+The prince who comes to visit me.
+Go forth, go forth, and hither bring
+The royal three with welcoming:
+Lead Ráma in and place him near:
+Why stands he not already here?”  Thus ordered by the hermit, who,
+Lord of his thought, all duty knew,
+His reverent hands together laid,
+The pupil answered and obeyed.
+Forth from the place with speed he ran,
+To Lakshmaṇ came and thus began:
+“Where is he? let not Ráma wait,
+But speed, the sage to venerate.”
+
+  Then with the pupil Lakshmaṇ went
+Across the hermit settlement,
+And showed him Ráma where he stood
+With Janak’s daughter in the wood.
+The pupil then his message spake
+Which the kind hermit bade him take;
+Then led the honoured Ráma thence
+And brought him in with reverence.
+As nigh the royal Ráma came
+With Lakshmaṇ and the Maithil dame,
+He viewed the herds of gentle deer
+Roaming the garden free from fear.
+As through the sacred grove he trod
+He viewed the seat of many a God,
+Brahmá and Agni,(429) Sun and Moon,
+And His who sends each golden boon;(430)
+Here Vishṇu’s stood, there Bhaga’s(431) shrine,And there Mahendra’s, Lord divine;
+Here His who formed this earthly frame,(432)
+His there from whom all beings came.(433)
+Váyu’s,(434) and His who loves to hold
+The great noose, Varuṇ(435) mighty-souled:
+Here was the Vasus’(436) shrine to see,
+Here that of sacred Gáyatrí,(437)
+The king of serpents(438) here had place,
+And he who rules the feathered race.(439)
+Here Kártikeya,(440) warrior lord,
+And there was Justice King adored.
+Then with disciples girt about
+The mighty saint himself came out:
+Through fierce devotion bright as flame
+Before the rest the Master came:
+And then to Lakshmaṇ, fortune blest,
+Ráma these hasty words addressed:
+“Behold, Agastya’s self draws near,
+The mighty saint, whom all revere:
+With spirit raised I meet my lord
+With richest wealth of penance stored.”
+
+  The strong-armed hero spake, and ran
+Forward to meet the sunbright man.
+Before him, as he came, he bent
+And clasped his feet most reverent,Then rearing up his stately height
+Stood suppliant by the anchorite,
+While Lakshmaṇ’s strength and Sítá’s grace
+Stood by the pride of Raghu’s race.
+The sage his arms round Ráma threw
+And welcomed him with honours due,
+Asked, was all well, with question sweet,
+And bade the hero to a seat.
+With holy oil he fed the flame,
+He brought the gifts which strangers claim,
+And kindly waiting on the three
+With honours due to high degree,
+He gave with hospitable care
+A simple hermit’s woodland fare.
+Then sat the reverend father, first
+Of hermits, deep in duty versed.
+And thus to suppliant Ráma, bred
+In all the lore of virtue, said:
+“Did the false hermit, Prince, neglect
+To hail his guest with due respect,
+He must,—the doom the perjured meet,—
+His proper flesh hereafter eat.
+A car-borne king, a lord who sways
+The earth, and virtue’s law obeys,
+Worthy of highest honour, thouHast sought, dear guest, my cottage now.”
+He spoke: with fruit and hermit fare,
+With every bloom the branches bare,
+Agastya graced his honoured guest,
+And thus with gentle words addressed:
+“Accept this mighty bow, divine,
+Whereon red gold and diamonds shine;
+’Twas by the Heavenly Artist planned
+For Vishṇu’s own almighty hand;
+This God-sent shaft of sunbright hue,
+Whose deadly flight is ever true,
+By Lord Mahendra given of yore:
+This quiver with its endless store.
+Keen arrows hurtling to their aim
+Like kindled fires that flash and flame:
+Accept, in golden sheath encased,
+This sword with hilt of rich gold graced.
+Armed with this best of bows
+Lord Vishṇu slew his demon foes,
+And mid the dwellers in the skies
+Won brilliant glory for his prize.
+The bow, the quivers, shaft, and sword
+Received from me, O glorious lord:
+These conquest to thine arm shall bring,
+As thunder to the thunder’s King.”  The splendid hermit bade him take
+The noble weapons as he spake,
+And as the prince accepted each
+In words like these renewed his speech:
+
+<b>Canto XIII. Agastya’s Counsel.</b>
+
+“O Ráma, great delight I feel,
+Pleased, Lakshmaṇ, with thy faithful zeal,
+That you within these shades I see
+With Sítá come to honour me.
+But wandering through the rough rude wild
+Has wearied Janak’s gentle child:
+With labours of the way oppressed
+The Maithil lady longs for rest.
+Young, delicate, and soft, and fair,
+Such toils as these untrained to bear,
+Her wifely love the dame has led
+The forest’s troubled ways to tread.
+Here, Ráma, see that naught annoy
+Her easy hours of tranquil joy:
+A glorious task has she assayed,
+To follow thee through woodland shade.
+Since first from Nature’s hand she came,
+A woman’s mood is still the same,
+When Fortune smiles, her love to show,And leave her lord in want and woe.
+No pity then her heart can feel,
+She arms her soul with warrior’s steel,
+Swift as the storm or Feathered King,
+Uncertain as the lightning’s wing.
+Not so thy spouse: her purer mind
+Shrinks from the faults of womankind;
+Like chaste Arundhatí(441) above,
+A paragon of faithful love.
+Let these blest shades, dear Ráma, be
+A home for Lakshmaṇ, her, and thee.”
+
+  With raised hands reverently meek
+He heard the holy hermit speak,
+And humbly thus addressed the sire
+Whose glory shone like kindled fire:
+
+  “How blest am I, what thanks I owe
+That our great Master deigns to show
+His favour, that his heart can be
+Content with Lakshmaṇ, Sítá, me.
+Show me, I pray, some spot of ground
+Where thick trees wave and springs abound,
+That I may raise my hermit cell
+And there in tranquil pleasure dwell.”  Then thus replied Agastya, best
+Of hermits, to the chief’s request:
+When for a little he had bent
+His thoughts, upon that prayer intent:
+
+  “Beloved son, four leagues away
+Is Panchavaṭí bright and gay:
+Thronged with its deer, most fair it looks
+With berries, fruit, and water-brooks.
+There build thee with thy brother’s aid
+A cottage in the quiet shade,
+And faithful to thy sire’s behest,
+Obedient to the sentence, rest.
+For well, O sinless chieftain, well
+I know thy tale, how all befell:
+Stern penance and the love I bore
+Thy royal sire supply the lore.
+To me long rites and fervid zeal
+The wish that stirs thy heart reveal,
+And hence my guest I bade thee be,
+That this pure grove might shelter thee.
+So now, thereafter, thus I speak:
+The shades of Panchavaṭí seek;
+That tranquil spot is bright and fair,
+And Sítá will be happy there.
+Not far remote from here it lies,A grove to charm thy loving eyes,
+Godávarí’s pure stream is nigh:
+There Sítá’s days will sweetly fly.
+Pure, lovely, rich in many a charm,
+O hero of the mighty arm,
+’Tis gay with every plant and fruit,
+And throngs of gay buds never mute.
+Thou, true to virtue’s path, hast might
+To screen each trusting anchorite,
+And wilt from thy new home defend
+The hermits who on thee depend.
+Now yonder, Prince, direct thine eyes
+Where dense Madhúka(442) woods arise:
+Pierce their dark shade, and issuing forth
+Turn to a fig-tree on the north:
+Then onward up a sloping mead
+Flanked by a hill the way will lead:
+There Panchavaṭí, ever gay
+With ceaseless bloom, thy steps will stay.”
+
+  The hermit ceased: the princely two
+With seemly honours bade adieu:
+With reverential awe each youth
+Bowed to the saint whose word was truth,
+And then, dismissed with Sítá, they
+To Panchavaṭí took their way.
