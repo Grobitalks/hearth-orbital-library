@@ -1,0 +1,610 @@
+HOLB1	76639	0	0	80	1101	150
+3	Preface by the Translator
+30	V. You are surely in jest.
+40	Letter I. To Eloisa.
+46	Letter II. To Eloisa.
+49	Letter III. To Eloisa.
+52	Letter IV. From Eloisa.
+56	Letter V. To Eloisa.
+59	Letter VI. Eloisa To Clara.
+61	Letter VII. Answer.
+68	Letter IX. From Eloisa.
+72	Letter X. To Eloisa.
+75	Letter XI. From Eloisa.
+78	Letter XII. To Eloisa.
+84	Letter XIII. From Eloisa.
+87	Letter XIV. To Eloisa.
+89	Letter XV. From Eloisa.
+91	Letter XVII. Reply.
+94	Letter XVIII. To Eloisa.
+95	Letter XIX. To Eloisa.
+97	Letter XX. From Eloisa.
+99	Letter XXI. To Eloisa.
+102	Letter XXII. From Eloisa.
+104	Letter XXIII. To Eloisa.
+115	Letter XXIV. To Eloisa.
+118	Letter XXV. From Eloisa.
+122	Letter XXVI. To Eloisa.
+129	Letter XXVII. From Clara.
+130	Letter XXVIII. From Eloisa to Clara.
+132	Letter XXIX. From Eloisa to Clara.
+135	Letter XXX. The Answer.
+139	Letter XXXI. To Eloisa.
+142	Letter XXXII. Answer.
+146	Letter XXXIII. From Eloisa.
+148	Letter XXXIV. The Answer.
+152	Letter XXXV. From Eloisa.
+157	Letter XXXVI. From Eloisa.
+160	Letter XXXVII. From Eloisa.
+162	Letter XXXVIII. To Eloisa.
+165	Letter XXXIX. From Eloisa.
+168	Letter XL. From Fanny Regnard to Eloisa.
+170	Letter XLI. The Answer.
+171	Letter XLIII. To Eloisa.
+173	Letter XLIV. From Eloisa.
+177	Letter XLV. To Eloisa.
+180	Letter XLVI. From Eloisa.
+184	Letter XLVII. To Eloisa.
+187	Letter XLVIII. To Eloisa.
+192	Letter XLIX. From Eloisa.
+195	Letter L. From Eloisa.
+199	Letter LI.
+202	Letter LII. From Eloisa.
+206	Letter LIII. From Eloisa.
+209	Letter LIV. To Eloisa.
+211	Letter LV. To Eloisa.
+215	Letter LVI. From Clara to Eloisa.
+218	Letter LVII. From Eloisa.
+231	Letter LVIII. From Eloisa to Lord B----.
+233	Letter LIX. From Mr. Orbe to Eloisa.
+234	Letter LX. To Eloisa.
+241	Letter LXI. From Eloisa.
+242	Letter LXII. From Clara.
+249	Letter LXIII. From Eloisa to Clara.
+258	Letter LXIV. Clara to Mr. Orbe.
+260	Letter LXV. Clara to Eloisa.
+272	Letter LXVI. To Eloisa.
+276	Letter LXVII. Lord B---- to Mrs. Orbe.
+283	Letter LXVIII. Lord B---- to Eloisa.
+288	Letter LXIX. Eloisa to Clara.
+291	Letter LXX. Answer to the Preceding.
+298	Letter LXXI. Eloisa to Lord B----.
+302	Letter LXXII. From Eloisa.
+308	Letter LXXIII. From Clara.
+310	Letter LXXIV. From Lord B---- To Eloisa.
+312	Letter LXXV. To Clara.
+318	Letter LXXVI. From Eloisa.
+327	Letter LXXVII. To Eloisa.
+328	Letter LXXVIII. To Eloisa.
+340	Letter LXXX. From Eloisa.
+346	Letter LXXXI. To Eloisa.
+354	Letter LXXXII. To Eloisa.
+370	Letter LXXXIII. From Eloisa.
+379	Letter LXXIV. To Eloisa.
+382	Letter LXXXV. From Eloisa.
+383	Letter LXXXVI. To Eloisa.
+404	Letter LXXXVII. To Eloisa.
+407	Letter LXXXVIII. To Mrs. Orbe.
+420	Letter LXXXIX. From Eloisa.
+422	Letter XC. To Eloisa.
+427	Letter XCI. To Eloisa.
+433	Letter XCII. The Answer.
+445	Letter XCIII. From Eloisa.
+446	Letter XCIV. From Mrs. Orbe.
+451	Letter XCV. To The Baroness D’Etange.
+453	Letter XCVI. To Mrs. Orbe,. With the preceding…
+455	Letter XCVII. From Mrs. Orbe.
+457	Letter XCVIII. From Eloisa.
+460	Letter XCIX. To Mrs. Orbe.
+463	Letter C. The Answer.
+472	Letter CIV. The Answer.
+474	Letter CV. From Eloisa.
+475	Letter CVI. From Eloisa to Mrs. Orbe.
+478	Letter CVII. The Answer.
+484	Letter CVIII. From Eloisa.
+486	Letter CIX. The Answer.
+492	Letter CXI. From Eloisa.
+530	Letter CXII. To Eloisa.
+535	Letter CXIII. From Eloisa.
+547	Letter CXIV. To Lord B----.
+561	Letter CXV. Answer.
+572	Letter CXVI. From Lord B----.
+574	Letter CXVIII. From Lord B----.
+575	Letter CXIX. To Mrs. Orbe
+577	Letter CXX. From Mrs. Wolmar to Mrs. Orbe.
+587	Letter CXXI. Answer.
+597	Letter CXXII. To Mrs. Orbe.
+605	Letter CXXIV. From Mrs. Orbe. In which the pre…
+607	Letter CXXV. To Lord B----.
+619	Letter CXXVI. Mrs. Wolmar to Mrs. Orbe.
+627	Letter CXXVII. Answer.
+633	Letter CXXVIII. Clara to Eloisa.
+641	Letter CXXIX. To Lord B----.
+684	Letter CXXX. To Lord B----.
+709	Letter CXXXI. Mrs. Wolmar to Mrs. Orbe.
+725	Letter CXXXII. Answer.
+736	Letter CXXXIII. Mr. Wolmar to Mrs. Orbe.
+744	Letter CXXIV. To Lord B----.
+747	Letter CXXXVI. To Lord B----.
+763	Letter CXXXVI. To Lord B----.
+805	Letter CXXXVII. To Lord B----.
+844	Letter CXL. From Lord B---- to Mrs. Orbe.
+846	Letter CXLI. To Lord B----.
+859	Letter CXLII. To Lord B----.
+866	Letter CXLIII. To Lord B----.
+878	Letter CXLIV. To Mr. WOLMAR.
+881	Letter CXLV. To Mrs. Orbe.
+890	Letter CXLVI. From Mrs. Orbe.
+893	Letter CXLVII. From Mr. Wolmar.
+895	Letter CXLVIII. To Mr. Wolmar.
+900	Letter CXLIX. Mrs. Wolmar to Mrs. Orbe
+915	Letter CL. Harriot to her Mother.
+916	Letter CLI. Mrs. Orbe to Mrs. Wolmar.
+918	Letter CLII. Mrs. Orbe to Mrs. Wolmar
+935	Letter CLIII. Lord B---- to Mr. Wolmar.
+945	Letter CLIV. Answer.
+948	Letter CLV. Mrs. Orbe to Mrs. Wolmar.
+958	Letter CLVI. From Mrs. Wolmar.
+973	Letter CLVII. Answer.
+991	Letter CLVIII. From Mrs. Wolmar.
+1012	Letter CLIX. From Fanny Anet.
+1014	Letter CLXI. From Mr. Wolmar.
+Eloisa:
+Or, a Series of Original Letters
+
+Collected and published by J.J. Rousseau
+
+Translated from the French.
+
+In Four Volumes.
+
+The Second Edition.
+
+London: Printed for R. Griffiths, at the Dunciad, and T. Becket and P.A. DeHondt at Tully's Head, in the Strand.
+
+MDCCLXI.
+
+Translation of M. Rousseau’s Preface
+
+Great cities require public theatres, and romances are necessary to a corrupt people. I saw the manners of the times, and have published these letters. Would to heaven I had lived in an age when I ought rather to have thrown them in the fire!
+
+Though I appear only as the editor of this work, I confess that I have had some share in the composition. But am I the sole author, and is the entire correspondence fictitious?Ye people of the world, of what importance is it to you? Certainly, to you, it is all a fiction.
+
+Every honest man will avow the books which he publishes. I have prefixed my name to these letters, not with a design to appropriate them to myself, but that I might be answerable for them. If they deserve censure, let it fall on me; if they have any merit, I am not ambitious of the praise. If it is a bad book, I am the more obliged to own it: I do not wish to pass for better than I am.
+
+As to the reality of the history, I declare that, though I have been several times in the country of the two lovers, I never heard either of Baron D’Etange, his daughter, Mr. Orbe, Lord B----, or Mr. Wolmar. I must also inform the reader that there are several topographical errors in this work; but whether they are the effect of ignorance or design, I leave undetermined. This is all I am at liberty to say: let every one think as he pleases.
+
+The book seems not calculated for an extensive circulation, as it is not adapted to the generality of readers. The stile will offend people of taste, to austere men the matter will be alarming, and all the sentiments will seem unnatural to those who know not what is meant by the word virtue. It ought to displease the devotee, the libertine, the philosopher; to shock all the ladies of gallantry, and to scandalize every modest woman. By whom, therefore, will it be approved? Perhaps only by myself: certain I am, however, that it will not meet with <i>moderate</i> approbation from any one.Whoever may resolve to read these letters ought to arm himself with patience against faults of language, rusticity of stile, and pedantry of expression; he ought to remember that the writers are neither natives of France, wits, academicians, nor philosophers; but that they are young and unexperienced inhabitants of a remote village, who mistake the romantic extravagance of their own imagination, for philosophy.
+
+Why should I fear to speak my thoughts? This collection of letters, with all their gothic air, will better suit a married lady than books of philosophy: it may even be of service to those who, in an irregular course of life, have yet preserved some affection for virtue. As to young ladies, they are out of the question; no chaste virgin ever read a romance: but if perchance any young girl should dare to read a single page of this, she is inevitably lost. Yet let her not accuse me as the cause of her perdition: the mischief was done before; and since she has begun, let her proceed, for she has nothing worse to fear.
+
+May the austere reader be disgusted in the first volume, revile the Editor, and throw the book into the fire. I shall not complain of injustice; for probably, in his place, I might have acted in the same manner. But if after having read to the end, any one should think fit to blame me for having published the book, let him, if he pleases, declare his opinion to all the world, except to me; for I perceive it would never be in my power to esteem such a man.<b>Preface by the Translator</b>
+
+It is by no means my design to swell the volume, or detain the reader from the pleasure he may reasonably expect in the perusal of this work: I say <i>reasonably</i>, because the author is a writer of great reputation. My sole intention is to give a concise account of my conduct in the execution of this arduous task; and to anticipate such accusations as may naturally be expected from some readers: I mean those who are but imperfectly acquainted with the French language, or who happen to entertain improper ideas of translation in general.
+
+If I had chosen to preserve the original title, it would have stood thus: <i>Julia, or the New Eloisa</i>, in the general title-page; and in the particular one, <i>Letters of two Lovers, inhabitants of a small village at the foot of the Alps, collected and published,</i> &c. Whatever objection I might have to this title, upon the whole, my principal reason for preferring the name of Eloisa to that of Julia, was, because the public seemed unanimous in distinguishing the work by the former rather than the latter, and I was the more easily determined, as it was a matter of no importance to the reader.
+
+The English nobleman who acts a considerable part in this romance, is called in the original, Lord Bomston, which I suppose Mr. Rousseau thought to be an English name, or at least very like one. It may possibly sound well enough in the ears of a Frenchman; but I believe the English reader will not be offended with me for having substituted that of Lord B---- in its room. It is amazing that the French novelists should be as ignorant of our common names, and the titles of our nobility, as they are of our manners.They seldom mention our country, or attempt to introduce an English character, without exposing themselves to our ridicule. I have seen one of their celebrated romances, in which a British nobleman, called the Duke of <i>Workinsheton</i>, is a principal personage; and another, in which the one identical lover of the heroine is sometimes a Duke, sometimes an Earl, and sometimes a simple Baronet; <i>Catombridge</i> is, with them, an English city: and yet they endeavour to impose upon their readers by pretending that their novels are translations from the English.
+
+With regard to this <i>Chef d’oeuvre</i> of Mr. Rousseau, it was received with uncommon avidity in France, Italy, Germany, Holland, and, in short, through every part of the Continent where the French language is understood. In England, besides a very considerable number first imported, it has been already twice reprinted; but how much soever the world might be delighted with the original, I found it to be the general opinion of my countrymen, that it was one of those books which could not possibly be translated with any tolerable degree of justice to the author: and this general opinion, I own, was my chief motive for undertaking the work.
+
+There are, in this great city, a considerable number of industrious labourers, who maintain themselves, and perhaps a numerous family, by writing for the booksellers, by whom they are ranged in separate classes, according to their different abilities; and the very lowest class of all, is that of <i>Translators</i>.Now it cannot be supposed that such poor wretches as are deemed incapable of better employment, can be perfectly acquainted either with their own or with any other language: besides, were they ever so well qualified, it becomes their duty to execute as much work, in as little time, as possible; for, at all events, their children must have bread: therefore it were unreasonable to expect that they should spend their precious moments in poring over a difficult sentence in order to render their version the more elegant. This I take to be the true reason why our translations from the French are, in general, so extremely bad.
+
+I confess, the idioms of the two languages are very different, and therefore that it will, in some instances, be impossible to reach the sublime delicacy of expression in an elegant French writer; but in return, their language is frequently so vague and diffuse, that it must be entirely the fault of the English translator if he does not often improve upon his original; but this will never be the case, unless we sit down with a design to translate the <i>ideas</i> rather than the <i>words</i> of our author.
+
+Most of the translations which I have read, appear like a thin gauze spread over the original: the French language appears through every paragraph; but it is entirely owing to the want of bread, the want of attention, or want of ability in the translator. Mr. Pope, and some few others, have shewn the world, that not only the ideas of the most sublime writers may be accurately expressed in a translation, but that it is possible to improve and adorn them with beauties peculiar to the English language.If in the following pages, the reader expects to find a servile, literal, translation, he will be mistaken. I never could, and never will, copy the failings of my author, be his reputation ever so great, in those instances where they evidently proceed from want of attention. Mr. Rousseau writes with great ease and elegance, but he sometimes wants propriety of thought, and accuracy of expression.
+
+As to the real merit of this performance, the universal approbation it has met with is a stronger recommendation than any thing I could say in its praise.
+
+A Dialogue Between a Man of Letters and Mr. J. J. Rousseau
+
+N. There, take your Manuscript: I have read it quite through.
+
+R. <i>Quite through?</i> I understand you: you think there are not many readers will follow your example.
+
+N. <i>Vel duo, vel nemo.</i>
+
+R. <i>Turpe & miserabile.</i> But let me have your sincere opinion.
+
+N. I dare not.
+
+R. You have dared to the utmost by that single word: Pray explain yourself.N. My opinion depends upon your answer to this question: is it a real, or fictitious, correspondence?
+
+R. I cannot perceive the consequence. In order to give one’s sentiments of a book, of what importance can it be to know how it was written?
+
+N. In this case it is of great importance. A portrait has its merit if it resembles the original, be that original ever so strange; but in a picture which is the produce of imagination, every human figure should resemble human nature, or the picture is of no value: yet supposing them both good in their kind, there is this difference, the portrait is interesting but to a few people, whilst the picture will please the public in general.
+
+R. I conceive your meaning. If these letters are portraits, they are uninteresting; if they are pictures, they are ill done. Is it not so?
+
+N. Precisely.
+
+R. Thus I shall snatch your answers before you speak. But, as I cannot reply, directly to your question, I must beg leave to propose one in my turn. Suppose the worst: my Eloisa----
+
+N. Oh! if she had really existed.
+
+R. Well.N. But certainly it is no more than a fiction.
+
+R. Be it so.
+
+N. Why then, there never was any thing more absurd: the letters are no letters, the romance is no romance, and the personages are people of another world.
+
+R. I am sorry for it, for the sake of this.
+
+N. Console yourself; there is no want of fools among us; but yours have no existence in nature.
+
+R. I could----No, I perceive the drift of your curiosity. But why do you judge so precipitately? Can you be ignorant how widely human nature differs from itself? how opposite its characteristics? how prejudice and manners vary according to times, places, and age. Who is it that can prescribe bounds to nature and say, Thus far shalt thou go, and no farther?
+
+N. If such reasoning were allowed, monsters, giants, pygmies and chimeras of all kinds might be specifically admitted into nature: every object would be disfigured, and we should have no common model of ourselves. I repeat it, in a picture of human nature, every figure should resemble man.
+
+R. I confess it; but then we should distinguish between the variety in human nature and that which is essential to it. What would you say of one who should only be able to know mankind in the picture of a Frenchman?N. What would you say of one who, without expressing features or shape, should paint a human figure covered with a veil? Should we not have reason to ask, where is the man?
+
+R. Without expressing features or shape? Is this just? There is no perfection in human nature: that is indeed chimerical. A young virgin in love with virtue, yet swerving from its dictates, but reclaimed by the horror of a greater crime; a too easy friend punished at last by her own heart for her culpable indulgence; a young man, honest and sensible, but weak, yet in words a philosopher; an old gentleman bigotted to his nobility, and sacrificing every thing to opinion; a generous and brave Englishman, passionately wise, and, without reason, always reasoning.
+
+N. A husband, hospitable and gay, eager to introduce into his family his wife’s quondam paramour.
+
+R. I refer you to the inscription of the plate. [1]
+
+N. <i>Les belles ames</i>----Vastly fine!
+
+R. O philosophy! What pains thou takest to contract the heart and lessen human nature!
+
+N. It is fallaciously elevated by a romantic imagination. But to the point. The two friends----What do you say of them?----and that sudden conversion at the altar?----divine grace, no doubt.----R. But Sir.
+
+N. A pious Christian, not instructing her children in their catechism; who dies without praying; whose death nevertheless edifies the parson, and converts an Atheist----Oh!
+
+R. Sir----
+
+N. As to the reader being interested, his concern is universal, and therefore next to none. Not one bad action; not one wicked man to make us fear for the good. Events so natural, and so simple, that they scarce deserve the name of events; no surprize; no dramatic artifice; every thing happens just as it was expected. Is it worth while to register such actions as every man may see any day of his life in his own house or in that of his neighbour?
+
+R. So that you would have common men, and _un_common events? Now I should rather desire the contrary. You took it for a romance: it is not a romance: but, as you said before, a collection of letters.
+
+N. Which are no letters at all: this, I think, I said also. What an epistolary stile! how full of bombast! What exclamations! What preparation! How emphatical to express common ideas! What big words and weak reasoning! Frequently neither sense, accuracy, art, energy, nor depth. Sublime language and groveling thoughts. If your personages are in nature, confess, at least, that their stile is unnatural.R. I own that in the light in which you are pleased to view them, it must appear so.
+
+N. Do you suppose the public will not judge in the same manner; and did you not ask my opinion?
+
+R. I did, and I answer you with a design to have it more explicitly: now it appears that you would be better pleased with letters written on purpose to be printed.
+
+N. Perhaps I might; at least I am of opinion that nothing should be printed which is not fit for the press.
+
+R. So that in books we should behold mankind only as they chuse to appear.
+
+N. Most certainly, as to the author; those whom he represents, such as they are. But in these letters this is not the case. Not one strong delineation; not a single personage strikingly characterized; no solid observations; no knowledge of the world. What can be learnt in the little sphere of two or three lovers or friends constantly employed in matters only relative to themselves?
+
+R. We may learn to love human nature, whilst in extensive society we learn to hate mankind. Your judgment is severe; that of the public ought to be still more so. Without complaining of injustice, I will tell you, in my turn, in what light these letters appear to me; not so much to excuse their defects, as to discover their source.The perceptions of persons in retirement are very different from those of people in the great world; their passions being differently modified, are differently exprest; their imaginations constantly imprest by the same objects, are more violently affected. The same small number of images constantly return, mix with every idea, and create those strange and false notions so remarkable in people who spend their lives in solitude; but does it follow that their language is energic? No; ’tis only extraordinary: it is in our conversation with the world that we learn to speak with energy; first, because we must speak differently and better than others, and then, being every moment obliged to affirm what may not be believed, and to express sentiments which we do not feel, we endeavour at a persuasive manner which supplies the place of interior persuasion. Do you believe that people of real sensibility express themselves with that vivacity, energy, and ardor which you so much admire in our drama and romances? No; true passion, full of itself, is rather diffusive than emphatical; it does not even think of persuasion, as it never supposes that its existence can be doubtful. In expressing its feelings it speaks rather for the sake of its own ease, than to inform others. Love is painted with more vivacity in large cities, but is it in the village therefore less violent?
+
+N. So that the weakness of the expression is a proof of the strength of their passion.R. Sometimes, at least, it is an indication of its reality. Read but a love letter written by an author who endeavours to shine as a man of wit; if he has any warmth in his brain, his words will set fire to the paper; but the flame will spread no farther: you may be charmed, and perhaps a little moved, but it will be a fleeting agitation which will leave nothing except the remembrance of words. On the contrary, a letter really dictated by love, written by a lover influenced by a real passion, will be tame, diffuse, prolix, unconnected, and full of repetitions: his heart overflowing with the same sentiment, constantly returns to the same expressions, and like a natural fountain flows continually without being exhausted. Nothing brilliant, nothing remarkable; one remembers neither words nor phrases; there is nothing to be admired, nothing striking: yet we are moved without knowing why. Though we are not struck with strength of sentiment, we are touched with its truth, and our hearts, in spite of us, sympathize with the writer. But men of no sensibility, who know nothing more than the flowery jargon of the passions, are ignorant of those beauties and despise them.
+
+N. I am all attention.
+
+R. Very well. I say, that in real love letters, the thoughts are common, yet the stile is not familiar. Love is nothing more than an illusion; it creates for itself another universe; it is surrounded with objects which have no existence but in imagination, and its language is always figurative; but its figures are neither just nor regular: its eloquence consists in its disorder, and when it reasons least it is most convincing. Enthusiasm is the last degree of this passion.When it is arrived at its greatest height, its object appears in a state of perfection; it then becomes its idol; it is placed in the heavens; and as the enthusiasm of devotion borrows the language of love, the enthusiasm of love also borrows the language of devotion. Its ideas present nothing but Paradise, angels, the virtue of saints, and the delights of heaven. In such transport, surrounded by such images, is it not natural to expect sublime language? Can it possibly debase its ideas by vulgar expressions? Will it not on the contrary raise its stile, and speak with adequate dignity? What then becomes of your <i>epistolary stile?</i> it would do mighty well, to be sure, in writing to the object of one’s adoration: in that case they are not letters, but hymns.
+
+N. We shall see what the world will say.
+
+R. No: rather see the winter on my head. There is an age for experience, and another for recollection. Our sensibility may be extinguished by time; but the soul which was once capable of that sensibility remains. But to return to our letters: if you read them as the work of an author who endeavours to please, or piques himself on his writing, they are certainly detestable. But take them for what they are, and judge of them in their kind. Two or three young people, simple, if you will, but sensible, who mutually expressing the real sentiments of their hearts, have no intention to display their wit. They know and love each other too well for self-admiration to have any influence among them. They are children, and therefore think like children. They are not natives of France, how then can they be supposed to write correctly? They lived in solitude, and therefore could know but little of the world.Entirely filled with one single sentiment, they are in a constant delirium, and yet presume to philosophise. Would you have them know how to observe, to judge, and to reflect? No: of these they are ignorant; but they are versed in the art of love, and all their words and actions are connected with that passion. Their ideas are extravagant, but is not the importance which they give to these romantic notions more amusing than all the wit they could have displayed. They speak of every thing; they are constantly mistaken; they teach us nothing, except the knowledge of themselves; but in making themselves known, they obtain our affection. Their errors are more engaging than the wisdom of the wise. Their honest hearts, even in their transgressions, bear still the prejudice of virtue, always confident and always betrayed. Nothing answers their expectations; every event serves to undeceive them. They are deaf to the voice of discouraging truth: they find nothing correspond with their own feelings, and therefore, detaching themselves from the rest of the universe, they create, in their separate society, a little world of their own, which presents an entire new scene.
+
+N. I confess, that a young fellow of twenty, and girls of eighteen, though not; uninstructed, ought not to talk like philosophers, even though they may suppose themselves such. I own also, for this distinction has not escaped me, that these girls became wives of merit, and the young man a better observer. I make no comparison between the beginning and the end of the work. The detail of domestic occurrences may efface, in some measure, the faults of their younger years: the chaste and sensible wife, the worthy matron, may obliterate the remembrance of former weakness.But even this is a subject for criticism: the conclusion of the work renders the beginning reprehensible: one would imagine them to be two different books, which ought not to be read by the same people. If you intended to exhibit rational personages, why would you expose them before they were become so? Our attention to the lessons of wisdom is destroyed by the child’s play by which they are preceded: we are scandalized at the bad, before the good can edify us. In short, the reader is offended and throws the book aside in the very moment when it might become serviceable.
+
+R. On the contrary, I am of opinion, that to those who are disgusted with the beginning, the end would be entirely superstitious: and that the beginning will be agreeable to those readers to whom the conclusion can be useful. So that, those who do not read to the end will have left nothing, because it was an improper book for them; and those to whom it may be of service would never have read it, if it had begun with more gravity. Our lessons can never be useful unless they are so written as to catch the attention of those for whose benefit they were calculated.
+
+I may have changed the means, and not the object. When I endeavoured to speak to <i>men</i>, I was not heard; perhaps in speaking to children I shall gain more attention; and children would have no more relish for naked reason, than for medicines ill disguised.
+
+_Cosi all’ egro fanciul porgiamo aspersi
+Di soave licor gl’orli del vaso;
+Succhi amari ingannato in tanto ei beve,E da l’ inganno suo vita riceve._
+
+N. Here again I am afraid you are deceived: they will sip on the edge of the vessel, but will not drink the liquor.
+
+R. Be it so; it will not be my fault: I shall have done all in my power to make it palatable. My young folks are amiable; but to love them at thirty it is necessary to have known them when they were ten years younger: One must have lived with them a long time to be pleased with their company; and to taste their virtues, it is necessary we should first have deplored their failings. Their letters are not interesting at first; but we grow attached by degrees, and can neither continue nor quit them. They are neither elegant, easy, rational, sensible, nor eloquent; but there is sensibility which gradually communicates itself to our hearts, and which at last is found to supply the place of all the rest. It is a long romance, of which no one part has power to move us, and yet the whole produces a proper effect. At least, such were its effects upon me: pray were not you touched in reading it?
+
+N. No; yet I can easily conceive your being affected: if you are the author, nothing can be more natural; and if not, I can still account for it. A man of the world can have no taste for the extravagant ideas, the affected pathos, and false reasoning of your good folks; but they will suit a recluse, for the reason which you have given: now, before you determine to publish the manuscript, you would do well to remember that the world is not composed of hermits.All you can expect is that your young gentleman will be taken for a Celadon, your Lord B---- for a Don Quixote, your young damsels for two Astreas, and that the world will laugh at them for a company of fools. But a continued folly cannot be entertaining. A man should write like Cervantes before he can expect to engage his reader to accompany him through six volumes of nonsense.
+
+R. The very reason which would make you suppress this work, will induce me to print it.
+
+N. What! the certainty of its not being read?
+
+R. A little patience, and you will understand me. As to morals, I believe that all kinds of reading are useless to people of the world: first, because the number of new books which they run through, so generally contradict each other, that their effect is reciprocally destroyed. The few choice books which deserve a second perusal, are equally ineffectual: for, if they are written in support of received opinions, they are superfluous; and if in opposition, they are of no use; they are too weak to break the chain which attaches the reader to the vices of society. A man of the world may possibly, for a moment, be led from his wonted path by the dictates of morality; but he will find so many obstacles in the way, that he will speedily return to his former course. I am persuaded there are few people, who have had a tolerable education, that have not made this essay, at least once in their lives; but, finding their efforts vain, they are discouraged from any future attempt, and consider the morality of books as the jargon of idleness. The farther we retreat from business, great cities, and numerous societies, the more the obstacles to morality diminish.There is a certain point of distance where these obstacles cease to be insurmountable and there it is that books may be of use. When we live in solitude, as we do not then read with a design to display our reading, we are less anxious to change our books, and bestow on them more reflection; and as their principles find less opposition from without, their internal impression is more effectual. In retirement, the want of occupation, obliges those who have no resource in themselves, to have recourse to books of amusement. Romances are more read in the provincial towns than at Paris, in towns less than in the country, and there they make the deepest impression: the reason is plain.
+
+Now it happens unfortunately that the books which might amuse, instruct, and console the people in retirement, who are unhappy only in their own imagination, are generally calculated to make them still more dissatisfied with their situation. People of rank and fashion are the sole personages of all our romances. The refined taste of great cities, court maxims, the splendour of luxury, and epicurean morality; these are their precepts, these their lesson of instruction. The colouring of their false virtues tarnishes their real ones. Polite manners are substituted for real duties, fine sentiments for good actions, and virtuous simplicity is deemed want of breeding.
+
+What effect must such representations produce in the mind of a country gentleman, in which his freedom and hospitality is turned into ridicule, and the joy which he spreads through his neighbourhood is pronounced to be a low and contemptible amusement?What influence must they not have upon his wife, when she is taught, that the care of her family is beneath a lady of her rank; and on his daughter, who being instructed in the jargon and affectation of the city, disdains for his clownish behaviour, the honest neighbour whom she would otherwise have married. With one consent, ashamed of their rusticity, and disgusted with their village, they leave their ancient mansion, which soon becomes a ruin, to reside in the metropolis; where the father, with his cross of St. Lewis, from a gentleman becomes a sharper; the mother keeps a gaming house; the daughter amuses herself with a circle of gamesters: and frequently all three, after having led a life of infamy, die in misery and dishonour.
+
+Authors, men of letters, and philosophers are constantly insinuating, that in order to fulfil the duties of society, and to serve our fellow creatures, it is necessary that we should live in great cities: according to them, to fly from Paris, is to hate mankind; people in the country are nobody in their eyes; to hear them talk, one would imagine that where there are no pensions, academies, nor open tables, there is no existence.
+
+All our productions verge to the same goal. Tales, romances, comedies, all are levelled at the country; all conspire to ridicule rustic simplicity; they all display and extol the pleasures of the great world; it is a shame not to know them; and not to enjoy them, a misfortune. How many of those sharpers and prostitutes, with which Paris is so amply provided, were first seduced by the expectations of these imaginary pleasures?Thus prejudice and opinion contribute to effect the political system by attracting the inhabitants of each country to a single point of territory, leaving all the rest a desert: thus nations are depopulated, that their capitals may flourish; and this frivolous splendor with which fools are captivated, makes Europe verge with celerity towards its ruin. The happiness of mankind requires that we should endeavour to stop this torrent of pernicious maxims. The employment of the clergy is to tell us that we must be good and wise, without concerning themselves about the success of their discourses; but a good citizen, who is really anxious to promote virtue, should not only tell us to be good, but endeavour to make the path agreeable which will lead us to happiness.
+
+N. Pray, my good friend, take breath for a moment. I am no enemy to useful designs; and I have been so attentive to your reasoning, that I believe it will be in my power to continue your argument. You are clearly of opinion, that to give to works of imagination the only utility of which they are capable, they must have an effect diametrically opposite to that which their authors generally propose; they must combat every human institution, reduce all things to a state of nature, make mankind in love with a life of peace and simplicity, destroy their prejudices and opinions, inspire them with a taste for true pleasure, keep them distant from each other, and instead of exciting people to crowd into large cities, persuade them to spread themselves all over the kingdom, that every part may be equally enlivened.I also comprehend, that it is not your intention to create a world of Arcadian shepherds, of illustrious peasants labouring on their own acres and philosophising on the works of nature, nor any other romantic beings which exist only in books; but to convince mankind that in rural life there are many pleasures which they know not how to enjoy; that these pleasures are neither so insipid nor so gross as they imagine; that they are susceptible of taste and delicacy; that a sensible man, who should retire with his family into the country, and become his own farmer, might enjoy more rational felicity, than in the midst of the amusements of a great city; that a good housewife may be a most agreeable woman, that she may be as graceful and as charming as any town coquet of them all; in short, that the most tender sentiments of the heart will more effectually animate society, than the artificial language of polite circles, where the ill-natured laugh of satyr is the pitiful substitute of that real mirth which no longer exists. Have I not hit the mark?
+
+R. ’Tis the very thing; to which I will add but one reflection. We are told that romances disturb the brain: I believe it true. In continually displaying to the reader the ideal charms of a situation very different from his own, he becomes dissatisfied, and makes an imaginary exchange for that which he is taught to admire. Desiring to be that which he is not, he soon believes himself actually metamorphosed, and so becomes a fool. If, on the contrary, romances were only to exhibit the pictures of real objects, of virtues and pleasures within our reach, they would then make us wiser and better.Books which are designed to be read in solitude, should be written in the language of retirement: if they are meant to instruct, they should make us in love with our situation; they should combat and destroy the maxims of the great world, by shewing them to be false and despicable, as they really are. Thus, Sir, a romance, if it be well written, or at least if it be useful, must be hissed, damned, and despised by the polite world, as being a mean, extravagant and ridiculous performance; and thus what is folly in the eyes of the world is real wisdom.
+
+N. Your conclusion is self-evident. It is impossible better to anticipate your fall, nor to be better prepared to fall with dignity. There remains but one difficulty. People in the country, you know, take their cue from us. A book calculated for them must first pass the censure of the town: if we think fit to damn it, its circulation is entirely stopt. What do you say to that?
+
+R. The answer is quite simple. You speak of <i>wits</i> who reside in the country; whilst I would be understood to mean real country folks. You gentlemen who shine in the capital, have certain prepossessions of which you must be cured: you imagine that you govern the taste of all France, when in fact three fourths of the kingdom do not know that you exist. The books which are damned at Paris often make the fortune of country booksellers.
+
+N. But why will you enrich them at the expense of ours?R. Banter me as you please, I shall persist. Those who aspire to fame must calculate their works for the meridian of Paris; but those who write with a view to do good, must write for the country. How many worthy people are there who pass their lives in cultivating a few paternal acres, far distant from the metropolis, and who think themselves exiled by the partiality of fortune? During the long winter evenings, deprived of society, they pass the time in reading such books of amusement as happen to fall into their hands. In their rustic simplicity they do not pride themselves on their wit or learning; they read for entertainment rather than instruction; books of morality and philosophy are entirely unknown to them. As to your romances, they are so far from being adapted to their situation, that they serve only to render it insupportable. Their retreat is represented to be a desert, so that whilst they afford a few hours amusement, they prepare for them whole months of regret and discontent. Why may I not suppose that, by some fortunate accident, this book, like many others of still less merit, will fall into the hands of those inhabitants of the fields, and that the pleasing picture of a life exactly resembling theirs will render it more tolerable? I have great pleasure in the idea of a married couple reading this novel together, imbibing fresh courage to support their common labours, and perhaps new designs to render them useful. How can they possibly contemplate the representation of a happy family without attempting to imitate the pleasing model? How can they be affected with the charms of conjugal union, even where love is wanting, without increasing and confirming their own attachment?In quitting their book, they will neither be discontented with their situation, nor disgusted at their labour: on the contrary, every object around them will assume a more delightful aspect, their duties will seem ennobled, their taste for the pleasures of nature will revive; her genuine sensations will be rekindled in their hearts, and perceiving happiness within their reach, they will learn to taste it as they ought: they will perform the same functions, but with another soul; and what they did before as peasants only, they will now transact as real patriarchs.
+
+N. So far, you sail before the wind. Husbands, wives, matrons----but with regard to young girls; d’ye say nothing of those?
+
+R. No. A modest girl will never read books of love. If she should complain of having been injured by the perusal of these volumes, she is unjust: she has lost no virtue; for she had none to lose.
+
+N. Prodigious! attend to this, all ye amorous writers; for thus ye are all justified.
+
+R. Provided they are justified by their own hearts and the object of their writings.
+
+N. And is that the case with you?
+
+R. I am too proud to answer to that question; but Eloisa had a certain rule by which she formed her judgment of books:[2] if you like it, use it in judging of this. Authors have endeavoured to make the reading of romances serviceable to youth. There never was a more idle project. It is just setting fire to the house in order to employ the engines. Having conceived this ridiculous idea, instead of directing the moral of their writings towards its proper object, it is constantly addressed to young girls, [3] without considering that these have no share in the irregularities complained of. In general, though their hearts may be corrupted, their conduct is blameless. They obey their mothers in expectation of the time when it will be in their power to imitate them. If the wives do their duty, be assured the girls will not be wanting in theirs.
+
+N. Observation is against you in this point. The whole sex seem to require a time for libertinism, either in one state or the other. It is a bad leaven, which must ferment soon or late. Among a civilized people the girls are easy, and the wives difficult, of access; but where mankind are less polite, it is just the reverse: the first consider the crime only, the latter the scandal. The principal question is, how to be left secured from the temptation: as to the crime it is of no consideration.
+
+R. If we were to judge by its consequences, one would be apt to be of another opinion. But let us be just to the women: the cause of their irregularities are less owing to themselves, than to our bad institutions. The extreme inequality in the different members of the same family must necessarily stifle the sentiments of nature. The vices and misfortunes of children are owing chiefly to the father’s unnatural despotism.A young wife, unsuitably espoused, and a victim to the avarice or vanity of her parents, glories in effacing the scandal of her former virtue by her present irregularities. If you would remedy this evil, proceed to its source. Public manners can only be reformed by beginning with private vices, which naturally arise from parents. But our reformers never proceed in this manner. Your cowardly authors preach only to the oppressed; and their morality can have no effect, because they have not the art to address the most powerful.
+
+N. You, Sir, however run no risk of being accused of servility; but may you not possibly be too sincere? In striking at the root of this evil, may you not be the cause of more----
+
+R. Evil? to whom? In times of epidemical contagion, when all are infected from their infancy, would it be prudent to hinder the distribution of salutary medicines under a pretence that they might do harm to people in health? You and I, Sir, differ so widely on this point, that if it were reasonable to expect that these letters can meet with any success, I am persuaded they will do more good than a better book.
+
+N. Certainly your females are excellent preachers. I am pleased to see you reconciled with the ladies; for I was really concerned when you imposed silence on the sex. [4]
+
+R. You are too severe; I must hold my tongue: I am neither so wise nor so foolish as to be always in the right. Let us leave this bone for the critics.N. With all my heart, lest they should want one. But suppose you had nothing to fear from any other quarter, how will you excuse to a certain severe censor of the stage, those warm descriptions, and impassioned sentiments, which are so frequent in those letters? Shew me a scene in any of our theatrical pieces equal to that in the wood at Clarens, or that of the dressing room. Read the letter on theatrical amusements; read the whole collection. In short, be confident, or renounce your former opinions. What would you have one think?
+
+R. I would have the critics be confident with themselves, and not judge till they have thoroughly examined. Let me intreat you to read once more with attention the parts you have mentioned; read again the preface to <i>Narcisse</i>, and you will there find an answer to the accusation of inconsistency. Those forward gentlemen who pretend to discover that fault in the <i>Devin du Village</i>, will undoubtedly think it much more glaring in this work. They will only act in character; but you----
+
+N. I recollect two passages. [5] You do not much esteem your cotemporaries.
+
+R. Sir, I am also their cotemporary! O why was I not born in an age in which I ought to have burnt this collection!
+
+N. Extravagant as usual! however, to a certain degree, your maxims are just. For instance; if your Eloisa had been chaste from the beginning, she would have afforded us less instruction; for to whom would she have served as a model?In the most corrupt ages mankind are fond of the most perfect lessons of morality: theory supplies the place of practice, and at the small expense of a little leisure reading, they satisfy the remnant of their taste for virtue.
+
+R. Sublime authors, relax a little your perfect models, if you expect that we should endeavour to imitate them. To what purpose do you vaunt unspotted purity? rather shew us that which may be recovered, and perhaps there are some who will attend to your instructions.
+
+N. Your young hero has already made those reflections; but no matter, you would be thought no less culpable in having shewn us what <i>is done</i>, in order to shew what <i>ought to be done</i>. Besides, to inspire the girls with love, and to make wives reserved, is overturning the order of things, and recalling those trifling morals which are now totally proscribed by philosophy. Say what you will, it is very indecent, nay scandalous for a girl to be in love: nothing but a husband can authorise a lover. It was certainly very impolitic to be indulgent to the unmarried ladies, who are not allowed to read you, and severe upon the married ones, by whom you are to be judged. Believe me, if you were fearful of success, you may be quite easy: you have taken sufficient care to avoid an affront of that nature. Be it as it may, I shall not betray your confidence. I hope your imprudence will not carry you too far. If you think you have written a useful book, publish it; but by all means conceal your name.
+
+R. Conceal my name! Will an honest man speak to the public from behind a curtain? Will he dare to print what he does not dare to own? I am the editor of this book, and I shall certainly fix my name in the title page.N. Your name in the title-page!
+
+R. Yes, Sir, in the title-page.
+
+<b>V. You are surely in jest.</b>
+
+R. I am positively in earnest.
+
+N. What your real name? <i>Jean Jacques Rousseau</i>, at full length?
+
+R. <i>Jean Jacques Rousseau</i> at full length.
+
+N. You surely don’t think. What will the world say of you?
+
+R. What they please. I don’t print my name with a design to pass for the author, but to be answerable for the book. If it contains any thing bad, let it be imputed to me; if good, I desire no praise. If the work in general deserves censure, there is so much more reason for prefixing my name. I have no ambition to pass for better than I am.
+
+N. Are you content with that answer?
+
+R. Yes, in an age when it is impossible for any one to be good.
+
+N. Have you forgot <i>les belles ames?</i>R. By nature <i>belles</i>, but corrupted by your institutions.
+
+N. And so we shall behold, in the title-page of a book of love- epistles, by <i>J.J. Rousseau, Citizen of Geneva!</i>
+
+R. No, not <i>Citizen of Geneva</i>. I shall not profane the name of my country. I never prefix it, but to those writings by which I think it will not be dishonoured.
+
+N. Your own name is no dishonourable one, and you have some reputation to lose. This mean and weak performance will do you no service. I wish it was in my power to dissuade you; but if you are determined to proceed, I approve of your doing it boldly and with a good grace. At least this will be in character. But a propos; do you intend to prefix your motto?
+
+R. My bookseller asked me the same question, and I thought it so humorous that I promised to give him the credit of it. No, Sir, I shall not prefix my motto to this book; nevertheless, I am now less inclined to relinquish it than ever. Remember that I thought of publishing those letters at the very time when I wrote against the theatres, and that a desire of excusing one of my writings, has not made me disguise truth in the other. I have accused myself before hand, perhaps, with more severity than any other person will accuse me. He who prefers truth to fame, may hope to prefer it to life itself. You say that we ought to be confident: I doubt whether that be possible to man, but it is not impossible to act with invariable truth. This I will endeavour to do.N. Why then, when I ask whether you are the author of these letters, do you evade the question?
+
+R. I will not lie, even in that case.
+
+N. But you refuse to speak the truth.
+
+R. It is doing honour to truth to keep it secret. You would have less difficulty with one who made no scruple of a lie. Besides, you know men of taste are never mistaken in the pen of an author. How can you ask a question which it is your business to resolve?
+
+N. I have no doubt with regard to some of the letters; they are certainly yours: but in others you are quite invisible, and I much doubt the possibility of disguise in this case. Nature, who does not fear being known, frequently changes her appearance; but art is often discovered, by attempting to be too natural. These epistles abound with faults, which the most arrant scribbler would have avoided. Declamation, repetitions, contradictions, &c. In short, it is impossible that a man, who can write better, could ever resolve to write so ill. What man in his senses would have made that foolish Lord B---- advance such a shocking proposal to Eloisa? Or what author would not have corrected the ridiculous behaviour of his young hero, who though positively resolved to die, takes good care to apprize all the world of his intention, and finds himself at last in perfect health? Would not any writer have known that he ought to support his characters with accuracy, and vary his stile accordingly, and he would then infallibly have excelled even nature herself?I have observed that in a very intimate society, both stile and characters are extremely similar, and that when two souls are closely united, their thoughts, words, and actions will be nearly the same. This Eloisa, as she is represented, ought to be an absolute enchantress; all who approach her, ought immediately to resemble her; all her friends should speak one language; but these effects are much easier felt than imagined: and even if it were possible to express them, it would be imprudent to attempt it. An author must be governed by the conceptions of the multitude, and therefore all refinement is improper. This is the touch-stone of truth, and in this it is that a judicious eye will discover real nature.
+
+R. Well, and so you conclude----
+
+N. I do not conclude at all. I am in doubt, and this doubt has tormented me inexpressibly, during the whole time I spent in reading these letters. If it be all a fiction, it is a bad performance; but say that these two women have really existed, and I will read their epistles once a year to the end of my life.
+
+R. Strange! what signifies it whether they ever existed or not? They are no where to be found: they are no more.
+
+N. No more? So they actually did exist.
+
+R. The conclusion is conditional: if they ever did exist, they are now no more.N. Between you and I, these little subtilties are more conclusive than perplexing.
+
+R. They are such as you force me to use, that I may neither betray myself nor tell an untruth.
+
+N. In short, you may do as you think proper; your Title is sufficient to betray you.
+
+R. It discovers nothing relative to the matter in question; for who can tell whether I did not find this title in the manuscript? Who knows whether I have not the same doubts which you have? Whether all this mystery be not a pretext to conceal my own ignorance?
+
+N. But however you are acquainted with the scene of action. You have been at Vevey, in the <i>Pays de Vaud</i>?
+
+R. Often; and I declare that I never heard either of Baron D'Etange, or his Daughter. The name of Wolmar is entirely unknown in that country. I have been at Clarens, but never saw any house like that which is described in these letters. I passed through it in my return from Italy, in the very year when the sad catastrophe happened, and I found no body in tears for the death of Eloisa Wolmar. In short, as much as I can recollect of the country, there are, in these letters, several transpositions of places, and topographical errors, proceeding either from ignorance in the author, or from a design to mislead the reader.This is all you will learn from me on this point, and you may be assured that no one else shall draw any thing more from me.
+
+N. All the world will be as curious as I am. If you print this work, tell the public what you have told me. Do more, write this conversation as a Preface: it contains all the information necessary for the reader.
+
+R. You are in the right. It will do better than any thing I could say of my own accord. Though these kind of apologies seldom succeed.
+
+N. True, where the author spares himself. But I have taken care to remove that objection here. Only I would advise you to transpose the parts. Pretend that I wanted to persuade you to publish, and that you objected. This will be more modest, and will have a better effect.
+
+R. Would that be consistent with the character for which you praised me a while ago?
+
+N. It would not. I spoke with a design to try you. Leave things as they are.
+
+Advertisement
+
+<i>The following Dialogue was originally intended as a Preface to</i> Eloisa;_ but its form and length permitting me to prefix to that Work only a few extracts from it, I now publish it entire, in hopes that it will be found to contain some useful hints concerning Romances in general.Besides, I thought it proper to wait till the Book had taken its chance, before I discussed its inconveniences and advantages, being unwilling either to injure the Bookseller, or supplicate the indulgence of the Public._
+
+The following Account of this Work is taken from the <i>Journal des Sçavans</i> for June 1761, Printed at Paris.
+
+This work is a strange, but memorable monument of the eloquence of the passions, the charms of virtue, and the force of imagination. Unfeeling spirits may, as long as they please, remark and exaggerate the faults of which the author does not scruple to accuse himself in his two most singular prefaces; they may arraign him for frequent want of taste, call his stile unequal and incorrect, his sentiments too refined, and his paradoxes inexplicable; they may complain that his notes are ludicrous and misplaced, as they frequently break in upon a tender sentiment, a pathetic situation, and that in general they are nothing more than an anticipated parody on the objections, whether just or groundless, which the author seems to expect from certain critics; they may even attempt to undermine the foundation of the work, and accuse the author of cold prolixity in his description of the peace and happiness of Clarens, after the violent agitation of those grand movements by which it is preceded; they may be shocked with the useless and abortive passion of Clara for St. Preux, the negotiation begun concerning their marriage, the impenetrable, obscure, and consequently uninteresting amours of Lord B---- in Italy; they may think the author extravagant in the general choice of his events; but whatever may be the present and future judgment of the public,_Ut cumque ferent ea facta minores,
+Vincet Amor._
+
+What heart can be unaffected with the dangers, the misfortunes, the weakness, and the virtues of Eloisa? Who can possibly be insensible to the ardor of her lover, the vigilant, active, and impatient friendship of Clara, the noble and encouraging protection of Lord B----, the unshaken wisdom of Wolmar, and all these characters moved by the most extraordinary springs? Who can resist those torrents of pathetic language which penetrate the inmost soul, and so tyrannically command our tears; those master-strokes of simplicity which open the recesses of the human heart, and excite the pleasure of weeping sensibility? How can we help admiring his talent of giving life to every object, of transporting the reader in the middle of the scene, and engaging him as a party in every action, by the happy choice of incidents, and if I may be allowed the expression, by the use of words the most identical to the things intended to be described? Can there be a reader who is not enamoured of the soul of Eloisa? Can there be a reader who does not feel the loss of her as if she were his own, and who does not join in the general mourning at Clarens, and the despair of Clara on the death of her friend?
+
+A common author would have satisfied himself with giving us, once for all, a beautiful picture of his heroine, in which he would have shewn us, in one general point of view, the accomplishment of every duty, and the expansion of every sentiment, by loading our imagination with all the particular applications of this virtuous principle to every single event. Mr.Rousseau, on the contrary, in one continued adion, always before our eyes, displays his Eloisa fulfilling without study, and without the least confusion, all the duties of a wife, a friend, a daughter, a mother, and mistress of a family; so that we behold her constantly employed in these several situations, without confounding the rights of any of them; without favouring one at the expense of the other. He does not relate her actions, but makes her perform them in our sight, and by that means renders those things real, which in recital would appear hyperbolical, romantic, and incredible.
+
+In the great number of different pictures which the author has here collected, whether he paints the respectable simplicity of Valesian manners, the brilliant corruption of great cities, the restricted impatience of expecting love, the wildness of despair, or the pathetic regret of a generous passion after an extraordinary sacrifice; whether, in the interesting scene of Meillerie, he displays all the eloquence of genius, and every tender emotion of the heart; whether excited by the plausibility of logic he collects his whole strength to destroy the sophisms of false honour; whether Virtue herself thunders with her respectable and sublime voice against the crime of suicide justified by eloquence; we always find his manner properly adapted both to the subject and to the speaker, which renders the illusion compleat.
+
+Almost every trial which the soul can experience is represented either in the principal or accessory situations, or in the reflections. In short, the human soul is here penetrated and displayed in every point of view; so that every sensible heart may be certain of beholding itself in this mirror.The nature and form of this work will not allow of a regular extract. It consists entirely of a gradual unfolding of ideas and sensations which admit of no analysis, and which can be pursued only in the work itself. The author in the catastrophe imitates the happy artifice of the artist who painted the sacrifice of Iphigenia. Eloisa dies; they weep round her ashes. The author paints this universal grief; he paints the silent but sincere affliction of her husband, the affecting stupor of the father, the extravagant sorrow of her friend: and now the despair of her lover remains to be described; but that was inexpressible: the author wisely draws a veil before him, and leaves the rest to our imagination.
+
+The picture of Eloisa dying can be compared only to the scene of Alcestes expiring, in Euripides.
+
+Upon the whole, it were needless to say how much this work deserves to be read, since the eagerness of the Public hath already sufficiently prevented us. We cannot better express our approbation of a performance in which even vice itself breathes an air of virtue, than in the words of Eloisa, who in speaking of Lord B---- says, was there ever a man without faults who possessed great virtues? And in like manner we ask, whether there was ever a work without blemish which might boast of such penetrating and sublime beauties?
+
+Eloisa
+
+Volume I<b>Letter I. To Eloisa.</b>
+
+I must fly from you, madam, in truth I must. I am to blame for continuing with you so long, or rather, I ought never to have beheld you. But, situated as I am, what can I do? How shall I determine? You have promised me your friendship; consider my perplexity, and give me your advice.
+
+You are sensible that I became one of your family in consequence of an invitation from your mother. Believing me possessed of some little knowledge, she thought that I might be of service in the education of her beloved daughter, in a situation where proper masters were not to be obtained. Proud to be instrumental in adding a few embellishments to one of nature’s most beautiful compositions, I dared to engage in the perilous task, unmindful of the danger, or, at least, unapprehensive of the consequence. I will not tell you that I begin to suffer for my presumption. I hope I shall never so far forget myself as to say any thing which you ought not to hear, or fail in that respect which is due to your virtue, rather than to your birth or personal charms. If I must suffer, I have the consolation, at least, that I suffer alone. I can enjoy no happiness at the expense of yours.
+
+And yet I see you and converse with you every day of my life, and am but too sensible that you innocently aggravate a misfortune which you cannot pity, and of which you ought to be ignorant. It is true, I know what prudence would dictate, in a case like this, where there is no hope; and I should certainly follow her advice if I could reconcile it with my notions of probity.How can I with decency quit a family into which I was so kindly invited, where I have received so many obligations, and where, by the tenderest of mothers, I am thought of some utility to a daughter whom she loves more than all the world? How can I resolve to deprive this affectionate parent of the pleasure she proposes to herself in, one day, surprizing her husband with your progress in the knowledge of things of which he must naturally suppose you ignorant? Shall I impolitely quit the house without taking leave of her? Shall I declare to her the cause of my retreat, and would not she even have reason to be offended with this confession from a man whose inferior birth and fortune must for ever remain insuperable bars to his happiness?
+
+There seems but one method to extricate me from this embarrassment: the hand which involved me in it must also relieve me. As you are the cause of my offence, you must inflict my punishment: out of compassion, at least, deign to banish me from your presence. Shew my letter to your parents; let your doors be shut against me; spurn me from you in what manner you please; from you I can bear any thing; but of my own accord I have no power to fly from you.
+
+Spurn me from you! fly your presence! why? Why should it be a crime to be sensible of merit, and to love that which we cannot fail to honour? No, charming Eloisa; your beauty might have dazzled my eyes, but it never would have misled my heart, had it not been animated with something yet more powerful.It is that captivating union between a lively sensibility and invariable sweetness of disposition; it is that tender feeling for the distresses of your fellow creatures; it is that amazing justness of sentiment, and that exquisite taste which derive their excellence from the purity of your soul; they are, in short, your mental charms much more than those of your person, which I adore. I confess it may be possible to imagine beauties still more transcendently perfect; but more amiable, and more deserving the heart of a wise and virtuous man,----no, no, Eloisa, it is impossible.
+
+I am sometimes inclined to flatter myself that, as in the parity of our years, and similitude of taste, there is also a secret sympathy in our affections. We are both so young that our nature can hitherto have received no false bias from any thing adventitious, and all our inclinations seem to coincide. Before we have imbibed the uniform prejudices of the world, our general perceptions seem uniform; and why dare I not suppose the same concord in our hearts, which in our judgment is so strikingly apparent? Sometimes it happens that our eyes meet; involuntary sighs betray our feelings, tears steal from----O! my Eloisa! if this unison of soul should be a divine impulse----if heaven should have destined us----all the power on earth----Ah pardon me! I am bewildered: I have mistaken a vain wish for hope: the ardour of my desires gave to their imaginary object a solidity which did not exist. I foresee with horror the torments which my heart is preparing for itself. I do not seek to flatter my misfortune; if it were in my power I would avoid it. You may judge of the purity of my sentiments by the favour I ask. Destroy, if possible, the source of the poison that both supports and kills me.I am determined to effect my cure or my death, and I therefore implore your rigorous injunction, as a lover would supplicate your compassion.
+
+Yes, I promise, I swear, on my part, to do every thing within my power to recover my reason, or to bury my growing anxiety in the inmost recesses of my soul. But, for mercy’s sake, turn from me those lovely eyes that pierce me to the heart; suffer me no longer to gaze upon that face, that air, those arms, those hands, that engaging manner; disappoint the imprudent avidity of my looks; no longer let me hear that enchanting voice, which cannot be heard without emotion; be, alas! in every respect, another woman, that my soul may return to its former tranquillity.
+
+Shall I tell you, without apology? When we are engaged in the puerile amusements of these long evenings, you cruelly permit me, in the presence of the whole family, to increase a flame that is but too violent already. You are not more reserved to me than to any of the rest. Even yesterday you almost suffered me, as a forfeit, to take a kiss: you made but a faint resistance. Happily, I did not persist. I perceived by my increasing palpitation, that I was rushing upon my ruin, and therefore stopped in time. If I had dared to indulge my inclination, that kiss would have proved my last sigh, and I should have died the happiest of mortals.
+
+For heaven’s sake, let us quit those plays, since they may possibly be attended with such fatal consequences; even the most simple of them all is not without its danger. I tremble as often as our hands meet, and I know not how it happens, but they meet continually.I start the instant I feel the touch of your finger; as the play advances I am seized with a fever, or rather delirium; my senses gradually forsake me, and, in their absence, what can I say, what can I do, where hide myself, or how be answerable for my conduct?
+
+The hours of instruction are not less dangerous. Your mother, or your cousin, no sooner leave the room than I observe a change in your behaviour. You at once assume an air so serious, so cold, that my respect, and the fear of offending, destroys my presence of mind, and deprives me of my judgment: with difficulty and trembling, I babble over a lesson, which even your excellent talents are unable to pursue. This affected change in your behaviour is hurtful to us both: you confound me and deprive yourself of instruction, whilst I am entirely at a loss to account for this sudden alteration in a person naturally so even-tempered and reasonable. Tell me, pray tell me, why you are so sprightly in public, and so reserved when by ourselves? I imagined it ought to be just the contrary, and that one should be more or less upon their guard, in proportion to the number of spectators. But instead of this, when with me alone, you are ceremonious, and familiar when we join in mixed company. If you deign to be more equal, probably my torment will be less.
+
+If that compassion which is natural to elevated minds, can move you in behalf of an unfortunate youth, whom you have honoured with some share in your esteem; you have it in your power, by a small change in your conduct, to render his situation less irksome, and to enable him, with more tranquility, to support his silence and his sufferings:but if you find yourself not touched with his situation, and are determined to exert your power to ruin him, he will acquiesce without murmuring: he would rather, much rather, perish by your order, than incur your displeasure by his indiscretion. Now, though you are become mistress of my future destiny, I cannot reproach myself with having indulged the least presumptive hope. If you have been so kind as to read my letter, you have complied with all I should have dared to request, even though I had no refusal to fear.<b>Letter II. To Eloisa.</b>
+
+How strangely was I deceived in my first letter! instead of alleviating my pain, I have increased my distress by incurring your displeasure: and, alas! that, I find, is the least supportable of all misfortunes. Your silence, your cold, and reserved behaviour, but too plainly indicate my doom. You have indeed granted one part of my petition, but it was to punish me with the greater severity.
+
+_E poi ch’ amor di me vi fece accorta
+Fur i biondi capelli allor velati,
+E l’amorosi sguardo in se raccolto._
+
+You have withdrawn that innocent familiarity in public of which I foolishly complained; and in private you are become still more severe: you are so ingeniously cruel, that your complaisance is as intolerable as your refusal.
+
+Were it possible for you to conceive how much your indifference affects me, you would certainly think my punishment too rigorous. What would I not give to recall that unfortunate letter, and that I had born my former sufferings without complaint! So fearful am I of adding to my offence, that I should never have ventured to write a second letter, if I did not flatter myself with the hopes of expiating the crime I committed in the first. Will you deem it any satisfaction if I confess that I mistook my own intention? or shall I protest that I never was in love with you?----O! no; I can never be guilty of such a horrid perjury!The heart which is impressed with your fair image must not be polluted with a lye. If I am doomed to be unhappy----be it so. I cannot stoop to any thing mean or deceitful to extenuate my fault. My pen refuses to disavow the transgression of which my heart is but too justly accused.
+
+Methinks I already feel the weight of your indignation, and await its final consequence as a favour which I have some right to expect; for the passion which consumes me deserves to be punished, but not despised. For heaven’s sake, do not leave me to myself; condescend, at least, to determine my fate; deign to let me know your pleasure. I will obey implicitly whatever you think proper to command. Do you impose eternal silence? I will be silent as the grave. Do you banish me your presence? I swear that I will never see you more. Will my death appease you? that would be, of all, the least difficult. There are no terms which I am not ready to subscribe, unless they should enjoin me not to love you; yet even in that I would obey you if it were possible.
+
+A hundred times a day I am tempted to throw myself at your feet, bathe them with my tears, and to implore your pardon, or receive my death: but a sudden terror damps my resolution; my trembling knees want power to bend; my words expire upon my lips, and my soul finds no support against the dread of offending you.
+
+Was ever mortal in so terrible a situation! My heart is but too sensible of its offence, yet cannot cease to offend: my crime and my remorse conspire in its agitation, and, ignorant of my destiny, I am cruelly suspended between the hope of your compassion and the fear of punishment.But, no! I do not hope; I have no right to hope: I ask no indulgence, but that you will hasten my sentence. Let your just revenge be satisfied. Do you think me sufficiently wretched to be thus reduced to solicit vengeance on my own head? Punish me, it is your duty; but if you retain the least degree of compassion for me, do not, I beseech you, drive me to despair with those cold looks, and that air of reserve and discontent. When once a criminal is condemned to die, all resentment should cease.<b>Letter III. To Eloisa.</b>
+
+Do not be impatient, madam; this is the last importunity you will receive from me. Little did I apprehend, in the dawn of my passion, what a train of ills I was preparing for myself! I then foresaw none greater than that a hopeless passion, which reason, in time, might overcome; but I soon experienced one much more intolerable in the pain which I felt at your displeasure, and now the discovery of your uneasiness is infinitely more afflicting than all the rest. O Eloisa! I perceive it with bitterness of soul, my complaints affect your peace of mind. You continue invincibly silent; but my heart is too attentive not to penetrate into the secret agitations of your mind. Your eyes appear gloomy, thoughtful, and fixed upon the ground; sometimes they wander and fall undesignedly upon me; your bloom fades; an unusual paleness overspreads your cheeks; your gaiety forsakes you; you seem oppressed with grief and the unalterable sweetness of your disposition alone enables you to preserve the shadow of your good humour.
+
+Whether it be sensibility, whether it be disdain, whether it be compassion for my sufferings, I see you are deeply affected. I fear to augment your distress, and I am more unhappy on this account, than flattered with the hope it might possibly occasion; for, if I know myself, your felicity is infinitely dearer to me than my own.
+
+I now begin to be sensible that I judged very erroneously of the feelings of my heart, and, too late, I perceive, that what I at first took for a fleeting phrenzy, is but too inseparably interwoven with my future destiny.It is your late melancholy that has made the increasing progress of my malady apparent. The lustre of your eyes, the delicate glow of your complexion, your excellent understanding, and all the enchantment of your former vivacity, could not have affected me half so much as your present manifest dejection. Be assured, divine maid, if it were possible for you to feel the intolerable flame, which your last eight pensive days of languor and discontent have kindled in my soul, you yourself would shudder at the misery you have caused. But there is now no remedy: my despair whispers, that nothing but the cold tomb will extinguish the raging fire within my breast.
+
+Be it so: he that cannot command felicity may at least deserve it. You may possibly be obliged to honour with your esteem the man whom you did not deign to answer. I am young, and may, perchance, one day, merit the regard of which I am now unworthy. In the mean time, it is necessary that I should restore to you that repose which I have lost for ever, and of which you are, by my presence, in spite of myself, deprived. It is but just that I alone should suffer, since I alone am guilty. Adieu, too, too charming Eloisa! Resume your tranquillity, and be again happy. Tomorrow I am gone for ever. But be assured, that my violent, spotless passion for you, will end only with my life; that my heart, full of so divine an object, will never debase itself by admitting a second impression; that it will divide all its future homage between you and virtue, and that no other flame shall ever profane the altar where Eloisa was adored.
+
+Billet I. From Eloisa.Be not too positive in your opinion that your absence is become necessary. A virtuous heart will overcome its folly, or be silent, and so might, perhaps, in time----But you----you may stay.
+
+Answer.
+
+I was a long time silent; your cold indifference forced me to speak at last. Virtue may possibly get the better of folly, but who can bear to be despised by one they love? I must be gone.
+
+Billet II. From Eloisa.
+
+No, Sir; after what you have seemed to feel; after what you have dared to tell me; a man, such as you feign yourself, will not fly; he will do more.
+
+Answer.
+
+I have feigned nothing except the <i>moderate</i> passion of a heart filled with despair. To-morrow you shall be satisfied; and notwithstanding all you can say, the effort will be less painful than to fly from you.
+
+Billet III. From Eloisa.
+
+Foolish youth! if my life be dear to thee, do not dare to attempt thy own. I am beset, and can neither speak nor write to you till to- morrow. Wait.<b>Letter IV. From Eloisa.</b>
+
+Must I then, at last, confess, the fatal, the ill-disguised, secret! How often have I sworn that it should never burst from my heart but with my life! Thy danger wrests it from me. It is gone, and my honour is lost for ever. Alas, I have but too religiously performed my vow; can there be a death more cruel than to survive one’s honour?
+
+What shall I say, how shall I break the painful silence? or rather, have I not said all, and am I not already too well understood? Alas! thou hast seen too much not to divine the rest; Imperceptibly deluded into the snare of the seducer, I see, without being able to avoid it, the horrid precipice before me. Artful man! It is not thy passion, but mine, that excites thy presumption. Thou observest the distraction of my soul; thou availest thyself of it to accomplish my ruin, and now that thou hast rendered me despicable, my greatest misfortune is, that I am forced to behold thee also in a despicable light. Ungrateful wretch! In return for my esteem, thou hast ruined me. Had I supposed thy heart capable of exulting, believe me, thou hadst never enjoyed this triumph.
+
+Well thou knowest, and it will increase thy remorse, that there was not in my soul one vicious inclination. My virtue and innocence were inexpressibly dear to me, and I pleased myself with the hopes of cherishing them in a life of industrious simplicity. But to what purpose my endeavour, since heaven rejects my offering? The very first day we met, I imbibed the poison which now infects my senses and my reason; I felt it instantly, and thy eyes, thy sentiments, thy discourse, thy guilty pen, daily increase its malignity.I have neglected nothing to stop the progress of this fatal passion. Sensible of my own weakness, how gladly would I have evaded the attack; but the eagerness of thy pursuit hath baffled my precaution. A thousand times I have resolved to cast myself at the feet of those who gave me being; a thousand times I have determined to open to them my guilty heart: but they can form no judgment of its condition; they would apply but common remedies to a desperate disease; my mother is weak and without authority; I know the inflexible severity of my father, and I should bring down ruin and dishonour upon myself, my family, and thee. My friend is absent, my brother is no more.
+
+I have not a protector in the world to save me from the persecution of my enemy. In vain I implore the assistance of heaven; heaven is deaf to the prayers of irresolution. Every thing conspires to increase my anxiety; every circumstance combines to abandon me to myself, or rather cruelly to deliver me up to thee; all nature seems thy accomplice; my efforts are vain, I adore thee in spite of myself. And shall that heart which, in its full vigour, was unable to resist, shall it only half surrender? Shall a heart which knows no dissimulation attempt to conceal the poor remains of its weakness? No, the first step was the most difficult, and the only one which I ought never to have taken. Shall I now pretend to stop at the rest? No, that first false step plunged me into the abyss, and my degree of misery is entirely in thy power.Such is my horrid situation, that I am forced to turn to the author of my misfortunes, and implore his protection against himself. I might, I know I might, have deferred this confession of my despair; I might, for some time longer, have disguised my shameful weakness, and by yielding gradually, have imposed upon myself. Vain dissimulation! which could only have flattered my pride, but could not save my virtue: away, away! I see but too plainly whither my first error tends, and shall not endeavour to prepare for, but to escape, perdition.
+
+Well then, if thou art not the very lowest of mankind, if the least spark of virtue lives within thy soul, if it retains any vestige of those sentiments of honour which seemed to penetrate thy heart, thou canst not possibly be so vile as to take any unjust advantage of a confession forced from me by a fatal distraction of my senses. No, I know thee well; thou wilt support my weakness, thou wilt become my safeguard, thou wilt defend my person against my own heart. Thy virtue is the last refuge of my innocence; my honour dares confide in thine, for thou canst not preserve one without the other. Ah! let thy generous soul preserve them both, and, at leas, for thy own sake, be merciful.
+
+Good God! am I thus sufficiently humbled? I write to thee on my knees; I bathe my paper with my tears; I pay to thee my timorous homage: and yet thou art not to believe me ignorant that it was in my power to have reversed the scene; and that, with a little art, which would have rendered me despicable in my own eyes, I might have been obeyed and worshipped. Take the frivolous empire, I relinquish it to my friend, but leave me, ah! leave me my innocence. I had rather live thy slave and preserve my virtue, than purchase thy disobedience at the price of my honour.Shouldst thou deign to hear me, what gratitude mayest thou not claim from her who will owe to thee the recovery of her reason? How charming must be the tender union of two souls unacquainted with guilt! Thy vanquished passions will prove the source of happiness, and thy pleasures will be worthy of heaven itself.
+
+I hope, nay I am confident, that the man to whom I have given my whole heart will not belie my opinion of his generosity; but I flatter myself also, if he is mean enough to take the least unseemly advantage of my weakness, that contempt and indignation will restore my senses, and that I am not yet sunk so low as to fear a lover for whom I should have reason to blush. Thou shalt be virtuous, or be despised; I will be respected, or be myself again; it is the only hope I have left, preferable to the hope of death.<b>Letter V. To Eloisa.</b>
+
+Celestial powers! I possessed a soul capable of affliction, O inspire me with one that can bear felicity! Divine love! spirit of my existence, O support me! for I sink down opprest with extasy. How inexpressible are the charms of virtue! How invincible the power of a beloved object! fortune, pleasure, transport, how poignant your impression! O how shall I withstand the rapid torrent of bliss which overflows my heart! and how dispel the apprehensions of a timorous maid? Eloisa----no! my Eloisa on her knees! My Eloisa weep!----Shall she, to whom the universe should bend, supplicate the man who adores her, to be careful of her honour, and to preserve his own? Were it possible for me to be out of humour with you, I should be a little angry at your fears; they are disgraceful to us both. Learn, thou chaste and heavenly beauty, to know better the nature of thy empire. If I adore thy charming person, is it not for the purity of that soul by which it is animated, and which bears such ineffable marks of its divine origin? You tremble with apprehension: good God! what hath she to fear, who stamps with reverence and honour every sentiment she inspires? Is there a man upon earth who could be vile enough to offer the least insult to such virtue?
+
+Permit, O permit me, to enjoy the unexpected happiness of being beloved----beloved by such----Ye princes of the world, I now look down upon your grandeur. Let me read a thousand and a thousand times, that enchanting epistle, where thy tender sentiments are painted in such strong and glowing colours; where I observe with transport, notwithstanding the violent agitation of thy soul, that even the most lively passions of a noble heart never lose sight of virtue.What monster, after having read that affecting letter, could take advantage of your generous confession, and attempt a crime which must infallibly make him wretched and despicable even to himself. No, my dearest Eloisa, there can be nothing to fear from a friend, a lover, who must ever be incapable of deceiving you. Though I should entirely have lost my reason, though the discomposure of my senses should hourly increase, your person will always appear to me, not only the most beautiful, but the most sacred deposit with which mortal was ever instructed. My passion, like its object, is unalterably pure. The horrid idea of incest does not shock me more than the thought of polluting your heavenly charms with a sacrilegious touch: you are not more inviolably safe with your own parent than with your lover. If ever that happy lover should in your presence forget himself but for a moment----O ’tis impossible. When I am no longer in love with virtue, my love for my Eloisa must expire: on my first offence, withdraw your affection and cast me off for ever.
+
+By the purity of our mutual tenderness, therefore, I conjure you, banish all your suspicion. Why should your fear exceed the passions of your lover! To what greater felicity can I aspire, when that with which I am blest, is already more than I am well able to support? We are both young, and in love unexperienced, it is true: but is that honour which conducts us, a deceitful guide? can that experience be needful which is acquired only from vice? I am strangely deceived, if the principles of rectitude are not rooted in the bottom of my heart. In truth, my Eloisa, I am no vile seducer, as, in your despair, you were pleased to call me; but am artless and of great sensibility, easily discovering my feelings, but feeling nothing at which I ought to blush.To say all in one word, my love for Eloisa is not greater than my abhorrence of the crime. I am even doubtful, whether the love which you inspire be not in its nature incompatible with vice; whether a corrupt heart could possibly feel its influence. As for me, the more I love you, the more exalted are my sentiments. Can there be any degree of virtue, however unattainable for its own sake, to which I would not aspire to become more worthy of my Eloisa?<b>Letter VI. Eloisa To Clara.</b>
+
+Is my dear cousin resolved to spend her whole life in bewailing her poor Chaillot, and will she forget the living because of the dead? I sympathize in your grief, and think it just, but shall it therefore be eternal? Since the death of your mother, she was assiduously careful of your education; she was your friend rather than your governess. She loved you with great tenderness, and me for your sake; her instructions were all intended to enrich our hearts with principles of honour and virtue. All this I know, my dear, and acknowledge it with gratitude; but confess with me also, that in some respects she acted very imprudently; that she often indiscreetly told us things with which we had no concern; that she entertained us eternally with maxims of gallantry, her own juvenile adventures, the management of amours; and that to avoid the snares of men, though she might tell us not to give ear to their protestations, yet she certainly instructed us in many things with which there was no necessity for young girls to be made acquainted. Reflect therefore upon her death as a misfortune, not without some consolation. To girls of our age, her lessons grew dangerous, and who knows but heaven may have taken her from us the very moment in which her removal became necessary to our future happiness. Remember the salutary advice you gave me when I was deprived of the best of brothers. Was Chaillot dearer to you? Is your loss greater than mine?Return, my dear, she has no longer any occasion for you. Alas! whilst you are wasting your time in superfluous affliction, may not your absence be productive of greater evils? Why are you not afraid, who know the beatings of my heart, to abandon your friend to misfortunes which your presence might prevent. O Clara! strange things have happened since your departure. You will tremble to hear the danger to which I have been exposed by my imprudence. Thank heaven, I hope I have now nothing to fear: but unhappily I am as it were at the mercy of another. You alone can restore me to myself: haste therefore to my assistance. So long as your attendance was of service to poor Chaillot, I was silent; I should even have been the first to exhort you to such an act of benevolence. Now that she is no more, her family are become the objects of your charity: of this obligation we could better acquit ourselves, if we were together, and your gratitude might be discharged without neglecting your friend.
+
+Since my father took his leave of us we have resumed our former manner of living. My mother leaves me less frequently alone; not that she has any suspicion. Her visits employ more time than would be proper for me to spare from my little studies, and in her absence Bab fills her place but negligently. Now though I do not think my good mother sufficiently watchful, I cannot resolve to tell her so. I would willingly provide for my own safety, without losing her esteem, and you alone are capable of managing this matter. Return then, my dear Clara, prithee return. I regret every lesson at which you are not present, and am fearful of becoming too learned. Our preceptor is not only a man of great merit, but of exemplary virtue, and therefore more dangerous. I am too well satisfied with him to be so with myself.For girls of our age, it is always safer to be two than one, be the man ever so virtuous.
+
+<b>Letter VII. Answer.</b>
+
+I understand, and tremble for you: not that I think your danger so great as your imagination would suggest. Your fears make me less apprehensive for the present; but I am terrified with the thought of what may hereafter happen: should you be unable to conquer your passion, what will become of you! Alas, poor Chaillot, how often has she foretold, that your first sigh would mark your fortune. Ah! Eloisa, so young, and thy destiny already accomplished? Much I fear we shall find the want of that sensible woman whom, in your opinion, we have lost for our advantage. Sure I am, it would be advantageous for us to fall into still safer hands; but she has made us too knowing to be governed by another, yet not sufficiently so to govern ourselves: she only was able to shield us from the danger to which, by her indiscretion, we are exposed. She was extremely communicative, and, considering our age, we ourselves seem to have thought pretty deeply. The ardent and tender friendship which hath united us, almost from our cradles, expanded our hearts, and ripened them into sensibility perhaps a little premature. We are not ignorant of the passions, as to their symptoms and effects; the art of suppressing them seems to be all we want. Heaven grant that our young philosopher may know this art better than we.By <i>we</i> you know who I mean: for my part, Chaillot used always to say, that my giddiness would be my security in the place of reason, that I should never have sense enough to be in love, and that I was too constantly foolish to be guilty of a great folly. My dear Eloisa, be careful of yourself! the better she thought of your understanding, the more she was apprehensive of your heart. Nevertheless, let not your courage sink. Your prudence and your honour, I am certain, will exert their utmost, and I assure you, on my part, that friendship shall do every thing in its power. If we are too knowing for our years, yet our manners have been hitherto spotless and irreproachable. Believe me, my dear, there are many girls, who though they may have more simplicity, have less virtue than ourselves: we know what virtue means, and are virtuous by choice; and that seems to me the most secure.
+
+And yet, from what you have told me, I shall not enjoy a moment’s repose till we meet; for if you are really afraid, your danger is not entirely chimerical. It is true, the means of preservation are very obvious. One word to your mother, and the thing is done: but I understand you; the expedient is too conclusive: you would willingly be assured of not being vanquished, without losing the honour of having sustained the combat. Alas! my poor cousin----if there was the least glimmering----Baron D'Etange consent to give his daughter, his only child, to the son of an inconsiderable tradesman, without fortune! Dost thou presume to hope he will?----or what dost thou hope? what would’st thou have? poor Eloisa!----Fear nothing however on my account. Your friend will keep your secret. Many people might think it more honest to reveal it, perhaps they are right. For my part, who am no great casuist, I have no notion of that honesty, which is incompatible with confidence, faith, and friendship.I imagine that every relation, every age, have their peculiar maxims, duties, and virtues; but what might be prudence in another, in me would be perfidy; and that to confound these things, would more probably make us wicked than wise and happy. If your love be weak, we will overcome it; but if it be extreme, violent measures may produce a tragical catastrophe, and friendship will attempt nothing for which it cannot be answerable. After all, I flatter myself that I shall have little reason to complain of your conduct when I have you once under my eye. You shall see what it is to have a duenna of eighteen!
+
+You know, my dear girl, that I am not absent upon pleasure; and really the country is not so agreeable in the spring as you imagine: one suffers at this time both heat and cold; for the trees afford us no shade, and in the house it is too cold to live without fire. My father too, in the midst of his building, begins to perceive that the gazette comes later hither than to town; so that we all wish to return, and I hope to embrace thee in a few days. But what causes my inquietude is, that a few days make I know not what number of hours, many of which are destined to the philosopher: to the philosopher, cousin! you understand me. Think, O think, that the clock strikes those hours entirely for him!
+
+Do not blush, my dear girl, nor drop thy eyes, nor look grave; thy features will not suffer it. Thou knowest I never, in my life, could weep without laughing, and yet I have not less sensibility than other people: I do not feel our separation less severely, nor am less afflicted with the loss of poor Chaillot.Her family I am resolved never to abandon, and I sincerely thank my kind friend for her promise to assist me: but to let slip an opportunity of doing good, were to be no more thyself. I confess the good creature was rather too talkative, free enough on certain occasions, a little indiscreet with young girls, and that she was fond of old stories and times past. So that I do not so much regret the qualities of her mind, though among some bad ones, many of them were excellent: the loss which I chiefly deplore is the goodness of her heart, and that mixture of maternal and sisterly affection, which made her inexpressibly dear to me. My mother I scarce knew; I am indeed loved by my father, as much as is possible for him to love; your amiable brother is no more; and I very seldom see my own. Thus am I left desolate, like an orphan. You are my only consolation. Yes, my Eloisa lives, and I will weep no more!
+
+P. S. For fear of accident, I shall direct this letter to our preceptor.
+
+Letter VIII. [6] To Eloisa.
+
+O, my fair Eloisa, what a strange capricious deity is Love! My present felicity seems far to exceed my most sanguine expectations, and yet I am discontented. You love me, you confess your passion, and yet I sigh. My presumptuous heart dares to wish still farther, though all my wishes are gratified. I am punished with its wild imaginations; they render me unhappy in the very bosom of felicity.Do not, however, believe that I have forgotten the laws you have imposed, or lost the power of obedience: no, but I am displeased to find the observance of those laws irksome to me alone; that you, who not long ago, was all imbecility, are now become so great a heroine; and that you are so excessively careful to prevent every proof of my integrity.
+
+How you are changed, and <i>you</i> alone, within these two months! Where is now your languor, your disgust, your dejected look? The graces have again resumed their post; your charms are all returned; the new-blown rose is not more fresh and blooming; you have recovered your vivacity and wit; you banter, even with me, as formerly; but what hurts me more than all this, is that you swear eternal fidelity with as much gaiety and good humour as if it were something droll, or indifferent.
+
+O, my fair inconstant! is this characteristic of an ungovernable passion? If you were, in any degree, at war with your inclinations, would not the constraint throw a damp upon your enjoyments? O how infinitely more amiable you were, when less beautiful! How do I regret that pathetic paleness, that precious assurance of a lover’s happiness, and hate the indiscretion of that health which you have recovered at the expense of my repose! Yes, I could be much better satisfied with your indisposition, than with that air of content, those sparkling eyes, that blooming complexion, which conspire to insult me. Have you already forgot the time when you were glad to sue for mercy? Eloisa, Eloisa! the violent tempest hath been very suddenly allayed.But what vexes me most, is that, after having committed yourself entirely to my honour, you should seem apprehensive and mistrustful where there is no danger. Is it thus I am rewarded for my discretion? Does my inviolable respect deserve to be thus affronted? Your father’s absence is so far from giving you more liberty, that it is now almost impossible to catch you alone. Your <i>constant</i> cousin never leaves you a moment. I find we are insensibly returning to our former circumspection, with this difference only that what was then irksome to you is now become matter of amusement.
+
+What recompense can I expect for the purity of my adoration, if not your esteem? And to what purpose have I abstained even from the least indulgence, if it produces no gratitude? In short, I am weary of suffering ineffectually, and of living in a state of continued self- denial, without being allowed the merit of it. I cannot bear to be despised whilst you are growing every day more beautiful. Why am I to gaze eternally at those delicious fruits which my lips dare not touch? Must I relinquish all hope, without the satisfaction of a voluntary sacrifice? No, since you depend no longer upon my honour, it stands released from its vain engagement; your own precautions are sufficient. You are ungrateful, and I am too scrupulous; but for the future I am resolved not to reject the happiness which fortune, in spite of you, may throw in my way. Be it as it will, I find that I have taken upon me a charge that is above my capacity. Eloisa, you are once more your own guardian. I must resign the deposit which I cannot preserve without being tempted to a breach of faith, and which you yourself are able to secure with less difficulty than you were pleased to imagine.I speak seriously; depend upon your own strength, else banish me, or in other words, deprive me of existence. The promise I made, was rash and inconsiderate; and I am amazed how I have been able to keep it so long. I confess it ought to remain for ever inviolable; but of that I now perceive the impossibility. He who wantonly exposes his virtue to such severe trials, deserves to fall. Believe me, fairest among women! by him who desired life only on your account, you will always be honoured and respected; but reason may forsake me, and my intoxicated senses may hint the perpetration of a crime, which, in my cooler hours, I should abhor. I am however happy in the reflection that I have not hitherto abused your confidence. Two whole months have I triumphed over myself; but I am intitled to the reward due to as many ages of torment.<b>Letter IX. From Eloisa.</b>
+
+I comprehend you: the pleasures of vice, and the reward of virtue, would just constitute the felicity you wish to enjoy. Are these your morals? Truly, my good friend, your generosity had a short duration. Is it possible that it could be entirely the effect of art? There is something droll, however, in complaining of my health. Was it that you hoped to see it entirely destroyed by my ridiculous passion, and expected to have me at your feet, imploring your pity to save my life? or did you treat me with respect whilst I continued frightful, with an intention to retract your promise as soon as I should, in any degree, become an object of desire? I see nothing so vastly meritorious in such a sacrifice.
+
+With equal justice, you are pleased to reproach me for the care I have lately taken to prevent those painful combats with yourself, when in reality you ought to deem it an obligation. You then retract your engagement, on account of its being too burthensome a duty; so that in the same breath, you complain of having too much trouble, and of not having enough. Recollect yourself a little, and endeavour to be more uniform, that your pretended sufferings may have a less frivolous appearance: or perhaps it would be more advisable to put off that dissimulation which is inconsistent with your character. Say what you will, your heart is much better satisfied with mine than you would have me think. Ungrateful man! you are but too well acquainted with its feelings. Even your own letter contradicts you by the gaiety of its stile; you would not have so much wit if you had less tranquility. But, enough of vain reproach to you: let me now reproach myself; it will probably be with more reason.The content and serenity with which I have been blest of late, is inconsistent with my former declaration, and I confess you have cause to be surprized at the contrast. You were then a witness to my despair, and you now behold in me too much tranquility; hence you pronounce me inconstant and capricious. Be not, my good friend, too severe in your judgment. This heart of mine cannot be known in one day. Have patience, and, in time, you may probably discover it to be not unworthy your regard.
+
+Unless you were sensible how much I was shocked when I first detected my heart in its passion for you, it is impossible to form any idea of what I suffered. The maxims I imbibed in my education were so extremely severe, that love, however pure, seemed highly criminal. I was taught to believe, that a young girl of sensibility was ruined the moment she suffered a tender expression to pass her lips: my disordered imagination confounded the crime with the confession of my love, and I had conceived so terrible an idea of the first step, that I saw little or no interval between that and the last. An extreme diffidence of myself increased the alarm; the struggles of modesty appeared to be those of virtue; and the uneasiness of silence seemed the importunity of desire. The moment I had spoke I concluded myself lost beyond redemption; and yet I must have spoken, or have parted with you for ever. Thus, unable to disguise my sentiments, I endeavoured to excite your generosity, and depending rather upon you than on myself, I chose to engage your honour in my defence, as I could have little reliance on a resource of which I believed myself already deprived.I soon discovered my error: I had scarce opened my mind when I found myself much easier; the instant I received your answer I became perfectly calm; and two months experience has informed me that my too tender heart hath need of love, but that my senses can rest satisfied without a lover. Now judge, you who are a lover of virtue, what joy I must have felt at this discovery. Emerged from the profound ignominy into which my fears had plunged me, I now taste the delicious pleasure of a guiltless passion: it constitutes all my happiness; it hath influenced my temper and my health, I can conceive no paradise on earth equal to the union of love and innocence.
+
+I feared you no longer; and when I endeavoured to avoid being alone with you, it was rather for your sake than my own. Your eyes, your sighs betrayed more transport than prudence; but though <i>you</i> had forgotten the bounds you yourself prescribed, <i>I</i> should not.
+
+Alas, my friend, I wish I could communicate to you that tranquility of soul which I now enjoy! Would it were in my power to teach you to be contented and happy! What fear, what shame can imbitter our felicity? In the bosom of love we might talk of virtue without a blush.
+
+<i>E v’ è il piacer con l’ onestade accanto.</i>
+
+And yet a strange foreboding whispers to my heart, that these are the only days of happiness allotted us by heaven. Our future prospect presents nothing to my view, but absence, anxiety, dangers and difficulties. The least change in our present situation must necessarily be for the worse.Were we even united for ever, I am not certain whether our happiness would not be destroyed by its excess; the moment of possession is a dangerous crisis.
+
+I conjure thee, my kind, my only friend, endeavour to calm the turbulence of those vain desires which are always followed by regret, repentance and sorrow. Let us peaceably enjoy our present felicity. You have a pleasure in giving me instruction, and you know, but too well, with what delight I listen to be instructed. Let your lessons be yet more frequent, that we may be as little asunder as decency will allow. Our absent moments shall be employed in writing to each other, and thus none of the precious time will pass in vain, which one day possibly we might give the world to recall. Would to heaven, that our present happiness might end only with our lives! To improve one’s understanding, to adorn one’s mind, to indulge one’s heart: can there possibly be any addition to our felicity?<b>Letter X. To Eloisa.</b>
+
+How entirely was my Eloisa in the right when she said that I did not yet know her sufficiently! I constantly flatter myself that I have discovered every excellence of her soul, when new beauties daily meet my observation. What woman, but yourself, could ever unite virtue and tenderness so as to add new charms to both? In spite of myself I am forced to admire and approve that prudence which deprives me of all comfort, and there is something so excessively engaging in the manner of imposing your prohibitions, that I almost receive them with delight.
+
+I am every day more positive, that there is no happiness equal to that of being beloved by Eloisa; and so entirely am I of this opinion that I would not prefer even the person of Eloisa to the possession of her heart. But why this bitter alternative? Can things be incompatible which are united in nature? Our time, you say, is precious; let us enjoy our good fortune without troubling its pure stream with our impatience. Be it so: but shall we, because we are moderately happy, reject supreme felicity? Is not all that time lost which might have been better employed? If it were possible to live a thousand years in one quarter of an hour, what purpose would it answer to tell over the tedious number of days when they were past?
+
+Your opinion of our present situation is very just; I am convinced I ought to be happy, and yet I am much the reverse. The dictates of wisdom may continue to flow from your lips, but the voice of nature is stronger than yours:and how can we avoid listening to her, when she speaks the language of our own hearts? Of all sublunary things, I know of nothing, except yourself, which deserves a moment’s attention. Without you, nature would have no allurements: her empire is in your charms, and there she is irresistible.
+
+Your heart, divine Eloisa, feels none of this. You are content to ravish our senses, and are not at war with your own. It should seem that your soul is too sublime for human passions, and that you have not only the beauty but the purity of angels: a purity which murmuring I revere, and to which I would gladly aspire. But, no: I am condemned to creep upon the earth, and to behold Eloisa a constellation in the heavens. O may you continue to be happy though I am wretched; enjoy your virtues; and perdition catch the vile mortal who shall ever attempt to tarnish one of them! Yes, my Eloisa, be happy, and I will endeavour to forget my own misery, in the recollection of your bliss. If I know my heart, my love is as spotless as its adorable object. The passions which your charms have inflamed, are extinguished by the purity of your soul; I dare not disturb its serenity. Whenever I am tempted to take the least liberty, I find myself restrained rather by the dread of interrupting your peace of mind, than by the fear of offending. In my pursuit of happiness, I have considered only in what degree it might affect my Eloisa; and finding it incompatible with hers, I can be wretched without repining.With what inexplicable, jarring, sentiments you have inspired me! I am at once submissive and daring, mild and impetuous. Your looks inflame my heart with love, and when I hear your voice I am captivated with the charms of innocence. If ever I presume to indulge a wishful idea, it is in your absence. Your image in my mind is the only object of my passionate adoration.
+
+And yet I languish and consume away; my blood is all on fire, and every attempt to damp the flame serves but to increase its fervour. Still I have cause to think myself very happy; and so I do. Surely I have little reason to complain, when I would not change my situation with the greatest monarch on earth. But yet some sad fiend torments me whose pursuits it is impossible to elude. Methinks I would not die, and yet I am daily expiring; for you only I wish to live, and you alone are the cause of my death.<b>Letter XI. From Eloisa.</b>
+
+My attachment to my dear friend grows every day stronger; your absence becomes insupportable, and I have no relief but in my pen. Thus my love keeps pace with yours; for I judge of your passion by your real fear of offending: your former fears were only feigned, with an intent to advance your cause. It is an easy matter to distinguish the dictates of an afflicted heart from the phrenzy of a heated imagination, and I see a thousand times more affection in your present constraint than in your former delirium. I know also that your situation, confined as it is, is not entirely bereft of pleasure. A sincere lover must be very happy in making frequent sacrifices to a grateful mistress, when he is assured that not one of them will be forgotten, but that she will treasure the remembrance in her heart.
+
+But who knows whether, presuming on my sensibility, this may not be a deeper, and therefore a more dangerous plot than the former? O, no! the supposition was unjust; you certainly cannot mean to deceive me. And yet prudence tells me to be more suspicious of compassion than even of love; for I find myself more affected by your respect than by all your transport: so that, as you are grown more honest, you are become in proportion more formidable.
+
+In the overflowing of my heart I will tell you a truth, of which your own feelings cannot fail to convince you: it is, that in spite of fortune, parents, and of ourselves, our fates are united for ever, and we can be only happy or miserable together. Our souls, if I may use the expression, touch in all points, and we feel an entire coherence: correct me if I speak unphilosophically.Our destiny may part us, but cannot disunite us. Henceforward our pains and pleasures must be mutual; and, like the magnets, of which I have heard you speak, that have the same motion though in different places, we should have the same sensations at the two extremities of the world.
+
+Banish, therefore, the vain hope, if you ever entertained it, of exclusive happiness to be purchased at the expense of mine. Do not flatter yourself with the idle prospect of felicity founded upon Eloisa’s dishonour, or imagine that you could behold my ignominy and my tears, without horror. Believe me, my dear friend, I know your heart better than yourself. A passion so tender and so true, cannot possibly excite an impure wish; but we are so attached, that if we were on the brink of perdition it would be impossible for us to fall singly; of my ruin yours is the inevitable consequence.
+
+I should be glad to convince you how necessary it is for us both that I should be entrusted with the care of our destiny. Can you doubt that you are as dear to me as myself, or that I can enjoy any happiness exclusive of yours? No, my dear friend, our interest is exactly the same, but I have rather more at stake, and have therefore more reason to be watchful. I own I am youngest; but did you never observe that if reason be generally weaker and sooner apt to decay in our sex, it also comes more early to maturity than in yours? as in vegetation the most feeble plants arrive at their perfection and dissolution in the least time. We find ourselves, from our first conception of things, instructed with so valuable a treasure, that our dread of consequences soon unfolds our judgment, and an early sense of our danger excites our vigilance.In short, the more I reflect upon our situation, the more I am convinced that love and reason join in my request: suffer yourself then to be lead by the gentle deity; for though he is blind, he is not without a guide.
+
+I am not quite certain that this language of my heart will be perfectly intelligible to yours, or that my letter will be read with the same emotion with which it was written: nor am I convinced that particular objects will ever appear to us in the same light; but certain I am, that the advice of either which tends least towards separate happiness, is that which we ought to follow.<b>Letter XII. To Eloisa.</b>
+
+O my Eloisa, how pathetic is the language of nature! How plainly do I perceive in your last letter, the serenity of innocence and the solicitude of love! Your sentiments are exprest without art or trouble, and convey a more delicious sensation to the mind, than all the refined periods of studied elocution. Your reasons are incontrovertible, but urged with such an air of simplicity, that they seem less cogent at first than they really are; and your manner of expressing the sublimest sentiments is so natural and easy, that without reflection one is apt to mistake them for common opinions.
+
+Yes, my Eloisa, the care of our destiny shall be entirely yours: not because it is your right, but as your duty, and as a piece of justice I expect from your reason, for the injury you have done to mine. From this moment to the end of my life, I resign myself to your will; dispose of me as of one who hath no interest of his own, and whose existence hath no connection but with you. Doubt not that I will fly from my resolution, be the terms you impose ever so rigorous; for though I myself should profit nothing by my obedience, if it adds but one jot to your felicity, I am sufficiently rewarded. Therefore I relinquish to you without reserve, the entire care of our common happiness; secure but your own and I will be satisfied. As for me, who can neither forget you a single moment, nor think of you without forbidden emotion, I will now give my whole attention to the employment you were pleased to assign me.It is now just a year since we began our studies, and hitherto they have been directed partly by chance, rather with a design to consult your taste than to improve it. Besides, our hearts were too much fluttered to leave us the perfect use of our senses. Our eyes wandered from the book, and our lips pronounced words, without any ideas. I remember, your arch cousin, whose mind was unengaged, used frequently to reproach us with want of conception; she seemed delighted to leave us behind, and soon grew more knowing than her preceptor. Now though we have sometimes smiled at her pretensions, she is really the only one of the three who retains any part of our reading.
+
+But to retrieve, in some degree, the time we have lost, (Ah! Eloisa, was ever time more happily spent?) I have formed a kind of plan, which may possibly, by the advantage of method, in some measure, compensate our neglect. I send it you inclosed; we will read it together; at present I shall only make a few general observations on the subject.
+
+If, my charming friend, we were inclined to parade with our learning, and to study for the world rather than for ourselves, my system would be a bad one; for it tends only to extract a little from a vast multiplicity of things, and from a large library to select a small number of books.
+
+Science, in general, may be considered as a coin of great value, but of use to the possessor, only in as much as it is communicated to others; it is valuable but as a commodity in traffic. Take from the learned the pleasure of being heard, and their love of knowledge would vanish.
