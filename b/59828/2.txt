@@ -1,0 +1,801 @@
+HOLB1	59828	2	160	80	1978	150
+1	Preface.
+3	Chapter I. The Strange Customer At Sweeney Tod…
+18	Chapter II. The Spectacle-maker's Daughter.
+31	Chapter III. A Man Is Lost.
+46	Chapter IV. The Pie-shop, Bell-yard.
+57	Chapter V. The Meeting In The Temple.
+70	Chapter VI.
+86	Chapter VII. The Barber And The Lapidary.
+95	Chapter VIII. The Thieves' Home.
+113	Chapter IX. Johanna At Home, And The Resolutio…
+129	Chapter X. The Colonel And His Friend.
+152	Chapter XI. The Stranger At Lovett's.
+165	Chapter XII.
+185	Chapter XIII.
+199	Chapter XIV. Tobias's Threat, And Its Conseque…
+225	Chapter XIV.
+234	Chapter XV.
+245	Chapter XVI.
+263	Chapter XVIII.
+271	Chapter XIX. The Madhouse Cell.
+280	Chapter XX.
+291	Chapter XXI. The Night At The Madhouse.
+299	Chapter XXII.
+338	Chapter XXV.
+344	Chapter XXVI.
+354	Chapter XXVII.
+363	Chapter XXVIII.
+393	Chapter XXIX. Tobias's Rapid Journey To London…
+398	Chapter XXX.
+411	Chapter XXXI. Shows How Tobias Got To London.
+423	Chapter XXII. Tobias Has A Mind Diseased.
+432	Chapter XXXIII. Johanna Walks Abroad In Disgui…
+447	Chapter XXXIV.
+460	Chapter XXXV. Mrs. Lovett's New Lover.
+472	Chapter XXXVI.
+485	Chapter XXXVII. The Search At Todd's.
+497	Chapter XXXVIII. Sir Richard Pries Into Todd's…
+508	Chapter XXXIX. The Mysterious Cupboard.
+518	Chapter XL. Crotchet Astonishes Mr. Todd.
+530	Chapter XLI. Todd's Vision.
+541	Chapter XLII. The Great Sacrifice.
+553	Chapter XLIII. An Old Acquaintance.
+564	Chapter XLIV. Todd And The Silversmith.
+576	Chapter XLV. Johanna's New Situation.
+588	Chapter XLVI. Tobias's Heart Is Touched.
+601	Chapter XLVII. Tobias Recovers His Intellect.
+612	Chapter XLVIII. Johanna Makes A New Confidant.
+627	Chapter XLIX. The Vaults Of St. Dunstan's.
+635	Chapter L. The Descent To The Vaults.
+647	Chapter LI. Johanna Rushes To Her Destiny.
+657	Chapter LII. Todd's Announcement.
+668	Chapter LIII. The Murder Of The Usurer.
+678	Chapter LIV. Sir Richard Blunt's Progress.
+685	Chapter LV. Mrs. Lovett's Walk.
+694	Chapter LVI. Tobias Unbosoms Himself.
+705	Chapter LVII.
+715	Chapter LVII. Big Ben Makes A Discovery.
+726	Chapter LVIII. The Grand Consultation In The T…
+740	Chapter LIX. The Proposal Of Arabella.
+748	Chapter LX. Todd Finds A Boy.
+756	Chapter LXI.
+765	Chapter LXII. Todd Clears Off Circumstances.
+781	Chapter LXIII. Johanna Starts For Todd's.
+790	Chapter LXIV. Todd Commences Packing Up.
+798	Chapter LXV.
+809	Chapter LXVI. The Cook's Visitors.
+819	Chapter LXVII. The Revelations In The Vaults.
+829	Chapter LXVIII. Returns To Johanna.
+842	Chapter LXIX. Takes A Peep At Arabella.
+852	Chapter LXX. Returns To Johanna.
+865	Chapter LXXI. The Mysterious Letter.
+875	Chapter LXXII. Another Victim.
+888	Chapter LXXIII. Startling Events.
+898	Chapter LXXIV. Big Ben Creates A Sensation.
+910	Chapter LXXV. Colonel Jeffery Opens His Eyes.
+923	Chapter LXXVI. Arabella And The Colonel.
+935	Chapter LXXVII. Mrs. Lovett Visits The Bank.
+945	Chapter LXXVIII. Mutual Defiance.
+957	Chapter LXXIX.
+969	Chapter LXXX. Todd Takes A Journey To The Temp…
+980	Chapter LXXXI. Johanna Is Encouraged.
+992	Chapter LXXXII. Todd Plans.
+1001	Chapter LXXXII. Todd Visits The Colonel
+1013	Chapter LXXXIII. Tobias In Jeopardy.
+1025	Chapter LXXXIV. Todd's Wonderful Escape.
+1037	Chapter LXXXV. Sir Richard Makes Plans.
+1050	Chapter LXXXVI.
+1063	Chapter LXXXVII.
+1074	Chapter LXXXVIII. Todd Astonishes Mrs. Lovett'…
+1082	Chapter LXXXIX.
+1093	Chapter XC. Morning In Fleet Street Again.
+1102	Chapter XCI. Mr. Todd's First Customers.
+1112	Chapter XCII. Mr. Oakley's Anxieties Much Dimi…
+1122	Chapter XCIII.
+1132	Chapter XCIV. In The Vaults.
+1142	Chapter XCV. Mrs. Lovett Is Very Intractable I…
+1151	Chapter XCVI. The Boat On The River.
+1161	Chapter XCVII. The Attempted Murder On The Tha…
+1172	Chapter XCVIII.
+1194	Chapter C.
+1205	Chapter CI.
+1215	Chapter CII.
+1225	Chapter CIII.
+1255	Chapter CVI.
+1265	Chapter CVII. Mrs. Oakley Dissembles.
+1287	Chapter CIX. Johanna Has Plenty Of Company At…
+1303	Chapter CX. Todd's Hour Has Come.
+1316	Chapter CXI. Mrs. Lovett Plans.
+1325	Chapter CXII.
+1337	Chapter CXIII.
+1343	Chapter CXIV.
+1356	Chapter CXV.
+1367	Chapter CXVI.
+1387	Chapter CXVIII.
+1396	Chapter CXIX.
+1416	Chapter CXXI.
+1427	Chapter CXXII.
+1438	Chapter CXXIII. The Beasts At The Tower.
+1448	Chapter CXXIV.
+1459	Chapter CXXV.
+1469	Chapter CXXVI. Sweeney Todd Is Placed Upon His…
+1479	Chapter CXXVII. The Trial Of Sweeney Todd Cont…
+1489	Chapter CXXVIII.
+1499	Chapter CXXIX. The Trial Of Sweeney Todd Conti…
+1509	Chapter CXXX.
+1518	Chapter CXXXI. Todd Makes An Attempt Upon His…
+1530	Chapter CXXXII.
+1540	Chapter CXXXIII.
+1551	Chapter CXXXIV.
+1562	Chapter CXXXV.
+1572	Chapter CXXXVI. Todd And Lupin Escape To Caen…
+1583	Chapter CXXXVII. The Murder At Caen Wood, Hamp…
+1594	Chapter CXXXVIII.
+1606	Chapter CXXXIX.
+1629	Chapter CXLI.
+1640	Chapter CXLII.
+1649	Chapter CXLIII.
+1661	Chapter CXLIV. Todd Makes His Way Into His Own…
+1671	Chapter CXLV.
+1684	Chapter CXLVI.
+1705	Chapter CXLVIII.
+1715	Chapter CXLIX.
+1727	Chapter CL.
+1738	Chapter CLI.
+1748	Chapter CLII.
+1759	Chapter CLIII.
+1770	Chapter CLIV.
+1781	Chapter CLV.
+1792	Chapter CLVI.
+1815	Chapter CLVIII. Todd's Fearful Adventures On T…
+"Never, unless you leave it for good, and for all; if upon those conditions you choose to accept the situation, you may, and if not, you can go about your business at once, and leave it alone."
+
+"Alas, madam, I have no resource; but you spoke of having a man already."
+
+"Yes; but he has gone to his friends; he has gone to some of his very oldest friends, who will be quite glad to see him, so now say the word:--are you willing or are you not, to take the situation?"
+
+"My poverty and my destitution consent, if my will be averse, Mrs. Lovett; but, of course, I quite understand that I leave when I please."
+
+"Oh, of course, we never think of keeping anybody many hours after they begin to feel uncomfortable. If you be ready, follow me."
+
+"I am quite ready, and thankful for a shelter. All the brightest visions of my early life have long since faded away, and it matters little or indeed nothing what now becomes of me; I will follow you, madam, freely, upon the conditions you have mentioned."
+
+Mrs. Lovett lifted up a portion of the counter which permitted him to pass behind it, and then he followed her into a small room, which was at the back of the shop. She then took a key from her pocket, and opened an old door which was in the wainscoting, and immediately behind which was a flight of stairs.These she descended, and Jarvis Williams followed her, to a considerable depth, after which she took an iron bar from behind another door, and flung it open, showing her new assistant the interior of that vault which we have already very briefly described.
+
+"These," she said, "are the ovens, and I will proceed to show you how you can manufacture the pies, feed the furnaces, and make yourself generally useful. Flour will be always let down through a trap-door from the upper shop, as well as everything required for making the pies but the meat, and that you will always find ranged upon shelves either in lumps or steaks, in a small room through this door, but it is only at particular times you will find the door open; and whenever you do so, you had better always take out what meat you think you will require for the next batch."
+
+"I understand all that, madam," said Williams, "but how does it get there?"
+
+"That's no business of yours; so long as you are supplied with it, that is sufficient for you; and now I will go through the process of making one pie, so that you may know how to proceed, and you will find with what amazing quickness they can be manufactured if you set about them in the proper manner."
+
+She then showed him how a piece of meat thrown into a machine became finely minced up, by merely turning a handle; and then how flour and water and lard were mixed up together, to make the crust of the pies, by another machine, which threw out the paste thus manufactured in small pieces, each just large enough for a pie.Lastly, she showed him how a tray, which just held a hundred, could be filled, and, by turning a windlass, sent up to the shop, through a square trap-door, which went right up to the very counter.
+
+"And now," she said, "I must leave you. As long as you are industrious you will go on very well, but as soon as you begin to be idle, and neglect the orders which are sent to you by me, you will get a piece of information which will be useful, and which if you be a prudent man will enable you to know what you are about."
+
+"What is that? you may as well give it to me now."
+
+"No; we seldom find there is occasion for it at first, but, after a time, when you get well fed, you are pretty sure to want it."
+
+So saying she left the place, and he heard the door by which he had entered, carefully barred after her. Suddenly then he heard her voice again, and so clearly and distinctly, too, that he thought she must have come back again; but upon looking up at the door, he found that that arose from her speaking through a small grating at the upper part of it, to which her mouth was closely placed.
+
+"Remember your duty," she said, "and I warn you, that any attempt to leave here will be as futile as it will be dangerous."
+
+"Except with your consent, when I relinquish the situation.""Oh, certainly--certainly, you are quite right there, everybody who relinquishes the situation goes to his old friends, whom he has not seen for many years, perhaps."
+
+"What a strange manner of talking she has!" said Jarvis Williams to himself, when he found he was alone. "There seems to be some singular and hidden meaning in every word she utters. What can she mean by a communication being made to me, if I neglect my duty! It is very strange; and what a singular looking place this is! I think it would be quite unbearable if it were not for the delightful odour of the pies, and they are indeed delicious--perhaps more delicious to me, who has been famished so long, and have gone through so much wretchedness; there is no one here but myself, and I am hungry now--frightfully hungry, and whether the pies be done or not, I'll have half a dozen of them at any rate, so here goes."
+
+He opened one of the ovens, and the fragrant steam that came out was perfectly delicious, and he sniffed it up with a satisfaction such as he had never felt before, as regards anything that was eatable.
+
+"Is it possible," he said "that I shall be able to make such delicious pies? At all events one can't starve here, and if it be a kind of imprisonment, it's a pleasant one. Upon my soul, they are nice, even half-cooked--delicious! I'll have another half-dozen, there are lots of them--delightful! I can't keep the gravy from running out of the corners of my mouth. Upon my soul, Mrs. Lovett, I don't know where you get your meat, but it's all as tender as young chickens, and the fat actually melts away in one's mouth.Ah, these are pies, something like pies!--they are positively fit for the gods!"
+
+Mrs. Lovett's new man ate twelve threepenny pies, and then he thought of leaving off. It was a little drawback not to have anything to wash them down with but cold water; but he reconciled himself to this.
+
+"For," as he said, "after all it would be a pity to take the flavour of such pies out of one's mouth--indeed it would be a thousand pities, so I won't think of it, but just put up with what I have got and not complain. I might have gone further and fared worse with a vengeance, and I cannot help looking upon it as a singular piece of good fortune that made me think of coming here in my deep distress to try and get something to do. I have no friends and no money; she whom I loved is faithless, and here I am, master of as many pies as I like, and to all appearance monarch of all I survey; for there really seems to be no one to dispute my supremacy. To be sure my kingdom is rather a gloomy one; but then I can abdicate it when I like, and when I am tired of those delicious pies, if such a thing be possible, which I really very much doubt, I can give up my situation, and think of something else. If I do that, I will leave England for ever; it's no place for me after the many disappointments I have had. No friend left me--my girl false--not a relation but who would turn his back upon me! I will go somewhere where I am unknown and can form new connexions, and perhaps make new friendships of a more permanent and stable character than the old ones, which have all proved so false to me; and, in the meantime, I'll make and eat pies as fast as I can."<b>CHAPTER XII.</b>
+<b>THE RESOLUTION COME TO BY JOHANNA OAKLEY.</b>
+
+The beautiful Johanna--when in obedience to the command of her father she left him, and begged him (the beef-eater) to manage matters with the Rev. Mr. Lupin--did not proceed directly up stairs to her apartment, but lingered on the staircase to hear what ensued; and if anything in her dejected state of mind could have given her amusement, it would certainly have been the way in which the beef-eater exacted a retribution from the reverend personage, who was not likely again to intrude himself into the house of the spectacle-maker. But when he was gone, and she heard that a sort of peace had been patched up with her mother--a peace which, from her knowledge of the high contracting parties, she conjectured would not last long--she returned to her room, and locked herself in; so that if any attempt were made to get her down to partake of the supper, it might be supposed she was asleep, for she felt herself totally unequal to the task of making one in any party, however much she might respect the individual members that composed it. And she did respect Ben the beef-eater; for she had a lively recollection of much kindness from him during her early years, and she knew that he had never come to the house when she was a child without bringing her some token of his regard in the shape of a plaything, or some little article of doll's finery, which at that time was very precious. She was not wrong in her conjectures that Ben would make an attempt to get her down stairs, for her father came up at the beef-eater's request, and tapped at her door.She thought the best plan, as indeed it was, would be to make no answer, so that the old spectacle-maker concluded at once what she wished him to conclude, namely, that she had gone to sleep; and he walked quietly down the stairs again, glad that he had not disturbed her, and told Ben as much. Now, feeling herself quite secure from interruption for the night, Johanna did not attempt to seek repose, but set herself seriously to reflect upon what had occurred. She almost repeated to herself, word for word, what Colonel Jeffery had told her; and, as she revolved the matter over and over again in her brain, a strange thought took possession of her, which she could not banish, and which, when once it found a home within her breast, began to gather probability from every slight circumstance that was in any way connected with it. This thought, strange as it may appear, was, that the Mr. Thornhill, of whom Colonel Jeffery spoke in terms of such high eulogium, was no other than Mark Ingestrie himself. It is astonishing, when once a thought occurs to the mind, that makes a strong impression, how, with immense rapidity, a rush of evidence will appear to come to support it. And thus it was with regard to this supposition of Johanna Oakley. She immediately remembered a host of little things which favoured the idea, and among the rest, she fully recollected that Mark Ingestrie had told her he meant to change his name when he left England; for that he wished her and her only to know anything of him, or what had become of him; and that his intention was to baffle inquiry, in case it should be made, particularly by Mr. Grant, towards whom he felt a far greater amount of indignation, than the circumstances at all warranted him in feeling. Then she recollected all that Colonel Jeffery had said with regard to the gallant and noble conduct of this Mr.Thornhill, and, girl like, she thought that those high and noble qualities could surely belong to no one but her own lover, to such an extent; and that, therefore, Mr. Thornhill and Mark Ingestrie must be one and the same person. Over and over again, she regretted she had not asked Colonel Jeffery for a personal description of Mr. Thornhill, for that would have settled all her doubts at once, and the idea that she had it still in her power to do so, in consequence of the appointment he had made with her for that day week brought her some consolation.
+
+"It must have been he," she said; "his anxiety to leave the ship, and get here by the day he mentions, proves it; besides, how improbable it is, that at the burning of the ill-fated vessel, Ingestrie should place in the hands of another what he intended for me, when that other was quite as likely, and perhaps more so, to meet with death as Mark himself."
+
+Thus she reasoned, forcing herself each moment into a stronger belief of the identity of Thornhill with Mark Ingestrie, and so certainly narrowing her anxieties to a consideration of the fate of one person instead of two.
+
+"I will meet Colonel Jeffery," she said, "and ask him if this Mr. Thornhill had fair hair, and a soft and pleasing expression about the eyes, that could not fail to be remembered. I will ask him how he spoke, and how he looked; and get him, if he can, to describe to me even the very tones of his voice; and then I shall be sure, without the shadow of a doubt, that it is Mark. But then, oh! then comes the anxious question, of what has been his fate?"When poor Johanna began to consider the multitude of things that might have happened to her lover during his progress from Sweeney Todd's, in Fleet-street, to her father's house, she became quite lost in a perfect maze of conjecture, and then her thoughts always painfully reverted back to the barber's shop where the dog had been stationed; and she trembled to reflect for a moment upon the frightful danger to which that string of pearls might have subjected him.
+
+"Alas! alas!" she cried, "I can well conceive that the man whom I saw attempting to poison the dog would be capable of any enormity. I saw his face but for a moment, and yet it was one never again to be forgotten. It was a face in which might be read cruelty and evil passions; besides, the man who would put an unoffending animal to a cruel death, shows an absence of feeling, and a baseness of mind, which make him capable of any crime he thinks he can commit with impunity. What can I do--oh! what can I do to unravel this mystery?"
+
+No one could have been more tenderly and gently brought up than Johanna Oakley, but yet, inhabitive of her heart, was a spirit and a determination which few indeed could have given her credit for, by merely looking on the gentle and affectionate countenance which she ordinarily presented. But it is no new phenomenon in the history of the human heart to find that some of the most gentle and loveliest of human creatures are capable of the highest efforts of perversion; and when Johanna Oakley told herself, which she did, she was determined to devote her existence to a discovery of the mystery that enveloped the fate of Mark Ingestrie, she likewise made up her mind that the most likely man for accomplishing that object should not be rejected by her on the score of danger, and she at once set to work considering what those means should be.This seemed an endless task, but still she thought that if, by any means whatever, she could get admittance to the barber's house, she might be able to come to some conclusion as to whether or not it was there where Thornhill, whom she believed to be Ingestrie, had been stayed in his progress.
+
+"Aid me Heaven," she cried, "in the adoption of some means of action on the occasion. Is there any one with whom I dare advise? Alas! I fear not, for the only person in whom I have put my whole heart is my father, and his affection for me would prompt him at once to interpose every possible obstacle to my proceeding, for fear danger should come of it. To be sure, there is Arabella Wilmot, my old school fellow and bosom friend, she would advise me to the best of her ability, but I much fear she is too romantic and full of odd, strange actions, that she has taken from books, to be a good adviser; and yet what can I do? I must speak to some one, if it be but in case any accident happening to me, my father may get news of it, and I know of no one else whom I can trust but Arabella."
+
+After some little more consideration, Johanna made up her mind that on the following morning she would go to the house of her old school friend, which was in the immediate vicinity, and hold a conversation with her.
+
+"I shall hear something," she said, "at least of a kindly and a consoling character; for what Arabella may want in calm and steady judgment, she fully compensates for in actual feeling, and what is most of all, I know I can trust her word implicitly, and that my secret will remain as safely locked in her breast as if it were in my own."It was something to come to a conclusion to ask advice, and she felt that some portion of her anxiety was lifted from her mind by the mere fact that she had made so firm a mental resolution, that neither danger nor difficulty should deter her from seeking to know the fate of her lover. She retired to rest now with a greater hope, and while she is courting repose, notwithstanding the chance of the discovered images that fancy may present to her in her slumbers, we will take a glance at the parlour below, and see how far Mrs. Oakley is conveying out the pacific intention she had so tacitly expressed, and how the supper is going forward, which, with not the best grace in the world, she is preparing for her husband, who for the first time in his life had begun to assert his rights, and for big Ben, the beef-eater, whom she as cordially disliked as it was possible for any woman to detest any man. Mrs. Oakley by no means preserved her taciturn demeanour, for after a little she spoke, saying--
+
+"There's nothing tasty in the house; suppose I run over the way to Waggarge's, and get some of those Epping sausages with the peculiar flavour."
+
+"Ah, do," said Mr. Oakley, "they are beautiful, Ben, I can assure you."
+
+"Well, I don't know," said Ben the beef-eater, "sausages are all very well in their way, but you need such a plaguey lot of them; for if you only eat them one at a time, how soon will you get through a dozen or two."
+
+"A dozen or two," said Mrs. Oakley; "why, there are only five to a pound.""Then," said Ben, making a mental calculation, "then, I think, ma'am, that you ought not to get more than nine pounds of them, and that will be a matter of forty-five mouthfuls for us."
+
+"Get nine pounds of them," said Mr. Oakley, "if they be wanted; I know Ben has an appetite."
+
+"Indeed," said Ben, "but I have fell off lately, and don't take to my wittals as I used; you can order, missus, if you please, a gallon of half-and-half as you go along. One must have a drain of drink of some sort; and mind you don't be going to any expense on my account, and getting anything but the little snack I have mentioned, for ten to one I shall take supper when I get to the Tower; only human nature is weak, you know, missus, and requires something to be a continually a holding of it up."
+
+"Certainly," said Mr. Oakley, "certainly, have what you like, Ben; just say the word before Mrs. Oakley goes out; is there anything else?"
+
+"No, no," said Ben, "oh dear no, nothing to speak of; but if you should pass a shop where they sells fat bacon, about four or five pounds, cut into rashers, you'll find, missus, will help down the blessed sausages."
+
+"Gracious Providence," said Mrs. Oakley, "who is to cook it?"
+
+"Who is to cook it, ma'am? why the kitchen fire, I suppose; but mind ye if the man aint got any sausages,there's a shop where they sells biled beef at the corner, and I shall be quite satisfied if you brings in about ten or twelve pounds of that. You can make it up into about half a dozen sandwiches."
+
+"Go, my dear, go at once," said Mr. Oakley, "and get Ben his supper. I am quite sure he wants it, and be as quick as you can."
+
+"Ah," said Ben, when Mrs. Oakley was gone, "I didn't tell you how I was sarved last week at Mrs. Harveys. You know they are so precious genteel there that they don't speak above their blessed breaths for fear of wearing themselves out; and they sits down in a chair as if it were balanced only on one leg, and a little more one way or t'other would upset them. Then, if they sees a crumb a laying on the floor they rings the bell, and a poor half-starved devil of a servant comes and says, 'Did you ring, ma'am?' and then they says 'Yes, bring a dust-shovel and a broom, there is a crumb a laying there,' and then says I--'Damn you all,' says I, 'bring a scavenger's cart, and half-dozen birch brooms, there's a cinder just fell out of the fire.' Then in course they gets shocked, and looks as blue as possible, and arter that, when they see as I aint agoing, one of them says 'Mr. Benjamin Blumergutts, would you like to take a glass of wine?' 'I should think so,' says I. Then he says, says he, 'which would you prefer, red or white?' says he. 'White,' says I, 'while you are screwing up your courage to pull out the red,' so out they pull it; and as soon as I got hold of the bottle, I knocked the neck of it off over the top bar of the fire-place, and then drank it all up.'Now, damn ye,' says I, 'you thinks all this is mighty genteel and fine, but I don't, and consider you to be the blessedest set of humbugs ever I set my eyes on; and, if ever you catch me here again, I'll be genteel too, and I can't say more than that. Go to the devil, all of ye.' So out I went, only I met with a little accident in the hall, for they had got a sort of lamp hanging there, and somehow or 'nother, my head went bang into it, and I carried it out round my neck; but when I did get out, I took it off, and shied it slap in at the parlour window. You never heard such a smash in all your life. I dare say they all fainted away for about a week, the blessed humbugs."
+
+"Well, I should not wonder," said Mr. Oakley, "I never go near them, because I don't like their foolish pomposity and pride, which, upon very slender resources, tries to ape what it don't at all understand; but here is Mrs. Oakley with the sausages, and I hope you will make yourself comfortable, Ben."
+
+"Comfortable! I believe ye, I rather shall. I means it, and no mistake."
+
+"I have brought three pounds," said Mrs. Oakley, "and told the man to call in a quarter of an hour, in case there is any more wanted."
+
+"The devil you have; and the bacon, Mrs. Oakley, the bacon!"
+
+"I could not get any--the man had nothing but hams."
+
+"Lor', ma'am, I'd put up with a ham cut thick, and never have said a word about it. I am a angel of a temper, and if you did but know it.Hilloa, look, is that the fellow with the half-and half?"
+
+"Yes, here it is--a pot."
+
+"A what?"
+
+"A pot, to be sure."
+
+"Well, I never; you are getting genteel, Mrs. Oakley. Then give us a hold of it."
+
+Ben took the pot, and emptied it at a draught, and then he gave a tap at the bottom of it with his knuckles, to signify that he had accomplished that feat, and then he said, "I tells you what, ma'am, if you takes me for a baby, it's a great mistake, and any one would think you did, to see you offering me a pot merely; it's an insult, ma'am."
+
+"Fiddle-de-dee," said Mrs. Oakley; "it's a much greater insult to drink it all up, and give nobody a drop."
+
+"Is it? I wants to know how you are to stop it, ma'am, when you gets it to your mouth? that's what I axes you--how are you to stop it, ma'am? You didn't want me to spew it back again, did you, eh, ma'am?"
+
+"You vile, low wretch!""Come, come, my dear," said Mr. Oakley, "you know our cousin. Ben don't live among the most refined society, and so you ought to be able to look over a little of--of--his--I may say, I am sure, without offence, roughness now and then;--come, come, there is no harm done, I'm sure. Forget and forgive say I. That's my maxim, and has always been, and will always be."
+
+"Well," said the beef-eater, "it's a good one to get through the world with, and so there's an end of it. I forgives you, Mother Oakley."
+
+"You forgive--"
+
+"Yes, to be sure. Though I am only a beaf-eater, I suppose as I may forgive people for all that--eh, Cousin Oakley?"
+
+"Oh, of course, Ben, of course. Come, come, wife, you know as well as I that Ben has many good qualities, and that take him for all in all, as the man in the play says, we shan't in a hurry look upon his like again."
+
+"And I'm sure I don't want to look upon his like again," said Mrs. Oakley; "I'd rather by a good deal keep him a week than a fortnight. He's enough to breed a famine in the land, that he is."
+
+"Oh, bless you, no," said Ben, "that's amongst your little mistakes, ma'am, I can assure you. By the bye, what a blessed long time that fellow is coming with the rest of the beer and the other sausages--why, what's the matter with you, cousin Oakley--eh, old chap, you look out of sorts?""I don't feel just the thing, do you know, Ben."
+
+"Not--the thing--why--why, now you come to mention it, I somehow feel as if all my blessed inside was on a turn and a twist. The devil--I--don't feel comfortable at all I don't."
+
+"And I'm getting very ill," gasped Mr. Oakley.
+
+"And I'm getting iller," said the beef-eater, manufacturing a word for the occasion. "Bless my soul! there's something gone wrong in my inside. I know there's murder--there's a go--oh, Lord! it's a doubling me up, it is."
+
+"I feel as if my last hour had come," said Mr. Oakley--"I'm a--a--dying man--I am--oh, good gracious! there was a twinge!"
+
+Mrs. Oakley, with all the coolness in the world, took down her bonnet from behind the parlour-door where it hung, and, as she put it on said,--
+
+"I told you both that some judgment would come over you, and now you see it has. How do you like it? Providence is good, of course, to its own, and I have--"
+
+"What--what--?"
+
+"<i>Pisoned</i> the half-and-half."Big Ben, the beef-eater, fell off his chair with a deep groan, and poor Mr. Oakley sat glaring at his wife, and shivering with apprehension, quite unable to speak, while she placed a shawl over her shoulders, as she added in the same tone of calmness she had made the terrific announcement concerning the poisoning--
+
+"Now, you wretches, you see what a woman can do when she makes up her mind for vengeance. As long as you all live, you'll recollect me; but, if you don't, that won't much matter, for you won't live long, I can tell you, and now I'm going to my sister's, Mrs. Tiddiblow."
+
+So saying, Mrs. Oakley turned quickly round, and, with an insulting toss of her head, and not at all caring for the pangs and sufferings of her poor victims, she left the place, and proceeded to her sister's house, where she slept as comfortably as if she had not by any means committed two diabolical murders. But has she done so, or shall we, for the honour of human nature, discover that she went to a neighbouring chemist's, and only purchased some dreadfully powerful medicinal compound, which she placed in the half-and-half, and which began to give those pangs to Big Ben, the beef-eater, and to Mr. Oakley, concerning which they were both so eloquent? This must have been the case; for Mrs. Oakley could not have been such a fiend in a human guise as to laugh as she passed the chemist's shop. Oh no! she might not have felt remorse, but that is a very different thing, indeed, from laughing at the matter, unless it were really laughable and not serious, at all. Big Ben and Mr.Oakley must have at length found out how they had been hoaxed, and the most probable thing was that the before-mentioned chemist himself told them; for they sent for him in order to know if anything could be done to save their lives. Ben from that day forthwith made a determination that he would not visit Mr. Oakley, and the next time they met he said--
+
+"I tell you what it is, that old hag, your wife, is one too many for us, that's a fact; she gets the better of me altogether--so, whenever you feels a little inclined for a gossip about old times, just you come down to the Tower."
+
+"I will, Ben."
+
+"Do; we can always find something to drink, and you can amuse yourself, too, by looking at the animals. Remember, feeding time is two o'clock; so, now and then, I shall expect to see you, and, above all, be sure you let me know if that canting parson, Lupin, comes any more to your house."
+
+"I will, Ben."
+
+"Ah, do; and I'll give him another lesson if he should, and I tell you how I'll do it. I'll get a free admission to the wild <i>beastesses</i> in the Tower, and when he comes to see 'em, for them 'ere sort of fellows always goes everywhere they can go for nothing, I'll just manage to pop him into a cage along of some of the most <i>cantankerous</i> creatures as we have."
+
+"But would not that be dangerous?""Oh dear no! we has a laughing hyaena as would frighten him out of his wits; but I don't think as he'd bite him much, do you know. He's as playful as a kitten, and very fond of standing on his head."
+
+"Well, then, Ben, I have, of course, no objection, although I do think that the lesson you have already given to the reverend gentleman will and ought to be fully sufficient for all purposes, and I don't expect we shall see him again."
+
+"But how does Mrs. O. behave to you?" asked Ben.
+
+"Well, Ben, I don't think there's much difference; sometimes she's a little civil, and sometimes she ain't; it's just as she takes it into her head."
+
+"Ah! that all comes of marrying."
+
+"I have often wondered, though, Ben, that you never married." Ben gave a chuckle as he replied--
+
+"Have you though, really? Well, Cousin Oakley, I don't mind telling you, but the real fact is, once I was very near being served out in that sort of way."
+
+"Indeed!"
+
+"Yes. I'll tell you how it was; there was a girl called Angelina Day, and a nice-looking enough creature she was as you'd wish to see,and didn't seem as if she'd got any claws at all; leastways she kept them in, like a cat at meal times."
+
+"Upon my word, Ben, you have a great knowledge of the world."
+
+"I believe you, I have! Haven't I been brought up among the wild beasts in the Tower all my life? That's the place to get a knowledge of the world in, my boy. I ought to know a thing or two, and in course I does."
+
+"Well, but how was it, Ben, that you did not marry this Angelina you speak of?"
+
+"I'll tell you; she thought she had me as safe as a hare in a trap, and she was as amiable as a lump of cotton. You'd have thought, to look at her, that she did nothing but smile; and, to hear her, that she said nothing but nice, mild, pleasant things, and I really began to think as I had found out the proper sort of animal."
+
+"But you were mistaken?"
+
+"I believe you, I was. One day I'd been there to see her, I mean, at her father's house, and she'd been as amiable as she could be; I got up to go away, with a determination that the next time I got there I would ask her to say yes, and when I had got a little way out of the garden of the house where they lived--it was out of town some distance--I found I had left my little walking-cane behind me, so I goes back to get it,and when I got into the garden I heard a voice."
+
+"Whose voice?"
+
+"Why Angelina's, to be sure; she was speaking to a poor little dab of a servant they had; and oh, my eye! how she did rap out, to be sure! Such a speech as I never heard in all my life. She went on a matter of ten minutes without stopping, and every other word was some ill name or another; and her voice--oh, gracious! it was like a bundle of wire all of a tangle--it was."
+
+"And what did you do, then, upon making such a discovery as that in so very odd and unexpected a manner?"
+
+"Do! What do you suppose I did?"
+
+"I really cannot say, as you are rather an eccentric fellow."
+
+"Well then, I'll tell you. I went up to the house, and just popped in my head, and says I, 'Angelina, I find out that all cats have claws after all; good evening, and no more from your humble servant, who don't mind the job of taming any wild animal but a woman;' and then off I walked, and I never heard of her afterwards."
+
+"Ah, Ben, it's true enough! You never know them beforehand; but after a little time, as you say, then out come the claws.""They does--they does."
+
+"And I suppose you since, then, made up your mind to be a bachelor for the rest of your life, Ben?"
+
+"Of course I did. After such experience as that, I should have deserved all I got, and no mistake, I can tell you; and if ever you catches me paying any attention to a female woman, just put me in mind of Angelina Day, and you'll see how I shall be off at once like a shot."
+
+"Ah!" said Mr. Oakley, with a sigh, "everybody, Ben, aint born with your good luck, I can tell you. You are a most fortunate man, Ben, and that's a fact. You must have been born under some lucky planet I think, Ben, or else you never would have had such a warning as you have had about the claws. I found 'em out, Ben, but it was a deal too late; so I had only to put up with my fate, and put the best face I could upon the matter."
+
+"Yes, that's what learned folks call--what's its
+name--fill--fill--something."
+
+"Philosophy, I suppose you mean, Ben."
+
+"Ah, that's it--you must put up with what you can't help, it means, I take it. It's a fine name for saying you must grin and bear it."
+
+"I suppose that is about the truth, Ben."It cannot, however, be exactly said that the little incident connected with Mr. Lupin had no good effect upon Mrs. Oakley, for it certainly shook most alarmingly her confidence in that pious individual. In the first place, it was quite clear that he shrank from the horrors of martyrdom; and, indeed, to escape any bodily inconvenience, was perfectly willing to put up with any amount of degradation or humiliation that he could be subjected to; and that was, to the apprehension of Mrs. Oakley, a great departure from what a saint ought to be. Then again, her faith in the fact that Mr. Lupin was such a chosen morsel as he had represented himself, was shaken from the circumstance that no miracle in the shape of a judgment had taken place to save him from the malevolence of Big Ben, the beef-eater; so that, taking one thing in connexion with another, Mrs. Oakley was not near so religious a character after that evening as she had been before it, and that was something gained. Then circumstances soon occurred, of which the reader will very shortly be fully aware, which were calculated to awaken all the feelings of Mrs. Oakley, if she had really any feelings to awaken, and to force her to make common cause with her husband in an affair that touched him to the very soul, and did succeed in awakening some feelings in her heart that had lain dormant for a long time, but which were still far from being completely destroyed.These circumstances were closely connected with the fate of one in whom we hope, that by this time, the reader has taken a deep and kindly interest--we mean Johanna--that young and beautiful, and gentle, creature, who seemed to have been created with all the capacity to be so very happy, and yet whose fate had become so clouded by misfortune, and who appears now to be doomed through her best affections to suffer so great an amount of sorrow, and to go through so many sad difficulties. Alas, poor Johanna Oakley! Better had you loved some one of less aspiring feelings, and of less ardent imagination, than he possessed to whom you have given your heart's young affections. It is true that Mark Ingestrie possessed genius, and perhaps it was the glorious light that hovers around that fatal gift which prompted you to love him. But genius is not only a blight and a desolation to its possessor, but it is so to all who are bound to the gifted being by the ties of fond affection. It brings with it that unhappy restlessness of intellect which is ever straining after the unattainable, and which is never content to know the end and ultimatum of earthly hopes and wishes; no, the whole life of such persons is spent in one long struggle for a fancied happiness, which like the ignis-fatuus of the swamp glitters but to betray those who trust to its delusive and flickering beams.<b>CHAPTER XIII.</b>
+<b>JOHANNA'S INTERVIEW WITH ARABELLA WILMOT, AND THE ADVICE.</b>
+
+Alas! poor Johanna, thou hast chosen but an indifferent confidante in the person of that young and inexperienced girl to whom it seems good to thee to impart thy griefs. Not for one moment do we mean to say, that the young creature to whom the spectacle-maker's daughter made up her mind to unbosom herself, was not all that any one could wish as regards honour, goodness, and friendship. But she was one of those creatures who yet look upon the world as a fresh green garden, and had not yet lost that romance of existence which the world and its ways soon banish from the breasts of all. She was young, even almost to girlhood, and having been the idol of her family circle, she knew just about as little of the great world as a child. But while we cannot but to some extent regret that Johanna should have chosen such a confidant and admirer, we with feelings of great freshness and pleasure proceed to accompany her to that young girl's house. Now, a visit from Johanna Oakley to the Wilmots was not so rare a thing, that it should excite any unusual surprise, but in this case it did excite unusual pleasure, because they had not been there for some time. And the reason that she had not, may well be found in the peculiar circumstances that had for a considerable period environed her. She had a secret to keep which, although it might not proclaim what it was most legibly upon her countenance, yet proclaimed that it had an existence, and as she had not made Arabella a confidant, she dreaded the other's friendly questions of the young creature.It may seem surprising that Johanna Oakley had kept from one whom she so much esteemed, and with whom she had made such a friendship, the secret of her affections; but that must be accounted for by a difference of ages between them to a sufficient extent in that early period of life to show itself palpably. That difference was not quite two years, but when we likewise state, that Arabella was of that small, delicate style of beauty, which makes her look like a child, when even upon the very verge of womanhood, we shall not be surprised that the girl of seventeen hesitated to confide a secret of the heart to what seemed but a beautiful child. The last year, however, had made a great difference in the appearance of Arabella, for, although she still looked a year or so younger than she really was, a more staid and thoughtful expression had come over her face, and she no longer presented, at times when she laughed, that child-like expression, which had been as remarkable in her as it was delightful. She was as different looking from Johanna as she could be, for whereas Johanna's hair was of a rich and glossy brown, so nearly allied to black that it was commonly called such; the long waving ringlets that shaded the sweet countenance of Arabella Wilmot were like amber silk blended to a pale beauty. Her eyes were nearly blue, and not that pale grey, which courtesy calls of that celestial colour, and their long, fringing lashes hung upon a cheek of the most delicate and exquisite hue that nature could produce. Such was the young, loveable, and amiable creature who had made one of those girlish friendships with Johanna Oakley that, when they do endure beyond the period of almost mere childhood, endure for ever, and become one among the most dear and cherished sensations of the heart.The acquaintance had commenced at school, and might have been of that evanescent character of so many school friendships, which, in after life, are scarcely so much remembered as the most dim visions of a dream; but it happened that they were congenial spirits, which, let them be thrown together under any circumstances whatever, would have come together with a perfect and a most endearing confidence in each other's affections. That they were school companions was the mere accident that brought them together, and not the cause of their friendship. Such, then, was the being to whom Johanna Oakley looked for counsel and assistance; and notwithstanding all that we have said respecting the likelihood of that counsel being of an inactive and girlish character, we cannot withhold our meed of approbation to Johanna, that she had selected one so much in every way worthy of her honest esteem. The hour at which she called was such as to ensure Arabella being within, and the pleasure which showed itself upon the countenance of the young girl, as she welcomed her old playmate, was a feeling of the most delightful and unaffecting character.
+
+"Why, Johanna," she said, "you so seldom call upon me now, that I suppose I must esteem it as a very special act of grace and favour to see you."
+
+"Arabella," said Johanna, "I do not know what you will say to me when I tell you that my present visit is because I am in a difficulty, and want your advice.""Then you could not have come to a better person, for I have read all the novels in London, and know all the difficulties that anybody can possibly get into, and, what is more important, too, I know all the means of getting out of them, let them be what they may."
+
+"And yet, Arabella, scarcely in all your novel reading will you find anything so strange and so eventful as the circumstances, I grieve to say, it is in my power to record to you. Sit down, and listen to me, dear Arabella, and you shall know all."
+
+"You surprise and alarm me by that serious countenance, Johanna."
+
+"The subject is a serious one. I love."
+
+"Oh! is that all? So do I; there's a young Captain Desbrook in the King's Guards. He comes here to buy his gloves; and if you did but hear him sigh as he leans over the counter, you would be astonished."
+
+"Ah! but, Arabella, I know you well. Yours is one of those fleeting passions that, like the forked lightning, appear for a moment, and ere you can say behold, is gone again. Mine is deeper in my heart, so deep, that to divorce it from it would be to destroy its home for ever."
+
+"But, why so serious, Johanna? You do not mean to tell me that it is possible for you to love any man without his loving you in return?""You are right there, Arabella. I do not come to speak to you of a hopeless passion--far from it; but you shall hear. Lend me, my dear friend, your serious attention, and you shall hear of such mysterious matters."
+
+"Mysterious!--then I shall be in my very element. For know that I quite live and exult in mystery, and you could not possibly have come to any one who would more welcomely receive such a commission from you; I am all impatience."
+
+Johanna then, with great earnestness, related to her friend the whole of the particulars connected with her deep and sincere attachment to Mark Ingestrie. She told her how, in spite of all circumstances which appeared to have a tendency to cast a shadow and blight upon their young affection, they had loved, and loved truly; how Ingestrie, disliking, both from principle and distaste, the study of the law, had quarrelled with his uncle, Mr. Grant, and then how, as a bold adventurer, he had gone to seek his fortunes in the Indian seas; fortunes which promised to be splendid, but which might end in disappointment and defeat, and that they had ended in such calamities most deeply and truly did she mourn to be compelled to state. And she concluded by saying--
+
+"And now, Arabella, you know all I have to tell you. You know how truly I have loved, and how, after teaching myself to expect happiness, I have met with nothing but despair; and you may judge for yourself, how sadly the fate, or rather the mystery, which hangs over Mark Ingestrie, must deeply affect me, and how lost my mind must be in all kinds of conjecture concerning him."The hilarity of spirits which had characterised Arabella in the earlier part of their interview, entirely left her as Johanna proceeded in her mournful narration, and by the time she had concluded, tears of the most genuine sympathy stood in her eyes. She took the hands of Johanna in both her own, and said to her--
+
+"Why, my poor Johanna, I never expected to hear from your lips so sad a tale. This is most mournful, indeed very mournful; and, although I was half inclined before to quarrel with you for this tardy confidence--for you must recollect that it is the first I have heard of this whole affair--but now the misfortunes that oppress you are quite sufficient, Heaven knows, without me adding to them by the shadow of a reproach."
+
+"They are indeed, Arabella, and believe me, if the course of my love ran smoothly, instead of being, as it has been, full of misadventures, you should have had nothing to complain of on the score of want of confidence; but I will own I did hesitate to inflict on you my miseries, for miseries they have been, and, alas! miseries they seem destined to remain."
+
+"Johanna, you could not have used an argument more delusive than that. It is not one which should have come from your lips to me."
+
+"But surely it was a good motive to spare you pain?"
+
+"And did you think so lightly of my friendship that it was to be entrusted with nothing but what wore a pleasant aspect?True friendship surely is best shown in the encounter of difficulty and distress. I grieve, Johanna, indeed, that you have so much mistaken me."
+
+"Nay, now you do me an injustice: it was not that I doubted your friendship for one moment, but that I did indeed shrink from casting the shadow of my sorrows over what should be, and what I hope is, the sunshine of your heart. That was the respect which deterred me from making you a confidant of, what I suppose I must call, this ill-fated passion."
+
+"No, not ill-fated, Johanna. Let us still believe that the time will come when it will be far otherwise than ill-fated."
+
+"But what do you think of all that I have told you? Can you gather from it any hope?"
+
+"Abundance of hope, Johanna. You have no certainty of the death of Ingestrie."
+
+"I certainly have not, as far as regards the loss of him in the Indian seas; but, Arabella, there is one supposition which, from the first moment that it found a home in my breast, has been growing stronger and stronger, and that supposition is, that this Mr. Thornhill was no other than Mark Ingestrie himself."
+
+"Indeed! Think you so? That would be a strange supposition. Have you any special reasons for such a thought?""None--further than a something which seemed ever to tell my heart from the first moment that such was the case, and a consideration of the improbability of the story related by Thornhill. Why should Mark Ingestrie have given him the string of pearls and the message to me, trusting to the preservation of this Thornhill, and assuming, for some strange reason, that he himself must fall?"
+
+"There is good argument in that, Johanna."
+
+"And, moreover, Mark Ingestrie told me he intended altering his name upon the expedition."
+
+"It is strange; but now you mention such a supposition, it appears, do you know, Johanna, each moment more probable to me. Oh, that fatal string of pearls!"
+
+"Fatal, indeed! for if Mark Ingestrie and Thornhill be one and the same person, the possession of those pearls has been the temptation to destroy him."
+
+"There cannot be a doubt upon that point, Johanna, and so you will find in all tales of love and of romance, that jealousy and wealth have been the sources of all the abundant evils which fond and attached hearts have from time to time suffered."
+
+"It is so; I believe, it is so, Arabella; but advise me what to do, for truly I am myself incapable of action. Tell me what you think it is possible to do, under those disastrous circumstances, for there is nothing which I will not dare attempt.""Why, my dear Johanna, you must perceive that all the evidence you have regarding this Thornhill, follows him up to that barber's shop in Fleet-street, and no farther."
+
+"It does, indeed."
+
+"Can you not imagine, then, that there lies the mystery of his fate; and, from what you have yourself seen of this man, Todd, do you think he is one who would hesitate even at murder?"
+
+"Oh, horror! my own thoughts have taken that dreadful turn, but I dreaded to pronounce the word which would embody them. If, indeed, that fearful-looking man fancied that, by any deed of blood, he could become possessed of such a treasure as that which belonged to Mark Ingestrie, unchristian and illiberal as it may sound, the belief clings to me that he would not hesitate to do it."
+
+"Do not, however, conclude, Johanna, that such is the case. It would appear from all you have heard and seen of these circumstances, that there is some fearful mystery; but do not, Johanna, conclude hastily that that mystery is one of death."
+
+"Be it so, or not," said Johanna, "I must solve it, or go distracted. Heaven have mercy upon me!--for even now I feel a fever in my brain that precludes almost the possibility of rational thought.""Be calm, be calm--we will think the matter over calmly and seriously; and who knows but that, mere girls as we are, we may think of some adventitious mode of arriving at a knowledge of the truth; and now I am going to tell you something, which your narrative has recalled to my mind."
+
+"Say on, Arabella, I shall listen to you with deep attention."
+
+"A short time since, about six months, I think, an apprentice of my father, in the last week of his servitude, was sent to the west-end of the town, to take a considerable sum of money; but he never came back with it, and from that day to this we have heard nothing of him, although, from inquiry that my father made, he ascertained that he received the money, and that he met an acquaintance in the Strand, who parted from him at the corner of Milford-lane, and to whom he said that he intended to call at Sweeney Todd's, the barber, in Fleet-street, to have his hair dressed, because there was to be a regatta on the Thames, and he was determined to go to it whether my father liked or not."
+
+"And he was never heard of?"
+
+"Never. Of course, my father made every inquiry upon the subject, and called upon Sweeney Todd for the purpose; but, as he declared that no such person had ever called at his shop, the inquiry there terminated."
+
+"'Tis very strange.""And most mysterious; for the friends of the youth were indeed indefatigable in their searches for him; and, by subscribing together for the purpose, they offered a large reward to any one who could or would give them information regarding his fate."
+
+"And was it all in vain?"
+
+"All; nothing could be learned whatever. Not even the remotest clue was obtained, and there the affair has rested, in the most profound of mysteries."
+
+Johanna shuddered, and for some few moments the two young girls were silent. It was Johanna who broke that silence, by exclaiming--
+
+"Arabella, assist me with what advice you can, so that I may set about what I purpose with the best prospect of success and the least danger; not that I shrink on my own account from risk, but if any misadventure were to occur to me, I might thereby be incapacitated from pursuing that object, to which I will now devote the remainder of my life."
+
+"But what can you do, my dear Johanna? It was but a short time since there was a placard in the barber's window to say that he wanted a lad as an assistant in his business, but that has been removed, or we might have procured some one to take the situation for the express purpose of playing the spy upon the barber's proceedings.""But, perchance, still there may be an opportunity of accomplishing something in that way, if you knew of any one that would undertake the adventure."
+
+"There will be no difficulty, Johanna, in discovering one willing to do so, although we might be long in finding one of sufficient capacity that we could trust; but I am adventurous, Johanna, as you know, and I think I could have got my cousin Albert to personate the character, only that I think he's rather a giddy youth, and scarcely to be trusted with a mission of so much importance."
+
+"Yes, and a mission likewise, Arabella, which, by a single false step, might be made frightfully dangerous."
+
+"It might indeed."
+
+"Then it will be unfair to place it upon any one but those who feel most deeply for its success."
+
+"Johanna, the enthusiasm with which you speak awakens in me a thought which I shrink from expressing to you, and which, I fear, perhaps more originates from a certain feeling of romance, which, I believe, is a besetting sin, than from any other cause."
+
+"Name it, Arabella; name it."
+
+"It would be possible for you or I to accomplish the object, by going disguised to the barber's, and accepting such a situation, if it were vacant,for a period of about twenty-four hours, in order that during that time an opportunity might be taken of searching in his house for some evidence upon the subject nearest to your heart."
+
+"It is a happy thought," said Johanna, "and why should I hesitate at encountering any risk, or toil, or difficulty, for him who has risked so much for me? What is there to hinder me from carrying out such a resolution? At any moment, if great danger should beset me, I can rush into the street, and claim protection from the passers-by."
+
+"And moreover, Johanna, if you went on such a mission, remember you go with my knowledge, and that consequently I would bring you assistance, if you appeared not in the specified time for your return."
+
+"Each moment, Arabella, the plan assumes to my mind a better shape. If Sweeney Todd be innocent of contriving anything against the life and liberty of those who seek his shop, I have nothing to fear; but if, on the contrary, he be guilty, danger to me would be the proof of such guilt, and that is a proof which I am willing to chance encountering for the sake of the great object I have in view; but how am I to provide myself with the necessary means?"
+
+"Be at rest upon that score. My cousin Albert and you are as nearly of a size as possible. He will be staying here shortly, and I will secure from his wardrobe a suit of clothes, which I am certain will answer your purpose. But let me implore you to wait until you have had your second interview with Colonel Jeffery.""That is well thought of; I will meet him, and question him closely as to the personal appearance of this Mr. Thornhill; beside, I shall hear if he has any confirmed suspicion on the subject."
+
+"That is well, you will soon meet him, for the week is running on; and let me implore you, Johanna, to come to me the morning after you have so met him, and then we will again consult upon this plan of operations, which appears to us feasible and desirable."
+
+Some more conversation of a similar character ensued between these young girls; and upon the whole, Johanna Oakley felt much comforted by her visit, and more able to think calmly as well as seriously upon the subject which engrossed her whole thoughts and feelings; and when she returned to her own home, she found that much of the excitement of despair which had formerly had possession of her, had given way to hope; and with that natural feeling of joyousness, and that elasticity of mind which belongs to the young, she began to build in her imagination some airy fabrics of future happiness. Certainly, these suppositions went upon the fact that Mark Ingestrie was a prisoner, and not that his life had been taken by the mysterious barber; for although the possibility of his having been murdered had found a home in her imagination, still to her pure spirit it seemed by far too hideous to be true, and she scarcely could be said really and truly to entertain it as a matter which was likely to be true.<b>CHAPTER XIV.</b>
+<b>TOBIAS'S THREAT, AND ITS CONSEQUENCES.</b>
+
+Perhaps one of the most pitiable objects now in our history is poor Tobias, Sweeney Todd's boy, who certainly had his suspicions aroused in the most terrific manner, but who was terrified, by the threats of what the barber was capable of doing against his mother, from making any disclosures. The effect upon his personal appearance of this wear and tear of his intellect was striking and manifest. The hue of youth and health entirely departed from his cheeks, and he looked so sad and careworn, that it was quite a terrible thing to look upon a young lad so, as it were, upon the threshold of existence, and in whom anxious thoughts were making such war upon the physical energies. His cheeks were pale and sunken; his eyes had an unnatural brightness about them, and, to look upon his lips, one would think they had never parted in a smile for many a day, so sadly were they compressed together. He seemed ever to be watching likewise for something fearful, and even as he walked the streets he would frequently turn and look inquiringly around him with a shudder; and in his brief interview with Colonel Jeffery and his friend the captain, we can have a tolerably good comprehension of the state of his mind. Oppressed with fears, and all sorts of dreadful thoughts, panting to give utterance to what he knew and to what he suspected, yet terrified into silence for his mother's sake, we cannot but view him as signally entitled to the sympathy of the reader, and as, in all respects, one sincerely to be pitied for the cruel circumstances in which he was placed.The sun is shining brightly, and even that busy region of trade and commerce, Fleet-street, is looking gay and beautiful; but not for that poor spirit-stricken lad are any of the sights and sounds which used to make up the delight of his existence, reaching his eyes or ears now with their accustomed force. He sits moody and alone, and in the position which he always assumes when Sweeney Todd is from home--that is to say, with his head resting on his hands, and looking the picture of melancholy abstraction.
+
+"What shall I do?" he said to himself, "what will become of me? I think if I live here any longer, I shall go out of my senses. Sweeney Todd is a murderer--I am quite certain of it, and I wish to say so, but I dare not for my mother's sake. Alas! alas! the end of it will be, that he will kill me, or that I shall go out of my senses, and then I shall die in some mad-house, and no one will care what I say."
+
+The boy wept bitterly after he had uttered these melancholy reflections, and he felt his tears something of a relief to him, so that he looked up after a little time, and glanced around him.
+
+"What a strange thing," he said, "that people should come into this shop, to my certain knowledge, who never go out of it again, and yet what becomes of them I cannot tell."
+
+He looked with a shuddering anxiety towards the parlour, the door of which Sweeney Todd took care to lock always when he left the place, and he thought that he should like much to have a thorough examination of that room."I have been in it," he said, "and it seems full of cupboards and strange holes and corners, such as I never saw before, and there is an odd stench in it that I cannot make out at all; but it's out of the question thinking of ever being in it above a few minutes at a time, for Sweeney Todd takes good care of that."
+
+The boy rose, and opened a small cupboard that was in the shop. It was perfectly empty.
+
+"Now, that's strange," he said, "there was a walking-stick with an ivory top to it here just before he went out, and I could swear it belonged to a man who came in to be shaved. More than once--ah! and more than twice, too, when I have come in suddenly, I have seen people's hats, and Sweeney Todd would try and make me believe that people go away after being shaved, and leave their hats behind them."
+
+He walked up to the shaving chair as it was called, which was a large, old-fashioned piece of furniture, made of oak, and carved; and, as the boy threw himself into it, he said--
+
+"What an odd thing it is that this chair is screwed so tight to the floor! Here is a complete fixture, and Sweeney Todd says it is so because it's in the best possible light, and if he were not to make it fast in such a way, the customers would shift it about from place to place, so that he could not conveniently shave them; it may be true, but I don't know.""And you have your doubts," said the voice of Sweeney Todd, as that individual, with a noiseless step, walked into the shop--"you have your doubts, Tobias? I shall have to cut your throat, that is quite clear."
+
+"No, no, have mercy upon me; I did not mean what I said."
+
+"Then it's uncommonly imprudent to say it, Tobias. Do you remember our last conversation? Do you remember that I can hang your mother when I please, because, if you do not, I beg to put you in mind of that pleasant little circumstance?"
+
+"I cannot forget--I do not forget."
+
+"'Tis well; and mark me, I will not have you assume such an aspect as you wear when I am not here. You don't look cheerful, Tobias; and, notwithstanding your excellent situation, with little to do, and the number of Lovett's pies you eat, you fall away."
+
+"I cannot help it," said Tobias, "since you told me what you did concerning my mother. I have been so anxious that I cannot help--"
+
+"Why should you be anxious? Her preservation depends upon yourself, and upon yourself wholly. You have but to keep silent, and she is safe; but if you utter one word that shall be displeasing to me about my affairs, mark me, Tobias, she comes to the scaffold;and if I cannot conveniently place you in the same mad-house where the last boy I had was placed, I shall certainly be under the troublesome necessity of cutting your throat."
+
+"I will be silent--I will say nothing, Mr. Todd. I know I shall die soon, and then you will get rid of me altogether, and I don't care how soon that may be, for I am quite weary of my life--I shall be glad when it is over."
+
+"Very good," said the barber; "that's all a matter of taste. And now, Tobias, I desire that you look cheerful and smile, for a gentleman is outside feeling his chin with his hand, and thinking he may as well come in and be shaved. I may want you, Tobias, to go to Billingsgate, and bring me a pennyworth of shrimps."
+
+"Yes," thought Tobias, with a groan--"yes, while you murder him."
+
+CHAPTER XV. THE SECOND INTERVIEW BETWEEN JOHANNA AND THE COLONEL IN THE TEMPLE GARDENS.
+
+Now that there was a great object to gain by a second interview with Colonel Jeffery, the anxiety of Johanna Oakley to have it became extremely great, and she counted the very hours until the period should arrive when she could again proceed to the Temple-gardens with something like a certainty of finding him. The object, of course, was to ask him for a description of Mr.Thornhill, sufficiently accurate to enable her to come to something like a positive conclusion as to whether she ought to call him to her own mind as Mark Ingestrie or not. And Colonel Jeffery was not a bit the less anxious to see her than she was to look upon him; for although in divers lands he had looked upon many a fair face, and heard many a voice that had sounded soft and musical in his ears, he had seen none that, to his mind, was so fair, and had heard no voice that he had considered really so musical and charming to listen to, as Johanna Oakley's. A man of more honourable and strict sense of honour than Colonel Jeffery could not have been found, and, therefore, it was that he allowed himself to admire the beautiful under any circumstances, because he knew that his admiration was of no dangerous quality, but that, on the contrary, it was one of those feelings which might exist in a bosom such as his, quite undebased by a meaner influence. We think it necessary, however, before he has his second meeting with Johanna Oakley, to give such an explanation of his thoughts and feelings as it is in our power. When first he met her, the purity of her mind, and the genuine and beautiful candour of all she said, struck him most forcibly, as well as her great beauty, which could not fail to be extremely manifest. After that he began to reason with himself as to what ought to be his feelings with regard to her--namely, what portion of these ought to be suppressed, and what ought to be encouraged. If Mark Ingestrie were dead, there was not a shadow of interference or dishonour in him, Colonel Jeffery, loving the beautiful girl, who was surely not to be shut out of the pale of all affection because the first person to whom her heart had warmed with a pure and holy passion, was no more."It may be," he thought, "that she is incapable of feeling a sentiment which can at all approach that which once she has felt; but still she may be happy and serene, and may pass many joyous hours as the wife of another."
+
+He did not positively make these reflections as applicable to himself, although they had a tendency that way, and he was fast verging to a state of mind which might induce him to give them a more actual application. He did not tell himself that he loved her--no, the word "admiration" took the place of the more powerful term; but then, can we not doubt that, at this time, the germ of a very pure and holy affection was lighted up in the heart of Colonel Jeffery for the beautiful creature who suffered the pangs of so much disappointment, and who loved one so well, who, we almost fear, if he were living, was scarcely the sort of person fully to requite such an affection. But we know so little of Mark Ingestrie, and there appears to be so much doubt as to whether he be alive or dead, that we should not prejudge him upon such very insufficient evidence. Johanna Oakley did think of taking Arabella Wilmot with her to this meeting with Colonel Jeffery, but she abandoned the idea, because it really looked as if she was either afraid of him or afraid of herself, so she resolved to go alone; and when the hour of appointment came, she was then walking upon that broad gravelled path, which has been trodden by some of the best, and some of the most eminent, as well as some of the worst of human beings. It was not likely that with the feelings of Colonel Jeffery towards her, he would keep her waiting. Indeed, he was then a good hour before the time, and his only great dread was, that she might not come.He had some reason for this dread, because it will be readily recollected by the reader, that she had not positively promised to come; so that all he had was a hope that way tending and nothing further. As minute after minute had passed away, she came not, although the time had not yet really arrived; his apprehension that she would not give him the meeting had grown in his mind almost to a certainty, when he saw her timidly advancing along the garden walk. He rose to meet her at once, and for a few moments after he had greeted her with kind civility she could do nothing but look inquiringly in his face, to know if he had any news to tell her of the object of her anxious solicitude.
+
+"I have heard nothing, Miss Oakley," he said, "that can give you any satisfaction concerning the fate of Mr. Thornhill, but we have much suspicion--I say we, because I have taken a friend into my confidence--that something serious must have happened to him, and that the barber, Sweeney Todd, in Fleet-street, at whose door the dog so mysteriously took his post, knows something of that circumstance, be it what it may."
+
+He led her to a seat as she spoke, and when she had recovered sufficiently the agitation of her feelings to speak, she said in a timid, hesitating voice--
+
+"Had Mr. Thornhill fair hair, and large, clear, grey eyes?"
+
+"Yes, he had such; and, I think, his smile was the most singularly beautiful I ever beheld in a man."
+
+"Heaven help me!" said Johanna."Have you any reason for asking that question concerning Thornhill?"
+
+"God grant I had not; but, alas! I have indeed. I feel that in Thornhill, I must recognise Mark Ingestrie himself."
+
+"You astonish me."
+
+"It must be so, it must be so; you have described him to me, and I cannot doubt it; Mark Ingestrie and Thornhill are one! I knew that he was going to change his name, when he went out upon that wild adventure to the Indian Sea. I was well aware of that fact."
+
+"I cannot think, Miss Oakley, that you are correct in that supposition. There are many things which induce me to think otherwise; and the first and foremost of them is, that the ingenuous character of Mr. Thornhill forbids the likelihood of such a thing occurring. You may depend it is not--cannot be, as you suppose."
+
+"The proofs are too strong for me, and I find I dare not doubt them. It is so, Colonel Jeffery, as time, perchance, may show; it is sad, very sad, to think that it is so, but I dare not doubt it, now that you have described him to me exactly as he lived."
+
+"I must own, that in giving an opinion on such a point to you, I may be accused of arrogance and presumption, for I have had no description of Mark Ingestrie, and never saw him; and although you never saw certainly Mr.Thornhill, yet I have described him to you, and therefore you are able to judge from that description something of him."
+
+"I am indeed, and I cannot--dare not doubt. It is horrible to be positive on this point to me, because I do fear with you that something dreadful has occurred, and that the barber in Fleet-street could unravel a frightful secret, if he chose, connected with Mark Ingestrie's fate."
+
+"I do sincerely hope from my heart that you are wrong; I hope it, because I tell you frankly, dim and obscure as the hope that Mark Ingestrie may have been picked up from the wreck of his vessel, it is yet stronger than the supposition that Thornhill has escaped the murderous hands of Sweeney Todd, the barber."
+
+Johanna looked in his face so imploringly, and with such an expression of hopelessness, that it was most sad indeed to see her, and quite involuntarily he exclaimed--
+
+"If the sacrifice of my life would be to you a relief, and save you from the pangs you suffer, believe me, it should be made."
+
+She started as she said--
+
+"No, no: Heaven knows enough has been sacrificed already--more than enough, much more than enough. But do not suppose that I am ungrateful for the generous interest you have taken in me.Do not suppose that I think any the less of the generosity and nobility of soul that would offer a sacrifice, because it is one that I would hesitate to accept. No, believe me, Colonel Jeffery, that among the few names that are enrolled in my breast--and such to me will ever be honoured--remember yours will be found while I live, but that will not be long--but that will not be long."
+
+"Nay, do not speak so despairingly."
+
+"Have I not cause for despair?"
+
+"Cause have you for great grief, but yet scarcely for despair. You are young yet, and let me entertain a hope that even if a feeling of regret may mingle with your future thoughts, time will achieve something in tempering your sorrow; and if not great happiness, you may know yet great serenity."
+
+"I dare not hope it, but I know your words are kindly spoken, and most kindly meant."
+
+"You may well assure yourself that they are so."
+
+"I will ascertain his fate, or perish."
+
+"You alarm me by those words, as well as by your manner of uttering them. Let me implore you, Miss Oakley, to attempt nothing rash; remember how weak and inefficient must be the exertions of a young girl like yourself, one who knows so little of the world, and can really understand so little of its wickedness.""Affection conquers all obstacles, and the weakest and most inefficient girl that ever stepped, if she have strong within her that love which, in all its sacred intensity, knows no fear, shall indeed accomplish much. I feel that, in such a cause, I could shake off all girlish terrors and ordinary alarms; and if there be danger, I would ask, what is life to me without all that could adorn it and make it beautiful?"
+
+"This, indeed, is the very enthusiasm of affection, when, believe me, it will lead you to some excess--to some romantic exercise of feeling, such as will bring great danger in its train, to the unhappiness of those who love you."
+
+"Those who love me--who is there to love me now?"
+
+"Johanna Oakley, I dare not and will not utter words that come thronging to my lips, but which I fear might be unwelcome to your ears; I will not say that I can answer the question that you have asked, because it would sound ungenerous at such a time as this, when you have met me to talk about the fate of another. Oh! forgive me, that, hurried away by the feeling of a moment, I have uttered these words, for I meant not to utter them."
+
+Johanna looked at him in silence, and it might be that there was the slightest possible tinge of reproach in her look, but it was very slight, for one glance at that ingenuous countenance would be sufficient to convince the most sceptical of the truth and single-mindedness of its owner: of this there could be no doubt whatever, and if anything in the shape of a reproach was upon the point of coming from her lips, she forbore to utter it."May I hope," he added, "that I have not lowered myself in your esteem, Miss Oakley, by what I have said?"
+
+"I hope," she said gently, "that you will continue to be my friend."
+
+He laid an emphasis on the word "friend," and he fully understood what she meant to imply thereby, and after a moment's pause said--
+
+"Heaven forbid that ever, by word or by action, Johanna, I should do aught to deprive myself of that privilege. Let me be yet your friend, since--"
+
+He left the sentence unfinished, but if he had added the words--"Since I can do no more," he could not have made it more evident to Johanna that those were the words he intended to utter.
+
+"And now," he added, "that I hope and trust we understand each other better than we did, and you are willing to call me by the name of friend, let me once more ask of you, by the privilege of such a title, to be careful of yourself, and not to risk much in order that you may, perhaps, have some remote chance of achieving very little."
+
+"But can I endure this dreadful suspense?"
+
+"It is, alas! too common an infliction on human nature, Johanna. Pardon me for addressing you as Johanna.""Nay, it requires no excuse. I am accustomed so to be addressed by all who feel a kindly interest for me. Call me Johanna if you will, and I shall feel a greater assurance of your friendship and your esteem."
+
+"I will then avail myself of that permission, and again and again I will entreat you to leave to me the task of making what attempts may be made to discover the fate of Mr. Thornhill. There must be danger even in inquiring for him, if he has met with any foul play, and therefore I ask you to let that danger be mine."
+
+Johanna asked herself if she should or not tell him of the scheme of operations that had been suggested by Arabella Wilmot, but, somehow or another, she shrank most wonderfully from so doing, both on account of the censure which she concluded he would be likely to cast upon it, and the romantic, strange nature of the plan itself, so she said, gently and quickly--
+
+"I will attempt nothing that shall not have some possibility of success attending it. I will be careful, you may depend, for many considerations. My father, I know, centres all his affections in me, and for his sake I will be careful."
+
+"I shall be content then, and now may I hope that this day week I may see you here again, in order that I may tell you if I have made any discovery, and that you may tell me the same; for my interest in Thornhill is that of a sincere friend, to say nothing of the deep interest in your happiness which I feel, and which now has become an element in the transaction of the highest value?""I will come," said Johanna, "if I can come."
+
+"You do not doubt?"
+
+"No, no. I will come, and I hope to bring you some news of him in whom you are so much interested. It shall be no fault of mine if I come not."
+
+He walked with her from the gardens, and together they passed the shop of Sweeney Todd, but the door was close shut, and they saw nothing of the barber, or of that poor boy, his apprentice, who was so much to be pitied. He parted with Johanna near to her father's house, and he walked slowly away with his mind so fully impressed with the excellence and beauty of the spectacle-maker's daughter, that it was quite clear, as long as he lived, he would not be able to rid himself of the favourable impression she had made upon him.
+
+"I love her," he said; "I love her, but she seems in no respect willing to enchain her affections. Alas! alas! how sad it is for me, that the being who above all others I could wish to call my own, instead of a joy to me, I have only encountered that she might impart a pang to my heart. Beautiful and excellent Johanna, I love you, but I can see that your own affections are withered for ever."
+
+        CHAPTER XVI.
+THE BARBER MAKES ANOTHER ATTEMPT TO SELL THE STRING OF PEARLS.It would seem as if Sweeney Todd, after his adventure in already trying to dispose of the string of pearls which he possessed, began to feel little doubtful about his chances of success in that matter, for he waited patiently for a considerable period before he again made the attempt, and then he made it after a totally different fashion. Towards the close of night on that same evening when Johanna Oakley had met Colonel Jeffery, for the second time, in the Temple Garden, and while Tobias sat alone in the shop in his usual deep dejection, a stranger entered the place, with a large blue bag in his hand, and looked inquiringly about him.
+
+"Hilloa, my lad!" said he, "is this Mr. Todd's?"
+
+"Yes," said Tobias; "but he is not at home. What do you want?"
+
+"Well, I'll be hanged," said the man, "if this don't beat everything; you don't mean to tell me he is a barber, do you?"
+
+"Indeed I do; don't you see?"
+
+"Yes, I see to be sure; but I'll be shot if I thought of it beforehand. What do you think he has been doing?"
+
+"Doing," said Tobias, with animation; "do you think he will be hung?"
+
+"Why, no, I don't say it is a hanging matter, although you seem as if you wished it was;but I'll just tell you now we are artists at the west-end of the town."
+
+"Artists! Do you mean to say you draw pictures?"
+
+"No, no, we make clothes; but we call ourselves artists now, because tailors are out of fashion."
+
+"Oh, that's it, is it?"
+
+"Yes, that's it; and you would scarcely believe it, but he came to our shop actually, and ordered a suit of clothes, which were to come to no less a sum than thirty pounds, and told us to make them up in such a style that they were to do for any nobleman, and he gave his name and address, as Mr. Todd, at this number in Fleet-street, but I hadn't the least idea that he was a barber; if I had, I am quite certain the clothes would not have been finished in the style they are, but quite the reverse."
+
+"Well," said Tobias, "I can't think what he wants such clothing for, but I suppose it's all right. Was he a tall, ugly-looking fellow?"
+
+"As ugly as the very devil. I'll just show you the things, as he is not at home. The coat is of the finest velvet, lined with silk, and trimmed with lace. Did you ever, in all your life, see such a coat for a barber?"
+
+"Indeed, I never did; but it is some scheme of his, of course. It is a superb coat.""Yes, and all the rest of the dress is of the same style; what on earth he can be going to do with it I can't think, for it's only fit to go to court in."
+
+"Oh, well, I know nothing about it," said Tobias, with a sigh, "you can leave it or not as you like, it is all one to me."
+
+"Well, you do seem the most melancholy wretch ever I came near; what's the matter with you?"
+
+"The matter with me? Oh, nothing. Of course, I am as happy as I can be. Ain't I Sweeney Todd's apprentice, and ain't that enough to make anybody sing all day long?"
+
+"It may be for all I know, but certainly you don't seem to be in a singing humour; but, however, we artists cannot waste our time, so just be so good as to take care of the clothes, and be sure you give them to your master; and so I wash my hands of the transaction."
+
+"Very good, he shall have them; but do you mean to leave such valuable clothes without getting the money for them?"
+
+"Not exactly, for they are paid for."
+
+"Oh! that makes all the difference--he shall have them."Scarcely had this tailor left the place, when a boy arrived with a parcel, and, looking around him with undisguised astonishment, said--
+
+"Isn't there some other Mr. Todd, in Fleet-street?"
+
+"Not that I know of," said Tobias. "What have you got there?"
+
+"Silk stockings, gloves, lace, cravats, ruffles, and so on."
+
+"The deuce you have; I dare say it's all right."
+
+"I shall leave them--they are paid for. This is the name, and this is the number."
+
+"Now, stupid!"
+
+This last exclamation arose from the fact that this boy, in going out, ran up against another who was coming in.
+
+"Can't you see where you are going?" said the new arrival.
+
+"What's that to you? I have a good mind to punch your head."
+
+"Do it, and then come down our court, and see what a licking I'll give you."
+
+"Will you? Why don't you? Only let me catch you, that's all."They stood for some moments so closely together that their noses very nearly touched; and then, after mutual assertions of what they would do if they caught each other--although, in either case, to stretch out an arm would have been quite sufficient to have accomplished that object--they separated, and the last comer said to Tobias, in a tone of irritation, probably consequent upon the misunderstanding he had just had with the hosier's boy--
+
+"You can tell Mr. Todd that the carriage will be ready at half-past seven precisely."
+
+And then he went away, leaving Tobias in a state of great bewilderment as to what Sweeney Todd could possibly be about to do with such an amount of finery as that which was evidently coming home for him.
+
+"I can't make it out," he said. "It's some villany, of course, but I can't make out what it is--I wish I knew; I might thwart him in it. He is a villain, and neither could nor would project anything good; but what can I do? I am quite helpless in this, and will just let it take its course. I can only wish for a power of action I shall never possess. Alas, alas! I am very sad, and know not what will become of me. I wish that I was in my grave, and there I am sure I shall be soon, unless something happens to turn the tide of all this wretched evil fortune that has come upon me."
+
+It was in vain for Tobias to think of vexing himself with conjectures as to what Sweeney Todd was about to do with so much finery, for he had not the remotest foundation to go upon in the matter,and could not for the life of him imagine any possible contingency or chance which should make it necessary for the barber to deck himself in such gaudy apparel. All he could do was to lay down in his own mind a general principle as regarded Sweeney Todd's conduct, and that consisted in the fact, that whatever might be his plans, and whatever might be his objects, they were for no good purpose; but, on the contrary, were most certainly intended for the accomplishment of some great evil which that most villanous person intended to perpetrate.
+
+"I will observe all I can," thought Tobias to himself, "and do what I can to put a stop to his mischiefs; but I fear it will be very little he will allow me to observe, and perhaps still less that he will allow me to do; but I can but try, and do my best."
+
+Poor Tobias's best, as regarded achieving anything against Sweeney Todd, we may well suppose would be little indeed, for that individual was not the man to give anybody an opportunity of doing much; and, possessed as he was of the most consummate art, as well as the greatest possible amount of unscrupulousness, there can be very little doubt but that any attempt poor Tobias might make would recoil upon himself. In about half an hour the barber returned, and his first question was--
+
+"Have any things been left for me?"
+
+"Yes, sir," said Tobias, "here are two parcels, and a boy has been to say that the carriage will be ready at half-past seven precisely.""'Tis well," said the barber, "that will do; and Tobias, you will be careful, whilst I am gone, of the shop. I shall be back in half an hour, mind you, and not later; and be sure that I find you here at your post. But you may say, if any one comes here on business, there will be neither shaving nor dressing to-night. You understand me?"
+
+"Yes, sir, certainly."
+
+Sweeney Todd then took the bundles which contained the costly apparel, and retired into the parlour with them; and, as it was then seven o'clock, Tobias correctly enough supposed that he had gone to dress himself, and he waited with a considerable amount of curiosity to see what sort of an appearance the barber would cut in his fine apparel. Tobias had not to control his impatience long, for in less than twenty minutes, out came Sweeney Todd, attired in the very height of fashion for the period. His waistcoat was something positively gorgeous, and his fingers were loaded with such costly rings, that they quite dazzled the sight of Tobias to look upon; then, moreover, he wore a sword with a jewelled hilt, but it was one which Tobias really thought he had seen before, for he had a recollection that a gentleman had come to have his hair dressed, and had taken it off, and laid just such a sword across his hat during the operation.
+
+"Remember," said Sweeney Todd, "remember your instructions; obey them to the letter, and no doubt you will ultimately become happy and independent."With these words, Sweeney Todd left the place, and poor Tobias looked after him with a frown, as he repeated the words--
+
+"Happy and independent. Alas! what a mockery it is of this man to speak to me in such a way--I only wish that I were dead!"
+
+But we will leave Tobias to his own reflections, and follow the more interesting progress of Sweeney Todd, who, for some reason best known to himself, was then playing so grand a part, and casting away so large a sum of money. He made his way to a livery-stables in the immediate neighbourhood, and there, sure enough, the horses were being placed to a handsome carriage; and all being very soon in readiness, Sweeney Todd gave some whispered directions to the driver, and the vehicle started off westward. At that time Hyde Park Corner was very nearly out of town, and it looked as if you were getting a glimpse of the country, and actually seeing something of the peasantry of England, when you got another couple of miles off, and that was the direction in which Sweeney Todd went; and as he goes, we may as well introduce to the reader the sort of individual whom he was going to visit in so much state, and for whom he thought it necessary to go to such great expense. At that period the follies and vices of the nobility were somewhere about as great as they are now, and consequently extravagance induced on many occasions tremendous sacrifice of money, and it was found extremely convenient on many occasions for them to apply to a man of the name of John Mundel, an exceedingly wealthy person, a Dutchman by extraction, who was reported to make immense sums of money by lending to the nobility and others what they required on emergencies, at enormous rates of interest.But it must not be supposed that John Mundel was so confiding as to lend his money without security. It was quite the reverse, for he took care to have the jewels, some costly plate, or the title-deeds of an estate, perchance, as security, before he would part with a single shilling of his cash. In point of fact, John Mundel was nothing more than a pawnbroker on a very extensive scale, and, although he had an office in town, he usually received his more aristocratic customers at his private residence, which was about two miles off, on the Uxbridge Road. After this explanation, it can very easily be imagined what was the scheme of Sweeney Todd, and that he considered, if he borrowed from John Mundel a sum equal in amount to half the real value of the pearls, he should be well rid of a property which he certainly could not sufficiently well account for the possession of, to enable him to dispose of it openly to the highest bidder. We give Sweeney Todd great credit for the scheme he proposed. It was eminently calculated to succeed, and one which, in the way he undertook it, was certainly set about in the best possible style. During the ride, he revolved in his mind exactly what he should say to John Mundel, and, from what we know of him, we may be well convinced that Sweeney Todd was not likely to fail from any amount of bashfulness in the transaction; but that, on the contrary, he was just the man to succeed in any scheme which required great assurance to carry it through; for he was most certainly master of great assurance, and possessed of a kind of diplomatic skill, which, had fortune placed him in a more elevated position of life, would no doubt have made a great man of him, and gained him great political reputation.John Mundel's villa, which was called, by the by, Mundel House, was a large, handsome, and modern structure, surrounded by a few acres of pleasure-gardens, which, however, the money-lender never looked at, for his whole soul was too much engrossed by his love for cash to enable him to do so; and, if he derived any satisfaction at all from it, that satisfaction must have been entirely owing to the fact, that he had wrung mansion, grounds, and all the costly furnishing of the former, from an improvident debtor, who had been forced to fly the country, and leave his property wholly in the hands of the money-lender and usurer. It was but a short drive with the really handsome horses that Sweeney Todd had succeeded in hiring for the occasion, and he soon found himself opposite the entrance gates of the residence of John Mundel. His great object now was that the usurer should see the equipage which he had brought down; and he accordingly desired the footman who accompanied him at once to ring the bell at the entrance-gate, and to say that a gentleman was waiting in his carriage to see Mr. Mundel. This was done; and when the money-lender's servant reported to him that the equipage was a costly one, and that, in his opinion, the visitor must be some nobleman of great rank, John Mundel made no difficulty about the matter, but walked down to the gate at once, where he immediately mentally subscribed to the opinion of his servant, by admitting to himself that the equipage was faultless, and presumed at once that it did belong to some person of great rank. He was proportionally humble, as such men always are, and, advancing to the side of the carriage, he begged to know what commands his lordship--for so he called him at once--had for him?"I wish to know," said Sweeney Todd, "Mr. Mundel, if you are inclined to lay under an obligation a rather illustrious lady, by helping her out of a little pecuniary difficulty?"
+
+John Mundel glanced again at the equipage, and he likewise saw something of the rich dress of his visitor, who had not disputed the title which had been applied to him, of lord; and he made up his mind accordingly that it was just one of the transactions that would suit him, provided the security that would be offered was of a tangible nature. That was the only point upon which John Mundel had the remotest doubt, but, at all events, he urgently pressed his visitor to alight and walk in.<b>CHAPTER XIV.</b>
+<b>THE GREAT CHANGE IN THE PROSPECTS OF SWEENEY TODD.</b>
+
+As Sweeney Todd's object, so far as regarded the money-lender having seen the carriage, was fully answered, he had no objection to enter the house, which he accordingly did at once, being preceded by John Mundel, who became each moment more and more impressed with the fact, as he considered it, that his guest was some person of very great rank and importance in society. He ushered him into a splendidly-furnished apartment, and after offering him refreshments, which Sweeney Todd politely declined, he waited with no small degree of impatience for his visitor to be more explicit with regard to the object of his visit.
+
+"I should," said Sweeney Todd, "have myself accommodated the illustrious lady with the sum of money she requires, but as I could not do so without incumbering some estates, she positively forbade me to think of it."
+
+"Certainly," said Mr. Mundel, "she is a very illustrious lady, I presume?"
+
+"Very illustrious indeed, but it must be a condition of this transaction, if you at all enter into it, that you are not to inquire precisely who she is, nor are you to inquire precisely who I am."
+
+"It's not my usual way of conducting business, but if everything else be satisfactory, I shall not cavil at that.""Very good; by everything else being satisfactory, I presume you mean the security offered?"
+
+"Why, yes, that is of great importance, my lord."
+
+"I informed the illustrious lady, that, as the affair was to be wrapped up in something of a mystery, the security must be extremely ample."
+
+"That's a very proper view to take of the matter, my lord. I wonder," thought John Mundel, "if he is a duke; I'll call him 'your grace' next time, and see if he objects to it."
+
+"Therefore," continued Sweeney Todd, "the illustrious lady placed in my hands security to a third greater amount than she required."
+
+"Certainly, certainly, a very proper arrangement, your grace; may I ask the nature of the proffered security?"
+
+"Jewels."
+
+"Highly satisfactory and unexceptionable security; they go into a small space, and do not deteriorate in value."
+
+"And if they do," said the barber, "deteriorate in value, it would make no difference to you, for the illustrious person's honour would be committed to your redemption.""I don't doubt that, your grace, in the least; I merely made the remark incidentally, quite incidentally."
+
+"Of course, of course; and I trust, before going further, that you are quite in a position to enter into this subject."
+
+"Certainly I am, and, I am proud to say, to any amount. Show me the money's worth, your grace, and I will show you the money--that's my way of doing business; and no one can say that John Mundel ever shrunk from a matter that was brought fairly before him, and that he considered worth his going into."
+
+"It was by hearing such a character of you that I was induced to come to you. What do you think of that?"
+
+Sweeney Todd took from his pocket, with a careless air, the string of pearls, and cast them down before the eyes of the money-lender, who took them up and ran them rapidly through his fingers for a few seconds before he said--
+
+"I thought there was but one string like this in the kingdom, and those belonged to the Queen."
+
+"Well," said Sweeney Todd.
+
+"I humbly beg your grace's pardon. How much money does your grace require on these pearls?""Twelve thousand pounds is their current value, if a sale of them was enforced; eight thousand pounds are required of you on their security."
+
+"Eight thousand is a large sum. As a general thing I lend but half the value upon anything; but in this case, to oblige your grace and the illustrious personage, I do not, of course, hesitate for one moment but shall for one month lend you the required amount."
+
+"That will do," said Sweeney Todd, scarcely concealing the exultation he felt at getting so much more from John Mundel than he expected, and which he certainly would not have got if the money-lender had not been most fully and completely impressed with the idea that the pearls belonged to the Queen, and that he had actually at length majesty itself for a customer. He did not suppose for one moment that it was the queen who wanted the money; but his view of the case was, that she had lent the pearls to this nobleman to meet some exigency of his own, and that, of course, they would be redeemed very shortly. Altogether a more pleasant transaction for John Mundel could not have been imagined. It was just the sort of thing he would have looked out for, and had the greatest satisfaction in bringing to a conclusion, and he considered it was opening the door to the highest class of business in his way that he was capable of doing.
+
+"In what name, your grace," he said, "shall I draw a cheque upon my banker?"
+
+"In the name of Colonel George.""Certainly, certainly; and if your grace will give me an acknowledgment for eight thousand pounds, and please to understand that at the end of a month from this time the transaction will be renewed if necessary, I will give you a cheque for seven thousand five hundred pounds."
+
+"Why seven thousand five hundred only, when you mentioned eight thousand pounds?"
+
+"The five hundred pounds is my little commission upon the transaction. Your grace will perceive that I appreciate highly the honour of your grace's custom, and consequently charge the lowest possible price. I can assure your grace I could get more for my money by a great deal, but the pleasure of being able to meet your grace's views is so great, that I am willing to make a sacrifice, and therefore it is that I say five hundred, when I really ought to say one thousand pounds, taking into consideration the great scarcity of money at the present juncture; and I can assure your grace that--"
+
+"Peace, peace," said Sweeney Todd; "and if it be not convenient to redeem the jewels at the end of a month from this time, you will hear from me most assuredly."
+
+"I am quite satisfied of that," said John Mundel, and he accordingly drew a cheque for seven thousand five hundred pounds, which he handed to Sweeney Todd, who put it in his pocket, not a little delighted that at last he had got rid of his pearls, even at a price so far beneath their real value."I need scarcely urge upon you, Mr. Mundel," he said, "the propriety of keeping this affair profoundly secret."
+
+"Indeed you need not, your grace, for it is part of my business to be discreet and cautious. I should very soon have nothing to do in my line, your grace may depend, if I were to talk about it. No, this transaction will for ever remain locked up in my own breast, and no living soul but your grace and I need know what has occurred."
+
+With this, John Mundel showed Sweeney Todd to his carriage, with abundance of respect, and in two minutes more he was travelling along towards town with what might be considered a small fortune in his pocket. We should have noticed earlier that Sweeney Todd had, upon the occasion of his going to sell the pearls to the lapidary, in the city, made some great alterations in his appearance, so that it was not likely he should be recognised again to a positive certainly. For example--having no whiskers whatever of his own, he had put on a large black pair of false ones, as well as moustachios, and he had given some colour to his cheeks likewise which had so completely altered his appearance, that those who were most intimate with him would not have known him except by his voice, and that he took good care to alter in his intercourse with John Mundel, so that it should not become a future means of detection.
+
+"I thought that this would succeed," he muttered to himself, as he went towards town, "and I have not been deceived. For three months longer, and only three, I will carry on the business in Fleet-street, so that any sudden alteration in my fortunes may not give rise to suspicion."He was then silent for some minutes, during which he appeared to be revolving some very knotty question in his brain, and then he said, suddenly--
+
+"Well, well, as regards Tobias, I think it will be safer, unquestionably, to put him out of the way by taking his life, than to try to dispose of him in a mad-house, and I think there are one or two more persons whom it will be highly necessary to prevent being mischievous, at all events at present. I must think--I must think."
+
+When such a man as Sweeney Todd set about thinking, there could be no possible doubt but that some serious mischief was meditated, and any one who could have watched his face during that ride home from the money-lender's, would have seen by its expression that the thoughts which agitated him were of a dark and desperate character, and such as anybody but himself would have shrunk from aghast. But he was not a man to shrink from anything, and, on the contrary, the more a set of circumstances presented themselves in a gloomy and a terrific aspect, the better they seemed to suit him, and the peculiar constitution of his mind. There can be no doubt but that the love of money was the predominant feeling in Sweeney Todd's intellectual organization, and that, by the amount it would bring him, or the amount it would deprive him of, he measured everything. With such a man, then, no question of morality or ordinary feeling could arise, and there can be no doubt that he would quite willingly have sacrificed the whole human race, if, by so doing, he could have achieved any of the objects of his ambition.And so, on his road homeward, he probably made up his mind to plunge still deeper into criminality, and perchance to indulge in acts that a man not already so deeply versed in iniquity would have shrunk from with the most positive terror. And by a strange style of reasoning, such men as Sweeney Todd reconcile themselves to the most heinous crimes upon the ground of what they call policy. That is to say, that having committed some serious offence, they are compelled to commit a great number more for the purpose of endeavouring to avoid the consequences of the first lot, and hence the continuance of criminality becomes a matter necessary to self-defence, and an essential ingredient in their consideration of self-preservation. Probably Sweeney Todd had been for the greater part of his life, aiming at the possession of extensive pecuniary resources, and, no doubt, by the aid of a superior intellect, and a mind full of craft and design, he had managed to make others subservient to his views; and now that those views were answered, and that his underlings and accomplices were no longer required, they became positively dangerous. He was well aware of that cold-blooded policy which teaches that it is far safer to destroy than to cast away the tools by which a man carves his way to power and fortune.
+
+"They shall die," said Sweeney Todd--"dead men tell no tales, nor women nor boys either, and they shall all die; after which there will, I think, be a serious fire in Fleet-street. Ha! ha! it may spread to what mischief it likes, always provided it stops not short of the entire destruction of my house and premises.Rare sport--rare sport will it be to me, for then I will at once commence a new career, in which the barber will be forgotten, and the man of fashion only seen and remembered, for with this sad addition to my means, I am fully capable of vying with the highest and the noblest, let them be whom they may."
+
+This seemed a pleasant train of reflections to Sweeney Todd, and as the coach entered Fleet-street, there sat such a grim smile upon his countenance that he looked like some fiend in human shape, who had just completed the destruction of a human soul. When he reached the livery stables to which he directed them to drive, instead of his own shop, he rewarded all who had gone with him most liberally, so that the coachman and footman, who were both servants out of place, would have had no objection for Sweeney Todd every day to have gone on some such an expedition, so that they should receive as liberal wages for the small part they enacted in it as they did upon that occasion. He then walked from the stables toward his own house, but upon reaching there a little disappointment awaited him, for he found to his surprise that no light was burning; and when he placed his hand upon the shop-door, it opened, but there was no trace of Tobias, although he, Sweeney Todd, called loudly upon him the moment he set foot within the shop. Then a feeling of apprehension crept across the barber, and he groped anxiously about for some matches, by the aid of which he hoped to procure a light, and then an explanation of the mysterious absence of Tobias. But in order that we may, in its proper form, relate how it was that Tobias had had the daring thus, in open contradiction of his master, to be away from the shop, we must devote to Tobias a chapter, which will plead his extenuation.<b>CHAPTER XV.</b>
+<b>TOBIAS'S ADVENTURES DURING THE ABSENCE OF SWEENEY TODD.</b>
+
+Tobias guessed, and guessed rightly too, that when Sweeney Todd said he would be away half an hour, he only mentioned that short period of time, in order to keep the lad's vigilance on the alert, and to prevent him from taking any advantage of a more protracted absence. The very style and manner in which he had gone out, precluded the likelihood of it being for so short a period of time; and that circumstance set Tobias seriously thinking over a situation which was becoming more intolerable every day. The lad had the sense to feel that he could not go on much longer as he was going on, and that in a short time such a life would destroy him.
+
+"It is beyond endurance," he said, "and I know not what to do; and since Sweeney Todd has told me that the boy he had before went out of his senses, and is now in the cell of a mad-house, I feel that such will be my fate, and that I too shall come to that dreadful end, and then no one will believe a word I utter, but consider everything to be mere raving."
+
+After a time, as the darkness increased, he lit the lamp which hung in the shop, and which, until it was closed for the night, usually shed a dim ray from the window. Then he sat down to think again, and he said to himself--
+
+"If I could now but summon courage to ask my mother about this robbery which Sweeney Todd imputes to her, she might assure me it was false, and that she never did such a deed;but then it is dreadful for me to ask her such a question, because it may be true; and then, how shocking it would be for her to be forced to confess to me, her own son, such a circumstance."
+
+These were the honourable feelings which prevented Tobias from questioning his mother as regarded Todd's accusation of her--an accusation too dreadful to believe implicitly, and yet sufficiently probable for him to have a strong suspicion that it might be true after all. It is to be deeply regretted that Tobias's philosophy did not carry him a little further, and make him see, the moment the charge was made, that he ought unquestionably to investigate it to the very utmost. But still we could hardly expect, from a mere boy, that acute reasoning and power of action, which depend so much upon the knowledge of the world and an extensive practice in the usages of society. It was sufficient if he felt correctly--we could scarcely expect him to reason so. But upon this occasion, above all others, he seemed completely overcome by the circumstances which surrounded him; and from his excited manner, one might have almost imagined that the insanity he himself predicted at the close of his career was really not far off. He wrung his hands, and he wept, every now and then, in sad speech, bitterly bemoaning his situation, until at length, with a sudden resolution, he sprang to his feet, exclaiming--
+
+"This night shall end it. I can endure it no more. I will fly from this place, and seek my fortune elsewhere. Any amount of distress, danger, or death itself even, is preferable to the dreadful life I lead."He walked some paces towards the door, and then he paused, as he said to himself in a low tone--
+
+"Todd will surely not be home yet awhile, and why should I then neglect the only opportunity I may ever have of searching this house to satisfy my mind as regards any of the mysteries that it contains?"
+
+He paused over this thought, and considered well its danger, for dangerous indeed it was to no small extent, but he was desperate; and with a resolution that scarcely could have been expected from him, he determined upon taking that step, above all others, which Todd was almost sure to punish with death. He closed the shop door, and bolted it upon the inside, so that he could not be suddenly interrupted, and then he looked round him carefully for some weapon, by the aid of which he should be able to break his way into the parlour, which the barber always kept closed and locked in his absence. A weapon that would answer the purpose of breaking any lock, if he, Tobias, chose to proceed so roughly to work, was close at hand in the iron bar, which, when the place was closed at night, secured a shutter to the door. Wrought up as he was to almost frenzy, Tobias seized this bar, and, advancing towards the parlour door, he with one blow smashed the lock to atoms, and the door yielded. The moment it did so, there was a crash of glass, and when Tobias entered the room he saw that upon its threshold lay a wine-glass shattered to atoms, and he felt certain that it had been placed in some artful position by Sweeney Todd as a detector, when he should return, of any attempt that had been made upon the door of the parlour.And now Tobias felt that he was so far committed that he might as well go on with his work, and accordingly he lit a candle, which he found upon the parlour table, and then proceeded to make what discoveries he could. Several of the cupboards in the room yielded at once to his hands, and in them he found nothing remarkable; but there was one that he could not open; so, without a moment's hesitation, he had recourse to the bar of iron again, and broke its lock, when the door swung open,--and to his astonishment there tumbled out of this cupboard such a volley of hats of all sorts and descriptions, some looped with silver, some three-cornered, and some square, that they formed quite a museum of that article of attire, and excited the greatest surprise in the mind of Tobias, at the same time that they tended very greatly to confirm some other thoughts and feelings which he had concerning Sweeney Todd. This was the only cupboard which was fast, although there was another door which looked as if it opened into one, but when Tobias broke that down with the bar of iron, he found it was the door which led to the staircase conducting to the upper part of the house--that upper part which Sweeney Todd, with all his avarice, would never let, and of which the shutters were kept continually closed, so that the opposite neighbours never caught a glimpse into any of the apartments. With cautious and slow steps, which he adopted instantaneously, although he knew that there was no one in the house but himself, Tobias ascended the staircase.
+
+"I will go to the very top rooms first," he said to himself, "and so examine them all as I come down, and then if Todd should return suddenly, I shall have a better chance of hearing him, than as if I began below and went upwards."Acting upon this prudent scheme, he went up to the attics, all the doors of which were swinging open, and there was nothing in any of them whatever. He descended to the second floor with the like result, and a feeling of great disappointment began to creep over him at the thought that, after all, the barber's house might not repay the trouble of examination. But when he reached the first floor he soon found abundant reason to alter his opinion. The doors were fast, and he had to burst them open; and, when he got in, he found that those rooms were partially furnished, and that they contained a great quantity of miscellaneous property of all kinds and descriptions. In one corner was an enormous quantity of walking-sticks, some of which were of a very costly and expensive character, with gold and silver chased tops to them, and in another corner was a great number of umbrellas--in fact, at least a hundred of them. Then there were boots and shoes lying upon the floor, partially covered up, as if to keep them from dirt; there were thirty or forty swords of different styles and patterns, many of them appearing to be very firm blades, and in one or two cases the scabbards were richly ornamented. At one end of the front and larger of these two rooms, was an old-fashioned-looking bureau of great size, and with as much wood-work in it as seemed required to make at least a couple of such articles of furniture. This was very securely locked, and presented more difficulties in the way of opening it than any of the doors had done, for the lock was of great strength and apparent durability.Moreover it was not so easily got at, but at length by using the bar as a sort of lever, instead of as a mere machine to strike with, Tobias succeeded in forcing this bureau open, and then his eyes were perfectly dazzled with the amount of jewellery and trinkets of all kinds and descriptions that were exhibited to his gaze. There was a great number of watches, gold chains, silver and gold snuff-boxes, and a large assortment of rings, shoe-buckles, and brooches. These articles must have been of great value, and Tobias could not help exclaiming aloud--
+
+"How could Sweeney Todd come by these articles, except by the murder of their owners?"
+
+This, indeed, seemed but too probable a supposition, and the more especially so, as in a further part of this bureau a great quantity of apparel was found by Tobias. He stood with a candle in his hand, looking upon these various objects for more than a quarter of an hour, and then as a sudden and a natural thought came across him of how completely a few of them even would satisfy his wants and his mother's for a long time to come, he stretched forth his hand towards the glittering mass, but he drew it back again with a shudder, saying--
+
+"No--no, these things are the plunder of the dead. Let Sweeney Todd keep them to himself, and look upon them, if he can, with eyes of enjoyment. I will have none of them; they would bring misfortune along with every guinea that they might be turned into."

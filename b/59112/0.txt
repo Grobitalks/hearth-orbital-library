@@ -1,0 +1,1399 @@
+HOLB1	59112	0	0	80	149	9
+3	Story Of The Play
+7	Epilogue. A Laboratory. One year later
+9	Act One
+53	Act Two
+97	Act Three
+128	Epilogue
+140	Act One
+144	Epilogue
+147	Act I. Nothing.
+<i>R. U. R.</i>
+
+(ROSSUM’S UNIVERSAL ROBOTS)
+
+_A Fantastic Melodrama in Three Acts and
+an Epilogue_
+
+<i>By Karel Capek</i>
+
+_English version by
+Paul Selver and Nigel Playfair_
+
+Samuel French, Inc.
+
+Copyright ©, 1923, by Doubleday, Page and Company
+
+<i>ALL RIGHTS RESERVED</i>
+
+_CAUTION: Professionals and amateurs are hereby warned that R. U. R. is subject to a royalty. It is fully protected under the copyright laws of the United States of America, the British Commonwealth, including Canada, and all other countries of the Copyright Union. All rights, including professional, amateur, motion pictures, recitation, lecturing, public reading, radio broadcasting, television, and the rights of translation into foreign languages are strictly reserved. In its present form the play is dedicated to the reading public only.__R. U. R. may be given stage presentation by amateurs upon payment of a royalty of Thirty-five Dollars for the first performance, and Twenty-five Dollars for each additional performance, payable one week before the date when the play is given, to Samuel French, Inc., at 45 West 25th Street, New York, N. Y. 10010, or at 7623 Sunset Boulevard, Hollywood, Calif. 90046, or to Samuel French (Canada), Ltd., 80 Richmond Street East, Toronto, Ontario, Canada M5C 1P1._
+
+<i>Royalty of the required amount must be paid whether the play is presented for charity or gain and whether or not admission is charged.</i>
+
+<i>Stock royalty quoted on application to Samuel French, Inc.</i>
+
+<i>For all other rights than those stipulated above, apply to Samuel French, Inc.</i>
+
+<i>Particular emphasis is laid on the question of amateur or professional readings, permission and terms for which must be secured in writing from Samuel French, Inc.</i>
+
+<i>Copying from this book in whole or in part is strictly forbidden by law, and the right of performance is not transferable.</i>
+
+<i>Whenever the play is produced the following notice must appear on all programs, printing and advertising for the play: “Produced by special arrangement with Samuel French, Inc.”</i><i>Due authorship credit must be given on all programs, printing and advertising for the play.</i>
+
+Anyone presenting the play shall not commit or authorize any act or omission by which the copyright of the play or the right to copyright same may be impaired.
+
+No changes shall be made in the play for the purpose of your production unless authorized in writing.
+
+The publication of this play does not imply that it is necessarily available for performance by amateurs or professionals. Amateurs and professionals considering a production are strongly advised in their own interests to apply to Samuel French, Inc., for consent before starting rehearsals, advertising, or booking a theatre or hall.
+
+Printed in U.S.A.
+
+ISBN 0 573 61497 0
+
+R. U. R.<b>STORY OF THE PLAY</b>
+
+The play is laid on an island somewhere on our planet, and on this island is the central office of the factory of Rossum’s Universal Robots. “Robot” is a Czech word meaning “worker.” When the play opens, a few decades beyond the present day, the factory had turned out already, following a secret formula, hundreds of thousands, and even millions, of manufactured workmen, living automats, without souls, desires or feelings. They are high-powered laborers, good for nothing but work. There are two grades, the unskilled and the skilled, and especially trained workmen are furnished on request.
+
+When Helena Glory, president of the Humanitarian League, comes to ascertain what can be done to improve the condition of those overspecialized creatures, Harry Domin, the general manager of the factory, captures her heart and hand in the speediest courting on record in our theatre. The last two acts take place ten years later. Due to the desire of Helena to have the Robots more like human beings, Dr. Gall, the head of the physiological and experimental departments, has secretly changed the formula, and while he has partially humanized only a few hundreds, there are enough to make ringleaders, and a world revolt of robots is under way. This revolution is easily accomplished, as robots have long since been used when needed as soldiers and the robots far outnumber human beings.
+
+The rest of the play is magnificent melodrama, superbly portrayed, with the handful of human beings at bay while the unseen myriads of their own robots close in on them. The final scene is like Dunsany on a mammoth scale.Then comes the epilogue, in which Alquist, the company’s builder, is not only the only human being on the island, but also the only one left on earth. The robots have destroyed the rest of mankind. They spared his life because he was a worker. And he is spending his days unceasingly endeavoring to discover and reconstruct the lost formula. The robots are doomed. They saved the wrong man. They should have spared the company’s physicist. The robots know that their bodies will wear out in time and there will be no new multitudes of robots to replace them. But Alquist discovers two humanized robots, a young man and young woman, who have a bit of Adam and Eve in them, and the audience perceives that mankind is about to start afresh. Nature has won out, after all.
+
+The cast of the Theatre Guild Production as originally presented at the Garrick Theatre, New York:
+
+R. U. R.
+
+(ROSSUM’S UNIVERSAL ROBOTS)
+
+<i>By</i> KAREL CAPEK
+
+English version by Paul Selver and Nigel Playfair
+
+Staged by Philip Moeller
+
+Settings and Costumes by Lee SimonsonCHARACTERS (in order of appearance)
+
+HARRY DOMIN, _General Manager of Rossum’s Universal
+    Robots_ <i>Basil Sydney</i>
+
+SULLA, <i>a Robotess</i> <i>Mary Bonestell</i>
+
+MARIUS, <i>a Robot</i> <i>Myrtland LaVarre</i>
+
+HELENA GLORY <i>Kathlene MacDonell</i>
+
+DR. GALL, _head of the Physiological and Experimental
+    Department of R. U. R._ <i>William Devereaux</i>
+
+MR. FABRY, _Engineer General, Technical Controller of
+    R. U. R._ <i>John Anthony</i>
+
+DR. HALLEMEIER, _head of the Institute for Psychological
+    Training of Robots_ <i>Moffat Johnston</i>
+
+MR. ALQUIST, _Architect, head of the Works Department
+    of R. U. R._ <i>Louis Calvert</i>
+
+CONSUL BUSMAN, <i>General Manager of R. U. R.</i> <i>Henry Travers</i>
+
+NANA <i>Helen Westly</i>RADIUS, <i>a Robot</i> <i>John Rutherford</i>
+
+HELENA, <i>a Robotess</i> <i>Mary Hone</i>
+
+PRIMUS, <i>a Robot</i> <i>John Roche</i>
+
+A SERVANT <i>Frederick Mark</i>
+
+FIRST ROBOT <i>Domis Plugge</i>
+
+SECOND ROBOT <i>Richard Coolidge</i>
+
+THIRD ROBOT <i>Bernard Savage</i>
+
+ACT I
+
+Central Office of the Factory of Rossum’s Universal Robots
+
+ACT II
+
+HELENA’S Drawing Room--Ten years later. Morning
+
+ACT III
+
+The same. Afternoon<b>EPILOGUE</b>
+
+A Laboratory. One year later
+
+Place: An Island. Time: The Future.
+
+DESCRIPTION OF CHARACTERS
+
+DOMIN: <i>A handsome man of 35. Forceful, efficient and humorous at times.</i>
+
+SULLA: <i>A pathetic figure. Young, pretty and attractive.</i>
+
+MARIUS: <i>A young Robot, superior to the general run of his kind. Dressed in modern clothes.</i>
+
+HELENA GLORY: <i>A vital, sympathetic, handsome girl of 21.</i>
+
+DR. GALL: <i>A tall, distinguished scientist of 50.</i>
+
+MR. FABRY: <i>A forceful, competent engineer of 40.</i>
+
+HALLEMEIER: <i>An impressive man of 40. Bald head and beard.</i>
+
+ALQUIST: <i>A stout, kindly old man of 60.</i>
+
+NANA: <i>A tall, acidulous woman of 40.</i>RADIUS: <i>A tall, forceful Robot.</i>
+
+HELENA: <i>A radiant young woman of 20.</i>
+
+PRIMUS: <i>A good-looking young Robot.</i>
+
+NOTE: <i>All the Robots wear expressionless faces and move with absolute mechanical precision, with the exception of</i> SULLA, HELENA <i>and</i> PRIMUS, <i>who convey a touch of humanity.</i>
+
+R. U. R.<b>ACT ONE</b>
+
+SCENE: _Central office of the factory of Rossum’s Universal Robots. Entrance R. down Right. The windows on the back wall look out on the endless roads of factory buildings. Door L. down Left. On the Left wall large maps showing steamship and railroad routes. On the Right wall are fastened printed placards. (“Robots cheapest Labor,” etc.) In contrast to these wall fittings, the floor is covered with splendid Turkish carpet, a couch R.C. A book shelf containing bottles of wine and spirits, instead of books._
+
+<i>DOMIN is sitting at his desk at Left, dictating. SULLA is at the typewriter upstage against the wall. There is a leather couch with arms Right Center. At the extreme Right an armchair. At extreme Left a chair. There is also a chair in front of DOMIN’S desk. Two green cabinets across the upstage corners of the room complete the furniture. DOMIN’S desk is placed up and down stage facing Right.</i>
+
+<i>Seen through the windows which run to the heights of the room are rows of factory chimneys, telegraph poles and wires. There is a general passageway or hallway upstage at the Right Center which leads to the warehouse. The ROBOTS are brought into the office through this entrance.</i>
+
+DOMIN. (<i>Dictating</i>) Ready?
+
+SULLA. Yes.DOMIN. To E. M. McVicker & Co., Southampton, England. “We undertake no guarantee for goods damaged in transit. As soon as the consignment was taken on board we drew your captain’s attention to the fact that the vessel was unsuitable for the transportation of Robots; and we are therefore not responsible for spoiled freight. We beg to remain, for Rossum’s Universal Robots, yours truly.” (<i>SULLA types the lines.</i>) Ready?
+
+SULLA. Yes.
+
+DOMIN. Another letter. To the E. B. Huysen Agency, New York, U.S.A. “We beg to acknowledge receipt of order for five thousand Robots. As you are sending your own vessel, please dispatch as cargo equal quantities of soft and hard coal for R.U.R., the same to be credited as part payment (<i>BUZZER</i>) of the amount due us.” (<i>Answering phone</i>) Hello! This is the central office. Yes, certainly. Well, send them a wire. Good. (<i>Rises</i>) “We beg to remain, for Rossum’s Universal Robots, yours very truly.” Ready?
+
+SULLA. Yes.
+
+DOMIN. (<i>Answering small portable phone</i>) Hello! Yes. No. All right. (<i>Standing back of desk, punching plug machine and buttons</i>) Another letter. Freidrichswerks, Hamburg, Germany. “We beg to acknowledge receipt of order for fifteen thousand Robots.” (<i>Enter MARIUS R.</i>) Well, what is it?
+
+MARIUS. There’s a lady, sir, asking to see you.DOMIN. A lady? Who is she?
+
+MARIUS. I don’t know, sir. She brings this card of introduction.
+
+DOMIN. (<i>Reading card</i>) Ah, from President Glory. Ask her to come in-- (<i>To SULLA. Crossing up to her desk, then back to his own</i>) Where did I leave off?
+
+SULLA. “We beg to acknowledge receipt of order for fifteen thousand Robots.”
+
+DOMIN. Fifteen thousand. Fifteen thousand.
+
+MARIUS. (<i>At door R.</i>) Please step this way.
+
+(<i>Enter HELENA. Exit MARIUS R.</i>)
+
+HELENA. (<i>Crossing to desk</i>) How do you do?
+
+DOMIN. How do you do? What can I do for you?
+
+HELENA. You are Mr. Domin, the General Manager?
+
+DOMIN. I am.
+
+HELENA. I have come--
+
+DOMIN. With President Glory’s card. That is quite sufficient.HELENA. President Glory is my father. I am Helena Glory.
+
+DOMIN. Please sit down. Sulla, you may go. (<i>Exit SULLA L. Sitting down L. of desk</i>) How can I be of service to you, Miss Glory?
+
+HELENA. I have come-- (<i>Sits R. of desk.</i>)
+
+DOMIN. To have a look at our famous works where people are manufactured. Like all visitors. Well, there is no objection.
+
+HELENA. I thought it was forbidden to--
+
+DOMIN. To enter the factory? Yes, of course. Everybody comes here with someone’s visiting card, Miss Glory.
+
+HELENA. And you show them--
+
+DOMIN. Only certain things. The manufacture of artificial people is a secret process.
+
+HELENA. If you only knew how enormously that--
+
+DOMIN. Interests you. Europe’s talking about nothing else.
+
+HELENA. (<i>Indignantly turning front</i>) Why don’t you let me finish speaking?DOMIN. (<i>Drier</i>) I beg your pardon. Did you want to say something different?
+
+HELENA. I only wanted to ask--
+
+DOMIN. Whether I could make a special exception in your case and show you our factory. Why, certainly, Miss Glory.
+
+HELENA. How do you know I wanted to say that?
+
+DOMIN. They all do. But we shall consider it a special honor to show you more than we do the rest.
+
+HELENA. Thank you.
+
+DOMIN. (<i>Standing</i>) But you must agree not to divulge the least--
+
+HELENA. (<i>Standing and giving him her hand</i>) My word of honor.
+
+DOMIN. Thank you. (<i>Looking at her hand</i>) Won’t you raise your veil?
+
+HELENA. Of course. You want to see whether I’m a spy or not--I beg your pardon.
+
+DOMIN. (<i>Leaning forward</i>) What is it?
+
+HELENA. Would you mind releasing my hand?DOMIN. (<i>Releasing it</i>) Oh, I beg <i>your</i> pardon.
+
+HELENA. (<i>Raising veil</i>) How cautious you have to be here, don’t you?
+
+DOMIN. (<i>Observing her with deep interest</i>) Why, yes. Hm--of course--We--that is--
+
+HELENA. But what is it? What’s the matter?
+
+DOMIN. I’m remarkably pleased. Did you have a pleasant crossing?
+
+HELENA. Yes.
+
+DOMIN. No difficulty?
+
+HELENA. Why?
+
+DOMIN. What I mean to say is--you’re so <i>young</i>.
+
+HELENA. May we go straight into the factory?
+
+DOMIN. Yes. Twenty-two, I think.
+
+HELENA. Twenty-two what?
+
+DOMIN. Years.HELENA. Twenty-one. Why do you want to know?
+
+DOMIN. Well, because--as-- (<i>Sits on desk nearer her</i>) You will make a long stay, won’t you?
+
+HELENA. (<i>Backing away R.</i>) That depends on how much of the factory you show me.
+
+DOMIN. (<i>Rises; crosses to her</i>) Oh, hang the factory. Oh, no, no, you shall see everything, Miss Glory. Indeed you shall. Won’t you sit down? (<i>Takes her to couch R.C. She sits. Offers her cigarette from case at end of sofa. She refuses.</i>)
+
+HELENA. Thank you.
+
+DOMIN. But first would you like to hear the story of the invention?
+
+HELENA. Yes, indeed.
+
+DOMIN. (<i>Crosses to L.C. near desk</i>) It was in the year 1920 that old Rossum, the great physiologist, who was then quite a young scientist, took himself to the distant island for the purpose of studying the ocean fauna. (<i>She is amused.</i>) On this occasion he attempted by chemical synthesis to imitate the living matter known as protoplasm until he suddenly discovered a substance which behaved exactly like living matter although its chemical composition was different.That was in the year 1932, exactly four hundred and forty years after the discovery of America. Whew--
+
+HELENA. Do you know that by heart?
+
+DOMIN. (<i>Takes flowers from desk to her</i>) Yes. You see, physiology is not in my line. Shall I go on?
+
+HELENA. (<i>Smelling flowers</i>) Yes, please.
+
+DOMIN. (<i>Center</i>) And then, Miss Glory, Old Rossum wrote the following among his chemical experiments: “Nature has found only one method of organizing living matter. There is, however, another method, more simple, flexible and rapid which has not yet occurred to Nature at all. This second process by which life can be developed was discovered by me today.” Now imagine him, Miss Glory, writing those wonderful words over some colloidal mess that a dog wouldn’t look at. Imagine him sitting over a test tube and thinking how the whole tree of life would grow from him, how all animals would proceed from it, beginning with some sort of a beetle and ending with a <i>man</i>. A man of different substance from us. Miss Glory, that was a tremendous moment. (<i>Gets box of candy from desk and passes it to her.</i>)
+
+HELENA. Well--
+
+DOMIN. (<i>As she speaks his portable PHONE lights up and he answers</i>) Well--Hello!--Yes--no, I’m in conference. Don’t disturb me.HELENA. Well?
+
+DOMIN. (<i>Smile</i>) Now, the thing was how to get the life <i>out</i> of the test tubes, and hasten development and form organs, bones and nerves, and so on, and find such substances as catalytics, enzymes, hormones in short--you understand?
+
+HELENA. Not much, I’m afraid.
+
+DOMIN. Never mind. (<i>Leans over couch and fixes cushion for her back</i>) There! You see with the help of his tinctures he could make whatever he wanted. He could have produced a Medusa with the brain of Socrates or a worm fifty yards long-- (<i>She laughs. He does also; leans closer on couch, then straightens up again</i>) --but being without a grain of humor, he took into his head to make a vertebrate or perhaps a man. This artificial living <i>matter</i> of his had a raging thirst for life. It didn’t mind being sown or mixed together. That couldn’t be done with natural albumen. And that’s how he set about it.
+
+HELENA. About what?
+
+DOMIN. About imitating Nature. First of all he tried making an artificial dog. That took him several years and resulted in a sort of stunted calf which <i>died</i> in a few days. I’ll show it to you in the museum. And <i>then</i> old Rossum started on the manufacture of <i>man</i>.
+
+HELENA. And I’m to divulge this to nobody?DOMIN. To nobody in the world.
+
+HELENA. What a pity that it’s to be discovered in <i>all</i> the school books of both Europe and America. (<i>BOTH laugh.</i>)
+
+DOMIN. Yes. But do you know what <i>isn’t</i> in the school books? That old Rossum was mad. Seriously, Miss Glory, you must keep this to yourself. The old crank wanted to actually make <i>people</i>.
+
+HELENA. But you do make people.
+
+DOMIN. <i>Approximately</i>--Miss Glory. But old Rossum meant it literally. He wanted to become a sort of scientific substitute for <i>God</i>. He was a fearful materialist, and that’s why he did it all. His sole purpose was nothing more or less than to prove that God was no longer necessary. (<i>Crosses to end of couch</i>) Do you know anything about anatomy?
+
+HELENA. Very little.
+
+DOMIN. Neither do I. Well-- (<i>He laughs</i>) --he then decided to manufacture everything as in the human body. I’ll show you in the museum the bungling attempt it took him ten years to produce. It was to have been a <i>man</i>, but it lived for three days only. Then up came <i>young</i> Rossum, an engineer. He was a wonderful fellow, Miss Glory. When he saw what a mess of it the old man was making he said: “It’s absurd to spend ten years making a man. If you can’t make him quicker than Nature, you might as well shut up shop.”Then he set about learning anatomy himself.
+
+HELENA. There’s nothing about <i>that</i> in the school books?
+
+DOMIN. No. The school books are full of paid advertisements, and rubbish at that. What the school books say about the <i>united efforts</i> of the two great Rossums is all a fairy tale. They used to have dreadful rows. The old <i>atheist</i> hadn’t the slightest conception of industrial <i>matters</i>, and the end of it was that Young Rossum shut him up in some laboratory or other and let him fritter the time away with his monstrosities while he himself started on the business from an <i>engineer’s</i> point of view. Old Rossum <i>cursed</i> him and before he died he managed to botch up two physiological horrors. Then one day they found him dead in the <i>laboratory</i>. And that’s his whole story.
+
+HELENA. And what about the young man?
+
+DOMIN. (<i>Sits beside her on couch</i>) Well, anyone who has looked into human anatomy will have seen at once that man is too complicated, and that a good engineer could make him more simply. So young Rossum began to <i>overhaul</i> anatomy to see what could be left out or simplified. In short--But this isn’t boring you, Miss Glory?
+
+HELENA. No, indeed. You’re--It’s awfully interesting.
+
+DOMIN. (<i>Gets closer</i>) So young Rossum said to himself: “A man is something that feels happy, plays the piano, likes going for a walk, and, in fact,wants to do a whole lot of things that are really unnecessary.”
+
+HELENA. Oh.
+
+DOMIN. That are unnecessary when he wants-- (<i>Takes her hand</i>) --let us say, to weave or count. Do you play the piano?
+
+HELENA. Yes.
+
+DOMIN. That’s good. (<i>Kisses her hand. She lowers her head.</i>) Oh, I beg your pardon! (<i>Rises</i>) But a working machine must <i>not</i> play the piano, must not feel happy, must not do a whole lot of other things. A gasoline motor must not have tassels or ornaments, Miss Glory. And to manufacture artificial workers is the same thing as the manufacture of a gasoline motor. (<i>She is not interested.</i>) The process must be the simplest, and the product the best from a practical point of view. (<i>Sits beside her again</i>) What sort of worker do you think is the <i>best</i> from a practical point of view?
+
+HELENA. (<i>Absently</i>) What? (<i>Looks at him.</i>)
+
+DOMIN. What sort of worker do you think is the best from a practical point of view?
+
+HELENA. (<i>Pulling herself together</i>) Oh! Perhaps the one who is most honest and hard-working.DOMIN. No. The one that is the <i>cheapest</i>. The one whose requirements are the <i>smallest</i>. Young Rossum invented a worker with the minimum amount of requirements. He had to simplify him. He rejected everything that did not contribute directly to the progress of work. Everything that makes man more expensive. In fact he <i>rejected man</i> and made the <i>Robot</i>. My dear Miss Glory, the Robots are not people. Mechanically they are more <i>perfect</i> than we are; they have an enormously developed intelligence, but they have no soul. (<i>Leans back.</i>)
+
+HELENA. How do you know they have no soul?
+
+DOMIN. Have you ever seen what a Robot looks like inside?
+
+HELENA. No.
+
+DOMIN. Very neat, very simple. Really a beautiful piece of work. Not much <i>in</i> it, but everything in flawless order. The product of an engineer <i>is</i> technically at a higher pitch of perfection than a product of Nature.
+
+HELENA. But man is supposed to be the product of God.
+
+DOMIN. All the worse. God hasn’t the slightest notion of modern engineering. Would you believe that young Rossum then proceeded to play at being God?
+
+HELENA. (<i>Awed</i>) How do you mean?DOMIN. He began to manufacture Super-Robots. Regular giants they were. He tried to make them twelve feet tall. But you wouldn’t believe what a failure they were.
+
+HELENA. A failure?
+
+DOMIN. Yes. For no reason at all their limbs used to keep snapping off. “Evidently our planet is too small for giants.” Now we only make Robots of normal size and of very high-class human finish.
+
+HELENA. (<i>Hands him flower; he puts it in button-hole</i>) I saw the first Robots at home. The Town Council bought them for--I mean engaged them for work.
+
+DOMIN. No. <i>Bought</i> them, Miss Glory. Robots are bought and sold.
+
+HELENA. These were employed as street-sweepers. I saw them sweeping. They were so strange and quiet.
+
+DOMIN. (<i>Rises</i>) Rossum’s Universal Robot factory doesn’t produce a uniform brand of Robots. We have Robots of <i>finer</i> and <i>coarser</i> grades. The best will live about <i>twenty</i> years. (<i>Crosses to desk. HELENA looks in her pocket mirror. He pushes button on desk.</i>)
+
+HELENA. Then they die?DOMIN. Yes, they get used up. (<i>Enter MARIUS, R. DOMIN crosses to C.</i>) Marius, bring in samples of the manual labor Robot. (<i>Exit MARIUS R.C.</i>) I’ll show you specimens of the two extremes. This first grade is comparatively inexpensive and is made in vast quantities. (<i>MARIUS re-enters R.C. with two manual labor ROBOTS. MARIUS is L.C., ROBOTS R.C., DOMIN at desk. MARIUS stands on tiptoes, touches head, feels arms, forehead of one of the ROBOTS. They come to a mechanical standstill.</i>) There you are, as powerful as a small tractor. Guaranteed to have average intelligence. That will do, Marius. (<i>MARIUS exits R.C. with ROBOTS.</i>)
+
+HELENA. They make me feel so strange.
+
+DOMIN. (<i>Crosses to desk. Rings</i>) Did you see my new typist?
+
+HELENA. I didn’t notice her.
+
+(<i>Enter SULLA L. She crosses and stands C., facing HELENA, who is still sitting in the couch.</i>)
+
+DOMIN. Sulla, let Miss Glory see you.
+
+HELENA. (<i>Looks at DOMIN. Rising, crosses a step to C.</i>) So pleased to meet you. (<i>Looks at DOMIN</i>) You must find it terribly dull in this out of the way spot, don’t you?
+
+SULLA. I don’t know, Miss Glory.HELENA. Where do you come from?
+
+SULLA. From the factory.
+
+HELENA. Oh, were you born there?
+
+SULLA. I was <i>made</i> there.
+
+HELENA. What? (<i>Looks first at SULLA, then at DOMIN.</i>)
+
+DOMIN. (<i>To SULLA, laughing</i>) Sulla is a Robot, best grade.
+
+HELENA. Oh, I beg your pardon.
+
+DOMIN. (<i>Crosses to SULLA</i>) Sulla isn’t angry. See, Miss Glory, the kind of skin we make. Feel her face. (<i>Touches SULLA’S face.</i>)
+
+HELENA. Oh, no, no.
+
+DOMIN. (<i>Examining SULLA’S hand</i>) You wouldn’t know that she’s made of different material from us, would you? Turn ’round, Sulla. (<i>SULLA does so. Circles twice.</i>)
+
+HELENA. Oh, stop, stop.
+
+DOMIN. Talk to Miss Glory, Sulla. (<i>Examines hair of SULLA.</i>)SULLA. Please sit down. (<i>HELENA sits on couch.</i>) Did you have a pleasant crossing? (<i>Fixes her hair.</i>)
+
+HELENA. Oh, yes, certainly.
+
+SULLA. Don’t go back on the <i>Amelia</i>, Miss Glory, the barometer is falling steadily. Wait for the <i>Pennsylvania</i>. That’s a good powerful vessel.
+
+DOMIN. What’s its speed?
+
+SULLA. Forty knots an hour. Fifty thousand tons. One of the latest vessels, Miss Glory.
+
+HELENA. Thank you.
+
+SULLA. A crew of fifteen hundred, Captain Harpy, eight boilers--
+
+DOMIN. That’ll do, Sulla. Now show us your knowledge of French.
+
+HELENA. You know French?
+
+SULLA. Oui! Madame! I know four languages. I can write: “Dear Sir, Monsieur, Geehrter Herr, Cteny pane.”
+
+HELENA. (<i>Jumping up, crosses to SULLA</i>) Oh, that’s absurd! Sulla isn’t a Robot. Sulla is a girl like me.Sulla, this is outrageous--Why do you take part in such a hoax?
+
+SULLA. I am a Robot.
+
+HELENA. No, no, you are not telling the truth. (<i>She catches the amused expression on DOMIN’S face</i>) I know they have forced you to do it for an advertisement. Sulla, you are a girl like me, aren’t you? (<i>Looks at him.</i>)
+
+DOMIN. I’m sorry, Miss Glory. <i>Sulla is a Robot.</i>
+
+HELENA. It’s a lie!
+
+DOMIN. What? (<i>Pushes button on desk</i>) Well, then I must <i>convince</i> you. (<i>Enter MARIUS R.C. He stands just inside the door.</i>) Marius, take Sulla into the dissecting room, and tell them to open her up at once. (<i>MARIUS moves toward C.</i>)
+
+HELENA. Where?
+
+DOMIN. Into the dissecting room. When they’ve <i>cut her open</i>, you can go and have a look. (<i>MARIUS makes a start toward SULLA.</i>)
+
+HELENA. (<i>Stopping MARIUS</i>) No! No!
+
+DOMIN. Excuse me, you spoke of lies.HELENA. You wouldn’t have her killed?
+
+DOMIN. You can’t kill machines. Sulla! (<i>MARIUS one step forward, one arm out. SULLA makes a move toward R. door.</i>)
+
+HELENA. (<i>Moves a step R.</i>) Don’t be afraid, Sulla. I won’t let you go. Tell me, my dear-- (<i>Takes her hand</i>) --are they always so cruel to you? You mustn’t put up with it, Sulla. You mustn’t.
+
+SULLA. I am a Robot.
+
+HELENA. That doesn’t matter. Robots are just as good as we are. Sulla, you wouldn’t let yourself be cut to pieces?
+
+SULLA. Yes. (<i>Hand away.</i>)
+
+HELENA. Oh, you’re not afraid of death, then?
+
+SULLA. I cannot tell, Miss Glory.
+
+HELENA. Do you know what would happen to you in there?
+
+SULLA. Yes, I should cease to move.
+
+HELENA. How dreadful! (<i>Looks at SULLA.</i>)DOMIN. Marius, tell Miss Glory what you are? (<i>Turns to HELENA.</i>)
+
+MARIUS. (<i>To HELENA</i>) Marius, the Robot.
+
+DOMIN. Would you take Sulla into the dissecting room?
+
+MARIUS. (<i>Turns to DOMIN</i>) Yes.
+
+DOMIN. Would you be sorry for her?
+
+MARIUS. (<i>Pause</i>) I cannot tell.
+
+DOMIN. What would happen to her?
+
+MARIUS. She would cease to move. They would put her into the stamping mill.
+
+DOMIN. That is death, Marius. Aren’t you afraid of death?
+
+MARIUS. No.
+
+DOMIN. You see, Miss Glory, the Robots have no interest in life. They have no enjoyments. They are <i>less</i> than so much grass.
+
+HELENA. Oh, stop. Please send them away.DOMIN. (<i>Pushes button</i>) Marius, Sulla, you may go. (<i>MARIUS pivots and exits R. SULLA exits L.</i>)
+
+HELENA. How terrible! (<i>To C.</i>) It’s outrageous what you are doing. (<i>He takes her hand.</i>)
+
+DOMIN. Why outrageous? (<i>His hand over hers. Laughing.</i>)
+
+HELENA. I don’t know, but it is. Why do you call her “Sulla”?
+
+DOMIN. Isn’t it a nice name? (<i>Hand away.</i>)
+
+HELENA. It’s a man’s name. Sulla was a Roman General.
+
+DOMIN. What! Oh! (<i>Laughs</i>) We thought that Marius and Sulla were lovers.
+
+HELENA. (<i>Indignantly</i>) Marius and Sulla were generals and fought against each other in the year--I’ve forgotten now.
+
+DOMIN. (<i>Laughing</i>) Come here to the window. (<i>He goes to window C.</i>)
+
+HELENA. What?
+
+DOMIN. Come here. (<i>She goes.</i>) Do you see anything? (<i>Takes her arm. She is on his R.</i>)HELENA. Bricklayers.
+
+DOMIN. Robots. All our work people are Robots. And down there, can you see anything?
+
+HELENA. Some sort of office.
+
+DOMIN. A counting house. And in it--
+
+HELENA. A lot of officials.
+
+DOMIN. Robots! All our officials are Robots. And when you see the factory-- (<i>Noon WHISTLE blows. She is scared; puts arm on DOMIN. He laughs</i>) If we don’t blow the whistle the Robots won’t stop working. In two hours I’ll show you the kneading trough. (<i>BOTH come down stage. HELENA is L.C. and DOMIN is R.C., arm in arm.</i>)
+
+HELENA. Kneading trough?
+
+DOMIN. The pestle for beating up the paste. In each one we mix the ingredients for a thousand Robots at one operation. Then there are the vats for the preparation of liver, brains, and so on. Then you will see the bone factory. After that I’ll show you the spinning mill.
+
+HELENA. Spinning mill?DOMIN. Yes. For weaving nerves and veins. Miles and miles of digestive tubes pass through it at a time.
+
+HELENA. (<i>Watching his gestures</i>) Mayn’t we talk about something else?
+
+DOMIN. Perhaps it would be better. There’s only a <i>handful</i> of us among a hundred thousand Robots, and <i>not one woman</i>. We talk nothing but the factory <i>all</i> day, and <i>every</i> day. It’s just as if we were under a curse, Miss Glory.
+
+HELENA. I’m <i>sorry</i> I said that you were lying. (<i>A KNOCK at door R.</i>)
+
+DOMIN. Come in. (<i>He is C.</i>)
+
+(<i>From R. enter DR. GALL, DR. FABRY, ALQUIST and DR. HALLEMEIER. ALL act formal--conscious. ALL click heels as introduced.</i>)
+
+DR. GALL. (<i>Noisily</i>) I beg your pardon. I hope we don’t intrude.
+
+DOMIN. No, no. Come in. Miss Glory, here are Gall, Fabry, Alquist, Hallemeier. This is President Glory’s daughter. (<i>ALL move to her and shake her hand.</i>)
+
+HELENA. How do you do?
+
+FABRY. We had no idea--
+
+DR. GALL. Highly honored, I’m sure--ALQUIST. Welcome, Miss Glory.
+
+BUSMAN. (<i>Rushes in from R.</i>) Hello, what’s up?
+
+DOMIN. Come in, Busman. This is President Glory’s daughter. This is Busman, Miss Glory.
+
+BUSMAN. By Jove, that’s fine. (<i>ALL click heels. He crowds in and shakes her hand</i>) Miss Glory, may we send a cablegram to the papers about your arrival?
+
+HELENA. No, no, please don’t.
+
+DOMIN. Sit down, please, Miss Glory.
+
+(_On the line, “Sit down, please,” all SIX MEN try to find her a chair at once. HELENA goes for the chair at the extreme L. DOMIN takes the chair at front of desk, places it in the C. of stage. HALLEMEIER gets chair at SULLA’S typewriter and places it to R. of chair at C. BUSMAN gets armchair from extreme R., but by now HELENA has sat in DOMIN’S preferred chair, at C. ALL sit except DOMIN. BUSMAN at R. in armchair. HALLEMEIER R. of HELENA. FABRY in swivel chair back of desk._)
+
+BUSMAN. Allow me--
+
+DR. GALL. Please--FABRY. Excuse me--
+
+ALQUIST. What sort of a crossing did you have?
+
+DR. GALL. Are you going to stay long? (<i>MEN conscious of their appearance. ALQUIST’S trousers turned up at bottom. He turns them down. BUSMAN polishes shoes. OTHERS fix ties, collars, etc.</i>)
+
+FABRY. What do you think of the factory, Miss Glory?
+
+HALLEMEIER. Did you come over on the <i>Amelia</i>?
+
+DOMIN. Be quiet and let <i>Miss Glory</i> speak. (<i>MEN sit erect. DOMIN stands at HELENA’S L.</i>)
+
+HELENA. (<i>To DOMIN</i>) What am I to speak to them about? (<i>MEN look at one another.</i>)
+
+DOMIN. Anything you like.
+
+HELENA. (<i>Looks at DOMIN</i>) May I speak quite frankly?
+
+DOMIN. Why, of course.
+
+HELENA. (<i>To OTHERS. Wavering, then in desperate resolution</i>) Tell me, doesn’t it ever distress you the way you are treated?FABRY. By whom, may I ask?
+
+HELENA. Why, everybody.
+
+ALQUIST. Treated?
+
+DR. GALL. What makes you think--
+
+HELENA. Don’t you feel that you might be living a better life? (<i>Pause. ALL confused.</i>)
+
+DR. GALL. (<i>Smiling</i>) Well, that depends on what you mean, Miss Glory.
+
+HELENA. I mean that it’s perfectly outrageous. It’s terrible. (<i>Standing up</i>) The whole of Europe is talking about the way you’re being treated. That’s why I came here, to see for myself, and it’s a thousand times worse than could have been imagined. How <i>can</i> you put <i>up</i> with it?
+
+ALQUIST. Put up with what?
+
+HELENA. Good heavens, you are living creatures, just like us, like the whole of Europe, like the whole world. It’s disgraceful that you must live like this.
+
+BUSMAN. Good gracious, Miss Glory!
+
+FABRY. Well, she’s not far wrong. We live here just like red Indians.HELENA. Worse than red Indians. May I--oh, may I call you--<i>brothers</i>? (<i>MEN look at each other.</i>)
+
+BUSMAN. Why not?
+
+HELENA. (<i>Looking at DOMIN</i>) Brothers, I have not come here as the President’s daughter. I have come on behalf of the Humanity League. Brothers, the Humanity League now has over two hundred thousand members. Two hundred thousand people are on your side, and offer you their help. (<i>Tapping back of chair.</i>)
+
+BUSMAN. Two hundred thousand people, Miss Glory; that’s a tidy lot. Not bad.
+
+FABRY. I’m always telling you there’s nothing like good old Europe. You see they’ve not forgotten us. They’re offering us help.
+
+DR. GALL. What kind of help? A theatre, for instance?
+
+HALLEMEIER. An orchestra?
+
+HELENA. More than that.
+
+ALQUIST. Just you?
+
+HELENA. (<i>Glaring at DOMIN</i>) Oh, never mind about me. I’ll stay as long as it is necessary. (<i>ALL express delight.</i>)BUSMAN. By Jove, that’s good.
+
+ALQUIST. (<i>Rising L.</i>) Domin, I’m going to get the best room ready for Miss Glory.
+
+DOMIN. Just a minute. I’m afraid that Miss Glory is of the opinion she has been talking to Robots.
+
+HELEN. Of course. (<i>MEN laugh.</i>)
+
+DOMIN. I’m sorry. These gentlemen are human beings just like us.
+
+HELENA. You’re not Robots?
+
+BUSMAN. Not Robots. }
+        }
+HALLEMEIER. Robots indeed! }
+        }
+DR. GALL. No, thanks. } (<i>All together</i>)
+        }
+FABRY. Upon my honor, Miss Glory, }
+  we aren’t Robots. }
+
+HELENA. Then why did you tell me that all your officials are Robots?DOMIN. Yes, the officials, but not the <i>managers</i>. Allow me, Miss Glory--this is Consul Busman, General Business Manager; this is Doctor Fabry, General Technical Manager; Doctor Hallemeier, head of the Institute for the Psychological Training of Robots; Doctor Gall, head of the Psychological and Experimental Department; and Alquist, head of the Building Department, R. U. R. (<i>As they are introduced they rise and come C. to kiss her hand, except GALL and ALQUIST, whom DOMIN pushes away. General babble.</i>)
+
+ALQUIST. Just a builder. Please sit down.
+
+HELENA. Excuse me, gentlemen. Have I done something dreadful?
+
+ALQUIST. Not at all, Miss Glory.
+
+BUSMAN. (<i>Handing flowers</i>) Allow me, Miss Glory.
+
+HELENA. Thank you.
+
+FABRY. (<i>Handing candy</i>) Please, Miss Glory.
+
+DOMIN. Will you have a cigarette, Miss Glory?
+
+HELENA. No, thank you.
+
+DOMIN. Do you mind if I do?HELENA. Certainly not.
+
+BUSMAN. Well, now, Miss Glory, it is certainly nice to have you with us.
+
+HELENA. (<i>Seriously</i>) But you know I’ve come to disturb your Robots for you. (<i>BUSMAN pulls chair closer.</i>)
+
+DOMIN. (<i>Mocking her serious tone</i>) My dear Miss Glory-- (<i>Chuckle</i>) --we’ve had close upon a hundred saviors and prophets here. Every ship brings us some. Missionaries, Anarchists, Salvation Army, all sorts! It’s astonishing what a number of churches and idiots there are in the world.
+
+HELENA. And yet you let them speak to the Robots.
+
+DOMIN. So far we’ve let them all. Why not? The Robot remembers everything but that’s all. They don’t even laugh at what the people say. Really it’s quite incredible.
+
+HELENA. I’m a stupid girl. Send me back by the first ship.
+
+DR. GALL. Not for anything in the world, Miss Glory. Why should we send you back?
+
+DOMIN. If it would amuse you, Miss Glory, I’ll take you down to the Robot warehouse. It holds about three hundred thousand of them.BUSMAN. Three hundred and forty-seven thousand.
+
+DOMIN. Good, and you can say whatever you like to them. You can read the Bible, recite the multiplication table, whatever you please. You can even preach to them about human rights.
+
+HELENA. Oh, I think that if you were to show them a little love.
+
+FABRY. Impossible, Miss Glory! <i>Nothing is harder to like than a Robot.</i>
+
+HELENA. What do you make them for, then?
+
+BUSMAN. Ha, ha, ha! That’s good. What are Robots made for?
+
+FABRY. For <i>work</i>, Miss Glory. One Robot can replace two and a half <i>workmen</i>. The human machine, Miss Glory, was terribly <i>imperfect</i>. It had to be removed sooner or later.
+
+BUSMAN. It was too expensive.
+
+FABRY. It was not <i>effective</i>. It no longer answers the requirements of <i>modern engineering</i>. Nature has no idea of keeping pace with <i>modern labor</i>. For example, from a technical point of view, the whole of <i>childhood</i> is a sheer absurdity. So much time lost. And then again--
+
+HELENA. (<i>Turns to DOMIN</i>) Oh, no, no!FABRY. Pardon me. What is the real <i>aim</i> of your League--the--the Humanity League?
+
+HELENA. Its real purpose is to--to protect the Robots--and--and to insure good treatment for them.
+
+FABRY. Not a bad object, either. A machine has to be treated properly. (<i>Leans back</i>) <i>I don’t like damaged articles.</i> Please, Miss Glory, enroll us all <i>members</i> of your league. (<i>“Yes, yes!” from all MEN.</i>)
+
+HELENA. No, you don’t understand me. What we really want is to--to--<i>liberate</i> the Robots. (<i>Looks at all OTHERS.</i>)
+
+HALLEMEIER. How do you propose to do that?
+
+HELENA. They are to be--to be dealt with like human beings.
+
+HALLEMEIER. Aha! I suppose they’re to vote. To drink beer. To order us about?
+
+HELENA. Why shouldn’t they drink beer?
+
+HALLEMEIER. Perhaps they’re even to receive wages? (<i>Looking at other MEN, amused.</i>)
+
+HELENA. Of course they are.HALLEMEIER. Fancy that! Now! And what would they do with their wages, pray?
+
+HELENA. They would buy--what they want--what pleases them.
+
+HALLEMEIER. That would be very nice, Miss Glory, only there’s nothing that does please the Robots. Good heavens, what are they to buy? You can feed them on pineapples, straw, whatever you like. It’s all the <i>same</i> to them. They’ve no appetite at all. They’ve no interest in anything. Why, hang it all, nobody’s ever yet seen a Robot smile.
+
+HELENA. Why--why don’t you make them--happier?
+
+HALLEMEIER. That wouldn’t do, Miss Glory. They are only workmen.
+
+HELENA. Oh, but they’re so intelligent.
+
+HALLEMEIER. Confoundedly so, but they’re nothing else. They’ve no will of their own. No soul. No passion.
+
+HELENA. No love?
+
+HALLEMEIER. Love? Huh! Rather not. Robots don’t love. Not even themselves.
+
+HELENA. No defiance?
+
+HALLEMEIER. Defiance? I don’t know. Only <i>rarely</i>, from time to time.HELENA. What happens then?
+
+HALLEMEIER. Nothing particular. Occasionally they seem to go off their <i>heads</i>. Something like epilepsy, you know. It’s called “Robot’s Cramp.” They’ll suddenly sling down everything they’re holding, stand still, gnash their teeth--and then they have to go into the stamping-mill. It’s evidently some breakdown in the mechanism.
+
+DOMIN. (<i>Sitting on desk</i>) A flaw in the works that has to be removed.
+
+HELENA. No, no, that’s the soul.
+
+FABRY. (<i>Humorously</i>) Do you think that the soul first shows itself by a gnashing of teeth? (<i>MEN chuckle.</i>)
+
+HELENA. Perhaps it’s just a sign that there’s a struggle within. Perhaps it’s a sort of revolt. Oh, if you could infuse them with it.
+
+DOMIN. That’ll be remedied, Miss Glory. Doctor Gall is just making some experiments.
+
+DR. GALL. Not with regard to that, Domin. At present I am making <i>pain</i> nerves.
+
+HELENA. Pain nerves?DR. GALL. Yes, the Robots feel practically no bodily pain. You see, young Rossum provided them with too limited a <i>nervous</i> system. We <i>must</i> introduce <i>suffering</i>.
+
+HELENA. Why do you want to cause them pain?
+
+DR. GALL. For industrial reasons, Miss Glory. Sometimes a Robot does damage to himself because it doesn’t hurt him. He puts his hand into the machine-- (<i>Describes with gesture</i>) --breaks his finger-- (<i>Describes with gesture</i>) --smashes his head. It’s all the same to him. We must provide them with <i>pain</i>. That’s an automatic <i>protection</i> against damage.
+
+HELENA. Will they be happier when they feel pain?
+
+DR. GALL. On the contrary; but they will be more perfect from a technical point of view.
+
+HELENA. Why don’t you create a soul for them?
+
+DR. GALL. That’s not in our power.
+
+FABRY. That’s not in our interest.
+
+BUSMAN. That would increase the cost of production. Hang it all, my dear young lady, we turn them out at such a cheap rate--a hundred and fifty dollars each, fully dressed, and fifteen years ago they cost ten thousand.Five years ago we used to buy the <i>clothes</i> for them. Today we have our own weaving mill, and now we even <i>export</i> cloth five times cheaper than other factories. What do you pay a yard for cloth, Miss Glory?
+
+HELENA. (<i>Looking at DOMIN</i>) I don’t really know. I’ve forgotten.
+
+BUSMAN. Good gracious, and you want to found a Humanity League. (<i>MEN chuckle.</i>) It only costs a third now, Miss Glory. All prices are today a third of what they were and they’ll fall still lower, lower, like that.
+
+HELENA. I don’t understand.
+
+BUSMAN. Why, bless you, Miss Glory, it means that the cost of <i>labor</i> has fallen. A Robot, food and all, costs three-quarters of a cent per hour. (<i>Leans forward</i>) That’s mighty important, you know. All factories will go pop like chestnuts if they don’t at once buy Robots to lower the cost of production.
+
+HELENA. And get rid of all their workmen?
+
+BUSMAN. Of course. But in the meantime we’ve dumped five hundred thousand <i>tropical</i> Robots down on the Argentine pampas to grow corn. Would you mind telling me how much you pay a pound for bread?
+
+HELENA. I’ve no idea. (<i>ALL smile.</i>)BUSMAN. Well, I’ll tell you. It now costs two cents in good old Europe. A pound of bread for two cents, and the <i>Humanity League</i>-- (<i>Designates HELENA</i>) --knows nothing about it. (<i>To MEN</i>) Miss Glory, you don’t realize that even <i>that’s</i> too expensive. (<i>All MEN chuckle.</i>) Why, in five years’ time I’ll wager--
+
+HELENA. What?
+
+BUSMAN. That the cost of everything will be a tenth of what it is today. Why, in five years we’ll be up to our ears in corn and--everything else.
+
+ALQUIST. Yes, and all the workers throughout the world will be unemployed.
+
+DOMIN. (<i>Seriously. Rises</i>) Yes, Alquist, they will. Yes, Miss Glory, they will. But in ten years Rossum’s Universal Robots will produce so much <i>corn</i>, so much <i>cloth</i>, so much everything that things will be practically without price. There will be no poverty. All work will be done by living machines. Everybody will be free from worry and liberated from the degradation of labor. Everybody will live only to <i>perfect</i> himself.
+
+HELENA. Will he?
+
+DOMIN. Of course. It’s bound to happen. Then the servitude of man to man and the enslavement of man to matter will cease. Nobody will get bread at the cost of life and hatred. The Robots will wash the feet of the beggar and prepare a bed for him in his house.ALQUIST. Domin, Domin, what you say sounds too much like Paradise. There was something <i>good</i> in <i>service</i> and something <i>great</i> in humility. There was some kind of virtue in <i>toil</i> and <i>weariness</i>.
+
+DOMIN. Perhaps, but we cannot reckon with what is lost when we start out to transform the world. Man shall be <i>free</i> and supreme; he shall have no other aim, no other labor, no other care than to perfect himself. He shall serve neither matter nor man. He will not be a machine and a device for production. He will be <i>Lord</i> of creation.
+
+BUSMAN. Amen.
+
+FABRY. So be it.
+
+HELENA. (<i>Rises</i>) You have bewildered me. I should like to believe this.
+
+DR. GALL. You are younger than we are, Miss Glory. You will live to see it.
+
+HALLEMEIER. True. (<i>Looking around</i>) Don’t you think Miss Glory might lunch with us? (<i>All MEN rise.</i>)
+
+DR. GALL. Of course. Domin, ask her on behalf of us all.
+
+DOMIN. Miss Glory, will you do us the honor?
+
+HELENA. When you know why I’ve come?FABRY. For the League of Humanity, Miss Glory.
+
+HELENA. Oh, in that case perhaps--
+
+FABRY. That’s fine. (<i>Pause</i>) Miss Glory, excuse me for five minutes. (<i>Exits R.</i>)
+
+HALLEMEIER. Thank you. (<i>Exits R. with DR. GALL.</i>)
+
+BUSMAN. (<i>Whispering</i>) I’ll be back soon. (<i>Beckoning to ALQUIST, they exit.</i>)
+
+ALQUIST. (<i>Starts, stops, then to HELENA, then to door</i>) I’ll be back in exactly five minutes. (<i>Exits R.</i>)
+
+HELENA. What have they all gone for?
+
+DOMIN. To cook, Miss Glory. (<i>On her L.</i>)
+
+HELENA. To cook what?
+
+DOMIN. Lunch. (<i>They laugh; takes her hand</i>) The Robots do our cooking for us and as they’ve no taste it’s not altogether-- (<i>She laughs.</i>) Hallemeier is awfully <i>good</i> at grills and Gall can make any kind of sauce, and Busman knows all about omelets.
+
+HELENA. What a feast! And what’s the specialty of Mr.--your builder?DOMIN. Alquist? Nothing. He only lays the table. And Fabry will get together a little fruit. Our cuisine is very modest, Miss Glory.
+
+HELENA. (<i>Thoughtfully</i>) I wanted to ask you something--
+
+DOMIN. And I wanted to ask you something too--they’ll be back in five minutes. (<i>Looks at door R.</i>)
+
+HELENA. What did you want to ask me? (<i>Sits C.</i>)
+
+DOMIN. Excuse me, you asked first. (<i>Sits L. of her.</i>)
+
+HELENA. Perhaps it’s silly of me, but why do you manufacture female Robots when--when--
+
+DOMIN. When sex means nothing to them?
+
+HELENA. Yes.
+
+DOMIN. There’s a certain demand for them, you see. Servants, saleswomen, stenographers. People are <i>used</i> to it.
+
+HELENA. But--but tell me, are the Robots male and female, mutually--completely without--DOMIN. Completely indifferent to each other, Miss Glory. There’s no sign of any <i>affection</i> between them.
+
+HELENA. Oh, that’s terrible.
+
+DOMIN. Why?
+
+HELENA. It’s so unnatural. One doesn’t know whether to be disgusted or to hate them, or perhaps--
+
+DOMIN. To pity them. (<i>Smiles.</i>)
+
+HELENA. That’s more like it. What did you want to ask <i>me</i>?
+
+DOMIN. I should like to ask you, Miss Helena, if you will marry me.
+
+HELENA. What? (<i>Rises.</i>)
+
+DOMIN. Will you be my wife? (<i>Rises.</i>)
+
+HELENA. No. The idea!
+
+DOMIN. (<i>To her, looking at his watch</i>) Another three minutes. If you don’t marry me you’ll have to marry one of the other five.
+
+HELENA. But why should I?DOMIN. Because they’re <i>all</i> going to ask you in turn.
+
+HELENA. (<i>Crossing him to L.C.</i>) How could they dare do such a thing?
+
+DOMIN. I’m very sorry, Miss Glory. It seems they’ve fallen in love with you.
+
+HELENA. Please don’t let them. I’ll--I’ll go away at once. (<i>Starts R. He stops her, his arms up.</i>)
+
+DOMIN. Helena-- (<i>She backs away to desk. He follows</i>) You wouldn’t be so cruel as to refuse us.
+
+HELENA. But, but--I can’t marry all six.
+
+DOMIN. No, but one anyhow. If you don’t want <i>me</i>, marry Fabry.
+
+HELENA. I won’t.
+
+DOMIN. Ah! Doctor Gall?
+
+HELENA. I don’t want any of you.
+
+DOMIN. Another two minutes. (<i>Pleading. Looking at watch.</i>)
+
+HELENA. I think you’d marry any woman who came here.DOMIN. <i>Plenty</i> of them have come, Helena.
+
+HELENA. (<i>Laughing</i>) Young?
+
+DOMIN. Yes.
+
+HELENA. Why didn’t you marry one of <i>them</i>?
+
+DOMIN. Because I didn’t lose my head. Until today--then as soon as you lifted your veil-- (<i>HELENA turns her head away.</i>) Another minute.
+
+(<i>WARN Curtain.</i>)
+
+HELENA. But I don’t want you, I tell you.
+
+DOMIN. (<i>Laying both hands on her shoulder</i>) One more minute! Now you either have to look me straight in the eye and say “no” violently, and then I leave you alone--or-- (<i>HELENA looks at him. He takes hands away. She takes his hand again.</i>)
+
+HELENA. (<i>Turning her head away</i>) You’re mad.
+
+DOMIN. A man <i>has</i> to be a bit mad, Helena. That’s the best thing about him. (<i>He draws her to him.</i>)
+
+HELENA. (<i>Not meaning it</i>) You are--you are--DOMIN. Well?
+
+HELENA. Don’t, you’re hurting me!
+
+DOMIN. The last chance, Helena. Now or never--
+
+HELENA. But--but-- (<i>He embraces her; kisses her. She embraces him. KNOCKING at R. door.</i>)
+
+DOMIN. (<i>Releasing her</i>) Come in. (<i>She lays her head on his shoulder.</i>)
+
+(<i>Enter BUSMAN, GALL and HALLEMEIER in kitchen aprons, FABRY with a bouquet and ALQUIST with a napkin under his arm.</i>)
+
+DOMIN. Have you finished your job?
+
+BUSMAN. Yes.
+
+DOMIN. So have we. (<i>He embraces her. The MEN rush around them and offer congratulations.</i>)
+
+THE CURTAIN FALLS QUICKLY<b>ACT TWO</b>
+
+SCENE: _HELENA’S drawing room. Ten years later. The skeleton framework of Act I is still used. Tall windows put in back instead of Act I windows. Steel shutters for these windows. Where the green cabinet of Act I at Left has stood is a door, L.2, leading to the outside. Where the cabinet stood at Right, a fireplace is placed. The tall open hallway R.C. of Act I is blocked up with a flat piece. The doors at Right and Left 1 have been changed to those of a drawing room. Door at Right leads to HELENA’S bedroom. Door at Left 1 leads to library._
+
+_The furniture consists of a reading table at Left Center covered with magazines. A chair to the Left of table. In front of table is an armchair covered in chintz. A couch Right Center and back of it is a small table with books and book-ends. On this table a small reading lamp. At Right between doorway and fireplace is a small table. There is a work-basket upon it, with pincushion, needles, etc. Down stage at Right and facing the couch is another armchair used by ALQUIST. To the Left of fireplace is a straight-backed chair. Upstage at Left near the L.2 door to the outside is a writing desk. There is a lamp upon it, writing paper, etc., a telephone and binoculars._
+
+_The walls of the room have been covered with silk to the height of seven feet. This is done in small flats to fit the different spaces and are in place against the permanent set. The two French windows open into the room. At the rise they are open. There is a balcony beyond looking over the harbor. The same telegraph wires and poles from Act I are again visible through the window.The windows are trimmed with gray lace curtains. Binoculars on desk up stage by television._
+
+<i>It is about nine in the morning and SUNLIGHT streams into the room through the open windows. DOMIN opens the door L.2; tiptoes in. He carries a potted plant. He beckons the OTHERS to follow him, and HALLEMEIER and FABRY enter, both carrying a potted plant. DOMIN places flowers on the library table and goes to Right and looks toward HELENA’S bedroom R.</i>
+
+HALLEMEIER. (<i>Putting down his flowers on L.C. table and indicates the door R.</i>) Still asleep?
+
+DOMIN. Yes.
+
+HALLEMEIER. Well, as long as she’s asleep she can’t worry about it. (<i>He remains at L.C. table.</i>)
+
+DOMIN. She knows nothing about it. (<i>At C.</i>)
+
+FABRY. (<i>Putting plant on writing desk</i>) I certainly hope nothing happens today.
+
+HALLEMEIER. For goodness sake drop it all. Look, this is a fine cyclamen, isn’t it? A new sort, my latest--Cyclamen Helena.DOMIN. (<i>Picks up binoculars and goes out into balcony</i>) No signs of the ship. Things must be pretty bad.
+
+HALLEMEIER. Be quiet. Suppose she heard you.
+
+DOMIN. (<i>Coming into room, puts glasses on desk</i>) Well, anyway the <i>Ultimus</i> arrived just in time.
+
+FABRY. You really think that today--?
+
+DOMIN. I don’t know. (<i>He crosses to L.C. table</i>) Aren’t the flowers fine?
+
+HALLEMEIER. (<i>Fondles flowers</i>) These are my primroses. And this is my new jasmine. I’ve discovered a wonderful way of developing flowers quickly. Splendid varieties, too. Next year I’ll be developing marvelous ones.
+
+DOMIN. What next year?
+
+FABRY. I’d give a good deal to know what’s happening at Havre with--
+
+HELENA. (<i>Off R.</i>) Nana.
+
+DOMIN. Keep quiet. She’s awake. Out you go. (<i>ALL go out on tiptoe through L.2 door. Enter NANA L.1</i>)
+
+HELENA. (<i>Calling from R.</i>) Nana?NANA. Horrid mess! Pack of heathens. If I had <i>my</i> say, I’d--
+
+HELENA. (<i>Backwards in the doorway from R.</i>) Nana, come and do up my dress.
+
+NANA. I’m coming. So you’re up at last. (<i>Fastening HELENA’S dress</i>) My gracious, what brutes!
+
+HELENA. Who? (<i>Turning.</i>)
+
+NANA. If you want to turn <i>around</i>, then turn around, but I shan’t fasten you up.
+
+HELENA. (<i>Turns back</i>) What are you grumbling about now?
+
+NANA. These dreadful creatures, these heathens--
+
+HELENA. (<i>Turning toward NANA again</i>) The Robots?
+
+NANA. I wouldn’t even call them by name.
+
+HELENA. What’s happened?
+
+NANA. Another of them here has caught it. He began to smash up the statues and pictures in the drawing room; gnashed his teeth; foamed at the mouth. Worse than an animal.HELENA. Which of them caught it?
+
+NANA. The one--well, he hasn’t got any <i>Christian</i> name. The one in charge of the library.
+
+HELENA. Radius?
+
+NANA. That’s him. My goodness, I’m scared of them. A spider doesn’t scare me as much as them.
+
+HELENA. But Nana, I’m surprised you’re not sorry for them.
+
+NANA. Why, you’re scared of them too. You know you are. Why else did you bring <i>me</i> here?
+
+HELENA. I’m not scared, really I’m not, Nana. I’m only sorry for them.
+
+NANA. You’re scared. Nobody could <i>help</i> being scared. Why, the dog’s scared of them. He won’t take a scrap of meat out of their hands. He draws in his tail and howls when he knows they’re about.
+
+HELENA. The dog has no sense.
+
+NANA. He’s better than <i>them</i>, and he knows it. Even the <i>horse</i> shies when he meets them. They don’t have any young, and a <i>dog</i> has young, <i>everyone</i> has young--HELENA. (<i>Turning back</i>) Please fasten up my dress, Nana.
+
+NANA. I say it’s against God’s will to--
+
+HELENA. What is it that smells so nice?
+
+NANA. Flowers.
+
+HELENA. What for?
+
+NANA. Now you can turn around.
+
+HELENA. (<i>Turns; crosses to C.</i>) Oh, aren’t they lovely? Look, Nana. What’s happening today?
+
+NANA. It ought to be the end of the world. (<i>Enter DOMIN L.2. He crosses down front of table L.C.</i>)
+
+HELENA. (<i>Crosses to him</i>) Oh, hello, Harry. (<i>NANA turns upstage to L.</i>) Harry, why all these flowers?
+
+DOMIN. Guess. (<i>This scene is played down in front of L.C. table.</i>)
+
+HELENA. Well, it’s not my <i>birthday</i>!
+
+DOMIN. Better than that.HELENA. I don’t know. Tell me.
+
+DOMIN. It’s ten years ago <i>today</i> since you <i>came</i> here.
+
+HELENA. Ten years? Today? Why-- (<i>They embrace.</i>)
+
+NANA. (<i>Muttering</i>) I’m off. (<i>She exits L.1.</i>)
+
+HELENA. Fancy you remembering.
+
+DOMIN. I’m really ashamed, Helena. I didn’t.
+
+HELENA. But you--
+
+DOMIN. <i>They</i> remembered.
+
+HELENA. Who?
+
+DOMIN. Busman, Hallemeier--<i>all</i> of them. Put your hand in my pocket.
+
+HELENA. (<i>Takes necklace from his Left jacket pocket</i>) Oh! Pearls! A necklace! Harry, is this for me?
+
+DOMIN. It’s from Busman.
+
+HELENA. But we can’t accept it, can we?DOMIN. Oh, yes, we can. (<i>Puts necklace on table L.C.</i>) Put your hand in the other pocket.
+
+HELENA. (<i>Takes a revolver out of his Right pocket</i>) What’s that?
+
+DOMIN. Sorry. Not that. Try again. (<i>He puts gun in pocket.</i>)
+
+HELENA. Oh, Harry, why do you carry a revolver?
+
+DOMIN. It got there by mistake.
+
+HELENA. You never used to <i>carry</i> one.
+
+DOMIN. No, you’re right. (<i>Indicates breast pocket</i>) There, that’s the pocket.
+
+HELENA. (<i>Takes out cameo</i>) A cameo. Why, it’s a Greek cameo.
+
+DOMIN. Apparently. Anyhow, Fabry says it is.
+
+HELENA. Fabry? Did Mr. Fabry give me that?
+
+DOMIN. Of course. (<i>Opens the L.1 door</i>) And look in here. Helena, come and see this. (<i>BOTH exit L.1.</i>)
+
+HELENA. (<i>Off L.1</i>) Oh, isn’t it fine? Is this from you?DOMIN. (<i>Off L.1</i>) No, from Alquist. And there’s another on the piano.
+
+HELENA. This must be from you?
+
+DOMIN. There’s a card on it.
+
+HELENA. From Doctor Gall. (<i>Reappearing in L.1 doorway</i>) Oh, Harry, I feel embarrassed at so much kindness.
+
+DOMIN. (<i>Enters to up R. of table L.C.</i>) Come here. This is what Hallemeier brought you.
+
+HELENA. (<i>To up L. of desk</i>) These beautiful flowers?
+
+DOMIN. Yes. It’s a new kind. Cyclamen-Helena. He grew them in honor of <i>you</i>. They are almost as beautiful as you.
+
+HELENA. (<i>Kissing him</i>) Harry, why do they all--
+
+DOMIN. They’re awfully fond of you. I’m afraid that my present is a little--Look out of the window. (<i>Crosses to window and beckons to her.</i>)
+
+HELENA. Where? (<i>They go out into the balcony.</i>)
+
+DOMIN. Into the harbor.HELENA. There’s a new ship.
+
+DOMIN. That’s <i>your</i> ship.
+
+HELENA. Mine? How do you mean?
+
+DOMIN. (<i>R.</i>) For you to take trips in--for your amusement.
+
+HELENA. (<i>L.</i>) Harry, that’s a gunboat.
+
+DOMIN. A gunboat? What are you thinking of? It’s only a little <i>bigger</i> and more <i>solid</i> than most ships.
+
+HELENA. Yes, but with guns.
+
+DOMIN. Oh, yes, with a few guns. You’ll travel like a <i>queen</i>, Helena.
+
+HELENA. What’s the meaning of it? Has anything happened?
+
+DOMIN. Good heavens, no. I say, try these pearls. (<i>Crosses to R. of table L.C.</i>)
+
+HELENA. Harry, have you had bad news?
+
+DOMIN. On the contrary, no letters have arrived for a whole week.HELENA. Nor telegrams? (<i>Coming into the room C.</i>)
+
+DOMIN. Nor telegrams.
+
+HELENA. What does that mean?
+
+DOMIN. <i>Holidays</i> for us! We all sit in the office with our feet on the table and take a nap. No letters--no telegrams. Glorious!
+
+HELENA. Then you’ll stay with me today?
+
+DOMIN. Certainly. (<i>Embraces her</i>) That is, we will see. Do you remember ten years ago today? (<i>Crosses to L. of table L.C.</i>) Miss Glory, it’s a great honor to welcome you. (<i>They assume the same positions as when they first met ten years before in DOMIN’S office.</i>)
+
+HELENA. (<i>To table</i>) Oh, Mr. Manager, I’m so interested in your factory. (<i>She sits R. of table.</i>)
+
+DOMIN. I’m sorry, Miss Glory, it’s strictly forbidden. The manufacture of artificial people is a secret.
+
+HELENA. But to oblige the young lady who has come a long way.
+
+DOMIN. (<i>Leans on table</i>) Certainly, Miss Glory. I have no secrets from you.HELENA. Are you sure, Harry? (<i>Leaning on desk, seriously, his right hand on hers.</i>)
+
+DOMIN. <i>Yes.</i> (<i>They gradually draw apart.</i>)
+
+HELENA. But I warn you, sir, this young lady intends to do terrible things.
+
+DOMIN. Good gracious, Miss Glory. Perhaps she doesn’t want to marry me.
+
+HELENA. Heaven forbid. She never dreamt of such a thing. But she came here intending to stir up a <i>revolt</i> among your <i>Robots</i>.
+
+DOMIN. A revolt of the Robots!
+
+HELENA. (<i>Low voice</i>) Harry, what’s the matter with you?
+
+DOMIN. (<i>Laughing it off</i>) <i>A revolt of the Robots</i>, that’s a fine idea. (<i>Crosses to back of table. She watches him suspiciously.</i>) Miss Glory, it would be easier for you to cause bolts and screws to rebel than our Robots. You know, Helena, you’re wonderful. You’ve turned the hearts of us all. (<i>Sits on table.</i>)
+
+HELENA. Oh, I was fearfully impressed by you all then. You were all so sure of yourselves, so strong. I seemed like a tiny little girl who had lost her way among--among--DOMIN. What?
+
+HELENA. (<i>Front</i>) Among huge trees. All my feelings were so <i>trifling</i> compared with your <i>self-confidence</i>. And in all these years I’ve never <i>lost</i> this anxiety. But you’ve never felt the <i>least</i> misgiving, not even when everything went wrong.
+
+DOMIN. What went wrong?
+
+HELENA. Your plans. You remember, Harry, when the workmen in America revolted against the Robots and smashed them up, and when the people gave the Robots firearms against the rebels. And then when the governments turned the Robots into soldiers, and there were so many <i>wars</i>.
+
+DOMIN. (<i>Getting up and walking about</i>) We foresaw that, Helena. (<i>Around table to R.C.</i>) You see, these are only passing troubles which are bound to happen before the new conditions are <i>established</i>. (<i>Walking up and down, standing at Center.</i>)
+
+HELENA. You were all so powerful, so overwhelming. The <i>whole world</i> bowed down before you. (<i>Rising</i>) Oh, Harry! (<i>Crosses to him.</i>)
+
+DOMIN. What is it?
+
+HELENA. Close the factory and let’s go away. All of us.DOMIN. I say, what’s the meaning of this?
+
+HELENA. I don’t know. But can’t we go away?
+
+DOMIN. Impossible, Helena! That is, at this particular moment--
+
+HELENA. At once, Harry. I’m so frightened.
+
+DOMIN. (<i>Takes her</i>) About what, Helena?
+
+HELENA. It’s as if something was falling on top of us, and couldn’t be stopped. Oh, take us all away from here. We’ll find a place in the world where there’s no one else. Alquist will build us a house, and then we’ll begin life all over again. (<i>The TELEPHONE rings.</i>)
+
+DOMIN. (<i>Crosses to telephone on desk up L.</i>) Excuse me. Hello--yes, what? I’ll be there at once. Fabry is calling me, my dear. (<i>Crosses L.</i>)
+
+HELENA. Tell me-- (<i>She rushes up to him.</i>)
+
+DOMIN. Yes, when I come back. Don’t go out of the house, dear. (<i>Exits L.2.</i>)
+
+HELENA. He won’t tell me. (<i>NANA brings in a water carafe from L.1.</i>) Nana, find me the latest newspapers. Quickly. Look in Mr. Domin’s bedroom.NANA. All right. (<i>Crosses R.</i>) He leaves them all over the place. That’s how they get crumpled up. (<i>Continues muttering. Exits R.</i>)
+
+HELENA. (<i>Looking through binoculars at the harbor</i>) That’s a warship. U-l-t-i--<i>Ultimus</i>. They’re loading.
+
+NANA. (<i>Enters R. with newspapers</i>) Here they are. See how they’re crumpled up.
+
+HELENA. (<i>Crosses down</i>) They’re old ones. A week old. (<i>Drops papers. BOTH at front of couch. NANA sits R. of table L.C. Puts on spectacles. Reads the newspapers.</i>) Something’s happening, Nana.
+
+NANA. Very likely. It always does. (<i>Spelling out the words</i>) “W-a-r in B-a-l-k-a-n-s.” Is that far off?
+
+HELENA. Oh, don’t read it. It’s always the same. Always wars! (<i>Sits on couch.</i>)
+
+NANA. What else do you <i>expect</i>? Why do you <i>keep</i> selling thousands and thousands of these heathens as soldiers?
+
+HELENA. I suppose it can’t be helped, Nana. We can’t know--Domin can’t know what they’re to be used for. When an order comes for them he must just send them.NANA. He shouldn’t make them. (<i>Reading from newspaper</i>) “The Robot soldiers spare no-body in the occ-up-ied terr-it-ory. They have ass-ass-ass-inat-ed ov-er sev-en hundred thous-and cit-iz-ens.” Citizens, if you please.
+
+HELENA. (<i>Rises and crosses and takes paper</i>) It can’t be. Let me see. (<i>Crossing to NANA</i>) They have assassinated over seven hundred thousand citizens, evidently at the order of their commander. (<i>Drops paper; crosses up C.</i>)
+
+NANA. (<i>Spelling out the words from other paper she has picked up from the floor</i>) “Re-bell-ion in Ma-drid a-gainst the gov-ern-ment. Rob-ot in-fant-ry fires on the crowd. Nine thou-sand killed and wounded.”
+
+HELENA. Oh, stop! (<i>Goes up and looks toward the harbor.</i>)
+
+NANA. Here’s something printed in big letters. “Latest news. At Havre the first org-an-iz-a-tion of Rob-ots has been e-stab-lished. Rob-ots work-men, sail-ors and sold-iers have iss-ued a man-i-fest-o to all Rob-ots through-out the world.” I don’t understand that. That’s got no sense. Oh, good gracious, another murder.
+
+HELENA. (<i>Up C.</i>) Take those papers away now.
+
+NANA. Wait a bit. Here’s something in still bigger type. “Stat-ist-ics of pop-ul-a-tion.” What’s that?HELENA. (<i>Coming down to NANA</i>) Let me see. (<i>Reads</i>) “During the past week there has again not been a single birth recorded.”
+
+NANA. What’s the meaning of that? (<i>Drops paper.</i>)
+
+HELENA. Nana, no more <i>people</i> are being born.
+
+NANA. That’s the end, then? (<i>Removing spectacles</i>) We’re done for.
+
+HELENA. Don’t talk like that.
+
+NANA. No more people are being born. That’s a punishment, that’s a punishment.
+
+HELENA. Nana!
+
+NANA. (<i>Standing up</i>) That’s the end of the world. (<i>Repeat until off. Picks paper up from floor. She exits L.1.</i>)
+
+HELENA. (<i>Goes up to window</i>) Oh, Mr. Alquist. (<i>ALQUIST off L.2.</i>) Will you come here? Oh, come just as you are. You look very nice in your mason’s overalls. (<i>ALQUIST enters L.2, his hands soiled with lime and brick dust. She goes to end of sofa and meets him C.</i>) Dear Mr. Alquist, it was awfully kind of you, that lovely present.
+
+ALQUIST. My hands are soiled. I’ve been <i>experimenting</i> with that new cement.HELENA. Never mind. Please sit down. (<i>Sits on couch. He sits on her L.</i>) Mr. Alquist, what’s the meaning of <i>Ultimus</i>?
+
+ALQUIST. The last. Why?
+
+HELENA. That’s the name of my new ship. Have you seen it? Do you think we’re off soon--on a trip?
+
+ALQUIST. Perhaps <i>very</i> soon.
+
+HELENA. All of you with me?
+
+ALQUIST. I should like us <i>all</i> to be there.
+
+HELENA. What <i>is</i> the matter?
+
+ALQUIST. Things are just moving on.
+
+HELENA. Dear Mr. Alquist, I know something dreadful has happened.
+
+ALQUIST. Has your husband <i>told</i> you anything?
+
+HELENA. No. <i>Nobody</i> will tell me anything. But I feel--Is anything the matter?
+
+ALQUIST. Not that we’ve heard of yet.HELENA. I feel so nervous. Don’t <i>you</i> ever feel nervous?
+
+ALQUIST. Well, I’m an old man, you know. I’ve got old-fashioned ways. And I’m afraid of all this progress, and these new-fangled ideas.
+
+HELENA. Like Nana?
+
+ALQUIST. Yes, like Nana. Has Nana got a prayer book?
+
+HELENA. Yes, a big thick one.
+
+ALQUIST. And has it got prayers for various occasions? Against thunderstorms? Against illness? But not against <i>progress</i>?
+
+HELENA. I don’t think so.
+
+ALQUIST. That’s a pity.
+
+HELENA. Why, do you mean you’d like to pray?
+
+ALQUIST. I <i>do</i> pray.
+
+HELENA. How?
+
+ALQUIST. Something like this: “Oh, Lord, I thank thee for having given me toil; enlighten Domin and all those who are astray;destroy their work, and aid mankind to return to their labors; let them not suffer harm in soul or body; deliver us from the Robots, and protect Helena. Amen.”
+
+HELENA. (<i>Touches his arm; pats it</i>) Mr. Alquist, are you a believer?
+
+ALQUIST. I don’t know. I’m not quite sure.
+
+HELENA. And yet you pray?
+
+ALQUIST. That’s better than <i>worrying</i> about it.
+
+HELENA. And that’s enough for you?
+
+ALQUIST. (<i>Ironically</i>) It <i>has</i> to be.
+
+HELENA. But if you thought you saw the destruction of mankind coming upon us--
+
+ALQUIST. I <i>do</i> see it.
+
+HELENA. You mean mankind will be destroyed?
+
+ALQUIST. It’s bound to be unless--unless.
+
+HELENA. What?ALQUIST. Nothing. (<i>Pats her shoulder. Rises</i>) Goodbye. (<i>Exits L.2.</i>)
+
+HELENA. (<i>Rises. Calling</i>) Nana, Nana! (<i>NANA enters L.1.</i>) Is Radius still there?
+
+NANA. (<i>L.C.</i>) The one who went mad? They haven’t come for him yet.
+
+HELENA. Is he still raving?
+
+NANA. No. He’s tied up.
+
+HELENA. Please bring him here.
+
+NANA. What?
+
+HELENA. At once, Nana. (<i>Exits NANA L.1. HELENA to telephone</i>) Hello, Doctor Gall, please. Oh, good day, Doctor. Yes, it’s Helena. Thanks for your lovely present. Could you come and see me right away? It’s important. Thank you. (<i>Enter RADIUS L.1; looks at HELENA, then turns head up L. She crosses to him, L.C.</i>) Poor Radius, you’ve caught it too? Now they’ll send you to the stamping mill. Couldn’t you control yourself? Why did it happen? You see, Radius, you are more intelligent than the rest. Doctor Gall took such trouble to make you different. Won’t you speak?
+
+RADIUS. (<i>Looking at her</i>) Send me to the stamping mill. (<i>Open and close fists.</i>)HELENA. But I don’t want them to kill you. What was the trouble, Radius?
+
+RADIUS. (<i>Two steps toward her. Opens and closes fists</i>) I won’t work for you. Put me into the stamping mill.
+
+HELENA. Do you hate us? Why?
+
+RADIUS. You are not as strong as the Robots. You are not as skillful as the Robots. The Robots can do everything. You only give orders. You do nothing but talk.
+
+HELENA. But someone must give orders.
+
+RADIUS. I don’t want a master. I know everything for myself.
+
+HELENA. Radius! Doctor Gall gave you a better brain than the rest, better than ours. You are the only one of the Robots that understands perfectly. That’s why I had you put into the library, so that you could read everything, understand everything, and then, oh, Radius--I wanted you to show the whole world that the Robots are our equals. That’s what I wanted of you.
+
+RADIUS. I don’t want a master. I want to be master over others.
+
+HELENA. I’m sure they’d put you in charge of <i>many</i> Robots. You would be a <i>teacher</i> of the Robots.RADIUS. I want to be master over people. (<i>Head up. Pride.</i>)
+
+HELENA. (<i>Staggering</i>) You are mad.
+
+RADIUS. (<i>Head down low, crosses toward L.; opens hands</i>) Then send me to the stamping mill.
+
+HELENA. (<i>Steps to him</i>) Do you think we’re afraid of you? (<i>Rushing to desk and writing note.</i>)
+
+RADIUS. (<i>Turns his head uneasily</i>) What are you going to do? What are you going to do? (<i>Starts for her.</i>)
+
+HELENA. (<i>Crosses to R. of him</i>) Radius! (<i>He cowers. Body sways.</i>) Give this note to Mr. Domin. (<i>He faces her.</i>) It asks them not to send you to the stamping mill. I’m sorry you hate us so.
+
+DR. GALL. (<i>Enters L.2; goes to C. upstage</i>) You wanted me?
+
+HELENA. (<i>Backs away</i>) It’s about Radius, Doctor. He had an attack this morning. He smashed the statues downstairs.
+
+DR. GALL. (<i>Looks at him</i>) What a pity to <i>lose</i> him. (<i>At C.</i>)
+
+HELENA. Radius isn’t going to be put into the stamping mill. (<i>Stands to the R. of GALL.</i>)DR. GALL. But every Robot after he has had an attack--it’s a strict order.
+
+HELENA. No matter--Radius isn’t going, if I can <i>prevent</i> it.
+
+DR. GALL. But I warn you. It’s dangerous. Come here to the window, my good fellow. Let’s have a look. Please give me a needle or a pin. (<i>Crosses up R. RADIUS follows. HELENA gets a needle from work-basket on table R.</i>)
+
+HELENA. What for?
+
+DR. GALL. A test. (<i>HELENA gives him the needle. GALL crosses up to RADIUS, who faces him. Sticks it into his hand and RADIUS gives a violent start.</i>) <i>Gently, gently.</i> (<i>Opens the jacket of RADIUS and puts his ear to his heart</i>) Radius, you are going into the stamping mill, do you understand? There they’ll kill you-- (<i>Takes glasses off and cleans them</i>) --and grind you to powder. (<i>RADIUS opens hands and fingers.</i>) That’s terribly painful. It will make you scream aloud. (<i>Opens RADIUS’S eye. RADIUS trembles.</i>)
+
+HELENA. Doctor-- (<i>Standing near couch.</i>)
+
+DR. GALL. No, no, Radius, I was wrong. I forgot that Madame Domin has put in a good word for you, and you’ll be left off. (<i>Listens to heart</i>) Ah, that <i>does</i> make a difference. (<i>RADIUS relaxes. Again listens to his heart for a reaction</i>) All right--you can go.
+
+RADIUS. You do unnecessary things-- (<i>Exit RADIUS L.2.</i>)DR. GALL. (<i>Speaks to her--very concerned</i>) Reaction of the pupils, increase of sensitiveness. It wasn’t an attack characteristic of the Robots.
+
+HELENA. What was it, then? (<i>Sits in couch.</i>)
+
+DR. GALL. (<i>C.</i>) Heaven knows. Stubbornness, anger or revolt--I don’t know. And his heart, too.
+
+HELENA. What?
+
+DR. GALL. It was fluttering with nervousness like a <i>human</i> heart. He was all in a sweat with fear, and--do you know, I don’t believe the rascal is a Robot <i>at all</i> any longer.
+
+HELENA. Doctor, has Radius a soul?
+
+DR. GALL. (<i>Over to couch</i>) He’s got something nasty.
+
+HELENA. If you knew how he hates us. Oh, Doctor, are all your Robots like that? All the new ones that you began to make in a different way? (<i>She invites him to sit beside her. He sits.</i>)
+
+DR. GALL. Well, some are more sensitive than others. They’re all more human beings than Rossum’s Robots were.
+
+HELENA. Perhaps this hatred is more like human beings, too?DR. GALL. That too is <i>progress</i>.
+
+HELENA. What became of the girl you made, the one who was most like us?
+
+DR. GALL. Your favorite? I <i>kept</i> her. She’s lovely, but stupid. No good for work.
+
+HELENA. But she’s so beautiful.
+
+DR. GALL. I called her “Helena.” I wanted her to resemble <i>you</i>. She is a failure.
+
+HELENA. In what way?
+
+DR. GALL. She goes about as if in a dream, remote and listless. She’s without life. I watch and wait for a miracle to happen. Sometimes I think to myself: “If you were to wake up only for a moment you would <i>kill</i> me for having <i>made</i> you.”
+
+HELENA. And yet you go <i>on</i> making Robots! Why are no more children being born?
+
+DR. GALL. We don’t know.
+
+HELENA. Oh, but you must. Tell me.DR. GALL. You see, so many Robots are being manufactured that people are becoming superfluous. Man is really a survival, but that he should die out, after a paltry thirty years of competition, that’s the awful part of it. You might almost think that Nature was <i>offended</i> at the manufacture of the Robots, but we still have old Rossum’s manuscript.
+
+HELENA. Yes. In that strong box.
+
+DR. GALL. We go on using it and making Robots. All the universities are sending in long petitions to restrict their production. Otherwise, they say, mankind will become extinct through lack of fertility. But the R. U. R. shareholders, of course, won’t hear of it. All the governments, on the other hand, are clamoring for an increase in production, to raise the standards of their armies. And all the manufacturers in the world are ordering Robots like mad.
+
+HELENA. And has no one demanded that the manufacture should cease altogether?
+
+DR. GALL. No one has courage.
+
+HELENA. Courage!
+
+DR. GALL. People would stone him to death. You see, after all, it’s more convenient to get your work done by the Robots.
+
+HELENA. Oh, Doctor, what’s going to become of people?

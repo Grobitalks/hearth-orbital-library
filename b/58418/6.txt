@@ -1,0 +1,646 @@
+HOLB1	58418	6	480	80	646	150
+1	Introduction
+5	I. Cicero Attico Sal.
+7	I. Cicero To Atticus, Greeting.
+14	II. Cicero To Atticus, Greeting.
+15	III. Cicero To Atticus, Greeting.
+16	IV. Cicero Attico Sal.
+18	IV. Cicero To Atticus, Greeting.
+20	V. Cicero Attico Sal.
+22	V. Cicero To Atticus, Greeting.
+25	VI. Cicero Attico Sal.
+27	VI. Cicero To Atticus, Greeting.
+28	VII. Cicero Attico Sal.
+30	VIII. Cicero Attico Sal.
+31	VIII. Cicero To Atticus, Greeting.
+32	IX. Cicero Attico Sal.
+34	IX. Cicero To Atticus, Greeting.
+35	X. Cicero To Atticus, Greeting.
+38	XI. Cicero Attico Sal.
+39	XI. Cicero To Atticus, Greeting.
+41	XII. Cicero Attico Sal.
+42	XII. Cicero To Atticus, Greeting.
+45	XIII. Cicero Attico Sal.
+47	XIII. Cicero To Atticus, Greeting.
+53	XIV. Cicero Attico Sal.
+54	XIV. Cicero To Atticus, Greeting.
+62	XV. Cicero Attico Sal.
+63	XV. Cicero To Atticus, Greeting.
+64	XVI. Cicero Attico Sal.
+65	XVI. Cicero To Atticus, Greeting.
+81	XVII. Cicero Attico Sal.
+83	XVII. Cicero To Atticus, Greeting.
+92	XVIII. Cicero Attico Sal.
+94	XVIII. Cicero To Atticus, Greeting.
+101	XIX. Cicero Attico Sal.
+103	XIX. Cicero To Atticus, Greeting.
+112	XX. Cicero Attico Sal.
+114	XX. Cicero To Atticus, Greeting.
+120	I. Cicero Attico Sal.
+121	I. Cicero To Atticus, Greeting.
+132	II. Cicero Attico Sal.
+134	II. Cicero To Atticus, Greeting.
+135	III. Cicero Attico Sal.
+136	III. Cicero To Atticus, Greeting.
+140	IV. Cicero Attico Sal.
+141	IV. Cicero To Atticus, Greeting.
+143	V. Cicero Attico Sal.
+144	V. Cicero To Atticus, Greeting.
+148	VI. Cicero Attico Sal.
+149	VI. Cicero To Atticus, Greeting.
+151	VII. Cicero Attico Sal.
+153	VII. Cicero To Atticus, Greeting.
+157	VIII. Cicero Attico Sal.
+158	VIII. Cicero To Atticus, Greeting.
+160	IX. Ccicero Attico Sal.
+161	IX. Cicero To Atticus, Greeting.
+165	X. Cicero Attico Sal.
+167	XI. Cicero Attico Sal.
+168	XI. Cicero To Atticus, Greeting.
+169	XII. Cicero Attico Sal.
+170	XII. Cicero To Atticus, Greeting.
+172	XIII. Cicero Attico Sal.
+174	XIII. Cicero To Atticus, Greeting.
+175	XIV. Cicero Attico Sal.
+176	XIV. Cicero To Atticus, Greeting.
+178	XV. Cicero Attico Sal.
+180	XV. Cicero To Atticus, Greeting.
+183	XVI. Cicero Attico Sal.
+184	XVI. Cicero To Atticus, Greeting.
+189	XVII. Cicero Attico Sal.
+190	XVII. Cicero To Atticus, Greeting.
+192	XVIII. Cicero Attico Sal.
+193	XVIII. Cicero To Atticus, Greeting.
+196	XIX. Cicero Attico Sal.
+197	XIX. Cicero To Atticus, Greeting.
+203	XX. Cicero Attico Sal.
+204	XX. Cicero To Atticus, Greeting.
+207	XXI. Cicero Attico Sal.
+208	XXI. Cicero To Atticus; Greeting.
+213	XXII. Cicero Attico Sal.
+214	XXII. Cicero To Atticus, Greeting.
+218	XXIII. Cicero Attico Sal.
+219	XXIII. Cicero To Atticus, Greeting.
+221	XXIV. Cicero Attico Sal.
+222	XXIV. Cicero To Atticus, Greeting.
+227	XXV. Cicero Attico Sal.
+229	XXV. Cicero To Atticus, Greeting.
+234	II. Cicero To Atticus, Greeting.
+237	IV. Cicero To Atticus, Greeting.
+240	VII. Cicero Attico Sal.
+241	VII. Cicero To Atticus, Greeting.
+243	VIII. Cicero Attico Sal.
+245	VIII. Cicero To Atticus, Greeting.
+248	IX. Cicero Attico Sal.
+249	IX. Cicero To Atticus, Greeting.
+252	X. Cicero Attico Sal.
+253	X. Cicero To Atticus, Greeting.
+255	XI. Cicero Attico Sal.
+256	XI. Cicero To Atticus, Greeting.
+257	XII. Cicero Attico Sal.
+258	XII. Cicero To Atticus, Greeting.
+260	XIII. Cicero Attico Sal.
+262	XIII. Cicero To Atticus, Greeting.
+264	XIV. Cicero Attico Sal.
+265	XIV. Cicero To Atticus, Greeting.
+266	XV. Cicero Attico Sal.
+267	XV. Cicero To Atticus, Greeting.
+276	XVI. Cicero Attico Sal.
+278	XVII. Cicero Attico Sal.
+279	XVII. Cicero To Atticus, Greeting.
+280	XVIII. Cicero Attico Sal.
+282	XVIII. Cicero To Atticus, Greeting.
+283	XIX. Cicero To Atticus, Greeting.
+286	XX
+287	XX
+289	XXI. Cicero Attico Sal.
+291	XXII. Cicero Attico Sal.
+292	XXII. Cicero To Atticus, Greeting.
+294	XXIII. Cicero Attico Sal.
+295	XXIII. Cicero To Atticus, Greeting.
+300	XXIV. Cicero Attico Sal.
+301	XXIV. Cicero To Atticus, Greeting.
+307	I. Cicero Attico Sal.
+308	I. Cicero To Atticus, Greeting.
+314	II. Cicero Attico Sal.
+316	II. Cicero To Atticus, Greeting.
+323	III. Cicero Attico Sal.
+325	III. Cicero To Atticus, Greeting.
+332	IV. Cicero Attico Sal.
+334	IV. Cicero To Atticus, Greeting.
+336	V. Cicero Attico Sal.
+338	V. Cicero To Atticus, Greeting.
+340	VI. Cicero Attico Sal.
+341	VI. Cicero To Atticus, Greeting.
+345	VII. Cicero Attico Sal.
+346	VII. Cicero To Atticus, Greeting.
+348	VIII. Cicero Attico Sal.
+350	VIII. Cicero To Atticus, Greeting.
+355	IX. Cicero Attico Sal.
+357	IX. Cicero To Atticus, Greeting.
+358	X. Cicero Attico Sal.
+359	X. Cicero To Atticus, Greeting.
+361	XI. Cicero Attico Sal.
+363	XI. Cicero To Atticus, Greeting.
+364	XII. Cicero Attico Sal.
+366	XII. Cicero To Atticus, Greeting.
+367	XIII. Cicero Attico Sal.
+368	XIII. Cicero To Atticus, Greeting.
+369	XIV. Cicero Attico Sal.
+370	XIV. Cicero To Atticus Greeting.
+371	XV. Cicero To Atticus, Greeting.
+Nam, quas Laeni pueris scribis datas, non acceperam. Iucunda de Caesare, et quae senatus decrevit, et quae tu speras. Quibus ille si cedit, salvi sumus. Incendio Plaetoriano quod Seius ambustus est, minus moleste fero. Lucceius de Q. Cassio cur tam vehemens fuerit, et quid actum sit, aveo scire.
+
+Ego, cum Laodiceam venero, Quinto, sororis tuae filio, togam puram iubeor dare. Cui moderabor diligentius. Deiotarus, cuius auxiliis magnis usus sum, ad me, ut scripsit, cum Ciceronibus Laodiceam venturus erat. Tuas etiam Epiroticas exspecto litteras, ut habeam rationem non modo negotii, verum etiam otii tui. Nicanor in officio est et a me liberaliter tractatur. Quem, ut puto, Romam cum litteris publicis mittam, ut et diligentius perferantur, et idem ad me certa de te et a te referat. Alexis quod mihi totiens salutem adscribit, est gratum; sed cur non suis litteris idem facit, quod meus ad te Alexis facit? Phemio quaeritur κέρας. Sed haec hactenus. Cura, ut valeas, et ut sciam, quando cogites Romam. Etiam atque etiam vale.
+
+Tua tuosque Thermo et praesens Ephesi diligentissime commendaram et nunc per litteras ipsumque intellexi esse perstudiosum tui. Tu velim, quod antea
+
+the letter which you say was entrusted to the slaves of Laenius. It was glad tidings that you wrote me about Caesar and the decree of the House and your own hopes. If Caesar falls in with this, I shall be safe from any extension of office. I am not much concerned that Seius was singed in Plaetorius’ fire.[193] I want to know why Lucceius was so keen about Q. Cassias and what has happened.I am commissioned to celebrate the coming of age of Quintus, your sister’s son, on arrival at Laodicea. I shall keep a careful hold upon him. Deiotarus, who has been of great help to me, has written that he will come to me at Laodicea with the two boys. I am awaiting another letter from you from Epirus, that I may have an account not only of your work-a-day life, but of your holiday life. Nicanor is doing his duty by me, and is being well treated. I think I shall send him to Rome with my official despatch, that it may be promptly delivered and at the same time that he may bring me certain news about you and from you. I am pleased that Alexis so often sends greetings to me; but why cannot he put them in a letter of his own, as Tiro, who is my Alexis, does for you. I am searching for a horn for Phemius.[194] But enough now. Keep your health and let me know when you intend to go to town. Good-bye, again good-bye.
+
+I have been at pains to recommend your interests and your people to Thermus, both personally at Ephesus and now by letter, and I have gathered that he is very solicitous on your behalf. Please execute
+
+Footnote 193:
+
+M. Plaetorius Cestianus was condemned for extortion, and M. Seius as an accessory after the fact.
+
+Footnote 194:
+
+A musical slave belonging to Atticus.ad te scripsi, de domo Pammeni des operam, ut, quod tuo meoque beneficio puer habet, cures, ne qua ratione convellatur. Utrique nostrum honestum existimo; tum mihi erit pergratum.
+
+<b>XXI</b>
+
+CICERO ATTICO SAL.
+
+[Sidenote: <i>Scr. Laodiceae Id. Febr. a. 704</i>]
+
+Te in Epirum salvum venisse et, ut scribis, ex sententia navigasse vehementer gaudeo, non esse Romae meo tempore pernecessario submoleste fero. Hoc me tamen consolor uno, spero te istic iucunde hiemare et libenter requiescere. C. Cassius, frater Q. Cassi, familiaris tui, pudentiores illas litteras miserat, de quibus tu ex me requiris, quid sibi voluerint, quam cas, quas postea misit, quibus per se scribit confectum esse Parthicum bellum. Recesserant illi quidem ab Antiochia ante Bibuli adventum, sed nullo nostro εὐημερήματι; hodie vero hiemant in Cyrrhestica, maximumque bellum impendet. Nam et Orodi, regis Parthorum, filius in provincia nostra est, nec dubitat Deiotarus, cuius filio pacta est Artavasdis filia, ex quo sciri potest, quin cum omnibus copiis ipse prima aestate Euphraten transiturus sit. Quo autem die Cassi litterae victrices in senatu recitatae sunt, datae Nonis Octobribus, eodem meae tumultum nuntiantes. Axius noster ait nostras auctoritatis plenas fuisse, illis negat creditum. Bibuli nondum erant allatae; quas certo scio plenas timoris fore.my former commissions to look after Pammenes’ house, so that the boy may not be robbed of what he owes to your kindness and mine. This I think will redound to our honour and will please me much.
+
+<b>XXI</b>
+
+CICERO TO ATTICUS, GREETING.
+
+[Sidenote: <i>Laodicea, Feb. 13</i>, B.C. <i>50</i>]
+
+I am very glad that you have reached Epirus safely, and that you report a voyage to your liking. But I am rather upset that you are absent from Rome at a moment so critical for me. However I have one consolation: I hope you will have a pleasant winter where you are and a nice rest. You ask me the purport of a letter that C. Cassius, the brother of Q. Cassius, your friend, sent me. The letter he wrote is more modest than a subsequent epistle in which he claimed to have ended the Parthian war. The Parthians to be sure had retired from Antioch before the arrival of Bibulus: but it was not thanks to any <i>coup de main</i> of our troops. To-day the enemy is wintering in Cyrrhestica and a serious war is imminent: for the son of Orodes the king of the Parthians is in a Roman province, and Deiotarus, to whose son the daughter of Artavasdes is betrothed, a very competent authority, is positive that the king himself will cross the Euphrates with all his forces in the early summer. On the very day on which Cassius’ despatch, dated the 7th of October, announcing victory was read in the Senate, came mine announcing trouble. My friend Axius says that Cassius’ despatch gained no belief and mine was considered worthy of attention.Bibulus’ despatch had not yet arrived: but I know for a fact that it will express alarm.
+
+Ex his rebus hoc vereor, ne, cum Pompeius propter metum rerum novarum nusquam dimittatur, Caesari nullus honos a senatu habeatur, dum hic nodus expediatur, non putet senatus nos, antequam successum sit, oportere decedere nec in tanto motu rerum tantis provinciis singulos legates praeesse. Hic, ne quid mihi prorogetur, quod ne intercessor quidem sustinere possit, horreo, atque eo magis, quod tu abes, qui consilio, gratia, studio multis rebus occurreres. Sed dices me ipsum mihi sollicitudinem struere. Cogor, ut velim ita sit; sed omnia metuo. Etsi bellum ἀκροτελεύτιον habet illa tua epistula, quam dedisti nauseans Buthroto: “Tibi, ut video et spero, nulla ad decedendum erit mora.” Mallem “ut video,” nihil opus fuit “ut spero.” Acceperam autem satis celeriter Iconi per publicanorum tabellarios a Lentuli triumpho datas. In his γλυκύπικρον illud confirmas, moram mihi nullam fore, deinde addis, si quid secus, te ad me esse venturum. Angunt me dubitationes tuae; simul et vides, quas acceperim litteras. Nam, quas Hermonis centurionis caculae ipse scribis te dedisse, non accepi. Laeni pueris te dedisse saepe ad me scripseras. Eas Laodiceae denique, cum eo venissem, III Idus Februar. Laenius mihi reddidit datas a. d. X Kal. Octobres. Laenio tuas commendationes et statim verbis et reliquo tempore re probabo. Eae litterae cetera vetera habebant, unumThis makes me fear that the Senate may pay no respect to Caesar’s demands, refusing to let Pompey quit Rome, when revolution is imminent. Until this trouble is unravelled, it may decline to allow me to leave the province before my successor comes, and not be willing to entrust such important provinces in troublous times to legates. So I shudder to think that the term of my office may be extended without even any tribune being able to veto it; and the more so on account of your absence, when you might interfere in many cases with your advice, influence and efforts. You will say I am raising imaginary alarms. I am forced to hope that my alarms may be idle, but everything frightens me. Though your letter written at Buthrotum in sickness had a charming <i>finale</i>. “As I see and hope, there will be nothing to hinder your departure,” still I should prefer the phrase “as I see” and there was no need for the words “and hope.” I have received a letter dated just after the triumph of Lentulus, which was brought post haste to Iconium by the tax-farmers’ messengers. In it you repeat that bitter-sweet saying, that there will be no delay, with a postscript, that, if anything goes wrong, you yourself will come to me. I am tortured by the doubts you express: and you may see which of your letters I have received, for I have not got the letter which you say was handed to Hermo the centurion’s orderly. You have repeatedly told me you entrusted a letter to the slaves of Laenius. That letter, which was dated the 21st of September, was handed to me at last by Laenius on my arrival at Laodicea on the 11th of February. I will show Laenius at once in word and in the future in deed that your recommendation carries weight. Besides old topics the letter hadhoc novum de Cibyratis pantheris. Multum te amo, quod respondisti M. Octavio te non putare. Sed posthac omnia, quae recta non erunt, pro certo negato. Nos enim et nostra sponte bene firmi et mehercule auctoritate tua inflammati vicimus omnes (hoc tu ita reperies) cum abstinentia tum iustitia, facilitate, clementia. Cave putes quicquam homines magis umquam esse miratos quam nullum terruncium me obtinente provinciam sumptus factum esse nec in rem publicam nec in quemquam meorum praeterquam in L. Tullium legatum. Is ceteroqui abstinens, sed Iulia lege transitans,[195] semel tamen in diem, non, ut alii solebant, omnibus vicis (praeter eum semel nemo accepit) facit, ut mihi excipiendus sit, cum terruncium nego sumptus factum. Praeter eum accepit nemo. Has a nostro Q. Titinio sordes accepimus.
+
+Ego aestivis confectis Quintum fratrem hibernis et Ciliciae praefeci. Q. Volusium, tui Tiberi generum, certum hominem et mirifice abstinentem, misi in Cyprum, ut ibi pauculos dies esset, ne cives Romani. pauci qui illic negotiantur, ius sibi dictum negarent; nam evocari ex insula Cyprios non licet. Ipse in Asiam profectus sum Tarso Nonis Ianuariis, non mehercule dici potest qua admiratione Ciliciae civitatum maximeque Tarsensium. Postea vero quam Taurum transgressus sum, mirifica exspectatio Asiae nostrarum dioecesium, quae sex mensibus imperii mei nullas meas acceperat litteras, numquam hospitem
+
+Footnote 195:
+
+transitans <i>Manutius</i>: transitam <i>M</i>: pransitans <i>Peerlkamp</i>: in transitu <i>Tyrrell</i>.one fresh one, the panthers from Cibyra. I am indebted to you for telling M. Octavius that you thought it would be impracticable. But in future give a direct “no” to any undesirable requests. Firm fixed in my own determination and fired by the weight of your opinion, I have overcome everybody as you will find by my justice, self-abnegation and easy courtesy. People were never more astonished than to learn that not a farthing has been spent during my tenure of office, either on public objects or on any of my staff, except on my legate L. Tullius. He has behaved well on the whole, but under the Julian law on one occasion <i>en passage</i> and for the day’s needs, and not as others would at every hamlet, he did take something. He is the sole offender; and forces me to add a rider to my remark that not a farthing has been spent upon us. Besides him no one has taken a penny. That blot I owe to my friend Q. Titinius.
+
+When the camp was struck at the end of the summer, I put my brother Quintus in charge of the winter camp and of Cilicia. Q. Volusius, son-in-law of your friend Tiberius, a safe man and wonderfully unselfish, I have sent to Cyprus, ordering him to stay a few days, that the few Roman citizens in business there may not say they have no facilities for legal process: the inhabitants cannot be summoned to a court outside the island. I myself set out for Asia from Tarsus on the fifth of January. I cannot describe how the cities in Cilicia and especially the people of Tarsus looked up to me. After crossing the Taurus, I found Asia, that is so far as my district extends, very keen to welcome me. For during the six months of my administration, there had been no requisitions andviderat. Illud autem tempus quotannis ante me fuerat in hoc quaestu. Civitates locupletes, ne in hiberna milites reciperent, magnas pecunias dabant, Cyprii talenta Attica cc; qua ex insula (non ὑπερβολικῶς sed verissime loquor) nummus nullus me obtinente erogabitur. Ob haec beneficia, quibus illi obstupescunt, nullos honores mihi nisi verborum decerni sino, statuas, fana, τέθριππα prohibeo, nec sum in ulla re alia molestus civitatibus—sed fortasse tibi, qui haec praedicem de me. Perfer, si me amas; tu enim me haec facere voluisti. Iter igitur ita per Asiam feci, ut etiam fames, qua nihil miserius est, quae tum erat in haec mea Asia (messis enim nulla fuerat), mihi optanda fuerit. Quacumque iter feci, nulla vi, nullo iudicio, nulla contumelia, auctoritate et cohortatione perfeci, ut et Graeci et cives Romani, qui frumentum compresserant, magnum numerum populis pollicerentur. Idibus Februariis, quo die has litteras dedi, forum institueram agere Laodiceae Cibyraticum et Apamense, ex Idibus Martiis ibidem Synnadense, Pamphylium (tum Phemio dispiciam κέρας), Lycaonium, Isauricum; ex Idibus Maiis in Ciliciam, ut ibi Iunius consumatur, velim tranquille a Parthis. Quinctilis, si erit, ut volumus, in itinere est per provinciam redeuntibus consumendus. Venimus enim in provinciam Laodiceam Sulpicio et Marcello consulibus pridie Kalendas Sextiles.
+
+not a single case of billeting. Before my time this season had been devoted every year to the pursuit of gain. The richer states used to pay large sums to escape from having soldiers billeted on them for the winter. The people of Cyprus used to pay nearly £50,000,[196] while under my administration, in literal truth, not a penny will be demanded. I will take no honours except speechifying in return for these kindnesses which have so amazed people.I allow neither statues, nor shrines, nor sculptured chariots: and I don’t annoy the states in any other respects—but perhaps I may annoy you by my egotism. Bear with it from your regard for me. It was you who wished me to act as I have. My tour through Asia was such that even the crowning misery of famine, which existed in my province owing to the failure of the crops, gave me a welcome opportunity. Wherever I went, without force, without legal process, without hard words, by my personal influence and exhortations, I induced Greeks and Roman citizens, who had stored corn, to promise a large quantity to the communities. On the 13th of February, the date on which I despatch this letter, I have arranged to try cases from Cibyra and Apamea at Laodicea; from the 15th of March, from Synnada, Pamphylia (when I will look out for a horn for Phemius), Lycaonia and Isaurum at the same place. After the 15th of May, I set out to spend June in Cilicia: I hope without being troubled by the Parthians. July, if things turn out as I hope, is to be spent on my journey back through the province. I entered the province at Laodicea during the consulship of Sulpicius and Marcellus on the 31st of
+
+Footnote 196:
+
+200 Attic talents, which were of the value of £243 15s.
+
+Inde nos oportet decedere a. d. III Kalendas Sextiles. Primum contendam a Quinto fratre, ut se praefici patiatur, quod et illo et me invitissimo fiet. Sed aliter honeste fieri non potest, praesertim cum virum optimum, Pomptinum, ne nunc quidem retinere possim. Rapit enim hominem Postumius Romam, fortasse etiam Postumia.Habes consilia nostra; nunc cognosce de Bruto. Familiares habet Brutus tuus quosdam creditores Salaminiorum ex Cypro, M. Scaptium et P. Matinium: quos mihi maiorem in modum commendavit. Matinium non novi. Scaptius ad me in castra venit. Pollicitus sum curaturum me Bruti causa, ut ei Salaminii pecuniam solverent. Egit gratias. Praefecturam petivit. Negavi me cuiquam negotianti dare (quod idem tibi ostenderam. Cn. Pompeio petenti probaram institutum meum, quid dicam Torquato de M. Laenio tuo, multis aliis?); sin praefectus vellet esse syngraphae causa, me curaturum, ut exigeret. Gratias egit, discessit. Appius noster turmas aliquot equitum dederat huic Scaptio, per quas Salaminios coerceret, et eundem habuerat praefectum; vexabat Salaminios. Ego equites ex Cypro decedere iussi. Moleste tulit Scaptius. Quid multa? ut ei fidem meam praestarem, cum ad me Salaminii Tarsum venissent et in iis Scaptius, imperavi, ut pecuniam solverent. Multa de syngrapha, de Scapti iniuriis. Negavi me audire; hortatus sum, petivi etiam pro
+
+July. I ought to quit it on the 30th of July. First, however, I must ask my brother Quintus to be good enough to take charge, which will be against the grain with us both. But it will be the only fair course, especially since even now I cannot keep that excellent fellow Pomptinus; for Postumius is dragging him back to town, and perhaps Mrs Postumius too.
+
+Those are my plans. Now let me tell you about Brutus. Among his intimates your friend Brutus has some creditors of the people of Salamis in Cyprus, M. Scaptius and P. Matinius, whom he recommended to me warmly. Matinius I have not met: Scaptius came to see me in camp. For the sake of Brutus I promised that the people of Salamis should settle their debts to him.The fellow thanked me, and asked for the post of prefect. I informed him I always refused business men, as I have told you. This rule Cn. Pompeius accepted when he made a similar request. So did Torquatus, M. Laenius, and many others. However, I told Scaptius that if he wanted the post on account of his bond, I would see that he got paid. He thanked me and took his leave. Our friend Appius had given him some squadrons to put pressure on the people of Salamis, and had also given him the office of prefect. He was causing trouble to the people of Salamis. I gave orders that his cavalry should leave the island. That annoyed him. In short, to keep faith with him, I ordered the people, when they came along with Scaptius to see me at Tarsus, to pay the money. They had a good deal to say about the bond, and about the harm that Scaptius had done them. I refused to listen. I prayed and besought them to
+
+meis in civitatem beneficiis, ut negotium conficerent, denique dixi me coacturum. Homines non modo non recusare, sed etiam hoc dicere, se a me solvere. Quod enim praetori dare consuessent, quoniam ego non acceperam, se a me quodam modo dare, atque etiam minus esse aliquanto in Scapti nomine quam in vectigali praetorio. Collaudavi homines. “Recte,” inquit Scaptius, “sed subducamus summam.” Interim, cum ego in edicto translaticio centesimas me observaturum haberem cum anatocismo anniversario ille ex syngrapha postulabat quaternas. “Quid ais?” inquam, “possumne contra meum edictum?” At ille profert senatus consultum Lentulo Philippoque consulibus, VT, QVI CILICIAM OBTINERET, IVS EX ILLA SYNGRAPHA DICERET. Cohorrui primo; etenim erat interitus civitatis. Reperio duo senatus consulta isdem consulibus de eadem syngrapha. Salaminii cum Romae versuram facere vellent, non poterant, quod lex Gabinia vetabat.Tum iis Bruti familiares freti gratia Bruti dare volebant quaternis, si sibi senatus consulto caveretur. Fit gratia Bruti senatus consultum, VT NEVE SALAMINIIS, NEVE QVI EIS DEDISSET, FRAVDI ESSET. Pecuniam numerarunt. At postea venit in mentem
+
+settle the business in consideration of the good that I had done their state. Finally, I threatened to compel them. So far from refusing to settle, the people said that really they would be paying out of my pocket, in the sense that I had refused to take the present usually given to the governor, which they admitted would be more than the amount they owed to Scaptius. I praised their attitude. “Very well,” said Scaptius; “but let us reckon up the total.” Now in my traditionary edict[197] I had fixed the rate of interest at 12 per cent compound interest, reckoned by the year. But Scaptius demanded 48 per cent in accordance with the terms of the bond. I declared that I could not break the rule laid down in my edict. But he produced a decree of the Senate, made in the consulship of Lentulus and Philippus,[198] ordering that the governor of Cilicia should give judgement according to the bond. At first I was horror stricken, for it spelled ruin to the community. I find there are two decrees of the Senate in the same year about this identical bond. When the people of Salamis wanted to raise a loan in town to pay off another, they were obstructed by a law of Gabinius which forbade lending to provincials. Then these intimates of Brutus, depending on his support, professed willingness to lend at 48 per cent, if they were protected by a decree of the Senate. Brutus induced the Senate to make a decree that the transaction between the people of Salamis and the money-lenders should be exempted from the provisions of the law. They paid down the money. Afterwards it came into the heads of theFootnote 197:
+
+The edict is called <i>translaticium</i>, because it was handed down with alterations from governor to governor.
+
+Footnote 198:
+
+B.C. 56.
+
+faeneratoribus nihil se iuvare illud senatus consultum, quod ex syngrapha ius dici lex Gabinia vetaret. Tum fit senatus consultum, VT EX EA SYNGRAPHA IVS DICERETVR, non ut alio iure ea syngrapha[199] esset quam ceterae, sed ut eodem. Cum haec disseruissem, seducit me Scaptius; ait se nihil contra dicere, sed illos putare talenta cc se debere. Ea se velle accipere. Debere autem illos paulo minus. Rogat, ut eos ad ducenta perducam. “Optime,” inquam. Voco illos ad me remoto Scaptio. “Quid? vos quantum,” inquam, “debetis?” Respondent CVI. Refero ad Scaptium. Homo clamare. “Quid? opus est,” inquam, “rationes conferatis?” Adsidunt, subducunt; ad nummum convenit. Illi se numerare velle, urguere, ut acciperet. Scaptius me rursus seducit, rogat, ut rem sic relinquam. Dedi veniam homini impudenter petenti; Graccis querentibus, ut in fano deponerent, postulantibus non concessi. Clamare omnes, qui aderant, nihil impudentius Scaptio, qui centesimis cum anatocismo contentus non esset; alii nihil stultius. Mihi autem impudens magis quam stultus videbatur; nam aut bono nomine centesimis contentus non[200] erat aut non bono quaternas centesimas sperabat.Habes meam causam. Quae si Bruto non probatur, nescio, cur illum amemus. Sed avunculo eius certe probabitur, praesertim cum senatus consultum modo factum sit, puto, postquam tu es profectus, in
+
+Footnote 199:
+
+IVS—syngrapha <i>is added by Boot</i>.
+
+Footnote 200:
+
+non <i>is added by Ernesti</i>.
+
+money-lenders that the decree would be futile, because Gabinius’ law forbade any legal process on the bond. Then the Senate passed a decree that the bond should be good at law, giving this bond the same validity as other bonds and nothing more. When I pointed this out, Scaptius took me aside. He said that he had no objection to my ruling; but that the people of Salamis imagined they owed him nearly £50,000. That he wanted to get that sum, but that they owed rather less. He begged me to induce them to fix it at that amount. “Very well,” said I. I sent Scaptius away, and summoned the people and asked them the amount of the debt. They replied something over £25,000. I consulted Scaptius again. He was loud in his protests. I said that the only plan was for them to check their accounts. They sat down and made out the account. It agreed to a penny with their statement. They wanted to pay, and begged him to receive the money. Again Scaptius led me aside, and asked me to let the matter stand over. The request was impertinent, but I consented.I would not listen to the complaints of the Greeks and their demand to deposit the sum in the temple treasury. The bystanders all declared that the conduct of Scaptius was outrageous in refusing 12 per cent with compound interest. Others said he was a fool. He seemed to me to be more of a knave than a fool: for either he was not content with 12 per cent on good security, or he hoped for 48 per cent on very doubtful security.
+
+There is my case. If Brutus does not approve, there is no reason why I should be friendly with him. Certainly his uncle will approve, especially since a decree of the Senate has been passed (after you left
+
+creditorum causa ut centesimae perpetuo faenore ducerentur. Hoc quid intersit, si tuos digitos novi, certe babes subductum. In quo quidem, ὁδοῦ πάρεργον, L. Lucceius M. f. queritur apud me per litteras summum esse periculum, ne culpa senatus his decretis res ad tabulas novas perveniat; commemorat, quid olim mali C. Iulius fecerit, cum dieculam duxerit: numquam rei publicae plus. Sed ad rem redeo. Meditare adversus Brutum causam meam, si haec causa est, contra quam nihil honeste dici potest, praesertim cum integram rem et causam reliquerim.
+
+Reliqua sunt domestica. De ἐνδομύχω probo idem quod tu Postumiae filio, quoniam Pontidia nugatur. Sed vellem adesses. A Quinto fratre his mensibus nihil exspectaris; nam Taurus propter nives ante mensem Iunium transiri non potest. Thermum, ut rogas, creberrimis litteris fulcio. P. Valerium negat habere quicquam Deiotarus rex eumque ait a se sustentari. Cum scies, Romae intercalatum sit necne, velim ad me scribas certum, quo die mysteria futura sint. Litteras tuas minus paulo exspecto, quam si Romae esses, sed tamen exspecto.Rome, I think) in the matter of money-lenders, that 12 per cent simple interest shall be the rate. The difference between the two totals you will already have arrived at, if I do not belie your skill as a ready-reckoner. <i>Apropos</i> of this, by the way, L. Lucceius, son of Marcus, writes me a petulant letter that there is great danger of a general repudiation of debts resulting from these decrees. He recalls the harm that C. Julius did once when he allowed a little postponement of the day of payment: public credit never received a worse blow. But to return to my point. Think over my case against Brutus, if it is a case, when there are no fair arguments on the other side, especially as I have left the matter as it stood.
+
+To wind up with family matters. As to my <i>boudoir</i> business, I agree with you in preferring Postumia’s son,[201] since Pontidia is playing the fool. But I wish you were there. You must expect no letters from Quintus at this season. The snows prevent passage of the Taurus until June. I am supporting Thermus, as you request, by frequent letters. As for P. Valerius, Deiotarus says that he has nothing and is his pensioner. When you know whether there are to be additions to the calendar at Rome or not, please write me positive news as to the date of the Mysteries. I look forward to your letters rather less eagerly than if you were in town; still I do look forward to them.
+
+Footnote 201:
+
+Servius Sulpicius, as a husband for Tullia.  M. TULLI CICERONIS
+EPISTULARUM AD ATTICUM
+     LIBER SEXTUS
+
+<b>I</b>
+
+CICERO ATTICO SAL.
+
+[Sidenote: <i>Scr. Laodiceae VI K. Mart a. 704</i>]
+
+Accepi tuas litteras a. d. quintum Terminalia Laodiceae; quas legi libentissime plenissimas amoris, humanitatis, officii, diligentiae. Iis igitur respondebo [Sidenote: Iliad, vi, 235] non χρύσεα χαλκείων (sic enim postulas) nec οἰκονομίαν meam instituam, sed ordinem conservabo tuum. Recentissimas a Cybistris te meas litteras habere ais a. d. X Kalendas Octobres datas et scire vis, tuas ego quas acceperim. Omnes fere, quas commemoras, praeter eas, quas scribis Lentuli pueris et Equotutico et Brundisio datas. Quare non οἴχεται tua industria, quod vereris, sed praeclare ponitur, si quidem id egisti, ut ego delectarer. Nam nulla re sum delectatus magis.
+
+Quod meam βαθύτητα in Appio tibi, liberalitatem etiam in Bruto probo, vehementer gaudeo; ac putaram paulo secus. Appius enim ad me ex itinere bis terve ὑπομεμψιμοίρους litteras miserat, quod quaedam a se constituta rescinderem.Ut si medicus, cum aegrotus alii medico traditus sit, irasci velit ei medico, qui sibi successerit, si, quae ipse in curando constituerit, mutet ille, sic Appius, cum ἐξ ἀφαιρέσεως provinciam curarit, sanguinem miserit, quicquid potuit, detraxerit, mihi tradiderit enectam,
+
+CICERO’S LETTERS
+   TO ATTICUS
+    BOOK VI<b>I</b>
+
+CICERO TO ATTICUS, GREETING.
+
+[Sidenote: <i>Laodicea, Feb. 23</i>, B.C. <i>50</i>]
+
+I got your letter on the 5th day before the Terminalia[202] at Laodicea. I was delighted at its tone of affection, kindness, and obliging zeal. I will not pay “gold for brass” (for that is what you ask for), nor will I start an arrangement of my own, but will keep to your order. You say that the last letter you got from me was from Cybistra dated the 21st of September, and you want to know which of yours I have received. Almost all you mention except those which you say were entrusted to Lentulus’ servants at Equotuticus and Brundisium. So your energy is not a dead loss as you fear, but has been well spent, if you aimed at giving me pleasure. For nothing has ever given me more pleasure.
+
+I am exceedingly glad that you approve of my reserve in the case of Appius and my generosity even in the matter of your friend Brutus. I had feared you might not quite like it. For Appius on his journey sent me two or three letters showing pique, because I revoked some of his enactments. It is as if a doctor, when a patient has been placed under the care of another, should be angry with his successor for changing his prescription. So Appius, having starved the province, let blood, and tried every lowering treatment, hands it to me drained of
+
+Footnote 202:i.e. the 19th of Feb., the Terminalia being on the 23rd.
+
+προσανατρεφομένην eam a me non libenter videt, sed modo suscenset, modo gratias agit. Nihil enim a me fit cum ulla illius contumelia; tantum modo dissimilitudo meae rationis offendit hominem. Quid enim potest esse tam dissimile quam illo imperante exhaustam esse sumptibus et iacturis provinciam, nobis eam obtinentibus nummum nullum esse erogatum nec privatim nec publice? Quid dicam de illius praefectis, comitibus, legatis etiam? de rapinis, de libidinibus, de contumeliis? Nunc autem domus mehercule nulla tanto consilio aut tanta disciplina gubernatur aut tam modesta est quam nostra tota provincia. Haec non nulli amici Appi ridicule interpretantur, qui me idcirco putent bene audire velle, ut ille male audiat, et recte facere non meae laudis, sed illius contumeliae causa. Sin Appius, ut Bruti litterae, quas ad te misit, significabant, gratias nobis agit, non moleste fero, sed tamen eo ipso die, quo haec ante lucem scribebam, cogitabam eius multa inique constituta et acta tollere.
+
+Nunc venio ad Brutum, quem ego omni studio te auctore sum complexus, quem etiam amare coeperam: sed ilico me revocavi, ne te offenderem. Noli enim putare me quicquam maluisse, quam ut mandatis satis facerem, nee ulla de re plus laborasse. Mandatorum autem mihi libellum dedit, isdemque de rebus tu mecum egeras. Omnia sum diligentissime persecutus. Primum ab Ariobarzane sic contendi, ut talenta, quae mihi pollicebatur, illi daret. Quoad mecum rex fuit, perbono loco res erat; post a Pompei procuratoribus sescentis premi coeptus est.life and cannot bear to see it being fed up by me. Sometimes he is angry, sometimes he thanks me; for no act of mine has reflected on his policy. It is only the difference of my <i>regime</i> that annoys him. There is a very wide difference between a province worn out by expense and losses under his rule and not having to pay a penny out of private or public purse under my administration. I need not mention his prefects, his staff and his legates, the acts of robbery, of rape and insult. But now, upon my word, no private house is managed with such judgement or such economy, or is so well ordered as my whole province. Some friends of Appius put an absurd construction on my policy and declare that I am seeking popularity to damage him, and am acting honourably, not for the sake of my own reputation, but to cause him shame. However, if Appius, as the letter from Brutus which you forward to me shows, expresses his thanks, I am content: but the very day on which I write this letter before dawn I am thinking of annulling many of his wrong enactments and decisions.
+
+I come now to the matter of Brutus. On your advice I zealously cultivated his friendship, I had even begun to feel a real liking for him: but there I pull myself up for fear I should vex you. For do not imagine that there is anything I should prefer better than to execute his commission, or anything on which I have taken more pains. He gave me a volume of commissions, and you spoke to me about his affairs. I have done my best with all of them; first of all I induced Ariobarzanes to pay him the money he promised me. So long as his highness was with me the business was on a good footing: but later the king was dunned by scores of agents fromPompeius autem cum ob ceteras causas plus potest unus quam ceteri omnes, tum quod putatur ad bellum Parthicum esse venturus. Ei tamen sic nunc solvitur, tricensimo quoque die talenta Attica XXXIII et hoc ex tributis. Nec inde satis efficitur in usuram menstruam. Sed Gnaeus noster clementer id fert; sorte caret, usura nec ea, solida contentus est. Alii neque solvit cuiquam nec potest solvere; nullum enim aerarimn, nullum vectigal habet. Appi instituto tributa imperat. Ea vix in faenus Pompei quod satis sit efficiunt. Amici regis duo tresve perdivites sunt, sed ii suum tam diligenter tenent quam ego aut tu. Equidem non desino tamen per litteras rogare, suadere, accusare regem. Deiotarus etiam mihi narravit se ad eum legatos misisse de re Bruti; eos sibi responsum rettulisse illum non habere. Et mehercule ego ita iudico. nihil illo regno spoliatius, nihil rege egentius. Itaque aut tutela cogito me abdicare aut ut pro Glabrione Scaevola faenus et impendium recusare. Ego tamen, quas per te Bruto promiseram praefecturas, M. Scaptio, L. Gavio, qui in regno rem Bruti procurabant, detuli; nec enim in provincia mea negotiabantur. Tu autem meministi nos sic agere, ut, quot vellet praefecturas, sumeret, dum ne negotiatori. Itaque duas
+
+Pompey. Pompey has more influence than anyone for many reasons and because it is rumoured that he will come to conduct the war against the Parthians. Even to him however payment is made on the following terms. On every thirtieth day some £8,000 is paid and that by tribute imposed on the king’s subjects. Even such a sum will not cover the amount of monthly interest. However our friend Gnaeus is an easy-going creditor. He is willing to forgo his capital and is content with interest, and that not in full. The king pays no one else and has no means to pay. He has no treasury and no regular tribute: he levies taxes on the method of Appius.They are scarcely sufficient to pay the interest on Pompey’s money. His highness has two or three very wealthy friends, but they look after their own pockets as well as you or I. Still I do not cease to write dunning, coaxing and scolding his highness. Deiotarus too has told me that he has sent messengers to him about his debt to Brutus: and they came back with the reply that he has no assets. I can quite believe it, for I have never seen a kingdom more plundered or a king more needy. So I am thinking of resigning my guardianship, or, as Scaevola did for Glabrio, of repudiating both capital and interest. However I have conferred the office of prefect, which I promised Brutus through you, on M. Scaptius and L. Gavius, who are his agents in the kingdom; for they were not conducting their business in my province. You will remember that my principle was that he might have as many offices of prefect at his disposal as he liked, provided he did not give them to business men: so I offered him
+
+ei praeterea dederam. Sed ii, quibus petierat, de provincia decesserant.
+
+Nunc cognosce de Salaminiis, quod video tibi etiam novum accidisse tamquam mihi. Numquam enim ex illo audivi illam pecuniam esse suam; quin etiam libellum ipsius habeo, in quo est: “Salaminii pecuniam debent M. Scaptio et P. Matinio, familiaribus meis.” Eos mihi commendat; adscribit etiam et quasi calcar admovet intercessisse se pro iis magnam pecuniam. Confeceram, ut solverent centesimis sexennii ductis cum renovatione singulorum annorum. At Scaptius quaternas postulabat. Metui, si impetrasset, ne tu ipse me amare desineres; nam ab edicto meo recessissem et civitatem in Catonis et in ipsius Bruti fide locatam meisque beneficiis ornatam funditus perdidissem.Atque hoc tempore ipso impingit mihi epistulam Scaptius Bruti rem illam suo periculo esse, quod nec mihi umquam Brutus dixerat nec tibi, etiam ut praefecturam Scaptio deferrem. Id vero per te exceperamus, ne negotiatori; quodsi cuiquam, huic tamen non. Fuerat enim praefectus Appio et quidem habuerat turmas equitum, quibus inclusum in curia senatum Salamine obsederat, ut fame senatores quinque morerentur. Itaque ego, quo die tetigi provinciam, cum mihi Cyprii legati Ephesum obviam venissent, litteras misi, ut equites ex insula statim decederent. His de causis credo Scaptium iniquius de me aliquid ad Brutum scripsisse. Sed tamen hoc sum animo.
+
+two others besides. But the gentlemen for whom he asked them had left my province.
+
+Now to talk about the people of Salamis, a matter which I see came as a surprise to you as it did to me. Brutus never told me that that money was his. Indeed I have his own memorandum stating “The people of Salamis owe money to M. Scaptius and P. Matinius, my friends.” He recommends these gentlemen to me, and to spur me adds a postscript that he has gone security to them for a large sum. I had arranged that they should pay in compound interest for six years at 12 percent. But Scaptius demanded 48 per cent, I was afraid, if he got his request, that you too would cease to be my friend, for I should have departed from the terms of my own edict, and have ruined utterly a state enjoying the protection of Cato and Brutus himself and distinguished by my attentions. At this very point Scaptius thrusts a letter of Brutus into my hand, stating what Brutus had never told me or you, that Brutus himself was the party concerned, and asking me to give the office of prefect to his agent.But that was the very proviso I had authorized you to make, that no office could be given to a business man, above all to such a fellow as Scaptius. For he had been a prefect of Appius, and indeed had had some squadrons of cavalry, which he had used to beset the Senate at Salamis in their own chamber, so that five Members of the House died of starvation. Accordingly on the day I reached the province, since an embassy from Cyprus had already met me at Ephesus, I sent orders that his cavalry should leave the island at once. This, I fancy, had led Scaptius to write somewhat bitterly about me to Brutus. However, my attitude
+
+Si Brutus putabit me quaternas centesimas oportuisse decernere, cum tota provincia singulas observarem itaque edixissem, idque etiam acerbissimis faeneratoribus probaretur, si praefecturam negotiatori denegatam queretur, quod ego Torquato nostro in tuo Laenio, Pompeio ipsi in Sex. Statio negavi et iis probavi, si equites deductos moleste feret, accipiam equidem dolorem mihi illum irasci, sed multo maiorem non esse eum talem, qualem putassem. Illud quidem fatebitur Scaptius, me ius dicente sibi omnem pecuniam ex edicto meo auferendi potestatem fuisse. Addo etiam illud, quod vereor tibi ipsi ut probem. Consistere usura debuit, quae erat in edicto meo. Deponere volebant: impetravi a Salaminiis, ut silerent. Veniam illi quidem mihi dederunt, sed quid iis fiet, si huc Paulus venerit? Sed totum hoc Bruto dedi; qui de me ad te humanissimas litteras scripsit, ad me autem, etiam cum rogat aliquid, contumaciter, adroganter, ἀκοινονοήτως solet scribere. Tu autem velim ad eum scribas de his rebus, ut sciam, quo modo haec accipiat; facies enim me certiorem.Atque haec superioribus litteris diligenter ad te perscripseram, sed plane te intellegere volui mihi non excidisse illud, quod tu ad me quibusdam litteris scripsisses, si nihil aliud de hac provincia nisi illius benevolentiam deportassem, mihi id satis esse. Sit sane, quondam ita tu vis, sed tamen cum eo, credo, quod
+
+is this. If Brutus thinks that I ought to have allowed 48 per cent, when throughout my province I have recognized only 12 per cent, and have fixed this rate in my edict, with the approval of the most grasping usurers; if he complains of my refusal to give office to a business man, which I made also to our friend Torquatus in the case of your acquaintance Laenius, and to Pompey himself in the case of Sex. Statius, without annoying either of them; if he is angry at the disbanding of his cavalry, well I shall be sorry that he is angry with me, but I shall be far sorrier at discovering he is not the man I imagined he was. Scaptius will admit that he had the opportunity of getting by my decision all the money allowed by my edict. I will add a point which I fear you may not like, the interest allowed by my edict ought to have ceased to run.[203] The people of Salamis wished to deposit the sum in a temple; but I begged them not to raise the point. They gave way to me: but what will happen to them if Brutus’ brother-in-law, Paulus, comes here? I allowed Brutus all this privilege: and he has written very kind letters about me to you; but to me, even when he asks a favour, he writes in an arrogant, bold tone and uncivilly. Please write to Brutus about the matter, that I may know how he takes it. You can inform me.To be sure, I had given you the full story in a former letter: but I wanted you to understand clearly that I had not forgotten a remark in one of your letters, that if I took nothing else away from this province except Brutus’ good-will, that would be enough. Be it as you wish, provided it can be so
+
+Footnote 203:
+
+If the money was deposited in a temple.
+
+sine peccato meo fiat. Igitur meo decreto soluta res Scaptio stat. Quam id rectum sit, tu iudicabis; ne ad Catonem quidem provocabo. Sed noli me putare ἐγκελεύσματα illa tua abiecisse, quae mihi in visceribus haerent. Flens mihi meam famam commendasti; quae epistula tua est, in qua non eius mentionem facias? [Sidenote: Aristophanes, <i>Acharnians</i>, 659] Itaque irascatur, qui volet; patiar. Τὸ γὰρ εὖ μετ’ ἐμοῦ, praesertim cum sex libris tamquam praedibus me ipse obstrinxerim, quos tibi tam valde probari gaudeo. E quibus unum ἱστορικὸν requiris de Cn. Flavio, Anni filio. Ille vero ante decemviros non fuit, quippe qui aedilis curulis fuerit, qui magistratus multis annis post decemviros institutus est. Quid ergo profecit, quod protulit fastos? Occultatam putant quodam tempore istam tabulam, ut dies agendi peterentur a paucis. Nec vero pauci sunt auctores Cn. Flavium scribam fastos protulisse actionesque composuisse, ne me hoc vel potius Africanum (is enim loquitur) commentum putes. Οὐκ ἔλαθέ σε illud de gestu histrionis. Tu sceleste suspicaris, ego ἀφελῶς scripsi. De me imperatore scribis te ex Philotimi litteris cognosse; sed credo te, iam in Epiro cum esses, binas meas de omnibus rebus accepisse, unas a Pindenisso capto, alteras Laodicea,without loss of honour to me. So I have given judgement that the payment of the people of Salamis to Scaptius is good at law. The equity of this course I will leave to your consideration. I will not even appeal to Cato: but don’t think I have let slip your exhortations. They are fixed in my heart. With tears in your eyes, you told me to think of my reputation. Is there any letter of yours which does not touch on the topic? So let who will be angry. I can put up with it. “The right is on my side,” especially since I have bound myself to good conduct, with six volumes[204] for bail. I am glad you like the books so much, though there is one point of history which you question, that about Cn. Flavius, the son of Annius. He did not flourish before the days of the decemviri, since he held a curule aedileship, which was instituted long after their time. What good then did he do by publishing the official calendar? It is thought that at one time the calendar was not exposed in public, so that a privileged few might be the sole source of information as to days propitious for business. Moreover, several authorities maintain that this Cn. Flavius was the first man to publish the calendar and to draw up a digest of the forms of legal procedure. So don’t think that I, or rather my spokesman Africanus, invented a fiction. You took my remark about the actor’s mannerism, and suspected a satirical meaning:[205] but I wrote in all <i>naïveté</i>. You tell me that Philotimus wrote to you about my being hailed imperator; but I fancy that, now you are in Epirus, you have got my two letters about the business, one from Pindenissus after its capture, another from Laodicea, both
+
+Footnote 204:
+
+The <i>De Republica</i>.Footnote 205:
+
+That it was a hit at Hortensius.
+
+utrasque tuis pueris datas. Quibus de rebus propter casum navigandi per binos tabellarios misi Romam publice litteras.
+
+De Tullia mea tibi adsentior scripsique ad eam et ad Terentiam mihi placere. Tu enim ad me iam ante scripseras: “Ac vellem te in tuum veterem gregem rettulisses.” Correcta vero epistula Memmiana nihil negotii fuit; multo enim malo hunc a Pontidia quam illum a Servilia. Quare adiunges Saufeium nostrum, hominem semper amantem mei, nunc, credo, eo magis, quod debet etiam fratris Appi amorem erga me cum reliqua hereditate crevisse; qui declaravit, quanti me faceret, cum saepe tum in Bursa. Ne tu me sollicitudine magna liberaris.
+
+Furni exceptio mihi non placet; nee enim ego ullum aliud tempus timeo, nisi quod ille solum excipit. Sed scriberem ad te de hoc plura, si Romae esses. In Pompeio te spem omnem otii ponere non miror. Ita res est, removendumque censeo illud “dissimulantem.” Sed enim οἰκονομία si perturbatior est, tibi assignato. Te enim sequor σχεδιάζοντα.
+
+Cicerones pueri amant inter se, discunt, exercentur, sed alter, uti dixit Isocrates in Ephoro et Theopompo, frenis eget, alter calcaribus. Quinto togam puramdelivered to your slaves. For fear of accidents at sea, I sent the public despatch on my campaign to Rome in duplicate by different carriers.
+
+As to my daughter Tullia I agree with you, and I have written to her and her mother giving my consent. For a former letter of yours to me said “I could wish you had returned to your old associates.” There was no occasion to alter the letter that came from Memmius: for I much prefer to accept this candidate from Pontidia than the other from Servilia. So get our friend Saufeius to help you in this business. He always liked me, and now I trust he will like me all the more, since he is bound to have inherited his brother Appius’ liking for me along with the rest of his inheritance, and Appius often expressed great affection for me, especially in the trial of Bursa. Indeed you will relieve me of a source of great anxiety.
+
+I do not like Furnius’ proviso; there is nothing else I fear, except the point which he makes his sole proviso.[206] I would write to you more fully on the point, if you were in Rome. I am not surprised that you depend entirely on Pompey for keeping the peace. That is quite right, and I think you must delete your phrase “insincere.” If the order of my paragraphs is muddled, you have yourself to blame, as I am following your own harum-scarum way.
+
+My son and nephew are fond of one another, learn their lessons and take their exercise together: but to quote Isocrates’ remark about Ephorus and Theopompus, one wants the rein and the other the spur.
+
+Footnote 206:Apparently a proposal by a tribune that the governors of Syria and Cilicia could quit their provinces at the end of the year, provided the Parthians were not aggressive.
+
+Liberalibus cogitabam dare; mandavit enim pater. Ea sic observabo, quasi intercalatum non sit. Dionysius mihi quidem in amoribus est; pueri autem aiunt eum furenter irasci; sed homo nec doctior nec sanctior fieri potest nec tui meique amantior. Thermum, Silium vere audis laudari. Valde honeste se gerunt. Adde M. Nonium, Bibulum, me, si voles. Iam Scrofa vellem haberet, ubi posset; est enim lautum negotium. Ceteri infirmant πολίτευμα Catonis. Hortensio quod causam meam commendas, valde gratum. De Amiano spei nihil putat esse Dionysius. Terenti nullum vestigium adgnovi. Moeragenes certe periit. Feci iter per eius possessionem, in qua animal reliquum nullum est. Haec non noram tum, cum Democrito tuo cum locutus sum. Rhosica vasa mandavi. Sed heus tu! quid cogitas? in felicatis lancibus et splendidissimis canistris holusculis nos soles pascere; quid te in vasis fictilibus appositurum putem? Κέρας Phemio mandatum est; reperietur, modo aliquid illo dignum canat.
+
+Parthicum bellum impendet. Cassius ineptas litteras misit, necdum Bibuli erant allatae. Quibus recitatis puto fore ut aliquando commoveatur senatus. Equidem sum in magna animi perturbatione. Si, ut opto, non prorogatur nostrum negotium, habeo Iunium
+
+I intend to celebrate Quintus’ coming of age[207] on the feast of Bacchus.[208] His father asked me to do this, and I shall act on the assumption that there will be no addition to the calendar.Dionysius is in my good graces: but the boys say he is liable to mad fits of temper. However one could not get a master of more learning and better character and more liking for you and me. The praise you hear of Thermus and Silius is deserved: they conduct themselves in very honourable fashion. You may praise M. Nonius, Bibulus, and myself too, if you like. I only wish Scrofa had scope for his tact. He is a fine fellow. The rest do little credit to Cato’s caucus. I am much obliged to you for recommending my case to Hortensius. As to Amianus Dionysius says there is no help. I have met with no trace of Terentius. Moeragenes has certainly been killed. I made a tour through his district and found not a living thing. I did not know this, when I spoke to your agent Democritus. I have ordered the Rhosian ware for you. But what the deuce will you serve up in porcelain, when you are accustomed to give us vegetarian fare on fern-pattern plates and in magnificent baskets? I have ordered a horn for Phemius, and one will be got. I only hope that his tune will be worthy of the instrument.
+
+A war with the Parthians is imminent. Cassius’ despatch was futile, Bibulus’ has not yet come. I think the reading of it will stir the House to action at last. I am very anxious myself. If, as I hope, my tenure of office is not extended, I have June and July
+
+Footnote 207:
+
+On coming of age, which took place at about 15 or 16, the Roman boy left off the purple-bordered <i>toga praetexta</i> and assumed the pure white <i>toga virilis</i>.
+
+Footnote 208:March 17.
+
+et Quinctilem in metu. Esto; duos quidem menses sustinebit Bibulus. Quid illo fiet, quem reliquero, praesertim si fratrem? quid me autem, si non tam cito decedo? Magna turba est. Mihi tamen cum Deiotaro convenit, ut ille in meis castris esset cum suis copiis omnibus. Habet autem cohortes quadringenarias nostra armatura XXX, equitum CIↃ CIↃ. Erit ad sustentandum, quoad Pompeius veniat; qui litteris, quas ad me mittit, significat suum negotium illud fore. Hiemant in nostra provincia Parthi; exspectatur ipse Orodes. Quid quaeris? aliquantum est negotii.
+
+De Bibuli edicto nihil novi praeter illam exceptionem, de qua tu ad me scripseras, “nimis gravi praeiudicio in ordinem nostrum.” Ego tamen habeo ἰσοδυναμοῦσαν, sed tectiorem, ex Q. Muci P. f. edicto Asiatico, EXTRA QVAM SI ITA NEGOTIVM GESTVM EST, VT EO STARI NON OPORTEAT EX FIDE BONA, multaque sum secutus Scaevolae, in iis illud, in quo sibi libertatem censent Graeci datam, ut Graeci inter se disceptent suis legibus. Breve autem edictum est propter hanc meam διαίρεσιν, quod duobus generibus edicendum putavi. Quorum unum est provinciale, in quo est de rationibus civitatum, de aere alieno, de usura, de syngraphis; in eodem omnia de publicanis, alterum, quod sine edicto satis commode transigi non potest, de
+
+to fear. Very good. Bibulus can check them for two months, but what will happen to the man whom I leave behind, especially if he be my brother? Or what will be my own fate, if I do not depart so speedily? It is a great bother. However Deiotarus has decided to join my camp in full force.He has thirty squadrons of four hundred men each armed in our fashion, and two thousand cavalry. He can hold out till Pompey comes. A letter he writes to me presumes that he will conduct the campaign. The Parthians spend the winter in a Roman province. Orodes is expected in person. You may take my word it is a big business.
+
+As to Bibulus’ edict there is no new feature, except that proviso of which you wrote “it is a very grave reflection on our order.”[209] However I have a similar proviso, in more circumspect language, borrowed from the Asiatic edict of Q. Mucius, son of Publius, “Provided that the agreement is not such as contravenes equity.” I have followed Scaevola in many details, among them in the stipulation which the Greeks hold as the salvation of their freedom, that Greek cases are to be settled according to Greek law. The edict is short on account of the division I have made, as I considered it fell better under two heads. The one concerns provincial matters and deals with town accounts, debt, the rate of interest, contracts, and includes all matters referring to the tax-collectors. The second head, embracing matters which cannot properly be settled without an
+
+Footnote 209:
+
+Bibulus had excepted from debts recoverable in his court cases in which <i>vis</i> or <i>dolus malus</i> had been used. The clause was directed against <i>publicani</i> and <i>negotiatores</i> who belonged to the <i>equites</i>.hereditatum possessionibus, de bonis possidendis, vendendis, magistris faciendis, quae ex edicto et postulari et fieri solent. Tertium de reliquo iure dicundo ἄγραφον reliqui. Dixi me de eo genere mea decreta ad edicta urban a accommodaturum. Itaque curo et satis facio adhuc omnibus. Graeci vero exsultant, quod peregrinis iudicibus utuntur. “Nugatoribus quidem,” inquies. Quid refert? tamen se αὐτονομίαν adeptos putant. Vestri enim, credo, graves habent Turpionem sutorium et Vettium mancipem.
+
+De publicanis quid agam, videris quaerere. Habeo in deliciis, obsequor, verbis laudo, orno; efficio, ne cui molesti sint. Τὸ παραδοξότατον, usuras eorum, quas pactionibus adscripserant, servavit etiam Servilius. Ego sic. Diem statuo satis laxam, quam ante si solverint, dico me centesimas ducturum; si non solverint, ex pactione. Itaque et Graeci solvunt tolerabili faenore, et publicanis res est gratissima, si illa iam habent pleno modio, verborum honorem, invitationem crebram. Quid plura? sunt omnes ita mihi familiares, ut se quisque maxime putet. Sed tamen μηδὲν αὐτοῖς—scis reliqua.
+
+De statua Africani (ὢ πραγμάτων ἀσυγκλώστων sed me id ipsum delectavit in tuis litteris) ain tu? Scipio hic Metellus proavum suum nescit censorem non
+
+edict, deals with inheritance, ownership and sale, the appointment of official receivers, matters where suits are wont to be brought and settled in accordance with the terms of an edict. A third head dealing with the rest of judicial procedure I left unwritten. I stated that in such matters my decrees would be based on those of Rome. I observe this rule, and so far satisfy everybody. The Greeks are jubilant at having foreign jurors.You may say that the jurors are wasters: however the Greeks flatter themselves that they have got home rule, and your own jurors are men of the lofty standing of Turpio the shoe maker and Vettius the broker.
+
+You ask how I am dealing with the tax-gatherers. I pet them, indulge them, praise and honour them: and take care they trouble no one. It is very odd that the rates of interest specified in their bonds were upheld even by Servilius. My procedure is this. I name a day fairly remote, before which, if the debtors pay up, I lay down that I shall allow only 12 per cent. But, if they have not paid, judgement will be according to the bond. Accordingly the Greeks pay their debts at a fair rate of interest, and the farmers are gratified, provided they get their fill of compliments and invitations. In short, they are all so intimate with me that each man thinks himself my special favourite. But still you know the old saw.[210]
+
+As to the statue of Africanus (what a medley of topics! but that was the delightful feature of your letter, to my mind), do you really mean that Metellus Scipio does not know his great-grandfather
+
+Footnote 210:
+
+The quotation is incomplete, and the ending of it unknown. Probably it contained advice either against trusting or humouring people too much.
+
+fuisse? Atqui nihil habuit aliud inscriptum nisi cos. ea statua, quae ad Opis nuper[211] posita in excelso est.In illa autem, quae est ad Πολυκλέους Herculem, inscriptum est CENS;[212] quam esse eiusdem status, amictus, anulus, imago ipsa declarat. At mehercule ego, cum in turma inauratarum equestrium, quas hic Metellus in Capitolio posuit, animadvertissem in Serapionis subscriptione Africani imaginem, erratum fabrile putavi, nunc video Metelli. O ἀνιστορησίαν turpem! Nam illud de Flavio et fastis, si secus est, commune erratum est, et tu belle ἠπόρησας, et nos publicam prope opinionem secuti sumus, ut multa apud Graecos. Quis enim non dixit Εὔπολιν, τὸν τῆς ἀρχαίας, ab Alcibiade navigante in Siciliam deiectum esse in mare? Redarguit Eratosthenes; adfert enim, quas ille post id tempus fabulas docuerit. Num idcirco Duris Samius, homo in historia diligens, quod cum multis erravit, inridetur? Quis Zaleucum leges Locris scripsisse non dixit? Num igitur iacet Theophrastus. si id a Timaeo, tuo familiari, reprensum est? Sed nescire proavum suum censorem non fuisse turpe est, praesertim cum post eum consulem nemo Cornelius illo vivo censor fuerit.
+
+Quod de Philotimo et de solutione HS |¯XXDC¯| scribis, Philotimum circiter Kal. Ianuarias in Chersonesum audio venisse. At mi ab eo nihil adhuc. Reliqua mea Camillus scribit se accepisse. Ea quae
+
+Footnote 211:
+
+nuper <i>Boot</i>; per te <i>MSS.</i>
+
+Footnote 212:<i>I have adopted Tyrrell’s transposition of</i> COS. (= CONSUL) <i>and</i> CENS. (= CENSOR) <i>though with doubts of its correctness</i>.
+
+was never censor? Certainly the statue which has lately been placed on high near the temple of Ops has only the inscription COS. But the statue near the Hercules of Polycles bears the inscription CENS.: and the pose, the dress, the ring and the likeness prove that it is a statue of the same person. As a matter of fact, when among the crowd of gilded knights placed by Metellus on the Capitol, I noticed a likeness of Africanus with the name Serapio on the pedestal, I thought it was a workman’s error, but now I see it is Metellus’ mistake. What gross ignorance of history! For that misconception about Flavius and the calendar, if it is such, is widely held: and you were quite right in having doubts about it. I have followed the view which is almost universal, as Greek authors often do. Every one says that Eupolis, the poet of the old Comedy, was thrown into the sea by Alcibiades on his voyage to Sicily. Eratosthenes confutes this, producing plays exhibited by him after that date. But that is no reason for laughing at Duris of Samos, who is an accurate historian, because he follows a vulgar error. All historians agree that Zaleucus drew up laws for the Locrians. It is not therefore fatal to Theophrastus, if he is called to account for that by your friend Timaeus. But not to know that one’s great-grandfather was not censor is shocking, especially as after his consulship no Cornelius was censor during his lifetime.As for your remarks about Philotimus and the payment of £182,000,[213] I hear that Philotimus came to the Chersonese about the beginning of January, but so far I have heard nothing from him. Camillus writes that he has received my balance. I don’t know how
+
+Footnote 213:
+
+20,600,000 sesterces.
+
+sint, nescio et aveo scire. Verum haec posterius et coram fortasse commodius.
+
+Illud me, mi Attice, in extrema fere parte epistulae commovit; scribis enim sic: Τί λοιπόν; deinde me obsecras amantissime, ne obliviscar vigilare et ut animadvertam, quae fiant. Num quid de quo inaudisti? Etsi nihil eius modi est; πολλοῦ γε καὶ δεῖ. Nec enim me fefellisset nec fallet. Sed ista admonitio tua tam accurata nescio quid mihi significare visa est.
+
+De M. Octavio iterum iam tibi rescribo te illi probe respondisse; paulo vellem fidentius. Nam Caelius libertum ad me misit et litteras accurate scriptas et de pantheris et civitatibus. Rescripsi alterum me moleste ferre, si ego in tenebris laterem, nec audiretur Romae nullum in mea provincia nummum nisi in aes alienum erogari, docuique nec mihi conciliare pecuniam licere nec illi capere monuique eum, quem plane diligo, ut, cum alios accusasset, cautius viveret; illud autem alterum alienum esse existumatione mea, Cibyratas imperio meo publice venari.Lepta tua epistula gaudio exsultat; etenim scripta belle est meque apud eum magna in gratia posuit. Filiola tua gratum mihi fecit, quod tibi diligenter mandavit, ut mihi salutem adscriberes, gratum etiam Pilia, sed illa officiosius, quod mihi, quem iam pridem numquam vidit. Igitur tu quoque salutem
+
+much it is, and I should like to know. However, we can discuss this later and more conveniently when we meet.
+
+That remark at the end of your letter, my dear Atticus, upset me. You used the phrase, “What more is there to say,” and follow it by a most affectionate warning not to forget to be on the watch and to keep an eye on events. Have you heard anything about any of my staff? I am sure there has been no wrong-doing, <i>pas du tout</i>. It could not have escaped my notice, and it will not. But your earnest entreaty seemed to hint something.
+
+As for M. Octavius, I repeat that your reply was excellent. I could wish it had been in more positive terms. For Caelius has sent me a freedman of his and a carefully worded letter about panthers and an offer from the townships to furnish contributions. I replied that the second item is annoying, if my conduct is still a secret and the news has not reached town that in my province no money is exacted except in satisfaction of debts: and I have told him that it would be improper for me to allow payment and for him to take it. I have a sincere regard for him and have warned him that after his prosecution of other people he should conduct himself on more careful lines. As to the second point I have told him it would be a blot on my escutcheon that the people of Cibyra should have a public hunt during my governorship.Lepta leaps with joy over your letter: for it was nicely written and puts me in his good graces. Your tiny daughter has done me a favour in ordering you earnestly to send me her greetings. It was kind of Pilia and very dutiful of your daughter to send greetings to one whom as yet she has never met. So please
+
+utrique adscribito. Litterarum datarum dies pr. Kal. Ianuar. suavem habuit recordationem clarissimi iuris iurandi, quod ego non eram oblitus. Magnus enim praetextatus illo die fui. Habes ad omnia. Non ut postulasti, χρύσεα χαλκείων, sed paria paribus respondimus.
+
+Ecce autem alia pusilla epistula, quam non relinquam ἀναντιφώνητον. Bene mehercule potuit Lucceius Tusculanum, nisi forte (solet enim) cum suo tibicine. Et velim scire, qui sit eius status. Lentulum quidem nostrum omnia praeter Tusculanum proscripsisse audio. Cupio hos expeditos videre, cupio etiam Sestium, adde sis Caelium; in quibus omnibus est
+
+[Sidenote: Iliad vii, 93]
+
+Αἴδεσθεν μὲν ἀνήνασθαι, δεῖσαν δ’ ὑποδέχθαι.
+
+De Memmio restituendo ut Curio cogitet, te audisse puto. De Egnati Sidicini nomine nec nulla nec magna spe sumus. Pinarium, quem mihi commendas, diligentissime Deiotarus curat graviter aegrum. Respondi etiam minori.
+
+Tu velim, dum ero Laodiceae, id est ad Idus Maias, quam saepissime mecum per litteras colloquare,et cum Athenas veneris (iam enim sciemus de rebus urbanis, de provinciis, quae omnia in mensem Martium sunt conlata), utique ad me tabellarios mittas. Et heus tu! iamne vos a Caesare per Herodem talenta Attica L extorsistis? in quo, ut audio, magnum odium Pompei suscepistis. Putat enim suos nummos vos
+
+give my greetings to both of them in return. The date of your letter, the last day of December, reminded me pleasantly of the famous and unforgotten oath I took.[214] I was a Pompey in state robes that day. There you have my answer to all your points: not as you asked “gold for copper,” but like for like.
+
+There was another short letter which I will not leave unanswered. Lucceius to be sure was able to do something for the villa at Tusculum, unless perhaps there was the old obstacle of the flute player[215]; and I should like to know its condition. Our friend Lentulus I hear has advertised all his property except that at Tusculum. I should like to see these gentlemen free from debt as well as Sestius and you may add Caelius too. To all of them one may apply the quotation, “ashamed to refuse, but yet afraid to take.” I suppose you have heard of Curio’s idea to recall Memmius. As for the debt due from Egnatius of Sidicinum, I have some hope, but not much. Deiotarus is taking very great care of Pinarius, whom you recommended to me, in a serious illness. So there is my answer to your little letter.
+
+While I am at Laodicea, which will be up to the 15th of May, please correspond with me as often as possible, and on your arrival at Athens at any rate send me letter carriers, since by that time we shall know what has been done in town and about the provinces, of which the affairs are settled in March.By the bye have you yet got Herodes to wring from Caesar that £12,000? I hear you have excited the animosity of Pompey in the matter. He thinks that
+
+Footnote 214:
+
+Cicero refers to the day on which he laid down the consulship. Cf. <i>Ad Fam.</i> v, 2.
+
+Footnote 215:
+
+Or “prop.” But the whole passage is uncertain.
+
+comedisse, Caesarem in Nemore aedificando diligentiorem fore. Haec ego ex P. Vedio, magno nebulone, sed Pompei tamen familiari, audivi. Hic Vedius mihi obviam venit cum duobus essedis et raeda equis iuncta et lectica et familia magna, pro qua, si Curio legem pertulerit, HS centenos pendat necesse est. Erat praeterea cynocephalus in essedo, nec deerant onagri. Numquam vidi hominem nequiorem. Sed extremum audi. Deversatus est Laodiceae apud Pompeium Vindullum. Ibi sua deposuit, cum ad me profectus est. Moritur interim Vindullus; quae res ad Magnum Pompeium pertinere putabatur. C. Vennonius domum Vindulli venit. Cum omnia obsignaret, in Vedianas res incidit. In his inventae sunt quinque imagunculae matronarum, in quibus una sororis amici tui hominis “bruti,” qui hoc utatur, et illius “lepidi,” qui haec tam neglegenter ferat. Haec te volui παριστορῆσαι. Sumus enim ambo belle curiosi.Unum etiam velim cogites. Audio Appium πρόπυλον Eleusine facere. Num inepti fuerimus, si nos quoque Academiae fecerimus? “Puto,” inquies. Ergo id ipsum scribes ad me. Equidem valde ipsas Athenas amo. Volo esse aliquod monumentum; odi falsas inscriptiones statuarum alienarum. Sed, ut tibi placebit, faciesque me, in quem diem Romana incidant
+
+you have snapped up money which was his, and that it will not lessen Caesar’s energy in building a palace near the sacred grove of Diana. This bit of news came to me from P. Vedius, a shady character, but an intimate of Pompey. The fellow met me on the road with two chariots, a carriage and horses and a litter and a large following. If Curio carries his law,[216] he will have to pay £l apiece. Besides other things, there was a dog-faced baboon in a chariot, and some wild asses. I never met such a rascal. But listen to the end of the story, At Laodicea Vedius put up with Pompeius Vindullus, and left his belongings with him, while he came to meet me. Meantime Vindullus died, and his property is supposed to go to Pompeius Magnus. C. Vennonius went to the house and, while sealing all the goods, found Vedius’ baggage. Among this baggage there were five little busts of Roman married ladies, among them one of the sister of your friend Brutus—a brute indeed to be acquainted with the fellow—and one of the wife of Lepidus, whose easy conduct agrees with the meaning of his name. I wanted to tell you this little tale <i>en passant</i>, for we are both nice gossips.There is one thing I wish you to consider. I hear that Appius is putting up a porch at Eleusis. Shall I look a fool, if I do so in the Academy? I dare say you may think so: say so plainly, if you do. I am very fond of the city of Athens. I should like it to have some memorial of myself. I dislike lying titles on the statues of other folk. But as you think best. And please let me know the date of the
+
+Footnote 216:
+
+In <i>Ad Fam.</i> viii, 6 a <i>lex viaria</i> and a <i>lex alimentaria</i> are mentioned. Possibly travellers with a large retinue were taxed under the first of these.
+
+mysteria, certiorem, et quo modo hiemaris. Cura, ut valeas. Post Leuctricam pugnam die septingentesimo sexagesimo quinto.<b>II</b>
+
+CICERO ATTICO SAL.
+
+[Sidenote: <i>Scr. Laodiceae in. m. Mai. a. 704</i>]
+
+Cum Philogenes, libertus tuus, Laodiceam ad me salutandi causa venisset et se statim ad te navigaturum esse diceret, has ei litteras dedi, quibus ad eas rescripsi, quas acceperam a Bruti tabellario. Et respondebo primum postremae tuae paginae, quae mihi magnae molestiae fuit, quod ad te scriptum est a Cincio de Stati sermone; in quo hoc molestissimum est, Statium dicere a me quoque id consilium probari. Probari autem? De isto hactenus dixerim, me vel plurima vincla tecum summae coniunctionis optare, etsi sunt amoris artissima; tantum abest, ut ego ex eo, quo astricti sumus, laxari aliquid velim. Illum autem multa de istis rebus asperius solere loqui saepe arbitror. In hac autem peregrinatione militiave nostra saepe incensum ira vidi, saepe placatum. Quid ad Statium scripserit, nescio. Quicquid acturus de tali re fuit, scribendum tamen ad libertum non fuit. Mihi autem erit maxumae curae, ne quid fiat secus, quam re se quemque praestare, ac maxumae partes istius
+
+mysteries at Rome, and how you are passing the winter. Keep well. I write this on the seven hundred and sixty-fifth day after the battle of Leuctra.[217]<b>II</b>
+
+CICERO TO ATTICUS, GREETING.
+
+[Sidenote: <i>Laodicea, May</i>, B.C. <i>50</i>]
+
+Your freedman Philogenes has come to visit me at Laodicea and tells me that he is on the point of sailing to join you: so I give him this letter in reply to your letter which I got from Brutus’ letter-carrier. First I will answer your last page which caused me much concern:—that is about Cincius’ communication on the talk he had with Statius. I was particularly concerned at Statius’ remark that the plan had my approval. Approval indeed! I need only say thus much. I wish the ties of friendship to be as many and close as possible between us, though none can be so close as those of our common liking. I am far from wanting the tie between us to be relaxed. Quintus however to my knowledge will often use bitter language on his private affairs, and often I have pacified his anger, as I think you know. On my late tour or military campaign I have seen him often fly in a temper and often calm again. I don’t know what he wrote to Statius; whatever he meant to do, he ought not to have informed a freedman. However I will do my best to prevent any course contrary to our wishes and to propriety. In a case like this it is not enough for a man to make himself responsible for his own conduct only: and
+
+Footnote 217:Cicero refers thus to the killing of Clodius on Jan. 18, 52 B.C., comparing it with the defeat of the Spartans by Epaminondas at Leuctra in 371 B.C.
+
+officii sunt pueri Ciceronis sive iam adulescentis; quod quidem illum soleo hortari. Ac mihi videtur matrem valde, ut debet, amare teque mirifice. Sed est magnum illud quidem, verum tamen multiplex pueri ingenium; in quo ego regendo habeo negotii satis.
+
+Quoniam respondi postremae tuae paginae prima mea, nunc ad primam revertar tuam. Peloponnesias civitates omnes maritimas esse hominis non nequam, sed etiam tuo iudicio probati, Dicaearchi, tabulis credidi. Is multis nominibus in Trophoniana Chaeronis narratione Graecos in eo reprendit, quod mare tantum secuti sint, nec ullum in Peloponneso locum excipit. Cum mihi auctor placeret (etenim erat ἱστορικώτατος et vixerat in Peloponneso), admirabar tamen et vix adcredens communicavi cum Dionysio. Atque is primo est commotus, deinde, quod de isto Dicaearcho non minus bene existumabat quam tu de C. Vestorio, ego de M. Cluvio, non dubitabat, quin ei crederemus. Arcadiae censebat esse Lepreon quoddam maritumum; Tenea autem et Aliphera ct Tritia νεόκτιστα ei videbantur, idque τῷ τῶν νεῶν καταλόγῳ confirmabat, ubi mentio non fit istorum. Itaque istum ego locum totidem verbis a Dicaearcho transtuli. “Phliasios” autem dici sciebam, et ita fac ut habeas; nos quidem sic habemus. Sed primo me ἀναλογία deceperat, Φλιοῦς, Ὀποῦς, Σιποῦς, quod Ὀπούντιοι, Σιπούντιοι. Sed hoc continuo correximus.
+
+Laetari te nostra moderatione et continentia video.indeed the principal share of responsibility attaches to the boy, or young man as he is now, Quintus. This I am always telling him. To me he seems to love his mother greatly, as he should, and to be extremely fond of you. He is a lad of high but complex character, and I have enough to do to guide his conduct.
+
+Having devoted my first page to answering your last, I will now return to your first. I relied on the maps of Dicaearchus, a writer of no mean standing and an authority you accept, for the information that all the states of the Peloponnese bordered on the sea. In the account of the cave of Trophonius, which he puts into the mouth of Chaeron, he blames the Greeks on many scores for sticking to the sea coast; and he does not except a single district in the Peloponnese. He was a very accurate historian and lived in the Peloponnese, so that his evidence seemed trustworthy. Still I was surprised and communicated my doubts to Dionysius. Dionysius was startled at first, but finally accepted his authority, since he had as good an opinion of Dicaearchus as you have of C. Vestorius or I of M. Cluvius. Arcadia he agreed had a seaport Lepreon: but Tenea, Aliphera and Tritia were, he considered, more modern, a view he supported by the omission of these places from Homer’s catalogue of the ships. Accordingly I borrowed the passage from Dicaearchus in so many words. I know that Phliasii is the proper form. Please make it so in your copy. I read it in mine. But first of all thinking of Phlious I was misled by a vicious analogy of Opuntii from Opous and Sipuntii from Sipous. But I altered it at once.
+
+I see that you are pleased at my unselfish moderation.Tum id magis faceres, si adesses. Atque hoc foro, quod egi ex Idibus Februariis Laodiceae ad Kal. Maias omnium dioecensium praeter Ciliciae, mirabilia quaedam effecimus. Ita multae civitates omni aere alieno liberatae, multae valde levatae sunt, omnes suis legibus et iudiciis usae αὐτονομίαν adeptae revixerunt. His ego duobus generibus facultatem ad se aere alieno liberandas aut levandas dedi, uno, quod omnino nullus in imperio meo sumptus factus est (nullum cum dico, non loquor ὑπερβολικῶς), nullus, inquam, ne terruncius quidem. Hac autem re incredibile est quantum civitates emerserint. Accessit altera. Mira erant in civitatibus ipsorum furta Graecorum, quae magistratus sui fecerant. Quaesivi ipse de iis, qui annis decem proximis magistratum gesserant. Aperte fatebantur. Itaque sine ulla ignominia suis umeris pecunias populis rettulerunt. Populi autem nullo gemitu publicanis, quibus hoc ipso lustro nihil solverant, etiam superioris lustri reddiderunt. Itaque publicanis in oculis sumus. “Gratis,” inquis, “viris.” Sensimus. Iam cetera iuris dictio nec imperita et clemens cum admirabili facilitate; aditus autem ad me minime provinciales; nihil per cubicularium; ante lucem inambulabam domi ut olim candidatus. Grata haec et magna mihique nondum laboriosa ex illa vetere militia. Nonis Maiis in Ciliciam cogitabam. Ibi cum Iunium
+
+You would be more pleased, if you were here. In this very assize which I have been holding at Laodicea from the 13th of February to the 1st of May for all the districts except Cilicia, I have done wonders. See how many states have been freed from debt and how many have had their burden lightened. All have revived on acquiring home rule, and using their own enactments in law. I have given them in two ways the chance of freeing themselves or relieving themselves from debt.First by causing them no expense during my administration (and in saying no expense I mean literally not one farthing), which has helped them astonishingly out of their trouble. Secondly the states had suffered from surprising corruption in their own countrymen, that is to say their magistrates. I questioned the men who had held the office of magistrate during the last ten years. They concealed nothing. So without exposure they took on their own backs the repayment of the money: and the communities which had paid the tax-farmers nothing for the present five years have now without any complaints paid up arrears for the last five years too. So I am the apple of their eye to the tax-farmers. “Grateful fellows,” you exclaim. Yes I have experienced their gratitude. The rest of my judicial conduct has been enlightened, but mild and marvellously courteous. There has been none of the difficulty of access so characteristic of provincial governors; and no backstairs jobbery. Before daybreak I walk up and down in my house, as I did of yore when a candidate for office. This is popular and a great boon, and I have not felt it a burden owing to my old training.
+
+On the 15th of May I intend to go to Cilicia.
+
+mensem consumpsissem (atque utinam in pace! magnum enim bellum inpendet a Parthis), Quinctilem in reditu ponere. Annuae enim mihi operae a. d. III Kal. Sextil. emerentur. Magna autem in spe sum mihi nihil temporis prorogatum iri. Habebam acta urbana usque ad Nonas Martias; e quibus intellegebam Curionis nostri constantia omnia potius actum iri quam de provinciis. Ergo, ut spero, prope diem te videbo.Venio ad Brutum tuum, immo nostrum; sic enim mavis. Equidem omnia feci, quae potui aut in mea provincia perficere aut in regno experiri. Omni igitur modo egi cum rege et ago cotidie per litteras scilicet. Ipsum enim triduum quadriduumve mecum habui turbulentis in rebus, quibus eum liberavi. Sed et tum praesens et postea creberrimis litteris non destiti rogare et petere mea causa, suadere et hortari sua. Multum profeci, sed quantum, non plane, quia longe absum, scio. Salaminios autem (hos enim poteram coërcere) adduxi, ut totum nomen Scaptio vellent solvere, sed centesimis ductis a proxuma quidem syngrapha nec perpetuis, sed renovatis quotannis. Numerabantur nummi: noluit Scaptius. Tu qui ais Brutum cupere aliquid perdere? Quaternas habebat in syngrapha. Fieri non poterat, nec, si posset, ego pati possem. Audio omnino Scaptium
+
+After spending the month of June there (and I pray it may be in peace, for a serious war with the Parthians is certainly coming), July I shall spend on my journey home. I shall have served my year on July the 30th. I have great hopes that my tenure of office may not be extended. I have the city gazette up to the 7th of March. I gather that, thanks to the persistence of my friend Curio, appointments to the province will be the last business to be considered. So, as I hope, I shall see you soon.
+
+I come now to Brutus, your friend or rather mine, since you prefer it. I have done everything that I could accomplish in my own province or attempt in the kingdom of Cappadocia. I have taken every measure with the king and still do so daily—by letter. The king himself was in my company only for three or four days and at a crisis in his affairs, from which I released him.But both then in person and subsequently in repeated letters I have continually begged and besought him in my own name and advised and persuaded him in his own interest. My efforts have borne fruit: but how much at this distance I cannot tell for certain. The people of Salamis however, whom I could influence, I have induced to consent to settle all their debt with Scaptius, but with interest at 12 per cent calculated from the date of the last contract, and not at simple but compound interest. The money was counted down: but Scaptius refused to take it. What kind of a figure do you cut, who say that Brutus will make a sacrifice? Forty-eight per cent was written in the bond. It was an impossible sum. It could not be paid nor could I have permitted it. I hear after all that
+
+paenitere. Nam, quod senatus consultum esse dicebat, ut ius ex syngrapha diceretur, eo consilio factum est, quod pecuniam Salaminii contra legem Gabiniam sumpserant. Vetabat autem Auli lex ius dici de ita sumpta pecunia. Decrevit igitur senatus, ut ius diceretur ex ista syngrapha. Nunc ista habet iuris idem quod ceterae, nihil praecipui. Haec a me ordine facta puto me Bruto probaturum; tibi nescio; Catoni certe probabo.
+
+Sed iam ad te ipsum revertor. Ain tandem, Attice, laudator integritatis et elegantiae nostrae,
+
+“ausus es hoc ex ore tuo——,”
+
+inquit Ennius, ut equites Scaptio ad pecuniam cogendam darem, me rogare?An tu, si mecum esses, qui scribis morderi te interdum, quod non simul sis, paterere me id facere, si vellem? “Non amplius,” inquis, “quinquaginta.” Cum Spartaco minus multi primo fuerunt. Quid tandem isti mali in tam tenera insula non fecissent? Non fecissent autem? immo quid ante adventum meum non fecerunt? Inclusum in curia senatum habuerunt Salaminium ita multos dies, ut interierint non nulli fame. Erat enim praefectus Appi Scaptius et habebat turmas ab Appio. Id me igitur tu, cuius mehercule os mihi ante oculos solet versari, cum de aliquo officio ac laude cogito, tu me, inquam, rogas, praefectus ut Scaptius sit? Alias hoc statueramus, ut negotiatorem neminem, idque Bruto probaramus. Habeat is turmas? Cur potius quam
+
+Scaptius is sorry. As to his argument from a decree of the Senate ordering judgement to be given according to the bond, the reason for that was that in borrowing the money the people of Salamis contravened the law of Gabinius. Aulus’ law forbade that judgement should be given for money so borrowed. So the Senate decreed that judgement might be given on that particular bond. Now the bond in question has the same validity as other bonds, and no special privilege. I fancy Brutus will admit that my behaviour has been proper. I do not know if you will take that view, but certainly Cato will.
+
+Now I come back to yourself. My dear friend, you have praised the nice honour of my conduct “and can you dare with your own mouth,” as Ennius says, ask me to give Scaptius cavalry to collect his debts? Or would you, if you were here,—you who say that you chafe sometimes at not being with me,—would you suffer me to do such a thing, if I wanted? “Not more than fifty men,” you say. Spartacus had fewer men than that at first.The blackguards would have done indescribable damage in such a weak island. Do you say, they would have refrained? Look at the damage they did before I came here. They kept the members of the local Senate prisoners in their Chamber for so long that some died of hunger. For Scaptius was a prefect of Appius, and was allowed some cavalry. Your face is always before my eyes, when I think of duty and honour, and can you, you, I repeat, ask me to give the fellow the office of prefect? I had settled in other cases never to give the office to a man of business, a course which had won the approval of Brutus: and is a fellow like Scaptius to have cavalry? Why should he not be content with a
+
+cohortes? Sumptu iam nepos evadit Scaptius. “Volunt,” inquit, “principes.” Scio; nam ad me Ephesum usque venerunt flentesque equitum scelera et miserias suas detulerunt. Itaque statim dedi litteras, ut ex Cypro equites ante certam diem decederent, ob eamque causam, tum ob ceteras Salaminii nos in caelum decretis suis sustulerunt. Sed iam quid opus equitatu? solvunt enim Salaminii; nisi forte id volumus armis efficere, ut faenus quaternis centesimis ducant. Et ego audebo legere umquam aut attingere eos libros, quos tu dilaudas, si tale quid fecero? Nimis, inquam, in isto Brutum amasti, dulcissime Attice, nos vereor ne parum. Atque haec scripsi ego ad Brutum scripsisse te ad me. Cognosce nunc cetera.
+
+Pro Appio nos hic omnia facimus, honeste tamen, sed plane libenter. Nec enim ipsum odimus et Brutum amamus, et Pompeius mirifice a me contendit, quem mehercule plus plusque in dies diligo. C. Caelium quaestorem huc venire audisti. Nescio, quid sit: sed Pammenia illa mihi non placent. Ego me spero Athenis fore mense Septembri. Tuorum itinerum tempora scire sane velim.Εὐήθειαν Semproni Rufi cognovi ex epistula tua Corcyraea. Quid quaeris? invideo potentiae Vestori.
+
+Cupiebam etiam nunc plura garrire, sed lucet; urget turba, festinat Philogenes. Valebis igitur et valere Piliam et Caeciliam nostrum iubebis litteris et salvebis a meo Cicerone.
+
+company of foot? He is beginning to live in spendthrift style. The leading people of Salamis insist, he declares. Of course; that is why they came to me and with tears told me of his men’s atrocities and their own miseries. Accordingly I sent a letter at once ordering the cavalry to quit Cyprus by a certain day, and that, as well as other acts of mine, has caused the people of Salamis to praise me to the skies in their decrees. There is no need of cavalry now, for the people are ready to pay,—unless perhaps I want to use force to make them pay 48 per cent interest. Were I to do such a thing, I could never venture to read or touch those volumes which you praise. You, my dear fellow, have had far too much regard for Brutus in the matter. I perhaps not enough. I have informed Brutus of the drift of your letter. Now for the remaining topics.
+
+I am pleased to do all I can for Appius here consistently with my honour. I do not dislike him and I like Brutus: and Pompey, for whom I have a higher regard every day, is surprisingly importunate. You have heard that C. Caelius comes here as quaestor. I don’t know why, but I don’t like that affair of Pammenes. I hope to be at Athens in the month of September. Please let me know the dates of your travels. I understood the <i>naïveté</i> of Sempronius Rufus from your letter written in Corcyra.I am really quite jealous of the influence Of Vestorius.
+
+I should like to keep on chatting, but day dawns, the crowd is pressing in and Philogenes is in a hurry. Good-bye, give my greetings to Pilia, when you write, and to your daughter: and accept greetings from my son.<b>III</b>
+
+CICERO ATTICO SAL.
+
+[Sidenote: <i>Scr. in Cilicia m. Iun. ante V K. Quint. a. 704</i>]
+
+Etsi nil sane habebam novi, quod post accidisset, quam dedissem ad te Philogeni, liberto tuo, litteras, tamen, cum Philotimum Romam remitterem, scribendum aliquid ad te fuit. Ac primum illud, quod me maxume angebat—non quo me aliquid iuvare posses. Quippe, res enim est in manibus, tu autem abes longe gentium;
+
+        πολλὰ δ’ ἐν μεταιχμίῳ
+νότος κυλίνδει κύματ’ εὐρείης ἁλός.
+
+Obrepit dies, ut vides (mihi enim a. d. III Kal. Sextil. de provincia decedendum est), nec succeditur. Quem relinquam, qui provinciae praesit? Ratio quidem et opinio hominum postulat fratrem, primum quod videtur esse honos, nemo igitur potior; deinde quod solum habeo praetorium. Pomptinus enim ex pacto et convento (nam ea lege exierat) iam a me discesserat; quaestorem nemo dignum putat; etenim est “levis, libidinosus, tagax.” De fratre autem primum illud est. Persuaderi ei non posse arbitror; odit enim provinciam, et hercule nihil odiosius, nihil molestius. Deinde, ut mihi nolit negare, quidnam mei sit officii? cum bellum esse in Syria magnum putetur, id videatur in hanc provinciam erupturum, hic praesidii nihil sit, sumptus annuus decretus sit, videaturne aut pietatis esse meae fratrem relinquere aut diligentiae nugarum aliquid relinquere? Magna igitur, ut vides, sollicitudine adficior, magna inopia consilii.Quid quaeris?
+
+<b>III</b>
+
+CICERO TO ATTICUS, GREETING.
+
+[Sidenote: <i>Cilicia, before June 26</i>, B.C. <i>50</i>]
+
+Though I have no fresh news, since I handed a letter for you to your freedman Philogenes, still I must write you a line, since I am sending Philotimus back to Rome. First a thing which gives me much anxiety—not that you can help me at all—for the business is in hand, and you are far away in a foreign land
+
+“and by south wind tossed
+Between us rolls the wide estranging sea.”
+
+The days steal on, as you see (for I am due to leave my province on the 30th of July), and no successor is appointed. Whom can I leave in charge? Policy and public opinion point to my brother: first because it is right that he should have the honour by preference to anyone else, and secondly because he is the only officer of praetorian rank that I have: for Pomptinus, who came out on that condition, has left me already according to his agreement. My quaestor is notoriously unsuitable; he is “unsteady, wanton and lightfingered.” There is one objection to my brother’s appointment,—he will probably refuse, as he hates provincial life. Certes, it is a hateful bore. Then, supposing he does not like to refuse, what is my proper course?Seeing that a great war is likely in Syria, which will apparently break forth into this district, where there is no protection and only the ordinary supplies have been voted for the year, it would certainly seem unnatural to leave my brother, and careless to leave some nincompoop. As you see I am troubled greatly and badly want advice. In short I
+
+toto negotio nobis opus non fuit. Quanto tua provincia melior! Decedes, cum voles, nisi forte iam decessisti; quem videbitur, praeficies Thesprotiae et Chaoniae. Necdum tamen ego Quintum conveneram, ut iam, si id placeret, scirem, possetne ab eo impetrari: nee tamen, si posset, quid vellem, habebam. Hoc est igitur eius modi.
+
+Reliqua plena adhuc et laudis et gratiae, digna iis libris, quos dilaudas, conservatae civitates, cumulate publicanis satis factum, offensus contumelia nemo, decreto iusto et severo perpauci, nec tamen quisquam, ut queri audeat, res gestae dignae triumpho; de quo ipso nihil cupide agemus, sine tuo quidem consilio certe nihil. Clausula est difficilis in tradenda provincia. Sed haec deus aliquis gubernabit.
+
+De urbanis rebus scilicet plura tu scis; saepius et certiora audis; equidem doleo non me tuis litteris certiorem fieri. Huc enim odiosa adferebantur de Curione, de Paulo; non quo ullum periculum videam stante Pompeio vel etiam sedente, valeat modo; sed mehercule Curionis et Pauli, meorum familiarium, vicem doleo. Formam igitur mihi totius rei publicae, si iam es Romae aut cum eris, velim mittas, quae mihi obviam veniat, ex qua me fingere possim et praemeditari, quo animo accedam ad urbem.Est enim quiddam advenientem non esse peregrinum atque hospitem. Et, quod paene praeterii, Bruti tui causa,
+
+made a mistake over the whole matter. Your sphere is far preferable. You can depart at pleasure; and perhaps you have left already. You can put Thesprotia and Chaonia[218] in charge of anyone you like. I have not yet met my brother to know whether he would consent, if I want him to take it over; nor, should he consent, am I settled in my plans. So much for that.
+
+The rest so far is full of honour and glory and worthy of the volumes which you praise. Communities have found salvation, the whole body of tax-collectors has been satisfied, no one has been annoyed by ill-considered conduct, very few by the severity of upright justice—none so that he could dare complain—and a campaign has been conducted in a way that deserves a triumph, though I shall not seek it greedily, nor seek it at all without your advice. The conclusion is difficult in the matter of handing over the province. But some god will direct my course.
+
+About doings in town of course you know more, as your information comes more frequently and more surely. I am sorry that you do not pass on your news in a letter, for tiresome tidings have reached me about Curio and Paulus, not that there would seem anything to fear, if Pompey keeps his influence or even his inactivity. Only let him recover his health. But I am annoyed for Curio and Paulus, my friends.So, if you are now in town, or when you are there, please send me a sketch of the political situation to meet me on my way, that I may mould my conduct upon it and bethink me of the proper spirit in which to approach Rome. It is something not to arrive as a foreigner and a stranger. There was one point I nearly omitted. As I have said often, I have
+
+Footnote 218:
+
+The country round Atticus’ house in Epirus.
+
+ut saepe ad te scripsi, feci omnia. Cyprii numerabant; sed Scaptius centesimis renovato in singulos annos faenore contentus non fuit. Ariobarzanes non in Pompeium prolixior per ipsum quam per me in Brutum. Quem tamen ego praestare non poteram; erat enim rex perpauper, aberamque ab eo ita longe, ut nihil possem nisi litteris; quibus pugnare non destiti. Summa haec est. Pro ratione pecuniae liberalius est Brutus tractatus quam Pompeius. Bruto curata hoc anno talenta circiter c, Pompeio in sex mensibus promissa cc. Iam in Appi negotio quantum tribuerim Bruto, dici vix potest. Quid est igitur, quod laborem? Amicos habet meras nugas, Matinium, Scaptium. Qui quia non habuit a me turmas equitum, quibus Cyprum vexaret, ut ante me fecerat, fortasse suscenset, aut quia praefectus non est, quod ego nemini tribui negotiatori, non C. Vennonio, meo familiari, non tuo, M. Laenio, et quod tibi Romae ostenderam me servaturum; in quo perseveravi. Sed quid poterit queri is, qui, auferre pecuniam cum posset, noluit? Scaptio, qui in Cappadocia fuit, puto esse satis factum. Is a me tribunatum cum accepisset, quem ego ex Bruti litteris ei detulissem, postea scripsit ad me se uti nolle eo tribunatu.Gavius est quidam, cui cum praefecturam detulissem Bruti rogatu, multa et dixit et fecit cum quadam mea contumelia, P. Clodi canis. Is me nec proficiscentem Apameam prosecutus est, nec, cum postea in castra venisset atque inde discederet, num quid vellem, rogavit, et fuit aperte mihi nescio quare
+
+done everything for your friend Brutus. The people of Cyprus were paying down the money. Scaptius was not content with 12 per cent compound interest. Ariobarzanes is not more accommodating to Pompey for his own sake than to Brutus for mine. Still I could not go bail for him, for he is a very needy monarch and I was such a long way off that I could only press him on paper, as I did continually. The conclusion is this. In proportion to the sum lent, Brutus has been treated more liberally than Pompey: for Brutus there has been got this year about £24,400. To Pompey has been promised £48,800 within six months. In the business of Appius, my concessions to Brutus are almost incalculable. I have no reason to distress myself. Brutus’ friends are men of straw, Matinius, and Scaptius, who is perhaps angry because he could not get troops to harry Cyprus as he had done before my time, or because he was not made a prefect, an office I have not granted to any man of business, not to C. Vennonius, my friend, nor to your friend M. Laenius. I have persevered in the course that I told you at Rome I should keep: but a man who refused to take his money, when he could, cannot grumble. The other Scaptius who was in Cappadocia I think is satisfied. First of all he accepted a military tribuneship from me, which a letter from Brutus had persuaded me to offer him; but he wrote me afterwards that he did not want to take it up.There is a person Gavius, who, after I had offered him a post as prefect at Brutus’ request, said and did a good deal to disparage me. He is Clodius’ puppydog. He did not condescend to be one of my escort when I left Apamea, nor, when he came into camp later and was leaving it, did he ask if I had any commissions. For some unknown reason he was an
+
+non amicus. Hunc ego si in praefectis habuissem, quem tu me hominem putares? Qui, ut scis, potentissimorum hominum contumaciam numquam tulerim, ferrem huius adseculae? etsi hoc plus est quam ferre, tribuere etiam aliquid beneficii et honoris. Is igitur Gavius, cum Apameae me nuper vidisset Romam proficiscens, me ita appellavit, ut Culleolum vix auderem: “Unde,” inquit, “me iubes petere cibaria praefecti?” Respondi lenius, quam putabant oportuisse, qui aderant, me non instituisse iis dare cibaria, quorum opera non essem usus. Abiit iratus. Huius nebulonis oratione si Brutus moveri potest, licebit eum solus ames, me aemulum non habebis. Sed illum eum futurum esse puto, qui esse debet. Tibi tamen causam notam esse volui et ad ipsum haec perscripsi diligentissime. Omnino (soli enim sumus) nullas umquam ad me litteras misit Brutus, ne proxime quidem de Appio, in quibus non inesset adrogans, ἀκοινονόητον aliquid. Tibi autem valde solet in ore esse:
+
+[Sidenote: Lucilius.]
+
+        “Granius autem
+Non contemnere se et reges odisse superbos.”In quo tamen ille mihi risum magis quam stomachum movere solet. Sed plane parum cogitat, quid scribat aut ad quem.
+
+Q. Cicero puer legit, ut opinor, et certe, epistulam inscriptam patri suo. Solet enim aperire idque de meo consilio, si quid forte sit, quod opus sit sciri. In ea autem epistula erat idem illud de sorore quod ad me. Mirifice conturbatum vidi puerum. Lacrimans
+
+open enemy of mine. If I had counted such a fellow among my prefects, you might doubt what kind of creature I am. You know I will not brook discourtesy from men of power, and should I put up with it from this hanger-on? Though, to be sure, gracious bestowal of honour is something more than putting up with a man. So Gavius, when on his road to Rome he saw me lately at Apamea, addressed me as I should scarcely address Culleolus. “Where,” said he, “am I to look for my pickings?” I answered less sternly than those present thought proper, that I was not accustomed to give pickings to men whose services I had not used. He went off in a temper. If Brutus listens to the talk of such a shady customer, you may have him to yourself. I shall not be your rival. But I think he will behave all right. However I wanted you to know the circumstances, and I have recounted the matter very fully to Brutus. Between ourselves Brutus has never sent me a letter, not even lately about Appius, without a touch of arrogance and intolerance. You often quote the lines,
+
+        “But Granius too
+Has self-conceit and hates the pride of kings.”However in this business he excites my laughter rather than my rage, and evidently he does not consider sufficiently what he writes and to whom.
+
+The young Quintus, I fancy, yes I am sure, read your letter addressed to his father, for he usually opens his father’s letters—and that by my advice—in case there is anything he ought to know. The letter contained that same passage about your sister that you wrote to me. The boy was awfully upset. He
+
+mecum est questus. Quid quaeris? miram in eo pietatem, suavitatem humanitatemque perspexi. Quo maiorem spem habeo nihil fore aliter, ac deceat. Id te igitur scire volui.
+
+Ne illud quidem praetermittam. Hortensius filius fuit Laodiceae gladiatoribus flagitiose et turpiter. Hunc ego patris causa vocavi ad cenam, quo die venit, et eiusdem patris causa nihil amplius. Is mihi dixit se Athenis me exspectaturum, ut mecum decederet. “Recte,” inquam; quid enim dicerem? Omnino puto nihil esse, quod dixit; nolo quidem, ne offendam patrem, quem mehercule multum diligo. Sin fuerit meus comes, moderabor ita, ne quid eum offendam, quem minime volo.
+
+Haec sunt; etiam illud. Orationem Q. Celeris mihi velim mittas contra M. Servilium. Litteras mitte quam primum; si nihil, nihil fieri vel per tuum tabellarium. Piliae et filiae salutem. Cura, ut valeas.<b>IV</b>
+
+CICERO ATTICO SAL.
+
+[Sidenote: <i>Scr. in itinere paulo post Non. Iun. a. 704</i>]
+
+Tarsum venimus Nonis Iuniis. Ibi me multa moverunt, magnum in Syria bellum, magna in Cilicia latrocinia, mihi difficilis ratio administrandi, quod paucos dies habebam reliquos annui muneris, illud autem difficillimum, relinquendus erat ex senatus consulto,
+
+came to me complaining in tears. I saw much good feeling in him, and a kind and courteous disposition, which increases my hope for a satisfactory issue to the matter: so I want you to know it.
+
+There is one thing I must not pass over. The young Hortensius, during the gladiatorial exhibition at Laodicea, behaved in a shameful and scandalous way. For his father’s sake I invited him to my table on the day of his arrival, and for the same father’s sake treated him handsomely.[219] He said that he would await my departure in Athens, that we might go home together. I could only say, “Very well.” But I don’t fancy at all that he meant what he said. I hope not, lest I offend his father, who is my very good friend. But if he comes in my suite, I will arrange so as to avoid offence to a man I don’t want to offend.
+
+So much for that, there is one thing more. Please send me Q. Celer’s speech against M. Servilius. Write to me at your first opportunity.If there is no news, write to say so, or even send a verbal message. Give my love to your wife and daughter. Keep well.
+
+<b>IV</b>
+
+CICERO TO ATTICUS, GREETING.
+
+[Sidenote: <i>On the road, shortly after June 5</i>, B.C. <i>50</i>]
+
+I came to Tarsus on the 5th of June. There I was upset by many troubles: a big war in Syria, big cases of robbery in Cilicia, my difficulty in arranging things, considering there are only a few days left of my year of office: but the hardest problem of all is that, according to a decree of the Senate, some one must be left
+
+Footnote 219:
+
+or “did nothing more for him.”
+
+qui praeesset. Nihil minus probari poterat quam quaestor Mescinius. Nam de Caelio nihil audiebamus. Rectissimum videbatur fratrem cum imperio relinquere; in quo multa molesta, discessus noster, belli periculum, militum improbitas, sescenta praeterea. O rem totam odiosam! Sed haec fortuna viderit, quoniam consilio non multum uti licet.Tu, quando Romam salvus, ut spero, venisti, videbis, ut soles, omnia, quae intelleges nostra interesse, imprimis de Tullia mea, cuius de condicione quid mihi placeret, scripsi ad Terentiam, cum tu in Graecia esses; deinde de honore nostro. Quod enim tu afuisti, vereor, ut satis diligenter actum in senatu sit de litteris meis.
+
+Illud praeterea μυστικώτερον ad te scribam, tu sagacius odorabere. Τῆς δάμαρτός μου ὁ ἀπελεύθερος (οἶσθα, ὃν λέγω) ἔδοξέ μοι πρώην, ἐξ ὧν ἀλογευόμενος παρεφθέγγετο, πεφυρακέναι τὰς ψήφους ἐκ τῆς ὠνῆς τῶν ὑπαρχόντων τοῦ Κροτωνιάτου τυραννοκτόνου. Δέδοικα δή, μή τι νοήσῃς. Εἷς δήπου τοῦτο δὴ περισκεψάμενος τὰ λοιπὰ ἐξασφάλισαι. Non queo tantum, quantum vereor, scribere; tu autem fac, ut mihi tuae litterae volent obviae. Haec festinans scripsi in itinere atque agmine. Piliae et puellae Caeciliae bellissimae salutem dices.
+
+in charge. The quaestor Mescinius is by no means a suitable person. Of Caelius I hear nothing. The proper thing seems to be to leave my brother with military power, but that involves many difficulties—our separation, risk of war, mutiny in the troops, a thousand other hazards. A hateful business altogether. But fortune must look to it, since reason serves our purpose little.
+
+You, having come safe to Rome, as I hope, will as usual look to everything that concerns me, especially the matter of my daughter, about whose marriage settlement I have written to Terentia expressing my intentions, since you were in Greece. Then please look after my triumph. For as you were absent from town, I fear the Senate hardly paid sufficient attention to my despatch.The following point I will write to you in dark phrases: your cleverness will scent my meaning. My wife’s freedman (you know whom I mean) seemed to me lately from casual words of his to have cooked his accounts on the sale of the goods of the Crotonian tyrannicide.[220] I fear you have noticed something. Look into this matter yourself alone, and secure what is left. I cannot write all my fears. Take care that your letter flies to meet me. I write in haste on the march and with my army. Give my love to your wife and to your very charming little daughter.
+
+Footnote 220:
+
+T. Annius Milo, who assumed the name Milo in honour of the well-known athlete of Croton of that name. The freedman referred to is Phylotimus. From v, 8 it appears that he bought for Cicero at the sale of Milo’s property.<b>V</b>
+
+CICERO ATTICO SAL.
+
+[Sidenote: <i>Scr. in castris V K. Quint. a. 704</i>]
+
+Nunc quidem profecto Romae es. Quo te, si ita est, salvum venisse gaudeo; unde quidem quam diu afuisti, magis a me abesse videbare, quam si domi esses; minus enim mihi meae notae res erant, minus etiam publicae. Quare velim, etsi, ut spero, te haec legente aliquantum iam viae processero, tamen obvias mihi litteras quam argutissimas de omnibus rebus crebro mittas, imprimis de quo scripsi ad te antea. Τῆς ξυναόρου τῆς ἐμῆς οὑξελεύθερος ἔδοξέ μοι θαμὰ βατταρίζων καὶ ἀλύων ἐν τοῖς ξυλλόγοις καὶ ταῖς λέσχαις ὑπό τι πεφυρακέναι τὰς ψήφους ἐν τοῖς ὑπάρχουσιν τοῖς τοῦ Κροτωνιάτου. Hoc tu indaga, ut soles, ast hoc magis. Ἐξ ἄστεως ἑπταλόφου στείχων παρέδωκεν μνῶν κδʹ, μηʹ ὀφειλημα τῷ Καμίλλῳ, ἑαυτόν τε ὀφείλοντα μνᾶς κδ’ ἐκ τῶν Κροτωνιατικῶν καὶ ἐκ τῶν Χερρονησιτικῶν μηʹ καὶ μνᾶς κληρονομῆσαι χμʹ, χμʹ. Τούτων δὲ μηδὲ ὀβολὸν διευθετῆσθαι πάντων ὀφειληθέντων τοῦ δευτέρου μηνὸς τῇ νουμηνίᾳ. Τὸν δὲ ἀπελεύθερον αὐτοῦ ὄντα ὁμώνυμον τῷ Κόνωνος πατρὶ μηδὲν ὁλοσχερῶς πεφροντικέναι. Ταῦτα οὖν πρῶτον μέν, ἵνα πάντα σώζηται, δεύτερον δέ, ἵνα μηδὲ τῶν τόκων ὀλιγωρήσῃς τῶν ἀπὸ τῆς προεκκειμένης ἡμέρας. Ὅσας αὐτὸν ἠνέγκαμεν, σφόδρα δέδοικα· καὶ γὰρ παρῆν πρὸς ἡμᾶς κατασκεψόμενος<b>V</b>
+
+CICERO TO ATTICUS, GREETING.
+
+[Sidenote: <i>In camp, June 26</i>, B.C. <i>50</i>]
+
+You must certainly be at Rome now. If you are, I am glad of your safe arrival. So long as you were away from town, you seemed to me to be further off than if you were in Rome, for I heard less of my own business and less of the business of the state. So please send plenty of chatty letters on every kind of subject to meet me, though I hope, when you read this, I shall be well on my journey home. Above all write me on the subject I raised in my former letter. From the stuttering hesitation of my wife’s freedman in our meetings and talks I infer that he has been cooking his accounts a little in the matter of the sale of the Crotonian’s[221] goods. Investigate the matter with your usual care, but pay still more attention to this. When leaving the city of the seven hills he tendered an account of debts of some £100 and £200[222] to Camillus, and put himself down as owing £100 from Milo’s goods and £200 from the property in the Chersonese, and as having inherited two sums of £2,600,[223] of which not a penny had been paid, though all were due on the 1st of the second month. Milo’s freedman, Timotheus, the namesake of Conon’s father, he said, had never given a thought to the matter. Now first try and secure the whole amount, and secondly don’t overlook the interest from the afore-mentioned day. All the time I had to endure him, I was much upset. He came to me to spy out
+
+Footnote 221:i.e. T. Annius Milo.
+
+Footnote 222:
+
+24 and 48 minae, worth a little over £4 each.
+
+Footnote 223:
+
+640 minae.
+
+καί τι σχεδὸν ἐλπίσας· ἀπογνοὺς δ’ ἀλόγως ἀπέστη ἐπειπών “εἴκω· αἰσχρόν τοι δηρόν τε μένειν”—meque [Sidenote: Iliad, ii, 298] obiurgavit vetere proverbio τὰ μὲν διδόμενα—. Reliqua vide et, quantum fieri potest, perspiciamus.
+
+Etsi annuum tempus prope iam emeritum habebamus (dies enim XXXIII erant reliqui), sollicitudine provinciae tamen vel maxime urgebamur. Cum enim arderet Syria bello, et Bibulus in tanto maerore suo maximam curam belli sustineret, ad meque legati eius et quaestor et amici eius litteras mitterent, ut subsidio venirem, etsi exercitum infirmum habebam, auxilia sane bona, sed ea Galatarum, Pisidarum, Lyciorum (haec enim sunt nostra robora), tamen esse officium meum putavi exercitum habere quam proxume hostem, quoad mihi praeesse provinciae per senatus consultum liceret. Sed, quo ego maxime delectabar, Bibulus molestus mihi non erat, de omnibus rebus scribebat ad me potius. Et mihi decessionis dies λεληθότως obrepebat. Qui cum advenerit, ἄλλο πρόβλημα, quem praeficiam, nisi Caldus quaestor venerit; de quo adhuc nihil certi habebamus.Cupiebam mehercule longiorem epistulam facere, sed nec erat res, de qua scriberem, nec iocari prae cura poteram. Valebis igitur et puellae salutem Atticulae dices nostraeque Piliae.
+
+the land, and had some hopes. When he lost them, he left without an explanation, saying: “I give in, ’Twere shame to tarry long,” and casting in my teeth the old proverb “take the goods the gods provide you.”[224] Look after the rest, and let us investigate the matter as thoroughly as possible.
+
+Though I have nearly served my year (for only thirty-three days remain), still I am greatly concerned about my province. Syria is ablaze with war, and Bibulus is burdened with its cares in the midst of his own great sorrow,[225] and his legates, quaestor and friends write to me to go to his aid: so, although the army I have is weak—the auxiliaries certainly are good, Galatians, Pisidians, Lycians, the main strength of my force—I have thought it my duty to keep an army facing the foe, so long as I am authorized by the Senate’s decree to be in charge of my province. But what pleases me greatly is that Bibulus gives no trouble. He writes to me about any other topic by preference, and the day of my departure creeps on unnoticed. When it arrives, there is the further problem of my substitute, unless my quaestor Caldus comes, of whom so far I have no news.
+
+I should like to write a longer letter, but I have no news, and care keeps me from jesting; so good-bye, and love to your little daughter and to your wife.
+
+Footnote 224:This proverb is referred to in Plato’s <i>Gorgias</i> 499c, and given in full by Olympiodorus in the form τὰ ἐκ τῆς τύχης διδόμενα κόσμει “make the best of what fortune gives.”
+
+Footnote 225:
+
+The murder of his sons in Egypt.
+
+<b>VI</b>
+
+CICERO ATTICO SAL.
+
+[Sidenote: <i>Scr. Rhodi circ. IV Id. Sext. a. 704</i>]
+
+Ego, dum in provincia omnibus rebus Appium orno, subito sum factus accusatoris eius socer. “Id quidem,” inquis, “di adprobent!” Ita velim teque ita cupere certo scio. Sed, crede mihi, nihil minus putaram ego, qui de Ti. Nerone, qui mecum egerat, certos homines ad mulieres miseram; qui Romam venerunt factis sponsalibus. Sed hoc spero melius; mulieres quidem valde intellego delectari obsequio et comitate adulescentis. Cetera noli ἐξακανθίζειν.
+
+Sed heus tu! πυροὺς εἰς δῆμον Athenis? placet hoc tibi? Etsi non impediebant mei certe libri. Non enim ista largitio fuit in cives, sed in hospites liberalitas. Me tamen de Academiae προπύλῳ iubes cogitare, cum iam Appius de Eleusine non cogitet? De Horterisio te certo scio dolere; equidem excrucior; decreram enim cum eo valde familiariter vivere.Nos provinciae praefecimus Caelium. “Puerum,” inquies, “et fortasse fatuum et non gravem et non continentem!” Adsentior; fieri non potuit aliter. Nam, quas multo ante tuas acceperam litteras, in quibus ἐπέχειν te scripseras, quid esset mihi faciendum de relinquendo, eae me pungebant; videbam enim, quae tibi essent ἐποχῆς causae, et erant eaedem mihi.<b>VI</b>
+
+CICERO TO ATTICUS, GREETING.
+
+[Sidenote: <i>Rhodes, circa Aug. 10</i>, B.C. <i>50</i>]
+
+While in my province I show Appius every honour, suddenly I find myself father-in-law of Dolabella his accuser. You invoke heaven’s benison. So say I, and you I know are sincere. Believe me, it was the last thing I had expected. Indeed I had even sent trusty agents to Terentia and Tullia about the suit of Ti. Nero, who had made proposals to me: but they arrived in town only when the betrothal was over. However I hope the better course has been taken. I understand that my women folk are highly pleased with the young man’s obliging and courteous temper. As for the rest, don’t pick holes in him.
+
+Good gracious! Do you approve of corn doles to Athens? My own books to be sure do not forbid such a dole, for it was not a largesse to fellow-citizens, but a graceful present in return for hospitality. Still do you encourage me in the matter of the porch for the Academy, when Appius has abandoned his design of a porch at Eleusis? I am sure you are sorry about the news of Hortensius. Personally I am distracted: for it had been my intention to live on intimate terms with him.
+
+I have put Caelius in charge of my province. “A mere boy” you will object, “and perhaps silly, and lacking in dignity and self-control.” I agree; but there was no alternative.The letter I got from you some time ago, in which you said you suspended judgement as to what I ought to do about my substitute, caused me a pang; for I understood the grounds
+
+Puero tradere? fratri autem? Illud non utile nobis. Nam praeter fratrem nemo erat, quem sine contumelia quaestori, nobili praesertim, anteferrem. Tamen, dum impendere Parthi videbantur, statueram fratrem relinquere aut etiam rei publicae causa contra senatus consultum ipse remanere. Qui posteaquam incredibili felicitate discesserunt, sublata dubitatio est. Videbam sermones: “Hui, fratrem reliquit! Num est hoc non plus annum obtinere provinciam? Quid, quod senatus eos voluit praeesse provinciis, qui non praefuissent? At hic triennium!” Ergo haec ad populum. Quid, quae tecum? Numquam essem sine cura, si quid iracundius aut contumeliosius aut neglegentius, quae fert vita hominum. Quid, si quid filius puer et puer bene sibi fidens? qui esset dolor? quem pater non dimittebat teque id censere moleste ferebat. At nunc Caelius non dico equidem “quod egerit—,” sed tamen multo minus laboro. Adde illud. Pompeius, eo robore vir, iis radicibus, Q. Cassium sine sorte delegit, Caesar Antonium; ego sorte datum offenderem, ut etiam inquireret in eum, quem reliquissem? Hoc melius, et huius rei plura exempla, senectuti quidem nostrae profecto aptius.
+
+of your hesitation and felt them myself. Could I hand it over to a boy? But ought I to hand it over to my brother? The latter is prejudicial to my own interests. My brother was the only man it would not be an insult to prefer to the quaestor, especially as that officer was of noble birth.Still, while the Parthians seemed threatening, I determined to leave my brother in charge, or even to run counter to the decree of the Senate and for the sake of the Republic remain here myself. Their marvellously opportune retirement removed my doubts. I foresaw the world’s comment. “So he has left his brother in charge! Is this holding a province for one year only? And what about the decree of the Senate that ex-governors should not be eligible? Why, his brother was governor for three years.” These are the arguments for the public; but for you I have private reasons. I should have been in constant anxiety as to some exhibition of temper or overbearingness or negligence; for such things will happen. Perhaps his son, a mere headstrong lad, would have given me cause for distress: his father would not send him away, and was annoyed with you for saying that he ought. As for Caelius, I cannot say that I am unconcerned about his past behaviour: but still I am far less concerned. Then there is another point. Pompey (and think of his power and position) chose Q. Cassius without regard to the lot, and Caesar too chose Antony. I could not affront Caelius who had been given to me by lot, and so make him a spy on the actions of my successor. No; my present course is better, accords well with precedent and is well suited to my time of life. But,
+
+At te apud eum, di boni, quanta in gratia posui. Eique legi litteras non tuas, sed librarii tui.
+
+Amicorum litterae me ad triumphum vocant, rem a nobis, ut ego arbitror, propter hanc παλιγγενεσίαν nostram non neglegendam. Quare tu quoque, mi Attice, incipe id cupere, quo nos minus inepti videamur.

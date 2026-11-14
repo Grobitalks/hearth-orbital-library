@@ -1,0 +1,853 @@
+HOLB1	59828	3	240	80	1978	150
+1	Preface.
+3	Chapter I. The Strange Customer At Sweeney Tod…
+18	Chapter II. The Spectacle-maker's Daughter.
+31	Chapter III. A Man Is Lost.
+46	Chapter IV. The Pie-shop, Bell-yard.
+57	Chapter V. The Meeting In The Temple.
+70	Chapter VI.
+86	Chapter VII. The Barber And The Lapidary.
+95	Chapter VIII. The Thieves' Home.
+113	Chapter IX. Johanna At Home, And The Resolutio…
+129	Chapter X. The Colonel And His Friend.
+152	Chapter XI. The Stranger At Lovett's.
+165	Chapter XII.
+185	Chapter XIII.
+199	Chapter XIV. Tobias's Threat, And Its Conseque…
+225	Chapter XIV.
+234	Chapter XV.
+245	Chapter XVI.
+263	Chapter XVIII.
+271	Chapter XIX. The Madhouse Cell.
+280	Chapter XX.
+291	Chapter XXI. The Night At The Madhouse.
+299	Chapter XXII.
+338	Chapter XXV.
+344	Chapter XXVI.
+354	Chapter XXVII.
+363	Chapter XXVIII.
+393	Chapter XXIX. Tobias's Rapid Journey To London…
+398	Chapter XXX.
+411	Chapter XXXI. Shows How Tobias Got To London.
+423	Chapter XXII. Tobias Has A Mind Diseased.
+432	Chapter XXXIII. Johanna Walks Abroad In Disgui…
+447	Chapter XXXIV.
+460	Chapter XXXV. Mrs. Lovett's New Lover.
+472	Chapter XXXVI.
+485	Chapter XXXVII. The Search At Todd's.
+497	Chapter XXXVIII. Sir Richard Pries Into Todd's…
+508	Chapter XXXIX. The Mysterious Cupboard.
+518	Chapter XL. Crotchet Astonishes Mr. Todd.
+530	Chapter XLI. Todd's Vision.
+541	Chapter XLII. The Great Sacrifice.
+553	Chapter XLIII. An Old Acquaintance.
+564	Chapter XLIV. Todd And The Silversmith.
+576	Chapter XLV. Johanna's New Situation.
+588	Chapter XLVI. Tobias's Heart Is Touched.
+601	Chapter XLVII. Tobias Recovers His Intellect.
+612	Chapter XLVIII. Johanna Makes A New Confidant.
+627	Chapter XLIX. The Vaults Of St. Dunstan's.
+635	Chapter L. The Descent To The Vaults.
+647	Chapter LI. Johanna Rushes To Her Destiny.
+657	Chapter LII. Todd's Announcement.
+668	Chapter LIII. The Murder Of The Usurer.
+678	Chapter LIV. Sir Richard Blunt's Progress.
+685	Chapter LV. Mrs. Lovett's Walk.
+694	Chapter LVI. Tobias Unbosoms Himself.
+705	Chapter LVII.
+715	Chapter LVII. Big Ben Makes A Discovery.
+726	Chapter LVIII. The Grand Consultation In The T…
+740	Chapter LIX. The Proposal Of Arabella.
+748	Chapter LX. Todd Finds A Boy.
+756	Chapter LXI.
+765	Chapter LXII. Todd Clears Off Circumstances.
+781	Chapter LXIII. Johanna Starts For Todd's.
+790	Chapter LXIV. Todd Commences Packing Up.
+798	Chapter LXV.
+809	Chapter LXVI. The Cook's Visitors.
+819	Chapter LXVII. The Revelations In The Vaults.
+829	Chapter LXVIII. Returns To Johanna.
+842	Chapter LXIX. Takes A Peep At Arabella.
+852	Chapter LXX. Returns To Johanna.
+865	Chapter LXXI. The Mysterious Letter.
+875	Chapter LXXII. Another Victim.
+888	Chapter LXXIII. Startling Events.
+898	Chapter LXXIV. Big Ben Creates A Sensation.
+910	Chapter LXXV. Colonel Jeffery Opens His Eyes.
+923	Chapter LXXVI. Arabella And The Colonel.
+935	Chapter LXXVII. Mrs. Lovett Visits The Bank.
+945	Chapter LXXVIII. Mutual Defiance.
+957	Chapter LXXIX.
+969	Chapter LXXX. Todd Takes A Journey To The Temp…
+980	Chapter LXXXI. Johanna Is Encouraged.
+992	Chapter LXXXII. Todd Plans.
+1001	Chapter LXXXII. Todd Visits The Colonel
+1013	Chapter LXXXIII. Tobias In Jeopardy.
+1025	Chapter LXXXIV. Todd's Wonderful Escape.
+1037	Chapter LXXXV. Sir Richard Makes Plans.
+1050	Chapter LXXXVI.
+1063	Chapter LXXXVII.
+1074	Chapter LXXXVIII. Todd Astonishes Mrs. Lovett'…
+1082	Chapter LXXXIX.
+1093	Chapter XC. Morning In Fleet Street Again.
+1102	Chapter XCI. Mr. Todd's First Customers.
+1112	Chapter XCII. Mr. Oakley's Anxieties Much Dimi…
+1122	Chapter XCIII.
+1132	Chapter XCIV. In The Vaults.
+1142	Chapter XCV. Mrs. Lovett Is Very Intractable I…
+1151	Chapter XCVI. The Boat On The River.
+1161	Chapter XCVII. The Attempted Murder On The Tha…
+1172	Chapter XCVIII.
+1194	Chapter C.
+1205	Chapter CI.
+1215	Chapter CII.
+1225	Chapter CIII.
+1255	Chapter CVI.
+1265	Chapter CVII. Mrs. Oakley Dissembles.
+1287	Chapter CIX. Johanna Has Plenty Of Company At…
+1303	Chapter CX. Todd's Hour Has Come.
+1316	Chapter CXI. Mrs. Lovett Plans.
+1325	Chapter CXII.
+1337	Chapter CXIII.
+1343	Chapter CXIV.
+1356	Chapter CXV.
+1367	Chapter CXVI.
+1387	Chapter CXVIII.
+1396	Chapter CXIX.
+1416	Chapter CXXI.
+1427	Chapter CXXII.
+1438	Chapter CXXIII. The Beasts At The Tower.
+1448	Chapter CXXIV.
+1459	Chapter CXXV.
+1469	Chapter CXXVI. Sweeney Todd Is Placed Upon His…
+1479	Chapter CXXVII. The Trial Of Sweeney Todd Cont…
+1489	Chapter CXXVIII.
+1499	Chapter CXXIX. The Trial Of Sweeney Todd Conti…
+1509	Chapter CXXX.
+1518	Chapter CXXXI. Todd Makes An Attempt Upon His…
+1530	Chapter CXXXII.
+1540	Chapter CXXXIII.
+1551	Chapter CXXXIV.
+1562	Chapter CXXXV.
+1572	Chapter CXXXVI. Todd And Lupin Escape To Caen…
+1583	Chapter CXXXVII. The Murder At Caen Wood, Hamp…
+1594	Chapter CXXXVIII.
+1606	Chapter CXXXIX.
+1629	Chapter CXLI.
+1640	Chapter CXLII.
+1649	Chapter CXLIII.
+1661	Chapter CXLIV. Todd Makes His Way Into His Own…
+1671	Chapter CXLV.
+1684	Chapter CXLVI.
+1705	Chapter CXLVIII.
+1715	Chapter CXLIX.
+1727	Chapter CL.
+1738	Chapter CLI.
+1748	Chapter CLII.
+1759	Chapter CLIII.
+1770	Chapter CLIV.
+1781	Chapter CLV.
+1792	Chapter CLVI.
+1815	Chapter CLVIII. Todd's Fearful Adventures On T…
+As he spoke, he heard St. Dunstan's clock strike nine, and he started at the sound, for it let him know that already Sweeney Todd had been away an hour beyond the time he said he would be absent, so that there was a probability of his quick return now, and it would scarcely be safe to linger longer in his house.
+
+"I must be gone--I must be gone. I should like to look upon my mother's face once more before I leave London for ever perhaps. I may tell her of the danger she is in from Todd's knowledge of her secret; no--no, I cannot speak to her of that; I must go, and leave her to those chances which I hope and trust will work favourably for her."
+
+Flinging down the iron bar which had done him such good service, Tobias stopped not to close any of those receptacles which contained the plunder that Sweeney Todd had taken most probably from murdered persons, but he rushed down stairs into the parlour again, where the boots that had fallen out of the cupboard still lay upon the floor in wild disorder. It was a strange and sudden whim that took him, rather than a matter of reflection, that induced him, instead of his own hat, to take one of those which were lying so indiscriminately at his feet; and he did so.By mere accident it turned out to be an exceedingly handsome hat, of rich workmanship and material, and then Tobias, feeling terrified lest Sweeney Todd should return before he could leave the place, paid no attention to anything, but turned from the shop, merely pulling the door after him, and then darting over the road towards the Temple like a hunted hare; for his great wish was to see his mother, and then he had an undefined notion that his best plan for escaping the clutches of Sweeney Todd would be to go to sea. In common with all boys of his age, who know nothing whatever of the life of a sailor, it presented itself in the most fascinating colours. A sailor ashore and a sailor afloat, are about as two different things as the world can present; but, to the imagination of Tobias Ragg, a sailor was somebody who was always dancing hornpipes, spending money, and telling wonderful stories. No wonder, then, that the profession presented itself under such fascinating colours to all such persons as Tobias; and as it seemed, and seems still, to be a sort of general understanding that the real condition of a sailor should be mystified in every possible way and shape by both novelist and dramatist, it is no wonder that it requires actual experience to enable those parties who are in the habit of being carried away by just what they hear, to come to a correct conclusion.
+
+"I will go to sea!" ejaculated Tobias. "Yes, I will go to sea!"
+
+As he spoke these words he passed out of the gate of the Temple leading into Whitefriars, in which ancient vicinity his mother dwelt, endeavouring to eke out a living as best she might. She was very much surprised (for she happened to be at home) at the unexpected visit of her son, Tobias, and uttered a faint scream as she let fall a flat-iron very nearly upon his toes."Mother," he said, "I cannot stay with Sweeney Todd any longer, so do not ask me."
+
+"Not stay with such a respectable man?"
+
+"A respectable man, mother! Alas, alas, how little you know of him! But what am I saying? I dare not speak! Oh, that fatal, fatal candlestick!"
+
+"But how are you to live, and what do you mean by a fatal candlestick?"
+
+"Forgive me--I did not mean to say that! Farewell, mother! I am going to sea."
+
+"To see what, my dear?" said Mrs. Ragg, who was much more difficult to talk to, than even Hamlet's grave-digger. "You don't know how much I am obliged to Sweeney Todd."
+
+"Yes, I do, and that's what drives me mad to think of. Farewell, mother, perhaps for ever! If I can, of course I will communicate with you, but now I dare not stay."
+
+"Oh! what have you done, Tobias--what have you done?"
+
+"Nothing--nothing! but Sweeney Todd is--"
+
+"What--what?""No matter--no matter! Nothing--nothing! And yet at this last moment I am almost tempted to ask you concerning a candlestick."
+
+"Don't mention that," said Mrs. Ragg; "I don't want to hear anything said about it."
+
+"It is true, then?"
+
+"Yes; but did Mr. Todd tell you?"
+
+"He did--he did. I have now asked the question I never thought could have passed my lips. Farewell, mother; for ever farewell!"
+
+Tobias rushed out of the place, leaving old Mrs. Ragg astonished at his behaviour, and with a strong suspicion that some accession of insanity had come over him.
+
+"The Lord have mercy upon us!" she said, "what shall I do? I am astonished at Mr. Todd telling him about the candlestick; it's true enough, though, for all that. I recollect it as well as though it were yesterday; it was a very hard winter, and I was minding a set of chambers, when Todd came to shave the gentleman, and I saw him with my own eyes put a silver candlestick in his pocket. Then I went over to his shop and reasoned with him about it, and he gave it me back again, and I brought it to the chambers, and laid it down exactly on the spot where he took it from.""To be sure," said Mrs. Ragg, after a pause of a few moments, "to be sure, he has been a very good friend to me ever since, but that I suppose is for fear I should tell, and get him hung or transported. But, however, we must take the good with the bad, and when Tobias comes to think of it, he will go back again to his work, I dare say; for, after all, it's a very foolish thing for him to trouble his head whether Mr. Todd stole a silver candlestick or not."<b>CHAPTER XVI.</b>
+<b>THE STRANGE ODOUR IN OLD ST. DUNSTAN'S CHURCH.</b>
+
+About this time, and while the incidents of our most strange and eventful narrative were taking place, the pious frequenters of old St. Dunstan's church began to perceive a strange and most abominable odour throughout that sacred edifice. It was in vain that old women who came to hear the sermons, although they were too deaf to catch a third part of them, brought smelling bottles and other means of stifling their noses; still that dreadful charnel-house sort of smell would make itself most painfully and most disagreeably apparent. And the Rev. Joseph Stillingport, who was the regular preacher, smelt it in the pulpit; and had been seen to sneeze in the midst of a most pious discourse indeed, and to hold to his pious mouth a handkerchief, in which was some strong and pungent essence, for the purpose of trying to overcome the horrible effluvia. The organ-blower and the organ-player were both nearly stifled, for the horrible odour seemed to ascend to the upper part of the church; although those who sat in what may be called the pit, by no means escaped it. The churchwardens looked at each other in their pews with contorted countenances, and were almost afraid to breathe; and the only person who did not complain bitterly of the dreadful odour in St. Dunstan's church, was an old woman who had been a pew-opener for many years; but then she had lost the faculties of her nose, which, perhaps, accounted satisfactorily for that circumstance.At length, however, the nuisance became so intolerable, that the beadle, whose duty it was in the morning to open the church doors, used to come up to them with the massive key in one hand, and a cloth soaked in vinegar in the other, just as the people used to do in the time of the great plague of London; and when he had opened the doors, he used to run over to the other side of the way.
+
+"Ah, Mr. Blunt!" he used to say to the bookseller, who lived opposite--"ah! Mr. Blunt, I is obligated to cut over here, leastways till the <i>atymouspheric</i> air is mixed up all along with the <i>stinkifications</i> which come from the church."
+
+By this it will be seen that the beadle was rather a learned man, and no doubt went to some mechanics' institution of those days, where he learned something of everything but what was calculated to be of some service to him. As might be supposed, from the fact that this sort of thing had gone on for a few months, it began to excite some attention with a view to a remedy; for, in the great city of London, a nuisance of any sort or description requires to become venerable by age before any one thinks of removing it; and after that, it is quite clear that that becomes a good argument against removing it at all. But at last, the churchwardens began to have a fear that some pestilential disease would be the result if they for any longer period of time put up with the horrible stench, and that they might be among its first victims, so they began to ask each other what could be done to obviate it.Probably, if this frightful stench, being suggestive, as it was, of all sorts of horrors, had been graciously pleased to confine itself to some poor locality, nothing would have been heard of it; but when it became actually offensive to a gentleman in a metropolitan pulpit, and when it began to make itself perceptible to the sleepy faculties of the churchwardens of St. Dunstan's church, Fleet-street, so as to prevent them even from dozing through the afternoon sermon, it became a very serious matter indeed. But what was it, what could it be, and what was to be done to get rid of it? These were the anxious questions that were asked right and left, as regarded the serious nuisance, without the fates graciously acceding any reply. But yet one thing seemed to be generally agreed, and that was, that it did come, and must come, somehow or other, out of the vaults from beneath the church. But then, as the pious and hypocritical Mr. Butterwick, who lived opposite, said--
+
+"How could that be, when it was satisfactorily proved by the present books that nobody had been buried in the vaults for some time, and therefore it was a very odd thing that dead people, after leaving off smelling and being disagreeable, should all of a sudden burst out again in that line, and be twice as bad as ever they were at first."
+
+And on Wednesdays sometimes, too, when pious people were not satisfied with the Sunday's devotion, but began again in the middle of the week, that stench was positively terrific. Indeed, so bad was it, that some of the congregation were forced to leave, and have been seen to slink into Bell-yard, where Lovett's pie-shop was situated, and then and there solace themselves with a pork or a veal pie,in order that their mouths and noses should be full of a delightful and agreeable flavour, instead of one most peculiarly and decidedly the reverse. At last there was a confirmation to be held at St. Dunstan's church, and a great concourse of persons assembled, for a sermon was to be preached by the bishop after the confirmation; and a very great fuss indeed was to be made about really nobody knew exactly what. Preparations, as newspapers say, upon an extensive scale, and regardless of expense, were made for the purpose of adding lustre to the ceremony, and surprising the bishop, when he came, with a good idea that the people who attended St. Dunstan's church were somebodies, and really worth confirming. The confirmation was to take place at twelve o'clock, and the bells ushered in the morning with their most pious tones, for it was not every day that the authorities of St. Dunstan succeeded in catching a bishop, and when they did so, they were determined to make the most of him. And the numerous authorities, including churchwardens, and even the very beadle, were in an uncommon fluster, and running about, and impeding each other, as authorities always do upon public occasions. But, to those who only look to the surface of things, and who came to admire what was grand and magnificent in the preparations, the beadle certainly carried away the palm, for that functionary was attired in a completely new cocked hat and coat, and certainly looked very splendid and showy upon the occasion.Moreover, that beadle had been well and judiciously selected, and the parish authorities made no secret of it, when there was an election for beadle, that they threw all their influence into the scale of that candidate who happened to be the biggest, and consequently, who was calculated to wear the official costume with an air that no smaller man could have possibly aspired to on any account. At half-past eleven o'clock the bishop made his gracious appearance, and was duly ushered into the vestry, where there was a comfortable fire, and on the table in which, likewise, were certain cold chickens and bottles of rare wines; for confirming a number of people, and preaching a sermon besides, was considered no joke, and might, for all they knew, be provocative of a great appetite in the bishop. And with what a bland and courtly air the bishop smiled as he ascended the steps of St. Dunstan's Church. How affable he was to the churchwardens, and he actually smiled upon a poor miserable charity boy, who, his eyes glaring wide open, and his muffin cap in his hand, was taking his first stare at a real live bishop. To be sure, the beadle knocked him down directly the bishop had passed, for having the presumption to look at such a great personage, but then that was to be expected fully and completely, and only proved that the proverb, which permits a cat to look at a king, is not equally applicable to charity boys and bishops. When the bishop got to the vestry, some very complimentary words were uttered to him by the usual officiating clergyman, but, somehow or other, the bland smile had left the lips of the great personage, and, interrupting the vicar in the midst of a fine flowing speech, he said--
+
+"That's all very well, but what a terrible stink there is here!"The churchwardens gave a groan, for they had flattered themselves that perhaps the bishop would not notice the dreadful smell, or that, if he did, he would think it was accidental, and say nothing about it; but now, when he really did mention it, they found all their hopes scattered to the winds, and that it was necessary to say something.
+
+"Is this horrid charnel-house sort of smell always here?"
+
+"I am afraid it is," said one of the churchwardens.
+
+"Afraid!" said the bishop, "surely you know; you seem to me to have a nose."
+
+"Yes," said the churchwarden, in great confusion, "I have that honour, and I have the pleasure of informing you, my Lord Bishop--I mean I have the honour of informing you that this smell is always here."
+
+The bishop sniffed several times, and then he said--
+
+"It is very dreadful; and I hope that by the next time I come to St. Dunstan's, you will have the pleasure and the honour, both, of informing me that it has gone away."
+
+The churchwarden bowed, and got into an extreme corner, saying to himself--
+
+"This is the bishop's last visit here, and I don't wonder at it, for, as if out of pure spite, the smell is ten times worse than ever to-day."And so it was, for it seemed to come up through all the crevices of the flooring of the church, with a power and perseverance that was positively dreadful.
+
+The people coughed, and held their handkerchiefs to their noses, remarking to each other--
+
+"Isn't it dreadful?--did you ever know the smell in St. Dunstan's so bad before," and everybody agreed that they never had known it anything like so bad, for that it was positively awful--and so indeed it was.
+
+The anxiety of the bishop to get away was quite manifest, and, if he could have decently taken his departure without confirming anybody at all, there is no doubt but that he would have willingly done so, and left all the congregation to die and be--something or another. But this he could not do, but he could cut it short, and he did so. The people found themselves confirmed before they almost knew where they were, and the bishop would not go into the vestry again on any account, but hurried down the steps of the church, and into his carriage, with the greatest precipitation in the world, thus proving that holiness is no proof against a most abominable stench. As may be well supposed, after this, the subject assumed a much more serious aspect, and on the following day a solemn meeting was held of all the church authorities, at which it was determined that men should be employed to make a thorough and searching examination of the vaults of St. Dunstan's, with the view of discovering, if possible, from whence particularly the abominable stench emanated. And then it was decided that the stench was to be put down, and that the bishop was to be apprized it was put down, and that he might visit the church in perfect safety.        CHAPTER XVII.
+SWEENEY TODD'S PROCEEDINGS CONSEQUENT UPON THE DEPARTURE OF TOBIAS.
+
+We left the barber in his own shop, much wondering that Tobias had not responded to the call which he had made upon him, but yet scarcely believing it possible that he could have ventured upon the height of iniquity, which we know Tobias had really been guilty of. He paused for a few moments, and held up the light which he had procured, and gazed around him with inquiring eyes, for he could, indeed, scarcely believe it possible that Tobias had sufficiently cast off his dread of him, Sweeney Todd, to be enabled to achieve any act for his liberation. But when he saw that the lock of the parlour-door was open, positive rage obtained precedence over every other feeling.
+
+"The villain!" he cried, "has he dared really to consummate an act I thought he could not have dreamt of for a moment? Is it possible that he can have presumed so far as to have searched the house?"
+
+That Tobias, however, had presumed so far, the barber soon discovered, and when he went into his parlour and saw what had actually occurred, and that not only was every cupboard door broken open, but that likewise the door which led to the staircase and the upper part of the house had not escaped, he got perfectly furious, and it was some time before he could sufficiently calm himself to reflect upon the probable and possible amount of danger he might run in consequence of these proceedings.When he did, his active mind at once told him that there was not much to be dreaded immediately, for that most probably Tobias, still having the fear before his eyes of what he might do as regarded his mother, had actually run away; and, "in all likelihood," muttered the barber, "he has taken with him something which would allow me to fix upon him the stigma of robbery, but that I must see to."
+
+Having fastened the shop-door securely, he took the light in his hands, and ascended to the upper part of his house--that is to say, the first floor, where alone anything was to be found. He saw at once the open bureau, with all its glittering display of jewels, and as he gazed upon the heap, he muttered--
+
+"I have not so accurate a knowledge of what is here as to be able to say if anything be extracted or not, but I know the amount of money, if I do not know the precise number of jewels which this bureau contains."
+
+He opened a small drawer which had entirely escaped the scrutiny of Tobias, and proceeded to count a large number of guineas which were there.
+
+"These are correct," he said, when he had finished his examination--"these are correct, and he has touched none of them."
+
+He then opened another drawer, in which were a great many packets of silver done up in paper, and these likewise he carefully counted, and was satisfied they were right."It is strange," he said, "that he has taken nothing, but yet perhaps it is better that it should be so, inasmuch as it shows a wholesome fear of me. The slightest examination would have shown him these hoards of money; and since he has not made that slight examination, nor discovered any of them, it seems to my mind decisive upon the subject, that he has taken nothing, and perchance I shall discover him easier than I imagine."
+
+He repaired to the parlour again, and carefully divested himself of everything which had enabled him so successfully to impose upon John Mundel, and replaced them by his ordinary costume, after which he fastened up his house and sallied forth, taking his way direct to Mrs. Ragg's humble home, in the expectation that there he would hear something of Tobias, which would give him a clue where to search for him, for search for him he fully intended; but what were his precise intentions perhaps he could hardly have told himself, until he actually found him. When he reached Mrs. Ragg's house, and made his appearance abruptly before that lady, who seemed somehow or another to be always ironing and always to drop the iron when any one came in, very near their toes, he said--
+
+"Where did your son Tobias go after he left you to-night?"
+
+"Lor! Mr. Todd, is it you? You are as good as a conjuror, sir, for he was here; but bless you, sir, I know no more where he is gone to, than the man in the moon. He said he was going to sea, but I am sure I should not have thought it, that I should not.""To sea!--then the probability is that he would go down to the docks, but surely not to-night. Do you not expect him back here to sleep?"
+
+"Well, sir, that's a very good thought of yours; and he may come back here to sleep, for all I know to the contrary."
+
+"But you do not know it for a fact?"
+
+"He didn't say so; but he may come, you know, sir, for all that."
+
+"Did he tell you his reason for leaving me?"
+
+"Indeed no, sir; he really did not, and he seemed to me to be a little bit out of his senses."
+
+"Ah! Mrs. Ragg," said Sweeney Todd, "there you have it. From the first moment that he came into my service, I knew and felt confident that he was out of his senses. There was a strangeness of behaviour about him, which soon convinced me of that fact, and I am only anxious about him, in order that some effort may be made to cure him of such a malady, for it is a serious, and a dreadful one, and one which, unless taken in time, will be yet the death of Tobias."
+
+These words were spoken with such solemn seriousness, that they had a wonderful effect upon Mrs. Ragg, who, like most ignorant persons, began immediately to confirm that which she most dreaded."Oh, it's too true," she said, "it's too true. He did say some extraordinary things to-night, Mr. Todd, and he said he had something to tell, which was too horrid to speak of. Now the idea, you know, Mr. Todd, of anybody having anything at all to tell, and not telling it at once, is quite singular."
+
+"It is!--and I am sure that his conduct is such you never would be guilty of, Mrs. Ragg;--but hark! what's that?"
+
+"It's a knock, Mr. Todd."
+
+"Hush, stop a moment--what if it be Tobias?"
+
+"Gracious goodness! it can't be him, for he would have come in at once."
+
+"No; I slipped the bolt of the door, because I wished to talk to you without observation; so it may be Tobias, you perceive, after all. But let me hide somewhere, so that I may hear what he says, and be able to judge how his mind is affected. I will not hesitate to do something for him, let it cost what it may."
+
+"There's the cupboard, Mr. Todd. To be sure there is some dirty saucepans and a frying-pan in it, and of course it aint a fit place to ask you to go into."
+
+"Never mind that--never mind that; only you be careful, for the sake of Tobias's very life, to keep secret that I am here."The knocking at the door increased each moment in vehemence, and scarcely had Sweeney Todd succeeded in getting into the cupboard along with Mrs. Ragg's pots and pans, and thoroughly concealed himself, when she opened the door; and, sure enough--Tobias, heated, tired, and looking ghastly pale--staggered into the room.
+
+"Mother," he said, "I have taken a new thought, and have come back to you."
+
+"Well, I thought you would, Tobias; and a very good thing it is that you have."
+
+"Listen to me: I thought of flying from England for ever, and of never again setting foot upon its shores. I have altered that determination completely, and I feel now that it is my duty to do something else."
+
+"To do what, Tobias?"
+
+"To tell all I know--to make a clean breast, mother, and, let the consequences be what they may, to let justice take its course."
+
+"What do you mean, Tobias?"
+
+"Mother, I have come to a conclusion, that what I have to tell is of such vast importance, compared with any consequences that may arise from the petty robbery of the candlestick, which you know of, that I ought not to hesitate a moment in revealing everything.""But, my dear Tobias, remember that that is a dreadful secret, and one that must be kept."
+
+"It cannot matter--it cannot matter; and, besides, it is more than probable that by revealing what I actually know, and which is of such great magnitude, I may, mother, in a manner of speaking, perchance completely exonerate you from the consequences of that transaction. Besides, it was long ago, and the prosecutor may have mercy; but, be all that how it may, and be the consequences what they may, I must and will tell what I now know."
+
+"But what is it Tobias, that you know?"
+
+"Something too dreadful for me to utter to you alone. Go into the Temple, mother, to some of the chambers you attend to, and ask them to come to me, and listen to what I have got to say. They will be amply repaid for their trouble, for they will hear that which may, perhaps, save their own lives."
+
+"He is quite gone," thought Mrs. Ragg, "and Mr. Todd is correct; poor Tobias is as mad as he can be!" "Alas, alas, Tobias, why don't you try to reason yourself into a better state of mind! You don't know a bit what you are saying, any more than the man in the moon."
+
+"I know I am half mad, mother, but yet I know what I am saying well; so do not fancy that it is not to be relied upon, but go and fetch some one at once to listen to what I have to relate.""Perhaps," thought Mrs. Ragg, "if I were to pretend to humour him, it would be as well, and, while I am gone, Mr. Todd can speak to him."
+
+This was a bright idea of Mrs. Ragg's, and she forthwith proceeded to carry it into execution, saying--
+
+"Well, my dear, if it must be, it must be--and I will go; but I hope while I have gone, somebody will speak to you, and convince you that you ought to try to quiet yourself."
+
+These words Mrs. Ragg uttered aloud, for the special benefit of Sweeney Todd, who, she considered, would have been there to take the hint accordingly. It is needless to say he did hear them, and how far he profited by them, we shall quickly perceive. As for poor Tobias, he had not the remotest idea of the close proximity of his arch enemy; if he had, he would quickly have left that spot, where he might well to conjecture so much danger awaited him; for although Sweeney Todd, under the circumstances, probably felt that he dared not take Tobias's life, still he might exchange something that could place it in his power to do so shortly, with the least personal danger to himself. The door closed after the retreating form of Mrs. Ragg, and as, considering the mission she was gone upon, it was very clear some minutes must elapse before she could return, Sweeney Todd did not feel that there was any very particular hurry in the transaction.
+
+"What shall I do?" he said to himself. "Shall I await his mother's coming again, and get her to aid me,or shall I of myself adopt some means which will put an end to trouble on this boy's account?"
+
+Sweeney Todd was a man tolerably rapid in thought, and he contrived to make up his mind that the best plan, unquestionably, would be to lay hold of Tobias at once, and so prevent the possibility of any appeal to his mother becoming effective. Tobias, when his mother left the place, as he imagined, for the purpose of procuring some one to listen to what he considered to be Sweeney Todd's delinquencies, rested his face upon his hands, and gave himself up to painful and deep thought. He felt that he had arrived at quite a crisis in his history, and that the next few hours could not surely but be very important to him in their results; and so they were indeed, but not certainly exactly in the way that he all along anticipated, for he thought of nothing but of the arrest and discomfiture of Todd, little expecting how close was his proximity to that formidable personage.
+
+"Surely," thought Tobias, "I shall, by disclosing all that I know about Todd, gain some consideration for my mother, and after all, she may not be prosecuted for the robbery of the candlestick, for how very trifling is that affair compared to the much more dreadful things which I more than suspect Sweeney Todd to be guilty of. He is and must be, from all that I have seen and heard, a murderer, although how he disposes of his victims is involved in the most complete mystery, and is to me a matter past all human power of comprehension. I have no idea even upon that subject whatever."This, indeed, was a great mystery; for, even admitting that Sweeney Todd was a murderer, and it must be allowed that as yet we have only circumstantial evidence of that fact, we can form no conclusion from such evidence as to how he perpetrated the deed, or how afterwards he disposed of the body of his victim. This grand and principal difficulty in the way of committing murder with impunity, namely, the disposal of a corpse, certainly did not seem at all to have any effect upon Sweeney Todd; for if he made corpses, he had some means of getting rid of them with the most wonderful expedition as well as secrecy.
+
+"He is a murderer," thought Tobias. "I know he is, although I have never seen him do the deed, or seen any appearances in the shop of a deed of blood having been committed. Yet why is it that occasionally, when a better dressed person than usual comes into the shop, that he sends me out on some errand to a distant part of the town?"
+
+Tobias did not forget, too, that on more than one occasion he had come back quicker than he had been expected, and that he had caught Sweeney Todd in some little confusion, and seen the hat, the stick, or perhaps the umbrella of the last customer quietly waiting there, although the customer had gone; and even if the glaring improbability of a man leaving his hat behind him in a barber's shop was got over, why did he not come back for it? This was a circumstance which was entitled to all the weight which Tobias, during his mental cogitations, could give to it, and there could be but one possible explanation of a man not coming back for his hat, and that was that he had not the power to do so."This house will be searched," thought Tobias, "and all those things, which of course must have belonged to so many different people, will be found, and then they will be identified, and he will be required to say how he came by them, which, I think, will be a difficult task indeed for Sweeney Todd to accomplish. What a relief it will be to me, to be sure, when he is hanged, as I think he is tolerably sure to be!"
+
+"What a relief," muttered Sweeney Todd, as he slowly opened the door, unseen by Tobias--"what a relief it will be to me when this boy is in his grave, as he will be soon, or else I have forgotten all my moral learning, and turned chicken-hearted--neither of them very likely circumstances."<b>CHAPTER XVIII.</b>
+<b>THE MISADVENTURE OF TOBIAS.--THE MAD-HOUSE ON PECKHAM-RYE.</b>
+
+Sweeney Todd paused for a moment at the cupboard door, before he made up his mind as to whether he should pounce upon poor Tobias at once, or adopt a more creeping, cautious mode of operation. The latter course was by far the most congenial to his mind, and so he adopted it in a moment or so, and stole quietly from his place of concealment, and with so little noise, that Tobias could not have the least suspicion that any one was in the room but himself. Treading, as if each step might involve some serious consequences, he thus at length got completely behind the chair on which Tobias was sitting, and stood with folded arms, and such a hideous smile upon his face, that they together formed no inapt representation of the Mephistopheles of the German drama.
+
+"I shall at length," murmured Tobias, "be free from my present dreadful state of mind, by thus accusing Todd. He is a murderer--of that I have no doubt: it is but a duty of mine to stand forward as his accuser."
+
+Sweeney Todd stretched out his two brawny hands, and clutched Tobias by the head, which he turned round till the boy could see him, and then he said--
+
+"Indeed, Tobias; and did it never strike you that Todd was not so easily to be overcome as you would wish him, eh, Tobias?"
+
+The shock of this astonishing and sudden appearance of Sweeney Todd was so great,that for a few moments Tobias was deprived of all power of speech or action, and with his head so strangely twisted as to seem to threaten the destruction of his neck. He glared in the triumphant and malignant countenance of his persecutor, as he would into that of the arch enemy of all mankind, which probably he now began to think the barber really was. If one thing more than another was calculated to delight such a man as Todd, it certainly was to perceive what a dreadful effect his presence had upon Tobias, who remained for about a minute and a half in this state before he ventured upon uttering a shriek, which, however, when it did come, almost frightened Todd himself. It was one of those cries which can only come from a heart in its utmost agony--a cry which might have heralded the spirit to another world, and proclaimed, as it very nearly did the destruction of the intellect for ever. The barber staggered back a pace or two as he heard it, for it was too terrific even for him, but it was for a very brief period that it had that stunning effect upon him, and then, with a full consciousness of the danger to which it subjected him, he sprang upon poor Tobias as a tiger might be supposed to do upon a lamb, and clutched him by the throat, exclaiming--
+
+"Such another cry, and it is the last you ever live to utter, although it cover me with difficulties to escape the charge of killing you. Peace! I say, peace!"
+
+This exhortation was quite needless, for Tobias could not have uttered a word, had he been ever so much inclined to do so; the barber held his throat with such an iron clutch, as if it had been in a vise."Villain," growled Todd, "villain; so this is the way in which you have dared to disregard my injunctions. But no matter, no matter!--you shall have plenty of leisure to reflect upon what you have done for yourself. Fool! to think that you could cope with me--Sweeney Todd! Ha! ha!"
+
+He burst into a laugh, so much more hideous, than his ordinary efforts in that way, that, had Tobias heard it--which he did not, for his head had dropped upon his breast, and he had become insensible--it would have terrified him almost as much as Sweeney Todd's sudden appearance had done.
+
+"So," muttered the barber, "he has fainted, has he? Dull child, that is all the better. For once in a way, Tobias, I will carry you--not to oblige you, but to oblige myself. By all that's damnable, it was a lively thought that brought me here to-night, or else I might, by the dawn of the morning, have had some very troublesome inquiries made of me."
+
+He took Tobias up as easily as if he had been an infant, and strode from the chambers with him, leaving Mrs. Ragg to draw whatever inference she chose from his absence; but feeling convinced that she was too much under his controul, to take any steps of a nature to give him the smallest amount of uneasiness.
+
+"The woman," he muttered to himself, "is a double-distilled ass, and can be made to believe anything, so that I have no fear whatever of her. I dare not kill Tobias, because it is necessary, in case of the matter being at any other period mentioned, that his mother shall be in a position to swear that she saw him after this night alive and well."The barber strode through the Temple, carrying the boy, who seemed not at all in a hurry to recover from the nervous and partial state of suffocation into which he had fallen. As they passed through the gate opening into Fleet-street, the porter, who knew the barber well by sight, said--
+
+"Hilloa, Mr. Todd, is that you? Why, who are you carrying?"
+
+"Yes, it's I," said Todd, "and I am carrying my apprentice boy, Tobias Ragg, poor fellow."
+
+"Poor fellow!--why, what's the matter with him?"
+
+"I can hardly tell you, but he seems to me and to his mother to have gone out of his senses. Good night to you, good night. I'm looking for a coach."
+
+"Good night, Mr. Todd; I don't think you'll get one nearer than the market--what a kind thing now of him to carry the boy! It ain't every master would do that; but we must not judge of people by their looks, and even Sweeney Todd, though he has a face that one would not like to meet in a lonely place on a dark night, may be a kind-hearted man."
+
+Sweeney Todd walked rapidly down Fleet-street, towards old Fleet Market, which was then in all its glory, if that could be called glory which consisted in all sorts of filth, enough to produce a pestilence within the city of London.When there, he addressed a large bundle of great coats, in the middle of which was supposed to be a hackney coachman of the regular old school, and who was lounging over his vehicle, which was as long and lumbering as a city barge.
+
+"Jarvey," he said, "what will you take me to Peckham Rye for?"
+
+"Peckham Rye--you and the boy--there ain't any more of you waiting round the corner, are there--'cos, you know, that won't be fair?"
+
+"No, no, no."
+
+"Well, don't be in a passion, master. I only asked, you know, so you need not be put out about it; I will take you for twelve shillings, and that's what I call remarkably cheap, all things considered."
+
+"I'll give half the amount," said Sweeney Todd, "and you may consider yourself well paid."
+
+"Half, master?--that is cutting it low; but, howsomdever, I suppose I must put up with it, and take you. Get in, I must try and make it up by some better fare out of somebody else."
+
+The barber paid no heed to these renewed remonstrances of the coachman, but got into the vehicle, carrying Tobias with him, apparently with great care and consideration;but when the coach door closed, and no one was observing him, he flung him down among the straw that was at the bottom of the vehicle, and resting his immense feet upon him, he gave one of his disagreeable laughs, as he said--
+
+"Well, I think I have you now, Master Tobias; your troubles will soon be over. I am really very much afraid that you will die suddenly, and then there will be an end of you altogether, which will be a very sad thing, though I don't think I shall go into mourning, because I have an opinion that that only keeps alive the bitterness of regret, and that it's a great deal better done without, Master Tobias."
+
+The hackney coach swung about from side to side, in the proper approved manner of hackney coaches in the olden time, when they used to be called "bone setters," and to be thought wonderful if they made a progress of three miles and a half an hour. This was the sort of vehicle, then, in which poor Tobias, still perfectly insensible, was rumbled over Blackfriars-bridge, and so on towards Peckham, which Sweeney Todd had announced to be his place of destination. Going at the rate they did, it was nearly two hours before they arrived upon Peckham Rye; and any one acquainted with that locality is well aware that there are two roads, the one to the left, and the other to the right, both of which are pleasantly enough studded with villa residences. Sweeney Todd directed the coachman to take the road to the left, which he accordingly did, and they pursued it for a distance of about a mile and a half. It must not be supposed that this pleasant district of country was then in the state it is now, as regards inhabitants or cultivation.On the contrary, it was rather a wild spot, on which now and then a serious robbery had been committed; and which had witnessed some of the exploits of those highwaymen, whose adventures, in the present day, if one may judge from the public patronage they may receive, are viewed with such a great amount of interest. There was a lonely, large, rambling, old-looking house by the way side, on the left. A high wall surrounded it, which only allowed the topmost portion of it to be visible, and that presented great symptoms of decay, in the dilapidated character of the chimney-pot, and the general appearance of discomfort which pervaded it. There Sweeney Todd directed the coachman to stop, and when the vehicle, after swinging to and fro for several minutes, did indeed at last resolve itself into a state of repose, Sweeney Todd got out himself, and rang a bell, the handle of which hung invitingly at the gate. He had to wait several minutes before an answer was given to this summons, but at length a noise proceeded from within, as if several bars and bolts were being withdrawn; and presently the door was opened, and a huge, rough-looking man made his appearance on the threshold.
+
+"Well! what is it now?" he cried.
+
+"I have a patient for Mr. Fogg," said Sweeney Todd. "I want to see him immediately."
+
+"Oh! well, the more the merrier: it don't matter to me a bit. Have you got him with you--and is he tolerably quiet?""It's a mere boy, and he is not violently mad, but very decidedly so as regards what he says."
+
+"Oh! that's it, is it? He can say what he likes here, it can make no difference in the world to us. Bring him in--Mr. Fogg is in his own room."
+
+"I know the way: you take charge of the lad, and I will go and speak to Mr. Fogg about him. But stay, give the coachman these six shillings, and discharge him."
+
+The doorkeeper of the lunatic asylum, for such it was, went out to obey the injunctions of Sweeney Todd, while that rascally individual himself walked along a wide passage to a door which was at the further extremity of it.<b>CHAPTER XIX.</b>
+<b>THE MADHOUSE CELL.</b>
+
+When the porter of the madhouse went out to the coach, his first impression was, that the boy, who was said to be insane, was dead--for not even the jolting ride to Peckham had been sufficient to arouse him to a consciousness of how he was situated; and there he lay still at the bottom of the coach alike insensible to joy or sorrow.
+
+"Is he dead?" said the man to the coachman.
+
+"How should I know?" was the reply; "he may be or he may not, but I want to know how long I am to wait here for my fare?"
+
+"There is your money, be off with you. I can see now that the boy is all right, for he breathes, although it's after an odd fashion that he does so. I should rather think he has had a knock on the head, or something of that kind."
+
+As he spoke, he conveyed Tobias within the building, and the coachman, since he had got his six shillings, feeling that he had no further interest in the matter, drove away at once, and paid no more attention to it whatever. When Sweeney Todd reached the door at the end of the passage, he tapped at it with his knuckles, and a voice cried--
+
+"Who knocks--who knocks? Curses on you all! Who knocks?"Sweeney Todd did not make any verbal reply to this polite request, but opening the door he walked into the apartment, which is one that really deserves some description. It was a large room with a vaulted roof, and in the centre was a superior oaken table, at which sat a man considerably advanced in years, as was proclaimed by his grizzled locks that graced the sides of his head, but whose herculean frame and robust constitution had otherwise successfully resisted the assaults of time. A lamp swung from the ceiling, which had a shade over the top of it, so that it cast a tolerably bright glow upon the table below, which was covered with books and papers, as well as glasses and bottles of different kinds, which showed that the madhouse-keeper was, at all events, as far as himself was concerned, not at all indifferent to personal comfort. The walls, however, presented the most curious aspect, for they were hung with a variety of tools and implements, which would have puzzled any one not initiated into the matter even to guess at their uses. These were, however, in point of fact, specimens of the different kinds of machinery which were used for the purpose of coercing the unhappy persons whose evil destiny made them members of that establishment. Those were what is "called the good old times," when all sorts of abuses flourished in perfection, and when the unhappy insane were actually punished as if they were guilty of some great offence.Yes, and worse than that were they punished, for a criminal who might have injustice done to him by any who were in authority over him, could complain, and if he got hold of a person of higher power, his complaints might be listened to, but no one heeded what was said by the poor maniac, whose bitterest accusations of his keepers, let their conduct be what it might, was only listened to and set down as a further proof of his mental disorder. This was indeed a most awful and sad state of things, and, to the disgrace of this country, it is a social evil allowed until very late years to continue in full force. Mr. Fogg, the madhouse-keeper fixed his keen eyes from beneath his shaggy brows, upon Sweeney Todd, as the latter entered his apartment, and then he said--
+
+"Mr. Todd, I think, unless my memory deceives me."
+
+"The same," said the barber, making a hideous face, "I believe I am not easily forgotten."
+
+"True," said Mr. Fogg, as he reached a book, the edge of which was cut into a lot of little slips, on each of which was a capital letter, in the order of the alphabet--"true, you are not easily forgotten, Mr. Todd."
+
+He then opened the book at the letter T, and read from it:--
+
+"Mr. Sweeney Todd, Fleet-street, London, paid one year's keep and burial of Thomas Simkins, aged 15, found dead in his bed, after a residence in the asylum of 10 months and 4 days. I think, Mr. Todd, that was our last little transaction; what can I do now for you, sir?""I am rather unfortunate," said Todd, "with my boys. I have got another here, who has shown such decided symptoms of insanity, that it becomes absolutely necessary to place him under your care."
+
+"Indeed!--does he rave?"
+
+"Why, yes he does, and it's the most absurd nonsense in the world that he raves about; for, to hear him, one would really think that, instead of being one of the most humane of men, I was, in point of fact, an absolute murderer."
+
+"A murderer, Mr. Todd!"
+
+"Yes, a murderer--a murderer to all intents and purposes; could anything be more absurd than such an accusation?--I, that have the milk of human kindness flowing in every vein, and whose very appearance ought to be sufficient to convince anybody at once of my kindness of disposition."
+
+Sweeney Todd finished his speech by making such a hideous face, that the madhouse-keeper could not for the life of him tell what to say to it; and then there came one of those short, disagreeable laughs which Todd would at times utter, which, somehow or other, never appeared exactly to come from his mouth, but always made people look up at the walls and ceiling of the apartment in which they were, in great doubt as to whence the remarkable sound came.
+
+"For how long," said the madhouse-keeper, "do you think this malady will continue?""I will pay," said Sweeney Todd, as he leaned over the table, and looked in the face of his questioner, "I will pay for twelve months; but I don't think between you and I, that the case will last anything like so long--I think he will die suddenly."
+
+"I shouldn't wonder if he did. Some of our patients do die very suddenly, and, somehow or other, we never know exactly how it happens; but it must be some sort of fit, for they are found dead in the morning in their beds, and then we bury them privately and quietly, without troubling anybody about it at all, which is decidedly the best way, because it saves a great annoyance to friends and relations, as well as prevents any extra expense which otherwise might be foolishly gone to."
+
+"You are wonderfully correct and considerate," said Todd, "and it's no more than what I expected from you, or what any one might expect from a person of your great experience, knowledge, and acquirements. I must confess I am quite delighted to hear you talk in so elevated a strain."
+
+"Why," said Mr. Fogg, with a strange leer upon his face, "we are forced to make ourselves useful, like the rest of the community; and we could not expect people to send their mad friends and relatives here, unless we took good care that their ends and views were answered by so doing. We make no remarks, and we ask no questions. Those are the principles upon which we have conducted business so successfully and so long; those are the principles upon which we shall continue to conduct it, and to merit, we hope, the patronage of the British public.""Unquestionably--most unquestionably."
+
+"You may as well introduce me to your patient at once, Mr. Todd, for I suppose, by this time, he has been brought into this house."
+
+"Certainly, certainly--I shall have great pleasure in showing him to you."
+
+The madhouse-keeper rose, and so did Mr. Todd, and the former, pointing to the bottles and glasses on the table, said--
+
+"When this business is settled, we can have a friendly glass together."
+
+To this proposition Sweeney Todd assented with a nod, and then they both proceeded to what was called a reception-room in the asylum, and where poor Tobias had been conveyed and laid upon a table, when he showed slight symptoms of recovering from the state of insensibility into which he had fallen, and a man was sluicing water on his face by the assistance of a hearth broom occasionally dipped into a pailful of that fluid.
+
+"Quite young," said the madhouse-keeper, as he looked upon the pale and interesting face of Tobias.
+
+"Yes," said Sweeney Todd, "he is young--more's the pity--and, of course, we deeply regret his present situation.""Oh, of course, of course; but see, he opens his eyes, and will speak directly."
+
+"Rave, you mean, rave!" said Todd; "don't call it speaking, it is not entitled to the name. Hush! listen to him."
+
+"Where am I?" said Tobias, "where am I? Todd is a murderer--I denounce him."
+
+"You hear--you hear?" said Todd.
+
+"Mad indeed," said the keeper.
+
+"Oh, save me from him--save me from him!" said Tobias, fixing his eyes upon Mr. Fogg. "Save me from him; it is my life he seeks because I know his secrets. He is a murderer--and many a person comes into his shop, who never leaves it again in life, if at all."
+
+"You hear him?" said Todd. "Was there ever anybody so mad?"
+
+"Desperately mad," said the keeper. "Come, come, young fellow, we shall be under the necessity of putting you in a strait waistcoat if you go on in that way. We must do it, for there is no help in such cases if we don't."
+
+Todd slunk back into the dark of the apartment, so that he was not seen, and Tobias continued, in an imploring tone--"I do not know who you are, sir, or where I am; but let me beg of you to cause the house of Sweeney Todd, the barber, in Fleet-street, near St. Dunstan's church, to be searched, and you will find that he is a murderer. There are at least a hundred hats, quantities of walking sticks, umbrellas, watches, and rings, all belonging to unfortunate persons who, from time to time, have met with their deaths through him."
+
+"How uncommonly mad!" said Mr. Fogg.
+
+"No, no," said Tobias, "I am not mad. Why call me mad, when the truth or falsehood of what I say can be ascertained so easily? Search his house, and if those things be not found there, say that I am mad, and have but dreamed of them. I do not know how he kills the people. That is a great mystery to me yet; but that he does kill them, I have no doubt--I cannot have a doubt."
+
+"Watson!" cried the mad-house keeper. "Hilloa! here, Watson."
+
+"I am here, sir," said the man, who had been dashing water upon poor Tobias's face.
+
+"You will take this lad, Watson, as he seems extremely feverish and unsettled. You will take him and shave his head, Watson, and put a strait waistcoat upon him, and let him be put in one of the dark, damp cells. We must be careful of him, and too much light encourages delirium and fever.""Oh! no, no!" cried Tobias; "What have I done that I should be subjected to such cruel treatment? what have I done that I should be placed in a cell? If this be a madhouse, I am not mad. Oh! have mercy upon me!--have mercy upon me!"
+
+"You will give him nothing but bread and water, Watson; and the first symptom of his recovery, which will produce better treatment, will be his exonerating his master from what he has said about him; for he must be mad so long as he continues to accuse such a gentleman as Mr. Todd of such things; nobody but a mad man or a mad boy would think of it."
+
+"Then," said Tobias, "I shall continue mad; for if it be madness to know and aver that Sweeney Todd, the barber, of Fleet-street, is a murderer, mad am I, for I know it, and aver it. It is true--it is true."
+
+"Take him away, Watson, and do as I desired you. I begin to find that the boy is a very dangerous character, and more viciously mad than anybody we have had here for a considerable time."
+
+The man named Watson seized upon Tobias, who again uttered a shriek something similar to the one which had come from his lips when Sweeney Todd clutched hold of him in his mother's room. But they were used to such things in that madhouse, and cared little for them, so no one heeded the cry in the least; but poor Tobias was carried to the door half maddened in reality by the horrors that surrounded him. Just as he was being conveyed out, Sweeney Todd stepped up to him, and putting his mouth close to his ear, he whispered--"Ha! ha! Tobias! how do you feel now? Do you think Sweeney Todd will be hung, or will you die in the cell of a madhouse?"
+
+<b>CHAPTER XX.</b>
+<b>THE NEW COOK TO MRS. LOVETT GETS TIRED OF HIS SITUATION.</b>
+
+From what we have already had occasion to record about Mrs. Lovett's new cook, who ate so voraciously in the cellar, our readers will no doubt be induced to believe that he was a gentleman likely enough soon to be tired of his situation. To a starving man, and one who seemed completely abandoned even by hope, Lovett's bake-house, with an unlimited leave to eat as much as possible, must of course present itself in the most desirable and lively colours: and no wonder therefore, that, banishing all scruple, a man so placed, would take the situation, with very little inquiry. But people will tire of good things; and it is a remarkable well-authenticated fact that human nature is prone to be discontented. And those persons who are well acquainted with the human mind, and who know well how little value people set upon things which they possess, while those which they are pursuing, and which seem to be beyond their reach, assume the liveliest colours imaginable, adopt various means of turning this to account. Napoleon took good care that the meanest of his soldiers should see in perspective the possibility of grasping a marshal's baton. Confectioners at the present day, when they take a new apprentice, tell him to eat as much as he likes of those tempting tarts and sweetmeats, one or two of which before had been a most delicious treat. The soldier goes on fighting away, and never gets the marshal's baton. The confectioner's boy crams himself with Banbury cakes, gets dreadfully sick, and never touches one afterwards.And now, to revert to our friend in Mrs. Lovett's bakehouse. At first everything was delightful, and, by the aid of the machinery, he found that it was no difficult matter to keep up the supply of pies by really a very small amount of manual labour. And that labour also was such a labour of love, for the pies were delicious; there could be no mistake about that. He tasted them half cooked, he tasted them wholly, and he tasted them over-done; hot and cold; pork and veal with seasoning, and without seasoning, until at last he had had them in every possible way and shape; and when the fourth day came after his arrival in the cellar, he might have been sitting in rather a contemplative attitude with a pie before him. It was twelve o'clock: he had heard that sound come from the shop. Yes, it was twelve o'clock, and he had eaten nothing yet; but he kept his eye fixed upon the pie that lay untouched before him.
+
+"The pies are all very well," he said; "in fact, of course they are capital pies; and now that I see how they are made, and know that there is nothing wrong in them, I, of course, relish them more than ever; but one can't always live upon pies; it's quite impossible one can subsist upon pies from one end of the year to the other, if they were the finest pies the world ever saw, or ever will see. I don't say anything against the pies--I know they are made of the finest flour, the best possible butter, and that the meat, which comes from God knows where, is the most delicate looking and tender I ever ate in all my life."
+
+He stretched out his hand and broke a small portion of the crust from the pie that was before him, and he tried to eat it. He certainly did succeed; but it was a great effort; and when he had done, he shook his head, saying--"No, no!--d--n it! I cannot eat it, and that's the fact--one cannot be continually eating pies: it is out of the question, quite out the question; and all I have to remark is--d--n the pies! I really don't think I shall be able to let another one pass my lips."
+
+He rose and paced with rapid strides the place in which he was, and then suddenly he heard a noise; and, looking up, he saw a trap door in the roof open, and a sack of flour begin gradually to come down.
+
+"Hilloa, hilloa!" he cried, "Mrs. Lovett--Mrs. Lovett!"
+
+Down came the flour, and the trap door was closed.
+
+"Oh, I can't stand this sort of thing," he exclaimed; "I cannot be made into a mere machine for the manufacture of pies. I cannot and will not endure it--it is past all bearing."
+
+For the first time almost since his incarceration, for such it really was, he began to think that he would take an accurate survey of the place where this tempting manufacture was carried on. The fact was, his mind had been so intensely occupied during the time he had been there in providing merely for his physical wants, that he had scarcely had time to think or reason upon the probabilities of an uncomfortable termination of his career; but now, when he had really become quite surfeited with the pies, and tired of the darkness and gloom of the place, many unknown fears began to creep across him, and he really trembled, as he asked himself what was to be the end of all.It was with such a feeling as this that he now set about a careful and accurate survey of the place; and taking a little lamp in his hand, he resolved upon peering into every corner of it, with a hope that surely he should find some means by which he should effect an escape from what otherwise threatened to be an intolerable imprisonment. The vault in which the ovens were situated was the largest; and although a number of smaller ones communicated with it, containing the different mechanical contrivances for pie-making, he could not from any one of them discover an outlet. But it was to the vault where the meat was deposited upon stone shelves that he paid the greatest share of attention, for to that vault he felt convinced there must be some hidden and secret means of ingress, and therefore of egress likewise, or else how came the shelves always so well stocked with meat as they were? This vault was larger than any of the other subsidiary ones, and the roof was very high, and, come into it when he would, it always happened that he found meat enough upon the shelves, cut into large lumps, and sometimes into slices, to make a batch of pies with. When it got there, was not so much a mystery to him as how it got there; for, of course, as he must sleep sometimes, he concluded, naturally enough, that it was brought in by some means during the period that he devoted to repose. He stood in the centre of this vault with the lamp in his hand, and he turned slowly round, surveying the walls and the ceilings with the most critical and marked attention, but not the smallest appearance of an outlet was observable. In fact, the walls were so entirely filled up with the stone shelves, that there was no space left for a door; and as for the ceiling, it seemed perfectly entire.Then the floor was of earth; so that the idea of a trap door opening in it was out of the question, because there was no one on his side of it to place the earth again over it, and give it its compact and usual appearance.
+
+"This is most mysterious," he said; "and if ever I could have been brought to believe that any one had the assistance of the devil himself in conducting human affairs, I should say that by some means Mrs. Lovett had made it worth the while of that elderly individual to assist her; for, unless the meat gets here by some supernatural agency, I really cannot see how it can get here at all. And yet here it is--so fresh, and pure, and white-looking, although I never could tell the pork from the veal myself, for they seemed to me both alike."
+
+He now made a still narrower examination of this vault, but he gained nothing by that. He found that the walls at the back of the shelves were composed of flat pieces of stone, which, no doubt, were necessary for the support of the shelves themselves; but beyond that he made no further discovery, and he was about leaving the place, when he fancied he saw some writing on the inner side of the door. A closer inspection convinced him that there were a number of lines written with lead pencil, and after some difficulty he decyphered them as follows:--
+
+"Whatever unhappy wretch reads these lines may bid adieu to the world and all hope, for he is a doomed man! He will never emerge from these vaults with life, for there is a secret connected with them so awful and so hideous, that to write it makes one's blood curdle, and the flesh to creep upon my bones.That secret is this--and you may be assured, whoever is reading these lines, that I write the truth, and that it is as impossible to make that awful truth worse by any exaggeration, as it would be by a candle at mid-day to attempt to add any new lustre to the sunbeams."
+
+Here, most unfortunately, the writing broke off, and our friend, who, up to this point, had perused the lines with the most intense interest, felt great bitterness of disappointment, from the fact that enough should have been written to stimulate his curiosity to the highest possible point, but not enough to gratify it.
+
+"This is, indeed, most provoking," he exclaimed. "What can this most dreadful secret be, which it is impossible to exaggerate? I cannot, for a moment, divine to what it can allude."
+
+In vain he searched over the door for some more writing--there was none to be found, and from the long straggling pencil-mark, which followed the last word, it seemed as if he who had been then writing had been interrupted, and possibly met the fate that he had predicted, and was about to explain the reason of.
+
+"This is worse than no information. I had better have remained in ignorance than have received so indistinct a warning; but they shall not find me an easy victim, and, besides, what power on earth can force me to make pies unless I like, I should wish to know?"As he stepped out of the place in which the meat was kept into the large vault where the ovens were, he trod upon a piece of paper that was lying upon the ground, and which he was quite certain he had not observed before. It was fresh and white, and clean too, so that it could not have been long there, and he picked it up with some curiosity. That curiosity was, however, soon turned to dismay when he saw what was written upon it, which was to the following effect, and well calculated to produce a considerable amount of alarm in the breast of any one situated as he was, so entirely friendless and so entirely hopeless of any extraneous aid in those dismal vaults, which he began, with a shudder, to suspect would be his tomb:--
+
+"You are getting dissatisfied, and therefore it becomes necessary to explain to you your real position, which is simply this:--You are a prisoner, and were such from the first moment that you set foot where you now are; and you will find, unless you are resolved upon sacrificing your life, that your best plan will be to quietly give into the circumstances in which you find yourself placed. Without going into any argument or details upon the subject, it is sufficient to inform you that so long as you continue to make the pies, you will be safe; but if you refuse, then the first time you are caught asleep your throat will be cut."
+
+This document was so much to the purpose, and really had so little of verbosity about it, that it was extremely difficult to doubt its sincerity. It dropped from the half-paralysed hands of that man, who, in the depth of his distress, and urged on by great necessity, had accepted a situation that he would have given worlds to escape from, had he been possessed of them."Gracious Heaven!" he exclaimed, "and am I then indeed condemned to such a slavery? Is it possible, that even in the heart of London, I am a prisoner, and without the means of resisting the most frightful threats that are uttered against me? Surely, surely this must be all a dream! It is too terrific to be true!"
+
+He sat down upon that low stool where his predecessor had sat before, receiving his death-wound from the assassin who had glided in behind him, and dealt him that crashing blow, whose only mercy was that it had at once deprived the victim of existence. He could have wept bitterly, wept as he there sat, for he thought over days long passed away, of opportunities let go by with the heedless laugh of youth; he thought over all the chances and fortunes of his life, and now to find himself the miserable inhabitant of a cellar, condemned to a mean and troublesome employment, without even the liberty of leaving that, to starve if he chose, upon pain of death--a frightful death, which had been threatened him, was indeed torment! No wonder that at times he felt himself unnerved, and that a child might have conquered him, while at other moments such a feeling of despair would come across him, that he called aloud upon his enemies to make their appearance, and give him at least the chance of a struggle for his life.
+
+"If I am to die," he cried, "let me die with some weapon in my hand, as a brave man ought, and I will not complain, for there is little indeed in life now which should induce me to cling to it; but I will not be murdered in the dark."He sprang to his feet, and rushing up to the door, which opened from the house into the vaults, he made a violent and desperate effort to shake it. But such a contingency as this had surely been looked forward to and provided against, for the door was of amazing strength, and most effectually resisted all his efforts, so that the result of his endeavours was but to exhaust himself, and he staggered back, panting and despairing, to the seat he had so recently left. Then he heard a voice, and upon looking up he saw that the small square opening in the upper part of the door, through which he had been before addressed, was open, and a face there appeared, but it was not the face of Mrs. Lovett. On the contrary, it was a large and hideous male physiognomy, and the voice that came from it was croaking and harsh, sounding most unmusically upon the ears of the unfortunate man who was thus made a victim to Mrs. Lovett's pie popularity.
+
+"Continue at your work," said the voice, "or death will be your portion as soon as sleep overcomes you, and you sink exhausted to that repose which you will never awaken from, except to feel the pangs of death, and to be conscious that you are weltering in your blood. Continue at your work, and you will escape all this--neglect it, and your doom is sealed."
+
+"What have I done that I should be made such a victim of? Let me go, and I will swear never to divulge the fact that I have been in these vaults, so I cannot disclose any of their secrets, even if knew them.""Make pies," said the voice, "eat them, and be happy. How many a man would envy your position--withdrawn from all the struggles of existence, amply provided with board and lodging, and engaged in a pleasant and delightful occupation; it is astonishing how you can be dissatisfied!"
+
+Bang! went the little square orifice at the top of the door, and the voice was heard no more. The jeering mockery of those tones, however, still lingered upon the ear of the unhappy prisoner, and he clasped his head in his hands with a fearful impression upon his brain that he surely must be going mad.
+
+"He will drive me to insanity," he cried; "already I feel a sort of slumber stealing over me for want of exercise, and the confined air of these vaults hinder me from taking regular repose; but now, if I close an eye, I shall expect to find the assassin's knife at my throat."
+
+He sat for some time longer, and not even the dread he had of sleep could prevent a drowsiness creeping across his faculties, and this weariness would not be shaken off by any ordinary means, until at length he sprang to his feet, and shaking himself roughly, like one determined to be wide awake, he said to himself, mournfully--
+
+"I must do their bidding or die; hope may be a delusion here, but I cannot altogether abandon it, and not until its faintest image has departed from my breast can I lie down to sleep and say--Let death come in any shape it may, it is welcome."With a desperate and despairing energy he set about replenishing the furnaces of the oven, and, when he had got them all in a good state, he commenced manufacturing a batch of one hundred pies, which, when he had finished and placed upon the tray, and set the machine in motion which conducted them up to the shop, he considered to be a sort of price paid for his continued existence, and flinging himself upon the ground, he fell into a deep slumber.<b>CHAPTER XXI.</b>
+<b>THE NIGHT AT THE MADHOUSE.</b>
+
+When Sweeney Todd had, with such diabolical want of feeling, whispered the few words of mockery which we have recorded in Tobias's ear, when he was carried out of Mr. Fogg's reception-room to be taken to a cell, the villanous barber drew back and indulged in rather a longer laugh than usual.
+
+"Mr. Todd," said Fogg, "I find that you still retain your habit of merriment; but yours ain't the most comfortable laugh in the world, and we seldom hear anything equal to it, even from one of our cells."
+
+"No!" said Sweeney Todd, "I don't suppose you do, and for my part I never heard of a cell laughing yet."
+
+"Oh! you know what I mean, Mr. Todd, well enough."
+
+"That may be," said Todd, "but it would be just as well to say it for all that. I think, however, as I came in you said something about refreshment?"
+
+"I certainly did; and, if you will honour me by stepping back to my room, I think I can offer you, Mr. Todd, a glass of as nice wine as the king himself could put on his table, if he were any judge of that commodity, which I am inclined to think he is not.""What do you expect," said Sweeney Todd, "that such an idiot should be a judge of?--but I shall have great pleasure in tasting your wine, for I have no hesitation in saying that my work to-night has made me thirsty."
+
+At this moment a shriek was heard, and Sweeney Todd shrank away from the door.
+
+"Oh! it's nothing, it's nothing," said Mr. Fogg; "if you had resided here as long as I have, you would get accustomed to now and then hearing a slight noise. The worst of it is, when half a dozen of the mad fellows get shrieking against each other in the middle of the night. Then, I grant, it is a little annoying."
+
+"What do you do with them?"
+
+"We send in one of the keepers with the lash, and soon put a stop to that. We are forced to keep the upper hand of them, or else we should have no rest. Hark! do you not hear that fellow now?--he is generally pretty quiet, but he has taken it into his head to be outrageous to-day; but one of my men will soon put a stop to that. This way, Mr. Todd, if you please, and as we don't often meet, I think when we do we ought to have a social glass."
+
+Sweeney Todd made several horrible faces as he followed the madhouse-keeper, and he looked as if it would have given him quite as much pleasure, and no doubt it would, to brain that individual, as to drink his wine, although probably he would have preferred doing the latter process first, and executing the former afterwards, and at his leisure.They soon reached the room which was devoted to the use of Mr. Fogg and his friends, and which contained the many little curiosities in the way of madhouse discipline that were in that age considered indispensable in such establishments. Mr. Fogg moved away with his hands a great number of the books and papers which were on the table, so as to leave a vacant space, and then drawing the cork of a bottle, he filled himself a large glass of its contents, and invited Sweeney Todd to do the same, who was by no means slow in following his example. While these two villains are carousing, and caring nothing for the scenes of misery with which they are surrounded, poor Tobias, in conformity with the orders that had been issued with regard to him, was conveyed along a number of winding passages, and down several staircases, towards the cells of the establishment. In vain he struggled to get free from his captor--as well might a hare have struggled in the fangs of a wolf--nor were his cries at all heeded; although, now and then, the shrieks he uttered were terrible to hear, and enough to fill any one with dismay.
+
+"I am not mad," said he, "indeed I am not mad--let me go, and I will say nothing--not one word shall ever pass my lips regarding Mr. Todd--let me go, oh, let me go, and I will pray for you as long as I live."
+
+Mr. Watson whistled a lively tune.
+
+"If I promise--if I swear to tell nothing, Mr. Todd will not wish me kept here--all he wants is my silence, and I will take any oath he likes. Speak to him for me, I implore you, and let me go."Mr. Watson commenced the second part of his lively tune, and by that time he reached a door, which he unlocked, and then, setting down Tobias upon the threshold, he gave him a violent kick, which flung him down two steps on to the stone floor of a miserable cell, from the roof of which continual moisture was dripping, the only accommodation it possessed being a truss of damp straw flung into one corner.
+
+"There," said Mr. Watson, "my lad, you can stay there and make yourself comfortable till somebody comes to shave your head, and after that you will find yourself quite a gentleman."
+
+"Mercy! mercy--have mercy upon me!"
+
+"Mercy!--what the devil do you mean by mercy? Well, that's a good joke; but I can tell you, you have come to the wrong shop for that; we don't keep it in stock here, and if we wanted ever so little of it, we should have to go somewhere else for it."
+
+Mr. Watson laughed so much at his own joke, that he felt quite amiable, and told Tobias that if he were perfectly quiet, and said "thank you" for everything, he wouldn't put him on the strait waistcoat, although Mr. Fogg had ordered it; "for," added Mr. Watson, "so far as that goes, I don't care a straw what Mr. Fogg says, or what he does; he can't do without me, damn him! because I know too many of his secrets."Tobias made no answer to this promise, but he lay upon his back on the floor of the cell wringing his hands despairingly, and feeling that almost already the very atmosphere of that place seemed pregnant with insanity, and giving himself up for lost entirely.
+
+"I shall never--never," he said, "look upon the bright sky and the green fields again. I shall be murdered here, because I know too much; what can save me now? Oh, what an evil chance it was that brought me back again to my mother, when I ought to have been far, far away by this time, instead of being, as I know I am, condemned to death in this frightful place. Despair seizes upon me! What noise is that--a shriek? Yes, yes, there is some other blighted heart beside mine in this dreadful house. Oh, Heaven! what will become of me? I feel already stifled and sick, and faint with the air of this dreadful cell. Help, help, help! have mercy upon me, and I will do anything, promise anything, swear anything."
+
+If poor Tobias had uttered his complaints on the most desolate shore that ever a shipwrecked mariner was cast upon, they could not have been more unheeded than they were in that house of terror. He screamed and shrieked for aid. He called upon all the friends he had ever known in early life, and at that moment he seemed to remember the name of every one who had ever uttered a kind word to him; and to those persons who, alas! could not hear him, but were far enough removed away from his cries, he called for aid in that hour of his deep distress. At length, faint, wearied and exhausted, he lay a mere living wreck in that damp, unwholesome cell, and felt almost willing that death should come and relieve him, at least from the pang of constantly expecting it!His cries, however, had had the effect of summoning up all the wild spirits in that building; and, as he now lay in the quiet of absolute exhaustion, he heard from far and near smothered cries and shrieks and groans, such as one might expect would fill the air of the infernal regions with dismal echoes. A cold and clammy perspiration broke out upon him, as these sounds each moment more plainly fell upon his ear, and as he gazed upon the profound darkness of the cell, his excited fancy began to people it with strange unearthly beings, and he could suppose that he saw hideous faces grinning at him, and huge mis-shapen creatures crawling on the walls, and floating in the damp, pestiferous atmosphere of the wretched cell. In vain he covered his eyes with his hands; those creatures of his imagination were not to be shut out from the mind, and he saw them, if possible, more vividly than before, and presenting themselves in more frightfully tangible shapes. Truly, if such visions should continue to haunt him, poor Tobias was likely enough to follow the fate of many others who had been placed in that establishment perfectly sane, but in a short time exhibited in it as raving lunatics.
+
+* * * * *
+
+"A nice clear cool glass of wine," said Sweeney Todd, as he held up his glass between him and the light, "and pleasant drinking; so soft and mild in the mouth, and yet gliding down the throat with a pleasant strength of flavour!"
+
+"Yes," said Mr. Fogg, "it might be worse. You see some patients, who are low and melancholy mad, require stimulants, and their friends send them wine. This is some that was so sent.""Then you don't trouble the patients with it?"
+
+"What! give a madman wine, while I am here in my senses to drink it? Oh, dear no! that won't do on any account."
+
+"I should certainly, Mr. Fogg, not expect such an act of indiscretion from you, knowing you as I do to be quite a man of the world."
+
+"Thank you for the compliment. This wine, now, was sent for an old gentleman who had turned so melancholy, that he not only would not take food enough to keep life and soul together, but he really terrified his friends so by threatening suicide that they sent him here for a few months; and, as stimulants were recommended for him, they sent this wine, you see; but I stimulated him without it quite as well, for I drink the wine myself and give him an infernal good kick or two every day, and that stimulates him, for it puts him in such a devil of a passion that I am quite sure he doesn't want any wine."
+
+"A good plan," said Sweeney Todd, "but I wonder you don't contrive that your own private room should be free from the annoyance of hearing such sounds as those that have been coming upon my ears for the last five or ten minutes."
+
+"It's impossible; you cannot get out of the way if you live in the house at all; and you see, as regards these mad fellows, they are quite like a pack of wolves, and when once one of them begins howling and shouting, the others are sure to chime in, in full chorus, and make no end of disturbance till we stop them, as I have already told you we do, with a strong hand.""While I think of it," said Sweeney Todd, as he drew from his pocket a leathern bag, "while I think of it, I may as well pay you the year's money for the lad I have now brought you; you see I have not forgot the excellent rule you have of being paid in advance. There is the amount."
+
+"Ah, Mr. Todd," said the madhouse-keeper as he counted the money, and then placed it in his pocket, "it's a pleasure to do business with a thorough business man like yourself. The bottle stands with you, Mr. Todd, and I beg you will not spare it. Do you know, Mr. Todd, this is a line of life which I have often thought would have suited you; I am certain you have a genius for such things."
+
+"Not equal to you," said Todd; "but as I am fond, certainly, of what is strange and out of the way, some of the scenes and characters you come across would, I have no doubt, be highly entertaining to me."
+
+"Scenes and characters--I believe you! During the course of a business like ours, we come across all sorts of strange things; and if I choose to do it, which of course I don't, I could tell a few tales which would make some people shake in their shoes; but I have no right to tell them, for I have been paid, and what the deuce is it to me?"
+
+"Oh, nothing, of course nothing. But just while we are sipping our wine, now, couldn't you tell me something that would not be betraying anybody's confidence?""I could, I could; I don't mean to say that I could not, and I don't care much if I do to you."
+
+<b>CHAPTER XXII.</b>
+<b>MR. FOGG'S STORY AT THE MADHOUSE TO SWEENEY TODD.</b>
+
+After a short pause, during which Mr. Fogg appeared to be referring to the cells of memory, with the view of being refreshed in a matter that had long since been a by-gone, but which he desired to place as clearly before his listener as he could, in fact, to make, if possible, the relation real to him, and to omit nothing during its progress that should be told; or possibly, that amiable individual was engaged in considering if there were any salient point that might criminate himself, or give even a friend a handle to make use of against him; but apparently there was nothing of the kind, for, after a loud "hem!" he filled the glasses, saying--
+
+"Well, now, as you are a friend, I don't mind telling you how we do business here--things that have been done, you know, by others; but I have had my share as well as others--I have known a thing or two, Mr. Todd, and I may say I have done a thing or two, too."
+
+"Well, we must live and let live," said Sweeney Todd, "there's no going against that, you know; if all I have done could speak, why--but no matter, I am listening to you--however, if deeds could speak, one or two clever things would come out rather, I think.""Ay, 'tis well they don't," said Mr. Fogg, with much solemnity, "if they did they would be constantly speaking at times when it would be very inconvenient to hear them, and dangerous besides."
+
+"So it would," said Sweeney, "a still tongue makes a wise head--but then the silent system would bring no grist to the mill, and we must speak when we know we are right and among friends."
+
+"Of course," said Fogg, "of course, that's the right use of speech, and one may as well be without it, as to have it and not use it; but come--drink, and fill again before I begin, and then to my tale. But we may as well have a sentiment. Sentiment, you know," continued Fogg, "is the very soul of friendship. What do you say to 'The heart that can feel for another?'"
+
+"With all my soul," said Sweeney Todd; "it's very touching--very touching, indeed. 'The heart that can feel for another!'" and as he spoke, he emptied the glass, which he pushed towards Fogg to refill.
+
+"Well," said Fogg, as he complied, "we have had the sentiment, we may as well have the exemplification."
+
+"Ha! ha! ha!" said Todd, "very good, very good indeed; pray go on, that will do capitally."
+
+"I may as well tell you the whole matter, as it occurred; I will then let you know all I know, and in the same manner.None of the parties are now living, or, at least, they are not in this country, which is just the same thing, so far as I am concerned."
+
+"Then that is an affair settled and done with," remarked Sweeney Todd, parenthetically.
+
+"Yes, quite.--Well, it was one night--such a one as this, and pretty well about the same hour, perhaps somewhat earlier than this. However, it doesn't signify a straw about the hour, but it was quite night, a dark and wet night too, when a knock came at the street-door--a sharp double knock--it was. I was sitting alone, as I might have been now, drinking a glass or two of wine; I was startled, for I was thinking about an affair I had on hand at that very moment, of which there was a little stir. However, I went to the door, and peeped through a grating that I had there, and saw only a man; he had drawn his horse inside the gate, and secured him. He wore a large Whitney riding-coat, with a nap that would have thrown off a deluge. I fancied, or thought I could tell, that he meant no mischief; so I opened the door at once and saw a tall, gentlemanly man, but wrapped up so, that you could not tell who or what he was; but my eyes are sharp, you know, Mr. Todd. We haven't seen so much of the world without learning to distinguish what kind of person one has to deal with?"
+
+"I should think not," said Todd.
+
+"'Well,' said I, 'what is your pleasure, sir?'
+
+"The stranger paused a moment or two before he made any reply to me."'Is your name Fogg?' he said.
+
+"'Yes, it is,' said I; 'my name is Fogg--what is your pleasure with me, sir?'
+
+"'Why,' said he, after another pause, during which he fixed his keen eye very hard upon me--'why, I wish to have a little private conversation with you, if you can spare so much time, upon a very important matter which I have in hand.'
+
+"'Walk in, sir,' said I, as soon as I heard what it was he wanted, and he followed me in. 'It is a very unpleasant night, and it's coming on to rain harder. I think it is fortunate you have got housed.'
+
+"'Yes,' he replied; 'but I am tolerably well protected against the rain, at all events.'
+
+"He came into this very parlour, and took a seat before the fire, with his back to the light, so that I couldn't see his face very well. However, I was determined that I would be satisfied in these particulars, and so, when he had taken off his hat, I stirred up the fire, and had a blaze that illuminated the whole room, and which showed me the sharp, thin visage of my visitor, who was a dark man, with keen grey eyes that were very restless--'
+
+"'Will you have a glass of wine?' said I; 'the night is cold as well as wet.'"'Yes, I will,' he replied; 'I am cold with riding. You have a lonely place about here; your house, I see, stands alone too. You have not many neighbours.'
+
+"'No, sir,' said I, 'we hadn't need, for when any of the poor things set to screaming, it would make them feel very uncomfortable indeed.'
+
+"'So it would, there is an advantage in that to yourself as well as to them. It would be disagreeable to you to know that you were disturbing your neighbours, and they would feel equally uncomfortable in being disturbed, and yet you must do your duty.'
+
+"'Ay! to be sure,' said I; 'I must do my duty, and people won't pay me for letting madmen go, though they may for keeping them; and besides that, I think some on 'em would get their throats cut, if I did.'
+
+"'You are right--quite right,' said he; 'I am glad to find you of that mind, for I came to you concerning an affair that requires some delicacy about it, since it is a female patient.'
+
+"'Ah!' said I, 'I always pay great attention, very great attention; and I don't recollect a case, however violent it may be, but what I can overcome. I always make 'em acknowledge me, and there's much art in that.'
+
+"'To be sure, there must be.'"'And, moreover, they wouldn't so soon crouch and shrink away from me, and do what I tell 'em, if I did not treat them with kindness, that is, as far as is consistent with one's duty, for I mustn't forget that.'
+
+"'Exactly,' he replied; 'those are my sentiments exactly.'
+
+"'And now, sir, will you inform me in what way I can serve you?'
+
+"'Why I have a relative, a female relative, who is unhappily affected with a brain disease; we have tried all we can do, without any effect. Do what we will, it comes to the same thing in the end.'
+
+"'Ah!' said I; 'poor thing--what a dreadful thing it must be to you or any of her friends, who have the charge of her, to see her day by day an incurable maniac. Why, it is just as bad as when a friend or relative is dead, and you are obliged to have the dead body constantly in your house, and before your eyes.'
+
+"'Exactly, my friend,' said the stranger; 'exactly, you are a man of discernment, Mr. Fogg. I see, that is truly the state of the case. You may then guess at the state of our feelings, when we have to part with one beloved by us.'
+
+"As he spoke, he turned right round, and faced me, looking very hard into my face."'Well,' said I, 'your's is a hard case; but to have one afflicted about you in the manner the young lady is, is truly distressing; it's like having a perpetual lumbago in your back.'
+
+"'Exactly,' said the stranger. 'I tell you what, you are the very man to do this thing for me.'
+
+"'I am sure of it,' said I.
+
+"'Then we understand each other, eh?' said the stranger. 'I must say I like your appearance, it is not often such people as you and I meet.'
+
+"'I hope it will be to our mutual advantage,' said I, 'because such people don't meet every day, and we oughtn't to meet to no purpose; so, in anything delicate and confidential you may command me.'
+
+"'I see, you are a clever man,' said he; 'well, well, I must pay you in proportion to your talents. How do you do business--by the job, or by the year?'
+
+"'Well,' said I, 'where it's a matter of some nicety, it may be both--but it entirely depends upon circumstances. I had better know exactly what it is I have to do.'
+
+"'Why, you see, it is a young female about eighteen, and she is somewhat troublesome--takes to screaming, and all that kind of thing.I want her taken care of, though you must be very careful she neither runs away nor suddenly commits any mischief, as her madness does not appear to me to have any particular form, and would at times completely deceive the best of us, and then suddenly she will break out violently, and snap or fly at anybody with her teeth.'
+
+"'Is she so bad as that?'
+
+"'Yes, quite. So it is quite impossible to keep her at home; and I expect it will be a devil of a job to get her here. I tell you what you shall have; I'll pay you your yearly charge for board and care, and I'll give you a ten-pound note for your trouble, if you'll come and assist me in securing her, and bringing her down. It will take some trouble.'
+
+"'Very well,' said I, 'that will do, but you must double the note and make it twenty, if you please; it will cost something to come and do the thing well.'
+
+"'I see--very well--we won't disagree about a ten-pound note; but you'll know how to dispose of her if she comes here.'
+
+"'Oh, yes--very healthy place.'
+
+"'But I don't know that health is a very great blessing to any one under such circumstances; indeed, who could regret an early grave to one so severely afflicted?'"'Nobody ought,' said I; 'if they knew what mad people went through, they would not, I'm sure.'
+
+"'That is very true again, but the fact is, they don't, and they only look at one side of the picture; for my own part, I think that it ought to be so ordained, that when people are so afflicted, nature ought to sink under the affliction, and so insensibly to revert to the former state of nonentity.'
+
+"'Well,' said I, 'that may be as you please, I don't understand all that; but I tell you what, I hope if she were to die much sooner than you expect, you would not think it too much trouble to afford me some compensation for my loss.'
+
+"'Oh dear no! and to show you that I shall entertain no such illiberal feeling, I will give you two hundred pounds, when the certificate of her burial can be produced. You understand me?'
+
+"'Certainly.'
+
+"'Her death will be of little value to me, without the legal proof,' said the stranger; 'so she must die at her own pleasure, or live while she can.'
+
+"'Certainly,' said I.
+
+"'But what terrifies me,' continued the stranger, 'most is, her terror-stricken countenance, always staring us in our faces; and it arose from her being terrified;indeed I think if she were thoroughly frightened, she would fall dead. I am sure, if any wickedly-disposed person were to do so, death would no doubt result.'
+
+"'Ah!' said I, 'it would be a bad job; now tell me where I am to see you, and how about the particulars.'
+
+"'Oh, I will tell you; now, can you be at the corner of Grosvenor-street, near Park-lane?'
+
+"'Yes,' I replied, 'I will.'
+
+"'With a coach too. I wish you to have a coach, and one that you can depend upon, because there may be a little noise. I will try to avoid it, if possible, but we cannot always do what we desire; but you must have good horses.'
+
+"'Now, I tell you what is my plan; that is, if you don't mind the damages, if any happen.'
+
+"'What are they?'
+
+"'This:--suppose a horse falls, and is hurt, or an upset--would you stand the racket?'
+
+"'I would, of course.'"'Then listen to me; I have had more of these affairs than you have, no doubt. Well, then, I have had experience, which you have not. Now, I'll get a trotting-horse, and a covered cart or chaise--one that will go along well at ten miles an hour, and no mistake about it.'
+
+"'But will it hold enough?'
+
+"'Yes, four or five or six, and, upon a push, I have known eight to cram in it; but then you know we were not particular how we were placed; but still it will hold as many as a hackney coach, only not so conveniently; but then we have nobody in the affair to drive us, and there can't be too few.'
+
+"'Well, that is perhaps best; but have you a man on whom you can depend?--because if you have, why, I would not be in the affair at all.'
+
+"'You must,' said I; 'in the first place, I can depend upon one man best; him I must leave here to mind the place; so if you can manage the girl, I will drive, and I know the road as well as the way to my own mouth--I would rather have as few in it as possible.'
+
+"'Your precaution is very good, and I think I will try and so manage it, that there shall be only you and I acquainted with the transaction; at all events, should it become necessary, it will be time enough to let some other person into the secret at the moment their services are required. That, I think, will be the best arrangement that I can come to--what do you say?'"'That will do very well--when we get her here, and when I have seen her a few days, I can tell what to do with her.'
+
+"'Exactly; and now, good night--there is the money I promised, and now again, good night! I shall see you at the appointed time.'
+
+"'You will,' said I--'one glass more, it will do you good, and keep the rain out.'
+
+"He took off a glass of wine, and then pulled his hat over his face, and left the house. It was a dark, wet night, and the wind blew, and we heard the sound of his horse's hoofs for some time; however, I shut the door and went in, thinking over in my own mind what would be the gain of my own exertions.
+
+* * * * *
+
+"Well, at the appointed hour, I borrowed a chaise cart, a covered one, with what you call a head to it, and I trotted to town in it. At the appointed time I was at the corner of Grosvenor-street; it was late, and yet I waited there an hour or more before I saw any one. I walked into a little house to get a glass of spirits to keep up the warmth of the body, and when I came out again, I saw some one standing at my horse's head. I immediately went up.
+
+"'Oh, you are here,' he said."'Yes I am,' said I, 'I have been here the Lord knows how long. Are you ready?'
+
+"'Yes, I am; come,' said he, as he got into the cart--'come to the place I shall tell you--I shall only get her into the cart, and you must do the rest.'
+
+"'You'll come back with me; I shall want help on the road, and I have no one with me.'
+
+"'Yes, I will come with you, and manage the girl, but you must drive, and take all the casualties of the road, for I shall have enough to do to hold her and keep her from screaming when she does awake.'
+
+"'What! is she asleep?'
+
+"'I have given her a small dose of laudanum, which will cause her to sleep comfortably for an hour or two, but the cold air and disturbance will most probably awaken her at first.'
+
+"'Throw something over her, and keep her warm, and have something ready to thrust into her mouth, in case she takes to screaming, and then you are all right.'
+
+"'Good,' he replied: 'now wait here. I am going to yon house. When I have entered, and disappeared several minutes, you may quietly drive up, and take your station on the other side of the lamp-post.'"As he spoke he got out, and walked to a large house, which he entered softly, and left the door ajar; and after he had gone in, I walked the horse quietly up to the lamp-post, and as I placed it, the horse and front of the cart were completely in the dark. I had scarcely got up to the spot, when the door opened, and he looked out to see if anybody was passing. I gave him the word, and out he came, leaving the door, and came with what looked like a bundle of clothes, but which was the young girl and some clothes he had brought with him.
+
+"'Give her to me,' said I, 'and jump up and take the reins; go on as quickly as you can.'
+
+"I took the girl into my arms, and handed her into the back part of the chaise, while he jumped up, and drove away. I placed the young girl in an easy position upon some hay, and stuffed the clothes under her, so as to prevent the jolting from hurting her.
+
+"'Well,' said I, 'you may as well come back here, and sit beside her: she is all right. You seem rather in a stew.'
+
+"'Well, I have run with her in my arms, and altogether it has flurried me.'
+
+"'You had better have some brandy,' said I.
+
+"'No, no! don't stop.'"'Pooh, pooh!' I replied, pulling up, 'here is the last house we shall come to, to have a good stiff tumbler of hot brandy and water. Come, have you any change--about a sovereign will do, because I shall want change on the road? Come, be quick.'
+
+"He handed me a sovereign, saying--
+
+"'Don't you think it's dangerous to stop--we may be watched, or she may wake.'
+
+"'Not a bit of it. She snores too loudly to wake just now, and you'll faint without the cordial; so keep a good look-out upon the wench, and you will recover your nerves again.'
+
+"As I spoke I jumped out, and got two glasses of brandy and water, hot, strong, and sweet, I had in about two minutes made, out of the house.
+
+"'Here,' said I, 'drink--drink it all up--it will make your eyes start out of your head.'
+
+"I spoke the truth, for what with my recommendations, and his nervousness and haste, he drank nearly half of it at a gulp.
+
+"I shall never forget his countenance. Ha! ha! ha! I can't keep my mirth to myself. Just imagine the girl inside a covered cart, all dark, so dark that you could hardly see the outline of the shadow of a man, and then imagine, if you can, a pair of keen eyes, that shone in the dark like cat's eyes,suddenly give out a flash of light, and then turn round in their sockets, showing the whites awfully, and then listen to the fall of the glass, and see him grasp his throat with one hand, and thrust the other hand into his stomach. There was a queer kind of voice came from his throat, and then something like a curse and a groan escaped him.
+
+"'Damn it,' said I, 'what is the matter now?--you've upset all the liquor--you are very nervous--you had better have another dose.'
+
+"'No more--no more,' he said faintly and huskily, 'no more--for God's sake no more. I am almost choked--my throat is scalded, and my entrails on fire!'
+
+"'I told you it was hot,' said I.
+
+"'Yes, hot, boiling hot--go on. I'm mad with pain--push on.'
+
+"'Will you have any water, or anything to cool your throat?' said I.
+
+"'No, no--go on.'
+
+"'Yes,' said I, 'but the brandy and water is hot; however, it's going down very fast now--very fast indeed, here is the last mouthful;' and as I said so, I gulped it down, returned with the one glass, and then paid for the damage.
+
+"This did not occupy five minutes, and away we came along the road at a devil of a pace, and we were all right enough;my friend behind me got over his scald, though he had a very sore gullet, and his intestines were in a very uncomfortable state; but he was better. Away we rattled, the ground rattling to the horse's hoofs and the wheels of the vehicle, the young girl still remaining in the same state of insensibility in which she had first been brought out. No doubt she had taken a stronger dose of the opium than she was willing to admit. That was nothing to me, but made it all the better, because she gave the less trouble, and made it safer. We got here easy enough, drove slap up to the door, which was opened in an instant, jumped out, took the girl, and carried her in. When once these doors are shut upon any one, they may rest assured that it is quite a settled thing, and they don't get out very easy, save in a wooden surtout; indeed, I never lost a boarder by any other means; we always keep one connection, and they are usually so well satisfied, that they never take any one away from us. Well, well! I carried her indoors, and left her in a room by herself on a bed. She was a nice girl--a handsome girl, I suppose people would call her, and had a low, sweet, and plaintive voice. But enough of this.
+
+"'She's all right,' said I, when I returned to this room, 'It's all right--I have left her.'
+
+"'She isn't dead,' he inquired, with much terror.
+
+"'Oh! no, no! she is only asleep, and has not woke up yet from the effects of the laudanum. Will you now give me one year's pay in advance?'"'Yes,' he replied, as he handed the money, and the remainder of the bonds. 'Now, how am I to do about getting back to London to-night?'
+
+"'You had better remain here.'
+
+"'Oh, no! I should go mad too, if I were to remain here; I must leave here soon.'
+
+"'Well, will you go to the village inn?'
+
+"'How far is that off?'
+
+"'About a mile--you'll reach it easy enough; I'll drive you over for the matter of that, and leave you there. I shall take the cart there.'
+
+"'Very well, let it be so; I will go. Well, well, I am glad it is all over, and the sooner it is over for ever, the better. I am truly sorry for her, but it cannot be helped. It will kill her, I have no doubt; but that is all the better: she will escape the misery consequent upon her departure, and release us from a weight of care.'
+
+"'So it will,' said I 'but come, we must go at once, if going you are.'
+
+"'Yes, yes,' he said hurriedly."'Well then, come along; the horse is not yet unharnessed, and if we do not make haste, we shall be too late to obtain a lodging for the night.'
+
+"'That is very good,' he said, somewhat wildly: 'I am quite ready--quite.'
+
+"We left the house, and trotted off to the inn at a good rate, where we arrived in about ten minutes or less, and then I put up the horse, and saw him to the inn, and came back as quick as I could on foot. 'Well, well,' I thought, 'this will do, I have had a good day of it--paid well for business, and haven't wanted for sport on the road.'
+
+"Well, I came to the conclusion that if the whole affair was to speedily end, it would be more in my pocket than if she were living, and she would be far happier in heaven than here, Mr. Todd."
+
+"Undoubtedly," said Mr. Sweeney Todd, "undoubtedly, that is a very just observation of yours."
+
+"Well, then, I set to work to find out how the matter could be managed, and I watched her until she awoke. She looked around her, and seemed much surprised and confused, and did not seem to understand her position, while I remained at hand."
+
+"She sighed deeply, and put her hand to her head, and appeared for a time to be quite unable to comprehend what had happened to her, or where she was.I sent some tea to her, as I was not prepared to execute my purpose, and she seemed to recover, and asked some questions, but my man was dumb for the occasion, and would not speak, and the result was, she was very much frightened. I left her so for a week or two, and then, one day, I went into her cell. She had greatly altered in her appearance, and looked very pale.
+
+"'Well,' said I, 'how do you find yourself, now?'
+
+"She looked up into my face, and shuddered; but she said in a calm voice, looking round her--
+
+"'Where am I?'
+
+"'You are here!' said I, 'and you'll be very comfortable if you only take on kindly, but you will have a strait waistcoat put on you if you do not.'
+
+"'Good God!' she exclaimed, clasping her hands, 'have they put me here--in--in--'
+
+"She could not finish the sentence, and I supplied the word which she did not utter, and then she screamed loudly--
+
+"'Come,' said I, 'this will never do; you must learn to be quiet, or you'll have fearful consequences.'"'Oh mercy, mercy! I will do no wrong! What have I done that I should be brought here?--what have I done? They may take all I have if they will let me live in freedom. I care not where or how poor I may be. Oh, Henry! Henry!--if you knew where I was, would you not fly to my rescue? Yes, you would, you would!'
+
+"'Ah,' said I, 'there is no Henry here, and you must be content to do without one.'
+
+"'I could not have believed that my brother would have acted such a base part. I did not think him wicked, although I knew him to be selfish, mean, and stern, yet I did not think he intended such wickedness; but he thinks to rob me of all my property; yes, that is the object he has in sending me here.'
+
+"'No doubt,' said I.
+
+"'Shall I ever get out?' she inquired, in a pitiful tone; 'do not say my life is to be spent here!'
+
+"'Indeed it is,' said I; 'while he lives, you will never leave these walls.'
+
+"'He shall not attain his end, for I have deeds about me that he will never be able to obtain; indeed, he may kill me, but he cannot benefit by my death.'
+
+"'Well,' said I, 'it serves him right. And how did you manage that matter? how did you contrive to get the deeds away?'

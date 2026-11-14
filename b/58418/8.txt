@@ -1,0 +1,295 @@
+HOLB1	58418	8	640	6	646	150
+1	Introduction
+5	I. Cicero Attico Sal.
+7	I. Cicero To Atticus, Greeting.
+14	II. Cicero To Atticus, Greeting.
+15	III. Cicero To Atticus, Greeting.
+16	IV. Cicero Attico Sal.
+18	IV. Cicero To Atticus, Greeting.
+20	V. Cicero Attico Sal.
+22	V. Cicero To Atticus, Greeting.
+25	VI. Cicero Attico Sal.
+27	VI. Cicero To Atticus, Greeting.
+28	VII. Cicero Attico Sal.
+30	VIII. Cicero Attico Sal.
+31	VIII. Cicero To Atticus, Greeting.
+32	IX. Cicero Attico Sal.
+34	IX. Cicero To Atticus, Greeting.
+35	X. Cicero To Atticus, Greeting.
+38	XI. Cicero Attico Sal.
+39	XI. Cicero To Atticus, Greeting.
+41	XII. Cicero Attico Sal.
+42	XII. Cicero To Atticus, Greeting.
+45	XIII. Cicero Attico Sal.
+47	XIII. Cicero To Atticus, Greeting.
+53	XIV. Cicero Attico Sal.
+54	XIV. Cicero To Atticus, Greeting.
+62	XV. Cicero Attico Sal.
+63	XV. Cicero To Atticus, Greeting.
+64	XVI. Cicero Attico Sal.
+65	XVI. Cicero To Atticus, Greeting.
+81	XVII. Cicero Attico Sal.
+83	XVII. Cicero To Atticus, Greeting.
+92	XVIII. Cicero Attico Sal.
+94	XVIII. Cicero To Atticus, Greeting.
+101	XIX. Cicero Attico Sal.
+103	XIX. Cicero To Atticus, Greeting.
+112	XX. Cicero Attico Sal.
+114	XX. Cicero To Atticus, Greeting.
+120	I. Cicero Attico Sal.
+121	I. Cicero To Atticus, Greeting.
+132	II. Cicero Attico Sal.
+134	II. Cicero To Atticus, Greeting.
+135	III. Cicero Attico Sal.
+136	III. Cicero To Atticus, Greeting.
+140	IV. Cicero Attico Sal.
+141	IV. Cicero To Atticus, Greeting.
+143	V. Cicero Attico Sal.
+144	V. Cicero To Atticus, Greeting.
+148	VI. Cicero Attico Sal.
+149	VI. Cicero To Atticus, Greeting.
+151	VII. Cicero Attico Sal.
+153	VII. Cicero To Atticus, Greeting.
+157	VIII. Cicero Attico Sal.
+158	VIII. Cicero To Atticus, Greeting.
+160	IX. Ccicero Attico Sal.
+161	IX. Cicero To Atticus, Greeting.
+165	X. Cicero Attico Sal.
+167	XI. Cicero Attico Sal.
+168	XI. Cicero To Atticus, Greeting.
+169	XII. Cicero Attico Sal.
+170	XII. Cicero To Atticus, Greeting.
+172	XIII. Cicero Attico Sal.
+174	XIII. Cicero To Atticus, Greeting.
+175	XIV. Cicero Attico Sal.
+176	XIV. Cicero To Atticus, Greeting.
+178	XV. Cicero Attico Sal.
+180	XV. Cicero To Atticus, Greeting.
+183	XVI. Cicero Attico Sal.
+184	XVI. Cicero To Atticus, Greeting.
+189	XVII. Cicero Attico Sal.
+190	XVII. Cicero To Atticus, Greeting.
+192	XVIII. Cicero Attico Sal.
+193	XVIII. Cicero To Atticus, Greeting.
+196	XIX. Cicero Attico Sal.
+197	XIX. Cicero To Atticus, Greeting.
+203	XX. Cicero Attico Sal.
+204	XX. Cicero To Atticus, Greeting.
+207	XXI. Cicero Attico Sal.
+208	XXI. Cicero To Atticus; Greeting.
+213	XXII. Cicero Attico Sal.
+214	XXII. Cicero To Atticus, Greeting.
+218	XXIII. Cicero Attico Sal.
+219	XXIII. Cicero To Atticus, Greeting.
+221	XXIV. Cicero Attico Sal.
+222	XXIV. Cicero To Atticus, Greeting.
+227	XXV. Cicero Attico Sal.
+229	XXV. Cicero To Atticus, Greeting.
+234	II. Cicero To Atticus, Greeting.
+237	IV. Cicero To Atticus, Greeting.
+240	VII. Cicero Attico Sal.
+241	VII. Cicero To Atticus, Greeting.
+243	VIII. Cicero Attico Sal.
+245	VIII. Cicero To Atticus, Greeting.
+248	IX. Cicero Attico Sal.
+249	IX. Cicero To Atticus, Greeting.
+252	X. Cicero Attico Sal.
+253	X. Cicero To Atticus, Greeting.
+255	XI. Cicero Attico Sal.
+256	XI. Cicero To Atticus, Greeting.
+257	XII. Cicero Attico Sal.
+258	XII. Cicero To Atticus, Greeting.
+260	XIII. Cicero Attico Sal.
+262	XIII. Cicero To Atticus, Greeting.
+264	XIV. Cicero Attico Sal.
+265	XIV. Cicero To Atticus, Greeting.
+266	XV. Cicero Attico Sal.
+267	XV. Cicero To Atticus, Greeting.
+276	XVI. Cicero Attico Sal.
+278	XVII. Cicero Attico Sal.
+279	XVII. Cicero To Atticus, Greeting.
+280	XVIII. Cicero Attico Sal.
+282	XVIII. Cicero To Atticus, Greeting.
+283	XIX. Cicero To Atticus, Greeting.
+286	XX
+287	XX
+289	XXI. Cicero Attico Sal.
+291	XXII. Cicero Attico Sal.
+292	XXII. Cicero To Atticus, Greeting.
+294	XXIII. Cicero Attico Sal.
+295	XXIII. Cicero To Atticus, Greeting.
+300	XXIV. Cicero Attico Sal.
+301	XXIV. Cicero To Atticus, Greeting.
+307	I. Cicero Attico Sal.
+308	I. Cicero To Atticus, Greeting.
+314	II. Cicero Attico Sal.
+316	II. Cicero To Atticus, Greeting.
+323	III. Cicero Attico Sal.
+325	III. Cicero To Atticus, Greeting.
+332	IV. Cicero Attico Sal.
+334	IV. Cicero To Atticus, Greeting.
+336	V. Cicero Attico Sal.
+338	V. Cicero To Atticus, Greeting.
+340	VI. Cicero Attico Sal.
+341	VI. Cicero To Atticus, Greeting.
+345	VII. Cicero Attico Sal.
+346	VII. Cicero To Atticus, Greeting.
+348	VIII. Cicero Attico Sal.
+350	VIII. Cicero To Atticus, Greeting.
+355	IX. Cicero Attico Sal.
+357	IX. Cicero To Atticus, Greeting.
+358	X. Cicero Attico Sal.
+359	X. Cicero To Atticus, Greeting.
+361	XI. Cicero Attico Sal.
+363	XI. Cicero To Atticus, Greeting.
+364	XII. Cicero Attico Sal.
+366	XII. Cicero To Atticus, Greeting.
+367	XIII. Cicero Attico Sal.
+368	XIII. Cicero To Atticus, Greeting.
+369	XIV. Cicero Attico Sal.
+370	XIV. Cicero To Atticus Greeting.
+371	XV. Cicero To Atticus, Greeting.
+Tiro, <i>see</i> Tullius Tiro
+
+Titinius (Q.), 118, 402
+
+Titus (Τίτος Ἀθηναῖος), <i>see</i> Pomponius Atticus
+
+Torquatus, <i>see</i> Manlius Torquatus
+
+Tralles, 372
+
+Transpadanus, 362;
+  -ni 342
+
+Trebonius (C.), 292
+
+Trebulanum (praedium), 340, 342, 344
+
+Tremellius Scrofa (Cn.), 346, 428
+
+Tres Tabernae, 32, 140, 142, 144
+
+Triarius, <i>see</i> Valerius Triarius
+
+Tritia, 444
+
+Tritones piscinarum, 136Τρῳάδες, 122
+
+Τρῶες, 122
+
+Trophoniana narratio, 444
+
+Trypho, <i>see</i> Caecilius Trypho
+
+Tubero, <i>see</i> Aelius Tubero
+
+Tullia (<i>or</i> Tulliola), 10, 16, 20, 26, 134, 238, 260, 282, 426, 464, 476, 482
+
+Tullii Cicerones, 378, 396, 426
+
+Tullius, <i>scribe</i>, 344, 346
+
+Tullius (L.), <i>legate of Cicero</i>, 346, 362, 372, 402
+
+Tullius Cicero (L.), <i>cousin of Cicero</i>, 12
+
+Tullius Cicero (M.), <i>the orator</i>, 378.
+  <i>See also</i> Κικέρων ὁ φιλόσοφος
+
+Tullius Cicero (M.), <i>his son</i>, 76, 132, 138, 312, 332, 356, 452, 478; <i>see also</i> Κικέρων (ὁ μικρός).Tullius Cicero (Q.), <i>brother of the orator</i>, 6, 10, 14, 16, 18, 20, 46, 64, 66, 90, 118, 126, 132, 156, 208, 216, 220, 230, 234, 236, 238, 244, 250, 256, 260, 264, 274, 288, 290, 296, 304, 310, 314, 330, 334, 338, 360, 392, 396, 402, 406, 412, 456
+
+Tullius Cicero (Q.), <i>son of the last</i>, 112, 250, 288, 290, 296, 426, 444, 460, 474, 480
+
+Tullius Tiro (M.), 474
+
+Turpio, 432
+
+Turranius (D.), 18, 480
+
+Tusculana villa, 270;
+  -num aedificium, 46;
+  -um (praedium), 12, 16, 18, 22, 110, 134, 138, 272, 302, 314, 336,
+     438
+
+Tyrannio, 124, 280, 282, 292
+
+Valerius, 114
+
+Valerius, <i>interpreter</i>, 30
+
+Valerius (P.), 412Valerius Flaccus (L.), 82, 194
+
+Valerius Messalla (M.), 296, 310, 316, 320, 366, 386
+
+Valerius Messalla Niger (M.), <i>consul</i> 61 B.C., 32, 36, 38, 40, 44, 262
+
+Valerius Triarius (P.), 316, 324
+
+Varius (P.), 4
+
+Varro, <i>see</i> Terentius Varro
+
+Vatinius (P.), 126, 130, 138, 190
+
+Vedianae res, 440
+
+Vedius (P.), 440
+
+Veiento, 322
+
+Velinus lacus 308;
+  -na tribus, 310
+
+Vennonius (C.), 440, 458
+
+Venus, 176Venusia, 348
+
+Vestorius (C.), 288, 304, 316, 332, 340, 444, 452
+
+Vettius, 284
+
+Vettius, <i>a broker</i>, 432
+
+Vettius (L.), 188, 190
+
+Vettius Chrysippus, 120
+
+Vibius, 174
+
+Vibo, 198
+
+Visellius, 250
+
+Volaterrani, 84
+
+Volusius (Cn.), 362
+
+Volusius (Q.), 402
+
+Xeno, <i>of Apollonis</i>, 370Xeno, <i>of Athens</i>, 360, 364
+
+Xenocrates, 52
+
+Zaleucus, 434
+
+Zoster, 360
+
+W. H. Smith & Son, The Arden Press, Stamford Street, S.E.
+
+------------------------------------------------------------------------
+
+TRANSCRIBER’S NOTES
+
+1. P. 52, corrected “ὃππως” to “ὅππως”.
+2. P. 88, corrected “ταυτα” to “ταῦτα”.
+3. P. 156, corrected “δε” to “δὲ”.
+4. P. 359, corrected “ἒρδοι τις ἥν ἕκαστος εἰδείη τέχνην” to “ἔρδοι τις
+     ἣν ἕκαστος εἰδείη τέχνην”.
+5. Silently corrected typographical errors in punctuation and spelling
+     in the index which didn't agree with the text.
+6. Retained anachronistic, non-standard, and uncertain spellings as
+     printed.
+7. Enclosed italics font in <i>underscores</i>.
+8. Superscripts are denoted by a caret before a single superscript
+     character, e.g. M^r.

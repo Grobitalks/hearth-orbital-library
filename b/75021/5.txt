@@ -1,0 +1,839 @@
+HOLB1	75021	5	400	80	680	27
+2	Preface.
+3	C. W. Haskins.
+9	CHAPTER I--The News. Looking Forward. The Star…
+13	Chapter I. The News--looking Forward--the Star…
+21	Chapter II.
+31	Chapter III.
+38	Chapter IV.
+55	Chapter V.
+72	Chapter VI.
+88	Chapter VII.
+108	Chapter VIII.
+127	Chapter IX.
+145	Chapter X.
+164	Chapter XI.
+179	Chapter XII.
+198	Chapter XIII.
+219	Chapter XIV.
+239	Chapter XV.
+247	Chapter XVI.
+262	Chapter XVII.
+282	Chapter XVIII.
+299	Chapter XIX.
+311	Chapter XX.
+330	Chapter XXI.
+344	Chapter XXII.
+366	Chapter XXIII.
+378	Chapter XXIV. The Return--great Changes.
+S McKee, J McKenty, J B McMinn, C F Mebius, A Mecartney, W N Meeks, H J Mellus, G Metcalfe, S P Middleton, J W Miller, L R Mills, W A Mix, J Moffitt, D B Moody, J L Moody, J McDonough, A B McCreary, A Mosley, J S Morgan, T W Mulford, L B Mizner, A Massey, J McComb, H McAllister, C Main, H N Morse, A Montgomery, R H McDonald, E E W McKinstry, Louis McLane.
+
+=N=--J A Nichols, J E Nutting, H L Nachtigall, W H Nash, C G Nickerson, T Niebour, S K Nurse, G D Nagle, J Nightingale, D Norcross.
+
+=O=--J J O’Farrell, H J Ostrander, S Otis, M P O’Connor, J A Oliver, I Overton, J B Overton.
+
+=P=--N C Paddock, H Palmer, H C Patridge, G W Patterson, G H Peck, J B Peck, A S Peterson, J Pforr, G Phillips, Pio Pico, J Pinkham, I Polhamus, Jr., E Pooley, O C Pope, G K Porter, H Porter, F H Pratt, J W Probasco, D B Provost, J Pullman, N W Palmer, H H Parkell, G C Parkinson, B Pasquale, R Patterson, J H Paty, F S Parker, H Paul, R H Paul, J S Peck, W H Peckham, J W Pennell, E S Perkins, E R Perrin, L Perrin, H E Perrine, G J Phelan, C B Phelps, H Philips, G Pierson, I B Pine, A Poett, J Pownall, W H Pratt, W W Presbury, A B Preston, W E Price, S L Prindle, S Purdy, Jr., C M Plum, A Powell, W Patton, J Phelan, A E Phelps, T G Phelps, W A Piper, J F Pope, O C Pratt, L Pickering, J Palache, F Pixley, J Pinkham.
+
+=R=--C M Radcliff, F Roland, S S Rowe, L F Rowell, P R Ryan, J M Ryder, C F Reed, E P Reed, W F Reed, W I Reed, J Regan, B J Reid, J Revalk, E B Reynolds, W Richardson, J B Richmond, J H Robertson, H Robinson, J A Robinson,R Bobinson, G H Rogers, J Ross, A J Roulstone, W G Rudorff, J H Russell, W M Ryer, C T Ryland, J H Redington, C Reis, F Reis, E M Root, M R Roberts, A G Russ, J W Randell, W C Randolph, H Reed, E L Reese, P J Reily, W Renney, J Ringot, A Robinson, J C Robinson, W Reed.
+
+=S=--P de Saisset, L Sanborn, J A Schmidt, C Schrath, J G W Schulte, R M Sherman, W Simmons, J C Scribner, C H Seymour, J Sickles, C H Simpkins, W Simpson, Rt Simpson, C Smith, R E Snook, W S Snook, J Snyder, C J Spaulding, J I Spear, J S Spinney, F Soule Jr., R J Stevens, G W Stilwell, H Storm, C H Stribing, C D Stuart, I Swain, F S Sunderland, G A Swasy, W F Swasy, E H Sawyer, M Scholl, L Schorffy, J W Scott, T O Selfridge, J Selling, I N Seuter, W T Sherman, J Singley, E C Smith, E M Smith, Elijah M Smith, H M Smith, M Sounes, T Spear, W W Standeford, D Standeford, A M Starr, R Stege, C Stevens, J F Stirling, E F Stone, L Storry, J Strentzel, C T Stumcke, M Sullivan, W Summerhays, A Sutter, R S Swanston, A Selover, G A Shurtleff, L Sloss, D J Staples, J Stanford, R Simson, N Searls, W J Shaw, W N Shelly, J Short, B F Sterrett, C E Stone, C R Story, C H Stoutenborough, D Standeford, A B Stout, J D Stevenson, B Shurtleff, B V Sargant, J P Sargent, O V Sawyer, T B Shannon.
+
+=T=--J P Taylor, J F Taylor, S N Taylor, W S R Taylor, R Thompson, R R Thompson, T A Thomsen, J K Thorndyke, H H Thrall, W J Tilley, F Tillman, A Torrey, W J Towne, E W Travers, J B Truvido, M G Tucker, A C Taylor, H W Taylor, J N Taylor, H F Teschemacher, G W Thomas, D W Thompson, I D Thompson, Rt Thompson, W N Thomp-B K Thorn, H S Tibbey, H N Tilden, W P Toler, J H M Townsend, G Treat, R O Tripp, J C Tucker, R M Turner, M H Turrill, W J Tustin, T Tennent, C Taylor, L Tevis, F Tillman, J H Turney.=U=--J C Udall.
+
+=V=--W K Van Allen, A W Von Schmidt, W Vandyke, T Vanburen, W W Vanderbilt, R Vandercook, J C Vandervoot, L Van Orden, C H Voit, J H Von Schmidt, H Voorman, W Valentine, R N Van Brunt, J Van Dyk.
+
+=W=--W F White, A Williams, J P Wentworth, F Vassault, A Wheeler, E D Wheeler, P White, P Welch, J T Wright, A Weihe, J C L Wadsworth, J Vonbergen, C T Ward, R White, J H Widber, H F Williams, J C Winans, J M Wood, G S Wright, B F Whittimore, C L Wilson, R Wilson, C S Wood, H Wetherbee, H O Wait, T P Wales, R R Wallace, H H Warburton, H C Ward, W H Ware, W Warner, A Wason, Js W Waters, Jo W Waters, J R Welch, W B West, F E Weston, J S Wethered, J. M White, S Wood, H H Worley.
+
+=Y=--J York, W J Younger.
+
+* * * * *
+
+Ex-Members of San Francisco Pioneer Association.
+
+=A=--John H Adams, William H Adams, William Adrian, George Aikin, David W Alexander, James M Allen, Robert H Allen, Nathan H Ambler, T Mather Ames, Aug P Anderson, John G Anderson, William N Anderson, Victor P Andiquet, Myron Angel, Charles A. Angelo, William C Annan, Joseph Aram, William Arrington, Joseph Assion, Fred Atkinson, Henry Atwood, Thomas L Aubert, Franklin B. Austin, Henry Austin.=B=--Jefferson T. Babcox, Thomas W Badger, Oscar J Backus, J Snowden Bacon, Robert P Bagley, John D Bagnall, Hiram S Baldwin, David L Blanchard, Hypolite Blanchard, John C Bland, Henry G Blankman, James E Blethen, I D Bluxome, Edward E Bolton, H Toler Boorem, Samuel W Booring, Theodore Boschulse, Russel Bourne, Asa M Bowen, Perley M Bowen, A Bradbury, C H Bradford, Isaac Branham, Thomas Brannan, James F Breen, John Breen, Simon P Breen, James J A Brice, Charles P Briggs, Sebra Briggs, Joseph D Bristol, Alexander Brizard, George Brooks, J W Brooks, Stephen S Brooks, Walter Brooks, W H J Brooks, William Brothers, Robert H Brotherton, Samuel Q Broughton, De Witt C Brown, Fielding C Brown, H S Brown, Richard Brown 1st, Richard Brown 2d, Warren Brown, John Q A Ballou, Dominique Baque, Charles Barker, Samuel Barrell, John J Barry, Joseph F Bassett, Marshall A K Bates, Morris S Bates, Philip Bates, T G Battaile, Horace Beach, I D C Beach, John L Beard, Amos F Beardsley, A S Beaty, Andrew B Beauvais, John S Beener, Edwin Bell, De Witt C Benham, John M Bennett, R H Bennett, William C Bennett, Winston Bennett, E S Benson, Joseph A Benton, R G Berford, Alexander Beritzhoff, William R Bernard, August Besson, Charles S Biden, Henry C Bidwell, John Bidwell, Andrew J Binney, Isaac Bird, Lewis A Birdsall, Robert Birnie, William W Black, O P Blackman, Calvin T Blake, William H Brown, Willie Bruns, B Bryant, George W Bryant, William L Bryant, John C Buchanan, Vincent P Buckley, James L Bufford, Norman Bugbee, Albert Buhlert, D S K Buick, John C Bull, Frederick P Burch, William Burgoyne, Peter H Burnett, George M Burnham, George W Burns, Levi Burr, Cuthbert Burrell, Edward M Burrows, James Burt, James M Burt, Fred S Butler.=C=--Joseph G Cady, Augustus Caldwell, John Cameron, Peter Campbell, William Canby, William Canfield, James R Capell, William M Card, Emile H Cardinet, J N Cardozo, George N Cardwell, Pedro C Carillo, Charles Carl, Charles F Carl, Augustine D Carpenter, Miles B Carpenter, H Carrison, Charles D Carter Jr, John Carter, J R Cassell, Isadore Cavasso, William Chamberlain, Charles Chapelain, H A Charles, Albert H Clark, John A Clark, P B Clark, William Clark, William S Clark, Henry Classen, Hugh J Clayton, George W Claxton, Lambert B Clements, John C Coachman, Absalom Cochell, John Cochrane, Henry W Coe, C Columbus Coffin, J Henry Coghill, James H Cogswell, Edward Coker, Thomas W Colburn, John Q Cole, Josiah L Cole, Alonzo N Coleman, Charles J Collins, John A Collins, J Carman Combes, A M Comstock, Michael Connelly, Alexander Coney, G W Conkling, W H Conrad, Channing H Cook, Charles W Cook, J Carroll H Cook, William H Cook, Ambrose I T Cooper, Stephen Cooper, William M Cooper, Arthur Cornwall, Arthur W Cornwall, Louis Corriveau, Benjamin Cory, James M Cory, E P Cotting, Edward D Cox, G C Cox, Solon W Craigue, Charles H Crane, George R Crary, E W Crowell, William H Crowell, R G Crozier, Hiram Cummings, Henry K Cummings, John Currey, Lucian Curtis, Samuel T Curtis, Wilbur Curtiss, Charles D Cushing, William J Connor.
+
+=D=--Edward Daly, John Daubenbiss, Peter Davidson, George H Davis, Hamlet Davis, William H Davis, George W Deans, Thomas M J Dehon, Isaac E Delavan, Richard S Den, Samuel L Dewey, Alfred De Witt, R d’Heureuse, Wilhelm Dieterich, Daniel S Dikeman, P W Dillon, David Ding, Mathew W Dixon, Nathan A Doan, Robert R Dodge, Jean Don, John Donegan William, Y Douglass, Simon J Downing, William H Downing, Eugene B Drake, Joseph W Drew, James R Duff, John Duff, Anthony Dukin, William A Dunbar, Robert Duncan, J Shade Dungan, Patrick Dunn,John H Dunnell, Warren P Durbin, William W Durham, Job F Dye.
+
+=E=--Thomas Eager, Anthony Y Easterby, Frank G Easterby, James W Eastin, William H Eastman, Edward B Eaton, Henry Eaton, Edward A Edgerton, John Ellery, S F Elliott, Charles D Elliott, T Ellsworth, Stephen R Ellsworth, Silas B Emerson, William J Ennis, Alexander C Erkson, John Erskine, jr., Robert H Evans.
+
+=F=--Jean Fagothey, Solomon R Fairchild, Nelson H Falkinberg, Malachi Fallon, Richard J Falls, Charles H Fancher, J W Farrington, J M Farwell, Charles Fenderickoff, Horace R Ferre, Edward Feusier, Hercules Fidler, Albert E Field, M William Fifer, Joseph W Finley, Joseph Fischer, William H Fish, George W Fisher, George K Fitch, James Fitton, Ezekiel Fitzgerald, C J Flatt, Samuel Flower, George H Fogg, Hiram Fogg, William D Folger, Edmund I Folsom, Pliny F Forbes, Edward Ford, Jerome B Ford, Jerome C Ford, William H Ford, Albert Foster, William Foster, William H Fountain, Charles J Fox, Jacob Frankfurt, Leopold Franke, William Free, Hervey R French, William Friel, William J Frierson, Daniel Frink.
+
+=G=--A K Gage, S Gamage, A J Gambill, Andrew Garr, B L C Gauvreau, Samuel Geddes, Joseph Genella, Amzi W Genung, Henry G Giannini, Edward Giddings, Joseph Giess, Charles V Gillespie, David Gillespie, Anton Gintz, Robert R Givens, William H Gladwin, James R Glassgow, James H Gleason, James T Glenn, George R Gliddon, William E Goldsmith, M J Goodfellow, Lewis Goodwin, William M Goodyear, James Gordon, James E Gordon, Charles H Gough, Levi A Gould, John C Gouldin, John V Gowen, George T Graff, John Gray, jr., Ned Grayson, Alfred A Green, George W Green, Talbot H Green, Clay M Greene, C Grellet, George Gretton,B P Griffin, George W Griffin, George I Griffing, John W Griffith, William A Grover, Frederick C Gummer, Lewis C Gunn, Charles W Gunnell.
+
+=H=--Matthew J Haan, John Hagan, Andrew J Haight, Lansing Haight, Erasmus W Haines, Henry Hale, Henry M Hale, E G Hall, Edward M Hall, James Hall, 2d, John Halls, Alpheus Hamblen, J Hamilton, Ed D Hammond, James S Handlin, William W Haney, Benjamin T Hanford, Green Hanna, John Hanna, 1st, John Hanna, 2d, William W Hannes, George M Hanson, Charles M Harding, William Hargrave, Martin K Harkness, James Harlow, Henry Harris, 1st, Thomas A Harris, J V Harrison, Lawrence Hart, Henry Hartmann, M M Harvey, H A Harvill, William P Haskell, William F Hassell, John H Haste, Samuel A Hastings, William F Hastings, James B Hatch, Charles W Hathaway, Isaac J Hattabough, Rudolph R Hay, Michael Hayes, Wade Hays, W Hazelton, Kelsey Hazen, Charles S Healy, William Hendsicks, Walter Herron, Alexander M Hess, James B Hess, R d’Heureuse, John B Hewson, Daniel Higgins, Uriah Higgins, A S Hight, George V Hight, H A Hill, J Bryant Hill, B Frank Hilliard, Edwin W Hiller, Edward W Hitchings, Horace Hoag, John A Hoan, William H Hoburg, H Henry Hocker, Richard Hockman, Francis Hoen, David B Hoffman, Simon Hoffman, Calvin H Holmes, James Holohan, C Homer, Walter Honon, William Hood, Albert F Hoogs, Casper T Hopkins, George W Hopkins, James A Hopkins, John M Horner, Abraham J Houghtaling, Thomas Houseworth, Edward B How, B H Howell, Elijah P Howell, Caspar Huber, Henry F Huber, George B Hudson, James M Hudspeth, Laurent Huerstell, Lucien B Huff, Benjamin P Hugg, Asa Hull, David W Hunt, Andrew Hunter, P Schuyler Hunter, Thomas Huntington, F A Hussey, William M Hussey, Charles Hutchins, William A Hutchinson, W P Hazelton, William G Huff.=J=--William S Jacks, R C Jacobs, Augustus Jacoby, William T Jameson, William A January, J S Jenkins, Robert S Jenkins, Theodore F Jerome, William C Jewett, Frank S Johnson, Joseph R Johnson, Erastus V Joice, Edward Jones, H P Jones, Hugh S Jones, John W Jones, Samuel H Jones, Nathaniel Jones, Robert Josephi.
+
+=K=--Harold L Kampi, Frank E Kane, John Kays, James Kearney, James Kellogg, Alfred W Kelly, C O Kelly, William A Kelly, W F Kelsey, Daniel Kendrick, George Kennedy, J Horace Kent, George Kentfield, James R Keogh, James H Keown, Samuel F Kern, Francis D Ketchum, Ralph L Kilburn, D W Kimball, Gardiner C Kimball, George H Kimball, Leonidas F Kimball, William A King, George W Kinney, Richard C Kirby, F M Kittredge, James E Kitts, Seth R Kneeland, Frederick F Knipe, N W Knowlton, Charles C Knox, Louis G Kohler, John C Kunze.
+
+=L=--Henry W J Labatt, Joseph J Labatt, Samuel K Labatt, W Frank Ladd, Edmund Laffan, C W Lander, Ebenezer Lane, Thomas O Larkin, jr., Frank M La Roche, A Larrain, James Larue, Harry J Lask, F P Lauterwasser, Richard H Law, Albert G Lawrence, James H Lawrence, Charles W Lawton, James Lea, Daniel Leahy, Washington J Leaman, Jean V Lebert, Bruce B Lee, Franklin V Lee, H Leisewitz, James M Lemon, J H Lendrum, Hiram Leonard, James B Lewis, James McM Lewis, William J Lewis, Eugene Lies, Charles Lindley, Curtis H Lindley, Tipton Lindsey, Francis J Lippitt, Harry A Little, Stephen H Little, Thomas Litton, George A Lloyd, Henry S Loane, Charles S Lohse, David Long, David Long, 2d, Richardson Long, Joseph M Lord, Moses J Lord, William P Loring, John S Love, H S Loveland, L F Loveland, William E Lovett, Anthony W Lowry, Thomas M Luther, Jonathan H Lyman, J A Lyons, jr.=M=--Alexander D Macdonald, David Mallagh, David P Mallagh, Armstrong Maltbie, Charles Maltby, Joseph Manidas, William Mansfield, Joseph Marchant, Charles K Marsellus, Charles P Marsh, Montgomery Martin, Stephen C Massett, Hermann Mast, James Mathewson, Simon Mattingly, Frank T Maynard, John McAllis, Charles McAlpin, John H McCabe, William McCabe, William R McCall, John McCrackan, Samuel McCullough, David McDaniel, Freeman McGilvery, James McGlynn, Edward McGowan, William H McGrew, John G McKavaher, David McKee, James P McKenna, George R McKenzie, William McKibbin, Orlando McKnight, John McPherson, James McVea, Alonzo Meacham, George W. Meacham, Charles H Mead, Thomas B Meader, Frederick M Mebius, Edwin R Medbery, jr., Theodor Meetz, William M Mendenhall, Felix Mercado, Isaac G Messec, Edwin Miller, Hilliard M Miller, John H Miller, James L Miller, William E Miller, Jacob A Moerenhout, Francis Mondelet, William D Mongan, Burdett H Monson, Louis Montgaillard, George H Montgomery, John Montgomery, George Moody, Alexander Moore, John H Moore, John S Moore, James H Morgan, Louis E Morgan, Perry Morrison, Samuel Morrison, J W Morse, Gordon N Mott, Adolph C Muller, Oscar E Muller, John M Murphy, Richard Murphy, Charles Murray, Robert Murray, Harris Myers.
+
+=N=--John Nagel, William Neagle, Jeremiah Nelson, Thomas Nelson, Elisha Nichols, John M Nichols, John Nicholson, Pierce Noisat, Michael Nolan, Bernard Nordheimer, Samuel Norris, John D Noyes.
+
+=O=--John F O’Bryon, William O’Farrell, John Ogilvie, Allen Oliver, William T O’Neale, James L Ord, Pacificus Ord, William R O’Reilly, S L G Osborne, P H Owens.=P=--Albert Packard, Charles A Paige, Horace J Paine, Albert Painter, Walter M Painter, Clinton Palmer, Cyrus Palmer, Noah Palmer, J L Pangburn, Fred J Parcells, John J Parcells, William H Parcells, Charles L Parent, Charles L Parent, Jr, Charles F Parker, William A Parker, William C Parker, M A Parkhurst, Samuel E Paster, William Patterson, Almarin B Paul, A W Peabody, Joseph A Peabody, James Pearson, James G Pearson, Robert F Peckham, Joshua H Peirce, James E Pelham, John C Pelton, John C Pelton Jr, Joseph Pennypacker, John J Pensam, Charles C Peters, Charles M Peterson, Edouard Petibeau, Bethuel Phelps, John Phillips, Joseph Phillips, Nathaniel T Phillips, Eugene K Phipps, Andrew J Piercy, David J Piercy, Edward M Piercy, Joseph D Pierson, James F Pike, Rudolph K Piotrowski, Andrew J Pitman, Frank M Pixley, William J Pleasants, Charles G G Plummer, T S Pomeroy, David M Pool, William P Pool, Horace E Pope, William H Porter, Frederick L Post, John W Powell, Conrad Prag, Wilfiam W Pratt, Carl Precht Jr, William P Prescott, George H Preston, John B Price, Rodman M Price, Frank S Provost.
+
+=Q=--John C Quinn.
+
+=R=--Charles M Radcliff, Reuben E Raimond, Charles H Randall, Willie W Randall, Benjamin P Rankin, Charles Rawson, Ludwell J Rector, Michael Redding, Oscar F Redfield, R Augustus Redman, John B Redmond, Joseph L Reed, William H Reed, Robert K Reid, George L Reynolds, Robert T Reynolds, Thomas R Reynolds, William Reynolds, Clemons Richardson, Jesse Richardson, Samuel A Richardson, Frederick Ricketson, Harrison H Riker, Samuel Robb, Francois H Robin, Edwin H Robinson, Lemuel Robinson, S H Robinson, William T Robinson, Charles C Roe, E K Rogers, George H Rogers, George W Rogers, James R Rogers, Julius K Rose,T Rosenbaum, Charles L Ross, Edward H Rowe, Edwin A Rowe, Charles C Rueger, John Rueger, John Rueger Jr, William N Rumwell, Horace A Russell, Horace A Lussell Jr, John H Russell, J H Rutenburg, Edward Ryan, John Ryan, Rodger Ryan, William L Ryckman, William G Ryder.
+
+=S=--Pierre Sainsevain, Charles M Sainsevain, F A Sampson, A B Samson, John B Sandford, George Sawyer, Moses Schallenberger, G Everett Schenck, Waldemar Schleiden, Charles P Schmidt, Christopher Schmitz, Frank W T Scholl, Simon Schrieber, C Adolph Schweeb, James W Scott, George W Scribner, Peter Sesser, Henry W Severance, John W Shaw, Samuel Shear, William H Shear, Samuel G Sheldon, William W Shepard, S A Sheppard, Edwin A Sherman, Thomas E Sherman, Elijah Sherwood, George E Sherwood, Edmond D Shirland, Paul Shirley, Henry C Short, William H Silverthorn, Charles S Simpson, Joseph Simpson, Richard C Singer, Richard H Sinton, Manasseh Sleeper, Thomas J L Smiley, Charles H Smith 2d, David W Smith, Enos H Smith, George Smith, George E Smith, George M Smith, Henry C Smith, James B Smith, James H Smith, Jeremiah Smith, Joshua Smith, Napoleon B Smith, Rufus Smith, Samuel B Smith, Stephen S Smith, Willard M Smith, William B Smith, William F Smith, Willam G Smith William H Smith 3d, William W Smith 2d, Henry E Snedeker, A J Snyder, Charles C Southward, Hervey Sparks, William Sparks, Adrian Spear, Jonas Spect, James A Sperry, James H Spotts, Charles J Sprague, Thomas Sprague, O D Squire, Horatio N Squire Jr, Fabius Stanley, Ira Stanley, James Staples, Frederick Steinhart, J Pratt Stephens, Emile K Stevenot, Charles Stevens, Frank S Stevens, George Stevens, Thomas H Stevens, George B Stevenson, Charles A Stewart, Samuel Stewart, Thomas Stewart, William Stewart, Oliver P Stidger, William C Stiles, Lafayette Stivers, Mark B Stoddard, William J Stoddart, James J Stokes, William C Stokes, Charles L Stone,George Stoneman, Stephen C Story, David B Stover, Henry C Stowell, William J Stringer, Samuel Strong, Jeremiah C Sullivan, Frank S Sutton, Owen P Sutton, Benjamin F Swan, George F Sweeney, Samuel S Sweet, Asa W Sweet, A C Swift, Samuel T Szaryash, Matthew Scott.
+
+=T=--W H Talmage, Francis A Taylor, Gilbert H Taylor, Levi W Taylor, William P Taylor, William Temple, Augustine B Tennent, Conklin C Terry, Frank Thibault, Isaac N Thompson, Joseph P Thompson, William S Thompson, Monroe Thomson, C Melbourne Thorndyke, Isaac N Thorne, Minord S Tresher, James W Thrift, Alexander S Tibbey, Lyman C Tibbits, John P Tibbits, R H Tibbits, J B Timmerman, Albert C Titcomb, James Tobin, Robert J Tobin, Alexander H Todd, William L Todd, George B Tolman, James C Tolman, George W Toombs, Charles J Torbert, George Torrens, Manuel Torres, Manuel S Torres, Alfred Townsend, John Trimble, Charles Trinius, John K Trumbo, David S Turner, Henry S Turner, John Turner, William H Turner, William M Turner, Oliver B Turrell, Charles Tuttle, Joseph Tuttle, George W Tyler.
+
+=U=--Eugene A Upton.
+
+=V=--Thomas P Valleau, Andronico A Vallejo, Mariano G Vallejo, Henry Vanderveer, John Van De Water, John V VanHagan, James VanNess, John P VanNess, William H VanNess, David T VanOrden, Samuel VanPraag, John A VanTassell, Daniel J Vaughn, Gustave Videau, Jean J Villemeur, George W Vincent 3d.
+
+=W=--Henry B Waddilove, William R Wadsworth, Robert Wagstaff, E G Waite, Asa Walcott, George S Walker, Thomas Walker, James Walsh, J Walton,William W Warner, Henry S Warren, Albert Warthen, Benjamin F Watkins, Lewis D Watkins, Edwin R Waterman, Nicholas A Watson, William Watson, John Weaver, Alfred H Webb, Henry Webb, George G Webster, Fred P Weinmann, Henry J Wells, Robert Wells, Christian Wentz, Edwin W West, Francis H West, Joseph R West, Thomas J West, Jesse L Wetmore, Theodore Wetzel, Georgh Wheeler, 2d, Horace Z Wheeler, John O Wheeler, Charles E White, Henry L White, J Campbell White, James F White, James H White, Oliver H P White, William H H White, Henry M Whitely, Thomas Whitely, Enoch, J Wilber, Jeremiah P Wilbur, James H Wilcox, Silas Wilcox, L J Wilder, Edward H Wilkey, Samuel H Willey, James Williams, John F Williams, Stephen G Williams, William J Williams, Henry M Willis, John E Wilsen, John R Wilson, Stillman L Wilson, Vitruvius V Wilson, Peter L Wimmer, Jonas Winchester, M L Winn, George K Winner, Gabriel Winter, James W Winter, L C Wittenmyer, Herman Wohler, Henry J Wolgamuth, George T Wood, John S Wood, Theodore J Wood, George A Worn, Valentine M Worth, William Worthington, J H Wright, William Wyckoff, John W Wylie.
+
+=Y=--George A Young, J W Young, William C Young.
+
+* * * * *
+
+Members of the San Joaquin Pioneer Association.
+
+=A=--W D Ashley, J Adams, H Adams, K E Adams, F P Adams, G H Ashley.
+
+=B=--J Baldwin, H Barnhart, A B Bennett, H B Bishop, A C Blossom, H G Boisselier, H B Brown, L Bassilia, J Behaps, C W Bidwell, L M Booth, W R Barnes,C D Benjamin, S Briggs, S Blaisdell, W M Baggs.
+
+=C=--S Cady, M Caricoa, W M Carson, T J Chaloner, H A Chaplin, A Clark, F C Condell, T Corcoran, P Clapp, H K Clifford, J H Cole W Colmon, T A Caldwell, Ed Callahan.
+
+=D=--M J Drais, S Dunham, W Dallas, C H Diah.
+
+=E=--W Ennis, P Esau, J J Evans, R Eccleston.
+
+=F=--H S Farrington, Wm J Floyd, H M Flanning, J W Farley, S H Fickett, E Fiske, P Fitzgerald, J H Field, J M Fowler, W F Freeman.
+
+=G=--T W Gilbert, J Ginn, A Girard, C Grattan, J Grattan, J Greer, C A L Gransky, C Grupe, H C Gillingham, Wm Graham, Geo Gray, John Gross.
+
+=H=--B C Harris, H Hall, I D Hamilton, J W Hammond, N Harrison, H Harrold, T D Heiskell, E Hildreth, J M Hogan, Huntley, J Hale, H Hamilton, C L Hamilton, J B Harelson, A M Harris, H H Hewlett, H Hodgkins, W L Howell.
+
+=I=--W C Israel.
+
+=J=--P F Jahant, G A Jahant, W Johnson.
+
+=K=--O P Kallenbach, P L Know, H C Kraft, I H Knowles, G M Kasson, F M Kennedy.=L=--R B Lane, L Langdon, T Lee, A Leitch, G S Ladd, B F Langford, W O Lewis, D A Learned, T Lucas, J Lovejoy, W Lottman.
+
+=M=--H O Mathews, J McCloskey, S Myers, J Minges, J L Mowbray, J K Mead, C E Murray, M H Myers, F W Moss, M Milner, C R Montgomery, J R McDonald.
+
+=N=--E E Nelson, J Nagle.
+
+=O=--W L Overhiser.
+
+=P=--R L Patten, J Patterson, O Perrin, J Perott, J D Peters, H M Peck, W H Post, J Pratt, J Putnam, R B Parker, E Peyton, M D Plummer, H M Peck, T Pool T Pixley.
+
+=R=--A J J Ralph, R K Reid, C D Reynolds, A Rhodes, J Robinson, W M Robison, B F Rogers, A Rolland, S F Rodman, B F Reynolds, R W Russell, W N Robinson, L Reiffel, N S Rogers.
+
+=S=--R C Sargent, C Sedgwick, L Sellman, R G Sharp, J A Shepherd, G A Shurtleff, W H Smith, E R Stockwell, J N Small, H Squires, C S Stephens, H C Sargent.
+
+=T=--T B Taylor, M S Thresher, H Tinkham, F W Todd, S V Treadway, A J Tibbetts, B F Thompson, J H Tone, James Turner, T C Tynan.
+
+=V=--N Vizelich, A Vobbe.=W=--J Wallace, C F Whale, S Williams, J D Winters, A Wolf, T S Wood, C Wagner, R E Wilhoit, Geo West, W B White, B F Watrous, W E Whipple.
+
+=Y=--T Yost.
+
+* * * * *
+
+Members of the Virginia City Pioneer Association, Nevada.
+
+=A=--C J Adams, G W Arcularius, R Argens, J K Alden, W A Abbott, G Atkinson, D Arison, Wm Ashley, S S Atchinson, J K Alden, C O Appeberg, A Amrich, B D Anderson, W H Atkinson, G L Andrews, G L Adams.
+
+=B=--S Baker C M Brown, S D Baker, H Bouton, W O Broadhead, C Baker, G Bennett, D H Brown, W A Burton, A W Burrill, John Briggs, C L Brown, C Becker, B C Buzzman, J F Berry, J S Bowker, L L Bradley, H P Burnham, R F Brooks, J P Brown, J F Beach, P Beck.
+
+=C=--J L Carter, W W Coryell, A R Coryell, J Cunningham, Wm Cornelius, J R Crane, A G Caldwell, W M Cary, G B Coakley, J H Conway, J C Clark, J Comerton, C M Connor, G R Coleman, J B Cormack, J Cannin, N J Coleman, J L Conroy, C Cummings, F W Carr, G W Chedic, M Conway, J Cheneau, J Calemberti, J Claresy, S T Curtis.
+
+=D=--W H Dickson, G Daley, W D Darnell, J Delevan, T J Deer, J A Daniels, A Doten, H Donnelly, L Davis, D E Davis, W Downie, P Dalay, J Duffee,A F Dahlgin, L Dallip.
+
+=E=--A L Edwards, T Eagan, M R Elstner, E R Elrod, C H Eastman, W C Eaves, W H Elliot, W T Eaves, W Edwards, W T C Elliott.
+
+=F=--C L Foster, G W Finney, M Frankenheimer, Anthony Fox, R A Fagg, H Fitzsimmons, G D Fryer, C A Fletcher, T Fisher, G C Fish.
+
+=G=--M Goodman, J Gray, G L Gibson, H C Griswold, G Garner, J S Goin, W D C Gibson, T W Goodwin, M C Gardner, C Goodwin, H Garsey, N J Gillet, A Gilispie, T J Gray, L L Greentree, M S Gregory, R S Gammons, T Gosse.
+
+=H=--R C Hardy, G H Hoit, H Horton, P C Hyman, G Haist, S F Hoole, J Hunt,--Holdmark, G W Hepperly, M H Harrington, H C Hubbard, D M Hyde, W B Hickok, E S Hoge, T E Howard, E B Harris, Pat Hanley, E W Harris, A Hall, M Holmes, J B Hearn, J W L Hunt, J F Hall, H Harris, P Henry, P Holland, D H Hall, G W Hall, D Hannah, J C Hare, R R Hackett, J Harrison, J J Holmes, D H Healy.
+
+=J=--E Jackson, H M Jewett, J P Jones, H A Jones, L L Jones, Lyman Jones, J R Johnson, G L Jackson, A H Jackman, Nelson Johnson, L Jones, N Johnson.
+
+=K=--L Kelly, J H Kittell, J L Kaneen, S A Kinsey, C W Kendall, J Killum, R P M Kelley, J R Knox, I H Kinkead.
+
+=L=--J Lambert, A Lafee, W R Lane, J Lehigh, R Leahigh, A Lawson, J A Long, Wm Laforce, T A Longacre, H Long.=M=--Wm Meserme, A D Moore, F L Miller, W J Moore, J B Martin, G H Mallard, G W Morgan, J D McDonald, E C Morse, Alex Mitchell, J McKenney, A Miot, E Mathews, J W McKinney, S McFarland, J C McFarnaham, F H Moore, J A C Moore, F Morrill, S A McMeane, L Morris, L McGown, J H Marple, C B McClellan, James Morris, John McGee, J McKenney, M A McDouhugh.
+
+=N=--D W Noe, H Neligh, E Nye, J B Nelson, J P Nesdale, W Newson.
+
+=O=--J B Overton.
+
+=P=--J S Peck, A Perrin, J Patterson, J E Parker, J Putnam, E Pearson, Seymor Pixley, I S Parke, E Palmer, T Parker, R Patterson, J Putnam, J E Parker, R Patterson, R Parkinson.
+
+=R=--J Rien, J Riddle, J Ramsdel, M Redding, J Richardson, O D Rolf, J Rosseau, C F Redding, P Roussel, C C Robedee, M Redding, T A Read, R Ross, R Robinson, L H Robertson, O E Relmonn.
+
+=S=--J R Stuart, W T Shepard, J W Shields, G Spring, R B Sharp, S T Swift, G S Saunders, D R Starr, J T Stocker, E M Skaggs, P Stone, A A Simons, A E Smith, G W Stone, R F Simmons, T B Storer, A A Smith, J P Smith, J S Sanchez, J K Stuart, C Simons, C Sabin, A E Smith, P Stoner.
+
+=T=--W Thomas, S A Tomkins, W W Tinker, A J Tyrrell, R H Taylor, A D Treadway, T J Titus, A M Taylor, J E Thompson.=V=--J Vanderwater, N R Vipont, E Vogle.
+
+=W=--C Westlake, T Wells, John West, L Wentworth, J L Webster, C Wilson, Jonah Williams, L P Wardle, J E Wood, J H Wilcox, B H Welch, H Weston, H T Williams. G D Winters, The. Winters, L A Wood, J P Wentworth, A Waitz, G M Williams, B C Whitman, G B Webb, F Ward, J G Woolsey, A Williams, L Wentermantel, J S Wilson.
+
+=Y=--C York.
+
+=Z=--C B Zabriskie.
+
+* * * * *
+
+Members of the Sacramento Pioneer Association:
+
+=A=--Wm Ackley, James Anthony, J C Austin, A P Andrews, M Andrews, H Arents, H Alvord, E F Aiken, R I Allen, W O Armstead, J N Andrews, Peter Androit, Martin Arenz, C E Abbott, W A Anderson, Lyman Allen, A R Abbott, Simon Attar.
+
+=B=--L L Baker, Horace Barton, H T Borrem, C T Botts, C D Boise, R B Burton, G W Bell, D W Blackleach, W F Brown, G R Bingham, A J Bayley, T R Brown, J C Boggs, A P Benton, W W Brown, G G Berry, S S Baldwin, A A Bennett, S A Berry, W H Blauvelt, B N Bugbey, Peter Burns, E G Burger, A J Binney, S F Baldwin, J H Bailey, I N Babcock, J R Bachelder, L A Booth, Frank Bush, Gordon Backus, C H Bradford, R S Bampton, P Bannon, B Bates Jr, Z Bates, A J Baily, R Beck,G W Bell, J Boggs, C V Brockway, W N Brooks, R T Brown, J E Bryan, S A Boutwell, U Bayer, P W Burnett, R Butterfield, N A H Ball, E L Barber, J C Barr, E J Barroll, J T Bayley, R Bell, H Bentley, G B Bonnell, John Bigler, J E Birch, L E Boren, D M Boyd, M F Butler, John Burton, A W Burns, C L Bird, E L Brown, G D Brush, N Boice, T R Brown, H J Bidleman, A C Binninger, S S Bidwell.
+
+=C=--H N Cummings, Thos Coleman, C H Cotton, James Collins, A B Clough, L B Comstock, E T Cole, Geo Chadwick, S S Crane, G W Callahan, W J Cady, S S Carlisle, James Carolan, T E Coleman, C B Cooley, J R Crandall, J W Chiles, J L Craig, Geo Chedie, Saml Cross, H A Chase, Leander, Culver, J M Calvyn, G W Colby, T H Cook, Danl Coffee, Benj Cahoon, J Couch, J Cowden, Edgar Culver, J Crackbon, S Colville, S J Cassin, I S Chiles, W L Clark, M Cassidy, H Caswel., L C Chandler, L B Churchill, H Clark, W J Clark, H Clock, J H Cooper, W M Corbusier, G J Cross, J D Croxall, Wm Cummings, A P Catlain, C E Camp, W E Chamberlain, G W Chesley, W P Coleman, N L Drew, G Cadwalder, D E Callahan, L Callish, J W H Campbell, W B Campbell, Dr J Caples, J H Carroll, S M Chapin, A Carothers, H A Chase, E C Collins, J W Coffroth, M D Corse, C F Cavanaugh, Chas Chase, Wm Chesley, J G Cleal, E C Collins, Saml Conrad, Reuben, Cook, Ed Crowell, J Q A Cunningham, J B Cooper.
+
+=D=--J T Day, S Deal, W H Devalin, P E Drescher, W Dunlap C K Daugherty, C W Dankers, A Delano, John Denn, W L Dudley, A A Durfee, J W Dam, Geo Druke, J Z Davis, H Dalrymple, P Davis, J P Dyer, J K Dunbar, Jerome C Davis, Presley Dunlap, J B Dayton, J F Dye, T L Debose.=E=--Capt J S Ellison, S B Elwell, J Edwards, R S Egbert, W G English, A H Estell, W L Everett, G S Evans, J Elbridge, John Evens.
+
+=F=--V J Fourgead, Wilson Flint, J S Fowler, S B Freeland, G H Forrister, F F Frost, E P Figg, Dr J M Frey, W P Fuller, W C. Felch, W C Farnsworth, G W Foster, Richard Fuller, F S Freeman, Peter Frear, G D Fiske, W B Freeman, W J Frierson, R M Folger, Ferris Foreman, L W Ferris, G J Foster, R D Ferguson.
+
+=G=--W A Getts, J H Gass, Wm Gordon, J R Gaines, T M Gregory, G R Gould, Robt Gordon, W B Grigsby, J W Gunn, A C Gordon, G Griswold, H Greenhood, Y W Gunn, E T Gillispie, W R Grimshaw, Geo Griggs, W Gwynn, C E Greene, A Griffith, J O Garrett, R Gourlie, A F Gove, J Gardner, J Gates, D W Gelmicks, N D Goodell, L J Gilpin, B Gray, H Griffiths, G W Griffiths, J Grosmecal, S Glass, V E Gager, F Graham.
+
+=H=--L K Hammer, L Harris, H C Harrison, T B Harper, L Harthaus, D H Haskell, B F Hastings, G Hetzel, J Hoagland, M Hopkins, F S Hotchkiss, B F Howard, W H Hoyt, S L Hunt, W S Hustin, J J Hutchinson, W A Heddenburg, C W Hoit, A Henley, W L Herndon, C C Hayden, C Heinrich, H T Holmes, J W Humphries, J B Hyatt, Joseph Harris, J E Hale, M R Harkness, H B Hunt, Robt Hamilton, S H Hunt, E A Harris, Elisha Hall, T C Hull, F A Hornblower, W C Hollman, D Hamilton, M D Howell, Wm Harris, C W Humphries, E W Hiller, W P Hayden, T J Hall, L B Harris, John Hatch, James Howarth, Josiah Heacock, I N Hoag, Augs Hoffman, J A Hunt, W H Hatfield, W G Hunt, Joseph Hull, Dr Hollister, H W Harkness, J L Howard, John Heard, J W Haines, C P Huntington, L Z Hagan, James Hannon, W P Henry, Levi Hermance, F Hofstadt, L W Hooker, Justus Hovey, E M Horomson, J G Hyer,J C Hedenburg, P K Hubbs, Isadore Haas, L Z Hagan, D Hammond,
+
+=I=--P J Isbell.
+
+=J=--Wm R Johnston, W S Johnson, J C Johnson, J H Jaquea, David Jobson, T H Jackson, E G Jefferis, E Jacobs, R P Jacobs, J R Johnston, H F Johnston, W Jennings, J N Johnson.
+
+=K=--I N Kay, D W Kleinhaus, W F Knox, J C Keenan, W F Kennedy, J P Kleinhaus, E B Kenyon, Hugh Kelly, Frank Kosta, Alpheus Kipp, S K Kneeland, H C Kibbe, A Koppikus, P H Keaner, J M Kelley.
+
+=L=--Dr T Logan, Thos Letson, Thos Latta, Barton Lee, D L Lisle, W S Long, B S Locke, A C Latson, F S Lardner, J Lask, I Lohman, J Lansing, L M Lincoln, G Lorenz, P S Lanson, A Leonard, J T Lilliard, T M Lindley, A Logan, W B Lawlor, J C Leddlive, W H Luther, W W Light, John Levitt, H M Larue, C Lanfkotter, W Lanfkotter, T P Littlefield, C A Litchfield, S H Letner, Herman Limbach, C B Lenton, H B Lake, Marcus Lowell, C W Lighter, J E Lawrence, C D Lyman, F F Low, C S Lowel, D R Linn.
+
+=M=--W A McWilliams, W McMitchell, J McClintock, P McManus, A McDonald, R McGarvey, D O Mills, G I N Monell, J H Miller, Eli Mayo, H Myers, J E Miller, M L Merrill W L Messenger, R W Murphy, O N Morse, S H Meek, Wm Myers, C Meserve, T Mitchell, G P Morrill, D O Mahoney, J R Myres, J H Murphy, J B Mitchell, J A Morgan, M Morrison, Jesse Morrill, T R Munk, H C Murray, Harry Montfort, Wm Marra, J F Morse, E McCarty, J H McKune, A McNeil, Wm Mace, C E Mack,R C Marsh, J P Martin, D McGowan, J S Miller, J Miller, A C Monson, F N Mott, Dr W S Manlove, J Q More, J W Marshall, J M More, A Moulton, J McCleery, J McClatchy, R H McDonald, James McGuire, Edgar Mills, Jacob Miller, Thos Milgate, T J May, G P Melville, T McAlpin, J C McConnell, S McConnell, P McManus, Wm McNulty.
+
+=N=--R J Nickerson, A Neubar, Dr A B Nixon, G F Nourse, E Nye, C L Newton, D H Norris, Peter Nagle, J H Nevett.
+
+=O=--Dr I E Oatman, C P O’Neil, H P Osborn, John Oschwald, James O’Neil, Daniel Oliver, J H O’Brien, C C O’Fling, J F O’Bryon, H H O’Callahan, J P O’Neil, L W Ogden, L P Ormsby.
+
+=P=--A P Petitto, S Pearl, E R Perrin, J H Parnell, Wm Pearce, C T H Palmer, John Peasley, John Prentice, C G Page, A V V Post, C S Preble, G A Poor, G H Parker, G Phelan, Adolph Palin, A D Patterson, A H Powers, G A Putnam, S Putnam, J A Patchen, R A Pearis, J R Pettus, A Polaski, C L Price, Thos Paden, James Pollock, Lucius Powers, G O Perry.
+
+=Q=--J Quinn, James Queen, B C Quigby.
+
+=R=--C Ramsey, C F Reed, James Reid, J Richards, J H Rose, D S Ross, Wm Roush, Dr C Ruddock, T H Russell, M Ransom, S B Robbins, Cyrus Rohrer, C H Ross, G Rowland, L Reynolds, A D Rightmire, Mark Robinson, C C Reid, G T Rich, M Richardson, Bartley Reeves, C C Rice, Rt Reed, E W Roberts, W A Ranson, M M Reid, G Renaud, John Requa, J P Rhodes, Sam’l Rich, A G Richardson, John Rivett,=S=--Jn Sims, Abm Sites, A P Smith, A J Soule, J D Stephens, W R Strong, C H Swift, J Strutz, S Schreiber, E D Shirland, W M Siddons, J H Sullivan, A C Sweetzer, T K Stewart, T G Salsbury, C G Shipman, James Stevenson, Myron Smith, John Stuber, J F Stump, E G Smith, S R Smith, D Sutterfield, L T Sanderson, Silas Simons, J H Strowbridge, A A Sargent, E H Smith, J C Spencer, H W Schacht, J B Schmidt, E A Sherman, J D Seelen, Thos Sunderland, Voly Spalding, Jacob Shew, J D B Stillman, J F Suydam, J F Stone, C C Sackett, W D Shallcross, J H Shirley, C R Shirland, E M Smith, Ralph Smith, J B Starr, L Steudeman, Ed Stockton, Jh Shaw, Benj Sanders, A P Soule, Nathan Stevens, John Skinker, A P Smith.
+
+=T=--H Treichler, M Torry, Wm Turton, J B Taylor, J A Tutt, Dr S P Thomas, C A Tweed, S S Turner, Lansing Tooker, Wm Tool, John Tingman, W H Thomas, Guss Taylor.
+
+=V=--G K Van Heusen, W B Van Dyke, J H Vergo, J S VanWinkle.
+
+=W=--Fred Werner, E Wadsworth, David Wood, S B Woodin, J E P Weeks, E O West, A S Whitmore, C Wolet, Wm Wallace, L G Wright, W H Willetts, T S Wilkinson; Geo Worthington, W C Wright, D E Wade, H B Waddilove, Louis Warner, O H P White, W B Whitesides, D G Whitney, D Willard, Jonathan Williams, Wm Wolfsberger, Wm G Wood, R H Woodward, B A Woodworth, John Woolaver, G G Wright, John Winders, James Webb, G W Wallace, Geo Withington, T J Willbaum, Philo West, P T Williamson, C Winters, W H Wallace, A Warring, A Weber, S E Welch, Julius Wetzler, E D Wheatley, Geo Wiggins, J C Williams, E F Woodward, L Wilcoxson.
+
+=Y=--J E Young, Wm Yule.* * * * *
+
+Pioneers of the Counties of Marin, Sonoma, Napa and Mendocino:
+
+=A=--W C Adams, Louis Adler, R Angarde, S Akers, J Abbott, S J Agnew, O S Allen, J M Armstrong, J Albertson, W G Alban, T Allen, E G Alban, H Appleton, N H Amesbury, D H Alderson, J H Allison, C H Allen, W F Allen, C Alexander, C G Ames.
+
+=B=--W M Boggs, J B Beam, W H Brady, H Barech, A A Basignano, E Biggs, L Bruck, E F Bale, John Brown, S Brown, W Board, J F Boyce, J S Bracket, D Burras, I S Bradford, R Burnell, P F Barker, J N Bailache, E N Boynton, Ai Barney, J D Beam, W P Boyce, M C Briggs, H W Baker, J W Boggs, E Barry, S H Buford, S Bennett, H E Boggs, E Barnett, W Baldridge, A G Boggs, J M Boggs, G W Boggs, J O Boggs, T W Boggs, L W Boggs, jr, J N Bennet, P G Baxter, J Beasley, Z Briggs, R Brownlie, J E Bond, P E Bailey, J Bright, T C Brown, A B Borrell, J Bailiff, Wm Bradford, H C Boggs.
+
+=C=--N Carriger, J Carillo, Wm Corey, C Carlton, J Cavanagh, H Clark, G W Clark, S H Carriger, W W Carpenter, C C Carriger, A B Carriger, B L Cook, T S Cooper, J R Cooper, W L Copeland, R Crane, James Clark, Christian Brothers, O W Craig, G W Cornwall, Wm M Coleman, E Coleman, H K Clark, S B Carpenter, V B Cook, D Chamberlain, J Cairns, Obed Clark, W Cassebohn, W R Coburn, D W Carriger, J L Cook, J Cogill, Sr., L Carson, J C Crigler, J Clyman, J Chiles, J Caster, B Capell, J Cyrus, A J Cox, S Clark, L Chapman, N Coombs, D C Crockett, Dr C Crouch, W R Cook, J Chauvet.=D=--H Decker, M Donohue, H W Dickinson, D D Davisson, Wm Dorman, B W Diffendurfer, E L Davis, N Dunbar, J Dickinson, A J Dollarhide.
+
+=E=--J W Easter, M Engler, T Earl, D Emerson, B E Edsal, L F Eaton, W Edington, A Y Easterly, W Ellis.
+
+=F=--J Fernald, R F Fowler, J M Freeman, A J W Faure, J T Fortson, J Fulton, J W Flavel, H Fowler, W Fowler, W A Fisher, A Farley, S W Faudre, F Fisher.
+
+=G=--J M Gregson, T C Grey, F P Green, O Greig, H L Gourne, J Gibson, Wm Greene, J F Greene, John Gallagher, W W Greening, A J Gordon, J Griffin, J J Goodin, Dr J B Gordon, G G Gardner, Wm Gordon, C Griffith, Jesse Grigsby, R A Gill, G Grigsby, P D Grigsby, A J Galbrath, J T Grisby, E Gillen, P Gessford, M Griggson.
+
+=H=--H Hingston, John Henly, Wm Hood, T Hopper, H Hall, L N Harmon, C Humphries, H Hill, B Hall, Wm McP Hill, D Hudson, J Henry, T B Hopper, C Hopper, B Hoen, H H Hall, S H Hyman, A Hixson, A Harasthy, L C Hubbard, H P Holmes, J W Harlan, T F Hudson, W B Hagans, C Hazebrigg, J B Hollaway, W H Holleday, J B Horrel, J Henry, Harper brothers, W Hargrave, M Hudson, J Hudson, J Harbin, Mat Harbin, G Hallet, W A Haskin, J Haskins, W A Haskins jr, L Higgins, F M Hackett, J H Howland, I Howell, John Howell, D Howell, P Howell, M R Hardin, C Hartson, R D Hopkins, W Houx, A Henry, L Haskell, R A Harvey.
+
+=I=--M Ingler.=J=--R Jones, Benj Joy, E Justi, E K Jenner, D Jones, C Juarez, J A Jamison, G E Jewett.
+
+=K=--A Kripenstapel, F Keller, H Kreuse, A Kohle, J Knight, R Kennedy, R L Kilburn, T Knight, W Kilburn, I Kellogg, W W Kenedy, A W King, Ira Kilburn, Kelsey Brothers.
+
+=L=--C W Lubec, N Long, R Lennox, G W Lewis, J H Lane, C H Lamkin, J A Lossee, J Lutgens, H H Lewis, H D Ley, A J Lafevre, Ed Latapie, B Little, J F Lamden, J B Lamar, G Linn, Dr T M Leavenworth, H Ludolph.
+
+=M=--N E Manning, R McGee, W E McConnell, J McLaughlin, W Mock, S McDonough, W Montgomery, J H McCord, A M Mansfield, R. G. Merritt, D H Morgan, P McChristian, G W McCain, A J Mills, J Munday, M T McClellan, J McCormick, L W Mayer, J W. Morris, J R Moore jr., A C McDonald, W J March, Mr Marshall, W H Manlove, J H Moore, J Martin, C Musgrove, Wm McDonald, J Moran, H Mygatt, A Moumert, G McMahon, R McGarvey, W McReynolds, W R Morris.
+
+=N=--John Neil, P G Norburn, S S Noble, W Neil, L A Norton, E Neblett, W H Nash, J M Nichols.
+
+=O=--G W Oman, F Oettl, A A Olmstead, A P Overton, H Ousley, S Orr, J H Orr, W Ousley.
+
+=P=--J A Palmer, G Pearce, W Potter, J C Peary, R J Preston, J Powell, J A Poppe, G T Paulli, A P Petit, C Peterson, G W.Peterson, P H Pharris, H L Pierce, D Powell, T J Poulterer, D D Philips, S Potter, J D Patton, H G Parks, J A Pugh, T Partin, H Porterfield, H Pierce, P Polsten, J V Porter, D Patton, Jethro Powell, Rt Poppe, C Poppe.
+
+=Q=--Wm Quinton, D Quinliven.
+
+=R=--J Robeson, T Rocheford, V Robin, C Rogers, W B Reed, H Robinson, J M Roberts, J L Rouner, D Ripley, T W Richards, S H Rupe, J Reynolds, A F Redemeyer, Joel Regan, G Reeve, B Robinson, J Robinson, B L Robinson, Col Ritchie, A J Raney, S F Raney, W H Russell.
+
+=S=--J Selling, R Spence, John Smith, F Starke, D W Stroufe, N O Stafford, E W Sax, P Sneed, C O Stab, P Sharvein, J W Sharp, Dwt Spencer, J K Smith, S M Shinn, J Sedgley, J H Seipp, J Singley, F Sears, J Stewart, W W Stillwagon, A Salaman, J R Snyder, C V Stuart, J H Sturtevant, C J Son, J T Shinn, P G Storm, C Stewart, Thos Smith, J Stiltz, WC Smith, J J Swift, J Somers, A Stines, Dr B Shurtleff, J Short.
+
+=T=--S D Towne, G Tomsins, E Towne, W S Thomas, C C Toler, C Talbot, R Tucker, J Tucker, G Tucker, W Trubody, J Trubody, Josiah Trubody, John Trubody, Willis Trubody, S Tucker, T H Thompson, J B Troubado, W Topping, G W Thompson.
+
+=U=--J Udall, F Ulhom.
+
+=V=--F Vanhallen, P J Vasquez, A Von Omtzon, A J Vanwinkle, P Vanberer, S Vallejo, M G Vallejo, C Vangelden,=W=--J J Weems, W S M Wright, J Wright, H L Weston, H M Wilson, J A Williams, J Walton, A A White, D W Walker, J G Wilson, J Wooden, W H Winter, J Wilson, J Westfall, R B Woodward, C B Wines, J B Walden, J M White, P Ward, W Webb, J B Warfield, F Wilsey, A Witt, D Wharff, L C Woodworth.
+
+=Y=--D York, H York, John York.
+
+=Z=--L W Znager.
+
+* * * * *
+
+The following are the names of Pioneers now residing in Placer county, California:
+
+James Collins, W W Wheeler, J Peterson, J T Kincade, G Harsh, Wm Johnson, G M Bryant, L L Bunyon, B D Dunbar, T Ackerman, H Mansur, B F Smith, G W Thulkel, J D Pratt, G W Applegate, C Silva, A S Whittimore, J W Smith, J C Boggs, S Adams, W C Wallace, J H Ames, R W Baum, J Belden, C A Bradford, A L Case, E M Buckley, G Burdell, J C Classen, J Coddington, C C Coleman, W H Conly, J T Coryell, J M Donahue, P J Donahue, C M Dougherty, E A Engleberg, J Findla, F P Forster, J B Frisbe, J L Given, C F Glein, J M Gourcy, A Goodyear, J W Miller, T W Moore, G A Yound, J Tuttle, G W Tyler, O B Turrell, W H Turner, J K Trumbo, A Townsend, G W Vincent, G Torrens, G W Toombs.
+
+* * * * *The following Forty-niners are at present residing in Nevada county, California:
+
+J Anderson, W Ashman, A B Brady, W Bradley, J Blake, W Brady, W Cunningham, R G McCutchan, L S Calkins, Z P Davis, S H Eddy, W K Weare, J Lyons, T Henry, H Seymour, T L Hughes, C Justice, J Lewis, W Taylor, L Williamson, G Wesls, J P Wentworth, J H Wentworth, J Gray, H A Lines, P Hendry, E Withington, O Smith, J B Gillespie, C Weisenberger, D A Rich, T Giles, J D Herning, G M Hughes, Sn Pernard, J H Hamilton, H A Searles, Wm Osborne, L Williamson, S Hunter, Wm Higgins.
+
+* * * * *
+
+Members of the Pioneer Association of the City of Marysville, California:
+
+L Ackley, C V Man, M S Cleveland, James Traynor, J H Hanson, Thomas Dean, H H Hollister, D C Day, Daniel P Newbert, G W Nicholson, H S Taylor, Chas Baird, A J Sluma, E W Mull, H Barrett, Geo Merrite, O P Stidger, Lulien Chritien, E H Clements, Daniel Prescott, C Coe Prell, W M Bell, J G Cornell, W McMurtry, John V McMurtry, W Downie, Jas Hunter, E C Ross, George P Russell, E M Binninger, C R Howe, W K Hudson, S M Miles, Eli Teegarden, W H Hartwell, James B Leaman, J A Murry, James Williamson, A W Cutts, John Seaward, G N Swezy, G R Nightingill, W K McClintock, J G Dow, H S Graves, G W Fairle, J R Totman, James T Dickey, E Mattoon, Doming Cuadra, Joseph Clark, James Reese, A J Hewett, H F Hyde, N D Smith, S T Brewster, T W Kent, R K Stevenson, H Eiterman, W A McLaughlin, Henry Weil, L S Sullenger, J Smith, Tartan Smith, J M Braden,Wm G Murphy, John C Smith, Antone Christian, Benjamin Begelow, L P Crane, C Westenhaver, John Keller, Stephen Eaton, L R Sellon, Milton B Gordon, T H Haims, S Blodgett, Edward Hooper, Jotham M Blanchard, L H Babb, G S Ely, A J Cumberson, John G Briggs, H M Gazlay, L F Craft, Newton Sewell, C F Scholl, S J S Rogers, S R Chandler, A W Oakley, Francis Heyland, E H Pratt, Phil W Keyser, H J Shulee, Henry Kerns, A J Lucas, C C Harrington, G Katzenstein, Theo Sicard, Joseph Lask, John Gebzhaeuse, John Kupser, Thos Alpaugh, Jacob Tomb, G P Hunt, E Hamilton, Chas H Thurston, Wm Delvine, Jackson Arnot, B R Lippincott, P Vanclief, S A Blake, A P Willey, Thomas Brown, Jacob B Clark, James B Stafford, H H Purdue, H H Shuessler, A J Batchelor, Henry Heitman, A S Noyes, S C Spengler, Charles E Swezy, Francis Hamlin, M Pienson, Charles Justis, Thos S Clyma, Wm E Howell, G E Brittan, E Griffith, W T Bleven.
+
+* * * * *
+
+Pioneers who joined the El Dorado County Association:
+
+Benj F Post, J Q A Ballard, Col S Altar, L L Ramsay, Jehu Evans, J L Perkins, A J Lowry, H C Murgotten, E P Vaughn, John R Patten, Darwin DeGolia, A Coleman, J D McMurray, Dr Ira Glynn, R S Hernandez, A H Reid, E N Strout, Geo G Blanchard, H S Allen, H W A Worthen, John P Matthews, Levi Hunsberger, N D Burlingham, Reuben Twyman, Neal Gallagher, John Angus, George W Frater, James Moon, Nathaniel B Dryden, John Mosby Price, Paul Mitchell, N F Marrs, John Price, Henry Day, Henry Mahler, Geo H Ingham, Phil Teuscher, W R Galleher, John Crocker, B F Edmonds, Robert Chalmers, S F Child, Jno G Vanderheyden, John Teuscher, C Perry Young, S A Berry, L B McClain, Charles Barker, Richard Murphy,E S Barney, Mat Morgan, Wm Morgan, Thomas Coppinger, George Beattie, A C Dale, Joshua W Lance, John Gale, Lewis Dubray, James S Hartman, A G Stewart, A Darlington, T C Nugent, Wm Jones, D W Chichester, H Brian, M C Metzler, James Bunyon Hume, G J Carpenter, Thomas B Patten, William H Cooper, Smith Morill, Wm Leasly, William J Hale, S J Ensminger, Truman Wilcox, L C Fisk, Wm F Tripp, J P Wonderlich, D Elmendorf, John Cartheche, Isaac Showater, Russell Bronson, Frank Gerbode, H B Turman, John Henry Dodd, Henry Kennedy, Maryland S Frasier, George Hunsucker, Nathaniel Lawrence, Jonathan N Lauman, Henry Myers, Ernest Mortenson, H S Hulburd, Charles M King, J W Foster, S D Colburn, James C Bronson, S O Pierce, Geo H H Forester, Thomas Davidson, A A Howard, A B Bates, J G Bailey, Samuel Spong, Levi Brown, J P White, Thomas Auders, Gen’l Phipps, J W Baldwin, Thomas Beckner, M Fairchild, Wm T Gibbs, John McClaren, Thomas Armstrong, Wm Johnson, S B Dick, Joshua V Lanston, Henry James, Andrew Jackson Wall, George W Rymal, Robert A Jeffries, J W E Brown, John James, Jeremiah W Kendall, Richard Lane, J H Miller, James K Shaver, Jesse Couch, O M Taylor, W C Beal, T G Barton, Flemming Jones, James Creighton, Matthew Q Dennis, Barney O’Rourke, James Sharp, Gilbert Hix, Isaac Yoacum, Samuel Robinson, J T G Chamblin, Almerin Fisk, John Little, Thomas H Hart, E T Ramsey, Dr D Stewart Smith, Wm Weatherill, John Bishop, J C F Koepcke, J V Dilley, Dr W E Spencer, E H Perry, Wm C Smith, S J Ford, Wm Frey, D T Hall, Theo Eisfeldt Sr, E L Kenney, G L Vaughn, Duncan Ferguson, John Bunker, Jefferson Baird, James R Griffin, John S Fowler, Samuel Kyburz, D B Luken, Wm S Gray, W B Wallace, Moses A Smith, Guillaum Barrette, Geo W Vaugah, David Bennett, Wm Newland, J G O’Brien, Charles Watson, William Smith, Wm L Rhodes, John M Rice, Charles W Winstandley, J D Skinner, Wm Krahner, Joe Brinley,S T Goge, A Connell, A Aitken, John Cantrell, William Christian, George E Rigsby, Patrick Martin, A H Reid, Henry Larkin, N Gilmore, James R Johnson, Charles Broad, Wm Dormody, George W Simpers, John Hines, Samuel S Wilson, Stephen Willets, Samuel Fleming, H E Cutting, Nick Wonderly, G W Hunter, John Daniel, O E Shepherd, Geo W Harr, Geo W Ferree, Ed M Wilder, Jacob Winkleman sr., Henry T Newhall, B F Pollard, Wm Harris, Wm R Davis, Wilber Read, John Steiner, Augustus T Lee, James M Oxley, D M Richardson, A J Wilson, S E Kyburz, Geo W Parsons, Thomas Leavey, Benj Starr, J W S Giles, John McFadin, B F Burgiss, John Richmond, Peter Wilson, John Gould, Wm McCormick, H O Hooper, N Osgood, R G R Moore, Manuel Snow, Egbert L Wilson, Nicholas Mulick, B F Johns, E Grant, A J Christie, John Maffey, Robert McBeth, J W Annable, J P Steele, J W Rupley, H F Lear, B Currier, J Kohn, S T Gage.
+
+* * * * *
+
+Pioneers of Alameda and Contra Costa Counties:
+
+=A=--Wm Atherton.
+
+=B=--Mrs E Baldwin, Wm H Bartling, G Bingham, H A Benson, J L Bromley, J J Brayman, R Bronson, J M Buffington, W H Buckley, W S Burns, Mrs M Buckalew.
+
+=C=--J Capell, S J Colling, A M Church.
+
+=D=--N R Dabney, J De Bell, H W Driver.=E=--J W Easter sr.
+
+=F=--L Frink, Mrs M A Frink, D D Francisco.
+
+=G=--Mrs C Gardner, D W C Gaskell, W T Gibbs, Mrs. C A Gibbs, Z T Gilpin, Mrs. M P Geurnsey.
+
+=H=--L J Hardy sr.
+
+=K=--E Kelsey.
+
+=L=--F G Low.
+
+=M=--J S Marston, Mrs E B Marston, J Moffitt, A Moore, A B Montross.
+
+=S=--N Sewell, E A Sherman, C F Scholl, G W Stewart, Col J Stewart, Mrs I Somers.
+
+=V=--J J Vanduyn.
+
+=W=--W Winnie, Rev O C Wheeler.
+
+* * * * *
+
+Territorial Pioneers living upon the Pacific Coast:=A=--C H Aitken, T Anderson, N S Arnold, A B Asher, M Ashbury, W G Alban, E G Alban.
+
+=B=--J H Baily, G H Baker, Dr A S Baldwin, J Ball, Thos Bell, Rt Bell, J C Bell, Rev J A Benton, H C Bidwell, G G Blanchard, P H Blake, Dr. J Blake, Wm K Black, J A Black, Dr A Blatchley, F A Bonnard, J W Bones, E Bosqui, J W Bost, C T Botts, Dr A J Bowie, A J Bowie jr., C M Boyd, A C Bradford, E Brown, T A Brown, Mrs E Baldwin, Wm H Bartling, H A Benson, J J Braman, R Bronson, W S Burns, T B Biddel, H B Brooks, S H Brooks, A J Bryant, C H Burton, P H Burnett, D J Burnett, J M Burnett, J C Burch, W W Burditt, S S Burt, D Bush, H W Byington, B W Barnes, D C Bryan, C N Blake, Bart Bec, J Brunner, L Bartlett, Jas Bovee, Wm H Bell, H Brooks, W K Benjamin.
+
+=C=--S H Carlisle, O S Carvill, E Case, G A Case, O P Callanay, W L Cazneau, G Chambers, J I Chamblin, R Chenery, J W Cherry, S J Collins, C W Childs, W O Clark, W H Clary, J P Cochran, J Cogill sr., D D Colton, C J Collins, J H Conway, W W Cope, G W Cope, J C Coult, H S Crocker, M Crooks, P Crowley, J D Crowley, G Chambers, C E Carpenter, C P Critende, G W Colby, J S Campbell, F R Crussell, J Cassin.
+
+=D=--H S Dalliber, T R Davidson, C W Davis, N S Davis, E F Dennison, James Derham, J Derham jr., J F Derham, J A Donohue, E Donnelly, M Dimond, M De La Montague, D Degolia, J I Dougart, R C Downs, C Driscoll, P Durkin, H Dutton, W H Dobbins M D, R Dinsmore, N L Drew.
+
+=E=--Wm Ede, B B Edmonston, K C Eldridge, J B Emmal, J W Easter, E E Eyre.=F=--D Farquharson, S C Field, S Figel, G K Fitch, J W Foard, G M Ford, J B Forner, C W Fox, J Frontin, L Frink, Mrs A Frink, D D Francisco, T S Fouschee, F P B Fouroche, W H Fountleroy, J S Friedman.
+
+=G=--W E Gallatin, G Garneau, W T Garratt, J W Gashwiler, O F Gehrick, F A Gibbs, N Gilmore, W T Gibbs, Mrs M Guernsey, A J Gladding, J Goldman, J R Goodwin, N Gray, T Gray, Wm J Gray, J J Green, S Greenewald, A K Grim, M Guerin, A S Gould, A M Gray, Wm D Garland, S Graves.
+
+=H=--H Hahn, R B Hall, C Halsey, J M Harbin, H W Harkness, Wm E Hansell, B Hollingsworth, E E Harvey, John Hays, P Hopkins, J Hughes, L Hanscom, J Hanson, L J Hardy sr, L J Hardy jr, E Hawthorne, C E Hazeltine, S Heydenfeldt, J H Hickox, A A Hobe, L J Hardy, Ricker Hill, H F W Hoffman, S B Holly, H T Holmes, T H Holt, Wm Holden, W H Hooke, R C Hopkins, T Horabin, J F Houghton, T W Hubbard, P Huerne, J Humphreys, H L Hosmer, L B Hopkins.
+
+=I=--A S Iredale, J B Iredell, J D Ijams, J T Ish, Wm Irelan.
+
+=J=--J T Jennings, T W Jerrett, H P Jones.
+
+=K=--D Kanary, J W Keith, Wm F Kells, G W Kidd, A G Kinsey, J L King, J G Klumpke, D A Kneass, L Krone, T Kyle, J Kemm, T J Knipe.
+
+=L=--S D Lamereaux, C B Land, N P Langland, M S Latham, J S Leavitt, A Ledlie, T J Lee, B F Lee, H R Leonard, L T Lewis, Jacob Lewis, J F Lighter, A H Lissak, I Lohman, W H Lyon, R Larrymore, M M Lewis, J C Ledlie, L B Lyman,J H Lindsay, Wm Lincoln, J E Lawrence, Wm S Lowden, J B Lyle, W V Lyon, F G Low, J C Ledlie.
+
+=M=--W L Marple, D W Martindale, B F Mauldin, Wm McAfee, W McClintock, J H McCabe, G McDonald, J S Marston, Mrs E B Marston, A Moore, E McGarry, W H McGrew, G O McMullin, T McMullin, D McNeil, J M McPike, J Mee, D Meeker, W Meeks, S F Merritt, G A Miller, Wm Mitchell, R C Montgomery, A Moon, A G Morton, N S Morton, J B Morton, H R Morton, G H Morrison, J A Moultrie, Dr S M Mouser, J Mugan, A Martinon, Wm H Mack, F S Morton, C McElroy, C Menne, D S McLellan, I M Merrill, C McLaughlin, A P Minear, G H Messersmith.
+
+=N=--S C Nathan, Wm Nellis, T Newcomb, H M Newhall, W H Nichols, A R Nichols, L H Nolte.
+
+=O=--J O’Malley, W T O’Neale, C O’Neil, O C Osborn, S Ostrander, J B Owens.
+
+=P=--R C Page, W L Palmer, G Palache, W Paul, S T Payne, W Pearson, J W Pearson, S Perkins, J Pershbaker, C H Phelps, L Pickering, F Pire, J V Plume, J S Polack, C F Priest, S Phillips, H G Pitman, S J Pierce, G W H Parker, W W Porter, H C Patrick.
+
+=Q=--L Quint, T M Quackebnsh.
+
+=R=--J B Ransom, Wm Randolph, E T Raun, J W Reay, B B Reading, W C Reed, E A Reece, C H Reynolds, G A Reynolds, W L Richardson, I Richards, J N Risdon, C P Robinson, Tod Robinson, C J Robinson, Rt Robinson, E J Robinson,W T Robinson, H E Robinson, G D Roberts, F A Rutherford, C T Ryland, E B Ryan, R F Ryan, R H Rogers.
+
+=S=--J E Selleck, C H Selleck, J W Shanklin, T B Shannon, H Shartzer, S W Shaw, H A Shelton, C F Scholl, Alex Smith, Wm H Smith, Williams Smith, N P Smith, A Staples, C Stevens, J Stevenson, Dr J D B Stevenson, W W Stoval, J Stratman, R R Strain, R O Sturdivant, T Sunderland, C S Swasey, W F Swasey, Dy Stevens, H Scammon, H Seaman, C M Smith, C Scull, W H Stevens, P Somerville, E V Sutler, J G Severance.
+
+=T=--G I Taggart, A S Taylor, W H Taylor, Lloyd Tevis, Dr. M R Tewksbury, S C E Thayer, U B Thomas, G W Thomas, H D Titcomb, J H Titcomb, J R Travers, J Travers, Geo Torrens, C R Thorne, J Tompkins, Dr J B Trask, T A Talbert, W J Tinnin.
+
+=V=--R T Van Norden, J L Van Pragg, J Vance, L Vesaria,
+
+=W=--J Wade, J F Wade, T N Wand, C L Weller, W Weston, P J White, H F Whitcher, F E R Whitney, J L Wilson, J S Williams, H F Williams, M W Willis, E L Willard, Edd Willard, J Winchester, W Windsor, H Winkle, J Winterburn, G F Worth, J Wright, W F Wyatt, C D Wallace, R R Wallace, J W Wesson, P J Wood, Wm Weston, F L Weeks, J W Winters, Wm Winters, J H Wilson, F E Warren, A A Williamson.
+
+=Z=--C J Zabel.
+
+* * * * *Following are the names of a portion of the old Forty-niners who are now living in various parts of the Union, who do not belong to any Pioneer Association, and numbering about 1,200.
+
+=A=--L K Adams, V Anthony, D T Abbott, H Allen, H Atwood, Mr Ashe Aughinbaugh, J G Alindu, J M Adams, H Amos, C H Allen, W V S Annin, P Appling, H W Anderson, S T Allen, T Ashton, A C Adams, F Anderson, W C Asher, D Akley.
+
+=B=--N B Bennett, J M Brock, J Bamfield, W H Bodfish, Capt R S Bodfish, W S Boyder, Mrs N B Berryman, J Bannister, T H Binney, M Braumgan, Wm Bell, R Banks, J W Brown, J E Brown, J N Brown, F Benjamin, J Brooking, E Brown, I Brownell, Capt Badger, J Burns, W H Brown, J M Beth, F M Baker, H Bush, J W Barnes, E Burson, J A Bartlett, E D Bartlett, H D Bartlett, C C Bartlett, John Bull, H Blair, D F Bradford, P F Bradford, B B Bishop, B F Buttler,--Brower, Major W Bradford, Wm Buchannan, Mary E Baley, A D Burke, D Burris, G Beesman, F A Bee, Mrs. Batterman, R W Bancroft, W J Brown, J Beale, A D Bayles, J T Burkett, S Ballou, Mrs Branch, H H Burwell, S W Briggs, A N Bell, W I Bailey, E G Burger, John Baxter, A Braunagan, J T Boley, J F Bernard, A J Biglow, J B Burr, H C Beals, E S Bennett, R M Brock, Dr C Burrell, W M Borden, T J Bedford, J Brown Jr, J F Bateman, Catherine M Brown, E W Burr, W Bosworth, J H Bailey, F Bates, G W Branch, Mrs M Branch, G H Briggs, J Q V A Brown, E Burton, V Baker, N S Bennett.=C=--C D Cleaveland, J W Chiles, C S Cram, W A Campbell, S Colling, G F Culbertson, John Cornelius, W H Card, W Cooper, H Classen, C W Childs, S W Carr, Myron Culver, I Cooper, Thos Clark, J C Caswell, J A Cunningham, A Cushing, Mrs D Chaetin, W D Carter, E S Code, C Cushman, J Cavanaugh, J M Carter, L Cleman, J Christy, J Collins, R S Groom, G W Cook, C W Cook, J H Crocheron, H M Carter, H B Chase, G W Chedic, W P Clohey, Wm L Coffin, A W Clough, J B Clark, S S Culverwell, S R Chayotte, W L Carpenter, F Chapellet, J P Chamberlain, J Chew, F F Culver, R Christian, N J Christian, D F Choate, A D Champney, J M Catron, A B Carter, G D Connor, J F Cloutman, J H Cills, J M Conway, Miss E C Coumbe, F Cooper, Chas Cambers, G M Coll, W J Clark, Mrs M Conrad, John Conrad, Geo Conrad, Jackson Conrad, P A Chalfant, J Capell, James Cass, A L Clend, Capt G Clinch, J M Cary, W P Callahan.
+
+=D=--H B Davis, Dixon & Wife, H E Dudley, S C Dicus, W E Dodge, Susan Dixon, H K Dean, Mrs A M Dickinson, D H Dille, C B Darwin, H Detels, J J Dean, G Douglass, John Dugan, W A Dashiel, C J G Doveton, B F Dennison, J L Durkee, J B F Davis,--Dullord, J A Douglass, B H Dean, A L Downer,--Diggs, E A Dean, Alex Drysdale James Donahue, E G Dietz, Mrs D B Durant, D O Dodge, C H Dewey, J Delano, J W Dager, B Deming, R E Doyle, J Dameron, J M Darnell, D D Dutton, J P Duncan, J P DeGroph, Wm Dresser, A L Downer.
+
+=E=--Robt Egbert, Oliver Egbert, John Egbert, Rensalaer Ellis, T F Eyres, R K Emerson, A C Ensley, F Elery, T M Estey, Mr Eisenhardt, T Ellsworth, J A G Edwards, Mr Enows, J T Eckerson, M Eagan, W Eaves, J E Eastman, Mr Edmonstone, O E Eckelmann, J R Eliison.=F=--Mrs C J Furlong, G S Faulkner, A Ford, G K Fitch, P Flannegan, E J Fowler, L B Fine, A C Fine, Mrs Louisa Fine, Dr A Fine, J R E Fine, J H Flannigan, Mrs G Fritch, O H Foster, J H B Foster, F S Freeman, J B Farney, W K Fenton, B N Fox, I Ferguson, W B Floyd, J C Fithian, R J Forbes, A H Ferguson, James Fulton, G H Fisher, J W Frye, R M Field, James Field, Vincent Foster, Chas Foulke, S Fenley, J K Field, Capt Faral, W T Fitzpatrick, C C Foley, Mrs M Ford, D Fairchild, E H Ferris, Mr L Feliz.
+
+=G=--W H Gibbs, J S Gibbs, B T Gillum, H Garcelon, A B Galbraith, H Grissim, L Guinard, G G Gardner, A K Grimm, Mrs C Guthrie, P Gordon, W A Gardner, T M Gregory, M Green, J R Gilbert, Mrs M Gordon, J Gardner, Asa Gage, W N Geepslill, J H Guigley, G F Gashan, C D Gibbs, E P Givens, J H Gordon, A Griffith, L F Geisse, G Grotesend, J M Garovette, G F Geisse, G W Green, F G Goff, L N Gates, Major Glinn, J Goldman, C A Granger, S W Gildersleeve, J Gard, D Gard, Wm Gard, L Gard, J Giles, E A Gibson, J Goodale, H C Glomsin, Wm Goodhall, J Greene, Mrs W Grigg, G W Grawnis, G Goodridge, E Gove, Thos Gihon, Wm Gilbart, G A Gillespie, R Grippin.
+
+=H=--J Hart, H V Herbert, W D L Hall, N B Hoyt, G W Harris, L Harnett, J J Higgins, W G Hudson, G Harris,--Holladay, J A Hopkins, G M Harris, L B Howes, Josiah Hall, S Hudson, J Hudson, T S Hamilton, D M Hansom, W P Hansom, T Hinckley, W Holder, S S Hussey, A C Hosmer, C C Hyde, A A Hicox, Margaret M Hicox, A N Hicox, Hamden Hicox, J W Haly, O C Hawkins, W A Hamilton, J J Hendrickson, W W Haney, T Hinkley, J Hollingsworth, Mrs J N M Haddock, Wm Hall, Jothan Howland, C R Hoppin, W H Huston, Mrs E H Haley, J Heywood, J P Hoyt, N Hawk, Mrs E Hawk, W H Hawk, Mrs B H Hoag, Mrs T Harrison, J Hilly, Sam Hicks,Chas Hicks, John Hagan, James Hagan, Tom Hale, Ed Hearn, J Howerton, J J Hammond, I J Harrington, W H Hester, J B Henry, Mrs F Hutchinson, James Hall, E W Howe, W Hendrie, W L Hopkins, G W Hebron, J T Holmes, N W Hulse, J P B Hill, L E Harthan, A H Hoos,--Hitchell, M Heallim, S Hudson, C S Hatch, Asa Howard, I M Haley, James Hilly, J V Harrison, D Hamilton, James Heard, N E Hanson, J F Hanson, D A Hanson, A Hall, J B Horrell, A C Hewitt, J J Hendrickson, A A Hyatt, J Hobart, P Hays, W Hays, A Hemme, C Hammerschmidt, Wm Hopper, H M Hervey, P A Haven, W C Holman, S B Hooton, C A Hough.
+
+=J=--H Jones, J R Jacobs, B Jacobs, D Johnson, W N Jenkins, R Jenkinson, Thos Jenkinson, H B Janes, Jarvis Jewitt, J H Jacobs, J M Jackson, W S Jacks, W T Jameson, E Johnson, J H Jones, W Jewell, jr, Jasper Jurgens, H F Johnson, R Josephi, A Jurmel, H Jones, Wm Jones, S W Johnson.
+
+=K=--J C Kemp, J E Kimball, J A Kenny, Dr J Kunkler, D Klanbery, S J Kellog, M L King, W A Knight, B F Kellum, D Kenyon, N Kuell, E D Ketchum, A G Kennan, A F Karchival, B M Kelly, A D Kelly, C Kean, C O D Kelly, W L Knox, T Kingsbury, L Keyse, C C Knight, E T Keyser, G Klayber, E R Keynon, Mrs F Kripp, H Kendall, G P Kellogg, G Kinney, S B Kingsbury.
+
+=L=--J H Lowell, G M Lowrey, C H Lamon, W B Ludlow, A C Longmore, G B Lusington, M M Lucas, Mrs Kate Lamar, R T Liddle, J C Layton, J H Leonard, B Lequilous, C Latimer, H Lusk, John Lawson, D G Lamoree, Mrs D Loyn, B Lincoln, C E Lang, W N Leet, S Longley, Mr Lipp, W F Levens, W S Lyon, Con Lare, Rev J L Leach, Mrs Annie Leach, R Lewis, R Lane, R H Lawrence, F C Loring, C F Loring, D Locke, T Labadie, Mrs Eliza Lambert, R Latham, Mrs Latham, C C Luttrell,Nancy Luttrell, Ed Lyon, A B Lafarge, C W Lawless, M R Lard.
+
+=M=--J Murphy, McRoberts, G T Mordecia, G May, Wm Mock, H Myers, Mrs J E Morton, W J Marsh, Wm McCroney, M McLaughlin, D C McKenney, W H Morony, D H Meyers, E F Morse, J R Megarregle, W L Manley, Mrs J McGreen, J McChapin, J C Merrill, J H McCasland, G E Mulhause, T Mooney, A L Murphy, C Marsae, I S Mathews, T G Martin, G McCroskey, J D McCoomb, T Manser, W E Miller, P Murphey, McCauley, G Meredith, McDaniel, J McKew, Wm McNers, Mrs S P Martin, McIlwain, H P McCleare, B F Mead, E Moore, A J Moulder, F M Montague, J W Myrick, E A Moore, E E Matteson, Wm Magee, D Markham, N H Meany, M Martines, E H Marton, Mrs E McDowell, L B Myers, Wm McGriff, W K Miller, J Morrell, P A Mauldin, J S Morris, H Moore, C R Mayhew, Mayhew Sr, F R Meyer, J O Mahony, D O Mahony, J F Madden, Jerome Madden, J W McCabe, W S Moses, H R Morton, F Murrow, Robt Mills, Isaiah Mitchell, G M Mory, S B Martine, Wm H McKinston.
+
+=N=--C Nelson, S P Nye, U S Nye, W N Nesbit, J Nicholl, G F Nourse, John Noonan, J N Noble, Capt A F Noles, John Nesbit, S N Norton, Capt H M Norton, T Nugent.
+
+=O=--T W Osborn, G W Ousley, J C Owen, J O’Brien, B S Osborn, O Owens, P A Owens, M G Oakley, R Owen, James Olds, S R Osgood, W Odenheimer.
+
+=P=--D W Payson, G T Purdy, J F Perry, G J Phelan, H A Pike, Mrs T Pendegrast, F Peterson, G A Poor, S W Prothero, G Pfeiffer, J Pryon, Jose Pina, W H Peck, T H Porter, Theop’ls Pugh, S A Potter, W M Powers, J Q Packard, J Paine, Llewllyn Pierce, M S Prime, S A Pollard, H M Peck, Wm Paty, A B Paul,W O Phillips, Mr Parazett, W J Pleasants, J E Pleasants, Joseph Paine, R Parke, Capt D Poole, E S Penfield, J T Palmer, A J Patman, G W Powell, R L Patton, F F Pardee, E H Perry, R J Porter.
+
+=R=--J W Robertson, V Ramella, F D Robinson, J Rackliffe, S A Rackliffe, F E Ruggles, Mrs Maria Rich, A G Read, Wm Ricketts, W H Ratenbury, Revel Robinson, J Runyon, A W Rice, F H Reynolds, C P Reno, E Reynolds, G C Raney, J Reddick H Rhodes, A E Raynes, A Richter, C F Reed, H W Rice, M Redding, J C Remp, S J Richardson, J W Rodgers, J A Rhodes, Jasper Rand, M D C Ruddock, F Rohrer, C Rohrer, L Rogers, N S Reynolds, P Ragan, Mrs J W Relley, C E Raabe, Mrs E Rust, E W Richardson, C Roadhouse, W O Reynolds, J Ritchie, A Requa, R Rhead.
+
+=S=--Capt W A Shelley, Dr S S Skiff, C G Shipman, W N Steuben, T Smith, P G Strickland, J D Snowdon, G A Snook, W Snook, B F Shepard, Mrs E M Sparks, E M Sparks, J Scouler, J Somers, Alex Scraggs, M A Sawtelle, J Stickney, Philip Stoner, Mrs N Swietzer, Isaac Swietzer, James Swietzer, Lowery Sweitzer, Lafayette Sweitzer, Cornelius Sweitzer, Henry Sweitzer, George Sweitzer, Caroline Sweitzer, Julia Sweitzer, Sam Smith, G W Spring, M W Styles, R B Snelling, Otis Smith, B B Sullivan, J A Shiercoff, J P Smith, O Streshdy, O K Stampley, S W Sharp, F Subletts, A Schell, Mrs S R Strike, J P Schanty, P Stoner, W C R Smith, S S Short, J Strinart, D B Sanborn, J G Sanburn, G H Shoemaker, C E Stevens, C R Story, E Southwick, W M Stillwell, W J Swales, G Shriver, J S Scott, S A Scott, H Smith, H H Shuffleton, A J Speegle, Mrs A J Speegle, T K L Smith, N H Spenser, B S Sothern, B Schneider, Wm Smith, R Swain, C H Smith, A Sherman,--Schwatha, F Sanderson, L Sanderson, J Stuart, H H Shuffleton, M Singleton, W Sullaway, E N Strout, Capt S M Strain, W H Stevens, C T Seavy,R L Smurthwaite Dwight Spencer G H Sprague, Sarah E Stampley, Mrs W I Stevens, G W Skey, R Shackelford, Dema Strong, Geo Sturtevant, Mrs S A Somerset, Mrs M E Sabine, B F Stoakes, G Story, T Stephenson, L Swan.
+
+=T=--F Thomas, J A Towle, J B Taber, A R Tompkins, V Thompson, G B Tebbetts, Mrs M A Turner, J B Taylor, John Thompson, H D Taylor, S Talbox, N A Tyler, S W Taylor, P Teuscher, M Thorpe, T H Thompson, J S Tolles, C Trowbridge, Mrs N Thompson, W B Taylor, W J Tisdale, J Thomas, E Taylor, Mrs L Tucker, C Todd, R R Truitt, J R Truit, H Truit, B K Thom, C Tiong, H M Tice, A Trafton, Mrs A Trafton, C F Travis, P Trushee.
+
+=U=--G H Urban, M Ullman.
+
+=V=--C Vandyke, S Visher, D Van Nordan, C Van Dotten, Van Wie, J J Van Alen, W M Vance, A M Van Horn.
+
+=W=--B M Wats, W B Wilton, J A Willis, J P White, Danl Wood, J H Washburn, Mrs O Williams, Orcesna Williams, J L Wetmore, C Wilson, J F Winsell, J A Williams, W W White, J Whiting, Louis Wolff, Capt G Worth, H Wenchcomb, W F Williams. Mrs W T Woods, G Woodward, T Williams, O C Wheeler, Col Wolfe, John Wolfe, Wm W Wilkins, Capt M White, M C Winchester, Mas Westphal, W C Wright, R B Wright, J Wilkinson, R Weeks, D Williams, E Williard, E P Wright, L D Wells, H Wagner, J Williams, F Williams, Wm Wheeler, C Ward, G Worth, Mrs G Worth, Gregg Worth, H Waren, sr, J H Watson, Aug Williams, J Wallace, H Woodcock, J E Wood, E L Willard, D C Webster, J O Wheeler, H Z Wheeler, H C White, J D Whittle, F Wilcox, L D Webb, E M Woodman, H Woodd, G F Worth, J W Woodman, L Weber,F P Wehe, H S Waterman, G K Watson, Slvys White, G E White, C Willson, F F Whittier, Wm Wood, Col H Winchester, Dr Jn Walker.
+
+=Y=--J P Yaney, G Young, C P Young.
+
+=Z=--J C Zumwalta, J Zackary, M Zellerbach.
+
+* * * * *
+
+Members of the New York City Pioneer Association.
+
+=A=--E R Anthony, W C Annon, G H Andrews, W T Avery, W C Aurain.
+
+=B=--Thos Barclay, Silas Babcock, R G Berford, Jn Benjamin, R W Benedict, Fdk Billings, J J Bloomfield, Jacob Brinckerhoff, Silas W Brainard, B J Brewster, W M Burgoyne, L H Bunnell, Gen E F Beale, Cof E F Burton.
+
+=C=--M B Carpenter, F D Clark, S L Clapp, Dr G R Cotton, Wm Colligan, G A Corgan, Jediah Conklin, Genl M D Corse, L W Cogswell, H S Crandall, J P Curry, D W Clegg.
+
+=D=--G E Dean.
+
+=E=--J S Ellis, J C Emerson, Jos Evans, G B Ellery.=F=--A C Ferris, F P Fitts, W H Folsom, Nathn Fordham, Sml Fordham, S B French, C Flower.
+
+=G=--Jn Gault, G R Garniss, W M Gamble, G R Gainin, R B Gheradi, Genl H G Gibson, A F Goodell.
+
+=H=--Benj Hartshorn, E J Hall, W A Hoeber, G Hower, B M Haitshow, Capt W H Hudson, C P Huntington, Jn Hull.
+
+=I=--Gen Rufus Ingalls.
+
+=J=--Rt Jenkins, O B Jennings, G H Johnson.
+
+=K=--Eugene Kelly, J R Keene, Lawrence Kipp, W B Kinney, Leonard Kipp, D W Klemhaw, A M Kennady.
+
+=L=--John Laimbeer, F B Lattimer, G W Learned, A B Ludlow, Lucn Loeser, Jared Lockwood, W J Logan, A O Larkin, L L Lombard.
+
+=M=--S L Merchant, L R Means, D O Mills, Nathl Miller, J J Milham, M D Morgan, I A Moran, C J Murphy, Russl Myers, J J McCloskey, C J McPherson, M T McMahon, H F McDermott, Mchl McCann, A J McCall, H C Mattisell.
+
+=N=--J E Nuttman.=P=--W H Paulding, R J Paulison, T L Patterson, C H Pendegrast, Dr Alex Perry, J M Pray, J H Pratt, Gen F E Pinto, G D Puften, R M Price.
+
+=R=--A H Rathbone, G E Raum, J P Robinson, Stephen Roberts, Wm Roberts, G B Roys, W H Rogers, Thos Russell, E T Richardson, P C Rush, J C Richmond, J H Robertson.
+
+=S=--C W Schamann, H B Schamann, J J Schoonmaker, W T Sherman, W J Sherwood, Jas Shindlar, W F Shirley, Jn Sickels, Hy Smith, Lucas Smith, Rt Somerville, J E Spinney, J A Sperry, C A Sprague, Demas Strong, C R Street, Chas Stern, J S Stevenson, I P Stephens, J W Sutton, Gen T W Sweeney, J M Selover.
+
+=T=--J A Throckmorton, S R Thorne, W N Thompson, Hy Thompson, Jas Thompson, L P Thursby, J D Townsend, Fdk Townsend, H L Twiggs, W L Tyson, C H Therman, Jas Trimble.
+
+=V=--A A Vantine, Geo Van Vechter, D P Vail, D L Vanderhayden.
+
+=W=--Chas Watrous, W M Watson, J E Walker, B E Watson, J H Welch, T J Wells, H A Weeks, Hy Wilson, M D Wilber, W H Williams, Thos Wilson, J M Wiltsie, Rev Albert Williams, Jn Wolfe, V S Woodruff, E H Winchester.
+
+* * * * *
+
+The names of Pioneers now residing in the city of Baltimore and vicinity:Lieut W H Watkins, W A Wentz, J F Hunter, G Meredith, J L Stieff, J W Numsen, E M Abell, T S Stratton, J Sputer, TC Button, R Griffith, Dr J S Martin, B Trotters, E Pierce, J Clements, T I Grotyan, C Markland, Ed Hyat, N H Jennings, D R I Hall, Rt Read, Dr S H Martin, T G Morrow, James Johnson, Daniel Donnelly, D C Kone, H Bowers, W E Stuart, Wm Hull, D French, Joseph Auer, H B Tivining, C W Pnlman, E Drey, Rd Turner, Jas Clements, H B Tivining, John Mauldin, E A Miller, P T Dawson, James Nugent, Wm Deviere, G V Phelps, C Wick, John Ellicott, G M Tower, I Myers, A Cooper, J R Gould, W H Jenkins, W E Banks, D French, S Merritt, J H Handy.
+
+* * * * *
+
+Following are the names of Pioneers resident of Washington, D. C.:
+
+Col Wintersmith, T E Hatch, J A Smith, J T Harbach, J C McKebben, Gen H C Gibson, S M Briggs, Capt L L Blake, J H Magruder, E B MacGroty, J R Howard, T C Murr, G T Dawson, J C Miller, W H Barstow, J F Molere, John Prier, R Weller, H Brock, G H Miller, Gen St Clair Denver, T Cavanaugh, D Seeles, Judge W W Wiyllie, M D Wegand, J H Hopkins, T J Nelson, W H Claggett, Dr T O Hill, C Noyes, G C Gorham, W C McIntyre, Admiral Almy, W W Belknapp, Col F B Shafter, L V Reeves, W H Dempsey, J W Butler, Scott Towers, J D Darden, T O Partridge, C H Stenyon, jr, J Burroughs, W C Dodge, H Kilbourne, John Mullan.
+
+* * * * *
+
+Members of the New England Pioneer Association, Boston, Mass.=A=--John Adams, Edward P Adams, Chas M Abbott, D R Arnold, Henry M Arnold, Cyrus C Atwell, Isaiah Aubens, Eugene B Atwell.
+
+=B=--Fred K Ballou, Francis M Ball, Saml P Barker, George Barron, J Prescott Blake, A J Bolton, Nicholas Bovey, Harvey Bowen, Henry W Bowen, Henry T Bowman, John Boyd, David S Boynton, Geo L Bradley, Albert H Breed, Caleb T Briggs, Charles A Brown, Theodore Brown, Ephraim Brown, James Burdick, John A Burgess, Noah P Burgess, Wm Cyrus Barker, Jas Henry Burnett, Geo H Buxton, Alonzo Buxton, Fred L Beaman, Wm Henry Benton.
+
+=C=--R Earl Carpenter, Samuel Carr, Morse L Capen, Chas E Chapin, Saml A Chapin, Andrew J Chase, Wm Chatfield, Richard Chenery, Greenville H Child, Albion Chipman, Daniel A Clark, Geo C Clark, Jullius L Clarke, Leander W Cogswell, Jonathan Cobb, Moses S Colby, Elihu W Colcord, Eph S Colley, John Conness, Cornelius Cooledge, Stephen A Connell, Wm F Coudrey, Geo H Cushman, Geo A Cushing, Oliver S Cressy, Geo W Crampton, Seth R Clark.
+
+=D=--Chas Augustus E Dole, Thos Franklin Dyer, Wm J Dunkham, James M Drew, Richard Dowst, Augustus L Dole, Mary L Davis, Joseph Delong, Walter S Dickson, Jos B Dillaway, Olney Dodge, Jonathan Davis.
+
+=E=--Hosea Ballou Ellis, John H Evereth, George Emerson, Shirley A Elsbee.
+
+=F=--Chas Henry Fifield, Amos E Fillebrown, Josiah Fitz 3d, Warren Fletcher, Geo W Forristall, Henry M Forristall, Nathaniel Fuller, Stephen White Foster.=G=--Benj S Grush, Robert D Griggs, Benj F Griggs, Chas C Greenough, Jas Artemas Green, Jas S Green, Cyrus Greely, Isaiah Graves, Edward Y Graves, Amos E Graves, James A Grant, Joshua B Grant, Geo W Goldsmith, John H Goldsmith, Chas B Goodrich, Loring W Gleason, John Glancy, Lemuel Gilson, G D Gilman, John W Gilchrist, Chas F Gifford, Isaac Gardner, Albert W Gale, Edwin Gage, Saml W Gage.
+
+=H=--Richard Harrington, Augustus Harrington, Josiah Hayward, Jos E Huse, J M Humphrey, Henry G Hubon, Joseph Morrill Hoyt, Thos L Howland, Joseph Holmes, Geo L Hodgkins, Royal P Hodges, Joseph Hillard, Henry R Hildreth, Alfred C Hill, Wm L Henderson, R B Henderson, Chas B Hazeltine, Thos E Hatch, Joseph Hastings, Fred C Hansen, Albert Hamlet, Robert C Hall, Stephen A Hall, Francis L Hall, W H H Hall, Elias J Hale, William W Hale, R F E Hahn, Isaac F R Hosea, G W Holly.
+
+=J=--Chas A Jordan, John Johnston, Saml W Jennings, John Jackson, James Jackson.
+
+=K=--Nathan Keith, Alonzo Kinsley, Henry W Kingsbury, Mark D Kimball, Chas F Kittredge, Isaac B Kirby.
+
+=L=--J H Learned, Wm P Leavitt, Philander D Leonard, Edwin Litchfield, Geo W Litchfield, Geo C Lord, Wm K Lambert, Henry L Lawrence, Daniel W Lawrence, Allen C Lawrence, Geo E Lurgarder.=M=--Geo Henry Mann, Saml T Manson, Benj T Martin, Jas D McAvoy, Thos C Miller, Thos E Merrill, Obed B Merrill, Henry B Miller, Thos S Mitchell, Abner J Moody, Andrew J Morton, F B Mower, David A Mowry, Wm Vose Monroe, Wm McMurphy, Jas F B Marshall, Alexander McLaren, Jesse Merrill.
+
+=N=--Daniel W Nason, Joseph G Nelson, John Norton, Wm Norton, Eph Lowell Noyes.
+
+=O=--Stephen Osgood.
+
+=P=--Lowell Parker, Samuel Parr, David G Patterson, Isaac S Pear, Fred E Pease, Edward Pease, Lewis C Peck, William Perkins, Dr Daniel C Perkins, Albert Perry, Wm F Perry, Capt Peter Peterson, John J Philbrook, Charles Pickett, Wm H Pierce, Seth H Pinkham, Wm Gardner Prescott, Alfred N Proctor.
+
+=Q=--John Ouinn.
+
+=R=--William H Rand, Chas J Randall, Wm W Reed, S N Ryder, Geo D Rice, Seth Rich, A R Richardson, Alonzo H Richardson, Thos Howe Robinson, William Russell, Solomon S Rowe, Burnham Royce, Marshall Russell.
+
+=S=--Jonathan Salisbury, Charles Saville, Henry Schrow, Henry B Shute, Samuel Snow, Edward B Souther, Isaac Stone, Charles E Stumcke, Chas T Stumcke, Geo H Stickney, J K Stickney, Darius N Stevens, Moses Gilbert, E S Steele, Henry A Stearns, Wake B Spurr, Charles Spencer, M D Spaulding, J C Spaulding, Henry Souther, R G Smith.=T=--Amasa Taylor, Newton Talbot, D D Taylor, J B Thomas, Wm H Thomas, J H Thomson, Geo H Tilton, Wm J Towne, Wm Henry Towne, L O Towne.
+
+=U=--S J Upton, Franklin Upton.
+
+=V=--Lyman A Vaughn.
+
+=W=--Edwin D Wadsworth, Seth D Wakefield, Henry J Wells, Wm M West, Saml Cutter Weston, John Captain Weston, Horam E Weston, Peter Whearty, Horace Wheeler, Augustine Whitney, David S Whitney, Benj Franklin Whittemore, Isaac R Wilkinson, George Willard, George R Williams, John N Wood, Edwin P Worster, Eben Nelson Walton, Richard R Wyllie.
+
+=Y=--Jefferson Young.
+
+* * * * *
+
+By the kindness of Mr. F. D. Clark, I give the names of the survivors of Col. Stevenson’s regiment. This regiment sailed from the city of New York in the fall of ’46, and arrived in California, March 6, 1847. Col. Stevenson is now eighty-eight years of age and a resident of S. F.
+
+Capt W G Marcy, A Perry (surgeon), W C Parker (asst), Rev J M Leavenworth, E F Dunitch (musictan,), E Hauff (musician), J C L Wadsworth, (clerk), W Chipman, M Cahill, R Clamp, G E Dean, J Flood, S O Houghton, E Irwin, J McDonough, R Myers, L A Munson, J O Sullivan, J B Parvin, M W Perry, W H Rogers,J Scollan, J J Schoonmaker, T R Saunders, J W Thomas, J Thompson, L P Thursby, J A Tait, Wm Wooley, W H Williams, H C Mattsell, T E Ketcham, F M Osgood, A J Ward, R Wybourn, Aaron Stow, J P Ames, E R Brigham, S A Catts, A S Cunningham, J Gallagher, A A Green, G J Graff, C Heinrich, J Horndell, P Lynch, A J Moore, C J McPherson, J E Nuttman, A Ostwaldt, S W Pearsall, C H Thurston, Wm Weiss, C S White, G D Brewerton, T R Perlee, J Aurweller, W S Green, H Kamp, A G Russ, G Story, L C Washburn, C Zetschsky, J A Chandler, G A Corgan, F D Clark, G C Dean, J Harron, E M Smith, John Wood, A R Abbott, J Ruggles, A W Janes, W L Johnson, C Lipp, D Mulholland, A Moore, G Myers, J W Norris, J B Phillips, W D Robinson, J Sims, G W Toombs, P K Woodsides, J Wolfe, A Young, Capt N Taylor, E Williams, E Bullock, W O Baxter, C Briggs, J A Bartlett, I C Johnson, G W M Leonard, A Soeurvoit, J H Welch, G J Graff, Capt F J Lippitt, H S Carnes, A E Engelberg, A Flying, J Lynch, G Millhause, E N Milford, C Sullivan, D Frink, J Knight, D C Remington, August Russ, C C E Russ, W Shurts, C Schlotthoeur, P Sessor, A Whitaker, O W Willis, J Mc H Hollingsworth, J H Adams, J Kleinshooth, A Pfister, E D Shirland, C Schroter, T J Wells, R Wilson, Capt J B Frisbie, G N Comwell, W H Folsom, Wm Grow, A Gehringer, R M Goldwaite, J H Lappens, G W Lathrop, Wm L Lampmann, S G Merrill, Joseph Reid, G Van Vechten, P B Hewlett, J Evans, J C Emerson, C Hitt, W Luker, J A Vincent, K F Leach, J H Merrill, J H McKay.
+
+* * * * *
+
+The following Pioneers are at present residing in the Atlantic States.Col A C Ferris, John H Fisher, John Gault, Gen H G Gibson U S A, A T Goodell, R R Griffith, Joseph B Hill, Geo H Johnson, Hon Cornelius Lydecker, Lemuel R Mears, Gilmon Meredith, Capt R W Meade U S N, James J McCloskey, Robt H McKune, Richard J Paulison, Silas H Quint, John Sickles, H B Scharman, Gen T W Sweeney U S N, John D Townsend, Henry L Twiggs, Wm M Walton, Henry Wilson, Jas M Wiltsie, Gen Francis Darr, Stephen L Merchant, G B Roys, Hon M D Wilber, H L Wister, Wm Colligan, I Robinson Warren, L L Lombard, R G Berford, Dr G Q Colton, Chas R Street, L Colt, S Baker, M Benedict, T Evershed, S B Farman, T J Griffiths, W R Hopkins, W S Hard, H Hadden, B L Horton, S T Miller, Wm Hall, A S Marvin, G A Mirick, L Moses, T C Orean, J H Rochester, R Smith, Mr Ausburg, D B Allen, E L Burnham, M Bannigan, J R Batchelder, Hy Brown, R Cummings, Capt Comstock, Alex Cuttler, G Godírey, J French, G S Ford, Jos Gardner, Wm Hayward, Hubd Hunt, E Hillyer, J T Jackson, E J Jackson, A B Light & Wife, G W McLean, Augs Nicols, C C Penfield, C Radcliffe, B Reinolds, J B Richardson, G A Raymond, Theo Russell, J P Hunt, John Mullan, J Morrill, L Saunders, J T Turner, W Vinyard, Nathl Weed, Lorenzo Wood, H Washburn, Capt Byers, J F Morris, C S Cummings, A B Cooke, Jo Howard Jr.
+
+* * * * *
+
+Following is a list of a portion of those Pioneers who crossed the continent for California in 1849.
+
+* * * * *
+
+Company that left Memphis, Tenn., March 21st.Capt J C Bradley, W L Bradley, J D, L D & H D Berry, W Thompson, M B Cook, Dr Kennedy, J A Jackson, A C Gibson, W C Stone, W C Davis, W Jennings, D Humphrey, D M Poole, J McKinney, Wm Stephenson, Capt R S Miller, W Hubbard, T Nixon, G Applegate, R Applegate, A A Gray, Wm Mann, E Forster, G Carpenter, S McMiller, R Bearley, Capt M D Floyd, F Neely, Pat Fanning, G R Henson, Mr Taylor, J Murphy, B H Rankin, Robt Steele, R B Foster, J Y Silvers, B M Doxey, H B Woodward, Ben Woodward, Jn Greshan, Jn Willis, R S Wright, R Y Kirckpatrick, Willis & R B Macon, Capt Faquharson, Rev M M Marshall, Rev J M Small, Dr W A, J & J C Russell, R C McElvin,, H R Street, R McKinney, Jas Pearson, C A McDaniel, R E Gillians, J J Greer, C N Slater, J W Horton, T D Murray, J R Boyles, B T Commour, B T Ramsey, J McCartney, E B Reinhart, N N James, J E Clarke, J A Zinley, Chas Mosley, A M Batie, R E Patrick, W R Arnett, J P Homan, D F Mallan, Arthur King, M S Franklin, T H White, A S Fulton, T Moran, J D S Sullivan, Jn McKeon, M Gafney, C Sleeper, H Williams, Jos White, Perry White, Dr J H Holmes, M Rudolph, J H Anthony, E Houston, Jas Littlefield, Dr C R Culler, Dr L L Battle, Wm Perry, Dr W W Nelson, A Q Faush, F Faush, H W C Nelson, J Prother, J A Bevid, Dr W Kitrell, R J Featherston, W Skinner, W G Williams, B Lanier.
+
+* * * * *
+
+From Arkansas, April 16.
+
+Tom Hughes, H Dwinal, Dr J E Pelham, W B Searey, Jn Stone, Lloyd Magruder, J R Seary, Wm Hughes, J G Malcomb, S Waugh, P Cheney, Eli Ward & Son, Capt S Williams.* * * * *
+
+From Iowa, April 5.
+
+F W Brooks, Wm Moore, Lafayte Brooks, Rubn Worrell, G Worrell, J S McClure, Jer Freel, P Jackson, J S Mathis, L Fouts, L P Reed, Moses Jordon, Mr. Sidell & Wife, Pres Dunlap, M McCaslin, Eph Moore, Jas Taylor, C H Jordan, Geo Pearson, Wm Hendric, Luther Mead, Josiah Suttle, D Purcell, Jos Myers, Jn Farmer, W W Scott, Jacob Arrick, C Suttle, Gmn Saddler, Thos Hutchinson, Arthur Sullivan, C Denmark, Dd Russell, Alonzo Sargeant, M Blair, Rbt Anderson, C Hughes, L Austin, J C Brant, Wm Valentine, Jthn Donald, D Redding, N Sargeant, J Miner, Mr Rankin, C F Mathews, Wm Chichester, L B Austin, N W Wille & Son, Mr Bond & Fair, Z Kinsell, H Blair, Jas Cochran, S F Stevens, T Sater, Jn Burkholder, Sm Eikenburg, Hi Fairbanks, Dd Wheatly, Jos Moffett, Chs Miller, A W Gordon, Jas Cordill, A G Walling, Josh Holland, N M Ives, F O Beckett, P Keihler, Jer Buford, Jake Elliott, Levi Moffett, Dan Rover, Hy Moore, J S David, Oliver Cottle, Shonn Knox, Jn Buttles, Wm Ritchey, F Daniels, Andrew Sturgist, Jacob Seffler.
+
+* * * * *
+
+From Illinois, April 20th:
+
+H E Maynard, T P Dunham, Thos Clements, Lem Wade, Jere Letts, P A Haven, C Haven, Jas Owen, Nelson Smith, H Hines, Gustavs Pierson, S Young, H White, S Potter, Wm McGenness, J Larroway, Dr D Whitmore, Sm Whitmore, Jas Connor, Andrew Sterling, T Wheeler, W Fennesy, Col G S Fake, Dd Fake, F S Fellows,F Gritzner, Mr Wolf, Hy Eddy & family, J Zumwalt & family of 8 children, P Bailey & family, Pt Rowan, Hu Rowan, Jas Dunn, J S Waite wife and 5 children, Harry Wade & family, Pat Bannon, Jas Gallagher, Mr Tally, A & P McIntosh, A Stillman, L Doolittle, Dr & E Kimberly, Chs Getzler, R Hamilton, J W Norris, Mr Cowles, Mr Elmer, Hy Cook, Mr Carter, Mr Wilson, Mr Lieser, Oliver Clark, Coleman & Smith.
+
+* * * * *
+
+From Indiana, March 26th:
+
+Dr J Prichard, Dan T & Dd B Woods, Jn Bloomfield, H R Hannah, Jn Frazier, Natn Gibson, Wm Young, Mr Simmers, J M Williams, Isaa Suffrius, G B Tingley, N Hayden, N W Cox, H Carr, W B Maddux, J J Nicholas, J H Carr, A J Crawford, G Stowe, R Bsale & Aldridge, W Miller, Dr J A Henricks, D W C Willoughby, E S Reynolds, W L Woodward, M B Miller, C Johnson, W J Saavely, Wm Massin, Geo Pierson, J Linderman.
+
+* * * * *
+
+Company from St. Jo., June 15th:
+
+J H Hall, D Guilmartin, D & W Shall, Rev H Kroh, F Budker & W H Nordhold.
+
+* * * * *Company from Cincinnatti and other places started June 11th:
+
+W H Smith, M Powell, J M Cobb, Hirm Davis, Dr C Duncombee, J Biles, C Cresewello, O Green, W R Lawrence, J H Taylor, Jon Adams, L A Quimby, Wm Wigton, R Fish, Dd Smith, L H Sandborn, Jas Langson.
+
+* * * * *
+
+Company from Boston, April 4th:
+
+Bkt Lord, W C Felch, S D Osborn, Jesse Winslow, D J Staples, J A Hough, A C Sweetser, H W Dickinson, B C Evans, T H McGrath.
+
+* * * * *
+
+Company from Tenn., April 4th:
+
+R B Alexander, W C Bradley, Wm Bradley, Wm Anthony, Tim Johnson, J H Martin, Jthn White, Alex Scrivener, S Bennett, Ls Riddle, J Nicholson, A Ellis, W Brevard, Wm Lawton, Thos Duffy, J Crenshaw, Isaac Byrne, H Cox, J S Copeland, E & H Johnston, L M Debow, T P Trotts, J Burgess, J H Sarver, W Akin, Dr Anthony.
+
+* * * * *
+
+Company from St Louis, April 22d:A Jones, D F Snyder, W P Jakson, S Jones, A Haper, E Garrison, M J Hirk, J J Papy, J L Phillips, R S Hernandez, C W Morment, G N Langford, H M Herbert, O Neeley, G Wornack, E J Cook, J L Tinnen.
+
+* * * * *
+
+From Ohio, May 1st:
+
+L S Thatcher, C Turner, B F Adams, Dr S Mathews, H K Forbes, M T Turney, H C Ely, J W Amy, Isaac Green, E E Bligh, H P Cady, M N Fox, A B Trowbridge, Eli Manly, G W Reynolds, A D Downing, J Hunter, Jn Coulter, J H Marple, F A McCormack, O S Hunter, C F Colton, J Robey, Jos Booth, S Price, Alex Robertson, C H Myers, S Myers, J Spayth, J W Coulter, A M & R J Hunter, J McCartney, N Demerest, O S Walcutt, E Gaver, A Cornwall, J K Bau, G Woodward, J Uncles, J Bobo, Mat Williams, J Armitage, O M Shaw, Zac Beatty, Dr J G Moore, Sm Johnson, H Shively, Wm Sofland, J Beal, Jas Allison, J M Clark, J W Davis, Ben Plummer, Jacob Ferguson, Jacob Gray, Adam Conrad, J McKelvey, S M Roberts, Jn Hutchinson, J V Davis, Absm Sunafrank, C D Bute, H L Wolverton, Aaron Patterson, D S Snydon, J A Scott, Alfred Cook, Thos Beaham, J Kirkpatrick, Jos Ax, Jn Boyd, Andrew Hanna, S J Dickinson, W M Blake.
+
+* * * * *
+
+Company from New York, April 15th:Mr Hill, Mr Horton, Hiram Derby, J Hutchinson, S W Holmes, J P Stockwell, D Bemus, R P Johnson, Jas Dixon.
+
+* * * * *
+
+Members of a Company from Cincinnati started April 19th:
+
+A W McCoy, Jn Ellisson, A J Leggett, D Aber, P W Vanwinkle, C Beard, W P Jeffries, Jn Marbly, W W Knapp, N M Harris, G D Sheppard, W B Otway, F Cassim, S T Curtis, M Ternan, R Barret, Ed Owens, Dr J M & R Thompson, C Ailesworth, A Rogers, Ed Hurd, J Vansant, M J Martin, J B Sargeant, C A Anderson, T Silmon, B McCormick, & Barnhart, Wm Moore, Capt J Bennett, J Powell, Wm Millan, Jn Johnson, J B Hart, J Atkinson, W L Isgrigg, D A Powell, D C Morris, N Butterfield, N Clary, J W Walton, L Dewey, W Peach, P F Shaw, Jn Tuttle, J H Boyd, P Boldman, D Van Trace, J W Gray.
+
+* * * * *
+
+Company from Harrison Co., Ohio, April 20th:
+
+Hy Johnson, Asbury Johnson, Lewis Lester, Wm Cady, Mr Vanhorn, Wm Phillips, Jn Conwell, C H Jones, J Muma, G W Larebee, H Larebee, Thos Pickets, Geo Rice, G A Weber, G Beckley.
+
+* * * * *The following persons left Cincinnati, for California, Feb. 20th:
+
+S G Stambaugh, W R Rankin, Jos Stambaugh, R P Effinger, J M Myers, H B Ewing, P Kraner, L Baker, H B Denman, S McNeal, B F Finefrock, J B Hart, O Chancy, Thos Wilson, E Strode, Jas Miller, W F Legg, Geo Leverett, Jno McLaughlin, L McLaughlin, Capt W Ferguson, Wm Perkins, Lieut Wm P Rice.
+
+* * * * *
+
+The following persons left Quncey, Ill., for California, Feb. 16th:
+
+Col John Wood, Dr S W Rogers, T T Kendrick, Capt J C Dorman, Wm Matlock, D M Jordan, G W Burns, G G Rogers, John Wood jr, Dan Wood, A Nash, J H Miller O M Sheldon, D Guttery, Chas Brown, J Mikesell, C G Ammen, D Wood, J McClintock, Lemiel Davis.
+
+* * * * *
+
+Companies from various States starting from St. Jo, in April:
+
+J R Wheeler, J R & M W Wiley, C Boorsman, J Days & Wife, Sml Sneade, Jas Ladew, J M Brumbarry, J & C Casy, Jn Heager.
+
+* * * * *
+
+From Ohio:S G Israel, J C Crane, Sm Barrett, J A Drake, C L Inglesbee, J R Wright, J W Caldwell, C M Shays, C L McCarty, Rbt Thompson, Wm Mullony, B Fitzpatrick, Wm Glover, J O Burne, S B Weller, J A Z Jones, J G Hubbell, W J Sperry, J H Moore, Barry Jones, G W Harrington, A W Griffin, J M Kerr, G Krausz, D Cloppenburg, J W Way, C S Coover, E Stockton, C Hiddon, G Mower, J R Johnson, J B Smart, L H Braley, Dd Schaeffer, Isaac Stokes, A DeButts, Wm Sloan, Jas H Haslet, H McConnelly, A J Atherton, Jos Vance, Jn Shiner, Rbt Gilmore, J C Arnold, J C Wingate, A C Baldwin, Jn Millikin, Silas Prenell, C H Bell, Jno Delany, W D Lawrence, L D Sunderly, S N Goman, T & M Ogle, T Burnett, J V Vredenburg, J S Vredenburg, M Buckle, J Howard, Jos Gill, Jos Dinney, A Malay, J W Shaw, A Culverson, C W Bidwell, W W Hyde, G S Case, W H Robbins, D Hubbard, F P Ward, J Stitzell, H L Morgan, B Carpenter, L E Green, S Y Hoyt, B John, J W Cowan, H C Rareden, W C Cook, W P Thompson, C P Ross, Tim Baker, G Goodhue, Wm Anderson, Wm Retter, R Stewart, C Kurtz, D Botts, Sm Loree, Jn Gepheart, Jos Howard, C Watson, Dr Whitbridge, P Backenbaugh.
+
+* * * * *
+
+Company from Pennsylvania:
+
+Dr J S Ormsby, L P Ormsby, Major Wm Ormsby, J K Trumbull, A McLain, J Moats, J Shutt, J L Detter, J McManus, Sm Stauffer.
+
+* * * * *
+
+From Wisconsin:J B Howe, L Dutton, E Gordan, E Stebbins, A H Blake, W Dodge, E Lowry, W Spoffard, E Pearce, Simonds & Kimball, H Blake, Jonath Mavey, wife & 6 children.
+
+* * * * *
+
+From Indiana:
+
+J N Manlove, Jn Bartlett, Jas Hammin, J Ridgeway, A Staunton, W Woodfon, A Leeds’ B Camp, wife & 8 children, Dd Anderson, wife & 2 children, A Jackson, Thos Kyle, Capt N Hayden, G B Findley, Jas Hillman, M Sexton, W Piercy, S Bratton, A J Crawford, Geo Stone, R Beall, J Aldridge, Saml Diffendaffer, H E Carr, M W Cox, W B Maddox, J J Nicolls, J H Carr, O Posey, J Murphy, Josh Wolf, Mr Buchannan, Jas Wildridge, Chs Points, J W Malone, Wm McMath, S Scott.
+
+* * * * *
+
+Company from Tennessee:
+
+Albert Moss, Chas Berdew, Jas Brown, T & W Hart, W Wayman & Son, Allen Thorpe, J O’Callahan, P & F Kinney, F A Goole, D Miller, J O Gordon, Thos Coffin, W A Boggs, B Finn & wife.
+
+* * * * *
+
+From Pennsylvania:Wm Bancroft, W & M Nash, A DeFoe, D Evans, R Carter, J D Thomas, G W & C Jacobs.
+
+* * * * *
+
+From Massachusetts:
+
+Hector Campbell, W B, S S, H B & C A Campbell and 6 ladies.
+
+* * * * *
+
+Members of the Pittsburgh Enterprise Company, for California April 13th:
+
+M Kane jr, Chs Coleman, C T Officer, W J Aukrim, Capt Wm Rankin, J M Braden, T Dunn, Jas and P Kane, J M Aitkin, J B Chamberlain, W R Guy, A M Litman, G A Walker, J S Willock, R Silcox, J McCandless, W H Taylor, A L Sample, Dr Orendorf, L Crepps, J Knowland, Jas Witty, Wm Cooper, W Blakely, B C Quigley, J A McGee, J Dorrington, L G Berger, J S Talinslie, J Connor, J Nesmitte, A W Guy, E C Guy, B Messersmith, J McGraw, W C Beck, Jas McCarter, P Ward, Jn Davisson, R P Glass, A McMurray, Jas Melville, H McClory, Ths Cuce, J R Riddle, J Leckey, W McClory, M Kane, Jas McKee, Thos Barker, J Huyett, J McClaskey, W Mehan, S Friskie, R Phillips, R McKee, J Aiken, J McCowan, S Gayus, W F Marthens, Saml Ward, J McDonald, C O Flynn, N Malwim, A Spear, C Lent, T Jones, H S Wynne, J Joyce, J Anderson, F Anderson, J B Fulton, Jacob Cupps, J M and W C Meredith, A and W J Ingram, J S R and D W Wilson and two sons, J C Anderson, J Hughes, R K Pierouski, A J McNulty, W P Skelly, W Shafter, J Ludwick, G E McCrady,J Merabin, J Hunker, W M Murray, C Rabun, J McGregor, W Patterson, J Oliver, H Wallace, T Maxwell, L L Whiting, A F Blythe, J Morrison, E Alsip, H Dixon, J Moore, E Holifant, W H Call, J Morgan, B T Latshaw, R Spencer, Wm Cadds, J Estepp, D Blair, C C Blair, W Augenbraigh, F J Beal, A Beal, J O Nilson, Sml Deal, J L F Johnson, T Galbraith, M Miller, J Martin, W G Bender, T Daft, J Dixon, Thos Daft, S H Sarler, E D Harding, I N White, W Bishop, J A Irwin, Jn Heise, Jn Flood, J Glenn, W Minis, W McCheney, G Sythe, H Wilson, J Fulton, J G Gallagher, W D Graham, J P Harbach, A Wilson, J D Robinson, J Mathews, D Darrogh, F P Robinson, W Estepp, J Darrogh, M Boreland, J Walls, J Means, J K Van Kirk, J Warren, M Goodfellow, J and C Templeton, J P Boyd, J Goodwin, J Jack, B Brown, L Eckhoff, M Hayden, J P Irwin, A J Jack, J G Woods, J Day, J B Henderson, H J Brunot, A D Patterson, W Hughes, C G Smith, J Groves, J W Eggleston, S B F Clark, T B Dunn, J N Sinclair, T Reynolds, J Cook, G Winebiddle, J Caldwell, J Reynolds, A Harris, W C Reed, D Hughey, J Kearnes, J D Davis, R Jacobs, Th Perkins, Th and Jn Thornburgh, M Fisher, H Gatzman, B Fiffer, R B Butler, F A McMillan, A S Goodwin, S Snyder, R G Robinson, W J Beatty, M Meckling, J W McCandless, W J Stewart, E Yetter, Jn Morgan, W Wychoff, Jas Jones, M Courtwright, G W Curtis, G Steiner, J A Markle, J Shotts, E Taylor, J Ellcessor, J A Foster, J R and J W Johnson, J Smith, J Latshaw jr, M Holzman, T W Rogers, S H Squire, J Kerr, E Marquis, D Estep, F Ball, J S Steel, W M O Shelton, F C McClure, T Gregg, R Crosby, J R Dennin, R Wilson, G Mitchell, S M Stowe, G C Taylor, F C Negley, G Semon, A Young, J Barrashman, J Kiser, R C Gilchrist, T and R McNair, D McBride, J Boreland, F Phipper, B Grape, J Coppersmith, R Stanley, P Smoker, P Bergen, J B Hartley, R Wilson, C Truesdale, H Sheppard, C T Kirkland, D McGill, D Houck,O McConnell, W H Alderman, J F McGoughey, H and P Halderman, Geo Horne, C Peters, Guy Haines.
+
+* * * * *
+
+Members of company from Grant County, Indiana:
+
+Wm Harlan, Levi Hummer, Jn Hummer, Ed Brown, J Draper, T St John, Jesse Swift, M Cleaveland, J St John, Ryl Webster, Peter Stout, Thos Pratt, Dd Hite, Anthony, Inman, L McCormick, Andw Patterson, Josh Hersey, H Hendricks, Wm Hendricks, John Dubois, C Morehead, B Luger, J W Hurlburt, Bj Stout.
+
+* * * * *
+
+Members of a company from New Orleans, overland, April 20th:
+
+R L and F Ogden, J Y McDuffee, Jn Sitcher, Jas Martinelly, M J Box, W J Patterson, J G George.
+
+* * * * *
+
+Members of a company from Wisconsin, April 20th:
+
+J W Turner, Allen Hubbard, G J Smith and family, Thos Melee, A Conway, Mr. Coney and Mr. Williamson, J Kight, D T Eldridge, T D Warren, D W Paddock, Wm Freeman and T L Cuttler, P E Holcombe.* * * * *
+
+The Havilah Mining Company from New Orleans, April 20th:
+
+Dr J Conger, J W Thompson, H G Langley, W Teller, D Hoyt, W B Grant, H Vandeveer, J S West, W Faucett, E F Lasak, J Brinkenhoff, A S Miller, W D Coleman, J I Lott, T Parsons, C H Van Wyck, C P Tapeff, H S Cohen, G F Sniffen, F A Hoyt, G K Pattison, B L Noe, J H Macdonald, C W Ehrenstroem, J G Billing, W Wear, E Norton, E E Miles, Tilly Allen, F W Gorsegner, J C Garrelly, J B Randoph, G H Andrews, G S Schenk.
+
+* * * * *
+
+Members of a company from St. Louis, April 4th, overland:
+
+S O Coleman, J and O Stewart, T W Wannell, J J Holiday, W Paul, F Campbell, E E Hunter, Jn Vorhess, Saml Hawkins, Sol Wood, R B Dallam, Chs Parke, Wm Bransheed, A Hoffman, Jas Webster, J B Smith, H S Brolaski, M P Coleman, Wm Vose, A S Van Pelt, Wm Brown, E N Leeds, A Patterson, Wm Cleaver, Taylor Jones, H Jones, Jn Jones, Jn and S Jones, F A McDonald, A Thompson, A Moody, Chs Pickering, A Burnett, C W Lighter, Wm Gibson, R Ludd, S N Holiday, G Massey, W Gruikshank, P Guisler, John Mullen, J W Alexander, Jonah Hunter, Lewis Legg, Gilbert Deacon, H C Lynch, Geo Matoon, Casper Graulech, C L Smith, J S Wells, G Yoeter, C Hoftman, B Twomley, Thos Cleaver, H Cleaver, Thos Copperwaite, Wm P Stebbins, J W Salser, Wm and A Selser, Saml Young, Jas Clark, G O Eads.* * * * *
+
+Passengers of brig Azalia, New York, sailed April 10th:
+
+Dr J P Webster, Dr J A Reed, S Rowland, T Sanburn, E Brown, E L Wheeler, W H Seaman, H R Perry, C H Cole, Mr Rindge, S Cobb, W M Tolman, F W Scovill, C Robertson, W Giffin, C S Thorp, H S Burr, M Sweetser, J Sinclair, O G Fleming, S S Edsall, L G Jones, W Pratt, S Aiken, J Ridenheart, A Henry, A Martin, W W Spaulding, W Davis, Mr Hallowell, F Pickering.
+
+* * * * *
+
+Members of company from Michigan, April 7th:
+
+G Kirkland, G Wethington, Horace Berby, Wm Wilson, H Belkley, A J Mason, J B Sarzore, M Sweeney, D B Scott, D R Ashley, E F Gleeson, L A Harmond, D A Woodbury, S G Crittenden, G Chafey, F A Parke, Aaron Browne, E J Bouine, W H Brice and wife.
+
+* * * * *
+
+Members of company from Penn., overland, April 8th:
+
+A W Brockaway, A Rudolph, J B Mitchell, T B Kennedy, S Grubb, Wm Laury, H W Myers, G Kinzebach, J C Risber, Robt Wightman, Lorain Robbins, A J Tingle, S D Brown, J C Kennedy, T S Hart, R S Wingham, J C McKibben, W B Sharp,R S Mart, Dr Allen Clark, D M Whitehill, Walter Taylor, Eli Smith, Jos Smith, Isaac Brecker, Geo Miller, J Miller, Saml Sankey, G M Wasson, Ed Montillus, Wm Frederick, G Miller, Jonathan Moore, Matthias Plaff, Wm Bartlett, Orvid Washington, C Kincaid, W G Johnston, W O H Scully, W B McBride, J L Moody, C S Cockill, Thos Small, Robt John, H L Bird, Mr Jenkins, Norman Andrews, J B Hill, J G Scutter, N B Alworth, S R Smith, Phil’n Doud, Robt Faulkner, P H Moody, J L Keefer.
+
+* * * * *
+
+Members of company from Summit County, Ohio, April 8th:
+
+S Newton, I Sumner, W A Ostrom, T B Hickcox, F A Nash, N Palmer, J W Evans, S Britton, N Wait, F W Wait, A S Cleveland, G W Rhodes.
+
+* * * * *
+
+Members of the Illinois Sucker Co., April 13th:
+
+H Buffom, Jn Salee, Jn Post, A Stevens and family, A Ferguson, J Godfrey, B Hutton, M Louis, Dd Booz, Wm Bowers, J G Beeler, Mr Taylor, J Gifford, Sam Truit, Thos Lock, C Record, Wm Mitchell, G McBride, R S Green, F H Curtis, Rollin Post, G M Boyer, J W Buffum, J N Dow, G W Carr, S McPhaill, C Vaughn, W Boothsinger, Jn Bills, E Pomeroy, Ellis Elwell, F Went, Jn Rislin and son, Jn Goodwin, J Vedder, T T Rainey, Mr Vantee, Jn Brooks, M T Smith, M Bratagan, H A Latham, R F Greschline, W V Moody, R W Camfield, W R Latham,D W Aldrich and family, Jn Hughes, N M Dorsey, A Starr, F Starr, J Flannagan, E Randall, J Patrick, T Woods, T Oakes, A Curree, H Rice, R Kirkwood, J Spruance, Peter Lottim, E Case and family, L Post, Chs Sinclair, C A Walker, C J Palmer, K D Sellemyers, J D Powers, Jn Douglass, J Layman, Chs Chancy, B Luken, Wm Benson, J F Burton, Wm White, J Longwell,--Guild,--Crogan, C Mitchell, Jn Hogus, H Martin, Mr Anderson and family, A Gretfield, J Haltzwert, C Mizendorfer, G S Hanley, J Johnson, C Johnson and brother, J Rowe, R Whyers.
+
+* * * * *
+
+Members of the St. Clair Mining Co., from Illinois, April 13th:
+
+Capt Jarrot, B C Renois, Rbt McCracken, Ths Short, H Frotier, N Boismenue, Jas Frontier, Jn Bowles, Rbt Carnes, Louis Amel, J J Statis, N Sexton, Everson & Delorine,--King, M Morrison, Jn Chandler, G W Hook, Jn Christy, M De Rousse, B Delude, L Thatcher, A Robinson, Wm Ogden, N C Corniver, A Gamlin, M Lecompte, J O Adams, Jere Hotue, Jn Greer, N Turcott, P Perou, Jn Boismenue, L D Stewart, J H and Jo Buttler, P De Novillo.
+
+* * * * *
+
+Company from Shelby Co., Ill., April 13th:
+
+B F Hunter & family, L Hunter & family, R & J W Madison, Wm Bevins, Jn Scruggins, Jos Stewart, D S Wright, Dd Evey, R L Williams, Wm Harsman, Jn Evey, Jn Turr, Jn Sullus, Dr Reeves & family, Jas Evey, Mathias Rice, Jn Perryman,Wm H Rankin, Jos Zumalt & family of 9 children, P Bailey & family, J S Waite & family, D W & S Whitemore.
+
+* * * * *
+
+Members of a Company from Buffalo, April 13th:
+
+Dr McBeth, Col Fay, J M Fay, Rev Mr Olds,--Hayden, G E Hays, H O Hays, J H Blossom, Geo Wheeler.
+
+* * * * *
+
+Company from Xenia, Ohio, April 14th:
+
+P B Walker, M L Barlow, A Moody, G W Stevenson, D DeWolf, D Loe, P Johnson, J W Taylor, G Taylor, G W Brinkley, J Connor, L Harris, R Gibson, Wm Ford, Mr Smith, J Farber, E L Ware, J H Purdy, Mr Vanordel, G W Smiley.
+
+* * * * *
+
+Members of the German California Mining Co., from New York, April 20th:
+
+M Carl, S Franz, A Balm, G Schimners, K Aulich, B Aulich, G Schneider, P Elergoff, W Buchananer, A Hill, H Steinburg, C Wisehoff, D F Thomas, F S Scheid, F Preness, N Langs, F Brantlach, L Nussbarun,--Klump, G Denz, F Schlagider, C Knouer, G Roth, L Roth, G Scheibrook, B Scharnan, H Tupper, C Richter,F Kramer, A Neihmert, A Wichrowsky, F Gross, T Schmidt, F Kaller, P Hartman, Dr F Wallace, A Ferber, V Kopf, Berling & Son, T Asgolm, W Rusche, T Schant, D Schnaider, C Anderform, F Weber, C Huber, F Diefel, Geo Topp, F Moore, J Kelly, T Scharman, Ahrent & Dutrich.
+
+* * * * *
+
+Members of Company from Summit Co., Ohio, April 6th:
+
+J R Gilbert, A Kellogg, L P Buckley, R Abbey, J O Garrett, Ira Rose, P Fisher, S Wislendorf, C Cressard, J L Gilbert, Geo Ayliffe, G Carr, E Steinbacker, J Decker, H L Long.
+
+* * * * *
+
+Members of a Company from Wayne Co., Indiana, overland, April 6th:
+
+W F Davis, A B Knode, W Williams, Thos Williams, Robert Houston, Hy Miller, A Cunningham, Adam Gates, W Starr, Peter Boothe, J N Puntney, Jas Puntney, J Echtenock, R Cochran, Wm McAfee, Wm Buck, Chs Trisa, J M Fritch, B Manifold, N Baldridge, A Saunders, S McMurray, W S Porter, W K Koch, Sam Pifer, Jacob Weaver, G W Beeler, C Rathfun, Enoch Myres, L Don Meek, A McDowell, H A Echelbarger, H J Shaumbrie, G & S Neese.
+
+* * * * *Members of Company from St Louis, overland, April 7th:
+
+Lieut G W Paul, H Martin, Jas Sharp, Wm Zabriskie, W Wells, Robt Jackson, Wm Paul, Geo Lukens, J Taylor.
+
+* * * * *
+
+Company from Palmyra, Mo., overland, April 7th:
+
+E R Pye & Son, F D Gilbert, C D Smith, E L Nichols, C B Wheeler, C Youngs, Jas Stewart, J S Webb, Shorty Ray, J W Harper.
+
+* * * * *
+
+Members of company from Columbus, April 2d:
+
+J Walton, J G Caufield, Peter Decker, G Q McColm, S J Price, Al Moores, G Walton, C Breyfogle, Dr C E Boyle, D Dreyden, E Barcus, E E Canfield, G Chadwick, W Cain, A B Christ, C Dewitt, J S Derngan, T Davis, L A Denig, C M Fisk, J Krumm, J C Lunn, P McCommon, H Ranney, T Rugg, D Rugg, J P Stone, W C Styles, C D Wood, L H Sherman, Jos Hunter, Jm Coultner, J H Marples, F A McCormick, O S Hunter, C F Colton, J Robey, J W Booth, Geo Woodward, S Price, Mthw Williams, Alex Robertson, Jn Spaythe, V R Smith, Jn Uncles, C A Robertson, J McCartney, J K Barr, R J Hunter, C M Shaw, C H Myers, Jacob Armitage, Sml Myers, A M Hunter, Jona Bobo, Andsn Cornwall, J W Coulter, Nichls Demorest, O S Walcutt, E Gaver.* * * * *
+
+Members of a company from Cincinnati, overland, April 6th:
+
+B C Currier, F C Rothstern, Wm Pollock, W G Moody, E C Crawley, F B Clark, W Cooper, W H Hubbell, Chs Harrington, Jn Wright, J Blackwood, Wm Garrity, Dwt Crandall, Jos Armitage, F M Roots, A G Stiffler, Jas Howison, T P White, D T Evans.
+
+* * * * *
+
+The following persons from Washington, D. C., go overland, April 2d:
+
+F G Bruff, Gideon Brooks, B B Edmonson, A H Parish, Dr H Austin, W H Dietz, G A Young, Jn Cameron, Wm Jewell, E D Slye, Alex Garrett, Jas Foy, Thos Williams, J M Farrar, H J Queen, G Byington, J T Coumbe, W J Stoops, J Y Donn, W Lewis, W N Barker, Dd Fowbe, J M Marden, Stephen Culverwell, J Murphy, W H Lloyd, Robt Slight, T J Griffiths, O B Queen, R J Culverwell, L A Tardella, N Vermillion, C C McLeod, T P Kingsbury, C G Moxley, Jn Bates, S J Cassin, Wm Truman, J A Ennis, W Pope, Rd Washington, J H Barker, C G Alexander, H C Dorsey, F P Windsor, W P Hillery, Chas Bishop, F N Magruder, J V Ennis, J T Ennis, Jo Thaw, J P Hills, T B Scott, I E Owen, D R Wall, C Fenderick, J Wardell, A J Capron, Wm Franklin, Chs Reed, J C Willis, B F Burche, J C Riley, M M Trepell.
+
+* * * * *Members of company from Cincinnati, overland, April 6th:
+
+J H Levering, W B Norman, Dd Kinsey, S T Jones, A H Coulter, J Talbert, G W Litter, L M Rogers, J Johnson, S Whitehead, T W Kinsey, A G Kinsey, M West, G J Guilford, H Probasco, C Mohr, E A Stokes, C Long, J P Harley, P K Ulner, W Kerr, R W Cook, F Moreland, Jn Bell, R L Megowan, F Hamlin, J Bird, S Withington, J Graham, H Ruffner, J W Anderson, J D Benedict, A T Perry, T A Bishop, Chs Eberle, A J Vorhees, Chris Bell, W Wilson, A F Gove, J Pearson, H Urner, A B Nixon, H Helm, J Elstner, J King, G W Fosdick, W B Diver, N Graves, Dd Scott, Geo Martin, A Johnson.
+
+* * * * *
+
+Following are the names of the members of the various companies starting from St. Jo, April 14th:
+
+* * * * *
+
+Company from Wisconsin:
+
+Abel Minard and family, J A Short, Anson Oland, C Ingersoll, Dr E B West, M Connover, G C Cone, Jn Dolliver, R Fuller, E Lyman, Jn Howell, W H Elder, Leander Hill, J Fishelor, J Goodrich, Hy Root, Wm West, G Woodward, T C Ward, Dr E R Hoyt, Jn Edwards, G Villenger and family, Dr Slyl and family, F A Ostrander, Jas Cline, Fred Weahe, A Lewis.* * * * *
+
+From Michigan:
+
+G S and Susan Isham, W W Fitch, H Hass, Z W Ashley, Wm Welch, Esq Hass, Hy Kimmer, G E and L Benton, Hy and Chs Shatlock, J S Bradley, Wm Crawford, J S Dunn, J B Carter, P Burns, J Gardner, E P Hill, P M Dorsey, Eph and Ed Lapham, Jn Densmore, H French, H Crandall, R Barber, S Hagen, E Tobin.
+
+* * * * *
+
+From Indiana:
+
+Jn Keller and 5 children, Dr L Hoover, wife and 5 children, Jn Abbot, wife and child, G Abbot, wife and 3 children, I Gilchrese, wife and 3 children, Mr Schaffer.
+
+* * * * *
+
+From Ohio:
+
+A V Kinneavo, F Eaholtz, H Jordon, Z Downer, A McIllan, A J Hagan, S M Holland, J S Smith, E O F Hastings, J W Evans, J Lindsay, S Schindler, N B Wean, A Anderson, Hugh Lee, Geo Grice, Dan Willard, Geo Case, J Sawyer, D Fullman, J G Briggs, B B Briggs, K H and P Chandler, E W Brooks, A Forbes, S I Burrill, J W Hall, H Garfield, P Garwick, S Bethel, J A and J B Hoover, M Mahan,J A Armstrong, W H C Mitchell, Stvn Clingaman, J W Wilson, W P Harrington, H J Richards, W C Conway, Saml Ayres, Wm Huntington, E Burr, W Endicott, P Chambers, T Morrow, J Leach, Jas Foulds, J B Louck, Mr Frisbee, Chs Robinson, D S Ross, Dr J F Ankeny, Dr J F Robinson, H Winslow, Sml Wright, M Williams, Silas Smith, Wm Poor, G K Fitzgerald, A P Rarison, Peter Myers, G J Chapman, F Hooper, A Curfes, A Allardt, H Fahrup, Geo and Isaac Parry.
+
+* * * * *
+
+From New York State:
+
+M W Barnett, J De Bois, O A Post, W H Albre, H S Dodge, J McIntosh, W D Witmer, H H Buchannan, T Winn, G B Efner, B F Smith, H A Curran, C Patton, M McIntosh, W J Williams, A Boomer, Dr T Small, H, B D and J T Bowers, M Dyer, J Hurley, T Cain, A Button, W Good, E McClellan, A G Eldridge, G Greatrake, Francis Burzell, Sml McDoul, A F Bliss, A McNorton, W Harrison, Jn Robertson, B F Harshaw, D M Hall, J H Tilford, Jn Cowson, Jas Hill, J H Newton, A Tilford, H S Crandall, Wm Owen, Rt Gourley, J T Clark, Johnson & Sargeant, Jas Roach, D R Haswell, B F Post, J A Becker, Hy Steele, Dr E Taker, N Gazaway, C S Perry and A S Brayton.
+
+* * * * *
+
+Members of a Company from Stubenville, Ohio, April 20th:Capt G McElrath, O C Gray, Geo Hance, D L Forsinger, H Stokes, Thos Trotter, J Morrison, J Baltzell, O A Worthington, S R Barr, Wm Taggart, Jn Rainey, Wm Briskell, Dr J Marshall, H McConnelly, Jn Hodge, H H Maxfield, Chs Sweney, E Callandine, Jas Kell, W C Haynes, W C Hayes, C W Haines, D P Keller, W H Stokes, S V Treadway, S D Dundall, G Jackson, S A Ream, C W Richards, Wm Fisher, W Solomon, O T Norton, J Fugitt, M S Readdy, D Burgett, Jas Irwin, Jas Spencer, J R Collins, Geo Todd, Jas Shively, J Parrott, E Brown, D Connor, A McDonald, B F Stokes, T G Morehead, A Morehead, Dan McGee, Jn Matlock, Thos Loff, Jn Pacy, E Whittington, Wm Daniells, Wm Sherman, D Anderson, H C Scott, S D Wood, D H Rose, Dan Prose, Lewis Childus, J H Prose.
+
+* * * * *
+
+Company from Sandusky Ohio, started April 19th:
+
+Capt W E Parish, C P Cook, J W Beatty, Jn Ramsell, J Hitching, A Starr, D A Crowell, Ed Johnson.
+
+* * * * *
+
+Company from Peoria, Ill., April 20th:
+
+J E Carter, J Fash, W E Gunett, H H Fash, Robt Taylor, J Clegg, D A McConnell, Geo Scott, M Peck, A F Kercheval, J W Newton, Wm Parks, S Runyan, A & A N Runyon, O R Runyon, Jn & Dd Mahoney, R Rutherford.* * * * *
+
+Company from Kentucky, started April 21st:
+
+E W Hayes, C K Snyder, W H Childers, B B Mullens, Jas Croslen, J Fritzland, H Shelton, D W Thorpe, G Young.
+
+* * * * *
+
+Members of Green River Mining Company from Kentucky, April 22d:
+
+W F Summers, D B Campbell, W H Skiles, F A Jones, S M Crosthwait, W Ellis, G Ellis, H C Gault, D Torian, J S Locke, A W Moore, Wm Torian, J H Paris, J Hutcher, C W Landrow, L Stern, R C McKainey, G W Feland, A B Anderson, Jas McCowan, H Coleman, P P Johnson, J K Sale, J P Freeman, G M Earle, J W Cole, Capt E H Herd, T R Darniell, Jas Shepard, C W Pointdexter, D France, M D Hare, G W D Luck, Geo Carter, Wm Bailey, W W Gray, M Sherill, L J Sherill, J F Davis, J H Ingram, J Hoy, R Lavidge, L W Roberts, L L Sloss, B F Edmonds, J R Crael, J O Hill, B Y Samuels, J St John.
+
+* * * * *
+
+Members of a Company from Mississippi, started April 22d:
+
+A Upchurch, Wm Worrell, D C White, H Brown, R Runnells, A McMillan, O R Saddler, E Soffley, C Tarmer, W C Thompson, J T J Cain, C W Findley,

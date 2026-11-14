@@ -1,0 +1,1898 @@
+HOLB1	58418	7	560	80	646	150
+1	Introduction
+5	I. Cicero Attico Sal.
+7	I. Cicero To Atticus, Greeting.
+14	II. Cicero To Atticus, Greeting.
+15	III. Cicero To Atticus, Greeting.
+16	IV. Cicero Attico Sal.
+18	IV. Cicero To Atticus, Greeting.
+20	V. Cicero Attico Sal.
+22	V. Cicero To Atticus, Greeting.
+25	VI. Cicero Attico Sal.
+27	VI. Cicero To Atticus, Greeting.
+28	VII. Cicero Attico Sal.
+30	VIII. Cicero Attico Sal.
+31	VIII. Cicero To Atticus, Greeting.
+32	IX. Cicero Attico Sal.
+34	IX. Cicero To Atticus, Greeting.
+35	X. Cicero To Atticus, Greeting.
+38	XI. Cicero Attico Sal.
+39	XI. Cicero To Atticus, Greeting.
+41	XII. Cicero Attico Sal.
+42	XII. Cicero To Atticus, Greeting.
+45	XIII. Cicero Attico Sal.
+47	XIII. Cicero To Atticus, Greeting.
+53	XIV. Cicero Attico Sal.
+54	XIV. Cicero To Atticus, Greeting.
+62	XV. Cicero Attico Sal.
+63	XV. Cicero To Atticus, Greeting.
+64	XVI. Cicero Attico Sal.
+65	XVI. Cicero To Atticus, Greeting.
+81	XVII. Cicero Attico Sal.
+83	XVII. Cicero To Atticus, Greeting.
+92	XVIII. Cicero Attico Sal.
+94	XVIII. Cicero To Atticus, Greeting.
+101	XIX. Cicero Attico Sal.
+103	XIX. Cicero To Atticus, Greeting.
+112	XX. Cicero Attico Sal.
+114	XX. Cicero To Atticus, Greeting.
+120	I. Cicero Attico Sal.
+121	I. Cicero To Atticus, Greeting.
+132	II. Cicero Attico Sal.
+134	II. Cicero To Atticus, Greeting.
+135	III. Cicero Attico Sal.
+136	III. Cicero To Atticus, Greeting.
+140	IV. Cicero Attico Sal.
+141	IV. Cicero To Atticus, Greeting.
+143	V. Cicero Attico Sal.
+144	V. Cicero To Atticus, Greeting.
+148	VI. Cicero Attico Sal.
+149	VI. Cicero To Atticus, Greeting.
+151	VII. Cicero Attico Sal.
+153	VII. Cicero To Atticus, Greeting.
+157	VIII. Cicero Attico Sal.
+158	VIII. Cicero To Atticus, Greeting.
+160	IX. Ccicero Attico Sal.
+161	IX. Cicero To Atticus, Greeting.
+165	X. Cicero Attico Sal.
+167	XI. Cicero Attico Sal.
+168	XI. Cicero To Atticus, Greeting.
+169	XII. Cicero Attico Sal.
+170	XII. Cicero To Atticus, Greeting.
+172	XIII. Cicero Attico Sal.
+174	XIII. Cicero To Atticus, Greeting.
+175	XIV. Cicero Attico Sal.
+176	XIV. Cicero To Atticus, Greeting.
+178	XV. Cicero Attico Sal.
+180	XV. Cicero To Atticus, Greeting.
+183	XVI. Cicero Attico Sal.
+184	XVI. Cicero To Atticus, Greeting.
+189	XVII. Cicero Attico Sal.
+190	XVII. Cicero To Atticus, Greeting.
+192	XVIII. Cicero Attico Sal.
+193	XVIII. Cicero To Atticus, Greeting.
+196	XIX. Cicero Attico Sal.
+197	XIX. Cicero To Atticus, Greeting.
+203	XX. Cicero Attico Sal.
+204	XX. Cicero To Atticus, Greeting.
+207	XXI. Cicero Attico Sal.
+208	XXI. Cicero To Atticus; Greeting.
+213	XXII. Cicero Attico Sal.
+214	XXII. Cicero To Atticus, Greeting.
+218	XXIII. Cicero Attico Sal.
+219	XXIII. Cicero To Atticus, Greeting.
+221	XXIV. Cicero Attico Sal.
+222	XXIV. Cicero To Atticus, Greeting.
+227	XXV. Cicero Attico Sal.
+229	XXV. Cicero To Atticus, Greeting.
+234	II. Cicero To Atticus, Greeting.
+237	IV. Cicero To Atticus, Greeting.
+240	VII. Cicero Attico Sal.
+241	VII. Cicero To Atticus, Greeting.
+243	VIII. Cicero Attico Sal.
+245	VIII. Cicero To Atticus, Greeting.
+248	IX. Cicero Attico Sal.
+249	IX. Cicero To Atticus, Greeting.
+252	X. Cicero Attico Sal.
+253	X. Cicero To Atticus, Greeting.
+255	XI. Cicero Attico Sal.
+256	XI. Cicero To Atticus, Greeting.
+257	XII. Cicero Attico Sal.
+258	XII. Cicero To Atticus, Greeting.
+260	XIII. Cicero Attico Sal.
+262	XIII. Cicero To Atticus, Greeting.
+264	XIV. Cicero Attico Sal.
+265	XIV. Cicero To Atticus, Greeting.
+266	XV. Cicero Attico Sal.
+267	XV. Cicero To Atticus, Greeting.
+276	XVI. Cicero Attico Sal.
+278	XVII. Cicero Attico Sal.
+279	XVII. Cicero To Atticus, Greeting.
+280	XVIII. Cicero Attico Sal.
+282	XVIII. Cicero To Atticus, Greeting.
+283	XIX. Cicero To Atticus, Greeting.
+286	XX
+287	XX
+289	XXI. Cicero Attico Sal.
+291	XXII. Cicero Attico Sal.
+292	XXII. Cicero To Atticus, Greeting.
+294	XXIII. Cicero Attico Sal.
+295	XXIII. Cicero To Atticus, Greeting.
+300	XXIV. Cicero Attico Sal.
+301	XXIV. Cicero To Atticus, Greeting.
+307	I. Cicero Attico Sal.
+308	I. Cicero To Atticus, Greeting.
+314	II. Cicero Attico Sal.
+316	II. Cicero To Atticus, Greeting.
+323	III. Cicero Attico Sal.
+325	III. Cicero To Atticus, Greeting.
+332	IV. Cicero Attico Sal.
+334	IV. Cicero To Atticus, Greeting.
+336	V. Cicero Attico Sal.
+338	V. Cicero To Atticus, Greeting.
+340	VI. Cicero Attico Sal.
+341	VI. Cicero To Atticus, Greeting.
+345	VII. Cicero Attico Sal.
+346	VII. Cicero To Atticus, Greeting.
+348	VIII. Cicero Attico Sal.
+350	VIII. Cicero To Atticus, Greeting.
+355	IX. Cicero Attico Sal.
+357	IX. Cicero To Atticus, Greeting.
+358	X. Cicero Attico Sal.
+359	X. Cicero To Atticus, Greeting.
+361	XI. Cicero Attico Sal.
+363	XI. Cicero To Atticus, Greeting.
+364	XII. Cicero Attico Sal.
+366	XII. Cicero To Atticus, Greeting.
+367	XIII. Cicero Attico Sal.
+368	XIII. Cicero To Atticus, Greeting.
+369	XIV. Cicero Attico Sal.
+370	XIV. Cicero To Atticus Greeting.
+371	XV. Cicero To Atticus, Greeting.
+<b>VII</b>
+
+CICERO ATTICO SAL.
+
+[Sidenote: <i>Scr. Tarsi ante III K. Sext. a. 704</i>]
+
+Quintus filius pie sane me quidem certe multum hortante, sed currentem, animum patris sui sorori tuae reconciliavit. Eum valde tuae litterae excitarunt. Quid quaeris? confido rein, ut volumus, esse.
+
+Bis ad te antea scripsi de re mea familiari, si modo tibi redditae litterae sunt, Graece ἐν αἰνιγμοῖς. Scilicet nihil est movendum; sed tamen ἀφελῶς percontando de nominibus Milonis et, ut expediat, ut mihi receperit, hortando, aliquid tu proficies.
+
+Ego Laodiceae quaestorem Mescinium exspectare iussi, ut confectas rationes lege Iulia apud duas civitates possem relinquere. Rhodum volo puerorum causa, inde quam primum Athenas, etsi etesiae valde refiant; sed plane volo his magistratibus; quorum voluntatem in supplicatione sum expertus. Tu tamen mitte mihi, quaeso, obviam litteras, numquid putes rei publicae nomine tardandum esse nobis. Tiro ad
+
+heavens, how I have put you in his good books. I read him a letter, not in your own hand, but in that of your secretary.[226]Friends write me to come home to my triumph, a matter, I think, in view of my political renaissance, hardly to be neglected. So I hope, my dear Atticus, that you will look forward to it too, to make me appear less foolish.
+
+<b>VII</b>
+
+CICERO TO ATTICUS, GREETING.
+
+[Sidenote: <i>Tarsus, before July 30</i>, B.C. <i>50</i>]
+
+The boy Quintus has contrived to reconcile his father to your sister. He showed the proper feeling of a son, and I gave him much encouragement, which he received nothing loath. He was greatly moved by your letter. I trust that matters are as we wish.
+
+I have written to you twice about a domestic matter of mine in Greek and in riddles, if only my letters have reached you. Don’t take decided steps: but still you may do some good by questioning the man simply about Milo’s accounts, and urging him to settle the business as he promised.
+
+I have ordered my quaestor Mescinius to wait at Laodicea, so that in accordance with the Julian law I may leave copies of my accounts in two cities. I want to go to Rhodes for the sake of the boys, thence as soon as possible to Athens, though the Etesian winds are very contrary. But I wish to reach Rome during the magistracy of men whose good-will I experienced over that thanksgiving in my honour.However please send a letter to meet me, saying if you think there can be any political reason for delay.
+
+Footnote 226:
+
+Presumably dictated to him by Cicero himself.
+
+te dedisset litteras, nisi eum graviter aegrum Issi reliquissem. Sed nuntiant melius esse. Ego tamen angor; nihil enim illo adulescente castius, nihil diligentius.<b>VIII</b>
+
+CICERO ATTICO SAL.
+
+[Sidenote: <i>Scr. Ephesi K. Oct. a. 704</i>]
+
+Cum instituissem ad te scribere calamumque sumpsissem, Batonius e navi recta ad me venit domum Ephesi et epistulam tuam reddidit pridie Kal. Octobres. Laetatus sum felicitate navigationis tuae, opportunitate Piliae, etiam hercule sermone eiusdem de coniugio Tulliae meae. Batonius autem miros terrores ad me attulit Caesarianos, cum Lepta etiam plura locutus est, spero falsa, sed certe horribilia, exercitum nullo modo dimissurum, cum illo praetores designates, Cassium tribunum pl., Lentulum consulem facere, Pompeio in animo esse urbem relinquere.
+
+Sed heus tu! numquid moleste fers de illo, qui se solet anteferre patruo sororis tuae filii? at a quibus victus! Sed ad rem.
+
+Nos etesiae vehementissime tardarunt; detraxit XX ipsos dies etiam aphractus Rhodiorum. Kal. Octobr. Epheso conscendentes hanc epistulam dedimus L. Tarquitio simul e portu egredienti, sed expeditius naviganti. Nos Rhodiorum aphractis ceterisque longis navibus tranquillitates aucupaturi eramus; ita tamen properabamus, ut non posset magis.
+
+Tiro would have written you a letter, but I left him at Issus seriously ill. However a message has reached me that he is better.Still I am upset: for he is a model youth and very attentive.
+
+<b>VIII</b>
+
+CICERO TO ATTICUS, GREETING.
+
+[Sidenote: <i>Ephesus, Oct. 1</i>, B.C. <i>50</i>]
+
+Just as I had determined to write to you and had taken up my pen, Batonius came straight from his ship to my house at Ephesus and gave me your letter on the 29th of September. I am delighted about your good voyage, and your opportune meeting with your wife and also at her remarks about the marriage of my daughter. But Batonius brought news that was simply awful about Caesar, and was even more frank in conversation with Lepta. I hope his news is false: it was certainly terrifying. He says that Caesar will refuse to disband his army, that the officials elect, praetors, Cassius the tribune and Lentulus the consul take his part, and that Pompey thinks of leaving Rome.
+
+But by the by, are you so sorry for the fellow that thinks himself superior to the uncle of your sister’s son? What fine opponents to beat him! But to business.
+
+The Etesian winds have hindered me much: the open Rhodian boats too caused me a delay of exactly twenty days. On the 1st of October, as I am embarking from Ephesus, I give this letter to L. Tarquitius, who is leaving the harbour at the same time, but sailing by a faster boat.I have had to wait for fair weather owing to the undecked boats and other war vessels of the Rhodians. However I am hurrying as fast as possible.
+
+De raudusculo Puteolano gratum. Nunc velim dispicias res Romanas, videas, quid nobis de triumpho cogitandum putes, ad quem amici me vocant. Ego, nisi Bibulus, qui, dum unus hostis in Syria fuit, pedem porta non plus extulit quam domi[227] domo sua, adniteretur de triumpho, aequo animo essem. Nunc vero αἰσχρὸν σιωπᾶν. Sed explora rem totam, ut, quo die congressi erimus, consilium capere possimus.
+
+Sat multa, qui et properarem et ei litteras darem, qui aut mecum aut paulo ante venturus esset. Cicero tibi plurimam salutem dicit. Tu dices utriusque nostrum verbis et Piliae tuae et filiae.<b>IX</b>
+
+CICERO ATTICO SAL.
+
+[Sidenote: <i>Scr. Athenis Id. Oct. a. 704</i>]
+
+In Piraeea cum exissem pridie Idus Octobr., accepi ab Acasto, servo meo, statim tuas litteras. Quas quidem cum exspectassem iam diu, admiratus sum, ut vidi obsignatam epistulam, brevitatem eius, ut aperui, rursus σύγχυσιν litterularum, quia solent tuae compositissimae et clarissimae esse, ac, ne multa, cognovi ex eo, quod ita scripseras, te Romam venisse a. d. XII Kal. Oct. cum febri. Percussus vehementer nec magis, quam debui, statim quaero ex Acasto. Ille et tibi et sibi visum et ita se domi ex tuis
+
+Footnote 227:
+
+domi <i>is added by Tyrrell and Purser</i>.
+
+Many thanks for paying the man of Puteoli[228] his pence. Now please consider politics, and see what you think I should do about the triumph, to which my friends invite me. I should have been quite happy, had not Bibulus been trying for a triumph, though the man never set his foot outside his house so long as there was one enemy in Syria any more than he set foot out of his house in town when he was consul. But as it is “’twere base to hold one’s peace.”[229] But consider the whole matter, that we may be able to decide something on the day we meet.That’s enough, considering I am in a hurry and am giving this letter to a man who will arrive at the same time as myself or just before me. My son pays you his best respects. Please give the compliments of both of us to your wife and daughter.
+
+<b>IX</b>
+
+CICERO TO ATTICUS, GREETING.
+
+[Sidenote: <i>Athens, Oct. 15</i>, B.C. <i>50</i>]
+
+As soon as I landed in port on the 14th of Oct. I received your letter from my slave Acastus. I have been looking forward to it so long that I was surprised at its brevity, as I looked at the letter before breaking the seal. Again, when I opened it, I was startled at the illegibility of the scribble, for your hand is generally very fine and legible. In short I gathered from the style of writing that you had arrived in town, as you stated, on the 19th of Sept., suffering from an attack of fever. Much disturbed, as I was bound to be, I questioned my slave. He said that both he
+
+Footnote 228:
+
+Vestorius.
+
+Footnote 229:Euripides; Frag. αἰσχρὸν σιωπᾶν βαρβάρους δ’ ἐᾶν λέγειν.
+
+audisse, ut nihil esset incommode. Id videbatur approbare, quod erat in extremo, febriculam tum te habentem scripsisse. Sed te amavi tamen admiratusque sum, quod nihilo minus ad me tua manu scripsisses. Quare de hoc satis. Spero enim, quae tua prudentia et temperantia est, et hercule, ut me iubet Acastus, confido te iam, ut volumus, valere.
+
+A Turranio te accepisse meas litteras gaudeo. Παραφύλαξον, si me amas, τὴν τοῦ φυρατοῦ φιλοτιμίαν αὐτότατα. Hanc, quae mehercule mihi magno dolori est (dilexi enim hominem), procura, quantulacumque est, Precianam hereditatem prorsus ille ne attingat. Dices nummos mihi opus esse ad apparatum triumphi. In quo, ut praecipis, nec me κενὸν in expetendo cognosces nec ἄτυφον in abiciendo.
+
+Intellexi ex tuis litteris te ex Turranio audisse a me provinciam fratri traditam. Adeon ego non perspexeram prudentiam litterarum tuarum? Ἐπέχειν te scribebas. Quid erat dubitatione dignum, si esset quicquam, cur placeret fratrem et talem fratrem relinqui? Ἀθέτησις ista mihi tua, non ἐποχὴ videbatur. Monebas de Q. Cicerone puero, ut eum quidem neutiquam relinquerem. Τοὐμὸν ὄνειρον ἐμοί. Eadem omnia, quasi conlocuti essemus, vidimus. Non fuit faciendum aliter, meque ἐπιχρονία ἐποχὴ tua dubitatione liberavit. Sed puto te accepisse de hac re epistulam scriptam accuratius.
+
+and you thought that it was nothing serious and that he had gathered as much from your people. This view seemed to be supported by a remark at the end of your letter that at the time of writing you had a touch of fever.However I was greatly surprised and pleased at your writing to me in your own hand under the circumstances. So I will say no more. For I hope considering your careful and temperate life—and to be sure Acastus bids me be confident—that you are now as well as I could wish.
+
+I am glad you got my letter from Turranius. Keep a very strict eye, as you love me, on the untimely designs of that cooker of accounts Philotimus. As to this legacy from Precius, which is a great sorrow to me—for I loved him indeed—don’t let the fellow lay a finger on it, small as it is. You will say that I want money for the outfit of my triumph. You shall see that following your advice I will not show foolish vanity in seeking a triumph, nor be phlegmatic enough to refuse it.
+
+I gather from your letter that you heard from Turranius I had given over my province to my brother. Do you imagine that I overlooked the cautious tone of your letter? You wrote that you were doubtful. There could have been no reason for doubts, if there had been grounds for leaving a brother and such a brother in charge. I took your doubts for dogmatic rejection. You warn me on no account to leave the young Quintus. Your words repeat my dream. The same vision came to us both, as though we had talked it over. There was nothing else to be done, and your long doubt has relieved me of hesitation. But I fancy you must have already got a letter on this topic written in more detail.Ego tabellarios postero die ad vos eram missurus; quos puto ante ventures quam nostrum Saufeium. Sed eum sine meis litteris ad te venire vix rectum erat. Tu mihi, ut polliceris, de Tulliola mea, id est de Dolabella, perscribes, de re publica, quam praevideo in summis periculis, de censoribus, maximeque de signis, tabulis quid fiat, referaturne. Idibus Octobribus has dedi litteras, quo die, ut scribis, Caesar Placentiam legiones IIII. Quaeso, quid nobis futurum est? In arce Athenis statio mea nunc placet.
+
+END OF VOL. I.
+
+I mean to send letter-carriers to you to-morrow, who I fancy will arrive before our friend Saufeius: but it was hardly proper that he should come to you without a letter from me. Please write me fully, as you promise, about my little daughter, that is about her husband Dolabella, about the political situation in which I foresee much trouble, about the censors, and above all about the business of statues and pictures, and whether the matter will come up before the Senate.[230] The 15th of October is the date of this letter, a day on which you say Caesar is going to bring four legions to Placentia. I wonder what will be our fate. My present quarters on the Acropolis at Athens seem to me the best place.
+
+Footnote 230:
+
+The censors had fixed a limit on private expenditure on works of art: but their edict required the confirmation of the Senate before it became law.CHRONOLOGICAL ORDER OF THE LETTERS.[231]
+
+I. 5 November, 68[232]
+
+6 November or December, 68
+
+7 February, 67
+
+8 February, 67
+
+9 February, 67
+
+10 Before July, 67
+
+11 July or August, 67
+
+3 Late in 67
+
+4 Early in 66
+
+1 July, 65
+
+2 July, 65
+
+12 January 1, 6113 January 25, 61
+
+14 February 13, 61
+
+15 March 15, 61
+
+16 June, 61
+
+17 December 5, 61
+
+18 January 20, 60
+
+19 March 15, 60
+
+20 May, 60
+
+II. 1 June, 60
+
+2 December, 60
+
+3 December, 60
+
+10 March 29, 59
+
+4 April, 595 April, 59
+
+6 April, 59
+
+7 April, 59
+
+8 April, 59
+
+9 April, 59
+
+12 April 18, 59
+
+11 April, 59
+
+13 April 23, 59
+
+14 April, 59
+
+15 April, 59
+
+16 May, 59
+
+17 May, 59
+
+18 June or July, 5919 July-October, 59
+
+20 July-October, 59
+
+21 July-October, 59
+
+22 July-October, 59
+
+23 July-October, 59
+
+24 Before October 18, 59
+
+25 Before November 1, 59
+
+III. 3 April 5(?),58
+
+2 April 8, 58
+
+5 April 10 (?), 58
+
+4 April 13, 58
+
+1 April, 58
+
+6 April 17, 587 April 29, 58
+
+8 May 29, 58
+
+9 June 13, 58
+
+10 June 17, 58
+
+11 June 27, 58
+
+12 July 17, 58
+
+14 July 21, 58
+
+13 August 5, 58
+
+15 August 17, 58
+
+16 August 19, 58
+
+17 September 4, 58
+
+18 September, 58
+
+19 September 15, 5820 October 4, 58
+
+21 October 28, 58
+
+22 November 25, 58
+
+23 November 29, 58
+
+24 December 10, 58
+
+25 December, 58
+
+26 January, 57
+
+27 January, 57
+
+IV. 1 September, 57
+
+2 October, 57
+
+3 November 23, 57
+
+4 January 28, 56
+
+4a April or May, 565 April or May, 56
+
+6 April or May, 56
+
+7 April or May, 56
+
+8 April or May, 56
+
+8a Autumn, 56
+
+10 April 22, 55
+
+9 April 27, 55
+
+11 May, 55
+
+12 May, 55
+
+13 November 14, 55
+
+14 May 10, 54
+
+16 June or July, 54
+
+15 July 27, 5417 October 1, 54
+
+18 October, 54
+
+19 November, 54
+
+V. 1 May 5 or 6, 51
+
+2 May 10, 51
+
+3 May 11, 51
+
+4 May 12, 51
+
+5 May 15, 51
+
+6 May 19, 51
+
+7 May 20, 51
+
+8 June 2 or 3, 51
+
+9 June 14, 51
+
+10 June 29 or July 1, 5111 July 6, 51
+
+12 July, 51
+
+13 July 26, 51
+
+14 July 27, 51
+
+15 August 3, 51
+
+16 August, 51
+
+17 August, 51
+
+18 September 20, 51
+
+19 September 20, 51
+
+20 December, 51
+
+21 February 13, 50
+
+VI. 1 February 24, 50
+
+2 May, 503 June, 50
+
+4 June, 50
+
+5 June 26, 50
+
+7 July, 50
+
+6 August, 10 (?) 50
+
+8 October 1, 50
+
+9 October 15, 50
+
+Footnote 231:
+
+In many cases the dates and order are only approximate and authorities differ about them. I have generally accepted the dates given in the Teubner edition.
+
+Footnote 232:
+
+Some date this letter early in 67, and the next towards the end of January, 67.
+
+INDEX OF NAMES.[<i>The references are to the pages of Latin text.</i>]
+
+Abdera, 322
+
+Academia, 12, 22, 28, 440, 470
+
+Acastus, 478, 480
+
+Achaia, 204
+
+Achaici, 32
+
+Acidinus, 276
+
+Acilius Glabrio, 418
+
+Actium, 354
+
+Acutiliana controversia, 10;
+  -num negotium, 14
+
+Acutilius, 14, 20
+
+Aegyptus, 120
+
+Aelia lex, 62, 136Aelius Tubero (Q), 314
+
+Aemilia tribus, 148
+
+Aemilius Paulus (L), 188, 302, 324, 422, 456
+
+Aemilius Scaurus (M), 308, 310, 316
+
+Aetolia, 388
+
+Afranius (L), <i>consul</i> 60 B.C., 82, 262.
+  <i>See also</i> Auli filius
+
+Africanus, <i>see</i> Cornelius Scipio Africanus
+
+Agamemnon, 78
+
+Ahala, <i>see</i> Servilius Ahala
+
+Albanum (praedium), 298
+
+Albanus (mons), 10
+
+Alcibiades, 434
+
+Alexander Magnus, 390Alexander, <i>poet</i>, 184
+
+Alexandrea, 120
+
+Alexandrinus rex, <i>i.e.</i> Ptolemy Auletes, 154
+
+Alexis, 396
+
+Aliphera, 444
+
+Allobroges, 34, 102, 194
+
+Amalthea (Ἀμαλθεία), 32, 64, 110, 132, 172
+
+Amaltheum (Ἀμαλθεῖον), 64
+
+Amanus (mons), 390, 394
+
+Amianus, 428
+
+Andromacha, 308
+
+Andronicus (C.), 374
+
+Anicatus, 170Anneius (M.), 346
+
+Anniana domus, 276
+
+Annius, 424
+
+Annius Milo Papianus (T.), 276, 278, 290, 302, 316, 354, 360, 474, <i>cf.</i> 464, 466. <i>See also</i> Κροτωνιάτης
+
+Annius Saturninus, 336
+
+Antias (praedium), 142
+
+Antiates, 126
+
+Antilibanus, 154
+
+Antiochia, 382, 390, 398
+
+Antiochus Gabinius, 330
+
+Antiphon, 308
+
+Antium, 100, 116, 124, 134, 138, 140, 142, 290, 300
+
+Antius, 324Antonius (C.), <i>consul</i> 63 B.C., 2, 28, 30, 32, 64, 112, 114
+
+Antonius (M.), <i>triumvir</i>, 472
+
+Apamea, 376, 388, 458, 460
+
+Apamense forum, 404
+
+Apelles, 176, 386
+
+Apenas, 292
+
+Apollinares ludi, 166
+
+Apollonidensis, 370
+
+Apollonius, 288
+
+Appia (via), 142
+
+Appi Forum, 140
+
+Appius, <i>see</i> Claudius Pulcher (Appius)
+
+Appuleia, 300Appuleius, 364
+
+Apulia, 332
+
+Aquilius Gallus (C.), 2, 300
+
+Aquinum, 338
+
+Arabarches, 160
+
+Araus, 354
+
+Arbuscula, 308
+
+Arcadia, 444
+
+Arcanum (praedium), 338
+
+Archias, 64
+
+Archilochium edictum, 174;
+  -a -ta, 178
+
+Ἄρειος πάγος, 42
+
+Argiletanum aedificium, 46Ariminum, 386
+
+Ariobarzanes, 394, 416, 458
+
+Ariopagitae, 52, 364
+
+Ariopagus, 364
+
+Aristarchus, 40
+
+Aristodemus, 132
+
+Aristus, 360
+
+Aristoteles, 298, 314
+
+Aristotelium pigmentum, 100
+
+Armenii reges, 128;
+  -nius, 388
+
+Arpinas (homo), 58, 290;
+  -ates aquae, 58
+
+Arpinas (praedium), 18, 156, 158, 336, 338Arpinum, 134, 140, 148
+
+Arretini, 84
+
+Arrius (C.), 148, 150
+
+Arrius (Q.), 74, 122, 130
+
+Artavasdes, 388, 398
+
+Asia, 46, 64, 72, 156, 200, 208, 222, 236, 318, 372, 380, 402, 404
+
+Asiaticum edictum, 430;
+  iter, 306
+
+Asinius Dento, 390–2
+
+Astyanax, 308
+
+Athenae, 14, 22, 102, 204, 206, 208, 318, 358, 360, 362, 366, 438, 440, 452, 462, 470, 482
+
+Ἀθηναίων (πολιτεία), 112
+
+Athenio, 142Atiliana praedia, 336;
+  -num nomen, 386
+
+Atilius Serranus (Sex.), 268
+
+Attica talenta, 404, 418, 438
+
+Atticula, 468.
+  <i>See also</i> Caecilia
+
+Atticus, <i>see</i> Pomponius Atticus
+
+Atticus homo, 90
+
+Aufidius (T.), 2
+
+Aufidius Lurco, 60
+
+Auli filius, <i>i.e.</i>, Afranius (L.) <i>q.v.</i>, 60, 80, 96, 114
+
+Auli lex, <i>see</i> Gabinia lex
+
+Aurelianus, 316
+
+Autroniana domus, 38Autronius Paetus, 196, 202
+
+Axius (Q.), 28, 308, 398
+
+Baiae, 58
+
+Balbus, <i>see</i> Cornelius Balbus
+
+Batonius, 476
+
+Beneventum, 344
+
+Bibulus, <i>see</i> Calpurnius Bibulus
+
+Bona Dea, 118
+
+Bovillana pugna, 368
+
+Βοῶπις, <i>i.e.</i>, Clodia, 146, 182, 186
+
+Britannia, 310, 330
+
+Britannicum bellum, 324
+
+Brundisina colonia, 260;
+  -ni, 260Brundisium, 48, 196, 198, 200, 202, 204, 260, 346, 352, 364, 414
+
+Brutus, <i>see</i> Junius Brutus
+
+Bursa, <i>see</i> Munatius Plancus Bursa
+
+Buthrotum, 126, 290, 312, 318, 400
+
+Caecilia, 452, 464;
+  <i>cf.</i> Atticula
+
+Caecilia lex, 136
+
+Caeciliana fabula, 64
+
+Caecilius (Q.), 4, 6, 28, 170
+
+Caecilius (T.), <i>see</i> Eutychides
+
+Caecilius Bassus (Q.), 134
+
+Caecilius Metellus (M.), <i>praetor</i> 69 B.C., 100
+
+Caecilius Metellus Celer (Q.), <i>consul</i> 60 B.C., 74, 76, 80, 82, 86, 96, 104, 106, 462Caecilius Metellus Creticus (Q.), 82
+
+Caecilius Metellus Nepos (Q.), 122, 142, 244, 246, 254, 276, 278, 290
+
+Caecilus Metellus Numidicus (Q.), 52
+
+Caecilius Metellus Pius Scipio (P.) (<i>formerly</i> P. Cornelius Scipio Nasica <i>q.v.</i>), 4, 110, 434. <i>See also</i> Nasica.
+
+Caecilius Trypho, 206
+
+Caelius Caldus (C.), 452, 464, 468, 470, 472
+
+Caelius Rufus (M.), 436, 438
+
+Caepio, <i>see</i> Servilius Caepio
+
+Caesar, <i>see</i> Julius Caesar
+
+Caesariani terrores, 476
+
+Caesonius (M.), 2
+
+Caieta, 10, 12
+
+Caldus, <i>see</i> Caelius Caldus (C)Calliope, 116
+
+Calpurnius Bibulus (M.), 74, 146, 148, 154, 166, 170, 172, 174, 178, 188, 190, 346, 378, 382, 390, 398, 428, 430, 468, 478
+
+Calpurnius Piso (C.), <i>consul</i> 67 B.C., 4, 34, 44, 74
+
+Calpurnius Piso (L.), <i>consul</i> 133 B.C., 84
+
+Calpurnius Piso Frugi (C.), 10, 190, 244
+
+Calvinus, <i>see</i> Domitius Calvinus
+
+Calvus “ex Nanneianis ille,” 54
+
+Camillus, <i>see</i> Furius Camillus
+
+Campana lex, 162
+
+Campanus ager, 152, 154, 158
+
+Candavia, 204
+
+Caninius Satyrus (A.), 4, 6
+
+Canusinus hospes, 32Capena porta, 260
+
+Capitolinus clivus, 108
+
+Capitolium, 260, 434
+
+Cappadocia, 382, 388, 390, 394, 458
+
+Capua, 166
+
+Cassius Longinus (C.), 382, 390, 398, 428
+
+Cassius Longinus (Q.), 396, 39S, 472, 476
+
+Castricianum mendum, 130
+
+Catilina, <i>see</i> Sergius Catilina
+
+Cato, <i>see</i> Porcius Cato
+
+Catulus, <i>see</i> Lutatius Catulus
+
+Celer, <i>see</i> Pilius Celer
+
+Ceos, 366Cephalus, 314
+
+Ceramicus, 22
+
+Cerialia, 142, 144
+
+Cermalus, 276
+
+Cestius, 370
+
+Chaerippus, 288, 346
+
+Chaeron, 444
+
+Chaonia, 456
+
+Χερρονησιτικά, 466
+
+Chersonesus, 434
+
+Cibyratae, 436;
+  — pantherae, 402
+
+Cibyraticum forum, 404
+
+Cicero, <i>see</i> Tullius CiceroCicero (Cn.), <i>nickname for Pompey</i>, 60
+
+Cicerones, <i>see</i> Tullii Cicerones
+
+Cicilia, 330, 382, 388, 390, 402, 408, 446, 462
+
+Cincia lex, 96
+
+Cincius (L.), 2, 18, 20, 64, 92, 96, 280, 442
+
+Claudius (Ser.), 96
+
+Claudius Marcellus (M.), <i>consul</i>, 51 B.C., 278, 362, 404
+
+Claudius Nero (Tib.), 470
+
+Claudius Pulcher (Appius), 180, 234, 266, 276, 300, 310, 320, 330, 372, 374, 378, 380, 406, 414, 416, 418, 420, 426, 440, 450, 452, 458, 460, 470
+
+Clodia lex, 248
+
+Clodiana fabula, 78;
+  -na religio, 40;
+  -nae operae, 42;
+  num latrocinium, 276;
+  -num negotium, 176Clodianus, <i>i.e.</i>, Cornelius Lentulus Clodianus, <i>consul</i>, 72 B.C., 84
+
+Clodi (C.), filius, <i>see</i> Claudius Pulcher (Appius)
+
+Clodius Pulcher (P.), 30, 34, 36, 44, 46, 52, 56, 58, 62, 78, 80, 86, 118, 124, 128, 132, 134, 138, 142, 150, 164, 168, 170, 178, 182, 190, 192, 228, 234, 246, 248, 266, 268, 274, 276, 278, 290, 306, 308, 310, 458
+
+Cluvius (M.), 444
+
+Coctia lex, 326
+
+Colossi, 388
+
+Comensis, 362
+
+Compitalia, 116;
+  -liciae ambulationes, 116
+
+Considius (Q.), 28
+
+Considius Gallus (Q.), 192
+
+Corcyra, 100, 290, 354;
+  -aea epistula, 452Corinthium aes, 110
+
+Cornelius (M.), 32
+
+Cornelius (Q.), 28
+
+Cornelius Balbus (L), 116, 142
+
+Cornelius Dolabella (P.), 482
+
+Cornelius Lentulus Clodianus, 84
+
+Cornelius Lentulus, <i>son of Clodianus</i>, 82
+
+Cornelius Lentulus Crus (L.), <i>consul</i>, 49 B.C., 476
+
+Cornelius Lentulus Marcellinus (Cn.), 268, 276
+
+Cornelius Lentulus Niger (L.), <i>flamen</i>, 284, 288
+
+Cornelius Lentulus (L.), <i>son of Niger</i>, 188, 326
+
+Cornelius Lentulus Spinther (P.), 244, 246, 254, 344, 400, 408, 414, 438
+
+Cornelius Lentulus Sura (P.), 58Cornelius Scipio Africanus Aemilianus (P.), 314, 424, 432
+
+Cornelius Scipio Nasica (P.), (<i>afterwards</i> Q. Caecilius Metellus Pius Scipio <i>q.v.</i>), 4, 110, 434
+
+Cornelius Sulla (L.), <i>dictator</i>, 84
+
+Cornelius Sulla (P.), 276, 328
+
+Cornelius Sulla Faustus (L.), <i>son of the dictator</i>, 296
+
+Cornicinus, <i>see</i> Oppius Cornicinus
+
+Cornificius (Q.), <i>tribune</i>, 69 B.C., 2, 34
+
+Cornutus (C.), 46
+
+Cosconius (C.), 168
+
+Cossinius (L.), 92, 96, 100
+
+Crassipes, <i>see</i> Furius Crassipes
+
+Crassus, <i>see</i> Licinius Crassus
+
+Crater, 134Culleo, <i>see</i> Terentius Culleo
+
+Culleolus, 460
+
+Cumanum (praedium), 296, 298, 340, 380
+
+Curiana πτῶσις, 158
+
+Curio, <i>see</i> Scribonius Curio
+
+Curiones, <i>see</i> Scribonii Curiones
+
+Curius (M’.), 308
+
+Curius (Q.), 4
+
+Curtius Postumus (M.), 124
+
+Cybistra, 382, 390, 414
+
+Cyprii, 402, 404, 458;
+  — legati, 420
+
+Cyprus, 402, 406, 452, 458
+
+Cyrea, 298Cyrrhestica, 382, 398
+
+Cyrus, 114
+
+Cyzicus, 200, 220, 230, 232
+
+Darius, 390
+
+Decimius (C.), 318
+
+Decimus, 274
+
+Deiotarus, 378, 382, 384, 396, 398, 412, 418, 430, 438
+
+Delos, 366
+
+Δημήτηρ, 292
+
+Demetrius, 298
+
+Demetrius Magnes, 300
+
+Democritus, 428
+
+Demosthenes, 102Dicaearchus, 112, 144, 154, 444
+
+Didia lex, 136
+
+Diodotus, 174
+
+Dionysius, 292, 300, 302, 304, 312, 332, 334, 344, 356, 428, 444. <i>See also</i> Pomponius (M.)
+
+Diphilus, 166
+
+Dodonaea quercus, 120
+
+Dolabella, <i>see</i> Cornelius Dolabella
+
+Domitius Ahenobarbus (L.), 6, 62, 190, 228
+
+Domitius Calvinus (Cn.), 292, 308, 316, 320
+
+Drusus, <i>see</i> Livius Drusus
+
+Drusus, <i>of Pisaurum</i>, 130
+
+Duris, <i>of Samos</i>, 434
+
+Duronius (C.), 354Dyrrachini, 244
+
+Dyrrachium, 66, 204, 244, 260
+
+Egnatius (L.), 300
+
+Egnatius Sidicinus, 438
+
+Eleusis, 440, 470
+
+Eleutherocilices, 392
+
+Ennius (M.), 450
+
+Ephesius praetor, 368
+
+Ephesus, 204, 206, 332, 368, 370, 372, 388, 420, 452, 476
+
+Ephorus, 426
+
+Epicharmus, 88
+
+Epiroticus, 32;
+  -ca emptio 16;
+  -cae litterae, 396Epirus, 32, 120, 150, 196, 200, 202, 204, 218, 222, 232, 236, 238, 240, 242, 244, 252, 306, 318, 342, 352, 380, 384, 386, 398, 424
+
+Equus Tuticus, 414
+
+Eratosthenes, 124, 434
+
+Ἡρώδης, 112
+
+Εὐμολπίδαι, 22
+
+Euphrates, 380, 398
+
+Eupolis (Εὔπολις), 434
+
+Eutychides, 304, 318, 354
+
+Fabius, 106
+
+Fabius Luscus, 294
+
+Fadius Gallus (T.), 250
+
+Fannius (C.), <i>son-in law of Laelius</i>, 314
+
+Fannius (C.), <i>tribune</i> 59 B.C., 190Fausta, 354
+
+Faustus, <i>see</i> Cornelius Sulla Faustus
+
+Favonius (M.), 44, 110, 264, 324
+
+Figulus, <i>see</i> Marcius Figulus <i>and</i> Nigidius Figulus
+
+Firmani fratres 294;
+  -nus 294
+
+Flaccus, <i>see</i> Fulvius Flaccus, Laenius Flaccus <i>and</i> Valerius Flaccus
+
+Flaminia via, 4;
+  -nius circus 40
+
+Flavius (Cn.), 424, 434
+
+Flavius (L.), 80, 84
+
+Fonteius (Fontius) (M.), 18, 308
+
+Formiae, 146
+
+Formiani, 146–8Formianum (estate), 12, 120, 134, 138, 140, 144, 146, 148, 150, 270, 272
+
+Fufia lex, 62, 316
+
+Fufius Calenus (Q.), 38, 44, 46, 48, 50, 160
+
+Fulvius Flaccus (Q.), 276, 278
+
+Fulvius Nobilior (M.), 330
+
+Funisulanus, 344
+
+Furius, 170, 172
+
+Furius Camillus (C.) (Κάμιλλος), 354, 434, 466
+
+Furius Crassipes, 284, 300
+
+Furius Philus, 314
+
+Furnius, 340, 384, 426
+
+Gabinia lex, 408, 410, 450
+
+Gabinius, 122, 188, 328, 330, 332Galatae, 468
+
+Galba, <i>see</i> Sulpicius Galba
+
+Gallia, 4, 82, 96, 110, 316
+
+Gallicum bellum, 82
+
+Gallus, <i>see</i> Aquilius Gallus
+
+Gavius (L.) <i>of Firmum</i>, 294, 418, 458
+
+Gavius Caepio (T.), 392
+
+Gellius Poplicola, 274
+
+Glabrio, <i>see</i> Acilius Glabrio
+
+Gnaeus, <i>i.e.</i> Pompeius Magnus (Cn.), <i>q.v.</i> 142, 152, 418
+
+Graecia, 102, 362, 464
+
+Graecus, 96, 288, 362;
+  -a natio, 100;
+  -ae litterae, 306;
+  -e, 90, 96, 100, 474;  -i, 156, 282, 358, 368, 410, 430, 432, 434, 444, 446;
+  -i cives, 404;
+  -i libri, 98, 110;
+  -um (commentarium), 90;
+  -um poema, 64
+
+Granius (Q.), 460
+
+Γυραί, 366
+
+Gyarus, 366
+
+Haedui, 82
+
+Halimetus, 300
+
+Helonius, 366
+
+Helvetii, 82
+
+Hercules, 434
+
+Herennius (C.), 78, 86
+
+Herennius (Sex.), 78Hermathena, 8, 12
+
+Hermeraclae, 24
+
+Hermes, 12;
+  -ae, 20, 22
+
+Hermo, 400
+
+Herodes, 438
+
+Hierosolymarius, 136
+
+Hilarus, <i>freedman of Cicero</i>, 30
+
+Hipparchus, 124
+
+Hirrus, <i>see</i> Lucilius Hirrus
+
+Hispania, 296, 362
+
+Hortalus, <i>cognomen of Hortensius</i>, 194, 306;
+  <i>cf.</i> Hortensius
+
+Hortensiana, 288Hortensius (Q.), <i>orator</i>, 34, 44, 48, 50, 52, 114, 210, 340, 356, 366, 380, 428, 470
+
+Hortensius (Q.), <i>son of the orator</i>, 462
+
+Hypsaeus, <i>see</i> Plautius Hypsaeus
+
+Ialysus, 176
+
+Iconium, 388, 400
+
+Idaeus pastor, 78
+
+Ilium, 206
+
+Interamna, 104
+
+Interamnates, 308
+
+Iphicrates, 114
+
+Isauricum forum, 404
+
+Isocrates, 100, 426
+
+Issus, 390Italia, 42, 86, 152, 174, 196, 202, 222, 230, 260, 280
+
+Iulia lex, 162, 358, 402, 474
+
+Iulius Caesar (C.), <i>dictator</i>, 4, 30, 34, 74, 106, 110, 116, 13O, 142, 154, 162, 166, 178, 188, 190, 236, 304, 308, 310, 312, 316, 318, 320, 330, 332, 342, 348, 350, 360, 362, 368, 370, 394, 396, 400, 438, 440, 472, 482
+
+Iulius Caesar (L.), <i>consul</i> 64 B.C., 2, 8, 324
+
+Iulius Caesar Strabo Vopiscus (C.), 412
+
+Iunia lex, 136, 316
+
+Iunius Brutus (M.), 190, 380, 384, 403, 408, 410, 412, 414, 416, 418, 420, 422, 442, 448, 450, 452, 456, 458, 460
+
+Iunius Silanus (D.), 2
+
+Iuventas, 78
+
+Iuventius Laterensis (M.), 162, 190
+
+Iuventius Talna, 56Κικέρων (ὁ μικρός), (<i>i.e.</i> Tullius Cicero (Q.), son of the orator, <i>q.v.</i>), 138, 150
+
+Κικέρων ὁ φιλόσοφος, (<i>i.e.</i> Tullius Cicero (Q.), the orator, <i>q.v.</i>), 144
+
+Κόνων, 466
+
+Κορινθίων (πολιτεία), 112
+
+Κροτωνιάτης, (<i>i.e.</i> T. Annius Milo, <i>q.v.</i>), 464, 466
+
+Κροτωνιατικά, 466
+
+Κύρου παιδεία, 114
+
+Laconicum, 298
+
+Laelius, 170, 172
+
+Laelius Sapiens (C.), 314
+
+Laenius Flaccus (M.), 396, 400, 406, 422, 458
+
+Λαιστρυγονίη, 146
+
+Lamia (L. Aelius), 354Laodicea, 372, 374, 376, 380, 388, 392, 396, 400, 404, 414, 424, 438, 442, 446, 462, 474
+
+Larinum, 300
+
+Laterensis, <i>see</i> Iuventius Laterensis
+
+Laterium, 290
+
+Latinus ἀττικισμός, 332;
+  -ae (tribus), 8;
+  -ni (libri), 96, 98, 112;
+  -num (commentarium), 90
+
+Lentulus, <i>ship-owner</i>, 20, 22
+
+Lentulus, <i>see also</i> Cornelius Lentulus
+
+Lepreon, 444
+
+Lepta (Q.), 378, 426, 476
+
+Leucata, 356
+
+Leuctrica pugna, 442Liberalia, 428
+
+Libertas, 266, 324
+
+Licinia lex, 136, 316
+
+Licinius Crassus (M.), 12, 40, 42, 72, 80, 116, 120, 122, 146, 176, 182, 190, 222, 224, 250, 298, 302, 314
+
+Licinius Lucullus Ponticus (L.), 4, 44, 90, 190
+
+Licinius Lucullus (M.), <i>brother of the last</i>, 78, 268
+
+Licinius Macer (C.), 12
+
+Ligur <i>or</i> Ligus (L.), 346
+
+Ligurinus μῶμος, 392
+
+Livineius Regulus (L.), 234
+
+Livineius Trypho (L.), 234
+
+Livius Drusus, 310, 316, 324
+
+Locri, 434Lollius Palicanus (L.), 2, 80
+
+Lucceius (L. M. f.), 396, 412, 438
+
+Lucceius (L. Q. f.), 10, 14, 26, 46, 74, 110, 288, 296, 300
+
+Lucilius (Sex.), 392
+
+Lucilius Hirrus (C.), 316
+
+Lucretius (Q.), 316
+
+Lucrinenses res, 296
+
+Luculli, 64
+
+Lucullus, <i>see</i> Licinius Lucullus
+
+Lurco, <i>see</i> Aufidius Lurco
+
+Lutatius Catulus (Q.), <i>consul</i> 78 B.C., 34, 54, 94, 148, 190, 192, 284
+
+Lutatius Catulus (Q.), <i>consul</i> 102 B.C., 268, 270, 272
+
+Lycaonia, 374Lycaonium forum, 404
+
+Lycii, 468
+
+Lycurgei, 36
+
+Macedonia, 188, 196, 206, 388
+
+Macer, <i>see</i> Licinius Macer
+
+Macro, 300
+
+Maecia tribus, 310
+
+Magnus, <i>see</i> Pompeius Magnus
+
+Mallius, 64
+
+Manilius (M’), 314
+
+Manlius Torquatus (A.), 340, 346, 406, 422
+
+Manlius Torquatus (L.), 330
+
+Marcellinus, <i>see</i> Cornelius Lentulus MarcellinusMarcellus, <i>see</i> Claudius Marcellus
+
+Marcius Figulus (C.), 8
+
+Marcius Philippus (L.), 368, 370, 408
+
+Martius campus, 78, 326
+
+Maso, <i>see</i> Papirius Maso
+
+Matinius (P.), 406, 420, 458
+
+Megabocchus, 130
+
+Megarica signa, 20, 22
+
+Melita, 198, 386
+
+Memmiana epistula, 426
+
+Memmius (C.), 78, 142, 144, 308, 316, 320, 364, 438
+
+Menelaus, 78
+
+Menniana praedia, 336Menophilus, 292
+
+Menturnae, 340
+
+Menturnenses (litterae), 344
+
+Mescinius Rufus (L.), 464, 474
+
+Messalla (or Messala), <i>see</i> Valerius Messalla
+
+Messius (C.), 262, 264, 310
+
+Metellina oratio, 36
+
+Metellus, <i>see</i> Caecilius Metellus
+
+Metrodorus, <i>of Scepsus</i>, 118
+
+Milo, <i>see</i> Annius Milo
+
+Minerva, 12
+
+Minucius Thermus (Q.), 2, 4, 370, 396, 412, 428
+
+Misenum, 36Mitilenae, 364
+
+Moeragenes, 374, 428
+
+Molo, 110
+
+Mucia, <i>wife of Pompey</i>, 30
+
+Mucius Scaevola (P.), <i>consul</i> 133 B.C., 84
+
+Mucius Scaevola (Q.), <i>augur</i>, 314
+
+Mucius Scaevola (Q.), <i>pontifex maximus</i>, 380, 418, 430
+
+Mucius Scaevola (Q.), <i>tribune</i> 54 B.C., 322, 330
+
+Mulviana controversia, 150
+
+Munatius Plancus Bursa (T.), 426
+
+Musae (Μοῦσαι,) 52, 118, 124
+
+Mytilenaei, 362
+
+Nanneiani, 54Nar, 308
+
+Nares Luc(aniae), 196
+
+Nasica, 110. <i>Cf.</i> Caecilius Metellus Pius Scipio
+
+Natta, 294
+
+Neapolis, 16, 296
+
+Nemus, 440
+
+Nepos, <i>see</i> Caecilius Metellus Nepos (Q.)
+
+Nero, <i>see</i> Claudius Nero
+
+Nicanor, 344, 396
+
+Nigidius Figulus (P.), 112
+
+Ninnius Quadratus (L.), 248
+
+Nonius Sufenas (M.), 306, 428
+
+Numestius (Numerius), 170, 184, 186, 192Octavius (C.), <i>father of Augustus</i>, 112
+
+Octavius (M.), 402, 436
+
+Ὁμηρικῶς, 48
+
+Opimius, 320
+
+Oppius (C.), 336, 348
+
+Oppius Cornicinus (Cn.), 268
+
+Ὀπούντιοι, 444
+
+Ὀποῦς, 444
+
+Ops, 434
+
+Orodes, 382, 398, 430
+
+Osaces, 390
+
+Otho, <i>see</i> Roscius Otho
+
+Pacciana epistula, 318Paccius (M.), 312
+
+Paciliana domus, 46
+
+Pacorus, 382
+
+Paetus, <i>see</i> Papirius Paetus
+
+Palatina palaestra, 120
+
+Palicanus, <i>see</i> Lollius Palicanus
+
+Pammenes, 398
+
+Pammenia illa, 452
+
+Pamphylium forum, 404
+
+Panhormus, 90
+
+Papia lex, 330
+
+Papirius Maso (M.), 346
+
+Papirius Paetus (L.), 96, 98, 110, 296Parilia, 134, 298
+
+Paris, 78
+
+Parthicum bellum, 398, 418, 428;
+  -otium, 372
+
+Parthus, 356, 378;
+  -i, 362, 380, 388, 390, 398, 404, 430, 448, 472
+
+Patrae, 356
+
+Patro, 364, 386
+
+Paulus, <i>see</i> Aemilius Paulus (L.)
+
+Peducaeus (Sex.), 12, 14
+
+Pella, 206
+
+Πελληναίων (πολιτεία), 112
+
+Peloponnesiae civitates, 444
+
+Peloponnesus, 444Pentelici Hermae, 20
+
+Phaetho, 206
+
+Phemius, 396, 404, 428
+
+Philadelphus, 28
+
+Philippicae orationes, 102
+
+Philippus, <i>king</i>, 60
+
+Philippus, <i>see</i> Marcius Philippus
+
+Philogenes, 370, 394, 442, 452, 454
+
+Philomelium, 388
+
+Philotimus, 120, 298, 344, 348, 354, 378, 386, 424, 434, 454
+
+Philoxenus, 286
+
+Philus, <i>see</i> Furius Philus
+
+Phliasii, 444Φλιοῦς, 444
+
+Φωκυλίδης, 296
+
+Pilia, 282, 300, 316, 364, 436, 452, 462, 464, 468, 476, 478
+
+Pilius Celer (Q.), 330
+
+Pinarius (T.), 438
+
+Pindenissitae, 388
+
+Pindenissus, 392, 424
+
+Piraeus, 314, 366, 478
+
+Pisaurensis Drusus, 130
+
+Pisidae, 468
+
+Piso, <i>see</i> Calpurnius Piso <i>and</i> Pupius Piso
+
+Pituanius, 306
+
+Placentia, 482Plaetorianum incendium, 396
+
+Plancius (Cn.), 30, 222, 244
+
+Plancus, <i>see</i> Munatius Plancus
+
+Plato, 108, 314
+
+Plautius Hypsaeus, 206
+
+Plautus, 56
+
+Plotia lex, 80
+
+Plotius (A.), 374
+
+Πολυκλῆς, 434
+
+Polycharmus, 364
+
+Pompeianus cistophorus, 126;
+  -na laus, 42;
+  -ni prodromi, 28;
+  -num (praedium), 92, 110, 120, 296, 340Pompeius Magnus (Cn.), 4, 28, 30, 38, 40, 42, 60, 74, 80, 84, 86, 88, 106, 116, 146, 166, 170, 178, 180, 182, 184, 188, 190, 192, 206, 208, 210, 212, 218, 220, 222, 226, 236, 244, 246, 250, 262, 264, 270, 284, 296, 298, 308, 310, 316, 318, 326, 334, 342, 348, 350, 352, 362, 368, 382, 386, 400, 406, 412, 418, 426, 430, 438, 440, 452, 456, 458, 472, 476. <i>See also</i> Cicero (Cn.) <i>and</i> Sampsiceramus
+
+Pompeius Rufus (Q.), 324
+
+Pompeius Vindullus, 440
+
+Pomponia, 14, 18, 110, 116, 118, 120, 338
+
+Pomponius (M.), 304 (<i>i.e.</i>, Dionysius <i>q.v.</i>)
+
+Pomponius Atticus (T.), 28, 132, 138, 144, 154, 172, 198, 210, 230, 238, 244, 246, 270, 326, 436, 450, 452, 474
+
+Pomptina tribus, 310
+
+Pomptinus (C.), 330, 338–40, 346, 348, 350, 352, 358, 362, 390, 406, 454
+
+Pontidia, 412, 426
+
+Pontius Aquila (L.), 6, 340, 342, 344Porcius Cato (C.), 306, 316, 318
+
+Porcius Cato (M.), 36, 42, 62, 74, 80, 108, 122, 136, 138, 174, 224, 310, 324, 330, 420, 424, 428, 450
+
+Posidonius, 100
+
+Postumia, 406, 412
+
+Postumius, 406
+
+Postumus, <i>see</i> Curtius Postumus (M.)
+
+Πουλυδάμας, 122
+
+Preciana hereditas, 480
+
+Procilius, <i>historian</i>, 112
+
+Procilius, 306, 316
+
+Prognostica, <i>name of a book</i>, 110
+
+Protogenes, 176
+
+Ptolemaeus, 296Publius, <i>see</i> Clodius Pulcher (P.)
+
+Pulchellus (<i>i.e.</i>, Clodius Pulcher (P.), <i>q.v.</i>), 104, 162, 180
+
+Pulcher, <i>see</i> Clodius Pulcher (P.)
+
+Pupius Piso Frugi Calpurnianus (M.), <i>consul</i> 61 B.C., 32, 38, 42, 44, 48, 56
+
+Puteolanus, 374;
+  -na res, 296;
+  -ni, 340;
+  -num raudusculum, 478
+
+Puteoli, 36, 296
+
+Quintus, <i>see</i> Tullius Cicero (Q.)
+
+Rabiriana domus, 16
+
+Rabirius (C.), 102
+
+Rantius, 322
+
+Reatini, 308
+
+Regulus, <i>see</i> Livineius RegulusRex, 58
+
+Rhinton, 94
+
+Rhodii, 362, 366, 368, 476
+
+Rhodos, 100, 110, 384, 474
+
+Rhosica vasa, 428
+
+Roma, 4, 8, 10, 14, 22, 68, 92, 104, 112, 124, 126, 132, 134, 140, 142, 144, 148, 150, 156, 158, 180, 186, 208, 212, 256, 258, 266, 290, 298, 302, 306, 308, 340, 350, 352, 354, 356, 360, 368, 370, 374, 378, 380, 382, 384, 386, 394, 396, 406, 408, 412, 426, 454, 456, 460, 464, 466, 470, 478
+
+Romanus homo, 90;
+  populus, 54–6;
+  -na mysteria, 440;
+  -nae res, 42, 44, 76, 306, 326, 478;
+  -ni cives, 384, 402, 404;
+  -ni equites, 78, 290
+
+Romulus, 108
+
+Roscia lex, 168Roscius Otho (L.), 102
+
+Rosia (rura), 308
+
+Rufio Vestorianus, 340.
+  <i>See also</i> Sempronius Rufus
+
+Rutilius Rufus (P.), 314
+
+Sacra via, 274
+
+Salaminius senatus, 450;
+  -nii, 406, 408, 420, 422, 448, 450, 452
+
+Salamis, 420
+
+Saliarem in modum, 356
+
+Sallustius (Cn.), 10, 26
+
+Salus, 260
+
+Samius, 434
+
+Sampsiceramus (<i>i.e.</i> Pompeius Magnus), 146, 154, 158, 184Samus, 368
+
+Saturnalia, 388, 392
+
+Saturninus, <i>see</i> Annius Saturninus
+
+Satyrus, <i>see</i> Caninius Satyrus
+
+Saufeius (L.), 10, 134, 286, 426, 482
+
+Scaevola, <i>see</i> Mucius Scaevola
+
+Scaptius (M.), 406, 408, 410, 420, 422, 424, 448, 450, 452, 458
+
+Scaptius (M.), <i>in Cappadocia</i>, 418, 458
+
+Scaurus, <i>see</i> Aemilius Scaurus
+
+Scepsius, <i>see</i> Metrodorus of Scepsus
+
+Scipio, <i>see</i> Caecilius Metellus Pius Scipio (P.) <i>and</i> Cornelius Scipio
+
+Scribonii Curiones, 190
+
+Scribonius Curius (C.), <i>consul</i> 76 B.C., 42, 48, 62Scribonius Curio (C.), <i>son of the last</i>, 130, 132, 142, 160, 166, 168, 188, 190, 224, 240, 438, 448, 456
+
+Scrofa, <i>see</i> Tremellius Scrofa
+
+Sebosus, 148, 150
+
+Seius (M.), 370, 396
+
+Seleuciana provincia, 332
+
+Selicius (Q.), 28
+
+Sempronius Rufus (C.), 452.
+  <i>See also</i> Rufio Vestorianus
+
+Septem Aquae, 308
+
+Septimius (C.), 188
+
+Serapion, <i>geographer</i>, 118, 124
+
+Serapion, <i>see</i> Cornelius Scipio Nasica Serapion
+
+Sergius Catilina (L.), 2, 8, 42, 58, 102, 274Serranus, <i>see</i> Atilius Serranus
+
+Servilia, 346, 426
+
+Servilius (M.), 462
+
+Servilius Ahala (C.), 190
+
+Servilius Caepio Brutus (<i>i.e.</i> M. Junius Brutus <i>q.v.</i>), 188, 190
+
+Servilius Vatta (P.), 432
+
+Servilius Vatta Isauricus (P.), <i>praetor</i> 54 B.C., 90, 110, 310, 330
+
+Servius, <i>see</i> Sulpicius Rufus
+
+Sestius (P.), 234, 238, 242, 250, 276, 380, 438
+
+Sicca, 196, 198
+
+Sicilia, 104, 434
+
+Sicinius, 346
+
+Siculus Epicharmus, 88;
+  -i, 104, 364Sicyon, 32
+
+Sicyonii, 90, 96, 110, 146, 178
+
+Sidicinus, <i>see</i> Egnatius Sidicinus
+
+Silanus, <i>see</i> Iunius Silanus
+
+Silius Nerva (P.), 428
+
+Σιπούντιοι, 444
+
+Σιποῦς, 444
+
+Socrates, 314
+
+Σωκρατικῶς, 116
+
+Solonium, 116, 134
+
+Sophocles, 130
+
+Sopolis, 330
+
+Sositheus, 30Σπάρτα, 94, 286
+
+Spartacus, 450
+
+Spongia, 56
+
+Statius, 162, 164, 338, 442
+
+Statius (Sex.), 422
+
+Sufenas, <i>see</i> Nonius Sufenas
+
+Sulla, <i>see</i> Cornelius Sulla
+
+Sullani homines, 84
+
+Sulpicius Galba (P.), 2
+
+Sulpicius Rufus (Ser.), 122, 346, 404
+
+Sybota, 354
+
+Synnadense forum, 404
+
+Synnas (Synneda), 376, 388Syria, 56, 296, 382, 390, 454, 462, 468, 478
+
+Syros, 366
+
+Tadiana res, 16;
+  -num negotium, 20
+
+Tadius, 16, 20
+
+Talna, <i>see</i> Juventius Talna
+
+Tarentinus (ager), 200
+
+Tarentum, 200, 350
+
+Tarquitius (L.), 476
+
+Tarsenses, 402
+
+Tarsus, 378, 380, 390, 402, 406, 462
+
+Tauri pylae, 390
+
+Taurus, 374, 382, 390, 402, 412
+
+Τέμπη, 308Tenea, 444
+
+Terentia, 8, 16, 28, 116, 120, 132, 138, 144, 150, 200, 208, 210, 236, 250, 426, 404
+
+Terentius, 290,, 428
+
+Terentius, <i>tribune</i> 54 B.C., 322
+
+Terentius Culleo (Q.), 228
+
+Terentius Varro (M.), 170, 178, 182, 192, 206, 222, 224, 238, 270, 304, 312, 362
+
+Terminalia, 414
+
+Tettius Damio, 274
+
+Teucris (Τεῦκρις), 28, 38, 46
+
+Thallumetus, 366
+
+Thalna, <i>see</i> Iuventius Thalna
+
+Theophanes (Θεοφάνης), 122, 144, 158, 362Theophrastus (Θεόφραστος), 118, 136, 154, 434
+
+Theopompium genus, 126
+
+Theopompus, 426
+
+Thermus, <i>see</i> Minucius Thermus
+
+Thesprotia, 456
+
+Thessalia, 244
+
+Thessalonica, 68, 206, 208, 212, 214, 218, 222, 230, 236, 242, 244
+
+Thurium, 200
+
+Thyillus, 22, 30, 64
+
+Tiberius, 402
+
+Tigranes, 118, 128
+
+Tigranes filius, 206
+
+Timaeus, 434

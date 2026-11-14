@@ -1,0 +1,1590 @@
+HOLB1	70717	0	0	80	896	6
+1	I.
+4	II.
+7	III.
+13	IV.
+25	XII. Morall vertues.
+29	Canto I.
+THE POETICAL WORKS OF
+EDMUND SPENSER
+
+IN THREE VOLUMES
+
+VOLUME II
+
+SPENSER’S
+FAERIE QUEENE
+
+EDITED BY
+J. C. SMITH
+
+VOLUME I: BOOKS I-III
+
+OXFORD
+AT THE CLARENDON PRESS
+
+<i>Oxford University Press, Amen House, London E.C.4</i>
+
+GLASGOW NEW YORK TORONTO MELBOURNE WELLINGTON
+  BOMBAY CALCUTTA MADRAS KARACHI LAHORE DACCA
+    CAPE TOWN SALISBURY NAIROBI IBADAN ACCRA
+        KUALA LUMPUR HONG KONGFIRST PUBLISHED 1909
+REPRINTED LITHOGRAPHICALLY IN GREAT BRITAIN
+AT THE UNIVERSITY PRESS, OXFORD
+FROM SHEETS OF THE FIRST IMPRESSION
+1961, 1964
+
+INTRODUCTION.
+
+<b>I.</b>
+
+In these volumes I seek to present a true text of the <i>Faerie Queene</i>, founded upon a fresh collation of the Quartos of 1590 and 1596 and the Folio of 1609. I shall call these editions by their dates for short.
+
+The fragmentary Seventh Book appeared first in 1609: for the rest the text is based on 1596. Some typographical peculiarities--long s, &, ô, and superscribed m and n (e.g. frõ, whẽ)--have not been reproduced, but noted only where they first occur. With these exceptions, the readings of 1596 if not adopted in the text are recorded in the notes; so that text and notes together amount, in effect, to a complete reprint of 1596. No such completeness has been attempted in recording variants from 1590 and 1609. But all verbal differences are recorded, and all differences of punctuation that imply a different view of the meaning. Mere changes of spelling that answer to no change of pronunciation are, as a rule, ignored; but I have recorded such differences of spelling as seemed likely to interest students of Elizabethan phonology, grammar, and usage.The evidence of these variants must be used with caution in view of Spenser’s deliberate archaism. Yet I believe that they have some value. I give one instance in each kind:--
+
+1. A fluid <i>e</i>-sound is indicated by the variants ‘seeldome’ 1590, ‘seldome’ 1596, ‘sildom’ 1609, at I. iv. 23, l. 5.
+
+2. Syllabic <i>-es</i> in possessives and plurals, which still lingered in the early fifteen-nineties, has grown quite strange to the editor of 1609. To this point I shall return.
+
+3. The conjunctions ‘since’ and ‘sith’ are used indifferently in 1590 and 1596, choice of one or other form being determined by euphony alone. But 1609 makes a deliberate, though not quite consistent, attempt to appropriate ‘since’ to the temporal, ‘sith’ to the causal sense. The attempt unfortunately did not avail to save the more primitive form.
+
+I have departed from the punctuation of 1596 only where it seemed likely to puzzle or mislead a modern reader. These departures, which are all recorded, are not very numerous. Spenser’s punctuation, though by no means sacrosanct, is less arbitrary than might at first appear; but, as Mr. Gregory Smith says of the punctuation of Addison, it has a rhetorical rather than a logical value. We feel its force best when we read the poem aloud. Two peculiarities are so common that the reader may be warned of them here. One is the absence of punctuation with vocatives: the other is the single comma after qualifying phrases. With this warning I leave these peculiarities, as a rule, unchanged.In the treatment of capitals and in the distribution of roman and italic type I have followed the same principle of adhering, wherever possible, to the original text.
+
+I have regularized the spelling of proper names wherever the variation seemed to be due to the printer rather than the poet. And this is generally the case with double letters. But for many variations in proper names Spenser was himself responsible. He varied them sometimes for the sake of the metre, as <i>Serena</i>, <i>Serene</i>; or of the rhyme, as <i>Florimell</i>, <i>Florimele</i>. In two instances he seems actually to have wavered or changed his mind. <i>Braggadocchio’s</i> name is generally spelt thus in Book II; in Books III and IV it varies; in V. iii it is regularly <i>Braggadochio</i>. So we generally find <i>Arthegall</i> in Book III, but <i>Artegall</i> regularly in Book V; 1609, however, returns to <i>Arthegall</i>.<b>II.</b>
+
+Aiming not at a reprint but a true text, I have not hesitated to depart from 1596 wherever I believed it to be in error and the error the printer’s. But it is no part of an editor’s duty to correct, though he may indicate, mistakes made by the author himself. There are many such in the <i>Faerie Queene</i>.
+
+(1) There are mistakes of fact, of literary allusion, of quantity in classical names, hardly to be avoided by a poet writing far from libraries.
+
+(2) There are confusions of personages, or of names of personages, within the poem itself. Sir <i>Guyon</i> is confused with the <i>Redcrosse Knight</i> in III. ii. 4, and with Prince <i>Arthur</i> in II. viii. 48 (but not in 1609); <i>Æmylia</i> with <i>Pœana</i> in IV. ix. Arg.; <i>Calepine</i> with <i>Calidore</i> in VI. vi. 17; while over <i>Serena</i> Spenser’s confusion becomes comical--he calls her <i>Crispina</i> in VI. iii. 23,[1] and <i>Matilda</i> in VI. v. Arg.
+
+(3) Some lines are hypermetrical; some are short by a foot; and there are two or three broken lines. One of these last (III. iv. 39, l. 7) is certainly intentional, and all may be so; the supposed example of Virgil may have influenced Spenser in this.
+
+(4) Imperfect rhymes and concords are numerous, especially in Books IV, V, and VI.(5) There is one form of imperfect rhyme so singular as to deserve a fuller discussion. Its nature will be best seen in an example:--
+
+‘Like two faire marble pillours they were seene, Which doe the temple of the Gods support, (2) Whom all the people decke with girlands greene, And honour in their festiuall resort; (4) Those same with stately grace, and princely port (5) She taught to tread, when she her selfe would grace, But with the wooddie Nymphes when she did play, (7) Or when the flying Libbard she did chace, She could them nimbly moue, and after fly apace.’
+
+(II. iii. 28.)
+
+Here ‘play’ in l. 7 is rhymed to ‘support’, ‘resort’, ‘port’: ‘sport’ is the obvious correction. There are, in all, nine instances of this singularity in the <i>Faerie Queene</i>. I subjoin them all, citing the rhyme-words only: the number following each word shows the line that it ends:--
+
+1. day (2), dismay (4), way (5), chace (7) (II. ii. 7) 2. make (6), bold (8), told (9) (II. ii. 42) 3. support (2), resort (4), port (5), play (7) (II. iii. 28) 4. leaue (2), cleaue (4), bereaue (5), vpreare (7) (II. viii. 29) 5. spyde (6), law (8), draw (9) (III. vi. 40) 6. enclose (2), plaine (4), Maine (5), complaine (7) (III. vii. 34) 7. times (6), equipage (8), parentage (9) (IV. xi. 17) 8. place (2), aread (4), dread (5), read (7) (V. Proem 11) 9. desyre (2), entyre (4), yre (5), meed (7) (V. xi. 61)In every case the correction is obvious: ‘chace’ should be ‘pray’ (i.e. prey); ‘make’, ‘hold’; ‘play’, ‘sport’; ‘vpreare’, ‘vpheaue’; ‘spyde’, ‘saw’; ‘enclose’, ‘containe’; ‘times’, ‘age’; ‘place’, ‘stead’ (as in 1609); ‘meed’, ‘hyre’. The phenomenon may now be described in general terms: in these nine places Spenser substitutes for a rhyming word a metrically equivalent synonym which does not rhyme. Our analysis shows further that, the rhyme-scheme of the Spenserian stanza being <i>ababbcbcc</i>, this substitution occurs only in the first or last of the <i>b</i>-group, or in the first of the <i>c</i>-group. It seems as if, borne along on the swell of his metre and the easy flow of his imagination, two words identical in sense and metre but different in sound rose to the poet’s mind almost simultaneously; and the one which he meant to reject slipped nevertheless from his pen, having been (we infer) the first to occur. This explains why this phenomenon always occurs either in the first word of a rhyme-group, where the rhyme is still undetermined; or, if in the last, then only in the last of the <i>b</i>-group, where the ear has already been satisfied with as many as three rhymes; and why it never occurs in the <i>a</i>-group, where two rhymeless endings would at once have alarmed the ear. I have dwelt on this phenomenon at some length because it is, so far as I know, peculiar to Spenser.[2]
+
+(6) I must glance at another, though a rare, source of error. Our sage and serious Spenser was a thoughtful, even a philosophic writer; but his thought is large, simple, contemplative, not acute and analytic. When he has to deal with a subtle or complex situation he sometimes involves himself inextricably. If any lover of Spenser resent this judgement, let him apply his devotion to explain or emend II. v. 12, ll. 8 and 9; V. vi. 5, ll. 6 and 7; V. vi. 26, ll.5 and 6: to me these passages appear incorrigible.
+
+<b>III.</b>
+
+The first mention of the <i>Faerie Queene</i> occurs in a letter of Spenser’s to Gabriel Harvey, dated <i>Quarto Nonas Aprilis</i> 1580. ‘I wil in hande forthwith,’ he writes, ‘with my <i>Faery Queene</i>, whyche I praye you hartily send me with al expedition: and your frendly Letters, and long expected Judgement wythal.’ ‘I haue nowe sent hir home at the laste,’ writes Harvey in reply. These phrases show that the parcel of the <i>Faerie Queene</i> had been in Harvey’s hands for some considerable time. The poem must therefore have been begun not later than 1579. Now in 1579 Spenser was an inmate of Leicester House, and the constant associate of Sir Philip Sidney. There is therefore no reason to doubt the assertion of W. L. in his commendatory verses that by Sidney the poem was originally inspired.
+
+Harvey’s long-expected judgement, when it came, was far from favourable. But the poet was not discouraged, and doubtless took the manuscript with him when he went to Ireland with Lord Grey in August, 1580. Though he afterwards spoke of the poem as ‘wilde fruit which salvage soyl hath bred’, there is some reason to think that he had actually written as much as a book and a half before he left England. For though allusions to Ireland are not rare in the <i>Faerie Queene</i>, the first of them occurs in II. ix. 16.[3] Moreover, the industry of commentators has discovered in Book I only one imitation of Tasso’s <i>Gierusalemme Liberata</i>, and that doubtful[4] (I. vii. 31); undoubted imitations begin to appear in II. v, vi, vii, viii, and II.xii blazes with spoils from the Garden of Armida. Now the <i>Gierusalemme Liberata</i> was published in 1581; an imperfect edition had been issued surreptitiously in 1580.
+
+Our next glimpse of the <i>Faerie Queene</i> we owe to Lodovick Bryskett, whose <i>Discourse of Civill Life</i>, though not published till 1606, purports to record a conversation held in his cottage near Dublin as early, it would seem, as the spring of 1583. Spenser is one of the interlocutors. He is made to say that he has already undertaken a work ‘which is in <i>heroical verse</i> under the title of a <i>Faerie Queene</i>’; which work he has ‘already well entered into’. The company express an ‘extreme longing’ after this <i>Faerie Queene</i>, ‘whereof some parcels had been by some of them seene’.
+
+Parcels of the <i>Faerie Queene</i> had been seen, it appears, not only by Spenser’s friends in Dublin, but by his literary contemporaries in London. I. v. 2 is imitated in Peele’s <i>David and Bethsabe</i> (date unknown, but probably before 1590). I. vii. 32 and I. viii. 11 are imitated in Act IV, Sc. 4 and Act IV, Sc. 3 respectively of the second part of Marlowe’s <i>Tamburlaine</i> (published 1590, but acted some years earlier). Finally, Abraham Fraunce in his <i>Arcadian Rhetorike</i> (1588) quotes Spenser ‘in his <i>Fairie Queene</i>, 2 booke, cant. 4’. Fraunce’s quotation is the more interesting inasmuch as it shows that by 1588[5] the <i>F. Q.</i> had not only been composed, but disposed into its present arrangement of books and cantos so far at least as II. iv. It is worth remarking that all these imitations of and quotations from <i>F. Q.</i> before it was published are from that part of the poem which we have seen some reason to think was written before Spenser left England.Allusions in the poem shed no certain light on the progress of its composition.
+
+There is no reason to suppose that Spenser composed the whole of the <i>F. Q.</i> in the order in which he gave it to the world. It is more likely that he worked up many incidents and episodes as they occurred to him, and afterwards placed them in the poem. We know that the <i>Wedding of Thames and Medway</i>, which now forms IV. xi, is a redaction of an <i>Epithalamium Thamesis</i> which he originally undertook as an experiment in quantitative metre before April, 1580. And it seems probable that the <i>Legendes</i> and <i>Court of Cupid</i> mentioned by E. K. in his preface to the <i>Shepheards Calender</i>, as well as the <i>Pageaunts</i>[6] mentioned in the Glosse on <i>June</i>, were similarly worked over and incorporated in the <i>F. Q.</i>
+
+Combining these pieces of evidence, we receive the impression that for some time after he came to Ireland Spenser worked but intermittently on the <i>F. Q.</i>, resuming the regular composition and arrangement of the poem about the time when he ceased to reside in Dublin.[7] By 1588--the date of Fraunce’s quotation--he may have already been settled at Kilcolman. There, at least, Raleigh found him in 1589, and was shown the poem; with the result that in the autumn of that year Spenser accompanied Raleigh to London, and set about the publication of Books I-III. The volume was licensed to William Ponsonbye on Dec. 1, 1589. Spenser’s explanatory letter to Raleigh bears date Jan. 23, 1589 (i. e. 1590 N. S.). In the course of 1590, but not before March 25, the volume was published. The printing shows some signs of haste; there is a long list of errata or ‘Faults Escaped in the Print’.This list, though not itself faultless, is of paramount authority in determining the text of Books I-III; it is cited in the notes as <i>F. E.</i>
+
+In 1591 Spenser returned to Ireland, a disappointed man. I fear that Burleigh had taken occasion of the Milesian tone of certain episodes in Book III to stir the ashes of an old resentment: the second part of <i>F. Q.</i> begins and ends with complaints of misconstruction by that ‘mighty Pere’. But once back at Kilcolman he resumed his task. At first the stream of poetry flows languidly. The fable rambles, dispersing its force in many channels, like a river choked with sand; the verse flags; the play of alliteration is fitful; and Spenser essays a new, but to my ear an unhappy, variation in the form of a feminine ending.[8] But presently he gathers strength again under some new influence, which one would fain associate with his courtship of Elizabeth Boyle. The treatment of <i>Britomart</i> in Book V has strong, dramatic touches beyond anything in the earlier books; and in the lovely pastoral episodes of Book VI the poet lives once more in Arcadia. But positive indications of date are very rare. Book V Canto xi must be later than July 25, 1593, when Henri IV heard that mass which was the price of Paris: the singular dislocation of the Argument to Canto xii--half of which refers to the incidents of Canto xi--suggests that this <i>Burbon</i> episode was an afterthought; that it was inserted after Book V had been disposed into Cantos; and that Spenser meant it to form part of Canto xii. On the ordinary interpretation of the <i>Amoretti</i>,[9] all these books were finished before, but not long before, his wedding on June 11, 1594 (<i>v. Sonnet</i> 80); and on any interpretation they must have been finished by 1595, when Sir Robert Needham brought the manuscript of the <i>Amoretti</i> to London.Yet Spenser may have added and retouched up to the date of publication. For, in spite of <i>Sonnet</i> 80, I have fancied that when he wrote certain descriptions in Books V and VI Spenser was not only a husband but a father. See especially V. v. 53 (simile of the nurse and infant); V. vi. 14 (the child crying in the night); VI. iv. 18, 23, 24 (<i>Calepine’s</i> treatment of the foundling, which should be compared with <i>Guyon’s</i> behaviour in a similar situation, II. ii. 1); also VI. iv. 37, particularly line 8. Now Spenser’s eldest child was born in 1595. This may be fanciful. What is certain is that towards the close of 1595 Spenser followed Needham to London with the manuscript of the second part of <i>F. Q.</i> It was licensed to Ponsonbye on Jan. 20, 1596, and published by autumn of that year. James VI took offence at the treatment of <i>Duessa</i>, and had to be appeased by the English Ambassador, whose letter detailing the incident is dated Nov. 12, 1596. The new edition was in two volumes, the first being a reprint, with alterations, of 1590.
+
+Late in 1596, or early in 1597, Spenser returned to Ireland. In 1598 Tyrone’s rebellion broke out. In October the rebels attacked and burned Kilcolman Castle. Spenser fled to Cork, whence in December he made his way to London; and there, on Jan. 16, 1599, he died. Ten years after his death a folio edition of <i>F. Q.</i> was published by Mathew Lownes, which added to the six books already published two Cantos of <i>Mutabilitie</i>, ‘which, both for Forme and Matter, appeare to be parcell of some following Booke of the <i>Faerie Queene</i>, vnder the Legend of <i>Constancie</i>.’ These two cantos, with two stanzas of a third, are all that remain of the third part of <i>F. Q.</i> Whether Spenser wrote more is unknown. But the fact that the two cantos are numbered vi and vii makes it fairly certain that he had at least sketched the whole Seventh Book.I cannot accept the view that these two cantos are an independent poem, in the sense that they were not designed to form part of <i>F. Q.</i> The lines (VII. vi. 37)--
+
+‘And, were it not ill fitting for this file,
+  To sing of hilles and woods, mongst warres and Knights’--
+
+show clearly that they were so designed. That they may have been written independently, in the sense in which the <i>Wedding of Thames and Medway</i> was written independently, I am not concerned to deny. The view that these cantos are spurious is unworthy of serious discussion. If they are spurious, there must have been living in 1609 an unknown poet who could write the Spenserian style and stanza as well as Spenser at his best. For there is nothing of its kind in <i>F. Q.</i> superior to the pageant[10] of the months and seasons; and no one who really knows Spenser can doubt that the two stanzas which alone remain of the ‘vnperfite’ eighth canto came from his heart.<b>IV.</b>
+
+The chief critical problem that confronts an editor of <i>F. Q.</i> concerns the text of Books I-III. Should the text of these books be based on 1590 or on 1596? I have chosen the latter. And I have done so, in the main, for a quite general reason. 1596 was produced under Spenser’s eye and by his authority. That authority must be held to cover both volumes, not the second only. Behind this we cannot go. The case is quite different with the later quartos of the <i>Shepheards Calender</i>, which were produced in Spenser’s absence.
+
+This general position is confirmed by a minute comparison of 1590 and 1596. To take the more massive changes first: in 1 596 Spenser completely remodelled the conclusion of Book III. Instead of bringing <i>Scudamour</i> and <i>Amoret</i> together, as in 1590, he left them still parted, hoping thus to prolong the interest of their story into Book IV, and so to form a link between the two volumes, which he desired to be read as one continuous poem. For this he sacrificed five glorious stanzas, one of them the most rapturous that he ever wrote. The three stanzas which he substituted are far inferior, as he must have known; but they served his purpose. He also added a new stanza at I. xi. 3. He rewrote single lines, in the interests of sound or sense; he altered single words or phrases; and he made--what is even more significant--several minute changes of order designed to improve the rhythm. Let me add that most of these changes are more happily inspired than the second-thoughts of poets have sometimes been.I hasten to make two admissions. The first volume of 1596 was not reset afresh from Spenser’s manuscript. It was printed from a copy of 1590. In the nature of the case, while it escapes some of the blunders of its original, it reproduces others, and perpetrates some new. Nor did Spenser do more than glance at the proof. The 1596 volumes, as we have seen, were printed rapidly; the poet was busy,[11] and such time as he had for proof-reading was given to the new books. I infer that the alterations which he made in 1590 were made not on the proof, but on the copy. In no other way can we account for that combination of author’s corrections with printer’s errors which marks the first volume of 1596. And this conclusion is strengthened by another consideration. It is one of the worst faults of 1596 that it so often ignores <i>F. E.</i> But the significance of the fault has been overlooked. Making corrections on the copy, Spenser did not trouble himself about errors that he had already noted in <i>F. E.</i>; had he made his corrections on the proof, they could not have escaped him.
+
+I believe this to be a true account of the relations of these two texts. But when all is said there remain many places where we cannot pronounce on mere inspection whether an alteration is the author’s or the printer’s, but must be guided by a calculation of probabilities, inclining (e. g.) to the author where there is clear evidence of his hand in the neighbourhood of the vexed passage, to the printer where the <i>ductus litterarum</i> in both readings is suspiciously alike. The most important of these places are discussed in the Critical Appendix to Vol. III.Has 1609 any independent authority? In the main a reprint of 1596, it is certainly a respectable piece of work, in punctuation especially far more logical and consistent than either of the quartos: the editor seldom fails to show exactly how he understands his text. Our respect for 1609 would be enhanced if we could believe that the editor was Gabriel Harvey, as Todd at one time fancied. But that notion is untenable, and Todd himself abandoned it. We may go further: the editor of 1609 did not belong to the generation of Harvey and Spenser. For this conclusion I will adduce only one piece of evidence, but it is decisive. In the last decade of the sixteenth century syllabic <i>-es</i> in possessives and plurals still lingered even in verse not deliberately archaic. But it was strange to the editor of 1609. Sometimes he remarks it, and signalizes his discovery by printing it <i>-ez</i>, as ‘woundez’, ‘beastez’, ‘clothez’. Sometimes he fails to remark it, and fills up the syllable by conjecture: thus ‘<i>Nightes</i> children’ becomes ‘<i>Nights</i> drad children’ (I. v. 23); ‘th’Earthes gloomy shade’ becomes ‘the Earthes gloomy shade’ (III. x. 46). He seems, moreover, to have made little or no use of 1590. When, as sometimes happens, a word has been dropped in 1596, he emends by conjecture: thus at I. ii. 29:--
+
+‘For the coole shade him thither hastly got’ 1590;
+
+‘For the coole shade thither hastly got’ 1596;
+
+‘For the coole shadow thither hast’ly got’ 1609.
+
+Cf. also III. ix. 13, l. 9, III. xi. 26, l. 7, &c. The few instances in which 1590 and 1609 agree as against 1596 may fairly be set down to coincidence.Yet I am disposed to assign some independent authority to 1609.[12] The grounds for this view are slight, and may be stated in full:--
+
+(1) At I. x. 20, l. 5, 1609 adds the missing line, ‘Dry-shod to passe, she parts the flouds in tway.’
+
+(2) At II. viii. 48, l. 8, it corrects ‘Sir <i>Guyon</i>’ to ‘Prince <i>Arthur</i>’.
+
+(3) At III. iii. 50, l. 9, it completes the imperfect Alexandrine by adding ‘as earst’.
+
+(4) At III. vi. 45, l. 4, it adds a broken line, ‘And dearest loue,’ to an eight-line stanza.
+
+(5) At IV. xii. 13, ll. 1, 2, 1596 reads:--
+
+‘Thus whilst his stony heart with tender ruth
+  Was toucht, and mighty courage mollifide’;
+
+1609 reads:--
+
+‘Thus whilst his stony heart was toucht with tender ruth,
+  And mighty courage something mollifide.’
+
+(6) At V. Proem 11, l. 2, it reads ‘stead’ for the non-rhyming ‘place’.Of these changes, (2) and (3) are not beyond the capacity of an ordinary editor; yet it is worth noting that 1609 does not correct other confusions of names almost as obvious as (2). Even the missing line (1), Spenserian as it sounds, might conceivably be editorial. But to add a <i>broken</i> line, like (4), seems to me a touch beyond an editor. And (5) is most easily explained by supposing that Spenser altered the text, meaning to omit ‘tender’, but left that word standing. (6) is an instance of a phenomenon that has already been discussed. The significant point is that this is the only instance of that phenomenon which is corrected in 1609. An editor who corrected one of these mistakes might be expected to correct others; but the author who perpetrated these non-rhymes would more easily overlook them.
+
+The addition of the <i>Mutabilitie</i> cantos in 1609 must be allowed to create a prejudice in favour of the view for which I argue. The editor who recovered so much of Spenser’s manuscript may have recovered more: parcels of <i>F. Q.</i>, as we have seen, were handed about in London in Spenser’s absence. Or--and the form of the variants at IV. xii. 13 makes this the more probable hypothesis--the editor of 1609 may have had a copy of 1596 with some corrections by the author. Finally, it is not impossible that these corrections were actually embodied in exemplars of 1596 which no longer survive. Elizabethan writers were in the habit of correcting sheets as they passed through the press: in <i>F. Q.</i> itself I have noted more than a score of places in which the readings of the copies used for this edition differ from those of other copies in the Bodleian or the British Museum, or of copies used by previous editors; and the notes of Church, Upton, and Todd show that they had seen copies which differ in minute points from any now available.As the sheets were probably bound indiscriminately, it is possible that no two exemplars exactly correspond. The charges of careless collation freely bandied among Spenser’s editors are sometimes due to this cause.
+
+* * * * *
+
+It remains for me to acknowledge with gratitude the unwearied help that I have received in preparing this edition, first, from my wife, who read 1609 with me twice; next, from my friend Dr. Soutar, of University College, Dundee, who revised the difficult proofs of Books I-III; last, from an unknown coadjutor, Mr. Ostler of the Clarendon Press, to whose skill and vigilance above all I owe whatever measure of accuracy has been secured. An edition like this has little claim to any higher virtue; yet perfect accuracy, even, is too much to hope for in the reproduction, by ordinary typography, of the original spelling and punctuation of a poem which runs to more than 35,000 lines. In the Critical Appendix I have called attention to one or two places in which I have noted what now seem to me to be errors, or on which I have changed my mind since the sheets were printed.
+
+I have also to thank Sir James Murray, Dr. Bradley, and Dr. Craigie for information on points of lexicography; and Mr. Charles Cannan for the protracted loan of his copy of the first folio.
+
+J. C. SMITH.ST. ANDREWS,
+  <i>September, 1909</i>.
+
+FOOTNOTES:
+
+[1] But this was corrected as the sheet passed through the press. See note <i>ad loc.</i> in the Critical Appendix.
+
+[2] The peculiarity consists not in the occasional occurrence of a rhymeless line--a thing that can easily be paralleled from Shelley or any poet of equal fluency--but in the fact that the right word is in every case so obvious that we cannot but believe it to have been in Spenser’s mind.
+
+[3] This argument loses some of its weight from the likelihood that Spenser had been in Ireland before 1580. In his <i>View of the Present State of Ireland</i>, Irenæus, who is Spenser’s mouthpiece, speaks of himself as an eyewitness of the execution of Murrogh O’Brien, which took place at Limerick in July, 1577. The statement, of course, is not conclusive, as it would be if made in Spenser’s own person. Yet Spenser’s account of this hideous incident has the stamp of personal observation, and, taken with the evidence of Phillips’s <i>Theatrum Poetarum Anglicorum</i>, points to the conclusion that in 1577 Spenser had been sent to Ireland by Leicester with letters to Sir Henry Sidney. His visit, however, must have been brief, and may well have left no trace in his poetry.
+
+Upton believed that the <i>Ruddymane</i> episode in II. ii referred to the O’Neills,whose badge was a bloody hand (<i>v.</i> the <i>View of the Present State of Ireland</i>). If there be anything in this, it makes against the view that a book and a half had been written by August, 1580; for Spenser is not likely to have known the O’Neill ‘badge’ till he settled in Ireland.
+
+[4] The passage in Tasso (<i>G. L.</i> ix. 25) is itself an imitation of Virgil, <i>Aen.</i> vii. 785. Yet the ‘greedie pawes’ and ‘golden wings’ of Spenser’s picture seem due to Tasso’s ‘Sù le zampe s’inalza, e l’ali spande.’
+
+Both these arguments, then, are indecisive; and in the absence of decisive proof I find it hard to believe that Harvey, who though a pedant was no fool, can have seen anything like the whole of Book I without recognizing its superlative merits.
+
+[5] Fraunce’s book was licensed on June 11.
+
+[6] From these <i>Pageaunts</i> E. K. quotes a line:
+
+‘An hundred Graces on her eyelidde sate,’
+
+which appears, slightly altered, in <i>F. Q.</i> II. iii. 25.
+
+[7] The ‘fennes of Allan’ (II. ix. 16) would be near New Abbey in Co. Kildare, where Spenser seems to have occasionally resided in the years 1582-4.[8] In the whole of Books I-III there is only one feminine ending, viz. in II. ix. 47. In Books IV-VI such endings abound.
+
+[9] ‘On the ordinary interpretation,’ I say; for an attempt has recently been made (<i>Mod. Lang. Rev.</i> 1908) to prove that the lady of the <i>Amoretti</i> and the ‘countrey lasse’ of <i>F. Q.</i> VI was not Elizabeth Boyle, but Lady Elizabeth Carey.
+
+[10] The occurrence of feminine endings makes it very unlikely that this was among the <i>Pageaunts</i> mentioned by E. K. The greater part of the <i>Mutabilitie</i> cantos was certainly written in Ireland, probably in 1597-8.
+
+[11] The scene of the dialogue on the <i>Present State of Ireland</i> is laid in England; so that, unless this is a mere literary device, the tract must have been written, or at least begun, during this visit in 1596.
+
+[12] No such authority, I think, belongs to the ‘Second Folio’, though it sometimes corrects printer’s errors. In the Critical Appendix I have cited some of its characteristic variants in support of this view.
+
+BIBLIOGRAPHICAL NOTE.
+
+Of the copies collated for this edition, three are in the Bodleian, viz.:--
+
+(1) Malone 615, Books I-III, 1590.
+(2) Malone 616, Books IV-VI, 1596.(3) 4^o Art. Seld. S. 22, Books I-VI, 1596 (collated for Books I-III).
+For 1609 I have used (4) a copy belonging to Mr. Charles Cannan.
+
+The following copies, though not collated <i>verbatim</i>, have been examined for variants:--
+
+(5) Malone 7, 1609 }
+(6) M. 4. 5 Art. { Books I-III, 1611 }
+        { Books IV-VII, 1612 } in the Bodleian.
+(7) Douce S. 817 { Books I-III, 1609 }
+        { Books IV-VII, 1613 }
+
+ (8) G. 11535, 6 { Books I-III, 1590 }
+        { Books IV-VI, 1596 }
+ (9) C. 12. h. 17, 18 { Books I-III, 1590 }
+        { Books IV-VI, 1596 }
+(10) 686 g. 21, 22, 1596 }
+(11) G. 11537, 1596 } in the British Museum.
+(12) C. 57. f. 6, 1609 }
+(13) 78 g. 13 { Books I-III, 1609 }
+        { Books IV-VII, 1613 }
+(14) 79 h. 23 { Books I-III, 1611 }
+        { Books IV-VII, 1613 }
+
+The bibliographical note on Spenser in the <i>Dictionary of National Biography</i> appears to ignore 4^o Art. Seld. S. 22.The 1590, 1596, 1609 editions of <i>F. Q.</i> have been described already. In 1611 Lownes (the publisher of the 1609 <i>F. Q.</i>) set about a complete edition of Spenser’s poems. But having on hand unsold copies of 1609, he incorporated parts of these under the new title-page.[13] This has happened to (6), the first part of which is identical with 1609, except for the title-page and dedication. The genuine 1611 edition of <i>F. Q.</i> I-III is represented by the first part of (14). The second part of (6), bearing date 1612, has been reset: it is identical with the second parts of (7), (13), (14), which bear date 1613. No 1611 edition of <i>F. Q.</i> IV-VII is known to me. But in the footnotes I have followed the custom of citing this ‘Second Folio’ as 1611, except where readings not found by me in editions prior to 1612-13 have been attributed to 1609 by previous editors, misled perhaps by the omission from the British Museum catalogue of the second title to (13). In the Critical Appendix on Books IV-VII I cite this Second Folio (for these Books) as 16(11)-12-13.
+
+* * * * *
+
+Subsequent editions of Spenser’s works:--The folios of 1617, 1679 (the latter said to have been overseen by Dryden); ed. J. Hughes, 1715; H. J. Todd, 1805; F. J. Child, 1855; J. P. Collier, 1862; R. Morris, 1869; A. B. Grosart, 1882-4.
+
+Separate editions of <i>Faerie Queene</i>:--ed. J. Upton, 1758; R. Church, 1758-9; Kate M. Warren, 1897-1900.Commentaries:--<i>Remarks on Spenser’s Poems</i>, by J. Jortin, 1734. <i>Observations on the Faerie Queene</i>, by T. Warton, 1754.
+
+[For the matter of this note I am largely indebted to Mr. Ostler and Mr. Percy Simpson.]
+
+FOOTNOTES:
+
+[13] From a MS. note of Malone’s I learn that Ponsonbye had played the same trick in 1596; and even of the 1617 folio Church avers that some copies are made up with sheets of the old 1611.
+
+CONTENTS.
+
+THE FAERIE QVEENE.
+
+PAGE
+
+DEDICATION TO QVEEN ELIZABETH 2
+
+BOOK I.
+
+THE LEGENDE OF THE KNIGHT OF THE RED CROSSE, OR OF
+  HOLINESSE 3
+
+BOOK II.THE LEGEND OF SIR GVYON, OR OF TEMPERAVNCE 165
+
+BOOK III.
+
+THE LEGEND OF BRITOMARTIS, OR OF CHASTITIE 342
+
+APPENDIX.
+
+STANZAS OMITTED IN THE SECOND EDITION (1596) 517
+
+THE FAERIE
+QVEENE.
+
+_Disposed into twelue bookes,
+Fashioning_
+
+<b>XII. Morall vertues.</b>
+
+LONDON
+Printed for VVilliam Ponsonbie.
+1596.
+
+TO
+THE MOST HIGH,
+MIGHTIE
+AndMAGNIFICENT
+EMPRESSE RENOVVMED
+FOR PIETIE, VERTVE,
+AND ALL GRATIOVS
+GOVERNMENT ELIZABETH BY
+THE GRACE OF GOD QVEENE
+OF ENGLAND FRAVNCE AND
+IRELAND AND OF VIRGINIA,
+DEFENDOVR OF THE
+FAITH, &c. HER MOST
+HVMBLE SERVAVNT
+EDMVND SPENSER
+DOTH IN ALL HVMILITIE
+DEDICATE,
+PRESENT
+AND CONSECRATE THESE
+HIS LABOVRS TO LIVE
+VVITH THE ETERNITIE
+OF HER
+FAME.
+
+THE FIRST
+BOOKE OF THE
+FAERIE QVEENE.
+
+<i>Contayning</i>THE LEGENDE OF THE
+KNIGHT OF THE RED CROSSE,
+
+<i>OR</i>
+
+OF HOLINESSE.
+
+Lo I the man, whose Muse whilome did maske, i
+  As time her taught[14], in lowly Shepheards weeds,
+  Am now enforst a far vnfitter taske,
+  For trumpets sterne to chaunge mine Oaten reeds,
+  And sing of Knights and Ladies gentle deeds;
+  Whose prayses hauing slept in silence long,
+  Me, all too meane, the sacred Muse areeds
+  To blazon broad emongst[15] her learned throng:
+Fierce warres and faithfull loues shall moralize my song.
+
+Helpe then, O[16] holy Virgin chiefe of nine, ii
+  Thy weaker Nouice to performe thy will,
+  Lay forth out of thine everlasting scryne
+  The antique rolles, which there lye hidden still,
+  Of Faerie knights and fairest <i>Tanaquill</i>,
+  Whom that most noble Briton Prince so long
+  Sought through the world, and suffered so much ill,
+  That I must rue his vndeserued wrong:
+O helpe thou my weake wit, and sharpen my dull tong.And thou most dreaded impe of highest <i>Ioue</i>, iii
+  Faire <i>Venus</i> sonne, that with thy cruell dart
+  At that good knight so cunningly didst roue,
+  That glorious fire it kindled in his hart,
+  Lay now thy deadly Heben bow apart,
+  And with thy mother milde come to mine ayde:
+  Come both, and with you bring triumphant <i>Mart</i>,
+  In loues and gentle iollities arrayd,
+After his murdrous spoiles and bloudy rage allayd.
+
+And with them eke, O Goddesse heauenly bright, iv
+  Mirrour of grace and Maiestie diuine,
+  Great Lady of the greatest Isle, whose light
+  Like <i>Phœbus</i> lampe throughout the world doth shine,
+  Shed thy faire beames into my[17] feeble eyne,
+  And raise my thoughts too humble and too vile,
+  To thinke of that true glorious type of thine,
+  The argument of mine afflicted stile:
+The which to heare, vouchsafe, O dearest dred a-while.
+
+FOOTNOTES:
+
+[14] i 2 taught <i>1596</i>
+
+[15] 8 ’broad, amongst <i>1609</i>[16] ii 1 O] ô <i>1596</i>, <i>1609 passim</i>
+
+[17] iv 5 my] mine <i>1590</i>
+
+<b>Canto I.</b>
+
+,
+      Doth to his home entreate._
+]
+
+A Gentle Knight was pricking on the plaine, i
+  Y cladd in mightie armes and siluer shielde,
+  Wherein old dints of deepe wounds did remaine,
+  The cruell markes of many’ a bloudy[19] fielde;
+  Yet armes till that time did he neuer wield:
+  His angry steede did chide his foming bitt,
+  As much disdayning to the curbe to yield:
+  Full iolly knight he seemd, and faire did sitt,
+As one for knightly giusts and fierce encounters fitt.
+
+But[20] on his brest a bloudie Crosse he bore, ii
+  The deare remembrance of his dying Lord,
+  For whose sweete sake that glorious badge he wore,
+  And dead as liuing euer him ador’d:
+  Vpon his shield the like was also scor’d,
+  For soueraine hope, which in his helpe he had:  Right faithfull true he was in deede and word,
+  But of his cheere did seeme too solemne sad;
+Yet nothing did he dread, but euer was ydrad.
+
+Vpon a great aduenture he was bond, iii
+  That greatest <i>Gloriana</i> to him gaue,
+  That greatest Glorious Queene of <i>Faerie</i> lond,
+  To winne him worship, and her grace to haue,
+  Which of all earthly things he most did craue;
+  And euer as he rode, his hart did earne
+  To proue his puissance in battell braue
+  Vpon his foe, and his new force to learne;
+Vpon his foe, a Dragon horrible and stearne.
+
+A louely Ladie rode him faire beside, iv
+  Vpon a lowly Asse more white then snow,
+  Yet she much whiter, but the same did hide
+  Vnder a vele, that wimpled was full low,
+  And ouer all a blacke stole she did throw,
+  As one that inly mournd: so was she sad,
+  And heauie sat[21] vpon her palfrey slow:
+  Seemed in heart some hidden care she had,
+And by her in a line a milke white lambe she lad.
+
+So pure an innocent[22], as that same lambe, v
+  She was in life and euery vertuous lore,  And by descent from Royall lynage came
+  Of ancient Kings and Queenes, that had of yore
+  Their scepters stretcht from East to Westerne shore,
+  And all the world in their subiection held;
+  Till that infernall feend with foule vprore
+  Forwasted all their land, and them expeld:
+Whom to auenge, she had this Knight from far compeld[23].
+
+Behind her farre away a Dwarfe did lag, vi
+  That lasie seemd in being euer last,
+  Or wearied with bearing of her bag
+  Of needments at his backe. Thus as they past,
+  The day with cloudes was suddeine ouercast,
+  And angry <i>Ioue</i> an hideous storme of raine
+  Did poure into his Lemans lap so fast,
+  That euery wight to shrowd it did constrain,
+And this faire couple eke to shroud themselues were fain.
+
+Enforst to seeke some couert nigh at hand, vii
+  A shadie groue not far away they spide,
+  That promist ayde the tempest to withstand:
+  Whose loftie trees yclad with sommers pride,
+  Did spred so broad, that heauens light did hide,
+  Not perceable with power of any starre:
+  And all within were pathes and alleies wide,
+  With footing worne, and leading inward farre:Faire harbour that them seemes; so in they entred arre.
+
+And foorth they passe, with pleasure forward led, viii
+  Ioying to heare the birdes sweete harmony,
+  Which therein shrouded from the tempest[24] dred,
+  Seemd in their song to scorne the cruell sky.
+  Much can they prayse the trees so straight and hy,
+  The sayling Pine, the Cedar proud and tall,
+  The vine-prop Elme, the Poplar neuer dry,
+  The builder Oake, sole king of forrests all,
+The Aspine good for staues, the Cypresse funerall.
+
+The Laurell, meed of mightie Conquerours ix
+  And Poets sage, the Firre that weepeth still,
+  The Willow worne of forlorne Paramours,
+  The Eugh obedient to the benders will,
+  The Birch for shaftes, the Sallow for the mill,
+  The Mirrhe sweete[25] bleeding in the bitter wound,
+  The warlike Beech, the Ash for nothing ill,
+  The fruitfull Oliue, and the Platane round,
+The caruer Holme, the Maple seeldom[26] inward sound.
+
+Led with delight, they thus beguile the way, x
+  Vntill the blustring storme is ouerblowne;
+  When weening to returne, whence they did stray,
+  They[27] cannot finde that path, which first was showne,  But wander too and fro in wayes vnknowne,
+  Furthest from end then, when they neerest weene,
+  That makes them doubt, their wits be not their owne:
+  So many pathes, so many turnings seene,
+That which of them to take, in diuerse doubt they been.
+
+At last resoluing forward still to fare, xi
+  Till that some end they finde or in or out,
+  That path they take, that beaten seemd most bare,
+  And like to lead the labyrinth about;
+  Which when by tract they hunted had throughout,
+  At length it brought them to a hollow caue,
+  Amid the thickest woods. The Champion stout
+  Eftsoones dismounted from his courser braue,
+And to the Dwarfe a while his needlesse spere he gaue.
+
+Be well aware, quoth then that Ladie milde, xii
+  Least suddaine mischiefe ye too rash prouoke:
+  The danger hid, the place vnknowne and wilde,
+  Breedes dreadfull doubts: Oft fire is without smoke,
+  And perill without show: therefore your stroke[28]
+  Sir knight with-hold, till further triall made.
+  Ah Ladie (said he) shame were to reuoke
+  The forward footing for an hidden shade:
+Vertue giues her selfe light, through darkenesse for to wade.Yea but (quoth she) the perill of this place xiii
+  I better wot then you, though now too late[29]
+  To wish you backe returne with foule disgrace,
+  Yet wisedome warnes, whilest foot is in the gate,
+  To stay the steppe, ere forced to retrate.
+  This is the wandring wood, this <i>Errours den</i>,
+  A monster vile, whom God and man does hate:
+  Therefore I read beware. Fly fly (quoth then
+The fearefull Dwarfe:) this is no place for liuing men.
+
+But full of fire and greedy hardiment, xiv
+  The youthfull knight could not for ought be staide,
+  But forth vnto the darksome hole he went,
+  And looked in: his glistring armor made
+  A litle glooming light, much like a shade,
+  By which he saw the vgly monster plaine,
+  Halfe like a serpent horribly displaide,
+  But th’other halfe did womans shape retaine,
+Most lothsom, filthie, foule, and full of vile disdaine.
+
+And as she lay vpon the durtie ground, xv
+  Her huge long taile her den all ouerspred,
+  Yet was in knots and many boughtes vpwound,
+  Pointed with mortall sting. Of her there bred
+  A thousand yong ones, which she dayly fed,
+  Sucking vpon her poisonous[30] dugs, eachone  Of sundry shapes, yet all ill fauored:
+  Soone as that vncouth light vpon them shone,
+Into her mouth they crept, and suddain all were gone.
+
+Their dam vpstart, out of her den effraide, xvi
+  And rushed forth, hurling her hideous taile
+  About her cursed head, whose folds displaid
+  Were stretcht now forth at length without entraile.
+  She lookt about, and seeing one in mayle
+  Armed to point, sought backe to turne againe;
+  For light she hated as the deadly bale,
+  Ay wont in desert darknesse to remaine,
+Where plaine none might her see, nor she see any plaine.
+
+Which when the valiant Elfe perceiu’d[31], he lept xvii
+  As Lyon fierce vpon the flying pray,
+  And with his trenchand blade her boldly kept
+  From turning backe, and forced her to stay:
+  Therewith enrag’d she loudly gan to bray,
+  And turning fierce, her speckled taile aduaunst,
+  Threatning her angry sting, him to dismay:
+  Who nought aghast, his mightie hand enhaunst:
+The stroke down from her head vnto her shoulder glaunst.
+
+Much daunted with that dint, her sence was dazd, xviii
+  Yet kindling rage, her selfe she gathered round,  And all attonce her beastly body raizd
+  With doubled forces high aboue the ground:
+  Tho wrapping vp her wrethed sterne arownd,
+  Lept fierce vpon his shield, and her huge traine
+  All suddenly about his body wound,
+  That hand or foot to stirre he stroue in vaine:
+God helpe the man so wrapt in <i>Errours</i> endlesse traine.
+
+His Lady sad to see his sore constraint, xix
+  Cride out, Now now Sir knight, shew what ye[32] bee,
+  Add faith vnto your force, and be not faint:
+  Strangle her, else she sure will strangle thee.
+  That when he heard, in great perplexitie,
+  His gall did grate for griefe and high disdaine,
+  And knitting all his force got one hand free,
+  Wherewith he grypt her gorge with so great paine,
+That soone to loose her wicked bands did her constraine.
+
+Therewith she spewd out of her filthy maw xx
+  A floud of poyson horrible and blacke,
+  Full of great lumpes of flesh and gobbets raw,
+  Which stunck so vildly[33], that it forst him slacke
+  His grasping hold, and from her turne him backe:
+  Her vomit full of bookes and papers was,
+  With loathly frogs and toades, which eyes did lacke,
+  And creeping sought way in the weedy gras:Her filthy parbreake all the place defiled has.
+
+As when old father <i>Nilus</i> gins to swell xxi
+  With timely pride aboue the <i>Ægyptian</i> vale,
+  His fattie waues do fertile slime outwell,
+  And ouerflow each plaine and lowly dale:
+  But when his later spring[34] gins to auale[35],
+  Huge heapes of mudd he leaues, wherein there breed
+  Ten thousand kindes of creatures, partly male
+  And partly female of his fruitfull seed;
+Such vgly monstrous shapes elswhere may no man reed.
+
+The same so sore annoyed has the knight, xxii
+  That welnigh choked with the deadly stinke,
+  His forces fade, ne can no longer[36] fight.
+  Whose corage when the feend perceiu’d to shrinke,
+  She poured forth out of her hellish sinke
+  Her fruitfull cursed spawne of serpents small,
+  Deformed monsters, fowle, and blacke as inke,
+  Which swarming all about his legs did crall,
+And him encombred sore, but could not hurt at all.
+
+As gentle Shepheard in sweete euen-tide, xxiii
+  When ruddy <i>Phœbus</i>[37] gins to welke in west,
+  High on an hill, his flocke to vewen wide,
+  Markes which do byte their hasty supper best;  A cloud of combrous[38] gnattes do him molest,
+  All striuing to infixe their feeble stings,
+  That from their noyance he no where can rest,
+  But with his clownish hands their tender wings
+He brusheth oft, and oft doth mar their murmurings.
+
+Thus ill bestedd, and fearefull more of shame, xxiv
+  Then of the certaine perill he stood in,
+  Halfe furious vnto his foe he came,
+  Resolv’d in minde all suddenly to win,
+  Or soone to lose, before he once would lin;
+  And strooke[39] at her with more then manly force,
+  That from her body full of filthie sin
+  He raft[40] her hatefull head without remorse;
+A streame of cole black bloud forth gushed from her corse.
+
+Her scattred brood, soone as their Parent deare xxv
+  They saw so rudely falling to the ground,
+  Groning full deadly, all with troublous feare,
+  Gathred themselues about her body round,
+  Weening their wonted entrance to haue found
+  At her wide mouth: but being there withstood
+  They flocked all about her bleeding wound[41],
+  And sucked vp their dying mothers blood,
+Making her death their life, and eke her hurt their good.That detestable sight him much amazde, xxvi
+  To see th’vnkindly Impes of heauen accurst,
+  Deuoure their dam; on whom while so he gazd,
+  Hauing all satisfide their bloudy thurst,
+  Their bellies swolne he saw with fulnesse burst,
+  And bowels gushing forth: well worthy end
+  Of such as drunke her life, the which them nurst;
+  Now needeth him no lenger[42] labour spend,
+His foes haue slaine themselues, with whom he should contend.
+
+His Ladie seeing all, that chaunst, from farre xxvii
+  Approcht in hast[43] to greet his victorie,
+  And said, Faire knight, borne vnder happy starre,
+  Who see your vanquisht foes before you lye:
+  Well worthy be you of that Armorie,
+  Wherein ye haue great glory wonne this day,
+  And proou’d your strength on a strong enimie,
+  Your first aduenture: many such I pray,
+And henceforth euer wish, that like succeed it may.
+
+Then mounted he vpon his Steede againe, xxviii
+  And with the Lady backward sought to wend;
+  That path he kept, which beaten was most plaine,
+  Ne euer would to any by-way bend,
+  But still did follow one vnto the end,
+  The which at last out of the wood them brought.  So forward on his way (with God to frend)
+  He passed[44] forth, and new aduenture sought;
+Long way he trauelled, before he heard of ought.
+
+At length they chaunst to meet vpon the way xxix
+  An aged Sire, in long blacke weedes yclad,
+  His feete all bare, his beard all hoarie gray,
+  And by his belt his booke he hanging had;
+  Sober he seemde, and very sagely sad,
+  And to the ground his eyes were lowly bent,
+  Simple in shew, and voyde of malice bad,
+  And all the way he prayed, as he went,
+And often knockt his brest, as one that did repent.
+
+He faire the knight saluted, louting low, xxx
+  Who faire him quited, as that courteous was:
+  And after asked him, if he did know
+  Of straunge aduentures, which abroad did pas.
+  Ah my deare Sonne (quoth he) how should, alas,
+  Silly old man, that liues in hidden cell,
+  Bidding his beades all day for his trespas,
+  Tydings of warre and worldly trouble tell?
+With holy father sits[45] not with such things to mell.
+
+But if of daunger[46] which hereby doth dwell, xxxi
+  And homebred euill[47] ye desire to heare,  Of a straunge[48] man I can you tidings tell,
+  That wasteth all this countrey farre and neare.
+  Of such (said he) I chiefly do inquere,
+  And shall you[49] well reward to shew the place,
+  In which that wicked wight his dayes doth weare:
+  For to all knighthood it is foule disgrace,
+That such a cursed creature liues so long a space.
+
+Far hence (quoth he) in wastfull wildernesse xxxii
+  His dwelling is, by which no liuing wight
+  May euer passe, but thorough great distresse.
+  Now (sayd the Lady) draweth toward night,
+  And well I wote, that of your later fight
+  Ye all forwearied[50] be: for what so strong,
+  But wanting rest will also want of might?
+  The Sunne that measures heauen all day long,
+At night doth baite his steedes the <i>Ocean</i> waues emong.
+
+Then with the Sunne take Sir, your timely rest, xxxiii
+  And with new day new worke at once begin:
+  Vntroubled night they say giues counsell best.
+  Right well Sir knight ye haue aduised bin,
+  (Quoth then that aged man;) the way to win
+  Is wisely to aduise: now day is spent;
+  Therefore with me ye may take vp your In
+  For this same night. The knight was well content:So with that godly father to his home they went.
+
+A little lowly Hermitage it was, xxxiv
+  Downe in a dale, hard by a forests side,
+  Far from resort of people, that did pas
+  In trauell to and froe: a little wyde
+  There was an holy Chappell edifyde,
+  Wherein the Hermite dewly wont to say
+  His holy things each morne and euentyde:
+  Thereby a Christall streame did gently play,
+Which from a sacred fountaine welled forth alway.
+
+Arriued there, the little house they fill, xxxv
+  Ne looke for entertainement, where none was:
+  Rest is their feast, and all things at their will;
+  The noblest mind the best contentment has.
+  With faire discourse the euening so they pas:
+  For that old man of pleasing wordes had store,
+  And well could file his tongue as smooth as glas;
+  He told of Saintes and Popes, and euermore[51]
+He strowd an <i>Aue-Mary</i> after and before.
+
+The drouping Night thus creepeth on them fast, xxxvi
+  And the sad humour loading their eye liddes,
+  As messenger of <i>Morpheus</i> on them cast
+  Sweet slombring deaw, the which to sleepe them biddes.  Vnto their lodgings then his guestes he riddes:
+  Where when all drownd in deadly sleepe he findes,
+  He to his study goes, and there amiddes
+  His Magick bookes and artes of sundry kindes,
+He seekes out mighty charmes, to trouble sleepy mindes.
+
+Then choosing out few wordes most horrible, xxxvii
+  (Let none them read) thereof did verses frame,
+  With which and other spelles like terrible,
+  He bad awake blacke <i>Plutoes</i> griesly Dame,
+  And cursed heauen, and spake reprochfull shame
+  Of highest God, the Lord of life and light;
+  A bold bad man, that dar’d to call by name
+  Great <i>Gorgon</i>, Prince of darknesse and dead night,
+At which <i>Cocytus</i> quakes, and <i>Styx</i> is put to flight.
+
+And forth he cald out of deepe darknesse dred xxxviii
+  Legions of Sprights, the which like little flyes
+  Fluttring about his euer damned hed,
+  A-waite whereto their seruice he applyes,
+  To aide his friends, or fray his enimies:
+  Of those he chose out two, the falsest twoo,
+  And fittest for to forge true-seeming lyes;
+  The one of them he gaue a message too,
+The other by him selfe staide other worke to doo.He making speedy way through spersed ayre, xxxix
+  And through the world of waters wide and deepe,
+  To <i>Morpheus</i> house doth hastily repaire.
+  Amid the bowels of the earth full steepe,
+  And low, where dawning day doth neuer peepe,
+  His dwelling is; there <i>Tethys</i> his wet bed
+  Doth euer wash, and <i>Cynthia</i> still doth steepe
+  In siluer deaw his euer-drouping hed,
+Whiles sad Night ouer him her mantle black doth spred.
+
+Whose double gates he findeth locked fast, xl
+  The one faire fram’d of burnisht Yuory,
+  The other all with siluer ouercast;
+  And wakefull dogges before them farre do lye,
+  Watching to banish Care their enimy,
+  Who oft is wont to trouble gentle Sleepe[52].
+  By them the Sprite doth passe in quietly,
+  And vnto <i>Morpheus</i> comes, whom drowned deepe
+In drowsie fit he findes: of nothing he takes keepe.
+
+And more, to lulle him in his slumber soft, xli
+  A trickling streame from high rocke tumbling downe
+  And euer-drizling[53] raine vpon the loft,
+  Mixt with a murmuring winde, much like the sowne
+  Of swarming Bees, did cast him in a swowne:
+  No other noyse, nor peoples troublous cryes,  As still are wont t’annoy the walled towne,
+  Might there be heard: but carelesse Quiet lyes,
+Wrapt in eternall silence farre from enemyes.
+
+The messenger approching to him spake, xlii
+  But his wast[54] wordes returnd[55] to him in vaine:
+  So sound he slept, that nought mought him awake.
+  Then rudely he him thrust[56], and pusht with paine,
+  Whereat he gan to stretch: but he againe
+  Shooke him so hard, that forced him to speake.
+  As one then in a dreame, whose dryer braine
+  Is tost with troubled sights[57] and fancies weake,
+He mumbled soft, but would not all his silence breake.
+
+The Sprite then gan more boldly him to wake, xliii
+  And threatned vnto him the dreaded name
+  Of <i>Hecate</i>: whereat he gan to quake,
+  And lifting vp his lumpish[58] head, with blame
+  Halfe angry asked him, for what he came.
+  Hither[59] (quoth he) me <i>Archimago</i> sent,
+  He that the stubborne Sprites can wisely tame,
+  He bids thee to him send for his intent
+A fit false dreame, that can delude the sleepers sent.
+
+The God obayde, and calling forth straight way xliv
+  A diuerse dreame out of his prison darke,  Deliuered it to him, and downe did lay
+  His heauie head, deuoide of carefull carke,
+  Whose sences all were straight benumbd and starke.
+  He backe returning by the Yuorie dore,
+  Remounted vp as light as chearefull Larke,
+  And on his litle winges the dreame he bore
+In hast vnto his Lord, where he him left afore.
+
+Who all this while with charmes and hidden artes, xlv
+  Had made a Lady of that other Spright,
+  And fram’d of liquid ayre her tender partes
+  So liuely, and so like in all mens sight,
+  That weaker sence it could haue rauisht quight:
+  The maker selfe for all his wondrous witt,
+  Was nigh beguiled with so goodly sight:
+  Her all in white he clad, and ouer it
+Cast a blacke stole, most like to seeme for <i>Vna</i> fit.
+
+Now when that ydle dreame was to him brought, xlvi
+  Vnto that Elfin knight he bad him fly,
+  Where he slept soundly void of euill thought,
+  And with false shewes abuse his fantasy,
+  In sort as he him schooled priuily:
+  And that new creature borne without her dew,
+  Full of the makers guile, with vsage[60] sly
+  He taught to imitate that Lady trew,Whose semblance she did carrie vnder feigned hew.
+
+Thus well instructed, to their worke they hast, xlvii
+  And comming where the knight in slomber lay,
+  The one vpon his hardy head him plast,
+  And made him dreame of loues and lustfull play,
+  That nigh his manly hart did melt away,
+  Bathed in wanton blis and wicked ioy:
+  Then seemed him his Lady by him lay,
+  And to him playnd, how that false winged boy[61]
+Her chast hart had subdewd, to learne Dame pleasures toy.
+
+And she her selfe of beautie soueraigne Queene, xlviii
+  Faire <i>Venus</i> seemde vnto his bed to bring
+  Her, whom he waking euermore did weene[62]
+  To be the chastest flowre, that ay did spring
+  On earthly braunch, the daughter of a king,
+  Now a loose Leman to vile seruice bound:
+  And eke the <i>Graces</i> seemed all to sing,
+  <i>Hymen iõ Hymen</i>, dauncing all around,
+Whilst freshest <i>Flora</i> her with[63] Yuie girlond crownd.
+
+In this great passion of vnwonted lust, xlix
+  Or wonted feare of doing ought amis,
+  He started[64] vp, as seeming to mistrust[65]
+  Some secret ill, or hidden foe of his:  Lo there before his face his Lady is,
+  Vnder blake stole hyding her bayted hooke,
+  And as halfe blushing offred him to kis,
+  With gentle blandishment and louely looke,
+Most like that virgin true, which for her knight him took.
+
+All cleane dismayd to see so vncouth sight, l
+  And halfe enraged at her shamelesse guise,
+  He thought haue[66] slaine her in his fierce despight:
+  But hasty heat tempring with sufferance wise,
+  He stayde his hand, and gan himselfe aduise
+  To proue his sense, and tempt her faigned truth.
+  Wringing her hands in wemens[67] pitteous wise,
+  Tho can she weepe, to stirre vp gentle ruth,
+Both for her noble bloud, and for her tender youth.
+
+And said, Ah Sir, my liege Lord and my loue, li
+  Shall I accuse the hidden cruell fate,
+  And mightie causes wrought in heauen aboue,
+  Or the blind God, that doth me thus amate,
+  For hoped loue to winne me certaine hate?
+  Yet thus perforce he bids me do, or die.
+  Die is my dew: yet rew my wretched state
+  You, whom my hard auenging destinie
+Hath made iudge of my life or death indifferently.Your owne deare sake forst me at first to leaue lii
+  My Fathers kingdome, There she stopt with teares;
+  Her swollen hart her speach seemd to bereaue,
+  And then againe begun[68], My weaker yeares
+  Captiu’d to fortune and frayle worldly feares,
+  Fly to your faith for succour and sure ayde:
+  Let me not dye in languor and long teares.
+  Why Dame (quoth he) what hath ye thus dismayd?
+What frayes ye, that were wont to comfort me affrayd?
+
+Loue of your selfe, she said, and deare constraint liii
+  Lets me not sleepe, but wast the wearie night
+  In secret anguish and vnpittied plaint,
+  Whiles you in carelesse sleepe are drowned quight.
+  Her doubtfull words made that redoubted knight
+  Suspect her truth: yet since no’vntruth[69] he knew,
+  Her fawning loue with foule disdainefull spight
+  He would not shend, but said, Deare dame I rew,
+That for my sake vnknowne such griefe vnto you grew.
+
+Assure your selfe, it fell not all to ground; liv
+  For all so deare as life is to my hart,
+  I deeme your loue, and hold me to you bound;
+  Ne let vaine feares procure your needlesse smart,
+  Where cause is none, but to your rest depart.
+  Not all content, yet seemd she to appease  Her mournefull plaintes, beguiled of her art,
+  And fed with words, that could not chuse[70] but please,
+So slyding softly forth, she turnd as to her ease.
+
+Long after lay he musing at her mood, lv
+  Much grieu’d to thinke that gentle Dame so light,
+  For whose defence he was to shed his blood.
+  At last dull wearinesse of former fight
+  Hauing yrockt a sleepe his irkesome spright,
+  That troublous dreame gan freshly tosse his braine,
+  With bowres, and beds, and Ladies deare delight:
+  But when he saw his labour all was vaine,
+With that misformed spright he backe returnd againe.
+
+FOOTNOTES:
+
+[18] Arg. 3 <i>entrape</i> <i>1596</i>: <i>entrap</i> <i>1609</i>
+
+[19] i 4 bloody <i>1590 passim</i>
+
+[20] ii 1 But] And <i>1590</i>
+
+[21] iv 7 sat] sate <i>1590</i>
+
+[22] v 1 and innocent <i>1590</i>: an Innocent <i>1609</i>[23] 9 cõpeld <i>1590</i>, <i>1596 passim</i>
+
+[24] viii 3 tempests <i>1609</i>
+
+[25] ix 6 sweet, <i>1609</i>
+
+[26] 9 sildom <i>1609 passim</i>
+
+[27] x 4 They] The <i>1596</i>
+
+[28] xii 5 your hardy stroke <i>1590 &c.</i>: <i>corr. F. E.</i>
+
+[29] xiii 2 late, <i>1596</i>
+
+[30] xv 6 poisnous <i>1590</i>
+
+[31] xvii 1 perceiu’ed <i>1596</i>
+
+[32] xix 2 ye] you <i>1609</i>
+
+[33] xx 4 vilely <i>1609</i>
+
+[34] xxi 5 spring] ebbe <i>1590 &c.</i>: <i>corr. F. E.</i>
+
+[35] t’auale <i>1590</i>: <i>corr. F. E.</i>[36] xxii 3 lenger <i>1590</i>
+
+[37] xxiii 2 <i>Phebus</i> <i>1590</i>
+
+[38] 5 cumbrous <i>1590</i>
+
+[39] xxiv 6 stroke <i>1590</i>
+
+[40] 8 reft <i>1609</i>
+
+[41] xxv 7 wound. <i>1596</i>
+
+[42] xxvi 8 longer <i>1609</i>
+
+[43] xxvii 2 haste <i>1609</i>
+
+[44] xxviii 8 passeth <i>1596</i>, <i>1609</i>
+
+[45] xxx 9 fits <i>1609</i>
+
+[46] xxxi 1 danger <i>1609</i>
+
+[47] 2 euill <i>bis 1596</i>
+
+[48] 3 strange <i>1609</i>[49] 6 you] thee <i>1590</i>
+
+[50] xxxii 6 for wearied <i>1596</i>
+
+[51] xxxv 8 euemore <i>1596</i>
+
+[52] xl 6 sleepe <i>1596</i>: sleep <i>1609</i>
+
+[53] xli 3 euer] euery <i>1590</i>: <i>corr. F. E.</i>
+
+[54] xlii 2 waste <i>1590</i>, <i>1609</i>
+
+[55] retournd <i>1590</i>
+
+[56] 4 thrust] trust <i>1596</i>
+
+[57] 8 sights] sighes <i>1590</i>: <i>corr. F. E.</i>
+
+[58] xliii 4 lompish <i>1590</i>
+
+[59] 6 Hether <i>1590</i>
+
+[60] xlvi 7 vsage] visage <i>1609</i>
+
+[61] xlvii 8 boy, <i>1590</i>, <i>1596</i>[62] xlviii 3 weene, <i>1590</i>, <i>1596</i>
+
+[63] 9 with om. <i>1596</i>, <i>1609</i>
+
+[64] xlix 3 starteth <i>1590</i>
+
+[65] mistrust, <i>1590</i>, <i>1596</i>
+
+[66] l 3 t’haue <i>1609</i>
+
+[67] 7 womens <i>1609</i>
+
+[68] lii 4 begonne <i>1590</i>
+
+[69] liii 6 sith n’vntruth <i>1609</i>
+
+[70] liv 8 chose <i>1590</i>
+
+<i>Cant. II.</i>
+
+ faire falshood steps,
+      And workes him wofull ruth._
+]
+
+By this the Northerne wagoner had set i
+  His seuenfold teme behind the stedfast starre,  That was in Ocean waues yet neuer wet,
+  But firme is fixt, and sendeth light from farre
+  To all, that in the wide deepe wandring arre:
+  And chearefull Chaunticlere with his note shrill
+  Had warned once, that <i>Phœbus</i> fiery carre
+  In hast was climbing vp the Easterne hill,
+Full enuious that night so long his roome did fill.
+
+When those accursed messengers of hell, ii
+  That feigning dreame, and that faire-forged Spright
+  Came to their wicked maister, and gan tell
+  Their bootelesse paines, and ill succeeding night:
+  Who all in rage to see his skilfull might
+  Deluded so, gan threaten hellish paine
+  And sad <i>Proserpines</i> wrath, them to affright.
+  But when he saw his threatning was but vaine,
+He cast about, and searcht his balefull bookes againe.
+
+Eftsoones he tooke that miscreated faire, iii
+  And that false other Spright, on whom he spred
+  A seeming body of the subtile aire,
+  Like a young Squire, in loues and lusty-hed[72]
+  His wanton dayes that euer loosely led,
+  Without regard of armes and dreaded fight:
+  Those two he tooke, and in a secret bed,
+  Couered with darknesse and misdeeming night,Them both together laid, to ioy in vaine delight.
+
+Forthwith he runnes with feigned faithfull hast iv
+  Vnto his guest, who after troublous sights
+  And dreames, gan now to take more sound repast,
+  Whom suddenly he wakes with fearefull frights,
+  As one aghast with feends or damned sprights,
+  And to him cals, Rise rise vnhappy Swaine,
+  That here wex old in sleepe, whiles wicked wights
+  Haue knit themselues in <i>Venus</i> shamefull chaine;
+Come see, where your false Lady doth her honour[73] staine.
+
+All in amaze he suddenly vp start v
+  With sword in hand, and with the old man went;
+  Who soone him brought into a secret part,
+  Where that false couple were full closely ment
+  In wanton lust and lewd embracement[74]:
+  Which when he saw, he burnt with gealous fire,
+  The eye of reason was with rage yblent,
+  And would haue slaine them in his furious ire,
+But hardly was restreined of that aged sire.
+
+Returning to his bed in torment great, vi
+  And bitter anguish of his guiltie sight,
+  He could not rest, but did his stout heart eat,
+  And wast his inward gall with deepe despight,  Yrkesome of life, and too long lingring night.
+  At last faire <i>Hesperus</i> in highest skie
+  Had spent his lampe, and[75] brought forth dawning light,
+  Then vp he rose, and clad him hastily;
+The Dwarfe him brought his steed: so both away do fly.
+
+Now when the rosy-fingred Morning faire, vii
+  Weary of aged <i>Tithones</i> saffron bed,
+  Had spred her purple robe through deawy aire,
+  And the high hils <i>Titan</i> discouered,
+  The royall virgin shooke off drowsy-hed,
+  And rising forth out of her baser bowre,
+  Lookt for her knight, who far away was fled,
+  And for her Dwarfe, that wont to wait each houre;
+Then gan she waile and[76] weepe, to see that woefull stowre.
+
+And after him she rode with so much speede viii
+  As her slow beast could make; but all in vaine:
+  For him so far had borne his light-foot steede,
+  Pricked with wrath and fiery fierce disdaine,
+  That him to follow was but fruitlesse paine;
+  Yet she her weary limbes would neuer rest,
+  But euery hill and dale, each wood and plaine
+  Did search, sore grieued in her gentle brest,
+He so vngently left her, whom she loued[77] best.But subtill <i>Archimago</i> when his guests ix
+  He saw diuided into double parts,
+  And <i>Vna</i> wandring in woods and forrests,
+  Th’end of his drift, he praisd his diuelish arts,
+  That had such might ouer true meaning harts;
+  Yet rests not so, but other meanes doth make,
+  How he may worke vnto her further smarts:
+  For her he hated as the hissing snake,
+And in her many troubles did most pleasure take.
+
+He then deuisde himselfe how to disguise; x
+  For by his mightie science he could take
+  As many formes and shapes in seeming wise,
+  As euer <i>Proteus</i> to himselfe could make:
+  Sometime a fowle, sometime a fish in lake,
+  Now like a foxe, now like a dragon fell,
+  That of himselfe he oft for feare would quake,
+  And oft would flie away. O who can tell
+The hidden power of herbes, and might of Magicke spell?
+
+But now seemde best, the person to put on xi
+  Of that good knight, his late beguiled guest:
+  In mighty armes he was yclad anon[78],
+  And siluer shield[79]: vpon his coward brest
+  A bloudy crosse, and on his crauen crest
+  A bounch of haires[80] discolourd diuersly:  Full iolly knight he seemde, and well addrest,
+  And when he sate vpon his courser free,
+<i>Saint George</i> himself ye would haue deemed him to be.
+
+But he the knight, whose semblaunt he did beare, xii
+  The true <i>Saint George</i> was wandred far away,
+  Still flying from his thoughts and gealous feare;
+  Will was his guide, and griefe led him astray.
+  At last him chaunst to meete vpon the way
+  A faithlesse Sarazin all arm’d to point,
+  In whose great shield was writ with letters gay
+  <i>Sans foy</i>: full large of limbe and euery ioint
+He was, and cared not for God or man a point.
+
+He had a faire companion of his way, xiii
+  A goodly Lady clad in scarlot red,
+  Purfled with gold and pearle of rich assay,
+  And like a <i>Persian</i> mitre on her hed
+  She wore, with crownes and owches garnished,
+  The which her lauish louers to her gaue;
+  Her wanton palfrey all was ouerspred
+  With tinsell trappings, wouen like a waue,
+Whose bridle rung with golden bels and bosses braue.
+
+With faire disport and courting dalliaunce xiv
+  She intertainde her louer all the way:  But when she saw the knight his speare aduaunce,
+  She soone left off[81] her mirth and wanton play,
+  And bad her knight addresse him to the fray:
+  His foe was nigh at hand. He prickt with pride
+  And hope to winne his Ladies heart that day,
+  Forth spurred fast: adowne his coursers side
+The red bloud trickling staind the way, as he did ride.
+
+The knight of the <i>Redcrosse</i> when him he spide, xv
+  Spurring so hote with rage dispiteous[82],
+  Gan fairely couch his speare, and towards ride:
+  Soone meete they both, both fell and furious,
+  That daunted with their forces hideous,
+  Their steeds do stagger, and amazed stand,
+  And eke themselues too rudely rigorous,
+  Astonied with the stroke of their owne hand,
+Do backe rebut, and each to other yeeldeth land.
+
+As when two rams stird with ambitious pride, xvi
+  Fight for the rule of the rich fleeced flocke,
+  Their horned fronts so fierce on either side
+  Do meete, that with the terrour[83] of the shocke
+  Astonied both, stand sencelesse[84] as a blocke,
+  Forgetfull of the hanging victory:
+  So stood these twaine, vnmoued as a rocke,
+  Both staring fierce, and holding idely[85]The broken reliques of their former cruelty.
+
+The <i>Sarazin</i> sore daunted with the buffe xvii
+  Snatcheth his sword, and fiercely to him flies;
+  Who well it wards, and quyteth cuff with cuff:
+  Each others equall puissaunce enuies,
+  And through their iron sides with cruell[86] spies
+  Does seeke to perce: repining courage yields
+  No foote to foe. The flashing fier flies
+  As from a forge out of their burning shields,
+And streames of purple bloud new dies[87] the verdant fields.
+
+Curse on that Crosse (quoth[88] then the <i>Sarazin</i>) xviii
+  That keepes thy body from the bitter fit;
+  Dead long ygoe I wote thou haddest bin,
+  Had not that charme from thee forwarned it:
+  But yet I warne thee now assured sitt,
+  And hide thy head. Therewith vpon his crest
+  With rigour[89] so outrageous he smitt,
+  That a large share it hewd out of the rest,
+And glauncing downe his shield, from blame him fairely blest.
+
+Who thereat wondrous wroth, the sleeping spark xix
+  Of natiue vertue gan eftsoones reuiue,
+  And at his haughtie helmet making mark,
+  So hugely stroke[90], that it the steele did riue,  And cleft his head. He tumbling downe aliue,
+  With bloudy mouth his mother earth did kis,
+  Greeting his graue: his grudging ghost did striue
+  With the fraile flesh; at last it flitted is,
+Whither[91] the soules do fly of men, that liue amis.
+
+The Lady when she saw her champion fall, xx
+  Like the old ruines of a broken towre,
+  Staid not to waile his woefull funerall,
+  But from him fled away with all her powre;
+  Who after her as hastily gan scowre,
+  Bidding the Dwarfe with him to bring away
+  The <i>Sarazins</i> shield, signe of the conqueroure.
+  Her soone he ouertooke, and bad to stay,
+For present cause was none of dread her to dismay.
+
+She turning backe with ruefull countenaunce, xxi
+  Cride, Mercy mercy Sir vouchsafe to show
+  On silly Dame, subiect to hard mischaunce,
+  And to your mighty will. Her humblesse low
+  In so ritch weedes and seeming glorious show,
+  Did much emmoue his stout heroïcke heart,
+  And said, Deare dame, your suddein ouerthrow
+  Much rueth me; but now put feare apart,
+And tell, both who ye be, and who that tooke your part.Melting in teares, then gan she thus lament; xxii
+  The wretched[92] woman, whom vnhappy howre
+  Hath now made thrall to your commandement,
+  Before that angry heauens list to lowre,
+  And fortune false betraide me to your[93] powre,
+  Was, (O what now auaileth that I was![94])
+  Borne the sole daughter of an Emperour,
+  He that the wide West vnder his rule has,
+And high hath set his throne, where <i>Tiberis</i> doth pas.
+
+He in the first flowre of my freshest age, xxiii
+  Betrothed me vnto the onely haire
+  Of a most mighty king, most rich and sage;
+  Was neuer Prince so faithfull and so faire,
+  Was neuer Prince so meeke and debonaire;
+  But ere my hoped day of spousall shone,
+  My dearest Lord fell from high honours staire,
+  Into the hands of his accursed fone,
+And cruelly was slaine, that shall I euer mone.
+
+His blessed body spoild of liuely breath, xxiv
+  Was afterward, I know not how, conuaid
+  And fro me hid: of whose most innocent death
+  When tidings came to me vnhappy maid,
+  O how great sorrow my sad soule assaid.
+  Then forth I went his woefull corse to find,  And many yeares throughout the world I straid,
+  A virgin widow, whose deepe wounded mind
+With loue, long time did languish as the striken hind.
+
+At last it chaunced this proud <i>Sarazin</i>[95] xxv
+  To meete me wandring, who perforce me led
+  With him away, but yet could neuer win
+  The Fort, that Ladies hold in soueraigne dread.
+  There lies he now with foule dishonour dead,
+  Who whiles he liu’de, was called proud <i>Sans foy</i>,
+  The eldest of three brethren, all three bred
+  Of one bad sire, whose youngest is <i>Sans ioy</i>,
+And twixt them both was borne the bloudy bold <i>Sans loy</i>.
+
+In this sad plight, friendlesse, vnfortunate, xxvi
+  Now miserable I <i>Fidessa</i> dwell,
+  Crauing of you in pitty of my state,
+  To do none ill, if please ye not do well.
+  He in great passion all this while did dwell,
+  More busying his quicke eyes, her face to view,
+  Then his dull eares, to heare what she did tell;
+  And said, Faire[96] Lady hart of flint would rew
+The vndeserued woes and sorrowes, which ye shew.
+
+Henceforth in safe assuraunce may ye rest, xxvii
+  Hauing both found a new friend you to aid,  And lost an old foe, that did you molest:
+  Better new friend then an old foe is said.
+  With chaunge of cheare the seeming simple maid
+  Let fall her eyen, as shamefast to the earth,
+  And yeelding soft, in that she nought gain-said,
+  So forth they rode, he feining seemely merth,
+And she coy lookes: so dainty[97] they say maketh derth.
+
+Long time they thus together traueiled, xxviii
+  Till weary of their way, they came at last,
+  Where grew two goodly trees, that faire did spred
+  Their armes abroad, with gray mosse ouercast,
+  And their greene leaues trembling with euery blast,
+  Made a calme shadow far in compasse round:
+  The fearefull Shepheard often there aghast
+  Vnder them neuer sat, ne wont there sound
+His mery oaten pipe, but shund th’vnlucky ground.
+
+But this good knight soone as he them can spie, xxix
+  For the coole shade him[98] thither hastly got:
+  For golden <i>Phœbus</i> now ymounted[99] hie,
+  From fiery wheeles of his faire chariot
+  Hurled his beame so scorching cruell hot,
+  That liuing creature mote it not abide;
+  And his new Lady it endured not.
+  There they alight, in hope themselues to hideFrom the fierce heat, and rest their weary limbs a tide.
+
+Faire seemely pleasaunce each to other makes, xxx
+  With goodly purposes there as they sit:
+  And in his falsed fancy he her takes
+  To be the fairest wight, that liued yit;
+  Which to expresse, he bends his gentle wit,
+  And thinking of those braunches greene to frame
+  A girlond for her dainty forehead fit,
+  He pluckt a bough; out of whose rift there came
+Small drops of gory bloud, that trickled downe the same.
+
+Therewith a piteous yelling voyce was heard, xxxi
+  Crying, O spare with guilty hands to teare
+  My tender sides in this rough rynd embard,
+  But fly, ah fly far hence away, for feare
+  Least to you hap, that happened to me heare,
+  And to this[100] wretched Lady, my deare loue,
+  O too deare loue, loue bought with death too deare.
+  Astond he stood, and vp his haire did houe,
+And with that suddein horror could no member moue.
+
+At last whenas the dreadfull passion xxxii
+  Was ouerpast, and manhood well awake,
+  Yet musing at the straunge occasion,
+  And doubting much his sence, he thus bespake;  What voyce of damned Ghost from <i>Limbo</i> lake,
+  Or guilefull spright wandring in empty aire,
+  Both which fraile men do oftentimes mistake,
+  Sends to my doubtfull eares these speaches rare,
+And ruefull[101] plaints[102], me bidding guiltlesse[103] bloud to
+  spare?
+
+Then groning deepe, Nor damned Ghost, (quoth he,) xxxiii
+  Nor guilefull sprite to thee these wordes doth speake,
+  But once a man <i>Fradubio</i>, now a tree,
+  Wretched man, wretched tree; whose nature weake,
+  A cruell witch her cursed will to wreake,
+  Hath thus transformd, and plast in open plaines,
+  Where <i>Boreas</i> doth blow full bitter bleake,
+  And scorching Sunne does dry my secret vaines:
+For though a tree I seeme, yet cold and heat me paines.
+
+Say on <i>Fradubio</i> then, or man, or tree, xxxiv
+  Quoth then the knight, by whose mischieuous arts
+  Art thou misshaped thus, as now I see?
+  He oft finds med’cine, who his griefe imparts;
+  But double griefs afflict concealing harts,
+  As raging flames who striueth to suppresse.
+  The author then (said he) of all my smarts,
+  Is one <i>Duessa</i> a false sorceresse,
+That many errant knights hath brought to wretchednesse.In prime of youthly yeares, when corage hot xxxv
+  The fire of loue and ioy of cheualree
+  First kindled in my brest, it was my lot
+  To loue this gentle Lady, whom ye see,
+  Now not a Lady, but a seeming tree;
+  With whom as once I rode accompanyde,
+  Me chaunced of a knight encountred bee,
+  That had a like faire Lady by his syde,
+Like a faire Lady, but did fowle <i>Duessa</i> hyde.
+
+Whose forged beauty he did take in hand, xxxvi
+  All other Dames to haue exceeded farre;
+  I in defence of mine did likewise stand,
+  Mine, that did then shine as the Morning starre:
+  So both to battell[104] fierce arraunged arre,
+  In which his harder fortune was to fall
+  Vnder my speare: such is the dye of warre:
+  His Lady left as a prise martiall,
+Did yield her comely person, to be at my call.
+
+So doubly lou’d of Ladies vnlike faire, xxxvii
+  Th’one seeming such, the other such indeede,
+  One day in doubt I cast for to compare,
+  Whether in beauties glorie did exceede;
+  A Rosy girlond was the victors meede:
+  Both seemde to win, and both seemde won to bee,  So hard the discord was to be agreede.
+  <i>Frælissa</i> was as faire, as faire mote bee,
+And euer false <i>Duessa</i> seemde as faire as shee.
+
+The wicked witch now seeing all this while xxxviii
+  The doubtfull ballaunce equally to sway,
+  What not by right, she cast to win by guile,
+  And by her hellish science raisd streight way
+  A foggy mist, that ouercast the day,
+  And a dull blast, that breathing on her face,
+  Dimmed her former beauties shining ray,
+  And with foule vgly forme did her disgrace:
+Then was she faire alone, when none was faire in place.
+
+Then cride she out, Fye[105], fye, deformed wight, xxxix
+  Whose borrowed beautie now appeareth plaine
+  To haue before bewitched all mens sight;
+  O leaue her soone, or let her soone be slaine.
+  Her loathly visage viewing with disdaine,
+  Eftsoones I thought her such, as she me told,
+  And would haue kild her; but with faigned paine,
+  The false witch did my wrathfull hand with-hold;
+So left her, where she now is turnd to treen mould.
+
+Thens forth[106] I tooke <i>Duessa</i> for my Dame, xl
+  And in the witch vnweeting ioyd long time,  Ne euer wist, but that she was the same,
+  Till on a day (that day is euery Prime,
+  When Witches wont do penance for their crime)
+  I chaunst to see her in her proper hew,
+  Bathing her selfe in origane and thyme:
+  A filthy foule old woman I did vew,
+That euer to haue toucht her, I did deadly rew.
+
+Her neather partes misshapen, monstruous, xli
+  Were hidd in water, that I could not see,
+  But they did seeme more foule and hideous,
+  Then womans shape man would beleeue to bee.
+  Thens forth[107] from her most beastly companie
+  I gan refraine, in minde to slip away,
+  Soone as appeard safe opportunitie[108]:
+  For danger great, if not assur’d decay
+I saw before mine eyes, if I were knowne to stray.
+
+The diuelish hag by chaunges of my cheare xlii
+  Perceiu’d my thought, and drownd in sleepie night,
+  With wicked herbes and ointments did besmeare
+  My bodie all, through charmes and magicke might,
+  That all my senses were bereaued quight:
+  Then brought she me into this desert waste,
+  And by my wretched louers side me pight,
+  Where now enclosd in wooden wals full faste,Banisht from liuing wights, our wearie dayes we waste.
+
+But how long time, said then the Elfin knight, xliii
+  Are you in this misformed house to dwell?
+  We may not chaunge (quoth he) this euil plight,
+  Till we be bathed in a liuing well;
+  That is the terme prescribed by the spell.
+  O how, said he, mote I that well out find,
+  That may restore you to your wonted well?
+  Time and suffised fates to former kynd
+Shall vs restore, none else from hence may vs vnbynd.
+
+The false <i>Duessa</i>, now <i>Fidessa</i> hight, xliv
+  Heard how in vaine <i>Fradubio</i> did lament,
+  And knew well all was true. But the good knight
+  Full of sad feare and ghastly dreriment,
+  When all this speech the liuing tree had spent,
+  The bleeding bough did thrust into the ground,
+  That from the bloud he might be innocent,
+  And with fresh clay did close the wooden wound:
+Then turning to his Lady, dead with feare her found.
+
+Her seeming dead he found with feigned feare, xlv
+  As all vnweeting of that well she knew,
+  And paynd himselfe with busie care to reare
+  Her out of carelesse swowne. Her eylids blew  And dimmed sight with pale and deadly hew
+  At last she vp gan lift: with trembling cheare
+  Her vp he tooke, too simple and too trew,
+  And oft her kist. At length all passed feare,
+He set her on her steede, and forward forth did beare.
+
+FOOTNOTES:
+
+[71] Arg. 3 <i>stead</i>] <i>steps</i> <i>1590</i>: <i>corr. F. E.</i>
+
+[72] iii 4 lusty-hed. <i>1596</i>
+
+[73] iv 9 honor <i>1590</i>
+
+[74] v 5 enbracement <i>1590</i>
+
+[75] vi 7 and] & <i>1596 passim</i>
+
+[76] vii 9 and] & <i>1596 passim</i>
+
+[77] viii 9 louest <i>1596</i>
+
+[78] xi 3 anon: <i>1590</i>, <i>1596</i>
+
+[79] 4 shield. <i>1590</i>, <i>1596</i>[80] 6 heares <i>1590</i>
+
+[81] xiv 4 off] of <i>1590 passim</i>
+
+[82] xv 2 dispighteous <i>1609</i>
+
+[83] xvi 4 terror <i>1590</i>
+
+[84] 5 stands fencelesse <i>1590</i>: <i>corr. F. E.</i>
+
+[85] 8 idely, <i>1590</i>, <i>1596</i>: idlely <i>1609</i>
+
+[86] xvii 5 cruelties <i>1590 &c.</i>: <i>corr. F. E.</i>
+
+[87] 9 die <i>1609</i>
+
+[88] xviii 1 quoth] qd. <i>1590 passim</i>
+
+[89] rigor <i>1590</i>
+
+[90] xix 4 strooke, <i>1609</i>
+
+[91] 9 Whether <i>1590 passim</i>
+
+[92] xxii 2 wreched <i>1590</i>[93] 5 your] thy <i>1590</i>
+
+[94] 6 I was? <i>1590</i>
+
+[95] xxv 1 <i>Sarazin</i>, <i>1590</i>, <i>1596</i>
+
+[96] xxvi 8 faire <i>1590</i>, <i>1596</i>
+
+[97] xxvii 9 so, Dainty <i>1609</i>
+
+[98] xxix 2 shade him] shade <i>1596</i>: shadow <i>1609</i>
+
+[99] 3 ymounted] that mounted <i>1590 &c.</i>: <i>corr. F. E.</i>
+
+[100] xxxi 6 this] his <i>1609</i>
+
+[101] xxxii 9 tuefull <i>1590</i>: <i>corr. F. E.</i>
+
+[102] plants <i>1590</i>
+
+[103] guitlesse <i>1596</i>
+
+[104] xxxvi 5 batteill <i>1590 passim</i>
+
+[105] xxxix 1 fye <i>1590</i>, <i>1596</i>[106] xl 1 Then forth <i>1590</i>, <i>1596</i>: <i>corr. F. E.</i>: Thenceforth <i>1609</i>
+
+[107] xli 5 Then forth <i>1590</i>, <i>1596</i>: <i>corr. F. E.</i>: Thenceforth <i>1609</i>
+
+[108] xli 7 oportunitie <i>1596</i>
+
+<i>Cant. III.</i>
+
+Nought is there vnder heau’ns wide hollownesse, i
+  That moues more deare compassion of mind,
+  Then beautie brought t’vnworthy wretchednesse
+  Through enuies snares or fortunes freakes vnkind:
+  I, whether lately through her brightnesse[109] blind,
+  Or through alleageance and fast fealtie,
+  Which I do owe vnto all woman kind,
+  Feele my heart perst with so great agonie,
+When such I see, that all for pittie I could die.
+
+And now it is empassioned so deepe, ii
+  For fairest <i>Vnaes</i> sake, of whom I sing,
+  That my fraile eyes these lines with teares do steepe,
+  To thinke how she through guilefull handeling,
+  Though true as touch, though daughter of a king,
+  Though faire as euer liuing wight was faire,
+  Though nor in word nor deede ill meriting,
+  Is from her knight diuorced in despaireAnd her due loues deriu’d to that vile witches share.
+
+Yet she most faithfull Ladie all this while iii
+  Forsaken, wofull, solitarie mayd
+  Farre from all peoples prease, as in exile,
+  In wildernesse and wastfull deserts strayd,
+  To seeke her knight; who subtilly betrayd
+  Through that late vision, which th’Enchaunter wrought,[110]
+  Had her abandond. She of nought affrayd,
+  Through woods and wastnesse wide him daily sought;
+Yet wished tydings none of him vnto her brought.
+
+One day nigh wearie of the yrkesome way, iv
+  From her vnhastie beast she did alight,
+  And on the grasse her daintie limbes did lay
+  In secret shadow, farre from all mens sight:
+  From her faire head her fillet she vndight,
+  And laid her stole aside. Her angels face
+  As the great eye of heauen shyned bright,
+  And made a sunshine in the shadie place;
+Did neuer mortall eye behold such heauenly grace.
+
+It fortuned out of the thickest wood v
+  A ramping Lyon rushed suddainly,
+  Hunting full greedie after saluage blood;
+  Soone as the royall virgin he did spy,  With gaping mouth at her ran greedily,
+  To haue attonce deuour’d her tender corse:
+  But to the pray when as he drew more ny,
+  His bloudie rage asswaged with remorse,
+And with the sight amazd, forgat his furious forse.
+
+In stead thereof he kist her wearie feet, vi
+  And lickt her lilly hands with fawning tong,
+  As he her wronged innocence did weet.
+  O how can beautie maister the most strong,
+  And simple truth subdue auenging wrong?
+  Whose yeelded pride and proud submission,
+  Still dreading death, when she had marked long,
+  Her hart gan melt in great compassion,
+And drizling teares did shed for pure affection.
+
+The Lyon Lord of euerie beast in field,[111] vii
+  Quoth she, his princely puissance doth abate,
+  And mightie proud to humble weake does yield,
+  Forgetfull of the hungry rage, which late
+  Him prickt, in pittie of my sad estate:
+  But he my Lyon, and my noble Lord,[112]
+  How does he find in cruell hart to hate
+  Her that him lou’d, and euer most adord,
+As the God of my life? why hath he me abhord?Redounding teares did choke th’end of her plaint, viii
+  Which softly ecchoed from the neighbour wood;
+  And sad to see her sorrowfull constraint
+  The kingly beast vpon her gazing stood;
+  With pittie calmd, downe fell his angry mood.
+  At last in close hart shutting vp her paine,
+  Arose the virgin borne of heauenly brood,
+  And to her snowy Palfrey got againe,
+To seeke her strayed Champion, if she might attaine.
+
+The Lyon would not leaue her desolate, ix
+  But with her went along, as a strong gard
+  Of her chast person, and a faithfull mate
+  Of her sad troubles and misfortunes hard:
+  Still when she slept, he kept both watch and ward,
+  And when she wakt, he waited diligent,
+  With humble seruice to her will prepard:
+  From her faire eyes he tooke commaundement,
+And euer by her lookes conceiued her intent.
+
+Long she thus traueiled through deserts wyde, x
+  By which she thought her wandring knight shold pas,
+  Yet neuer shew of liuing wight espyde;
+  Till that at length she found the troden gras,
+  In which the tract of peoples footing was,
+  Vnder the steepe foot of a mountaine hore;  The same she followes, till at last she has
+  A damzell spyde slow footing her before,
+That on her shoulders sad a pot of water bore.
+
+To whom[113] approching she to her gan call, xi
+  To weet, if dwelling place were nigh at hand;
+  But the rude wench her answer’d nought at all,
+  She could not heare, nor speake, nor vnderstand;
+  Till seeing by her side the Lyon stand,
+  With suddaine feare her pitcher downe she threw,
+  And fled away: for neuer in that land
+  Face of faire Ladie she before did vew,
+And that dread[114] Lyons looke her cast in deadly hew.
+
+Full fast she fled, ne euer lookt behynd, xii
+  As if her life vpon the wager lay,
+  And home she came, whereas her mother blynd
+  Sate in eternall night: nought could she say,
+  But suddaine catching hold, did her dismay
+  With quaking hands, and other signes of feare:
+  Who full of ghastly fright and cold affray,
+  Gan shut the dore. By this arriued there
+Dame <i>Vna</i>, wearie Dame, and entrance did requere.
+
+Which when none yeelded, her vnruly Page xiii
+  With his rude clawes the wicket open rent,

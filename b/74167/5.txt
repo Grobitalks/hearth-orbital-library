@@ -1,0 +1,1454 @@
+HOLB1	74167	5	400	80	725	20
+1	Preface
+4	Chapter I. The Literary History Of Greek Trage…
+56	I. The Occasions Of Performance
+57	II. The Buildings
+68	III. Supervision Of Dramatic Displays
+71	IV. The Mounting Of A Tragedy
+81	V. The Performers And Their Work
+92	VI. The Audience
+96	Chapter III. The Works Of Æschylus
+149	Chapter IV. The Works Of Sophocles
+210	Chapter V. The Works Of Euripides
+366	Chapter VI. Metre And Rhythm In Greek Tragedy
+412	III
+525	I. Greek. Names of plays, etc., in capitals
+537	II. Places, Etc.
+555	III. Persons And Works
+660	IV. Metre
+672	V. General
+710	Prologue in E., 19 and n.
+714	Scene-painting, 4, 15, 16, 62.
+ἀρχαῖα τὰ Λαβδακιδᾶν οἴκων ὁρῶμαι πήματα φθιτῶν ἐπὶ πήμασι πίπτοντ’, οὐδ’ ἀπαλλάσσει γενεὰν γένος, ἀλλ’ ἐρείπει θεῶν τις, οὐδ’ ἔχει λύσιν. νῦν γὰρ ἐσχάτας ὑπὲρ ῥίζας ὃ τέτατο φάος ἐν Οἰδίπου δόμοις, κατ’ αὖ νιν φοινία θεῶν τῶν νερτέρων ἀμᾷ κονίς, λόγου τ’ ἄνοια καὶ φρενῶν Ἐρινύς.
+
+If we first mark the quantities (ignoring, as we must at first, the possibility of ⏗ and ⏘) and go over the whole carefully, we soon find that it falls into two corresponding portions: εὐδαίμονες ... ἀκταί is the strophe, ἀρχαῖα ... Ἐρινύς the antistrophe. Next we look for rhythmical units. On the one hand, there is the great difficulty that, since we must have both periodic and strophic equivalence, certain cola may take in words not belonging to the same sense-groups or grammatical clauses. On the other hand, the fact that we have two great masses which correspond exactly will help us. First, then, we note that εὐδαίμονες ... αἰών looks promising, and observing that this points to ἀρχαῖα ... ὁρῶμαι as a colon also, and that this is in itself likely, we mark off both these groups. Conversely, at the end of the antistrophe, λόγου ... Ἐρινύς attracts us, and this is supported by the naturalness of στόνῳ ... ἀκταί at the end of the strophe. Working backwards, and seeing a pause in the punctuation at precisely the same place in both halves, namely, after πνοαῖς and δόμοις, we assume that κυλίνδει ... δυσάνεμοι and κατ’ αὖ ... κονίς are correspondent masses. But each is too long—sixteen syllables—to be pronounced as a unit. We soon perceive that κυλίνδει ... κελαινάν, θῖνα ... δυσάνεμοι, κατ’ αὖ ... τῶν, νερτέρων ... κονίς, are all separate cola. Going backwards again, we find that ἐπιδράμῃ[883] πνοαῖς and Οἰδίπου δόμοις, ὕφαλον ... πνοαῖς and φάος ... δόμοις, Θρῄσσαισιν ... πνοαῖς and ῥίζας ... δόμοις, and indeed longer masses still, all give a metrical correspondence.Which pair are we to select? οἶδμα ... πνοαῖς (= νῦν ... δόμοις) is too long; ἐπιδράμῃ πνοαῖς (= Οἰδίπου δόμοις) is too short. For we seek the longest unit which is convenient. We therefore mark off οἶδμα ... ὅταν, νῦν ... ὑπέρ, Θρῄσσαισιν ... πνοαῖς, ῥίζας ... δόμοις as cola. The same method will give us ὅμοιον ... ποντίαις and θεῶν ... λύσιν. Then we find ourselves left with οἷς γάρ ... ἕρπον and πήματα ... ἐρείπει, which we divide after ἄτας and πίπτοντ’.
+
+At last we can set out the passage according to its structure. The strophe runs thus:—
+
+˃ – ⏑ ⏑ – ⏑ ⏑ – ⏑ – ⏑ ⏗ –
+ευ⁝δαιμονες | οισι κακ|ων α|γευστος | αι|ωνꞈ‖
+
+– ⏑ – ˃ – ⏑ – ⏑ ⏑ ⏗ –
+οις γαρ | αν σεισθ|ῃ θεο|θεν δομος | ατ|αςꞈ‖
+
+– ⏑ – ˃ – ⏑ ⏑ – ⏑ ⏑ – ⏑ – ⏑
+ουδεν | ελλειπ|ει γενε|ας επι | πληθος | ερπον ‖
+
+⏑ – ⏑ – ⏑ – ⏑ –
+ο⁝μοιον | ωστε | ποντι|αιςꞈ‖
+
+– ⏑ – ⏑ – ⏑ –
+οιδμα | δυσπνο|οις οτ|ανꞈ‖ ˃ – ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ – ⏑ –
+Θρησσ⁝αισιν | ερεβος | υφαλον | επιδραμ|ῃ πνο|αιςꞈ‖
+
+ ⏑ – ˃ – ⏑ – ⏑ – ˃
+κυ⁝λινδει | βυσσο|θεν κελ|αιναν ‖
+
+ – ⏑ – ⏑ – ⏑ –
+θινα | και δυσ|ανεμ|οιꞈ‖
+
+  ⏑ – ⏑ – ⏑ – ⏑ – ⏑ ⏗ –
+στον⁝ῳ βρεμ|ουσιν | αντιπλ|ηγες | ακτ|αιꞈ‖
+
+There are two periods:—
+
+I II
+⎛ 6 ⎛ 6
+⎝ 6 ⎜ ⎰ 4
+        ⎜ ⎛ ⎱ 4
+        ⎜ ⎜ 6—mesode.
+        ⎜ ⎜ ⎰ 4
+        ⎜ ⎝ ⎱ 4
+        ⎝ 6
+
+To this the antistrophe of course corresponds, though here and there an irrational long corresponds to a short (e.g. -εῑπε͐ι to ε̄ρπο̆ν); the last syllable of πήματα is lengthened by the following φθ.It should be noted that this scheme differs somewhat from that given in Jebb’s edition of the <i>Antigone</i> (pp. lxi. <i>sq.</i>). One reader’s ear differs from that of another: hence the frequent divergencies to be observed between editors in the arrangement of many lyrics.
+
+(<i>b</i>) The ancient writer Aristoxenus gives certain rules as to the maximum length of cola. They may be stated as follows:—
+
+(i) There are three types of colon, the equal, the unequal, and the quinquepartite. The equal cola are the dipody of 1 + 1 feet, the tetrapody of 2 + 2; the unequal are the tripody of 2 + 1, and the hexapody of 4 + 2; the quinquepartite is the pentapody of 3 + 2.
+
+(ii) Equal cola must not be of greater length than sixteen “shorts”. Therefore we may have a dipody of any foot, and a tetrapody of any save those of more than four shorts in value; that is (<i>e.g.</i>) a dipody of cretics (–⏑–) is allowed, but not a tetrapody of that foot, which would give 5 × 4 = 20 “shorts”.
+
+(iii) Unequal cola may have the length of eighteen “shorts”. A tripody, therefore, of any foot is allowed, but a hexapody of trochees only: a hexapody of spondees would give 4 × 6 = 24 “shorts”.
+
+(iv) Quinquepartite cola may extend to the value of twenty-five “shorts”. Pentapodies are therefore possible of trochees, dactyls, spondees and five-time feet.(<i>c</i>) Certain detailed hints may be added:—
+
+(i) The tetrapody is the most frequent length, the pentapody the rarest.
+
+(ii) The end of a colon is often indicated in dactyls by a spondee, in trochees by a single long syllable (whether ⏗ or –ꞈ).
+
+(iii) In any one period there is a tendency to conformity in length. If 6 + 5 + 4 and 6 + 6 + 4 are <i>prima facie</i> equally possible, the latter is as a rule to be preferred. In spite of the difference in sum-total (6 + 6 + 4 = 16; 6 + 5 + 4 = 15), this question often arises, because of the possibility of τονή. It has to be decided[884] whether (<i>e.g.</i>) παντός at the close of a colon is to be scanned as two feet or one:
+
+⏗ –
+παντ|οςꞈ‖
+
+or
+
+  – ⏑
+| παντος ‖.
+
+* * * * *
+
+It is now time to offer an account of the various feet used in lyrics.(<i>a</i>) <i>Trochees.</i>—With these we are now familiar. This foot is often called a choree, chorees with anacrusis being iambi,[885] without anacrusis trochees. The trochee is the most frequent foot in lyrics. Such systems express ordinary strong interest. Whenever more definite emotion is to be conveyed, either cyclic dactyls are introduced, or a change is made to some other metre:—
+
+Κολχίδος τε γᾶς ἔνοικοι
+παρθένοι, μάχας ἄτρεστοι (<i>Prom. Vinctus</i>, 415).
+
+–⏑|–⏑|–⏑|–⏑‖
+–⏑|–⏑|–⏑|–⏑‖.
+
+So in English:—
+
+Then, upon one knee uprising,
+Hiawatha aimed an arrow.—(Longfellow.)
+
+Resolution into tribrachs is frequent:—
+
+⏑ ⏑ ⏑ – ⏑ – ⏑ – ⏑
+Αραβι|ας τ αρ|ειον | ανθος ‖ (<i>Prom. Vinctus</i>, 420).
+
+Anacrusis is common.
+
+(<i>b</i>) <i>Dactyls.</i>—These are found pure, or mingled with spondees or quasi-trochees (⏗⏑). They are often employed to express excitement and awe:—ὦ Διὸς ἁδυεπὲς φάτι, τίς ποτε τᾶς πολυχρύσου[886]
+Πυθῶνος ἀγλάας ἔβας; (<i>Œd. Tyr.</i>, 151).
+
+–⏑⏑|–⏑⏑|–⏑⏑‖–⏑⏑|–⏑⏑|– –‖
+–⁝⏗⏑|⏗⏑|⏗⏑|–ꞈ̄‖
+
+Anacrusis is found, as in the second line above and in <i>Medea</i>, 635:—
+
+  – – ⏑ ⏑ – ⏑ ⏑ – – ⏗ – – – ⏗ ⏑ –
+στεργ⁝οι δε με|σωφροσυν|α δωρ‖ημα | καλλιστ|ον θε|ωνꞈ̄‖.
+
+The tetrapody without spondees or catalexis gives an exquisite heaving effect in Soph. <i>Electra</i>, 147-9:—
+
+ἀλλ’ ἐμέ γ’ ἁ στονόεσσ’ ἄραρεν φρένας,
+ἃ Ἴτυν αἰὲν Ἴτυν ὀλοφύρεται,
+ὄρνις ἀτυζομένα, Διὸς ἄγγελος.
+
+Ariel’s lines in <i>The Tempest</i> (V. i.):—
+
+Merrily, merrily, shall I live now,
+Under the blossom that hangs on the bough,
+
+are dactylic tetrapodies with catalexis.(<i>c</i>) <i>Spondees.</i>—It is not certain that these are used as a base, though as a variant in anapæstic and dactylic metre they are common. <i>Iph. Taur.</i>, 123-5, may be taken as spondees:—
+
+εὐφαμεῖτ’ ὦ
+πόντου δισσὰς συγχωρούσας
+πέτρας Ἀξείνου ναίοντες.
+
+– –|– –|
+– –|– –|– –|– –|
+– –|– –|– –|– –|
+
+But they may be quasi-anapæsts, the whole passage which they introduce being an anapæstic entrance-march, though heavily spondaic. <i>Ion</i>, 125-7:
+
+ὦ Παιάν, ὦ Παιάν,
+εὐαίων, εὐαίων
+εἴης, ὦ Λατοῦς παῖ,
+
+is scanned by Dr. J. H. H. Schmidt as molossi, a molossus being – – –.
+
+Spondaic systems are scarcely to be found in English.[887]
+
+(<i>d</i>) <i>Cretics.</i>—This foot (–⏑–) is rare; it generally expresses piteous agitation:—φρόντισον, καὶ γενοῦ πανδίκως
+εὐσεβὴς πρόξενος·
+τὰν φυγάδα μὴ προδῷς,
+τὰν ἕκαθεν ἐκβολαῖς
+δυσθέοις ὀρμέναν (Æsch., <i>Supplices</i>, 418 <i>sqq.</i>).
+
+–⏑–|–⏑–|–⏑–‖
+–⏑–|–⏑–‖
+–⏑⏑⏑|–⏑–‖
+–⏑⏑⏑|–⏑–‖
+–⏑–|–⏑–‖
+
+Few cretics are found in English, though Tennyson’s brief poem <i>The Oak</i> is written entirely in this metre, <i>e.g.</i>:—
+
+All his leaves
+  Fall’n at length,
+Look, he stands,
+Trunk and bough,
+  Naked strength.
+
+Most English verse of cretic appearance is shown by the context to be trochaic with alternate τονή. So in <i>A Midsummer Nights Dream</i>, II. i.:—
+
+Over hill, over dale,
+  Thorough bush, thorough brier,Over park, over pale,
+  Thorough flood, thorough fire,
+
+which is followed by
+
+I do | wander | every|where ꞈ |
+Swifter | than the | moones | sphere ꞈ | etc.
+
+We are forbidden to view the Greek cretics given above in the same way, by the resolved feet. If we scan φρόντισον καὶ γενοῦ πανδίκως as –⏑|⏗|–⏑|⏗|–⏑|–ꞈ‖, this method will give us in the fourth line –⏑|⏑⏑|–⏑|–‖, where the second foot is impossible. ⏑⏑ can take the place of –, but never of ⏗.
+
+(<i>e</i>) <i>Bacchiacs.</i>—This curious foot consists of – –⏑, the system being invariably introduced by anacrusis. Bacchiacs are regularly associated with dochmiacs (see below). They express strong emotion, generally mingled with perplexity or vacillation; resolved feet are therefore often found:—
+
+τίς ἀχώ, τίς ὀδμά
+προσέπτα μ’ ἀφεγγής; (<i>Prom. Vinctus</i>, 115).
+
+⏑⁝– –⏑|– –ꞈ‖
+⏑⁝– –⏑|– –ꞈ‖.
+
+στενάζω; τί ῥέξω; γελῶμαι πολίταις.
+ἔπαθον ὦ δύσοιστα (<i>Eumenides</i>, 788 <i>sq.</i>).⏑⁝– –⏑|– –⏑‖– –⏑|– –ꞈ‖
+⏑⁝⏑⏑–⏑|– –ꞈ‖.
+
+Ye storm-winds of Autumn!
+Who rush by, who shake
+The window, and ruffle
+The gleam-lighted lake.—(M. Arnold.)
+
+⏑⁝– –⏑|– –ꞈ‖
+⏑⁝– –⏑|–⏗̭‖
+⏑⁝– –⏑|– –ꞈ‖
+⏑⁝– –⏑|–⏗̭‖.
+
+But it should be noted that, though bacchiac scansion seems soundest for the above—“storm-winds” for instance has two ictuses—the poet probably meant the lines for dactylic dipodies with anacrusis: “storm-winds of” thus would be an accentual dactyl. But that would slur “winds” unduly.
+
+(<i>f</i>) <i>Ionics.</i>—These are formed by – –⏑⏑. When anacrusis is found—the usual form—the foot is often called <i>Ionicus a minore</i> (<i>i.e.</i> ⏑⏑– –); otherwise it is called <i>Ionicus a maiore</i>:—
+
+κυανοῦν δ’ ὄμμασι λεύσσων φονίου δέργμα δράκοντος
+πολύχειρ καὶ πολυναύτας Σύριόν θ’ ἅρμα διώκων (<i>Persæ</i>, 81 <i>sq.</i>).
+
+⏑⏑⁝– –⏑⏑|– –⏑⏑‖– –⏑⏑|– –ꞈ̄‖.A strange variant is ⏑–⏑–; the variation is called “anaclasis” (“breaking-up”). Thus the above passage proceeds—
+
+ἐπάγει δουρικλύτοις ἀνδράσι τοξόδαμνον Ἄρη.
+
+⏑⏑⁝– –⏑⏑|– –⏑⏑‖–⏑–⏑|–ꞈ̄‖.
+
+Ionics are employed to express strong excitement governed by confident courage. The first lyric of the <i>Persæ</i> begins with a splendid example. It is sung by the Persian counsellors in expectation of Xerxes’ triumph, and makes a strong contrast with the piteous rhythms of the close. This poem should be studied carefully in comparison with another in the same metre—the opening of the first chorus in the <i>Bacchæ</i> (vv. 64 <i>sqq.</i>):—
+
+  Ἀσίας ἀπὸ γαίας
+ἱερὸν Τμῶλον ἀμείψασα θοάζω
+Βρομίῳ πόνον ἡδύν
+  κάματόν τ’ εὐκάματον, Βάκχιον εὐαζομένα.
+  τίς ὁδῷ; τίς ὁδῷ; τίς μελάθροις; ἔκτοπος ἔστω,
+στόμα τ’ εὔφημον ἅπας ἐξοσιούσθω·
+τὰ νομισθέντα γὰρ ἀεὶ Διόνυσον ὑμνήσω.
+
+⏑⏑⁝⏘⏑⏑|– –ꞈ̄‖
+⏑⏑⁝– –⏑⏑|– –⏑⏑|– –ꞈ̄‖
+⏑⏑⁝⏘⏑⏑|– –ꞈ̄〛
+⏑⏑⁝– –⏑⏑|– –⏑⏑|– –⏑⏑|⏘ꞈ̄〛⏑⏑⁝⏘⏑⏑|– –⏑⏑|– –⏑⏑|– –ꞈ̄‖
+⏑⏑⁝– –⏑⏑|– –⏑⏑|– –ꞈ̄‖
+⏑⏑⁝– –⏑⏑|– –⏑⏑|–⏑–˃|⏘ꞈ̄〛
+
+I
+
+⎛ 2
+⎜ 3—mesode.
+⎝ 2
+
+II
+
+⎛ 2
+⎝ 2
+
+<b>III</b>
+
+  ⎰ 2
+⎛ ⎱ 2
+⎜ 3—mesode
+⎝ ⎰ 2
+  ⎱ 2
+
+This song of the Bacchantes, like that of the Persians, expresses both excitement and confidence; both are magnificent, and the <i>metre</i> is the same. But the difference is unmistakable; it lies in the <i>rhythm</i>.In Æschylus the practically unvaried rhythm and the gorgeous language give to such a passage as πολύχειρ καὶ πολυναύτας Σύριόν θ’ ἅρμα διώκων an almost intolerable weight and austere pomp. Euripides, by use of the doubly-lengthened syllable, by varying the extent of his cola, and by the irrationality of the penultimate foot, has, within the limits of the same metre, produced a sense of exotic beauty and urgency, a thrill of wildness as well as of awe.
+
+(<i>g</i>) <i>Choriambics.</i>—These consist of –⏑⏑–. Anacrusis is not found:—
+
+δεινὰ μὲν οὖν, δεινὰ ταράσσει σοφὸς οἰωνοθέτας οὔτε δοκοῦντ’ οὔτ’ ἀποφάσκονθ’· ὅτι λέξω δ’ ἀπορῶ (<i>Œd. Tyr.</i>, 483 <i>sq.</i>).
+
+–⏑⏑–|–⏑⏑–‖–⏑⏑–|–⏑⏑–‖
+–⏑⏑–|–⏑⏑–‖–⏑⏑–|–⏑⏑–‖
+
+This measure expresses great agitation and perplexity. In the passage just cited they pass into ionics, which indicate a gradual comparative calming of mind. For example, the antistrophe reads:—
+
+ἀλλ’ ὁ μὲν οὖν Ζεὺς ὅ τ’ Ἀπόλλων συνετοὶ καὶ τὰ βροτῶν
+εἰδότες· ἀνδρῶν δ’ ὅτι μάντις πλέον ἢ ’γω φέρεται
+κρίσις οὐκ ἔστιν ἀληθής· σοφίᾳ δ’ ἂν σοφίαν
+παραμείψειεν ἀνήρ.
+
+   –⏑⏑–|–⏑⏑–‖–⏑⏑–|–⏑⏑–‖
+   –⏑⏑–|–⏑⏑–‖–⏑⏑–|–⏑⏑–‖⏑⏑⁝– –⏑⏑|– –⏑⏑‖– –⏑⏑|⏘ꞈ̄‖
+⏑⏑⁝– –⏑⏑|⏘ꞈ̄‖.
+
+The late Rupert Brooke left some exquisite <i>Experiments</i> in this metre, <i>e.g.</i>:—
+
+Ah! Not now, when desire burns, and the wind calls, and the suns of spring Light-foot dance in the woods, whisper of life, woo me to wayfaring.
+
+That is—
+
+⏗⏗|–⏑⏑–|–⏑⏑–‖–⏑⏑–|⏗⏗‖
+
+(<i>h</i>) <i>Dochmiacs.</i>—It is convenient to discuss these here, though the dochmius is not a foot, but a colon. The rule both of metre and music is that all feet or bars should have the same time-value; a trochaic colon may contain ⏗ or ᷋⏑ as well as –⏑, but not –⏑⏑. Dochmiacs are generally regarded as an exception to this rule. The dochmius is a colon of which the simplest form[888] is ⏑– –⏑–, to be divided ⏑⁝– –⏑|–ꞈ||, <i>e.g.</i> κακορρημόνων. The dochmius is always catalectic, but the anacrusis of one serves to complete the trochee of the preceding colon:—
+
+φανήτω μόρων ὁ κάλλιστ’ ἐμῶν
+ἐμοὶ τερμίαν ἄγων ἁμέραν (<i>Antigone</i>, 1329 <i>sq.</i>).
+
+⏑⁝– –⏑|–⏑‖– –⏑|–ꞈ‖.But this simplest form is not the most frequent, and a considerable sequence is rare. Resolution of one or more long syllables is very common. The favourite form is ⏑⁝⏑⏑–⏑|–ꞈ‖:—
+
+περίβαλον γάρ οἱ πτεροφόρον δέμας (<i>Agamemnon</i>, 1147).
+
+⏑⁝⏑⏑–⏑|–⏑‖⏑⏑–⏑|–ꞈ‖
+
+This metre is frequent in passages of lamentation, and as these are extremely numerous the dochmiac measure is one of the most important. It is also perhaps the most difficult, because of the many varieties admitted. In all, twenty-two[889] forms are said to be found, though several of these are rare; this great number is due to resolution and irrational long syllables. Thus—
+
+ἰὼ σκότου
+νέφος ἐμὸν ἀπότροπον, ἐπιπλόμενον ἄφατον
+ἀδάματόν τε καὶ δυσούριστον ὄν (<i>Œd. Tyr.</i>, 1313).
+
+⏑⁝⏘⏑|–ꞈ‖
+⏑⁝⏑⏑⏑⏑⏑|⏑⏑⏑‖⏑⏑⏑⏑⏑|⏑⏑ꞈ‖
+⏑⁝⏑⏑–⏑|–⏑‖– –⏑|–ꞈ‖.
+
+The second line of course would by itself have no rhythm at all, being so completely broken to pieces, in order to express the extreme limit of agitation possible in articulate speech. But it gains rhythm from the clearer lines of the context.The antistrophe shows a further variety—an irrational syllable in the last line:—
+
+ἰὼ φίλος,
+σὺ μὲν ἐμὸς ἐπίπολος ἔτι μόνιμος· ἔτι γάρ
+ὑπομένεις με τὸν τυφλὸν κηδεύων.
+
+(κηδευ͐ων). Evidently it is important to accustom one’s ear thoroughly to the basic form ⏑– –⏑– and to ⏑⏑⏑–⏑–. Another instance may be of use:—
+
+ἆρα πύλαι κλῄθροις χαλκόδετ’ ἔμβολά τε
+λαϊνέοισιν Ἀμφίονος ὀργάνοις
+τείχεος ἥρμοσται; (<i>Phœnissæ</i>, 114 <i>sqq.</i>).
+
+˃⁝⏑⏑–˃|–˃‖⏑⏑–⏑|⏑⏑ꞈ‖
+⏑⁝⏑⏑–⏑|–˃‖⏑⏑–⏑|–ꞈ‖
+˅⁝⏑⏑–˃|–ꞈ‖.
+
+The last division of our subject is the different types of period, the various ways in which cola are combined and correspond. It should be noted that a colon with anacrusis can correspond to one without; so of catalexis and τονή.
+
+(i) The simplest form is the <i>stichic</i> (στίχος “a row”), in which the cola are of the same length. The scheme⎧ <i>a</i> ⎧ 2 ⎧ 4 ⎧ 6 ⎧ <i>a</i> is ⎨ —that is ⎨ or ⎨ or ⎨ , etc.—or ⎨ <i>a</i> and so forth: ⎩ <i>a</i> ⎩ 2 ⎩ 4 ⎩ 6 ⎩ <i>a</i>
+
+πᾶς γὰρ ἱππηλάτας
+καὶ πεδοστιβὴς λεώς (<i>Persæ</i>, 126 <i>sq.</i>).
+
+–⏑|⏗|–⏑|–ꞈ‖
+–⏑|–⏑|–⏑|–ꞈ〛.
+
+Where correspondence is indicated by
+
+⎛ 4
+⎝ 4.
+
+It makes no difference that ⏗ is answered by –⏑ in the second foot.
+
+(ii) To the stichic corresponds the <i>palinodic</i> period (παλινῳδία, “repetition”), in which not a single colon but a group of cola is repeated so far as length is concerned:—
+
+μείξουσιν ἢ πρὸς Πυθίαις ἢ λαμπάσιν ἀκταῖς,
+οὗ πότνιαι σεμνὰ τιθηνοῦνται τέλη (<i>Œd. Col.</i>, 1047 <i>sq.</i>).
+
+–⁝⏗⏑|– –|⏗⏑|– –‖–⏑⏑|– –‖
+–⁝⏗⏑|⏘|–⏑⏑|– –‖⏗⏑|–ꞈ̄‖  ⎰ 4 ⎞
+⎛ ⎱ 2 ⎟ ⎞
+⎝ ⎰ 4 ⎠ ⎟
+  ⎱ 2 ⎠
+
+This type of period is frequent in English poetry, where the use of rhyme and the absence of τονή make the cola perfectly plain, <i>e.g.</i>:—
+
+Love still has something of the sea
+  From whence his Mother rose;
+No time his slaves from care sets free,
+  Or gives their hearts repose.—(Sedley.)
+
+  ⎰ 4 ⎞
+⎛ ⎱ 3 ⎟ ⎞
+⎝ ⎰ 4 ⎠ ⎟
+  ⎱ 3 ⎠
+
+(iii) <i>Antithetic</i> periods are formed by the inverted repetition whether of different cola or of different groups of cola.
+
+(<i>a</i>) The simplest type is that in which a series of ungrouped cola is repeated in inverse order:—
+
+διανταίαν λέγεις δόμοισι καί
+σώμασιν πεπλαγμένανἀναυδάτῳ μένει
+ἀραίῳ τ’ ἐκ πατρὸς διχόφρονι πότμῳ (<i>Septem</i>, 895 <i>sqq.</i>).
+
+⏑⁝⏗|⏗|–⏑|–⏑|–⏑|–ꞈ‖
+  –⏑|–⏑|–⏑|–ꞈ‖
+⏑⁝⏗|⏗|–⏑|–ꞈ‖
+⏑⁝⏗|⏗|–⏑|–⏑|–⏑⏑|–˃〛.
+
+6 ⎞
+4 ⎞ ⎟
+4 ⎠ ⎟
+6 ⎠
+
+(<i>b</i>) In a similar manner groups may be repeated antithetically. Each group retains its internal order; hence such periods are called “palinodic-antithetic”:—
+
+δι’ αἰῶνος μακροῦ πάνολβον·
+ἔνθεν πᾶσα βοᾷ χθών,
+“φυσιζόου γένος τόδε Ζηνός ἐστιν ἀληθῶς·
+τίς γὰρ ἂν κατέπαυσεν Ἥρας νόσους ἐπιβούλους;”
+Διὸς τόδ’ ἔργον καὶ τόδ’ ἂν γένος λέγων
+ἐξ Ἐπάφου κυρήσαις (Æsch., <i>Supplices</i>, 582 <i>sqq.</i>).
+
+⏑⁝⏗|⏗|–⏑|–⏑|⏗|–ꞈ‖
+  –˃|–⏑⏑|⏗|–ꞈ‖⏑⁝–⏑|–⏑|–⏑|⏗‖–⏑|–⏑⏑|⏗|–ꞈ‖
+  –⏑|–⏑⏑|–⏑|⏗‖–⏑|–⏑⏑|⏗|–ꞈ‖
+⏑⁝–⏑|–˃|–⏑|–⏑|–⏑|–ꞈ‖
+  –⏑⏑|–⏑|⏗|–ꞈ〛.
+
+    ⎰ 6 ⎞
+⎛ ⎱ 4 ⎟ ⎞
+⎜ ⎰ 4 ⎞ ⎟ ⎟
+⎜ ⎛ ⎱ 4 ⎟ ⎞ ⎟ ⎟
+⎜ ⎝ ⎰ 4 ⎠ ⎟ ⎟ ⎟
+⎜ ⎱ 4 ⎠ ⎟ ⎟
+⎝ ⎰ 6 ⎠ ⎟
+    ⎱ 4 ⎠
+
+(iv) Any of the three periods just described, the stichic, the palinodic, the antithetic (whether simple or palinodic-antithetic) may be “mesodic,” that is, it may be grouped round a central colon (the mesode), to which no colon corresponds, save of course the mesode of the other <i>strophe</i>. The schemes, then, are:—
+
+(<i>a</i>) Stichic-mesodic.
+
+<i>a</i> ⎞
+<i>x</i> ⎟
+<i>a</i> ⎠(<i>b</i>) Palinodic-mesodic.
+
+  ⎰ <i>a</i> ⎞
+⎛ ⎱ <i>b</i> ⎟ ⎞
+⎜ <i>x</i> ⎟ ⎟
+⎝ ⎰ <i>a</i> ⎠ ⎟
+  ⎱ <i>b</i> ⎠
+
+(<i>c</i>) Antithetic-mesodic.
+
+<i>a</i> ⎞
+<i>b</i> ⎞ ⎟
+<i>x</i> ⎟ ⎟
+<i>b</i> ⎠ ⎟
+<i>a</i> ⎠
+
+(<i>d</i>) Palinodic-antithetic-mesodic.
+
+    ⎰ <i>a</i> ⎞
+⎛ ⎱ <i>b</i> ⎟ ⎞
+⎜ ⎰ <i>c</i> ⎞ ⎟ ⎟
+⎜ ⎛ ⎱ <i>d</i> ⎟ ⎞ ⎟ ⎟
+⎜ ⎜ <i>x</i> ⎟ ⎟ ⎟ ⎟
+⎜ ⎝ ⎰ <i>c</i> ⎠ ⎟ ⎟ ⎟
+⎜ ⎱ <i>d</i> ⎠ ⎟ ⎟
+⎝ ⎰ <i>a</i> ⎠ ⎟    ⎱ <i>b</i> ⎠
+
+(<i>a</i>) The stichic-mesodic:—
+
+ἀμηχανῶ φροντίδος στερηθείς
+εὐπάλαμον μέριμναν
+ὅπα τράπωμαι, πίτνοντος οἴκου (<i>Agamemnon</i>, 1530 <i>sqq.</i>).
+
+⏑⁝–⏑|⏗|–⏑|–⏑|⏗|–ꞈ‖
+  –⏑⏑|–⏑|⏗|–ꞈ‖
+⏑⁝–⏑|⏗|–⏑|–⏑|⏗|–ꞈ‖.
+
+6 ⎞
+4 ⎟
+6 ⎠
+
+(<i>b</i>) The palinodic-mesodic:—
+
+  ἐμοὶ χρῆν συμφοράν,
+ἐμοὶ χρῆν πημονὰν γενέσθαι,
+Ἰδαίαν ὅτε πρῶτον ὕλαν
+Ἀλέξανδρος εἰλατίναν
+ἐτάμεθ’, ἅλιον ἐπ’ οἶδμα ναυστολήσων (<i>Hecuba</i>, 629 <i>sqq.</i>).
+
+⏑⁝⏗|⏗|–⏑|–ꞈ‖
+⏑⁝⏗|⏗|–⏑|–⏑|⏗|–ꞈ‖  –˃|–⏑⏑|–⏑|–˃‖
+⏑⁝⏗|–⏑|–⏑⏑|–ꞈ‖
+⏑⁝⏑⏑⏑|⏑⏑⏑|–⏑|–⏑|⏗|–ꞈ‖.
+
+  ⎰ 4 ⎞
+⎛ ⎱ 6 ⎞ ⎟
+⎜ 4 ⎟ ⎟
+⎝ ⎰ 4 ⎟ ⎠
+  ⎱ 6 ⎠
+
+(<i>c</i>) The antithetic-mesodic:—
+
+σύ τοι σύ τοι κατηξίωσας,
+ὦ βαρύποτμε, κοὐκ
+ἄλλοθεν ἔχει τύχᾳ
+τᾶδ’ ἀπὸ μείζονος·
+εὖτέ γε παρὸν φρονῆσαι ... (<i>Philoctetes</i>, 1095 <i>sqq.</i>).
+
+⏑⁝–⏑|–⏑|–⏑|–⏑‖
+  –⏑|⏑⏑⏑|–ꞈ‖
+˃⁝⏑⏑⏑|–⏑|–ꞈ‖
+  –⏑⏑|–⏑|–ꞈ‖
+˃⁝⏑⏑⏑|–⏑|⏗|–ꞈ‖.
+
+4 ⎞
+3 ⎞ ⎟3 ⎟ ⎟
+3 ⎠ ⎟
+4 ⎠
+
+(<i>d</i>) The palinodic-antithetic-mesodic:—
+
+  μή μοι μὴ προδίδου·
+μόνος μόνῳ κόμιζε πορθμίδος σκάφος.
+χαιρέτω μὲν αὖλις ἥδε, χαιρέτω δὲ θυμάτων
+ἀποβώμιος[890] ἃν ἔχει θυσίαν
+Κύκλωψ Αἰτναῖος ξενικῶν κρέων κεχαρμένος βορᾷ.
+νηλής, ὦ τλᾶμον
+ὅστις δωμάτων ἐφεστίους ... (<i>Cyclops</i>, 351 <i>sqq.</i>).[891]
+
+  –˃|–⏑⏑|–ꞈ‖
+⏑⁝–⏑|–⏑|–⏑|–⏑|–⏑|–ꞈ‖
+  –⏑|–⏑|–⏑|–⏑‖–⏑|–⏑|–⏑|–ꞈ‖
+ω⁝–⏑⏑|–⏑|–⏑⏑|–ꞈ‖
+  –˃|–˃|–⏑⏑|–⏑‖–⏑|–⏑|–⏑|–ꞈ‖
+  –˃|–˃|–ꞈ‖
+  ⏗|⏗|–⏑|–⏑|–⏑|–ꞈ〛.
+
+    ⎰ 3 ⎞
+⎛ ⎱ 6 ⎟ ⎞
+⎜ ⎛ ⎰ 4 ⎞ ⎟ ⎟
+⎜ ⎜ ⎱ 4 ⎟ ⎞ ⎟ ⎟⎜ ⎜ 4 ⎟ ⎟ ⎟ ⎟
+⎜ ⎜ ⎰ 4 ⎠ ⎟ ⎟ ⎟
+⎜ ⎝ ⎱ 4 ⎠ ⎟ ⎟
+⎜ ⎰ 3 ⎠ ⎟
+⎝ ⎱ 6 ⎠
+
+Most of the periodic structures which have been described are by no means obvious to the ear. A trained sense of rhythm, attention to quantity, and careful practice, will reduce the difficulties. But in any case Greek periods are far less easy to grasp than English. Their variety and length, the frequent occurrence of prolongation, resolution, and irrational syllables, the possibility of preludes or postludes—all these are formidable to modern students, who lack the help of the music. We may perhaps work out the period with ease on paper, but our ear often cannot appreciate the balance and contour of the whole as it can in English lyrics, where we have the immense assistance of a rhyme-scheme. But it is no sound deduction that the study of Greek lyric metre and rhythm is therefore useless. We cannot always hear the period—that is a question of music; but we can always hear the colon—that is a question of language. To utter the cola correctly is easy after a little practice; and it is these “sentences” which, by their own internal rhythmical nature and by the identities or contrasts existing between them, reinforce and more pungently articulate the sense of the words wherefrom they are moulded.
+
+FOOTNOTES
+
+[1] See Haigh, <i>The Tragic Drama of the Greeks</i>, pp. 19 <i>sq.</i>[2] It arose in a similar fashion to tragedy, from the phallic songs to Dionysus at his winter festival.
+
+[3] τί ταῦτα πρὸς τὸν Διόνυσον; (Plutarch, <i>Symposiaca</i>, 615 A).
+
+[4] Pp. 39-41.
+
+[5] These first paragraphs give a summary of the view almost universally held as to the origin of Greek tragedy. Of late, however, Professor Sir William Ridgeway (<i>The Origin of Tragedy, with Special Reference to the Greek Tragedians</i>, Cambridge, 1910) has combated current beliefs with great vigour. His belief is (p. 186) “that Tragedy arose in the worship of the dead, and that the only Dionysiac element in the Drama was the satyric play”. Aristotle’s evidence (see p. 4) he dismisses as mistaken, because “Aristotle was only interested in Tragedy as a fully developed art, and paid little heed to its early history” (p. 57). The present writer is bound to confess that, after following and estimating to the best of his ability the numerous and heterogeneous statements put forward in evidence, he cannot regard Professor Ridgeway’s contention as proved. It is undoubtedly true that many extant tragedies centre more or less vitally upon a tomb, but many do not. The mimetic ritual in honour of the slain Scephrus (p. 37) is real evidence, so far as it goes; but the utmost it proves is that Greek tragedy <i>could</i> have arisen from such funeral performances—it does not show that it did. The most remarkable point in the book is the discussion of the well-known passage in Herodotus (V, 67): τά τε δὴ ἄλλα οἱ Σικυώνιοι ἐτίμων τὸν Ἄδρηστον καὶ δὴ πρὸς τὰ πάθεα αὐτοῦ τραγικοῖσι χοροῖσι ἐγέραιρον, τὸν μὴν Διόνυσον οὐ τιμέωντες, τὸν δὲ Ἄδρηστον.Κλεισθένης δὲ χοροὺς μὲν τῷ Διονύσῳ ἀπέδωκε, τὴν δὲ ἄλλην θυσίην Μελανίππῳ (see Ridgeway, p. 28): “The men of Sicyon paid honours to Adrastus, and in particular they revered him with tragic choruses because of his sufferings, herein honouring not Dionysus, but Adrastus. Cleisthenes gave the choruses to Dionysus, and the rest of the offering to Melanippus.” It may well be that Professor Ridgeway is right in asserting that ἀπέδωκε means not “restored” but “gave”—that is, these tragic choruses were originally of the funereal kind which he suggests for all primitive Greek tragedy. This is excellent evidence for his contention, so far as it goes, but it only proves one example. Herodotus’ words, on the other hand, imply that he believed tragedy to be normally Dionysiac. To sum up, we cannot regard Professor Ridgeway as having succeeded in damaging the traditional view.
+
+[6] Aristotle, <i>Poetic</i>, 1448_a_: διὸ καὶ ἀντιποιοῦνται τῆς τε τραγῳδίας καὶ τῆς κωμῳδίας οἱ Δωριεῖς.
+
+[7] <i>Ol.</i>, XIII, 18 <i>sq.</i>: ταὶ Διωνύσου πόθεν ἐξέφανεν σὺν βοηλάτᾳ χάριτες διθυράμβῳ; <i>i.e.</i> as the context shows, the dithyramb appeared first at Corinth.
+
+[8] α for η, and sometimes -ᾶν as the inflexion of the feminine genitive plural.
+
+[9] <i>Poetic</i>, 1449_a_: γενομένη δ’ οὖν ἀπ’ ἀρχῆς αὐτοσχεδιαστική ... ἀπὸ τῶν ἐξαρχόντων τὸν διθύραμβον ... κατὰ μικρὸν ηὐξήθη προαγόντων ὅσον ἐγίγνετο φανερὸν αὐτῆς, καὶ πολλὰς μεταβολὰς μεταβαλοῦσα ἡ τραγῳδία ἐπαύσατο, ἐπεὶ ἔσχε τὴν αὐτῆς φύσιν.καὶ τό τε τῶν ὑποκριτῶν πλῆθος ἐξ ἑνὸς εἰς δύο πρῶτος Αἰσχύλος ἤγαγε καὶ τὰ τοῦ χοροῦ ἠλάττωσε καὶ τὸν λόγον πρωταγωνιστὴν παρεσκεύασεν, τρεῖς δὲ καὶ σκηνογραφίαν Σοφοκλῆς. ἔτι δὲ τὰ μέγεθος ἐκ μικρῶν μύθων καὶ λέξεως γελοίας διὰ τὸ ἐκ σατυρικοῦ μεταβαλεῖν ὀψὲ ἀπεσεμνύνθη. τό τε μέτρον ἐκ τετραμέτρου ἰαμβεῖον ἐγένετο· τὸ μὲν γὰρ πρῶτον τετραμέτρῳ ἐχρῶντο διὰ τὸ σατυρικὴν καὶ ὀρχηστικωτέραν εἶναι τὴν ποίησιν ... ἔτι δὲ ἐπεισοδίων πλήθη. καὶ τὰ ἄλλ’ ὡς ἕκαστα κοσμηθῆναι λέγεται.... Here and elsewhere, in quoting from the <i>Poetic</i>, I borrow Butcher’s admirable translation.
+
+[10] These narratives and conversations were naturally regarded as interruptions in the main business, and this feeling is marked by the name always given to the “acts” of a play, ἐπεισόδια (“episodia”), <i>i.e.</i> “interventions” or “interruptions”.
+
+[11] The text of the treatise is, however, incomplete. The author of the pseudo-Platonic <i>Minos</i> (321 A) speaks of the current belief that Thespis was the originator of tragedy.
+
+[12] This is a mere name for a really anonymous collection of information on philosophical and other history.
+
+[13] <i>Ars Poetica</i>, 275-7.
+
+[14] <i>Poetic</i>, 1449_a_.[15] βασιλεὺς ἦν Χοίριλος ἐν σατύροις (Plotius, <i>De Metris</i>, p. 2633, quoted by Haigh, <i>Tragic Drama</i>, p. 40).
+
+[16] <i>Frogs</i>, 689: εἴ τις ἥμαρτε σφαλείς τι Φρυνίχου παλαίσμασιν. The allusion in the first instance points undoubtedly to the famous <i>general</i> Phrynichus; but his political machinations are jokingly referred to as a “wrestling-bout” because of the celebrated description in his namesake the playwright.
+
+[17] Herod. VI, 21.
+
+[18] <i>Wasps</i>, 220 (μέλη ἀρχαιομελισιδωνοφρυνιχήρατα).
+
+[19] <i>Birds</i>, 748-51, reading ὥσπερ ἡ μέλιττα.
+
+[20] λάμπει δ’ ἐπὶ πορφυρέαις παρῇσι φῶς ἔρωτος. Notice the exquisite alliteration. Sophocles no doubt had this line in mind when he wrote <i>Antigone</i> 782.
+
+[21] The writer of the Argument to the <i>Persæ</i> says: Γλαῦκος ἐν τοῖς περὶ Αἰσχύλου μύθων ἐκ τῶν Φοινίσσων Φρυνίχου φησὶ τοὺς Πέρσας παραπεποιῆσθαι. The late Dr. Verrall (<i>The Bacchantes of Euripides and Other Essays</i>, pp. 283-308) believed that not only is the <i>Persæ</i> modelled on the <i>Phœnissæ</i> but <i>Æschylus</i> incorporated a large portion of Phrynichus’ play with little change (<i>Persæ</i> vv. 480-514 especially).
+
+[22] By M. Croiset, <i>Hist. de la Litt. grecque</i>, III, p. 49.[23] This is asserted by his epitaph:—
+
+Αἴσχυλον Εὐφορίωνος Ἀθηναῖον τόδε κεύθει
+  μνῆμα καταφθίμενον πυροφόροιο Γέλας,
+ἀλκὴν δ’ εὐδόκιμον Μαραθώνιον ἄλσος ἂν εἴποι
+  καὶ βαθυχαιτήεις Μῆδος ἐπιστάμενος.
+
+These verses are said to come from the pen of Æschylus himself. For once such tradition appears to be true. No forger would have had the audacity to omit all reference to the plays.
+
+[24] This, however, is certainly stated by Aristotle (<i>Nic. Ethics</i>, 1111_a_). On the other hand, Æschylus says in the <i>Frogs</i> (886); Δήμητερ, ἡ θρέψασα τὴν ἐμὴν φρένα, εἶναί με τῶν σῶν ἄξιον μυστηρίων.
+
+[25] Aristotle, Poetic, 1449_a_.
+
+[26] The following plays were performed with two actors only: of Æschylus, <i>Supplices</i>, <i>Prometheus</i>, <i>Persæ</i>, <i>Seven against Thebes</i>; of Euripides, <i>Medea</i>, and perhaps <i>Alcestis</i>.
+
+[27] By Plutarch, <i>Life of Cimon</i>, VIII. Haigh (<i>The Tragic Drama of the Greeks</i>, p. 128²) gives good reasons for rejecting the story.
+
+[28] One of these occasions was that on which he presented the <i>Œdipus Tyrannus</i>.[29] A fragment of Ion’s Ἐπιδημίαι remarks: τὰ μέντοι πολιτικὰ οὔτε σοφὸς οὔτε ῥεκτήριος ἦν, ἀλλ’ ὡς ἄν τις εἷς τῶν χρηστῶν Ἀθηναίων.
+
+[30] Aristophanes, too, in the <i>Frogs</i> (v. 82), bears witness to his charm: ὁ δ’ εὔκολος μὲν ἐνθάδ’, εὔκολος δ’ ἐκεῖ· “Sophocles, on the other hand, is gentle here (<i>i.e.</i> in Hades) as he was in life.”
+
+[31] <i>Œd. Col</i>. 1225-8.
+
+[32] <i>Poetic</i>, 1460_b_: Σοφοκλῆς ἔφη αὐτὸς μὲν οἵους δεῖ ποιεῖν, Εὐριπίδην δὲ οἷοι εἰσίν.
+
+[33] Plutarch, <i>De Profectu in Virtute</i>, 79 B: ὁ Σοφοκλῆς ἔλεγε, τὸν Αἰσχύλου διαπεπαιχὼς ὄγκον, εἶτα τὸ πικρὸν καὶ κατάτεχνον τῆς αὐτοῦ κατασκευῆς, τρίτον ἤδη τὸ τῆς λέξεως μεταβάλλειν εἶδος ὅπερ ἐστὶν ἠθικώτατον καὶ βέλτιστον.
+
+[34] See Haigh, <i>Tragic Drama</i>, p. 162.
+
+[35] Aristotle, <i>Poetic</i>, 1449_a_.
+
+[36] Suidas (<i>s.v.</i> Σοφοκλῆς): καὶ αὐτὸς ἦρξε τοῦ δρᾶμα πρὸς δρᾶμα ἀγωνίζεσθαι, ἀλλὰ μὴ τετραλογίαν.
+
+[37] In the Anonymous <i>Life</i>.[38] See Haigh, <i>Attic Tragedy</i>, pp. 139 <i>sq.</i>, where this excellent point is made.
+
+[39] The most celebrated is the description of the sun as a “clod” (<i>Orestes</i>, 983). <i>Alcestis</i>, 904 <i>sqq.</i>, may very possibly refer to the death of Anaxagoras’ son.
+
+[40] XV, 20.
+
+[41] A passage in his <i>Life</i> suggests that he was indifferent to the strictly “theatrical” side of his profession: οὐδεμίαν φιλοτιμίαν περὶ τὰ θέατρα ποιούμενος· διὸ τοσοῦτον αὐτὸν ἔβλαπτε τοῦτο ὅσον ὠφέλει τὸν Σοφοκλέα.
+
+[42] <i>Oxyrhynchus Papyri</i>, Vol. IX, pp. 124-82.
+
+[43] Pp. 29 <i>sq.</i>
+
+[44] ἀκριβῶς ὅλως περιείληφεν τὸν Ἀναξαγόρειον διάκοσμον ἐν τρισὶν περιόδοις.
+
+[45] Aristotle, <i>Poetic</i>, 1452_b_.
+
+[46] Not all. The elegance of his iambic style excited Aristophanes’ admiration: indeed he confessed to imitating it, and the great Cratinus invented a significant compound verb εὐριπιδαριστοφανίζειν. See Meineke, <i>Frag. Comicorum Græcorum</i>, II, 1142.[47] <i>Frogs</i>, v. 1122: ἀσαφὴς γὰρ ἦν ἐν τῇ φράσει τῶν πραγμάτων.
+
+[48] vv. 846-54.
+
+[49] vv. 518-44.
+
+[50] <i>Frogs</i>, 939 <i>sqq.</i>
+
+[51] <i>Ibid.</i> 948 <i>sqq.</i>
+
+[52] <i>Ibid.</i> 959: σύνεσμεν may recall Grant Allen’s famous sentence about taking Hedda Gabler down to dinner.
+
+[53] Of these three points the first two come from Suidas (under the article Νεόφρων), the third from the argument to the extant <i>Medea</i>: τὸ δρᾶμα δοκεῖ ὑποβαλέσθαι τὰ Νεόφρονος διασκευάσας, ὡς Δικαίαρχός τε περὶ τοῦ Ἑλλάδος βίου καὶ Ἀριστοτέλης ἐν ὑπομνήμασι.
+
+[54] vv. 1211-6.
+
+[55] There is good reason to suppose that what we possess is a second version. The scholiast on Aristophanes mentions passages as parodies of lines in the <i>Medea</i> which we no longer read there.
+
+[56] In his ὑπομνήματα, quoted by the Argument to the <i>Medea</i>.[57] πρῶτος εἰς τὸ νῦν μῆκος τὰ δράματα κατέστησεν.
+
+[58] Unless we except the <i>Rhesus</i> (996 lines).
+
+[59] The original form of it seems to have been:—
+
+ὥστ’ οὐχ ὑπάρχων ἀλλὰ τιμωρούμενος
+ἀγωνιοῦμαι.
+
+[60] The name is not certain. The book is variously called ὑπομνήματα (“notes”), ἐπιδημίαι (“visits”), and συνεκδημητικός. The first is not a “name”—it merely describes the book. The second was explained by Bentley to mean “accounts of the visits to our island of Chios by distinguished strangers”. The third could mean something like “traveller’s companion”.
+
+[61] Plutarch (<i>De Profectu in Virtute</i>, 79 E), no doubt quoting from Ion, tells us that at a critical moment in a boxing match Æschylus nudged Ion and said: “You see what a difference training makes? The man who has received the blow is silent, while the spectators cry aloud.”
+
+[62] Plutarch, <i>Pericles</i>, Chap. V.
+
+[63] v. 835. To the scholium on this line we owe much of our information about Ion.[64] One of them bears the curious title “Great Play” (μέγα δρᾶμα), but nothing is known of it.
+
+[65] <i>Frogs</i>, 1425.
+
+[66] XXXIII, 5 (Prof. Rhys Roberts’ translation).
+
+[67] Diog. Laert. II, 133.
+
+[68] Croiset III, p. 400 (n.), thus explains the strange words of Suidas, ἐπεδείκνυτο δὲ κοινῇ σὺν καὶ Εὐριπίδῃ.
+
+[69] Haigh, <i>Tragic Drama of the Greeks</i>, p. 409.
+
+[70] Ath. X, 451 C.
+
+[71] Aristotle, <i>Poetic</i>, 1451_b_.
+
+[72] <i>Ibid.</i> 1456_a_ (Butcher’s translation).
+
+[73] Plutarch, <i>Symposiaca</i>, 645 E.
+
+[74] <i>Thesm.</i> 100: μύρμηκος ἀτραπούς.
+
+[75] Aristotle, <i>Poetic</i>, 1456_a_.[76] <i>Ibid.</i>
+
+[77] <i>Ibid.</i>
+
+[78] Such a sentence as that of M. Orgon in <i>Le jeu de l’amour et du hasard</i> (I, ii.): “Va, dans ce monde, il faut être un peu trop bon pour l’être assez,” strikes one as thoroughly Agathonesque.
+
+[79] <i>Protagoras</i>, 315 E.
+
+[80] <i>Symposium</i>, 198 C. Socrates says of Agathon’s panegyric upon Eros: καὶ γάρ με Γοργίου ὁ λόγος ἀνεμίμνησκεν. The whole speech of Agathon is intended to show these characteristics. Cp., for example, 197 D: πρᾳότητα μὲν πορίζων, ἀγριότητα δ’ ἐξορίζων· φιλόδωρος εὐμενείας, ἄδωρος δυσμενείας κτἑ.
+
+[81] <i>Thesm.</i> 130 <i>sqq.</i>
+
+[82] <i>Ibid.</i> 54 <i>sqq.</i>
+
+[83] It is noteworthy that Socrates’ famous “prophecy of Shakespeare” (<i>Symposium</i>, 223 D), “one who can write comedy can write tragedy and <i>vice versa</i>,” is addressed to Agathon and Aristophanes jointly.
+
+[84] The attribution of this play to Critias is not certain, but probable; it is accepted by Wilamowitz. The new life of Euripides by Satyrus (see above, p. 18) attributes it to that poet.[85] <i>Eratosthenes</i>, II.
+
+[86] <i>Poetic</i>, 1453_b_.
+
+[87] <i>De Gloria Atheniensium</i>, 349 E.
+
+[88] <i>Poetic</i>, 1455_a_, <i>b</i>.
+
+[89] Aristotle, <i>Rhetoric</i>, III, 12, 2: βαστάζονται δὲ οἱ ἀναγνωστικοί, οἷον Χαιρήμων· ἀκριβὴς γὰρ ὥσπερ λογογράφος.
+
+[90] “You know how to feel contempt before you have learnt wisdom,” or, to reproduce (however badly) the play upon words, “You practise contempt before using contemplation”.
+
+[91] Athenæus, fr. 10: δρᾶμα πολύμετρον.
+
+[92] <i>Poetic</i>, 1447_b_.
+
+[93] vv. 677-774.
+
+[94] Symonds, <i>Studies in the Greek Poets</i>, II, p. 26.
+
+[95] <i>Adversus Indoctos</i>, 15.[96] Athenæus III, 98 D, reports, for example, that he called a javelin βαλλάντιον (properly “purse”), because “it is thrown in the face of the foe” (ἐναντίον βάλλεται).
+
+[97] <i>Poetic</i>, 1454_b_.
+
+[98] 1455_a_.
+
+[99] <i>Rhetoric</i>, II, 1400_b_.
+
+[100] <i>Ibid.</i> 1417_b_, but the passage is obscure.
+
+[101] <i>Eth. Nic.</i> 1150_b_, 10.
+
+[102] Ælian, V.H. XIV, 40.
+
+[103] <i>Orator</i>, 51.
+
+[104] <i>Poetic</i>, 1452_a_.
+
+[105] <i>Ibid.</i> 1455_b_.
+
+[106] “First there came a circle with a dot in the middle,” etc.
+
+[107] θέλω τύχης σταλαγμὸν ἢ φρενῶν πίθον.[108] That he belongs to the fourth century is not certain, though extremely probable.
+
+[109] We have only one title (<i>Telephus</i>) which implies a legendary theme.
+
+[110] Meineke suggests that the subject is an incident related by Xenophon, <i>Hellenica</i>, VI, iv. 33, 34.
+
+[111] He might at least have written τοῖς ἀμείνοσιν.
+
+[112] The meaning of this name is unknown.
+
+[113] Athenæus XIII, 595 F.
+
+[114] He uses the diminutive δραμάτιον.
+
+[115] κατὰ ἰατρῶν (Stobæus, 102, 3). He was thus a precursor of Molière and Mr. Bernard Shaw.
+
+[116] Diogenes Laertius, VII, 173.
+
+[117] This point is made by Bernhardy, <i>Grundriss der Gr. Litteratur</i> II, ii. p. 72.
+
+[118] His date is not, however, certain, and there is some reason to assign his <i>floruit</i> to the time of Alexander the Great.[119] The most amazing example is that of the “Three Unities”—those of Action, Time, and Place—of which such a vast amount has been heard and which ruled tyrannically over French “classical” tragedy. It is difficult to believe that Aristotle never mentions the “Three Unities”. On the Unity of Action he has, of course, much to say; the Unity of Time is dismissed in one casual sentence. As to the Unity of Place there is not a word. (It is signally violated in the <i>Eumenides</i> and the <i>Ajax</i>.)
+
+[120] <i>Poetic</i>, 1454_a_.
+
+[121] <i>Ibid.</i>
+
+[122] See Wilamowitz-Moellendorff’s magnificent <i>Einleitung in die griechische Tragödie</i>, pp. 48-51 (<i>e.g.</i> “nicht mehr Aristoteles der aesthetiker sondern Aristoteles der historiker ist der ausgangspunkt unserer betrachtung” and “unser fundament ist und bleibt was in der poetik steht”).
+
+[123] <i>Poetic</i>, 1449_b_: ἔστιν οὖν τραγῳδία μίμησις πράξεως σπουδαίας καὶ τελείας μέγεθος ἐχούσης, ἡδυσμένῳ λόγῳ χωρὶς ἑκάστῳ τῶν εἰδῶν ἐν τοῖς μορίοις, δρώντων καὶ οὐ δι’ ἀπαγγελίας, δι’ ἐλέου καὶ φόβου περαίνουσα τὴν τῶν τοιούτων παθημάτων κάθαρσιν.
+
+[124] 1448_a_.
+
+[125] 1451_a_, <i>b</i>.[126] 1462_a_.
+
+[127] 1462_a_, <i>b</i>. (The phrasing in the summary above is borrowed from Butcher.) See further 1449_b_.
+
+[128] 1450_b_.
+
+[129] 1450_a_.
+
+[130] 1451_a_.
+
+[131] 1451_a_.
+
+[132] 1451_b_.
+
+[133] 1452_a_.
+
+[134] 1452_a_.
+
+[135] 1452_b_.
+
+[136] οἱ ἐν τῷ φανερῷ θάνατοι.
+
+[137] 1453_a_.
+
+[138] 1453_b_.[139] 1454_a_, <i>b</i>.
+
+[140] pp. 163-5.
+
+[141] pp. 313-5.
+
+[142] 1454_b_, 1460_a_.
+
+[143] 1452_b_: ἔστιν δὲ πρόλογος μὲν μέρος ὅλον τραγῳδίας τὸ πρὸ χοροῦ παρόδου, ἐπεισόδιον δὲ μέρος ὅλον τραγῳδίας τὸ μεταξὺ ὅλων χορικῶν μελῶν, ἔξοδος δὲ μέρος ὅλον τραγῳδίας μεθ’ ὃ οὐκ ἔστι χοροῦ μέλος, χορικοῦ δὲ πάροδος μὲν ἡ πρώτη λέξις ὅλη χοροῦ, στάσιμον δὲ μέλος χοροῦ τὸ ἄνευ ἀναπαίστου καὶ τροχαίου, κόμμος δὲ θρῆνος κοινὸς χοροῦ καὶ τῶν ἀπὸ σκηνῆς.
+
+[144] p. 4.
+
+[145] Chap. VI.
+
+[146] 1455_b_.
+
+[147] 1452_a_.
+
+[148] 1450_b_.
+
+[149] Plato (<i>Symposium</i>, 175 E) makes Socrates congratulate Agathon on his success in the presence of “more than 30,000 Greeks”.Modern archæologists, by statistics based on the seating-accommodation, would reduce this figure to 17,000.
+
+[150] There are fourteen of these at Athens.
+
+[151] This account is based on Dörpfeld (<i>Das griechische Theater</i>, Abschnitt VII) who believes there was no stage, and on Haigh (_Attic Theatre_³, edited by Mr. Pickard-Cambridge, Chap. III) who believes there was a stage.
+
+[152] That is, shorter, viewed from left to right by the spectators. The depth of the Vitruvian stage was 10 feet.
+
+[153] Vitruvius V, vii, 3-4.
+
+[154] By Wieseler and others.
+
+[155] Haigh³, pp. 165-74.
+
+[156] ἀναβαίνω: <i>Knights</i>, 148; <i>Acharnians</i>, 732; <i>Wasps</i>, 1342.
+
+[157] καταβαίνω: <i>Eccles.</i> 1151; <i>Wasps</i>, 1514.
+
+[158] Euripides, <i>Ion</i>, 727, <i>Electra</i>, 4 <i>sq.</i>, <i>Herc. Fur.</i> 119. As Haigh (3rd ed., p. 167) points out, “in the last passage it is the chorus which makes the complaint; so that in this case, if there was any visible ascent, it cannot have been the ascent to the stage”.[159] This is a strong and favourite argument for the stage; when Haigh (3rd ed., p. 168) denies this because “a sufficient reason is ... the fact that, if they had gone into the palace, the scene of action would have been left empty for the time being,” he forgets that such a departure of the chorus is quite possible. It occurs in <i>Eumenides</i>, <i>Ajax</i>, <i>Alcestis</i>, and <i>Helena</i>, not to mention Comedy.
+
+[160] Haigh³, p. 170 <i>sq.</i>
+
+[161] <i>Symposium</i>, 194 B.
+
+[162] <i>Ars Poetica</i>, 278: Æschylus et modicis instravit pulpita tignis.
+
+[163] <i>Das Gr. Theater</i>, p. 350.
+
+[164] He wrote a lexicon to Plato in the third century after Christ.
+
+[165] Dörpfeld gives various optical diagrams to exhibit the effects.
+
+[166] We incessantly see this effect in modern theatres. But in Greece the presence of the chorus performing below would force spectators to regard the building as suspended.
+
+[167] Save, of course, those on the new lowest seats, which went down to the new level of the excavated half. Dörpfeld has discovered evidence that the present lowest seats at Athens were added after the rest.[168] <i>Das griechische Theater</i>, p. 364. After the publication of this view Dörpfeld altered his opinion, and suggested (<i>Bull. Corr. Hell.</i> 1896, p. 577 <i>sqq.</i>) that V. means not the ordinary Greek Theatre, but the Græco-Roman type found in Asia Minor. But this seems worse than his first thought. See Haigh³, pp. 147 <i>sq.</i>
+
+[169] <i>Ibid.</i> pp. 146 <i>sq.</i>
+
+[170] In Plato’s time this was notably so (<i>Laws</i>, 659 A-C, 700 C, 701 A).
+
+[171] Plutarch, <i>Nicias</i>, 524 D.
+
+[172] Aristotle, <i>Rhetoric</i>, III, i.
+
+[173] This is the usual term employed. See, however, Haigh³, p. 13, note 3: “the word τετραλογία was applied only to a group of four plays connected in subject,” etc.
+
+[174] This was certainly the number for comedy; it is assumed for tragedy.
+
+[175] τράγος. This was supposed to be the origin of the word “tragedy” (τραγῳδία “goat-song”).
+
+[176] Vitruvius, V, vi., and Pollux, iv., 126.[177] Professor Ridgeway makes much use of this custom in his theory that Greek drama originated in celebrations at the tombs of great persons. See his <i>Origin of Tragedy</i>, and pp. 2 <i>sq.</i> above.
+
+[178] Haigh³, p. 187.
+
+[179] <i>Clouds</i>, 225.
+
+[180] Pollux (iv. 128), who gives the most definite description, adds: “one must understand it at each door, as it were in each house,” but his unsupported testimony on any subject is not trustworthy.
+
+[181] In fact Pollux, who is fond of making a particular case into a general rule, may have had this instance in his head. He writes (iv. 128): “the eccyclema is a lofty stand raised upon timbers and carrying a chair” (ἐπὶ ξύλων ὑψηλὸν βάθρον ᾧ ἐπίκειται θρόνος).
+
+[182] Ar. <i>Knights</i>, 1249.
+
+[183] This story occurs in the anonymous <i>Life</i> of Æschines.
+
+[184] They are mutes, for the lines supposed to be uttered by one or both behind the scenes were probably delivered by one of the actors not needed “in front”.[185] The <i>Œdipus Coloneus</i> is an exception. See Jebb’s <i>Introduction</i>, 3rd ed., pp. 7, 8.
+
+[186] Cp. the vigorous protest of Pratinas (p. 6).
+
+[187] Pherecrates, <i>Cheiron</i>, frag. 1, cp. Arist. <i>Thesmoph.</i> 100.
+
+[188] Ar. <i>Frogs</i>, 1314.
+
+[189] We hear from the scholiast on <i>Choephorœ</i>, 900, that the same actor took the part of Pylades and of the servant who gives the alarm. The latter after arousing Clytæmnestra rushes within, and when the Queen has uttered five lines Pylades appears accompanying Orestes. This example is given by Haigh³, p. 232.
+
+[190] Told by the scholiast on Aristophanes, <i>Frogs</i>, 303.
+
+[191] The slovenliness in this regard of many modern actors is mostly due to “long runs”. After saying the same thing hundreds of times, an actor naturally tends to mechanical diction. The writer has heard a performer in an emotional crisis suddenly (as it appeared) call for champagne. Feeling sure that “Pommery” could not be right, he reflected, and discovered that the mysterious syllables meant “Poor Mary!” Even actors at the head of the profession are guilty of such things as “the lor of Venice”.
+
+[192] See Haigh³, p. 279 <i>sq.</i>, for some highly interesting extracts.[193] <i>Poetic</i> 1456_a_ (tr. Butcher).
+
+[194] <i>Ibid.</i>
+
+[195] This was the normal mode of entry, but the plot sometimes demanded others. In the <i>Eumenides</i> the Chorus rush in pell-mell; so probably in the <i>Bacchæ</i>; in the Euripidean <i>Supplices</i> they are discovered grouped around the Queen.
+
+[196] See pp. 344 <i>sq.</i>
+
+[197]
+
+ὥστ’ εἴ τις ὀρχοῖτ’ εὖ, θέαμ’ ἦν· νῦν δὲ δρῶσιν οὐδέν, ἀλλ’ ὥσπερ ἀπόπληκτοι βάδην ἑστῶτες ὠρύονται.
+
+[198] Haigh³, p. 318. Both the gestures described sound like a curious anticipation of the gestures favoured by the performers of “coon-songs”.
+
+[199] This was not always an advantage when comedy held the scene. There is a delightfully impudent passage in the <i>Frogs</i> (v. 297) where Dionysus to escape a hobgoblin appeals to his own priest for protection.
+
+[200] For a detailed description of the seating see Haigh³, pp. 94-101.
+
+[201] It is a fact familiar to students of comparative religion that obscenity is often a part of ritual.This is true of several Greek worships, including that of Dionysus. Hence even tragedy retained its satyric complement, though satyric drama regularly showed obscene features.
+
+[202] Puchstein would date it earlier (end of the fifth century).
+
+[203] Plutarch, <i>Liber Amatorius</i>, 756 B, C.
+
+[204] ἐκσυρίττειν (“to hiss off”).
+
+[205] Demosthenes, <i>De Falsa Legatione</i>, § 337.
+
+[206] <i>Ethics</i>, X, 1175 B.
+
+[207] <i>Date</i>: uncertain. Professor Tucker thinks the year 492-1 probable; Æschylus was then thirty-three years old. Historical considerations are here of doubtful value, but the technique of the play seems to prove beyond question that it is an early work.
+
+<i>Arrangement</i>: protagonist, Danaus, Egyptian herald; deuteragonist, King of Argos.
+
+[208] In the centre of the orchestra, as always.
+
+[209] Danaus is necessarily dismissed so that the actor who impersonates him may appear as the Egyptian herald.[210] vv. 991-2.
+
+[211] vv. 994-1013.
+
+[212] Ζεύς (or words derived therefrom) occurs about sixty times.
+
+[213] vv. 91-5 (Professor Tucker’s translation).
+
+[214] vv. 230-1.
+
+[215] <i>Date</i>: 472 B.C. <i>Arrangement</i>: protagonist, Atossa and Xerxes; deuteragonist, Messenger and Darius.
+
+[216] The actor who presents the queen has now to present the king.
+
+[217] This was a satyric play, and must not be confused with the extant <i>Prometheus</i>.
+
+[218] See Patin, <i>Eschyle</i>, p. 211.
+
+[219] <i>Henry V</i>, IV, viii.
+
+[220] vv. 361-2.
+
+[221] <i>Arrangement</i>: protagonist: Eteocles and Antigone; deuteragonist, messenger, and herald. The part of Ismene was taken by a member of the chorus.[222] <i>Frogs</i>, 1021.
+
+[223] vv. 591-4.
+
+[224] <i>Life of Aristides</i>, III.
+
+[225] Dr. Verrall, however, in his Introduction (pp. xiv, xv) sees technical drama of the highest kind in the choosing of the champions. As the Theban warriors are told off one by one, the chorus (and audience) see with ever-increasing horror that Eteocles must be left as the opponent of Polynices.
+
+[226] Müller-Heitz (<i>Griechische Litteraturgeschichte</i>, ii. p. 88) point out, also, that this play needs more elaborate machinery than any other extant drama. But it may well be doubted whether all the effects mentioned by the poet are realized.
+
+[227] Bia (“Violence”), also present, is a mute.
+
+[228] See H. Weil’s masterly <i>Note sur le Prométhée d’Eschyle</i> (<i>Le drame antique</i>, pp. 86-92).
+
+[229] Zeus had intended to wed Thetis. On hearing the secret, he married her to Peleus, who became the father of Achilles.
+
+[230] It is fairly certain that it dealt with Menelaus’ visit to Egypt on his way back from Troy.He was shipwrecked on an island and the prophetic Proteus gave him advice, sending him first to Egypt. See <i>Odyssey</i>, IV, 351-586.
+
+[231] <i>Arrangement</i>: protagonist, Clytæmnestra; deuteragonist, Herald, Cassandra; tritagonist, Sentinel, Agamemnon, Ægisthus.
+
+[232] See especially his <i>Introduction</i> (pp. xiii-xlvii of the 2nd edition).
+
+[233] This is noted by an admirable touch. Almost always a tragedy ends with words of the chorus as the least impassioned parties. In the <i>Agamemnon</i> the closing words are uttered by Clytæmnestra.
+
+[234] <i>Choephorœ</i>, 889.
+
+[235] <i>The Relapse</i>, V, iv. 135.
+
+[236] <i>Arrangement</i>: protagonist, Orestes; deuteragonist, Electra, Clytæmnestra; tritagonist, Pylades, nurse, attendant, Ægisthus.
+
+[237] This is of course a conventional <i>mise-en-scène</i>; we are to imagine the tomb as distant from the palace.
+
+[238] On this and the other “tokens” see below, p. 258.
+
+[239] The dead man is undoubtedly supposed to send aid in a mysterious way, but no ghost appears, as in the <i>Persæ</i>.This discrepancy points to a change in religious feeling. Clytæmnestra’s shade “appears” in the <i>Eumenides</i>, but as a dream (see v. 116).
+
+[240] vv. 870-4. It seems most natural to suppose that they altogether quit the orchestra, returning before v. 930.
+
+[241] Not quite, however. The poet is to depict a man, with whom we are to sympathize, almost in the act of slaying his mother. Not only Orestes, but the spectator also, needs as much spiritual fortification as can be provided.
+
+[242] vv. 313: δράσαντι παθεῖν.
+
+[243] <i>Arrangement.</i>—Croiset gives: protagonist, Orestes; deuteragonist, Apollo; tritagonist, Athena, priestess, ghost of Clytæmnestra. This <i>grouping</i> is certainly right, but it is not easy to suppose that the part of Athena was given to the tritagonist. It seems better to give Athena, etc., to the protagonist, Apollo to the second, and Orestes to the third actor.
+
+[244] Probably the <i>eccyclema</i> was used. See pp. 66-8.
+
+[245] vv. 517-9:—
+
+ἔσθ’ ὅπου τὸ δεινὸν εὖ
+καὶ φρενῶν ἐπίσκοπον
+δεῖ μένειν καθήμενον.[246] The actual rule of the Areopagite Court was that if the votes were even the defendant was acquitted. This rule was explained as derived from the “Vote of Athena” in the trial of Orestes. It seems then that Athena’s vote here makes inequality, not equality. Therefore her pebble is not put into either urn, but laid between them.
+
+[247] It is implied by the title of the drama that they assume the title Eumenides or “Gracious Ones,” but this title is not used in the play itself. Their most usual name was Σεμναί, “Awful Ones”.
+
+[248] v. 644.
+
+[249] In her great speech to the court she plainly adopts the language of the Furies. See below.
+
+[250] v. 747: ἡμῖν γὰρ ἔρρειν, ἢ πρόσω τιμὰς νέμειν.
+
+[251] Dr. Verrall (<i>Introduction</i> to his edition, pp. xxxii, xxxiii) explains the reconciliation of the Furies as the result of a mystic revelation conveyed not in words but through a kind of spiritual magnetism exercised by Athena when she draws near to them at v. 886 (he notes the break in syntax at this point); such an influence could not be shown forth in words—it is too sacred and mysterious. But if a poet does undertake to dramatize the truths of religion, he must do so in dramatic form; he ought not suddenly to throw up his task. Several places in Æschylus can be found where he does put such ideas into words.[252] This appears to me certain from Athena’s language to the court, but the reader should not suppose that the Furies say so definitely; they acquiesce.
+
+[253] vv. 696-8.
+
+[254] This vital point is admirably demonstrated by Dr. Verrall on v. 1046.
+
+[255] This number is not certain. It is probably an under-statement.
+
+[256] ποδαπὸς ὁ γύννις;
+
+[257] ἐνθουσιᾷ δὴ δῶμα, βακχεύει στέγη.
+
+[258] βρῦτον.
+
+[259] <i>On the death of Kirk-White</i>: “’Twas thine own genius gave the fatal blow,” etc. The fiery verse, ὅπλων ὅπλων δεῖ· μὴ πύθῃ τὸ δεύτερον, recalls the famous line: “A horse, a horse! My kingdom for a horse!”
+
+[260] <i>Frogs</i>, 911-3.
+
+[261] Meineke, II, p. 1177.
+
+[262]        οἱ θεῶν ἀγχίσποροι
+οἱ Ζηνὸς ἐγγύς ὧν κατ’ Ἰδαῖον πάγον
+Διὸς πατρῴου βωμός ἐστ’ ἐν αἰθέρι,
+κοὔπω σφιν ἐξίτηλον αἷμα δαιμόνων.
+
+Cp. Plato, <i>Republic</i>, 391 E.
+
+[263] <i>Oration</i> 52.
+
+[264] Only one has survived, that of Sophocles.
+
+[265] <i>Titus Andronicus</i>, II, i. 5-7.
+
+[266] <i>Frogs</i>, 924-5.
+
+[267] <i>Ag.</i> 494-5. In spite of Dr. Verrall’s ingenious remarks, it seems best to take this phrase in the traditional way, as a mere extravagance.
+
+[268] <i>P.V.</i> 170.
+
+[269] <i>Septem</i>, 493-4.
+
+[270] <i>Choeph.</i> 451-2.
+
+[271] <i>Eum.</i> 137-8.[272] <i>Frogs</i>, 1261-95.
+
+[273] <i>Suppl.</i> 836-7. I see no reason for supposing that the Greek is defective.
+
+[274] <i>Ibid.</i> 12.
+
+[275] <i>Ibid.</i> 608.
+
+[276] <i>Persæ</i>, 115.
+
+[277] <i>Ibid.</i> 346.
+
+[278] <i>Persæ</i> 395.
+
+[279] <i>Ibid.</i> 815.
+
+[280] <i>Septem</i>, 593.
+
+[281] <i>P.V.</i> 89-90.
+
+[282] <i>Ibid.</i> 993.
+
+[283] <i>Ag.</i> 1434.
+
+[284] <i>Choeph.</i> 647.[285] <i>Eum.</i> 694.
+
+[286] Haigh, <i>Tragic Drama</i>, pp. 82 <i>sq.</i>
+
+[287] <i>Frogs</i>, 932.
+
+[288] Professor Gilbert Murray, <i>Literature of Ancient Greece</i>, p. 217.
+
+[289] vv. 908 <i>sqq.</i>
+
+[290] Frogs, 1119 <i>sqq.</i>
+
+[291] Dr. Verrall’s theory is still, I believe, accepted only by a minority.
+
+[292] <i>P.V.</i> vv. 350-2.
+
+[293] <i>Danaides.</i>
+
+[294] Cp. <i>Septem</i>, 592-4 (Aristides), <i>P.V.</i> 1068 (Themistocles), and the references to the Areopagus (vv. 681-710) and to the Athenian Empire (vv. 398-401) in the <i>Eumenides</i>.
+
+[295] <i>Choeph.</i> 313 <i>sq.</i>: δράσαντι παθεῖν, τριγέρων μῦθος τάδε φωνεῖ.
+
+[296] <i>Ag.</i> 750-7.[297] <i>Septem</i>, 689-91.
+
+[298] <i>Choeph.</i> 1076.
+
+[299] Æschylus never worked himself entirely free from this savage conception of sin as a material defilement. Orestes, among the proofs that he has expiated his offence, mentions the use of swine’s blood as a cleansing power (<i>Eum.</i> v. 283).
+
+[300] See Dr. Verrall’s discussion of the prologue to the <i>Eumenides</i>, <i>Euripides the Rationalist</i>, pp. 220-4.
+
+[301] <i>Eum.</i> vv. 640-51.
+
+[302] <i>Arrangement</i>: protagonist, Ajax, Teucer (Ajax, when dead, is represented by a lay figure); deuteragonist, Odysseus, Tecmessa; tritagonist, Athena, messenger, Menelaus, Agamemnon.
+
+[303] For the arguments see Jebb’s <i>Introduction</i> (pp. li-liv) to the <i>Ajax</i>. He thinks <i>Antigone</i> the earlier.
+
+[304] vv. 520-1: “Nay, have thought even of me. A man should sure be mindful of any joy that hath been his.” But of course the quality spoken of evaporates in such a “translation”.[305] In the address to his child he throws a half-line to the mother (v. 559) and at the beginning of his disguised farewell to the chorus he expresses pity for Tecmessa (vv. 650-3), but there is nothing to show that this is not feigned, like his implied renunciation of suicide.
+
+[306] See Jebb’s <i>Introduction</i> to the play (pp. xxviii-xxxii).
+
+[307] The <i>arrangement</i> is uncertain. Jebb gives, protagonist: Antigone, Tiresias, Eurydice; deuteragonist: Ismene, guard, Hæmon, the messengers; tritagonist: Creon. Croiset gives, protagonist: Antigone, Hæmon; deuteragonist: Ismene, guard, Tiresias, messengers; tritagonist: Creon, Eurydice.
+
+[308] vv. 904-12. See Jebb’s discussion in his <i>Appendix</i>.
+
+[309] vv. 450-70.
+
+[310] <i>Rhetoric</i>, III, xvi. 9.
+
+[311] Jebb’s <i>Introduction</i>, pp. xvii-xx.
+
+[312] See pp. 8, 15.
+
+[313] <i>Arrangement</i> probably: protagonist, Electra; deuteragonist, Orestes and Clytæmnestra; tritagonist, Pædagogus, Chrysothemis, Ægisthus.[314] Jebb, however, gives substantial reasons for putting it later. See his <i>Introduction</i>, pp. lvi-lviii.
+
+[315] vv. 1424-5.
+
+[316] <i>Choeph.</i> 1075-6 (Verrall’s translation).
+
+[317] vv. 1508 <i>sqq.</i> (Jebb’s translation).
+
+[318] vv. 616-21.
+
+[319] This seems a fair deduction, not only from the whole situation, but from the pause after Αἴγισθον in v. 957; also perhaps from the emphatic ἐμοί of v. 974. Cp. also 582 <i>sqq.</i> and especially the comment of the chorus in v. 1080 (διδύμαν ἑλοῦσ’ Ἐρινύν).
+
+[320] vv. 1331-3.
+
+[321] <i>Arrangement</i>: protagonist, Œdipus; deuteragonist, Priest, Jocasta, servant of Laius; tritagonist, Creon, Tiresias, the two messengers.
+
+[322] vv. 774 <i>sqq.</i>
+
+[323] It is true that when the prophet mentions the parents of Œdipus quite definitely (v. 436) the king is startled. But this is one point only. All the other remarks of Tiresias are ignored.[324] See Aristotle, <i>Poetic</i>, 1454_b_.
+
+[325] vv. 130-1.
+
+[326] See pp. 127-8.
+
+[327] vv. 124-5.
+
+[328] The entry of Fortinbras at the end of <i>Hamlet</i> is closely similar. Perhaps it is fear of anti-climax which causes producers nowadays to omit this finale.
+
+[329] Note his preciosity, vv. 942, 959, 1028.
+
+[330] He first (v. 1026) says that he found the infant Œdipus; only later (1038) does he admit that another man has been concerned.
+
+[331] vv. 758-64.
+
+[332] vv. 1117-8.
+
+[333] v. 1141.
+
+[334] <i>Arrangement</i>: protagonist, Deianira, Heracles; deuteragonist, Hyllus, Lichas; tritagonist, nurse, messenger, old man.[335] See Jebb’s <i>Introduction</i>, pp. xxxviii <i>sq.</i>
+
+[336] vv. 575-7 (Jebb’s translation).
+
+[337] vv. 547-9.
+
+[338] These remarks are not vitiated by the fact (see Jebb on v. 1224) that legend wedded Iole to Hyllus. If the command of Heracles is as objectionable as Jebb appears to think, why did Sophocles go out of his way to cause the hero himself, instead of some other, to enjoin the marriage?
+
+[339] vv. 719 <i>sq.</i>
+
+[340] This accounts also for the absurd behaviour of the nurse (vv. 927 <i>sq.</i>) who instead of interfering hastens away to Hyllus, entirely unlike other such women in tragedy.
+
+[341] See the speech of Lichas (vv. 248-86).
+
+[342] Deianira’s plan, moreover, reads like a sort of dilution of Medea’s, and her last moments (vv. 900-22) recall the description in the <i>Alcestis</i> (vv. 158-84).
+
+[343] v. 427. Cp. Eur. <i>Helena</i>, 567: ποίας δάμαρτος;[344] Jebb points out that <i>Trach.</i> 416 and <i>Supplices</i> 567 are practically identical.
+
+[345] v. 1140.
+
+[346] 268.
+
+[347] vv. 9-14.
+
+[348] That even the equable Sophocles did on occasion embody criticism of other playwrights in his works is shown by such passages as <i>Electra</i> 1288 <i>sqq.</i>, <i>Œd Col.</i> 1148-9.
+
+[349] <i>Arrangement</i>: protagonist, Philoctetes; deuteragonist, Neoptolemus; tritagonist, Odysseus, merchant, Heracles.
+
+[350] vv. 1007-15.
+
+[351] <i>E.g.</i> Mahaffy (<i>History of Gk. Lit., Poets</i>, pp. 309-12).
+
+[352] Christ (<i>Geschichte der Gr. Lit.</i> p. 210) who compares Heracles here to the δαιμόνιον σημεῖον of Socrates.
+
+[353] K. O. Müller (<i>Gr. Lit.</i>, ii. p. 124) who is opposed by Bernhardy (II, ii. p. 370).[354] vv. 1404 <i>sqq.</i>
+
+[355] When he threatens to shoot Odysseus (vv. 1299 <i>sqq.</i>).
+
+[356] v. 670: εὐεργετῶν γὰρ καὐτὸς αὔτ’ ἐκτησάμην.
+
+[357] See Jebb’s 2nd edition (p. xxvii with footnote).
+
+[358] <i>Or.</i> 52.
+
+[359] vv. 936 <i>sqq.</i>, 987 <i>sq.</i>, etc.
+
+[360] vv. 187-90 (Jebb’s reading and translation).
+
+[361] v. 1455.
+
+[362] vv. 282-4. Notice also the phrase ξὺν ᾗ (v. 268) used of his malady.
+
+[363] Jebb (<i>Introd.</i> pp. xl, xli, 2nd ed.) seems unwilling to allow any direct allusions. But see vv. 385 <i>sqq.</i>, 456 <i>sqq.</i>, and particularly 1035 <i>sqq.</i>; all three passages show a peculiar emphasis; vv. 1047-51 are quite in the tone of Thucydides’ “Melian dialogue”.
+
+[364] The <i>arrangement</i> of the parts is not certain. But the important fact seems clear that a fourth actor was here used not tentatively (as in other cases) but in a very remarkable degree.Jebb gives: protagonist, Œdipus; deuteragonist, Antigone; tritagonist, Ismene and Creon; fourth actor, “Stranger,” Theseus, Polynices, messenger. Croiset: protagonist, Œdipus; deuteragonist, Antigone; fourth actor, Theseus; all the other parts to the tritagonist.
+
+[365] Creon, vv. 854 <i>sq.</i>; Antigone, v. 1195.
+
+[366] v. 106.
+
+[367] vv. 1563 <i>sq.</i> The same word recurs in Antigone’s lament (v. 1682): ἄσκοποι δὲ πλάκες ἔμαρψαν.
+
+[368] Note specially the word τοὐπιεικές (v. 1127) though the idea is of course expressed by the whole play.
+
+[369] vv. 670-80 (Jebb’s version).
+
+[370] See below, p. 185.
+
+[371] σμικρὸς λόγος four times (vv. 569, 620, 1116, 1152), σμικρὸν ἔπος once (v. 443), and ἓν μόνον ἔπος once (v. 1615 <i>sqq.</i>). Dr. Mackail (<i>Lectures on Greek Poetry</i>, p. 150) has indicated this point. See also <i>Electra</i>, 415.
+
+[372] vv. 670 <i>sqq.</i>: The parallel I owe to Jebb’s note.
+
+[373] vv. 1503 <i>sq.</i>[374] <i>King Lear</i>, III, iv.
+
+[375] vv. 1627 <i>sq.</i> Cp. 1 Sam. iii. 10.
+
+[376] Deut. xxxiv. 6.
+
+[377] Heb. xi. 22.
+
+[378] vv. 62 <i>sq.</i>: “Such ... are these haunts, not honoured in story, but rather in the life that loves them” (Jebb).
+
+[379] v. 472.
+
+[380] v. 506.
+
+[381] vv. 964 <i>sq.</i>
+
+[382] vv. 1422-5.
+
+[383] See Jebb, <i>Introduction</i>, pp. xxi <i>sq.</i>
+
+[384] See his splendid exculpatory speeches to the chorus (vv. 258-91) and to Creon (vv. 960-1013).
+
+[385] See pp. 10, 12 <i>sq.</i>[386] <i>Ad Quintum Fratrem</i>, II, xv. 3.
+
+[387] Fr. 344: πόνου μεταλλαχθέντος οἱ πόνοι γλυκεῖς, and fr. 345: μόχθου γὰρ οὐδεὶς τοῦ παρελθόντος λόγος; recall <i>Æneid</i>, I, 203: <i>forsan et haec olim meminisse iuuabit</i>.
+
+[388] <i>De Subl.</i> XV, 7: ἄκρως πεφάντασται.
+
+[389] For the Recognition-scene of this play, cp. Aristotle, <i>Poetic</i>, 1454_b_.
+
+[390] <i>Birds</i>, vv. 100 <i>sqq.</i>
+
+[391] These have been published and annotated by Dr. A. S. Hunt (who, with Dr. B. P. Grenfell, discovered these and so many other precious remains) in Vol. IX of the <i>Oxyrhynchus Papyri</i>.
+
+[392] Welcker thought that the wanderings of Europa formed the subject.
+
+[393] The word ῥοῖβδος is inserted as a stage-direction (παρεπιγραφή). It no doubt means that the babe Hermes is playing his lyre “within”.
+
+[394] The passage is amusing: χαίρει ἀλύων, “he is in a rapture of joy,” is an excellent phrase for this earliest of <i>maestri</i>; but, as Dr. Hunt remarks, his audience of one (Cyllene) seems not to share his ecstasy: παραψυκτήριον κείνῳ μόνον.[395] The name is not certain. All that can be asserted is that the tragedy dealt with Eurypylus’ death, in defence of Troy, at the hands of Neoptolemus.
+
+[396] See pp. 15-17.
+
+[397] See <i>e.g.</i> the remarks in Creon’s opening speech (<i>Ant.</i> vv. 175-90).
+
+[398] <i>O.T.</i> 587-8:
+
+ἐγὼ μὲν οὖν οὔτ’ αὐτὸς ἱμείρων ἔφυν
+τύραννος εἶναι μᾶλλον ἢ τύραννα δρᾶν.
+
+[399] <i>Electra</i>, vv. 328 <i>sqq.</i>
+
+[400] See p. 16.
+
+[401] <i>Electra</i>, 303-16.
+
+[402] For this and other metrical terms which follow see Chapter VI.
+
+[403] There are no less than thirty iambic lines thus divided. The name for such division is ἀντιλαβή.
+
+[404] <i>Phil.</i> vv. 287-92.
+
+[405] <i>O.C.</i> 1697, translated by Jebb: “Ah, so care past can seem lost joy!”[406] <i>Electra</i>, 1165 <i>sq.</i>
+
+[407] Dr. J. W. Mackail (<i>Lectures on Greek Poetry</i>, p. 150 <i>sq.</i>) has described these lines with brilliant aptness. “The language is so simple, so apparently unconscious and artless, that its overwhelming effect makes one gasp: it is like hearing human language uttered, and raised to a new and incredible power, by the lips of some one more than human.”
+
+[408] <i>O.C.</i> 607 <i>sqq.</i> The wonderful version of these first few fines is by Professor Gilbert Murray.
+
+[409] <i>Ajax</i>, 815 <i>sqq.</i>
+
+[410] <i>O.C.</i> 1586 <i>sqq.</i>
+
+[411] This figure includes the <i>Rhesus</i>, the authenticity of which is not certain.
+
+[412] It is almost certain that only two actors were employed, Alcestis being mute in the last scene (<i>i.e.</i> the character was apparently borne by a supernumerary, not the actor who had delivered her earlier speeches), and the few lines of the child Eumelos being sung by a chorister. Croiset suggests: protagonist, Apollo, Alcestis, Heracles, Pheres; deuteragonist, Thanatos, maidservant, Admetus, attendant.[413] The true explanation, as Dr. Hayley points out, is that the two actors are already engaged (as A. and H.) so that the queen is presented by a mute. I cannot, however, agree that this is “a clumsy device”. Admetus deserved some modification of his delight; we may, moreover, feel that Alcestis would not wish to show precipitation in greeting the husband who had interred her with such strange promptitude.
+
+[414] The celebrated “tag” beginning πολλαὶ μορφαὶ τῶν δαιμονίων (vv. 1159-63), which is found also at the close of <i>Medea</i> (practically), <i>Helena</i>, <i>Andromache</i>, and <i>Bacchæ</i>.
+
+[415] There are no satyrs and no indecency of language.
+
+[416] <i>E.g.</i> v. 58: πῶς εἶπας; ἀλλ’ ἦ καὶ σοφὸς λέληθας ὤν; “What! <i>you</i> among the philosophers!”
+
+[417] The late Dr. A. W. Verrall’s brilliant theory of this play it will be better to discuss later (see pp. 190 <i>sq.</i>).
+
+[418] vv. 763 <i>sq.</i>
+
+[419] vv. 280-325.
+
+[420] <i>Euripides the Rationalist</i>, pp. 1-128.[421] The hurried obsequies probably do not fall into this category. We are almost certainly to assume that as Alcestis’ sacrifice is to be made on a certain day, that day must see her not only expire, but actually delivered up to the power of death. See Dr. H. W. Hayley’s <i>Introduction</i> to the play (pp. xxxi <i>sq.</i>) and my <i>Riddle of the Bacchæ</i>, pp. 143 <i>sq.</i>
+
+[422] I cannot write with decision about the <i>Alcestis</i>, because on the one hand universal testimony and opinion date it as only seven years anterior to the <i>Medea</i>, while my own instinct would put it quite twenty years earlier than that play. To me it reads essentially like the work of a young but highly-gifted playwright who has recently lost his wife.
+
+[423] These celebrated lines (vv. 230-51) are not in character. They form a splendid and moving criticism of the attitude adopted by the poet’s own Athenian contemporaries towards women, but have only a very partial application to herself.
+
+[424] (i) In vv. 1231-5, there is a very clear dittography. That is, either 1231-2, or 1233-5 would serve excellently as a speech of the chorus-leader; but it is unlikely that the poet meant both to be used; (ii) vv. 1236-50 read like another and far shorter version of the great soliloquy 1021-80; (iii) it seems odd that Medea, after finally gaining courage to slay her children, should before doing so, be seen again and join in conversations; (iv) vv. 1375-7 give the impression (as Dr.Verrall has pointed out) that the play is to end, not as it does, but with some kind of arrangement between Medea and Jason; (v) one or two ancient quotations purporting to come from this play are not to be found in our texts.
+
+[425] See pp. 21 <i>sq.</i>
+
+[426] v. 389 <i>sqq.</i>
+
+[427] <i>Poetic</i>, 1454_b_.
+
+[428] <i>Four Plays of Euripides</i>, pp. 125-30.
+
+[429] vv. 1381-3.
+
+[430] v. 472: ἀναίδεια.
+
+[431] v. 364: κακῶς πέπρακται πανταχῇ· τίς ἀντερεῖ;
+
+[432] vv. 801 <i>sq.</i>
+
+[433] v. 450.
+
+[434] v. 1367.
+
+[435] vv. 944 <i>sq.</i> Two MSS., however (followed by Murray), give the second line to Medea.[436] v. 349: αἰδούμενος δὲ πολλὰ δὴ διέφθορα.
+
+[437] vv. 309 <i>sq.</i>
+
+[438] v. 454.
+
+[439] vv. 930 <i>sq.</i>
+
+[440] vv. 824-45.
+
+[441] vv. 1081-1115.
+
+[442] <i>Arrangement</i>: protagonist, Iolaus, Eurystheus; deuteragonist, Demophon, Alcmena; tritagonist, Copreus, Macaria, attendant, messenger. There were a great number of mutes: Acamas, the sons of Heracles, and probably some Athenian soldiers.
+
+[443] It has only 1055 lines, but there are probably gaps in our text.
+
+[444] This name is not mentioned by Euripides. The scholiasts have taken it from <i>Iliad</i>, XV, 639.
+
+[445] In the Peloponnesian war. The Spartans were believed the descendants of Hyllus and his brothers.[446] Professor Murray, however, supposes another lacuna here, and thinks there were two semi-choruses, one party supporting Alcmena, the other disagreeing.
+
+[447] Even in ancient times it seems to have enjoyed little attention.
+
+[448] v. 638.
+
+[449] v. 625.
+
+[450] vv. 9 <i>sq.</i>, 540.
+
+[451] vv. 869 <i>sqq.</i>
+
+[452] vv. 910 <i>sqq.</i>
+
+[453] Down to v. 847 his story contains nothing superhuman. Then “up to this point I saw with mine own eyes; the rest of my tale depends on hearsay,” τἀπὸ τοῦδ’ ἤδη κλύων λέγοιμ’ ἂν ἄλλων, δεῦρο δ’ αὐτὸς εἰσιδών· And when he mentions the identification of the miraculous lights with Hebe and Heracles, he attributes the theory to οἱ σοφώτεροι, “cleverer heads than mine,” as we may translate it.
+
+[454] The oracle has demanded the daughter of “a well-born father,” and she of course mentions her own qualification in this respect, without proceeding to dilate (as one would think inevitable in Euripides—or anyone else) on the quite unrivalled “nobility” of her father.[455] vv. 513, 563.
+
+[456] <i>Hercules Furens</i>, vv. 151-64.
+
+[457] vv. 997-9; v. 990, referring to the hostility of Hera, is too vague to stand as a warrant for the divine birth of Heracles.
+
+[458] vv. 240 <i>sq.</i>
+
+[459] It has been thought that vv. 819-22 indicate the sacrifice of the maiden. They describe the soothsayers’ offering just before the battle: ἀφίεσαν λαιμῶν βροτείων εὐθὺς οὔριον φόνον. If βροτείων is right (though βοτείων, “of sheep,” is a tempting alteration) the reference to the girl’s heroism is brutally curt.
+
+[460] vv. 597 <i>sqq.</i>
+
+[461] There is, however, in vv. 45-7 an isolated statement which vaguely contradicts this.
+
+[462] Her remark on hearing the news (v. 665): τοῦδ’ οὐκέθ’ ἡμῖν τοῦ λόγου μέτεστι δή, sets the seal upon her utter feebleness of mind.
+
+[463] vv. 1035-7.
+
+[464] vv. 1049-52 and elsewhere in the last scene.[465] vv. 1020-5.
+
+[466] <i>Arrangement</i> (according to Croiset): protagonist, Hippolytus; deuteragonist, Aphrodite, Phædra, Theseus (the body of Phædra being represented by a lay-figure); tritagonist, Artemis, servant (who announces the suicide), nurse, messenger.
+
+[467] This additional name (<i>The Crowned H.</i>) was given to distinguish the play from the earlier Ἱππόλυτος Καλυπτόμενος (now lost), or <i>Hippolytus Veiled</i>.
+
+[468] vv. 73-87.
+
+[469] vv. 121-5.
+
+[470] vv. 208-31. Cp. vv. 219-21 with vv. 1375 <i>sq.</i>
+
+[471] vv. 732-51.
+
+[472] vv. 828-9.
+
+[473] vv. 1423-30.
+
+[474] vv. 616-68. He seems to begin listening to the sound of his own voice at v. 654.
+
+[475] vv. 728-31.[476] vv. 831-3. Hippolytus agrees, vv. 1379-83.
+
+[477] vv. 967-9, where note the emphatic ἐγώ. And the word νόθος is frequent in the play; see especially Hippolytus’ exclamation in vv. 1082-3, which, by a finely dramatic stroke, immediately turns Theseus’ anger to hot fury.
+
+[478] vv. 337-41.
+
+[479] Professor Murray.
+
+[480] vv. 29-33.
+
+[481] Cp. vv. 490 <i>sq.</i>
+
+[482] vv. 191-7 (Professor Murray’s translation).
+
+[483] vv. 439-61.
+
+[484] Cp. vv. 474 <i>sq.</i>:—
+
+λῆξον δ’ ὑβρίζουσ’· οὐ γὰρ ἄλλο πλὴν ὕβρις
+τάδ’ ἐστί, κρείσσω δαιμόνων εἶναι θέλειν.
+
+[485] vv. 493-6.
+
+[486] vv. 507 <i>sq.</i>[487] vv. 1034 <i>sq.</i>
+
+[488] vv. 415 <i>sqq.</i> Compare her whole attitude. Indeed the poet suggests, as at any rate a collateral reason for her destruction of Hippolytus, a fear that he will reveal her secret (vv. 689-92).
+
+[489] vv. 373-430.
+
+[490] <i>Agamemnon</i>, vv. 160-83.
+
+[491] In the first edition of the play, to which it seems that most of the ancient strictures apply.
+
+[492] vv. 135-40.
+
+[493] v. 384: τερπνὸν κακόν.
+
+[494] v. 281: ἔκδημος ὦν γὰρ τῆσδε τυγχάνει χθονός.
+
+[495] v. 384: μακραί τε λέσχαι καὶ σχολή, τερπνὸν κακόν.
+
+[496] vv. 337, <i>sqq.</i>
+
+[497] v. 328, etc.
+
+[498] vv. 503-6.

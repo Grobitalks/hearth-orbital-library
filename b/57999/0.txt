@@ -1,0 +1,1611 @@
+HOLB1	57999	0	0	80	856	56
+2	Preface
+5	IV. Mythological Index 497. Introductory Essay
+19	Act I
+30	Act II. [_Enter_ Creon.]
+47	Act III. [_Enter_ Creon, _returned from the ri…
+61	Act IV
+71	Act V
+82	Act I
+100	Act II
+103	Act III
+108	Act IV. [_On the field before Thebes, between…
+123	Act I
+128	Act II
+142	Act III
+159	Act IV
+168	Act V
+178	Act I
+189	Act II
+211	Act III
+227	Act IV
+242	Act V
+256	Act I
+275	Act II. [_Enter_ Nurse _from the palace_.]
+301	Act III
+310	Act IV. [_Enter_ Messenger.]
+319	Act V. [_Enter_ Phaedra _with a drawn sword in…
+328	Act I. [_On the Cenaean promontory of the isla…
+342	Act II. [_In the palace of_ Deianira _at Trach…
+369	Act III
+392	Act IV. [_Enter_ Hercules _in the extremity of…
+419	Act V. [_Enter_ Philoctetes.]
+442	Act I
+452	Act II
+466	Act III
+480	Act IV
+495	Act V
+511	Act I
+519	Act II
+534	Act III. [_Enter_ Andromache, _leading the lit…
+560	Act IV. [_Enter_ Helen.]
+572	Act V
+581	Act I
+586	Act II
+600	Act III. [_Enter_ Eurybates _with laurel-wreat…
+620	Act IV
+625	Act V
+635	Introduction
+641	Act I
+661	Act II
+674	Act III
+679	Act IV
+686	Act V
+782	C
+809	I
+813	L
+852	V
+Transcriber's Note:
+
+Text enclosed by underscores is in italics (<i>italics</i>).
+
+A list of the changes made can be found at the end of the book.
+
+THE TRAGEDIES OF SENECA
+
+THE TRAGEDIES OF SENECA
+
+Translated into English Verse, to Which Have Been Appended Comparative Analyses of the Corresponding Greek and Roman Plays, and a Mythological Index
+
+by
+
+FRANK JUSTUS MILLER
+
+Introduced by an Essay on the Influence of the Tragedies of Seneca upon Early English Drama
+
+by
+
+John Matthews Manly
+
+Chicago
+The University of Chicago PressLondon
+T. Fisher Unwin, 1 Adelphi Terrace
+1907
+
+Copyright 1907 by
+The University of Chicago
+
+Published December 1907
+
+Composed and Printed By
+The University of Chicago Press
+Chicago, Illinois, U.S.A.
+
+        TO
+   FRANK FROST ABBOTT
+        AND
+      EDWARD CAPPS
+MY FRIENDS AND COLLEAGUES
+THROUGH A SCORE OF YEARS<b>PREFACE</b>
+
+The place of the tragedies of Seneca in literature is unique. They stand as the sole surviving representatives, barring a few fragments, of an extensive Roman product in the tragic drama. They therefore serve as the only connecting link between ancient and modern tragedy. They are, moreover, modeled more or less closely after the tragedies of Aeschylus, Sophocles, and Euripides; and the Greek and Roman product in literature along parallel lines cannot be better studied than by a comparison of these Senecan plays with their Greek prototypes--a comparison which is not possible in comedy, since, unfortunately, the Greek originals of Plautus and Terence have not come down to us.
+
+These plays are of great value and interest in themselves, first, as independent dramatic literature of no small merit; and second, as an illustration of the literary characteristics of the age of Nero: the florid, rhetorical style, the long, didactic speeches, the tendency to philosophize, the frequent epigram, the pride of mythologic lore.
+
+Popular interest in the tragedies of Seneca has been growing to a considerable extent during the last generation. This has been stimulated in part by Leo's excellent text edition, and by the researches of German and English scholars into Senecan questions, more especially into the influence of Seneca upon the pre-Elizabethan drama; in part also by the fact that courses in the tragedies have been regaining their place, long lost, in college curricula.The present edition seeks still further to bring Seneca back to the notice of classical scholars, and at the same time to present to the English reader all of the values accruing from a study of these plays, with the single exception of the benefit to be derived from a reading of the original. The influence which the tragedies have had in English literature is brought out in the introduction, which Professor Manly has kindly contributed; the relation of Seneca to the Greek dramatists is shown by comparative analyses of the corresponding plays, so arranged that the reader may easily observe their resemblances and differences; the wealth of mythological material is at once displayed and made available by an index of mythological characters; finally, it is hoped that the translation itself will prove to be as faithful a reproduction of the original as is possible in a translation, and at the same time to have sufficient literary merit of its own to claim the interest of the general reader.
+
+The text used is that of Leo (Weidmann, Berlin, 1878), except in the instances noted. The line numbers as printed in the translation are identical with those of the original text. The meter employed in the spoken parts is the English blank verse, with the exception of the <i>Medea</i>, in which the experiment was tried, not altogether successfully, of reproducing the iambic trimeter of the original. In the lyric parts, the original meters are sometimes used; and, where these did not seem suitable in English, appropriate substitutes have been attempted.
+
+FRANK JUSTUS MILLERCHICAGO, ILL.
+October 25, 1907
+
+TABLE OF CONTENTS
+
+        PAGE
+I. THE INFLUENCE OF THE TRAGEDIES OF SENECA UPON EARLY ENGLISH DRAMA 1
+
+II. THE TRAGEDIES OF SENECA TRANSLATED OEDIPUS 11 PHOENISSAE 51 MEDEA 79 HERCULES FURENS 115 PHAEDRA OR HIPPOLYTUS 165 HERCULES OETAEUS 213 THYESTES 287 TROADES 333 AGAMEMNON 379 OCTAVIA, WITH A REVIEW OF THE ROMAN HISTORICAL DRAMA 415
+
+III. COMPARATIVE ANALYSES OF SENECA'S TRAGEDIES AND THE CORRESPONDING GREEK DRAMAS 453<b>IV. MYTHOLOGICAL INDEX 497</b>
+
+INTRODUCTORY ESSAY
+
+THE INFLUENCE OF THE TRAGEDIES OF SENECA UPON EARLY ENGLISH DRAMA
+
+To appreciate fully the nature and the extent of the influence of Seneca upon English tragedy in the days of Shakespeare and his immediate predecessors, we must bear in mind that the public theaters were not the only places at which plays were then produced. At the universities, at the inns of court (which may be roughly described as combinations of a law school and a very exclusive social club), and at the Court itself plays were an important feature of almost every festival. Even those of us who know these facts are very likely to fail to realize the full meaning of them. We are likely to regard the non-professional performances as having no more significance for the history of the drama than amateur performances at the present day by dramatic clubs and college societies. We are apt to forget that, in the spacious days of great Elizabeth, learning, especially classical learning, had a value, an importance, a dignity, which not even the most academic of us now feels it to have. Our generation, busied above all things with making a living or with accumulating wealth, regards the scholar as, with the poet and the artist, the most unpractical and useless of men at best, tolerated as an ornamental creature whom society can afford to keep if it does not have to pay him more than it pays a butler or a chauffeur. To the men of the Renaissance, scholarship and the scholar had a unique and inestimable value.Ordinary business, in their view, enabled man to provide a living; religion taught him how to save his soul; scholarship, the knowledge of the literature and life of the Greeks and the Romans, enabled him to distinguish his life as a man from that of a beast, to approach as nearly as possible to that ideal type toward which they strove, the <i>uomo universale</i>, the perfect gentleman, complete master of his body, of his mind, of his passions. To men of these views and this temper, literature--first, classical literature and then the vernacular literature produced under the stimulus of it--was of supreme importance, and the drama was perhaps the most important form of literature. The value of literature for those who were then trying to transform the world, to rebuild it and themselves nearer to the heart's desire, was of course best recognized by the finest spirits of the age, men like Erasmus, Thomas More, Walter Raleigh, Edmund Spenser, Philip Sidney. But it seems to have been felt, though in cruder ways, even by the vulgar. An amusing illustration of this is the little record kept by old Simon Forman, a noted mountebank and quack doctor, in 1610 and 1611. It has preserved for us our earliest notices of performances of <i>Macbeth</i>, <i>Cymbeline</i>, and <i>A Winter's Tale</i>; but this is accidental. The doctor's intention was merely to note for his own guidance such lessons as he learned from the plays presented on the stage. Such benefits were, according to the views of wiser men, to be gained chiefly from comedies; tragedy, and classical tragedy in particular, had a finer, a more permanent value.Tragedy was the voice of the wisest men of the world, the ancients, upon the most serious themes of human life; it not only, as Aristotle had said, purified the mind through pity and terror, it fortified the inner life, and both by example and by sententious maxim prepared man to meet the most subtle attacks of fate, the temptations of success, or the discouragements of failure. Tragedy therefore had a unique value for the Elizabethans, and the performances of classical plays, or those written in imitation of the classics, by the universities or the inns of court, did not fall into the abyss which now receives amateur theatricals.
+
+Failure to take account of the value attached to the lessons and the examples of tragedy may perhaps account for the misunderstanding which exists so widely, even among scholars, in regard to the first tragedy in English, <i>Gorboduc, or Ferrex and Porrex</i>. Everyone knows that this was written in direct imitation of Seneca, and everyone discusses glibly its Senecan features, the bloody theme, the division into five acts, the use of the chorus, the removal of the action from the view of the spectators, the long speeches; but critics are, without exception, offended to the heart by the fifth act, and especially by the two long disquisitions of Arostus and Eubulus. It is, however, no exaggeration to say that the play exists solely for the sake of these speeches. This was not a mere academic exercise. It was a serious attempt by some of the most thoughtful men of England to move the queen, Elizabeth, to a course of action which they regarded as absolutely essential to the welfare of the realm. Other attempts to secure the same end were made by her best statesmen throughout the reign.The failure of this effort was not due to the weakness of the tragedy, but, like the failure of all the rest, to some feature of Elizabeth's character or some circumstance in her life which has not yet been fully and convincingly explained. The purpose of the writers is clear. They wished to persuade Elizabeth to marry and settle once for all the succession to the throne of England. They, in common with all thoughtful and patriotic Englishmen, feared the horrors of an unsettled succession or a divided rule. These they tried to impress upon her mind and heart by examples drawn from the history of Gorboduc and his sons, and by maxims and exhortations presented in the most authoritative form known to them, the form of Senecan tragedy. The occasion chosen was a great festival given by the gentlemen of the Inner Temple, one of the most important and influential of the inns of court referred to above.
+
+Classical tragedy had, then, as we can readily see, a prestige to which hardly anything in literature corresponds at the present day. The statesman who should today wish to influence his sovereign to an important course of action would doubtless be puzzled to find any form of literature--academic or unacademic--appropriate to the task in dignity and authority.
+
+It is not strange, therefore, that classical tragedy, the tragedy of the schools and the learned societies, must be taken seriously into account in estimating the forces which shaped the drama of the popular stage. It is true that the English tragedies in classical or Senecan form were none of them written for the public stage. It is even probable that they would not have been successful upon it.It is a mistake to treat them historically and critically, as if they belonged to the direct line of development which resulted in <i>Faustus</i> and <i>The Spanish Tragedy</i> and <i>Macbeth</i> and <i>Lear</i> and <i>Othello</i>. But none the less the influence of these academic plays was very real and very important.
+
+The ways in which this influence was exercised may be noted, as having some bearing upon the nature and extent of the influence. In the first place, there was in the early days no very rigid line between the academic and the popular performers. The Children of the Chapel Royal were at one time the leading theatrical company in London. When the queen visited Oxford in 1566, there were among the several plays presented by the university, not only the Latin tragedy, <i>Progne</i>, of Dr. James Calfhill, but also the English <i>Palamon and Arcite</i> of Richard Edwards, Master of Her Majesty's Children and the most popular dramatist of his day. Edwards himself trained the students who produced his play, and it was a great success; according to a contemporary report, "certain courtiers said that it far surpassed <i>Damon and Pythias</i>, than which they thought nothing could be better; likewise some said that if the author did any more before his death, he would run mad." Any impressions made upon Edwards by Dr. Calfhill's <i>Progne</i> were doubtless lost to art, as Edwards died before the end of the year; but this was probably not the first occasion on which the Master of the Chapel Children had visited the university in behalf of the drama, and Edwards himself had been both a scholar and a probationary fellow there. Certainly his famous <i>Damon and Pythias</i> shows some evidences of the influence of Seneca.It is well known also that the most successful writers for the public stage in the years just preceding Shakespeare's advent, the years that determined the forms and the methods of the popular drama, were educated at the universities, and, however clearly they may have recognized the necessity of supplying to the populace story, action, the raw material of life and philosophy, cherished as an ideal the Senecan interest in situation, the Senecan love for broad description, for introspection and reflection, for elaborate monologue, and catchy sententiousness. Such were Greene and Peele and Marlowe; and Thomas Kyd, author of that most popular of plays, <i>The Spanish Tragedy</i>, and probable author of the version of <i>Hamlet</i> which held the stage for fourteen years before Shakespeare revised it and gave it a new and a different life, though not bred in either university, was more zealous about his Latin and apparently more influenced by Seneca than the university men themselves.
+
+But, says some modern classical scholar, granting that these early dramatists were university men or men, like Kyd and Shakespeare, not trained in the universities but all the more zealous to match their productions with those which bore the official mark of classical scholarship, why should Seneca, a second-rate Roman tragedian, be continually cited in connection with classical influence instead of Aeschylus and Sophocles and Euripides, the supreme masters of ancient tragedy, and Aristotle, the unique expositor of the theory of the drama? The men of the Renaissance would have had a ready answer.In the first place, they knew very little about the Greek tragedians, or, for that matter, about Greek literature in general; for although the rediscovery of Greek literature was undoubtedly one of the events of that remarkable spurt of the human intellect and spirit which we call the Renaissance, Greek literature and life were, after all, in every country of Europe, far less important than Latin, as models for imitation, as sources of inspiration, as objects which engaged the attention of the moderns and set the pace which they tried to follow. As for tragedy, a few scholars in Italy and France and Germany and England knew Sophocles and Euripides--Aeschylus was almost unknown--but the theory and the practice of tragedy among the classicists were based almost exclusively upon the example of Seneca and the precepts of Horace. Aristotle is, indeed, often cited as the ultimate authority, but, although the voice may be the voice of Aristotle, the opinions are usually those of Scaliger or Minturno or Robortelli or Castelvetro, opinions which reduced to inviolable laws what Aristotle had merely stated as observed practices, and which supplemented these rules by others drawn from the plays of Seneca, who was, according to these critics, the most majestic, the most tragic, the most perfect of the ancient tragedians. That Seneca's majesty seems to critics of today bombast, that his triumph in tragic quality consists in an accumulation of horrors and a consistently unfortunate ending, that his perfection of form is no more than a formal schematism, clear because it is simple and lifeless--all this may be true but is beside the mark. To the best spirits of the Renaissance, whether critical or creative, the ten tragedies which bore the name of Seneca presented the ideal of tragic art toward which modern writers should strive if they would be perfect.What, then, was the influence of Seneca in England? Two excellent studies of different phases of it have been published, both, unfortunately, less known than they should be.
+
+The purely formal influence, the influence upon dramatic technique and upon composition in the large sense of the term, is the subject of Rudolf Fischer's <i>Die Kunstentwicklung der englischen Tragödie</i>, perhaps the most ingenious and adequate scheme ever devised for the analysis of the technical and compositional features of any form of art. Fischer sees in the history of English tragedy before Shakespeare a steady approximation to the Senecan type. His argument is open to several objections. In the first place, he treats as if they belonged to the same simple line of development plays written for the public stage and the popular taste and those written for special audiences dominated by scholastic ideals. In the second place, as Professor Luick has pointed out, he has disregarded the influence exercised by the original form of the story dramatized upon the dramatic presentation of it. And, furthermore, he, in common with other students of the subject, has proceeded upon the assumption that only tragedy could have had any influence upon tragedy. He has neglected that remark of Ben Jonson's, which phrases the view not of his own time only but of all ages, "The parts of a comedy are the same with a tragedy," and has failed to see that for the structure of English tragedy, Roman comedy and the serious imitations of it by the men of the Renaissance--such as Gnapheus' <i>Acolastus</i>, Macropedius' <i>Asotus</i> and <i>Rebelles</i>, and their anonymous English offspring, <i>The Nice Wanton</i>--are no less important than the example of Seneca himself. But his book is interesting and enlightening as few books on any subject are.Entirely different problems are dealt with in J.W. Cunliffe's little volume on <i>The Influence of Seneca on Elizabethan Tragedy</i>, a book which, to the regret of many scholars, has long been out of print, and which the author ought to reprint with such additions as his continued study of the subject may suggest. Mr. Cunliffe is mainly concerned with showing why Seneca appealed to the Elizabethans and with pointing out certain details of theme, of situation, of theatrical effects, and of expression, which the popular playwrights owed to Seneca.
+
+To Seneca and the false Aristotle created by the humanists from the <i>Poetics</i>, the precepts of Horace, the definitions and maxims which sifted down through the encyclopaedists of the Middle Ages, and the example of Seneca, not only the men of the Renaissance but even we of today owe some of our most cherished ideas concerning tragedy. First of all, perhaps, is the belief that tragedy must end unhappily. The Greeks--whether creators or critics--had no such theory. It was enough for Sophocles and Aristotle that tragedy should be serious in theme and dignified in characters and in language. In the second place, we ordinarily believe that a tragedy should have five acts, and many of us can draw a diagram to prove it. Shakespeare and his fellows seem to have been dominated by the same theory, difficult as they sometimes found it to observe. The sacred unities, dominant so long in Italian and French tragedy, though never observed in any English play more notable than Addison's <i>Cato</i>, we have learned to disregard and even to decry, though such an attitude in the Elizabethan age awakened the censure of Philip Sidney and doubtless required some hardihood or even recklessness.The chorus also we have long since abandoned, but Greene and Peele and Kyd and Marlowe and Shakespeare and others of their time used it more than once and with good effect. They even, in some instances, combined with it the ghosts and infernal spirits, which beyond a doubt they owed to Seneca, and made this unearthly chorus, not only the commentator, but in some sense the subtle director of the action. Perhaps the most refined form of this is to be seen in the Ghost in <i>Hamlet</i>, who, though he does not appear technically as Chorus, yet recalls by his original incitement of the action and his later intervention to renew and direct it, as well as by his language and his attitude, the ghosts of Tantalus, Thyestes, Laius, and Agrippina in Seneca, and the spirits of Andrea and Revenge in <i>The Spanish Tragedy</i>. It is perhaps not going too far to find in the dream-setting of Hauptmann's <i>Elga</i> some reminiscence of Shakespeare's <i>Taming of the Shrew</i> and Greene's <i>James IV</i>, and consequently, in a remote sense, of Seneca's introductory figures, Tantalus, Thyestes, and the rest.
+
+But these matters and the striking resemblances in situation and in utterance cited so abundantly by Cunliffe and by Munroe (<i>Journal of Philology</i>, Vol. VI, pp. 70-79), though they could be increased by many passages in <i>Macbeth</i> and <i>King Lear</i> as well as in the plays of other dramatists than Shakespeare, are after all not fundamental. Some other features that seem fundamental may be noted.In the first place, although it is doubtless true that the scanty scenery of the Elizabethan stage is largely the excuse and the reason for the long descriptive passages with which the dramatists of that time delighted themselves and delight us, their modern readers, this is perhaps not the whole of the story. There are passages of exposition, of reflection, of pure declamation, equally long as well as equally beautiful. The Renaissance love of talk, of fine language, of <i>eloquentia</i>, may explain this in part; but it is doubtless due in part also to the example of Seneca, who never loses an opportunity for a long passage of description or introspection or reflection or mere declamation--making them indeed for the Chorus when the situation does not allow them to the ordinary <i>dramatis personae</i>.
+
+Then we may note that the thoroughly melodramatic character of Elizabethan tragedy is a natural inheritance from Seneca. Greek tragedy had, to be sure, many melodramatic situations, along with others of a milder type. But the religious element in the tragedy of Aeschylus and Sophocles radically modifies the character and tone of the most poignant and repulsive themes and situations. When Seneca took the most difficult of Greek themes and, following the lead of Euripides, cast away the over-ruling, compulsive dominance of the Greek theocracy, he produced melodrama. Most moderns have been either content to follow him or compelled to do so for lack of the ability to create striking situations without the aid of villains of melodramatic criminality. A few of the French tragedians have had recourse to the method of the Greeks either by reviving the Greek mythology and theocracy or by resorting to Hebrew history for characters whose deeds, however criminal, were necessary parts of a divine plan.Shakespeare, almost alone, has at his best succeeded in substituting for the gods and fate the inevitable results of human character and the moral law, in presenting the worst deeds of his leading figures as less the results of free intention than of futile efforts to deliver themselves from the web of circumstance which their first crimes or follies have woven about them--the whole career of Macbeth, for example, being the necessary outcome of his attempt to get free of the difficulties and dangers brought upon him by the murder of Duncan.
+
+Speculation as to what the English drama might have been if Sophocles instead of Seneca had been its inspiration and its model is idle. The men of the Renaissance did not understand Sophocles; his stage, the mode of production of his plays, his aim, the whole nature of his art, were beyond the scholarship of their day. And it is doubtful whether they could in any event have made so successful a combination of the Greek and the national or mediaeval drama as they made of Senecan tragedy and the dramatic forms they already possessed.
+
+In one thing, at any rate, the English drama was especially fortunate, that is, in the fact that its form and its content were so largely determined by two such remarkable men as Marlowe and Shakespeare. The conditions in France in the sixteenth century were strikingly similar to those in England, except for the number of public theaters. M. Petit de Julleville points out that France as well as England possessed every item of the motley list of dramatic types enumerated by Polonius; and he continues: "Rien n'empêchait alors qu'un Shakespeare naquit en France; les circonstances n'étaient-elles pas merveilleusement favorables? Mais, en dépit de certaines théories, les grands hommes ne paraissent pas tout juste au moment où ils sont nécessaires.Il nous fallait un Shakespeare; il naquit un Alexandre Hardy!"
+
+OEDIPUS
+
+OEDIPUS
+
+DRAMATIS PERSONAE
+
+OEDIPUS King of Thebes; the son, as he supposed, of Polybus, king of Corinth, and Merope, his wife, but found to be the son of Laius and Jocasta.
+
+<i>Jocasta</i> Wife and, as the play develops, found to be also the mother of Oedipus.
+
+<i>Creon</i> Theban prince, brother of Jocasta.
+
+<i>Tiresias</i> A celebrated prophet of Thebes, now old and blind.
+
+<i>Manto</i> His daughter.
+
+<i>Old Man</i> Sent from Corinth to announce to Oedipus the death of Polybus.
+
+<i>Phorbas</i> Head-shepherd of the royal flocks of Thebes.
+
+<i>Messenger</i> Who announces the self-inflicted blindness of Oedipus and the suicide of Jocasta.<i>Chorus</i> Of Theban elders.
+
+THE SCENE is laid before the royal palace of Thebes; the play opens in the early morning of the day within which the tragedy is consummated.
+
+<i>An oracle once came to Laius, king of Thebes, that he should perish by his own son's hands. When, therefore, a son was born to him, he gave the infant to his chief of shepherds to expose on Mount Cithaeron. But the tenderhearted rustic gave the babe instead to a wandering herdsman of Polybus, the king of Corinth.</i>
+
+_Years later, a reputed son of Polybus, Oedipus by name, fearing an oracle which doomed him to slay his father and wed his mother, fled from Corinth, that so he might escape this dreadful fate. As he fared northward, he met and slew an old man who imperiously disputed the narrow way with him. Upon arriving at the Theban land, he read the riddle of the Sphinx, and so destroyed that monster which Juno had sent to harass the land which she hated; and for this service, Oedipus was made the husband of Jocasta, the widowed queen of Laius (who had recently been slain upon the road), and set upon the vacant throne._
+
+<i>Now other years have passed, and sons and daughters have been born to the royal pair. But now a dreadful pestilence afflicts the state. Oedipus has sent Creon to consult the oracle, to learn the cause and seek the means of deliverance from the scourge. And while he waits his messenger's return, the murky dawn still finds him grieving for his kingdom's wretched plight.</i><b>ACT I</b>
+
+<i>Oedipus</i>: Now night has fled; and with a wavering gleam
+Returns the sun; all wrapped in murky clouds
+His beams arise, and with their baleful light
+Shall soon look forth upon our stricken homes,
+And day reveal the havoc of the night. 5
+Oh, who in all this realm is glad? O fate,
+That seemest good, how many ills lie hid
+Behind thy smiling face! As lofty peaks
+Most feel the winds' abuse; and as the cliff,
+That with its rocky front divides the deep,
+The waves of e'en a quiet sea assail; 10
+So is the loftiest power the most exposed
+To hostile fate's assaults.
+        'Twas well conceived
+That I should flee the kingdom of my sire,
+Old Polybus, and from my fears be freed,
+A homeless exile, dauntless, wandering.
+Be heaven and all the gods my witnesses,
+I chanced upon this realm. Yet even now
+The dreadful fear remains that by my hand 15
+My sire shall die. Thus spoke the Delphic god.
+And still another, greater sin he showed.
+And can there be a blacker crime than this,
+A father slain? Oh, cursed impiety!'Twere shame to tell the hideous oracle:
+For Phoebus warned me of my father's couch, 20
+And impious wedlock. 'Twas the fear of this
+That drove me headlong from my father's realm,
+And for no sin I left my native land.
+All self-distrustful did I well secure
+Thy sacred laws, O mother Nature; still, 25
+When in the heart a mighty dread abides,
+Though well assured it cannot be fulfilled,
+The fear remains. I fear exceedingly,
+Nor can I trust myself unto myself.
+And even now the fates are aimed at me.
+For what am I to think, when this fell pest,
+Although it lays its blighting hand on all, 30
+Spares me alone? For what new horror now
+Am I reserved? Amidst my city's woes,
+'Mid funeral pyres that ever must be wet
+With tears of grief afresh, 'mid heaps of slain,
+I stand unscathed. And couldst thou hope that thou,
+A culprit at the bar of God, shouldst gain 35
+For guilt a wholesome kingdom in return?
+Nay, rather, I myself infect the air.
+For now no breeze with its soft breath relieves
+Our spirits suffocating with the heat;
+No gentle zephyrs breathe upon the land;But Titan with the dog-star's scorching fires
+Doth parch us, pressing hard upon the back 40
+Of Nemea's lion. From their wonted streams
+The waters all have fled, and from the herbs
+Their accustomed green. Now Dirce's fount is dry;
+While to a trickling rill Ismenus' flood
+Hath shrunk, and barely laves the naked sands.
+Athwart the sky doth Phoebus' sister glide
+With paling light, and, 'mid the lowering clouds, 45
+The darkling heavens fade. No starlight gleams
+Amid the gloomy silence of the night,
+But heavy mists brood low upon the earth;
+And those bright mansions of the heavenly gods
+Are sicklied over with the hues of hell.
+The full-grown harvest doth withhold its fruit;
+And, though the yellow fields stand thick with corn, 50
+Upon the stalk the shriveled grain is dead.
+No class is free from this destructive plague,
+But every age and sex falls equally;
+Where youth with age, and sire with son are joined,
+And wife and husband are together burned. 55
+Now funerals claim no more their wonted grief;
+The magnitude of woe hath dried our eyes;
+And tears, the last resource of woeful hearts,
+Have perished utterly. The stricken sireHere bears his son unto the funeral flames; 60
+And there the mother lays her dead child down,
+And hastes to bring another to the pyre.
+Nay, in the midst of grief a new woe springs;
+For, while they minister unto the dead,
+Themselves need funeral rites. Anon they burn
+With others' fires the bodies of their friends.
+The fire is stol'n, for in their wretchedness 65
+No shame remains. No separate tombs receive
+The hallowed bones; mere burning is enough.
+How small a covering their ashes need!
+And yet the land does not suffice for all;
+And now the very woods have failed the pyre.
+Nor prayers nor skill avail to serve the sick,
+For even they who own the healing art
+Are smitten down. The baleful pestilence
+Removes the check that would restrain its force. 70
+    So, prostrate at the altar, do I fall
+And, stretching suppliant hands, I pray the gods
+To grant a speedy end; that in my death
+I may anticipate my falling throne,
+Nor be myself the last of all to die,
+The sole surviving remnant of my realm.
+O gods of heaven, too hard! O heavy fate! 75
+Is death to be denied to me alone,So easy for all else? Come, fly the land
+Thy baleful touch has tainted. Leave thou here
+The grief, the death, the pestilential air,
+Which with thyself thou bring'st. Go speed thy flight
+To any land, e'en to thy parents' realm. 80
+
+<i>Jocasta</i>
+[<i>who has entered in time to hear her husband's last words</i>]: What
+boots it, husband, to augment thy woes
+With lamentations? For I think, indeed,
+This very thing is regal, to endure
+Adversity, and all the more to stand,
+With heart more valiant and with foot more sure,
+When the weight of empire totters to its fall. 85
+For 'tis not manly to present thy back
+To fortunes's darts.
+
+<i>Oedipus</i>: Not mine the guilt of fear;
+My valor feels no such ignoble throes.
+Should swords be drawn against me, should the power,
+The dreadful power of Mars upon me rush, 90
+Against the very giants would I stand.
+The Sphinx I fled not when she wove her words
+In mystic measures, but I bore to look
+Upon the bloody jaws of that fell bard,
+And on the ground, all white with scattered bones.But when, from a lofty cliff, with threatening mien, 95
+The baleful creature poised her wings to strike,
+And, like a savage lion, lashed her tail,[1]
+In act to spring; still did I dare my fate
+And ask her riddle. Then with horrid sound
+Of deadly jaws together crashed, she spake;
+The while her claws, impatient of delay,
+And eager for my vitals, rent the rock. 100
+But the close-wrought words of fate with guile entwined,
+And that dark riddle of the wingéd beast
+Did I resolve.
+
+<i>Jocasta</i>: What meant'st then thou by these
+Thy maddened prayers for death? Thou mightst have died.
+But no; the very scepter in thy hand
+Is thy reward for that fell Sphinx destroyed. 105
+
+<i>Oedipus</i>: Yea that, the artful monster's cruel shade,
+Doth war against me still. Now she alone,
+In vengeance for her death, is wasting Thebes.
+But now, one only way of safety still is left,
+If Phoebus show us not of safety all bereft.
+
+* * * * *
+
+[<i>Enter the</i> Chorus of Theban elders, <i>deploring the violence of the plague.</i>]<i>Chorus</i>: How art thou fall'n, O glorious stock 110
+  Of Cadmus, thou and Thebes in one!
+  How dost thou see, poor ruined Thebes,
+  Thy lands laid waste and tenantless.
+  And thou, O Theban Bacchus, hear:
+  That hardy soldiery of thine,
+  Thy comrades to the farthest Ind,
+  Who dared invade the Eastern plains, 115
+  And plant thy banners at the gates of dawn--
+  Behold, destruction feeds on them.
+  They saw the blessed Arabes,
+  'Mid spicy groves; and the fleeing steeds
+  Of the Parthian, deadliest when he flees;
+  They trod the marge of the ruddy sea, 120
+  Where Phoebus his rising beams displays,
+  And the day reveals; where his nearer fires
+  Darken the naked Indians.
+  Yea we, that race invincible,
+  Beneath the hand of greedy fate 125
+  Are falling fast.
+  The gloomy retinue of death
+  In march unceasing hurries on;
+  The grieving line unending hastes
+  To the place of death. Space fails the throng.
+  For, though seven gates stand open wide, 130  Still for the crowding funerals
+  'Tis not enough; for everywhere
+  Is carnage seen, and death treads hard
+  Upon the heels of death.
+  The sluggish ewes first felt the blight,
+  For the woolly flock the rich grass cropped
+  To its own doom. At the victim's neck 135
+  The priest stood still, in act to strike;
+  But while his hand still poised the blow,
+  Behold, the bull, with gilded horns,
+  Fell heavily; whereat his neck,
+  Beneath the shock of his huge weight,
+  Was broken and asunder yawned.
+  No blood the sacred weapon stained, 140
+  But from the wound dark gore oozed forth.
+  The steed a sudden languor feels,
+  And stumbles in his circling course,
+  While from his downward-sinking side
+  His rider falls.
+  The abandoned flocks lie in the fields; 145
+  The bull amid his dying herd
+  Is pining; and the shepherd fails
+  His scanty flock, for he himself
+  'Mid his wasting kine is perishing.
+  The stag no more fears the ravenous wolf;  No longer the lion's roar is heard; 150
+  The shaggy bear has lost her rage,
+  And the lurking serpent his deadly sting;
+  For parched and dying now he lies,
+  With venom dried.
+  No more do the woods, with leafage crowned,
+  Spread out their shade in the mountain glens; 155
+  No more are fields with verdure clad;
+  No vines bend low with laden arms;
+  For the very earth has felt the breath
+  Of our dire pestilence.
+  Through the riven bars of Erebus, 160
+  With torches lit in Tartara,
+  The raging band of the Furies troop;
+  Dark Phlegethon has changed his course,
+  And forced the waters of the Styx
+  To mingle with our Theban streams.
+  Grim Death opes wide his greedy jaws, 165
+  And all his baleful wings outspreads.
+  And he who plies that swollen stream
+  In his roomy skiff, though his age is fresh
+  And hardy, scarce can raise his arms,
+  O'erwearied with his constant toil
+  And the passage of the endless throng. 170
+  'Tis even rumored that the dog  Hath burst the chains of Taenara,
+  And through our fields is wandering.
+  Now dreadful prodigies appear:
+  The earth gives out a rumbling sound,
+  And ghosts go stealing through the groves,
+  Larger than mortal forms; and twice 175
+  The trees of our Cadmean woods
+  Have trembled sore and shed their snows;
+  Twice Dirce flowed with streams of blood;
+  And in the stilly night we heard
+  The baying of Amphion's hounds.
+  Oh, cruel, strange new form of death, 180
+  And worse than death! The sluggish limbs
+  Are with a weary languor seized;
+  The sickly cheek with fever burns,
+  And all the head with loathsome sores
+  Is blotched. Now heated vapors rise
+  And scorch with fever's flames the brain
+  Within the body's citadel,
+  And the throbbing temples swell with blood. 185
+  The eyeballs start; the accurséd fire
+  Devours the limbs; the ears resound,
+  And from the nostrils dark blood drips
+  And strains apart the swelling veins. 190
+  Now quick convulsions rend and tear  The inmost vitals.
+  Now to their burning hearts they strain
+  Cold stones to soothe their agony;
+  And they, whom laxer care permits,
+  Since they who should control are dead,
+  The fountains seek, and feed their thirst 195
+  With copious draughts. The smitten throng
+  All prostrate at the altars lie
+  And pray for death; and this alone
+  The gods, compliant, grant to them.
+  Men seek the sacred fanes, and pray,
+  Not that the gods may be appeased,
+  But glutted with their feast of death. 200
+        [Creon <i>is seen approaching</i>.]
+But who with hasty step the palace seeks?
+Is this our Creon, high in birth and deed,
+Or does my sickened soul see false for true?
+'Tis Creon's self, in answer to our prayer. 205
+
+FOOTNOTES:
+
+[1] Reading, <i>caudam</i>.<b>ACT II</b>
+
+[<i>Enter</i> Creon.]
+
+<i>Oedipus</i>: I quake with horror, and I fear to know
+The tendency of fate. My trembling soul
+Strives 'neath a double load; for joy and grief
+Lie mingled still in dark obscurity.
+I shrink from knowing what I long to know.
+Wherefore, O brother of my consort, speak; 210
+And if to weary hearts thou bring'st relief,
+With quickened utterance thy news proclaim.
+
+<i>Creon</i>: In dark obscurity the answer lies.
+
+<i>Oedipus</i>: Who gives me doubtful succor grants me none.
+
+<i>Creon</i>: It is the custom of the Delphic god
+In dark enigmas to conceal the fates. 215
+
+<i>Oedipus</i>: Yet speak; however dark the riddle be
+'Tis given to Oedipus alone to solve.
+
+<i>Creon</i>: Apollo doth ordain that banishment
+Be meted out to him who slew our king,
+And so our murdered Laius be avenged;For only thus shall we again behold
+The day's clear light, and drink safe draughts of air. 220
+
+<i>Oedipus</i>: Who was the slayer of the noble king?
+Tell who is designated by the god,
+That he th' allotted punishment may pay.
+
+<i>Creon</i>: May it be granted me to tell the things
+  To sight and hearing dreadful. At the thought,
+  Numb horror holds my limbs, my blood runs cold.
+  When to Apollo's hallowed shrine I came 225
+  With reverent feet, and pious hands upraised,
+  Parnassus' double-crested, snowy peak
+  Gave forth a fearful crash, the laurels shook,
+  And fair Castalia's waters ceased to flow.
+  The priestess of the son of Lato then 230
+  Began to spread her bristling locks abroad,
+  And felt the inspiration of the god.
+  Scarce had she reached the sacred inner shrine,
+  When with a roar, beyond the voice of man,
+  There sounded forth this doubtful oracle:
+"Kind shall the stars return to the Theban city of Cadmus,
+If, O fugitive guest, Ismenian Dirce thou leavest,
+Stained with the blood of a king, from infancy known to Apollo. 235
+Brief shall be thy joys, the impious joys of slaughter.
+With thee war thou bringest, and war to thy children thou leavest,Foul returned once more to the impious arms of thy mother."
+
+<i>Oedipus</i>: What I at heaven's command now meditate,
+Long since should have been rendered to the king, 240
+That none by craft might violate the throne.
+And most doth it become a sceptered king
+To guard the life of kings; for none lament
+The death of him whose safety breedeth fear.
+
+<i>Creon</i>: Our care for him a greater fear removed.
+
+<i>Oedipus</i>: What fear so great that duty to prevent? 245
+
+<i>Creon</i>: The Sphinx and her accurséd riddle's threats.
+
+<i>Oedipus</i>: Then now at heaven's command shall be atoned
+That impious deed.
+        Whoever of the gods
+Dost look with kindly eye upon our realm;
+And thou, whose hand doth guide the rolling sphere;
+And thou, O glory of the smiling sky, 250
+Who in thy wandering course dost rule the stars,
+And with thy flying wheels dost measure out
+The slow procession of the centuries;
+Thou sister of the sun, night-wanderer,
+Who ever dost reflect thy brother's fires;And thou, great ruler of the boisterous winds,
+Who o'er the level deep dost drive thy car; 255
+And thou, who dost allot the sunless homes:
+May he, by whose right hand king Laius fell,
+No peaceful home, no trusty lares find;
+And may no land in hospitality
+Receive his cheerless, exiled wanderings.
+O'er shameful marriage may he live to grieve, 260
+And monstrous progeny. May he his sire
+By his own hand destroy; and may he do
+(What doom more dreadful can I imprecate?)
+The deed which by my flight I did not do.
+No room for pardon shall be given him;
+By this my regal scepter do I swear,
+Both by the sway which I as stranger hold,
+And that I left behind; by my household gods, 265
+And thee, O Neptune, who with shorter waves
+And twofold current dost disport thyself
+Upon my native Corinth's double shores.
+And thou thyself be witness to my words,
+Who dost inspire the fate-revealing lips
+Of Cirrha's priestess: so may Polybus, 270
+My royal father, spend a quiet age,
+And end his days in peace upon the throne;
+And so may Merope, my mother, knowThe marriage of her Polybus alone,
+As from my grasp no favoring power shall snatch
+That guilty one, who basely slew the king.
+But tell me, where was that foul murder done?
+In open fight, or was he basely snared? 275
+
+<i>Creon</i>: In quest of cool Castalia's sacred fount
+And leafy woods, along the way he fared,
+On either side with tangled thickets hedged.
+'Twas where the road, three-forked, spreads to the plain.
+One leads through Phocian land, to Bacchus dear,
+Where high Parnassus, by a gentle slope 280
+The lowlands leaving, lifts his double peak
+Into the heavens; and one leads off to where
+Two oceans bathe the land of Sisyphus;
+A third path, passing through Olenian fields,
+Along a hollow valley's winding way,
+Attains the vagrant waters and divides
+The chilling current of the Elean stream. 285
+'Twas here he journeyed, safe 'mid general peace,
+When on a sudden, lo, a robber band
+Fell on him with the sword and slew him there.
+        [Tiresias <i>is seen approaching</i>.]
+But in the nick of time, by Phoebus roused,
+Tiresias, agéd and with trembling limbs,
+Hastes to our presence with what speed he may;And, as his faithful comrade, Manto comes, 290
+Her sightless father leading by the hand.
+
+[<i>Enter</i> Tiresias, <i>led by his daughter</i> Manto.]
+
+<i>Oedipus</i>: O priest of heaven, thou next to Phoebus' self, Explain the oracle which he hath sent, And tell on whom the penalty is laid.
+
+<i>Tiresias</i>: Because my tongue is slow and seeks delay,
+Thou shouldst not wonder, great-souled Oedipus;
+Much truth is hidden when the eye is dimmed. 295
+But when my country, when Apollo calls,
+I will obey. Then let me search the fates.
+If in my veins still flowed the blood of youth,
+I would myself sustain the god and speak.
+Now to the altar drive a pure-white bull,
+A heifer, too, upon whose tender neck 300
+The curvéd yoke of toil hath never pressed.
+And thou, my child, who guid'st my darkened steps,
+Describe the omens which Apollo sends.
+
+[<i>The victims are stationed before the altar as directed.</i>]
+
+<i>Manto</i>: A perfect victim at the altar stands.<i>Tiresias</i>: With prayer invoke the presence of the gods, And heap the altar high with frankincense. 305
+
+<i>Manto</i>: Lo, on the sacred fire the spice is heaped.
+
+<i>Tiresias</i>: What of the flame? Did it with vigor seize The generous feast?
+
+<i>Manto</i>: With sudden gleam it leaped
+Into the air, and quickly fell again.
+
+<i>Tiresias</i>: And did the sacred fire burn bright and clear, And point its gleaming summit straight to heaven, 310 And, spreading outward, to the breeze unfold; Or crawl, with course uncertain, near the ground, And, flickering, die away in gloomy smoke?
+
+<i>Manto</i>: Not one appearance only had the flame.
+As when the tempest-bringing Iris spreads
+Her varying colors on the vault of heaven, 315
+And with her painted bow adorns the sky;
+So to the sacred fire thou wouldst not tell
+What hue is wanting there and what prevails.
+Dark blue it flickered first, with yellow spots;
+Then bloody red, and then it vanished quite. 320
+But see! the flame is rent in rival parts,
+And the glowing embers of one sacred pile
+Are cleft in double heaps and fall apart!O father, horror fills me as I gaze;
+For, as I pour the sacred liquid forth,
+It changes straight to blood--Oh, horrible! 325
+And stifling smoke surrounds the royal head.
+And now in denser gloom it settles down
+Upon his face, and, with its veiling cloud,
+It shuts away from him the fading light.
+Oh, speak, and tell us what it doth portend.
+
+<i>Tiresias</i>: How can I speak, who halting stand amazed
+Amid conflicting voices of the soul?
+What shall I say? Dire ills are here, indeed,
+But hidden yet in deepest mystery. 330
+With signs well known the wrath of heaven is wont
+To be made manifest: but what is that
+Which now they would disclose, and then, again,
+With changing and destructive purpose hide?
+Some deed so vile, it shameth heaven to tell.
+But quickly set the chosen victims here,
+And sprinkle salted meal upon their heads. 335
+With peaceful face do they endure the rites,
+And hands outstretched to smite?
+
+<i>Manto</i>: His lofty head
+The bull uplifted to the eastern sky,
+Then shunned the light of day, and quickly turnedIn terror from the newly risen sun.
+
+<i>Tiresias</i>: With one blow, smitten, do they fall to earth? 340
+
+<i>Manto</i>: The heifer threw herself upon the steel,
+And with one blow has fallen; but the bull,
+Though smitten by a double deadly blow,
+Distracted wanders here and there in pain,
+And scarce can force his struggling life away.
+
+<i>Tiresias</i>: Driven through a narrow opening spurts the blood, 345 Or, sluggish, does it water deeper wounds?
+
+<i>Manto</i>: The blood of one, through that same welcome thrust,
+Doth flow in generous streams; but of the bull,
+Those yawning wounds are stained with scanty drops,
+While, turning backward, through his eyes and mouth
+The plenteous current flows. 350
+
+<i>Tiresias</i>: These unblest rites
+Some dreadful ills portend. But come, describe
+The trusty markings of the viscera.
+
+<i>Manto</i>: Oh, what is this? For not, as is their wont,
+With gentle motion do the entrails quake,
+But, rather, strongly throb beneath the touch,While from the veins the blood leaps forth anew. 355
+The sickly heart is shriveled up and lies
+Deep hidden in the breast; the veins appear
+Of livid hue. The entrails suffer lack;
+And from the wasting liver oozes slow
+A stream of black corruption. Nay, behold
+(A sign of dark foreboding to a king
+Who holdeth single sway), two swelling points
+Of equal elevation rise to view; 360
+But both are lopped and covered with a veil.
+Refusing lurking-place to things unseen,
+The hostile side uprears itself with strength
+And shows seven swelling veins; but these, again,
+An intersecting line cuts straight across,
+Preventing their return. The natural law 365
+And order of the parts has been reversed,
+And nothing lies within its proper place.
+All on the right the blood-filled lungs appear,
+Incapable of air; the heart no more
+Is found upon the left, its 'customed place.
+The fatty walls, with their soft covering,
+No longer richly fold the entrails in. 370
+The ways of nature are in all things changed;
+The womb itself is most unnatural.
+Look close, and see what impious thing is this:Oh, monstrous! 'tis the unborn progeny
+Of a heifer still unmated! stranger still,
+It lies not in the wonted place, assigned
+By nature's laws, but fills its mother's side. 375
+It moves its members with a feeble groan;
+Its unformed limbs with trembling rigors twitch.
+Black blood has stained the darkened entrails all;
+The mangled bodies strive e'en yet to move,
+Make show to rise, and menace with their horns
+The priestly hands. The entrails shun the touch. 380
+Nor is that lowing which has frightened thee
+The deep-voiced roar of bulls, nor do the calls
+Of frightened cattle sound upon our ears:
+It is the lowing of the altar fires,
+It is the frightened muttering of the shrine!
+
+<i>Oedipus</i>: What meaning have these monstrous signs? Declare; And with no timid ears will I attend. 385 For he who has the dregs of fortune drained Fears nothing more.
+
+<i>Tiresias</i>: The time will come to thee,
+When these thy ills, for which thou seekest aid,
+Will blessings seem.
+
+<i>Oedipus</i>: But tell me then, I pray,
+The one thing which the gods would have me know:Whose hands are stained with murder of the king?
+
+<i>Tiresias</i>: Neither the birds can summon up the name, 390
+Who cleave the depths of heaven on fleeting wing,
+Nor yet the vitals plucked from living breasts.
+But we must seek it in another way:
+The murdered king himself must be recalled
+From realms of everlasting night, that thus,
+Released from Erebus, he may declare
+His murderer. The earth must be unsealed; 395
+The pitiless divinity of Dis
+Must be implored, and hither brought the shades
+Who live beyond the Styx.
+        Now do thou tell
+To whom thou giv'st the sacred embassy;
+For 'tis not right for thee who hold'st the reins
+Of government to seek the gloomy shades.
+
+<i>Oedipus</i>: O Creon, thee this task demands, to whom, As next in power, my kingdom looks for aid. 400
+
+<i>Tiresias</i>: And while we loose the bars of deepest hell, Do ye the praises of our Bacchus tell.
+
+[<i>Exeunt</i> Creon, Tiresias, <i>and</i> Manto.]<i>The Chorus</i> [<i>in dithyrambic strain sings in praise of</i> Bacchus]:
+  Bind ye now your flowing locks with the swaying ivy,
+Brandish aloft with your languishing arms the Nysaean thyrsus!
+    O glorious light of heaven, attend the prayers 405
+    Which noble Thebes, thy Thebes, O beautiful Bacchus,
+    With suppliant hands outstretched here offers thee.
+        Turn hither thy smiling virgin face,
+      Dispel the clouds with thy starry glance, 410
+      The gloomy threats of Erebus,
+        And ravenous fate.
+    Thee it becomes to crown thy locks with flowers of the springtime,
+    Thee to bind thy head with the Tyrian fillet;
+    Or with the clinging ivy, gleaming with berries,
+        Softly to wreathe thy brow; 415
+    Now thy hair to unbind and spread in confusion,
+    Now in close-drawn knot to collect and confine it;
+    Just as when thou, fearing the wrath of Juno,
+    Didst conceal thyself in the guise of maidens.
+    Virgin, too, thou seemedst with golden ringlets, 420
+    Binding up thy robe with a saffron girdle.
+    So the softer graces of living please thee,
+    Robes ungirt and flowing in long profusion.
+    When in thy golden car thou wast drawn by lions,
+    Clad in flowing garments, the East beheld thee, 425
+    All the vast expanse of the Indian country,    They who drink the Ganges and cleave the surface
+        Of snowy Araxes.
+Seated on humble beast the old Silenus attends thee,
+Binding his throbbing brows with a waving garland of ivy; 430
+While the wanton priests lead on the mysterious revels.
+        And then a troop of Bassarids
+        With dancing step conducted thee,
+        Now ranging o'er Pangaeus' foot,
+        And now on Thracian Pindus' top. 435
+        Soon, 'mid the noble dames of Thebes,
+      A furious Maenad, the comrade of Bacchus,
+      In garment of fawn-skin, conducted the god.
+      The Theban dames, by Bacchus excited,
+      With streaming locks and thyrsus uplifted 440
+      In high-waving hands, now join in the revels,
+      And wild in their madness they rend Pentheus
+        Limb from limb.
+      Their fury spent, with weary frame,
+      They look upon their impious deed,
+        And know it not.
+  Into the sea realms holds, the foster-mother of Bacchus; 445
+  Round her the daughters of Nereus dance, Leucothoë singing;
+  Over the mighty deep, though new to its waves, Palaemon,
+  Brother of Bacchus, rules, a mortal changed to a sea-god.
+      When in childhood a band of robbers assailing      Bore thee away in their flying vessel a captive,
+      Nereus quickly calmed the billowy ocean; 450
+      When lo! to rolling meadows the dark sea changes;
+      Here stands in vernal green the flourishing plane-tree,
+      There the groves of laurel dear to Apollo;
+      While resounds the chatter of birds in the branches.
+      Now are the oars enwreathed with the living ivy,
+      While at the masthead hang the clustering grape vines; 455
+      There on the prow loud roars a lion of Ida,
+      At the stern appears a terrible tiger of Ganges.
+      Filled with terror the pirates leap in the ocean.
+      Straight in their plunging forms new changes appear; 460
+      For first their arms are seen to shrink and fall,
+      Their bodies' length to shorten; and on their sides
+      The hands appear as fins; with curving back
+      They skim the waves, and, lashing their crescent tails,
+        They dash through the water. 465
+Changed to a school of dolphins now, they follow the vessel.
+Soon did the Lydian stream with its precious waters receive thee,
+Pouring down its golden waves in a billowy current.
+Loosed was the vanquished bow and Scythian darts of the savage
+Massagetan who mingles blood in his milky goblets. 470
+The realm of Lycurgus, bearer of axes, submitted to Bacchus;
+      The land of the Dacians[2] untamable felt his dominion,
+      The wandering tribes of the north by Boreas smitten,      And whom the Maeotis bathes with its frozen waters. 475
+      Where the Arcadian star looks down from the zenith,
+      Even there the power of Bacchus extended;
+      Conquered too the scattered Gelonian peoples.
+      From the warlike maidens their arms he wrested;
+      Down to the earth they fell in desperate conflict, 480
+      The hardy bands of Amazonian maidens.
+      Now, at last, their arrows swift are abandoned,
+      And Maenads have they become.
+    Holy Cithaeron too has streamed with slaughter,
+    Where was spilt the noble blood of Ophion. 485
+    Proetus' daughters the forests sought; and Argos,
+    Juno at last consenting, paid homage to Bacchus.
+    The island of Naxos, girt by the broad Aegean,
+    Gave to Bacchus the maid whom Theseus abandoned,
+    Compensating her loss by a better husband. 490
+    Out of the rock there gushed Nyctelian liquor;
+    Babbling streams at his word clove the grassy meadows;
+    Deep the earth drank in the nectarean juices;
+    Streams of snowy milk burst forth from the fountains, 495
+    Mingled with Lesbian wine all fragrant with spices.
+    Now is the bride to her place in the heavens conducted;
+    Phoebus, with flowing locks, sings a stately anthem;
+    Love, in honor of both, bears the wedding torches; 500
+    Jove lays down the deadly darts of his lightning,    Halting his bolts of flame at the coming of Bacchus.
+While the gleaming stars in their boundless pasturage wander,
+While the sea shall gird th' imprisoned earth with its waters, 505
+While the full-orb'd moon shall gather her lost refulgence,
+While the morning star shall herald the coming of Phoebus,
+While in the north the Bear shall fear the cerulean ocean,
+Still shall we worship the shining face of the beautiful Bacchus.
+
+FOOTNOTES:
+
+[2] Reading, <i>te Dacûm</i>.<b>ACT III</b>
+
+[<i>Enter</i> Creon, <i>returned from the rites of necromancy</i>.]
+
+<i>Oedipus</i>: Although thy face displays the marks of grief, Declare whose death an angry heaven demands. 510
+
+<i>Creon</i>: Thou bid'st me speak where fear would silence keep.
+
+<i>Oedipus</i>: If Thebes, to ruin falling, move thee not, Regard the scepter of thy kindred house.
+
+<i>Creon</i>: Thou wilt repent the knowledge which thou seek'st.
+
+<i>Oedipus</i>: A useless cure for ills is ignorance. 515 And wilt thou still obstruct the public weal?
+
+<i>Creon</i>: Where foul the cure, 'tis grievous to be cured.
+
+<i>Oedipus</i>: Thy tidings speak; or, by thy pains subdued, Thou soon shalt know what angered kings can do.
+
+<i>Creon</i>: Kings hate the words whose speech they would compel. 520
+
+<i>Oedipus</i>: In hades shalt thou pay thy life for all, Unless thou tell the secrets of the fates.<i>Creon</i>: Nay, let me hold my peace. No smaller boon
+Was ever sought.
+
+<i>Oedipus</i>: More often than by speech,
+Have kingdoms by the boon of silence fall'n. 525
+
+<i>Creon</i>: When silence is denied what can be given?
+
+<i>Oedipus</i>: He sins who silence holds when speech is best.
+
+<i>Creon</i>: Then hear in peace the words which I must speak.
+
+<i>Oedipus</i>: Was ever punishment for speech compelled?
+
+<i>Creon</i>: Afar from Thebes there is a frowning grove 530
+Near the well-watered vale of Dirce's fount.
+And there a cypress lifts its giant head
+And holds within its evergreen embrace
+The trees around. Here stands an ancient oak
+And spreads its branches dark with clustering mould.
+One side is torn by time's destructive hand; 535
+The rest, with roots decayed and falling, hangs
+Supported on a neighbor's trunk. Here stand
+The bitter laurel, rustling linden trees,
+The myrtle, and the alder destined soon
+To sweep its oarage on the boundless sea.Midway, a mighty pine its smooth trunk lifts 540
+Against the rays of Phoebus and the winds,
+And with its heavy shade it overwhelms
+The lesser trees; for, with its spreading boughs,
+It stands, the giant guardian of the wood.
+Beneath this pine there springs a gloomy pool 545
+That never saw the sun nor light of day.
+An oozy swamp surrounds the sluggish pool.
+Here did the agéd priest direct his steps;
+Nor was there need to wait; the gloomy spot
+Supplied the shades of night. A trench is dug,
+Where brands are kindled, pluck'd from funeral pyres. 550
+The priest is shrouded in a mourning pall,
+And waves the bough; his dark robe sweeps the earth.
+And now, in squalid garb and wrapped in gloom,
+The priest advances, with his hoary locks 555
+Encircled by the yew-tree's deadly leaves.
+Black sheep and sable oxen, backward driven,[3]
+Are sacrificed. The fire devours the food,
+And the living entrails quiver in the flames.
+The shades he calls, and him who rules the shades,
+And him who guards the dark Lethaean stream. 560
+A magic rune he mutters o'er and o'er
+And fiercely chants the charm which either lures
+The shifting ghosts, or forces them to come.He burns the victims whole, and fills the trench
+With sacrificial blood, and snowy milk, 565
+And, with his left hand pouring, mingles wine;
+Again he chants, and, bending to the earth,
+With stronger words and frantic, summons up
+The manes. Loudly bayed the hounds of hell;
+And thrice the hollows gave a mournful sound; 570
+The whole earth trembled and the solid ground
+Was rent asunder. Then the priest exclaimed:
+"I have prevailed, for strong the words I spoke;
+The deep and gloomy realm of chaos yawns,
+And for the dwellers in the home of Dis
+A way is opened to the world of light."
+The whole wood shrank away; its leaves erect
+In horror stood, the mighty trunks were split, 575
+And all the grove was smitten with amaze.
+The frightened earth crouched back with hollow groans,
+As if unwillingly she saw the deeps
+Of Acheron assailed; or else herself,
+That back to life the dead might find a way,
+With crashing sound her close-wrought barriers burst; 580
+Or threefold Cerberus in angry rage
+Clanked loud his heavy chains. Then suddenly
+The earth yawned wide, and at our very feet
+A deep abyss appeared. I saw, myself,The sluggish pools amidst the dusky shades;
+I saw the shadowy gods, and that black gloom
+No earthly night can give. At that dread sight
+My blood ran cold and froze within my veins. 585
+And then there hurried forth a dreadful band,
+And stood in armed array, that viper brood,
+The troop of brothers sprung from dragon's teeth;
+And that fell pestilence, the curse of Thebes.
+Then grim Erinys raised her piercing cry,
+Blind Fury, Dread, and all the ghastly forms 590
+Which spawn and lurk within the endless shades:
+Grief, in her madness, tearing out her hair;
+Disease, scarce holding up her weary head;
+Age, burdened with itself, and brooding Fear.
+Our spirits died within us at the sight. 595
+Even the prophet's daughter stood amazed,
+Though well she knew her father's mystic arts.
+But he, undaunted, since he saw them not,
+Convoked the bloodless throng of gloomy Dis.
+Like clouds the shadowy forms come trooping up,
+And snuff the air of unrestricted heaven.
+Not lofty Eryx in his mountain glades 600
+As many falling leaves, nor Hybla's slopes
+As many flowers produce, in sunny spring,
+When greedy bees in teeming bunches swarm;As many waves break not upon the shore;
+As many birds deserting Strymon's streams,
+Exchange not wintry blasts and Arctic snows, 605
+And seek the milder valley of the Nile;
+As were the shades the prophet summoned forth.
+In eager haste the shivering spirits seek
+The hiding-places of the leafy grove.
+From out the cave, his right hand by the horns 610
+A raging bull restraining, Zethus came,
+And next Amphion, with that famous shell
+Whose magic strains insensate rocks allured.
+Here haughty Niobe, in safety now,
+Amongst her children lifts her head in scorn
+And proudly counts her shades. And worse than she, 615
+That mother, mad Agave, next appears,
+With all the impious band who rent the king.
+Then Pentheus' self, all torn and bleeding, comes,
+In rage pursuing those wild Bacchanals.
+At length, when often summoned, Laius comes
+In shame, and, skulking, flees the shadowy throng, 620
+And hides himself away; but still the seer,
+With unrelenting purpose pressing on,
+Repeats his strong compelling exorcisms,
+Until he brings the ghost to open view.
+I shudder as I tell it. There he stood,A fearful sight, his body drenched with blood,
+His matted locks o'erspread with horrid filth. 625
+And now, with raging tongue, the specter spoke:
+"O wild and savage house of Cadmus, thou
+Who ever dost rejoice in brother's blood!
+The thyrsus wave, in madness rend thy sons.
+The greatest crime of Thebes is mother's love.
+O fatherland, 'tis not the wrath of heaven, 630
+But sin of man by which thou art undone.
+No plague-fraught south wind with its deadly blast,
+Nor yet the parchéd earth with its dry breath,
+Is harming thee; but 'tis thy bloody king,
+Who, as the prize of savage murder done,
+Hath seized his father's scepter and his bed. 635
+An impious son (but far more impious,
+The mother who in most unhallowed womb
+Bore children once again), he forced his way
+Back to his source of life, and there begot
+Upon his mother offspring horrible,
+Got brothers to himself, a custom base,
+Whence e'en the very beasts of prey are free. 640
+Oh, base entanglement, more monstrous far
+Than that fell Sphinx which he himself hath slain.
+Thee, thee, who dost the bloody scepter hold,
+Thee will thy sire, still unavenged, pursue,With all thy town; and with me will I bring
+Th' attendant fury of my wedding night--
+I'll bring her with her loud-resounding[4] lash! 645
+Thy house, polluted, will I overthrow,
+And thy Penates will I trample down
+In fratricidal strife! Then quickly drive
+Thy king, O Thebes, from out thy boundaries!
+For when his baleful step shall leave the land,
+In vernal green shall it renew itself, 650
+The air shall give again pure springs of life,
+And to the woods their beauty shall return.
+Destruction, Pestilence and Death, Distress,
+Disease, Despair--his fitting company--
+Shall all depart with him. And he, indeed,
+Will seek with eager haste to flee his realm,
+But him will I hedge round with barriers, 655
+And hold him back. Uncertain of his way,
+And with his staff to guide his faltering steps,
+He'll creep along his sad and darkened path.
+Do ye the land deny him; I, his sire,
+Will take away from him the light of heaven."
+
+<i>Oedipus:</i> A chilling tremor penetrates my bones;
+The very thing which I have feared to do, 660
+They say that I have done it. But the charge
+That in unholy wedlock I am joined,My mother Merope refutes, for she
+To Polybus, my sire, is wedded still;
+And my hands from stain of father's blood are clean,
+Since Polybus in safety lives and reigns.
+Since both my parents free me from the guilt
+Of murder and that base, incestuous crime,
+What room is there for accusation more?
+And as for Laius, Thebes his death deplored 665
+Long 'ere I set my feet upon her soil.
+What shall we say then? Was the seer deceived,
+Or does the hand of God afflict the state?
+No! now we see these two confederates
+Deep in a crafty plot: that priest of thine
+With lying tongue pretends the will of heaven,
+And promises my sovereignty to thee. 670
+
+<i>Creon:</i> Would I expel my sister from the throne?
+But if that sacred fealty which I owe
+Unto my kindred house restrained me not,
+Yet fortune would herself affright me sore,
+For with care and danger is she ever fraught.
+But be thyself content to lay aside,
+While still thou safely mayst, the cares of state, 675
+Lest,[5] borne too long, they may o'erwhelm thee quite.
+In a humbler state more safely shalt thou dwell.<i>Oedipus:</i> And dost thou bid me, then, of mine own will To lay aside the heavy cares of state?
+
+<i>Creon:</i> Thus would I counsel those to whom the way Is open yet to choose the path he will. 680 But the lot that fortune sends thee thou must bear.
+
+<i>Oedipus:</i> When one desires to reign, 'tis ever thus,
+That humble life he praises, and the joys
+Of ease and sleep are ever in his mouth.
+A peaceful face oft hides a restless heart.
+
+<i>Creon:</i> Does my long loyalty defend me not? 685
+
+<i>Oedipus:</i> To traitors, loyalty's a cloak to crime.
+
+<i>Creon:</i> Free from the burdens of a kingly state,
+I still enjoy the fruits of royalty;
+My house is honored by our citizens;
+And day by day thy royal gifts o'erflow,
+And fill my kindred home with luxury. 690
+Rich food and clothing, gifts of every sort,
+And safety flow to many through my aid.
+Why should I think aught lacking to my lot?
+
+<i>Oedipus:</i> Because there is a lack. Prosperity
+Ne'er halts at any bounds.<i>Creon:</i> And shall I fall, 695 Prejudged, and have no right to plead my cause?
+
+<i>Oedipus:</i> Hadst thou consideration for <i>my</i> life?
+Did old Tiresias listen to my cause?
+And yet I am condemned. My pattern, thou;
+I do but follow in the way thou lead'st.
+
+<i>Creon:</i> But what if I am guiltless?
+
+<i>Oedipus:</i> Kings are wont To fear alike the doubtful and the true.
+
+<i>Creon:</i> Who quakes at empty fears, hath true in store. 700
+
+<i>Oedipus</i> Who in a fault is taken, and forgiven,
+Is filled with hate. Let all such dubious faith
+Be far from me.
+
+<i>Creon:</i> But thus is hatred bred.
+
+<i>Oedipus:</i> Nay, he who feareth hatred overmuch,
+Knows not the art of ruling like a king;
+For 'tis by fear that kings are guarded most.
+
+<i>Creon:</i> Who holds the scepter with tyrannic sway, 705
+Doth live in fear of those who fear his power;
+For terror ever doth return to himWho doth inspire it.
+
+<i>Oedipus</i> [<i>to attendants</i>]: Hence, away with him;
+Deep in some rocky dungeon let him stay,
+While I unto the palace take my way.
+
+[Creon <i>is led away by the attendants, while</i> Oedipus <i>retires into the palace.</i>]
+
+<i>Chorus:</i> Not thou the cause of these our ills;
+    And not on thy account hath fate
+    Attacked the house of Labdacus; 710
+    But 'tis the ancient wrath of heaven
+    That still pursues our race.
+    Castalia's grove once lent its shade
+    Unto the Tyrian wanderer,
+    And Dirce gave her cooling waves,
+    What time the great Agenor's son, 715
+    O'er all the earth the stolen prey
+    Of Jove pursuing, worn and spent,
+    Within these forests knelt him down
+    And adored the heavenly ravisher.
+    Then by Apollo's bidding led,
+    A wandering heifer following, 720
+    Upon whose neck the dragging plow,
+    Nor the plodding wagon's curving yoke    Had never rested, he his quest
+    At last gave over, and his race
+    From that ill-omened heifer named.
+    From that time forth, the land of Thebes
+    Strange monsters hath engendered: first, 725
+    That serpent, sprung from the valley's depths,
+    Hissing, o'ertopped the agéd oaks
+    And lofty pines; and higher still,
+    Above Chaonia's woods, he reared
+    His gleaming head, though on the ground 730
+    His body lay in many coils.
+    And next the teeming earth produced
+    An impious brood of arméd men.
+    The battle call resounded loud
+    From the curving horn, and the piercing notes
+    Of the brazen trumpet shrill were heard.
+    Their new-created, nimble tongues, 735
+    And voices strange, they first employ
+    In hostile clamor; and the fields,
+    The plains, their kindred soil, they fill.
+    This monster brood, consorting well
+    With that dire seed from which they sprung,
+    Their life within a day's brief span 740
+    Enjoyed; for after Phoebus rose
+    They had their birth, but ere he set    They perished. At the dreadful sight
+    Great terror seized the wanderer;
+    And much he feared to face in war
+    His new-born foes. Until, at length
+    The savage youth in mutual strife 745
+    Fell down, and mother earth
+    Beheld her sons, but now produced,
+    Returned again to her embrace.
+    And Oh, that with their fall might end
+    All impious strife within the state!
+    May Thebes, the land of Hercules,
+    Such fratricidal strife behold
+    No more! 750
+        Why sing Actaeon's fate,
+    Whose brow the new-sprung antlers crowned
+    Of the long-lived stag, and whom his hounds,
+    Though their hapless master still, pursued?
+    In headlong haste through the mountains and woods,
+    He flees in fear, and with nimble feet 755
+    He scours the glades and rocky passes,
+    In fear of the wind-tossed feathers hung
+    Among the trees; but most he shuns
+    The snares which he himself has set;
+    Until at last in the still, smooth pool 760
+    He sees his horns and his features wild,    The pool where the goddess, too sternly chaste,
+    Had bathed her virgin limbs.
+
+FOOTNOTES:
+
+[3] Reading, <i>retro</i>.
+
+[4] Reading, <i>sonantem</i>.
+
+[5] Reading, <i>ne</i>.
+
+<b>ACT IV</b>
+
+<i>Oedipus:</i> My soul is filled with dark, foreboding fear;
+For the gods in heaven and hades join the charge 765
+That by my guilty hand King Laius fell.
+And yet my soul, in conscious innocence,
+And knowing better than the gods themselves
+Its secret deeds, denies the charge.
+        But now,
+Along the shadowy vistas of the past,
+My memory beholds an agéd man who fell
+Beneath the heavy stroke of my stout staff.
+But first the elder strove with haughty words 770
+To drive the younger traveler from the path.
+But that was far from Thebes, in Phocis' realm,Where the forkéd road in three directions leads.
+But thou, my faithful wife, dispel my care:
+What span of life had Laius at his death?
+Fell he in manhood's bloom, or spent with age? 775
+
+<i>Jocasta:</i> Midway 'twixt youth and age, but nearer age.
+
+<i>Oedipus:</i> Did courtiers, thronging round, protect his course?
+
+<i>Jocasta:</i> The many lost him on the winding way;
+A few by faithful toil kept near his side.
+
+<i>Oedipus:</i> Did any fall as comrade of his fate? 780
+
+<i>Jocasta:</i> One comrade in his death did valor give.
+
+<i>Oedipus:</i> Alas, I stand convicted, for the place
+And number tally. Tell me now the time.
+
+<i>Jocasta:</i> Since Laius fell, ten harvests have been reaped.
+
+[<i>Enter an old Corinthian man, a messenger from</i> Merope.]
+
+<i>Old Man</i> [<i>to</i> Oedipus]: The state of Corinth calls thee to
+  the throne,
+For Polybus has gained his lasting rest. 785<i>Oedipus:</i> See how a heartless fate doth compass me! But tell me how my father met his end.
+
+<i>Old Man:</i> In gentle sleep he breathed his life away.
+
+<i>Oedipus:</i> My sire is dead, and not by violence!
+I call the gods to witness that to heaven
+I now in piety may lift my hands, 790
+And fear no stain of impious slaughter more.
+And yet a still more fearful fate remains.
+
+<i>Old Man:</i> Thy father's kingdom will dispel thy fears.
+
+<i>Oedipus:</i> My father's kingdom would I seek, but still I fear my mother.
+
+<i>Old Man:</i> Fear'st thou her who waits. 795 With anxious heart, imploring thy return?
+
+<i>Oedipus:</i> 'Tis piety itself that bids me flee.
+
+<i>Old Man:</i> And wouldst thou leave her in her widowhood?
+
+<i>Oedipus:</i> Thou speak'st the very essence of my fears.
+
+<i>Old Man:</i> Speak out the fear that doth oppress thy soul; For 'tis my wont in trusty confidence To counsel kings.<i>Oedipus:</i> By Phoebus' word forewarned, 800 From wedlock with my mother do I flee.
+
+<i>Old Man:</i> Then cease thy empty fears, and lay aside Thy base forebodings; for I tell thee here That thou art not the son of Merope.
+
+<i>Oedipus:</i> Why did she wish to rear a spurious son?
+
+<i>Old Man:</i> Because the proud security of kings
+Is by a son established.
+
+<i>Oedipus:</i> Tell me now. 805 How thou dost know the secrets of the court.
+
+<i>Old Man:</i> With my own hands I gave thee to the king.
+
+<i>Oedipus:</i> Thou gavest me? But who gave me to thee?
+
+<i>Old Man:</i> A shepherd on Cithaeron's snowy slopes.
+
+<i>Oedipus:</i> How camest thou within that sacred wood?
+
+<i>Old Man:</i> My sheep upon that mountain did I seek. 810
+
+<i>Oedipus:</i> Now on my body name some well-known mark.<i>Old Man:</i> Behold, thy feet in infancy were pierced, And from thy swollen ankles art thou named.
+
+<i>Oedipus:</i> Who was the man who gave me as a gift
+Into thy hands?
+
+<i>Old Man:</i> He fed the royal flocks, 815 And under him the hireling shepherds served.
+
+<i>Oedipus:</i> But tell his name.
+
+<i>Old Man:</i> An old man's memory
+Grows faint and weakly falters with disuse.
+
+<i>Oedipus:</i> But wouldst thou know the features of the man?
+
+<i>Old Man:</i> I might recall him, for a slender clue 820 Ofttimes awakens memory of things Long buried and forgot.
+
+<i>Oedipus:</i> Then hasten, slaves,
+Let all the master-shepherds drive their flocks
+Before the altar here, yea, summon all
+On whom depends the guidance of the flocks.
+
+<i>Old Man:</i> Or chance or providence has kept thy fate 825
+In darkness hid. What long hath lain concealed,I bid thee suffer to remain in doubt.
+For often truth, when brought into the light,
+Becomes the bane of him who seeks for her.
+
+<i>Oedipus:</i> Can any ills be worse than those I fear?
+
+<i>Old Man:</i> Oh, be thou sure the truth is big with fate,
+Whose meaning must be sought with toil and pain.
+The public weal calls there, and here thine own, 830
+And both with equal voice. Direct thy steps
+Along a middle course! provoke not fate;
+Permit thy fortune to unfold itself.
+It profits naught to change a happy state.
+
+<i>Oedipus:</i> A change is well when all is at the worst.
+
+<i>Old Man:</i> What better canst thou ask than royal birth? 835 No further seek, lest thou thy sire repent.
+
+<i>Oedipus:</i> Though I should prove to be of shameful blood,
+My purpose still is fixed to know the truth.
+        [<i>Enter</i> Phorbas, <i>the head-shepherd.</i>]
+But see, the agéd man, old Phorbas, comes,
+'Neath whose control the royal flocks are kept.
+Dost thou remember still his face or name? 840<i>Old Man:</i> His form eludes my mind; not fully known,
+And yet again not all unknown his face.
+        [<i>To</i> Phorbas.]
+Old man, while Laius still was king, didst thou,
+His shepherd, ever drive the royal flocks
+To pasture here upon Cithaeron's slopes?
+
+<i>Phorbas:</i> On fair Cithaeron's sunny slopes my flocks 845 Have ever found the greenest pasturage.
+
+<i>Old Man:</i> Dost thou know me?
+
+<i>Phorbas:</i> But dim and indistinct
+My memory.
+
+<i>Oedipus:</i> Didst thou at any time
+An infant boy deliver to this man?
+        [Phorbas <i>falters and turns pale</i>.]
+Come then, speak out! why dost thou hesitate?
+And why does pallor overspread thy cheeks?
+Why seek for words? The truth no respite needs. 850
+
+<i>Phorbas:</i> Thou speak'st of things long buried and forgot.
+
+<i>Oedipus:</i> But speak, or pain shall drive thee to confess.<i>Phorbas:</i> I gave a boy to him, a useless gift;
+He never could have lived or known the light.
+
+<i>Old Man:</i> The gods forbid! The child is living still; 855 And may his life be long on earth, I pray.
+
+<i>Oedipus:</i> Why dost thou think the child did not survive?
+
+<i>Phorbas:</i> A slender rod of iron his ankles pierced, And bound his limbs. This wound produced a sore, Which by contagion spread o'er all his frame.
+
+<i>Old Man:</i> Why question more? The fatal truth draws near. 860 Who was that infant boy?
+
+<i>Phorbas:</i> My lips are sealed.
+
+<i>Oedipus:</i> Bring hither fire! Its flames shall loose thy speech.
+
+<i>Phorbas:</i> Must truth be sought along such cruel paths? I pray thy grace.
+
+<i>Oedipus:</i> If I seem harsh to thee,
+Or headstrong, thy revenge is in thy hand-- 865
+The truth revealed. Then speak: who was the child?
+Of what sire gotten? Of what mother born?
+
+<i>Phorbas: He was the son of her who is thy--wife</i>.<i>Oedipus:</i> Then yawn, O earth! and thou, O king of shades,
+Into the lowest depths of hades hurl
+This vile confounder of the son and sire! 870
+Ye citizens, on my incestuous head
+Heap crushing rocks! with weapons slaughter me!
+Let husbands, fathers, sons, and brothers--all
+Whose name I have defiled, against me arm!
+And let the poor, plague-smitten populace
+Hurl blazing brands from off their funeral pyres!
+The plague spot of the age, I wander here, 875
+Heaven-cursed pollutor of all sacred ties;
+Who, in the day when first I breathed the air,
+Was doomed to death.
+        [<i>To himself.</i>]
+        Call up thy courage now,
+And dare some deed befitting these thy crimes.
+Haste to thy palace and congratulate 880
+Thy mother's house increased by children's sons.
+
+[<i>Exit.</i>]
+
+<i>Chorus:</i> If it were mine to choose my fate
+      And fashion as I would,
+  I'd trim my sails to the gentle breeze,
+  Lest, by the raging blasts o'erwhelmed, 885
+      My spars should broken be.  May soft and gently blowing winds
+      My dauntless bark lead on;
+  And ever on the middle course,
+  Where safely runs the path of life, 890
+      May I be traveling.
+  Fearing the Cretan king, 'tis said,
+      And trusting in strange arts,
+  Young Icarus essayed the stars,
+  And strove to conquer birds in flight, 895
+      On false wings balancing.
+  He fell into the raging sea
+      And his name alone survived.
+  But, wiser far, old Daedalus 900
+  A safer course midst the clouds pursued,
+      Awaiting his wingéd son.
+  As the timid bird flees the threat'ning hawk,
+      And collects her scattered young; 905
+  So the father watched till he saw his son
+  Plying his hands in the gulfing sea,
+      Enmeshed in his useless wings.
+  So does he stand in treacherous ways,
+  Whoever goes beyond the bounds
+      Ordained by nature's law. 910
+        [<i>Enter</i> Messenger <i>from within the palace.</i>]
+But what is this? The palace gates resound;Behold, it is the royal messenger.
+With wild and woeful mien he seems to come.
+Speak out, and tell us what the news thou bring'st.
+
+<b>ACT V</b>
+
+<i>Messenger:</i> When Oedipus his impious race perceived, 915
+And saw the warning fates had been fulfilled;
+When on a hideous charge he stood condemned;
+Then, with a deadly purpose in his breast,
+Did he approach his palace, and in haste
+Beneath those hated battlements he went.
+And as a lion rages o'er the sands,
+And, threat'ning, tosses back his tawny mane; 920
+So Oedipus advanced with blazing eyes,
+And stern, mad face, while hollow groans burst forth,
+And from his limbs there dripped a chilling sweat.
+He foams and vents a stream of threat'ning words,
+And from his heart his mighty grief o'erflows.
+He in his madness seeks against himself 925
+Some heavy penalty and like his fate.
+"Why do I wait for punishment?" he cries;
+"Let my guilty heart with hostile sword be pierced,
+Or overwhelmed with flames or crushing rocks!
+Oh, for a tiger or some bird of prey,
+To rend my tender flesh! Do thou thyself,Who hast beheld full many deeds of blood, 930
+O cursed Cithaeron, from thy forests send
+Thy wild beasts 'gainst me or thy greedy dogs.
+Oh, that Agave were returned to earth!
+But thou, my soul, why dost thou shrink from death?
+For death alone can make thee innocent."
+So spake he, and his impious hand he laid 935
+Upon the hilt and drew his glittering sword.
+"And dost thou, then, with this brief punishment
+Expect to pay thy mighty debt of guilt,
+And with one blow wilt balance all thy sins?
+Thy death would satisfy thy murdered sire;
+But what to appease thy mother wilt thou do,
+And those thy children, shamefully begot?
+What recompense canst make unto thy land, 940
+Which for thy sin is smit with pestilence?
+Such debts as these thou canst not pay by death.
+Let Nature, who, in Oedipus alone,
+Strange births devising, hath her laws o'erturned,
+Subvert herself again to punish him.
+Let it be mine, in never-ending round, 945
+To live and die, and to be born again,
+That for my crimes by never-ending pain
+I may atone. Now use thy wit, poor soul.
+Since by repeated death thou canst not die,Choose then some form of lingering death in life,
+Some way by which, not numbered with the dead,
+Nor yet the living, thou mayst linger on. 950
+So die, that in thy death thou mayst remain
+Without the land wherein thy father dwells.
+O soul, why dost thou hesitate?" And then
+A sudden stream of tears o'erspread his face,
+And wet his cheeks. "And can my tears suffice?
+Too long my eyes these useless showers have poured; 955
+Nay, let them follow where the tears have flowed,
+From out their sockets driven. O gods of wedlock,
+Is this enough? These eyes must be removed."
+He spoke with frenzied rage; and all the while
+His cheeks were flaming with a dangerous light,
+And his starting eyeballs strained to leave their seats.
+His face was full of passion, fierce resolve. 960
+Groaning he thrust his hands into his eyes;
+And those fierce eyes stood forth to meet his hands,
+And eager followed of their own accord
+Their kindred hands, as courting that deep wound.
+Deep in with hookéd fingers he explores, 965
+And rends his eyeballs from their deepest roots.
+Still stays his hands within those empty seats,
+And tears the hollow sockets with his nails,
+With savage joy, with vain and endless rage; 970So great[6] his fear and hatred of the light.
+He lifts his head, and with those empty eyes
+The heavens surveying, tests his darkened sight.
+Whatever from his mangled eyes still hangs,
+He tears away, and now in triumph cries
+To all the gods: "Oh, spare my country now, 975
+I pray; for I have done what must be done,
+And I have paid the penalty I owed.
+Now have I found at last a fitting night
+To match my impious wedlock." As he speaks,
+His face is watered by a hideous shower,
+As the blood flows streaming from his ruptured veins.
+
+<i>Chorus:</i> By fate we're driven; then yield to fate. 980
+    No anxious, brooding care can change
+    The thread of destiny that falls
+    From that grim spindle of the Fates.
+    Whate'er we mortals suffer here,
+    Whate'er we do, all hath its birth
+    In that deep realm of mystery.
+    Stern Lachesis her distaff whirls, 985
+    Spinning the threads of mortal men,
+    But with no backward-turning hand.
+    All things in ordered pathways go;
+    And on our natal day was fixed
+    Our day of death. Not God himself    Can change the current of our lives,
+    Which bears its own compelling force 990
+    Within itself. Each life goes on
+    In order fixed and absolute,
+    Unmoved by prayer. Nay fear itself
+    Has been by many found a bane;
+    For, while they sought to shun their fate,
+    They came upon it in their flight.
+But now the palace gates resound, and see, 995
+The sightless king himself, with none to guide,
+Takes hitherward his blind and groping way.
+
+[<i>Enter</i> Oedipus.]
+
+<i>Oedipus:</i> Now all is well and finished; to my sire
+I've paid the debt I owed. How sweet these shades!
+What god, at length appeased, hath wrapped my head
+In a pall of darkness, and my crimes forgiven? 1000
+Now have I 'scaped the conscious eye of day;
+And nothing dost thou owe, O parricide,
+To thine avenging hand. Thy sight is gone,
+And such a countenance becomes thee well.
+
+[<i>Enter</i> Jocasta.]<i>Chorus:</i> See where with hurried step Jocasta comes,
+Beside herself and overcome with grief; 1005
+As when in maddened rage that Theban dame
+Her son's head tore away and realized
+What she had done. She wavers, longs to speak
+To that afflicted one, and fears to speak.
+Now shame at last has yielded to her grief,
+And with a faltering tongue she speaks to him.
+
+<i>Jocasta:</i> What shall I call thee? Son? Dost shun that name? Thou art my son; thy shame confesseth it. 1010 And yet, O son, though all unwilling, speak. Why dost thou turn away thy sightless face?
+
+<i>Oedipus:</i> Who now forbids me to enjoy my night?
+Who gives me back mine eyes? My mother's voice!
+Oh, awful sound! Now is my labor vain.
+Stay where thou art! Each step is impious.
+Let boundless seas our guilty souls divide, 1015
+And lands remote; and if beneath this land
+Some other hangs, beholding other stars,
+May that far country one of us receive.
+
+<i>Jocasta:</i> What thou deplorest is the fault of fate. A fated crime can leave no stain of sin.<i>Oedipus:</i> Now cease thy words, O mother, spare my ears, 1020
+By these poor remnants of my mangled form,
+By that unhallowed offspring of my blood,
+And all that in the double names we bear
+Is right and wrong!
+
+<i>Jocasta [to herself]:</i> Why art thou listless now,
+O soul of mine? Since thou hast shared his guilt,
+Why hesitate to share his punishment? 1025
+The beauty of all human intercourse
+Has fallen into ruin for thy sake,
+Confused and lost, O wretch incestuous.
+Not if the father of the gods himself
+Should hurl at me his glittering thunderbolts,
+Could I for my foul crimes atonement make, 1030
+Since I the name of mother have profaned.
+Now death is welcome, but the way of death
+Must I consider.
+        [<i>To</i> Oedipus.]
+        Come, thou parricide,
+And lift thy hand against thy mother too.
+This act is wanting to complete thy work.
+        [<i>To herself.</i>]
+Now let the sword be drawn. By this good blade
+Was Laius, my husband, slain--not so; 1035
+My husband's father, by his rightful name!Shall I this weapon plunge into my breast,
+Or thrust it deep within my waiting neck?
+Nay, nay: thou know'st not how to choose a place.
+Strike here, O hand, through this capacious womb,
+Which (horrible!) the son and husband bore.
+
+[<i>She stabs herself and falls dead.</i>]
+
+<i>Chorus:</i> She lies in death, her failing hand relaxed; 1040 And spouting streams of blood drive out the sword.
+
+<i>Oedipus:</i> O fate-revealer, thee do I upbraid,
+Thou god and guardian of the oracles.
+My father only was I doomed to slay;
+But now, twice parricide and past my fears,
+Have I been guilty, and my mother slain.
+For 'tis by sin of mine that she is dead. 1045
+O lying Phoebus, now have I outdone
+The impious fates.
+        With apprehensive feet
+Let me go out upon my darkened way,
+Planting my footsteps with a faltering tread,
+And through the darkness grope with trembling hands.
+Stay not thy flight, speed thy uncertain steps-- 1050
+But hold! lest on thy mother's corse thou tread.
+O Thebans, weak and smitten sore with ills,Whose hearts are fainting in your breasts, behold,
+I flee, I go: lift up your drooping heads.
+A milder sky and sweeter air shall come
+When I am gone. Whoever still retains 1055
+His feeble life may now inhale the air
+In deep, life-giving draughts. Go, lend your aid
+To those who were to certain death resigned;
+For with me in my exile do I bear
+All pestilential humors of the land.
+Then come, ye blasting Fates and mad Despair,
+Thou deadly Pestilence, come, come with me; 1060
+With such a company 'tis sweet to flee!
+
+[<i>Exit.</i>]
+
+FOOTNOTES:
+
+[6] Reading, <i>tantum</i>.
+
+PHOENISSAE, OR THEBAÏS
+
+A FRAGMENT
+
+PHOENISSAE, OR THEBAÏS

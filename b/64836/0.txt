@@ -1,0 +1,759 @@
+HOLB1	64836	0	0	80	708	66
+1	Preface.
+5	Chapter
+8	Chapter I. Jane Seton.
+21	Chapter II. Magdalene Of France.
+38	Chapter III. The Master Of The Ordnance.
+53	Chapter IV. Redhall.
+59	Chapter V. The Witch-pricker.
+67	Chapter VI. The Illuminated Spire.
+81	Chapter VII. Two Officials.
+90	Chapter VIII. The Queen's Masque.
+105	Chapter IX. La Volta.
+119	Chapter X. Love And Abhorrence.
+132	Chapter XI. Swordblades And Salve.
+140	Chapter XII. Edinburgh In 1537
+151	Chapter XIII. Saint Giles.
+166	Chapter XIV. The Chancellor Of Scotland.
+176	Chapter XV. The Noon Of Love.
+188	Chapter XVI. Vipont's Household.
+202	Chapter XVII.
+214	Chapter XVIII. The Castle Of Inchkeith.
+228	Chapter XIX. The Fortunate Sword-thrust.
+238	Chapter XX. The Black Page.
+251	Chapter XXI. John Of The Silvermills.
+267	Chapter XXII. Ten Red Grains.
+277	Chapter XXIII. The First Visit.
+290	Chapter XXIV. The Knife.
+304	Chapter XXV. Douglasdale.
+311	Chapter XXVI. The Barmkyn Of Cairntable.
+330	Chapter XXVII. The Pommel Of The Poniard.
+340	Chapter XXVIII. A Draught Of Water.
+348	Chapter XXIX. The Second Visit.
+361	Chapter XXX. Sanctuary! Sanctuary!
+372	Chapter XXXI. The Porte Of The Spur.
+386	Chapter XXXII. The Three Trees Of Dysart.
+398	Chapter XXXIII. The Weem.
+415	Chapter XXXIV. The Death Of Magdalene.
+422	Chapter XXXV. The College Of Justice.
+441	Chapter XXXVI. The Rack--the Devil's Mark.
+450	Chapter XXXVII. The Gage Of Battle.
+457	Chapter XXXVIII. The Earl's Daring.
+473	Chapter XXXIX. The Earl's Success.
+481	Chapter XL. Sybil.
+493	Chapter XLI. A Hamilton! A Hamilton!
+503	Chapter XLII. David's Tower--the Physician.
+515	Chapter XLIII. David's Tower--the Priest.
+523	Chapter XLIV. David's Tower--the Lover.
+530	Chapter XLV. The Boon.
+546	Chapter XLVI. Thirst!
+557	Chapter XLVII. What The Paper Contained.
+564	Chapter XLVIII. The Cross And Gillstoup.
+578	Chapter XLIX. The Castaways.
+588	Chapter L. Falkland.
+595	Chapter LI. The King And The Cardinal.
+608	Chapter LII. The Laird Of Clatto.
+621	Chapter LIII. The Fight At Inverteil.
+633	Chapter LIV. The King's Horn.
+641	Chapter LV. The Bluegown.
+657	Chapter LVI. The Temptation.
+665	Chapter LVII. The Loch.
+670	Chapter LVIII. The Law Of The Sword.
+681	Chapter LIX. The Place Of Doom.
+695	Chapter LX. Conclusion.
+699	I. Jane Seton.
+701	II. John Of The Silvermills.
+703	III. The Thumb.
+705	IV. The Brodder.
+JANE SETON:
+
+OR,
+
+THE KING'S ADVOCATE.
+
+A Scottish Historical Romance.
+
+BY JAMES GRANT,
+
+AUTHOR OF
+"THE ROMANCE OF WAR," "THE AIDE-DE-CAMP," ETC. ETC.
+
+<i>NEW EDITION.</i>
+
+LONDON:
+GEORGE ROUTLEDGE AND SONS,
+BROADWAY, LUDGATE HILL.
+NEW YORK: 129, GRAND STREET.
+1865.
+
+LONDON:
+SAVILL AND EDWARDS, PRINTERS,
+CHANDOS-STREET.<b>PREFACE.</b>
+
+The genius of a monarch is said to stamp a character upon his time; but this can scarcely be said to have been the good fortune of the sovereign in whose reign I have laid the following romance.
+
+Like all the princes of his house, James V. was far in advance of the age in which he lived; for to all his forefathers' valour and passionate love of their native Scotland (for whose soil so many of them had shed their blood in battle), to their elegant taste in all the arts, their patronage of science and commerce, he united a love for romantic adventure, which, like James IV., made him the idol of the people. But the Scottish nobles, though affording us many bright and glorious examples of high valour and pure patriotism, have generally been a race of men too ready to sacrifice the dearest interests of their country for lucre or ambition; and were really, in all ages, a curse alike to our kings and the nation.
+
+In the following pages I have endeavoured to portray something of their savage pride and unscrupulous spirit; and to give a picture of those dark days of violence when danger was the pastime and arms the occupation of our people; when it was sadly but truly said, that grey hairs were seldom seen under a Scotsman's bonnet, and that a Scottish mother had seldom a son left to lay her head in the grave, for in civil strife or foreign war they had all gone before her to the land of the leal.There is much that is veritable history, and much that is old tradition, woven up with my fiction; and though the reader may be able to distinguish these passages, I shall mention, that the king's adventure in the cavern, the three trees of Dysart, and John of Clatto, are ancient legends of Fife; while the point on which the whole story turns--the strange and frantic love of Otterburn--is taken partly from an incident which is mentioned in the annals of the House of Angus, and bears a conspicuous place in the early criminal records of Scotland. It will be found related at further length in the notes.
+
+The King's Advocate was so named, to distinguish him from the Crown Prince's Advocate, an office which existed before the abolition of many of those more important public institutions of which Scotland has permitted herself to be deprived.
+
+The King's Advocate, with whose name I have made so free in these volumes, was the son of Thomas Otterburn of Edinburgh, who was slain at the battle of Flodden, and of Katharine Brown. He was Lord Provost of Edinburgh from 1524 to 1535, and was our ambassador to England between the same years. He was knighted in 1534, but was imprisoned in the castle of Dumbarton for being too partial to Englishmen. He was highly esteemed by Buchanan, who has embalmed his memory in beautiful Latin verse.
+
+Vipont, the hero, bears an old Scottish surname, which was famous in the middle ages, though it has now almost disappeared. Andro Wyntown, the Prior of St. Serf, mentions that <i>Alan ye Vipownt</i> was keeper of Lochlevin, and defended that fortress valiantly in the wars of the Scottish succession.Another, Sir William Vipont, was one of the two Scottish knights slain on the glorious 24th of June, 1314. They were barons of Aberdour on the northern shore of the Forth, where their ruined castle, a massive pile indicative of great strength and ancient grandeur, is yet to be seen. Roland Vipont is meant to represent the last of that old race, whose arms are still recorded to have been six annulets <i>or</i>, with a swan's head rising from a coronet.
+
+Let it not be thought that I have made James V. or his minister speak too harshly of Henry VIII.'s moral character, when we bear in mind that Dr. Bayley, in his "Life of Bishop Fisher," has plainly asserted and proved, that the English king married Anne Boleyn, knowing her to be his own daughter. So much for the "Bluff King Hal" of romance.
+
+If, on one hand, I have omitted to portray the Cardinal Primate as the monster we have been taught to believe him, I do not, on the other, wish it to be thought that I consider the good Father St. Bernard as a type of the Scottish clergy in 1537. Very far from it; they were the reverse of all I have made that meek old priest. But, doubtless, there must have been exceptions; and it must be remembered, that all our accounts of them and the Cardinal have come down to us from their enemies.
+
+A Scottish novelist labours under a great disadvantage, when endeavouring to introduce effectively for English readers old national characters who speak their own language, which, to a modern Englishman, would be as unintelligible as Choctaw; hence the conventional half-dialect usually adopted. It is a curious fact, that in the days of Alexander I.or Robert I., the dialects of the two nations were more alike than they are to-day. Since then, the language of South Britain has gradually been changing, and becoming what is strictly termed English; while the Gothic dialect of the North has remained pretty much the same; hence the Scot can read with ease, and fully understand, the obsolete phrases and idioms of Chaucer, Spenser, Shakespeare, &c., many parts of the old editions of whose works are now almost unintelligible to the mass of their own countrymen.
+
+EDINBURGH,
+1st January, 1853.
+
+CONTENTS.<b>CHAPTER</b>
+
+I. JANE SETON
+II. MAGDALENE OF FRANCE
+III. THE MASTER OF THE ORDNANCE
+IV. REDHALL
+V. THE WITCH-PRICKER
+VI. THE ILLUMINATED SPIRE
+VII. TWO OFFICIALS
+VIII. THE QUEEN'S MASQUE
+IX. LA VOLTA
+X. LOVE AND ABHORRENCE
+XI. SWORDBLADES AND SALVE
+XII. EDINBURGH IN 1537
+XIII. SAINT GILES
+XIV. THE CHANCELLOR OF SCOTLAND
+XV. THE NOON OF LOVE
+XVI. VIPONT'S HOUSEHOLD
+XVII. A LORD ADVOCATE OF THE SIXTEENTH CENTURY
+XVIII. THE CASTLE OF INCHKEITH
+XIX. THE FORTUNATE SWORD-THRUST
+XX. THE BLACK PAGE
+XXI. JOHN OF THE SILVERMILLS
+XXII. TEN RED GRAINS
+XXIII. THE FIRST VISIT
+XXIV. THE KNIFEXXV. DOUGLASDALE
+XXVI. THE BARMKYN OF CAIRNTABLE
+XXVII. THE POMMEL OF THE POINARD
+XXVIII. A DRAUGHT OF WATER
+XXIX. THE SECOND VISIT
+XXX. SANCTUARY! SANCTUARY!
+XXXI. THE PORTE OF THE SPUR
+XXXII. THE THREE TREES OF DYSART
+XXXIII. THE WEEM
+XXXIV. THE DEATH OF MAGDALENE
+XXXV. THE COLLEGE OF JUSTICE
+XXXVI. THE RACK--THE DEVIL'S MARK
+XXXVII. THE GAGE OF BATTLE
+XXXVIII. THE EARL'S DARING
+XXXIX. THE EARL'S SUCCESS
+XL. SYBIL
+XLI. A HAMILTON! A HAMILTON!
+XLII. DAVID'S TOWER--THE PHYSICIAN
+XLIII. DAVID'S TOWER--THE PRIEST
+XLIV. DAVID'S TOWER--THE LOVER
+XLV. THE BOON
+XLVI. THIRST!
+XLVII. WHAT THE PAPER CONTAINED
+XLVIII. THE CROSS AND GILLSTOUP
+XLIX. THE CASTAWAYSL. FALKLAND
+LI. THE KING AND THE CARDINAL
+LII. THE LAIRD OF CLATTO
+LIII. THE FIGHT AT INVERTEIL
+LIV. THE KING'S HORN
+LV. THE BLUEGOWN
+LVI. THE TEMPTATION
+LVII. THE LOCH
+LVIII. THE LAW OF THE SWORD
+LIX. THE PLACE OF DOOM
+LX. CONCLUSION
+NOTES
+
+JANE SETON:
+
+OR,
+
+THE KING'S ADVOCATE.<b>CHAPTER I.</b>
+
+JANE SETON.
+
+        "I prithee mark
+His countenance; unlike bold calumny,
+Which sometime dare not speak the thing it looks,
+He dare not look the thing he speaks, but bends
+His gaze on the blind earth."--<i>The Cenci</i>.
+
+On the 19th of May, 1537, the bells of Edinburgh rang joyously. It was a day of loyalty and merriment such as never more may gladden Scotland's ancient capital.
+
+After a nine months' absence, James V.--"the good king James, the commons' king, the father of the poor," the patron of the infant arts and sciences, the mirror of chivalry and romance, as he was affectionately named by a people who idolized him--had arrived in the Firth of Forth with his young queen Magdalene of Valois, whom for her dazzling beauty he had chosen from among three princesses, all possessed of unusual charms, and whom he had espoused in the great cathedral of Notre Dame de Paris, in presence of her father, the magnificent and magnanimous Francis I., seven cardinals, and all the noblesse and beauty of France. After spending the honeymoon at the Hôtel de Cluny, a beautiful old gothic house belonging to the family of Lorraine, they had sailed for Scotland.All the capital was on tiptoe, and its streets were crowded to excess by the retinues of the nobles and lesser barons, who had come thither to gratify their curiosity and evince their loyalty on the auspicious occasion.
+
+The day was one of the most beautiful of all that sunny month; and the summer air was laden with the perfume of flowers, for garlands and bouquets were festooned from window to window across the main street leading to the palace, a thoroughfare six-and-twenty yards in breadth; while the stone columns of the girth-cross of the holy sanctuary, the Jerusalem-cross of St. John, the great market-cross of the city, bearing aloft the unicorn rearing on a tressured shield, and the famous stone statue of Our Lady which then stood at the east end of St. Giles's church, were all wreathed and hidden under the spoil of a hundred blooming gardens.
+
+Scaffolds and balconies hung with tapestry and rare carpets of foreign manufacture, or painted with azure, starred with shining gold, occupied the sides of the streets in many places, and were crowded with the families of the surrounding land-holders, the better classes of citizens, and the baronial dwellers of the Blackfriars' Wynd and the Canongate; a great part of the latter street consisted then of turreted villas and strongly-built but detached mansion-houses surrounded by spacious gardens.Banners innumerable, bearing the heraldic cognizances of the proud, the noble, and the brave of Scotland's ancient days, waved from window, turret, and bartizan; the city fountains poured forth purple wine and nut-brown ale alternately (for the Scots had the former duty-free before the Union), and the stalwart deacon convener of the gallant craftsmen, sheathed in complete armour, with the famous Blue Blanket, or banner of the Holy Ghost, displayed, mustered the Baxters, the Websters, Cordiners, Dagger and Bonnet makers, and other ancient corporations, each under their several standards, to line the High-street, on either side, from the Butter Tron to the Netherbow, keeping clear a lane of some forty feet in breadth. These stout craftsmen, who mustered to the number of several thousands, were all arrayed in green gaberdines, red hose, and blue bonnets, and were armed as archers, with a steel gorget, a short but strong Scottish bow, a sheaf of arrows, a battle-axe, and long dagger.
+
+With the city sword and mace, and his own helmet and banner borne before him, the Lord Provost, Sir James Lawson, of the Highrigs, with all the baillies and burgesses clad in gowns of scarlet, furred with miniver, and wearing chains of gold; the heralds and pursuivants in their plumed bonnets and gorgeous tabards, with standards and trumpets, musicians, minstrels, and macers, waited at the western entrance of the city to receive the king and queen with all due loyalty and splendour of pageantry; while the priests of rank, the knights, nobles, and senators of the College of Justice, had all ridden to Leith to conduct the royal pair in procession to Holyrood.It is said that the beautiful Magdalene, on landing from the high-pooped and gaily-bannered ship of Sir Robert Barton, the king's admiral, knelt gracefully down on the sands of Leith, and lifting a handful to her lips, kissed it ere she threw it away crosswise, and raising her large dark eyes to heaven, prayed with deep pathos "to God, the blessed Virgin, and all the saints, for the happiness of Scotland, the land of her adoption, and its people."
+
+The bright sunshine of the glorious May morning poured aslant its flaky radiance between the breaks and openings in those irregular masses of building, that tower up to such a giddy height on both sides of the central street of the ancient city; the south was sombre and grey, but the north was glowing in warmth, as the sunlight played along its far-stretching vista. Many of these houses were flat-roofed, flagged with large stones, like ancient towers, or covered with thatch; but few that overlooked the pageant about to be described are standing now, as the city was fired by the English in eight places seven years after, in the war with Henry VIII.
+
+By the skill of a certain cunning craftsman, the High-street, even at that early period, was well paved; and the monks of Holyrood kept the Canongate (which is but a further continuation of the same thoroughfare) well causewayed, for which the reverend Lord Abbot levied a duty upon every cart, laden or unladen, which entered the eastern barrier of the burgh.All the open windows of that great street, the tall edifices of which rise to the height of eight and ten stories, exciting still the astonishment of every traveller, were filled with glad faces; every bartizan, outshot, and projection bore its load of shouting urchins; even the leads and parapets of the great cathedral, with its hideously grotesque stone-gutters, carved into devils and dragons, wyverns and other monsters, bore a freight of spectators, the buzz of whose voices, above and below, imparted a liveliness to the scene, and relieved the tedium of long expectation and waiting for the approach of the royal party.
+
+The utmost good-humour pervaded these expectant crowds, though sometimes a brawl seemed likely to ensue, when a gentleman of pride and pedigree, with velvet cloak, a long rapier, and tall feather, despising the authority of the convener and his bands of mechanical craftsmen, marched down the centre of the street, with a few well-armed serving-men following doggedly at his heels, with brows bent, their swords girt up, and that expression on their faces which seemed so much as to say, "We are Humes, Douglases, or Scotts, or Setons, and who will dare to meddle with us!"
+
+With these, such was the patent of gentle blood, the burgher archers dared not interfere; but their unstrung bows and gauntleted hands pommelled without mercy any luckless countryman or denizen of Leith or St. Ninian's Row who encroached on the causeway, which by order of the knightly provost was to be kept clear by all. Such incidental brawls were generally quelled by the interference of some passing grey friar or Dominican.Those cavaliers who assumed the right of perambulating the open street were, as I have said, almost invariably attended by bands of followers, armed with swords and round targets, steel caps and corslets. Several of these were invariably greeted by a yell of hostility and epithets of opprobrium from those who occupied the windows, and who found this a more safe experiment than it could have proved to those who stood in the street below.
+
+These obnoxious personages were generally lesser barons and gentlemen of the house of Douglas, a clan which, from its numerical force, pride, power, and turbulence, had long been inimical to the house of Stuart, and more especially to James V., who after many efforts had completely broken its strength, reduced its numerous strongholds, and driven the chief, Archibald sixth Earl of Angus, and Knight of St. Michael, from his high offices of Lord Chancellor and Lieutenant of the East and Middle Marches, with all the noblesse of his surname and faction, to exile in England; where, like all Scottish rebels and malcontents, according to the ancient line of southern policy, they were fostered and protected by Henry VIII.
+
+By the knights and gentlemen of the proscribed name those marks of hostility from the vulgar herd were treated with silent scorn; but their followers scowled about them with clenched weapons and kindling eyes, that showed how intensely they longed to react the great High-street conflict of 1520, and revenge on the rabble of Edinburgh the insults they now endured.These evidences of hostility and political disgust were soon lost amid the general spirit of rejoicing that pervaded the entire body of the people; for loyalty and devotion to their old hereditary line of princes was then an inborn sentiment in the Scots, who were devout believers in the divine right of kings, and had not yet been taught by their preachers to view their old regal race as tyrants and oppressors.
+
+Among all this mirth and festivity there were two persons whose sobriety and staidness of demeanour were very remarkable.
+
+One was a young man about six-and-twenty, who had, apparently, just entered the city, for his boots and leathern gambadoes were covered with dust. He wore a plain gaberdine, or frock, of white Galloway frieze, with horn buttons; but beneath it appeared a doublet of escaupil to protect him from sword thrusts, an unusual garment for one of his class, for his grey maud, or plaid, blue bonnet, backsword, and hunting-knife announced him a yeomen or agriculturist. He carried a great knotty walking-staff, recently cut from some wayside thicket; but to a close observer it would have seemed perfectly evident that the profusion of his beard and moustache was worn rather for disguise than adornment. He was reading a paper affixed to the cross of St. John of Jerusalem which stood in the centre of the Canongate, immediately opposite the arch which now gives admittance to St. John's-street, the ground of which was then closely built upon.It was a proclamation, issued by the nobles who governed in the king's absence, offering a thousand merks of Scottish money for "ye heid of Archibald Seton, umquhile Earle of Ashkirk," accused of leaguing with that false traitor, Archibald Douglas, sometime Earl of Angus, who had recently been on the borders, at the head of some English moss-troopers, infesting the bounds of the knight, Sir Mark Kerr, of Cessford.
+
+With a brow that loured, and fierce eye that kindled, the young man read, from beginning to end, this proclamation (which was obnoxious to so many), and his hand gradually tightened on the handle of his poniard as he proceeded. Suddenly remembering that he might be observed, a smile of scorn, such a lordly smile as never clown could have given, spread over his dark features; he gave a glance of peculiar import at a group of ladies who occupied a balcony immediately opposite St. John's Cross, and, drawing his bonnet well over his brows, looked round for some obscure nook from whence to see, in security, the progress of the royal pageant.
+
+"How little can they imagine that I am so near them," said the Earl of Ashkirk (for the stranger was no other than he), as he dived among the crowd and disappeared.
+
+The other personage to whom reference has been made, was a tall and finely-formed man, of a noble presence and commanding stature, possessing a remarkably handsome face, with a loftiness of bearing that never failed to strike the beholder with interest.His complexion was dark, his nose slightly aquiline, his eyes black, and sparkling beneath two brows that were almost joined together. At times, a fierce and restless expression lit up these fiery and penetrating eyes, and knit his smooth expansive forehead, while his moustached lip curled with pride and severity; and then a languor and sadness stole over them, as other and softer emotions subdued the bitter thoughts some passing incidents had roused. He was dressed in a doublet and trunk hose of black velvet, laced and buttoned with silver, and trimmed with miniver: a black velvet bonnet, adorned by a single diamond and one tail white ostrich feather, shaded his dark, short, curly hair. He wore a short poniard and long rapier in an embroidered belt, and had spurs, heavily gilded and embossed, on the heels of his maroquin boots.
+
+This man was Sir Adam Otterburn, of Redhall, the King's Advocate in the recently-instituted College of Justice, a great favourite with his royal master, and one who, for his learning, probity, courage, and office, was loved by some, respected by many, and feared by all. His features were pale and hollow, for he was recovering from a late illness, brought on by a wound received in a conflict with the Douglases, a circumstance which alone, on this auspicious day, confined him to a cushioned chair at the window of his house, which overlooked the High-street, where all the beauty and bravery of Edinburgh had thronged to welcome home King James.Oblivious of the bustle pervading that long and stately thoroughfare, the streaming pennons, the waving banners, the gaudy tapestries and garlands that festooned every balcony and decorated every window, the Knight of Redhall continued to gaze upon the fair occupants of the temporary gallery which we have before mentioned as standing near St. John's Cross.
+
+It was hung and canopied with scarlet cloth and festoons of flowers; the front was painted with gold and azure, and thereon lay a banner, bearing under an earl's coronet, and within a widow's lozenge, the three crescents of Seton, within a double tressure, flowered and counter-flowered with golden fleurs-de-lis, quartered with "the bloody heart," the dreaded cognizance of the obnoxious Douglases--a badge which, though it seldom gained love, never failed to inspire fear. An old lady and several fair young belles, whose beauty alone saved them from the insults which popular hatred levelled at all in alliance with the exiled Earl of Angus, occupied this balcony, and reclined beneath its shady canopy, chatting gaily, and expectant of the royal approach.
+
+The elder lady was Margaret Douglas, of the house of Kilspindie, dowager of John Earl of Ashkirk, and mother of Archibald, the present earl, who was then under doom of exile with Lord Angus, his kinsman and ally. The younger ladies were Jane Seton, her daughter, Marion Logan of Restalrig, Alison Hume of Fastcastle, and Sybil Douglas of Kilspindie, all noble damsels, who had come to Edinburgh to witness the splendid entrée of Queen Magdalene.Tall in stature and dark in complexion, with deep black eyes, and a hauteur of brow which the sweet expression of her mouth alone relieved, the Countess Dowager of Ashkirk, though all but unable to read or write (for letters were then held in low repute), was a woman of a shrewd and masculine turn of mind; for the inborn dignity of noble birth, the martial spirit of her race, the stormy life she had led since childhood among feudal brawls and intestine battles, had imparted an emphatic decision, if not a fierceness, at times, to her manner and modes of expression. A stiff suit of the richest Genoese brocade lent additional stateliness to her figure, while the diamond-shaped head-dress, then in fashion for noble matrons, added greatly to her stature, which was far above the middle height. The inner folds of this angular coif were of white linen, the outer of purple silk edged with yellow fringe, and it formed a corner at each ear with an apex at the top, while the folds lay close to her cheeks, scarcely permitting her hair to be visible, and where it was so its raven hue seemed turning fast to silver-grey.
+
+A little negro boy, black as Lucifer, but dressed entirely in a rich suit of white satin, puffed and slashed at the trunks and shoulders, held up her train. Ugly as a fiend, with a broad nose, capacious mouth, and long pendent ears adorned with massive silver rings, Master Sabrino, being the first or the second person of his colour ever seen in Scotland, was an object of fear to some, disgust to others, and wonder to all. The vulgar viewed him as an imp or devil incarnate, and studiously avoided the glance of his shining black eyeballs; but <i>the creature</i>, as they termed him, was affectionately devoted to his mistress, and to all who used him kindly.Though the fashion of being attended by a black page or dwarf was not uncommon at continental courts, and had been first introduced into Scotland by Anne de la Tour of Vendôme, Duchess of Albany, it did not tend to increase the popularity of the proud and distant Dowager of Ashkirk, whom, as a Douglas, the people were generally disposed to view with hostility and mistrust.
+
+Lady Jane Seton was, in many respects, the reverse of her mother; for she had neither her lofty stature, her keenness of eye, nor her haughty decision of manner; for her figure, though full and round, was, by turns, light, graceful, and yielding. Neither her youth, for she was barely twenty, nor her beauty, though it was of the first class, were her chief characteristics. There was a depth of expression in her dark blue eye, which, by turns, was dreamy and thoughtful, or bright and laughing, a charm in her radiant complexion and a fascination in her manner, which drew all instinctively towards her. When silent, she seemed full of intense thought; when speaking, all vivacity and animation. Her hair was of the darkest and glossiest brown, and her neck arched and slender. Simple and pleasing, sinless in soul and pure in heart, her goodness and gentleness were her greatest charms; and though she appeared <i>petite</i> beside her towering mother, there was a grace in all her movements, and a bewitching piquancy in every expression, that made Jane Seton adorable to her lovers, and she had many.
+
+Her companions were worthy the association, all fair and handsome girls.Alison of Fastcastle was a beautiful blonde; she carried a falcon on her wrist, and from time to time pressed its smooth pinions against her dimpled cheek. Marion of Restalrig was a tall, flaxen-haired, and blue-eyed beauty, ever laughing and ever gay; while Sybil Douglas of Kilspindie was a brunette, like all the beauties of her house. Her deep black eyes and sable tresses would have lost nothing by comparison with those of Andaluçia; and though generally quiet, and, as some deemed her, insipid, her silence concealed a world of sentiment and thoughts that were exquisitely feminine: but, though silent and retiring, there were times when this fair daughter of the house of Douglas could manifest a fire and spirit becoming Black Liddlesdale himself.
+
+They were all dressed nearly alike, in white satin, slashed at the breast and shoulders with variously coloured silk, and all had coifs of velvet squared above their temples, and falling in lappets on their cheeks. They were all talking at once, laughing at everything, like Sabrino the page, whose wide mouth was expanded in an endless grin; but the old countess was buried in thought, and with her forehead resting on her hand, and her elbow on the edge of the balcony, continued to gaze abstractedly on the long and bustling vista of the sunlit Canongate.<b>CHAPTER II.</b>
+
+MAGDALENE OF FRANCE.
+
+"Saw'st thou not the great preparatives
+  Of Edinburgh, that famous noble town;
+Thou saw'st the people labouring for their lives,
+  To make triumph with trump and clarion:
+Thou saw'st full well many a fresh galland,
+  Well ordered for receiving of their queen,
+Each craftsman with his bent bow in his hand,
+  Right gallantlie in clothing short of green."
+        LlNDESAY OF THE MOUNT.
+
+"Their graces tarry long," said the countess, glancing impatiently up the street; "it is almost midday by the sun. Jane, child, hast got thy pocket-dial about thee?"
+
+Lady Jane took from her embroidered girdle a little silver dial, and placing it duly east and west, found the hour to be twelve by the shadow of the gnomon, for the sun shone brightly.
+
+"I warrant me," said the countess, "that his eminence the cardinal will be relieving himself of some prosy oration at the foot of the Broad Wynd, for the benefit of the king's grace.""Of the queen's, you mean, Lady Ashkirk," said Alison Home, "for his lordship is a great admirer of beauty. Thou knowest, cousin Jane, how often he hath admired thee."
+
+Jane coloured with something of displeasure at this remark, for, by the rumour of his gallantries, to be admired by this great prelate was no high honour.
+
+"I would the king were come, for my patience is wearing fast away," said she, raising her bright eyes from the silver index to her mother's thoughtful face.
+
+"Is it for the king alone thou art so impatient, child?" said the old lady, with a keen but smiling glance.
+
+"Nay, for one who accompanies him for the queen," said Jane, growing pale, for she always turned pale where others grew red. "Is not James the avowed enemy of our house?"
+
+"But is there no other for whom ye long, silly lassie?" asked Marion Logan, throwing an arm round Jane.
+
+"My sweet friend--yes; for one who is dearer to me almost than thee; he who sent me this dial from Paris. Oh, Marion! to think that he hath been there for nine weary months!"
+
+"Marry come up, bairn, what matters it?" said the countess, who overheard them, though the two fair friends spoke in low tones;"he will be so changed, and improved in gallantry and grace, that you will scarcely recognise him."
+
+"I cry you mercy, mother," said Jane, pouting; "I knew not that he required improvement in either."
+
+"By my troth, lady countess," said Alison Home, "if you mean Sir Rowland Vipont, the Master of the King's Ordnance, I think him so finished a cavalier that no court in Europe could improve him more."
+
+"Save the court of King Cupid," said Marion.
+
+"And where does he reign?" asked Jane.
+
+"In thine own heart, cousin," said little Sybil, quietly; and then all the girls laughed aloud.
+
+"I thank you, sweet Alison," said Jane, in a low voice, kissing her friend, for her heart danced lightly to hear her lover praised; "but dost thou know that, though I am full of joy, I would give the world to shed a shower of quiet tears just now."
+
+"Heaven give thee happiness to-day, dear Jane," replied her friend, in the same soft, earnest voice, "and may it send thy lover back to thee in love and truth, and health and comeliness, as when he left thee these nine long months ago.""Sabrino," said the countess, suddenly; "prick up those long ears of thine! dost thou not hear the sound of trumpets?"
+
+"Ees, madame--me tink so," grinned the sable page, whose efforts at articulation cost him a fearful grimace.
+
+"Then, James must be ascending the West Bow," replied the countess, as a commotion and murmur became apparent among the mighty masses that crowded the whole street.
+
+At that moment the roar of the castle artillery pealed over the city, and announced the entrance of the king by its western barrier, along the Highrigs, past the tilting-ground and the chapel of the Virgin Mary. Deeply and hoarsely carthoun and culverin thundered from the towers of St. Margaret and King David, and a deafening shout of welcome and acclamation resounded from the crowded streets.
+
+"Though the enemy and oppressor of the Douglases and the Homes," continued the countess, standing up in front of the balcony, "I cannot forget that he is our anointed king--that he has long been absent, and has endured great perils by sea and land; and so this day I bid him hail and welcome home in the name of Heaven."
+
+"'Tis said the queen will ride behind him on a pillion," said Alison Home."Nay, child," replied the countess; "the Master of the Horse passed up street with a beautiful palfrey of spotless white, having a golden footcloth that swept the ground, for her grace's especial behoof. Ha! bairns, the mention of pillions remindeth me of the days of our good King James IV. I was but a lassie then, in my teens, like yourselves; and when James espoused the younger sister of Henry Tudor, though liking not the English match, I was appointed a lady of honour to Queen Margaret, for then--(and the countess spoke bitterly)--<i>then</i> to be a Douglas was different from what it is to-day! Like his son, James IV. was then a winsome youth, and fair to look upon. Few matched him for courage and hardiment in the field, and none surpassed him in grace and courtly devoir. Amid a gallant band of spears, with ladies, lords and knights, all clad in silk and taffety, laced and furred with miniver, with many a waving plume, and many a golden chain, they issued forth from Saint Mary of Newbattle, beneath the old oak trees, and James had his fair young English bride behind him on a pillion, riding just like any douce farmer and his gudewife, and, certes! a bonnie young pair they were as ever had holy water sprinkled on their bended heads! James was bravely attired--a doublet of velvet bordered with cloth-of-gold, and his bride was blazing with diamonds. As we rode townward, by the wayside, near Our Lady's Well at Kirk Liberton, we saw a fair pavilion pitched on the green brae side, and at the door thereof stood a lance fixed in the earth, with a shield hung upon it. A lady, holding a siller bugle horn, came forth to greet the royal pair, when suddenly, a savage knight, mounted, and clad in a lion's skin, dashed out of a neighbouring coppice and bore her away. Then, lo!another knight, armed at all points, spurred his fleet horse from the gay pavilion, and assailed him with uplifted sword. Bravely they fell on, with the captive dame between them, and the keen-edged blades made ilka tempered casque and corselet ring like kirk bells on a festival. The rescuer struck the sword from the hand of his enemy, the king cried, 'Redd ye, sirs!' and so the combat was closed, and the lady released."
+
+"And who was this fair dame?" asked Alison, with assumed curiosity, for she had heard the same story, in the same words, a hundred times before.
+
+"Whom think ye, but <i>I</i>; and my leal Lord Archibald was the errant knight who saved me from the savage warrior, and <i>he</i> was no other than thy father, dear Alison, Sir Cuthbert Home of Fastcastle, who died by King James's side at Flodden; for you must know, maidens, that it was all a fair masque prepared to suit the warlike taste of the king, who loved well to see his knights under harness, and proving their hardiment on each other's coats of mail. All that and mickle mair I remember as if 'twere yesterday, and now 'tis three and thirty years ago. Three and thirty!" continued the garrulous old lady, "how the false traitors Death and Time have changed my cheer since then."
+
+"True, madam," said little Sybil, thoughtfully; "the best part of our life is made up of the anticipations of hope, and the pleasures, the sad pleasures, of memory."
+
+"Thy thoughts are running on my son, Lord Archibald," said the countess, with a fond smile, as she smoothed the thick tresses of Sybil."The first is for the young like you, and the last to solace the auld like me. St. Mary keep us! how year runs after year. My fair bairns, I hope a time may come when ye will all look back to <i>this</i> day as I do to that; but not with a sigh, to think such things have been, but can never be again!"
+
+The countess sighed, and a tear stole into her eye; but a cry from the girls of--
+
+"Oh! here they come--the king and queen!" followed by a clapping of hands, and a burst of acclamation from the populace, amid which the old cry, which the Scots had lately borrowed from their allies, the French--"Vive la Royne! Vive la Royne!" was conspicuous. It was a shout that rang from the crowded streets below, the windows and bartizans above, loud enough to rend the summer welkin, and heralded the approach of James and his French bride.
+
+The occasional flourish of trumpets, mingled with the sound of the drum, the shalm, the cymbal, the clarion, and the clang of hoofs, rang in the lofty street. Spears glittered, banners waved, and silken pennons streamed in the sunlight at a distance, above the sea of heads; while armour flashed, and embroidery sparkled, as the superb procession, conveying the royal pair to Holyrood, approached.
+
+Under the high sheriff of Lothian and Sir Andrew Preston of Gourtoun, a strong body of mounted spearmen, sheathed in dark armour, cleared and lined the streets, while the provost, Sir James Lawson of the Highrigs, chequered them with several thousands of the burgher archers and craftsmen,for each armed corporation was arrayed under its own pennon; and the great consecrated standard of the city, bearing the image of Saint Giles, floated near the battlements of the Cross--as tradition avers it floated over Salem. A volume would be required to describe the magnificence of the romantic pageant that now approached; for James, as I have said, was the idol of his people, and a nine months' absence had endeared him to them more; and all their loyalty and enthusiasm now blazed forth at his return. First came three hundred of his royal guard, clad in blue bonnets and scarlet doublets, armed with long partizans and poniards. These were all men of Edinburgh, given by the city to attend James "on all occasions, especially against his auld and auncient enemies of England." Then came a long train of that fierce and proud nobility whose turbulence and intrigues ultimately broke the good king's heart. They wore robes of state over their rich armour; their jewelled coronets were borne before, and their gallant banners behind them; each was attended by a knight, a page, an esquire, or other gentleman, in accordance with his rank. Then came the lesser barons, each riding with his pennon displayed; and then the honourable commissioners of burghs, clad in gowns of scarlet, with gold chains; the twelve heralds and pursuivants, with six bannered trumpets, sounding before them a triumphal march, to which the kettle-drums and cymbals of the horsemen lent additional animation.But the shouts which greeted this part of the procession became subdued; for now came a single horseman, riding alone, with a page on each side supporting his footcloth, which was composed entirely of cloth-of-gold. He was a man of a singularly noble presence and commanding stature; his deep dark eyes were full of fire and expression, yet his face was calm and placid, and his gaze was fixed on the flowing mane of his beautiful roan horse; and though every head bowed at his approach, he seemed abstracted and oblivious of all; his cope and stockings were scarlet, and a very broad hat of the same sanguine hue cast a pleasant shadow over his sombre features.
+
+"Rise, my bairns," said the Countess of Ashkirk; "it is his eminence the cardinal!"
+
+And chancing to raise his head at that moment, he waved a benediction towards the balcony. He was David Beaton, cardinal of St. Stephen, the lord high chancellor of Scotland, legate of Paul III., and the terror of those who, in their secret hearts, had begun to nourish the doctrines of the reformed church. A young cavalier, in a half suit of magnificently gilded armour, attended him, and spent his time between caressing a falcon which sat upon his dexter wrist, and bowing to the ladies on either side of the street. He was Sir Norman Leslie of Rothes, who, a few years after, slew the cardinal in his archiepiscopal palace. Immediately behind him came a crowd of ecclesiastics, and the eight bishops--Stewart of Aberdeen, Hepburn of Brechin, Chisholm, the worthless holder of the see of Dunblane, Dunkeld, Moray, Ross, Orkney, and Ferquhard of the Isles, all riding on led horses, with their mitres, crosiers, and magnificent vestments, glittering in the sunlight.Then came the black abbot of Cambus Kenneth (the lord president of the New College of Justice), attended by his fourteen senators, the <i>ten</i> sworn advocates, the clerks to the signet, notaries and macers of court, all of whom were greeted with lowering brows and murmurs of ill-repressed hatred and dislike; for the introduction of the courts of session and justiciary had been a very unpalateable measure to the factious and turbulent Scots.
+
+Surrounded by the chief ladies of the kingdom, and by the damsels of honour all richly attired in hoods of velvet tied with strings of pearl, with kirtles of brocade and cloth-of-gold, Magdalene of France approached on a palfrey white as the new fallen snow, with six young knights (each the son of an earl) supporting on their lances a silken canopy above her head. The splendour of her dress, which was shining with costly jewels, enhanced the greatness of her beauty, which outshone the charms of all around her, even the fair girls to whom the reader has been so lately introduced. Sprung from a royal line long famous for the charms of its princesses, Magdalene was only in her sixteenth year; but over her girlish loveliness the pallor of consumption was then spreading a veil more tender and enchanting. The novelty and excitement of the scene around lent additional animation to her lively French features, and heightened the brilliancy of her complexion, which was exquisitely fair; her eyes were light blue, and her braided hair was of the most beautiful blonde. She was rather small in stature, but beautifully formed; and the sweetness of her happy smile, and the grace with which she bowed and kissed both her hands alternately to the subjects of her husband, filled them with a storm of enthusiasm; and the respectful silence which had greeted her at first, expanded into a burst of rapture and congratulation.The ambassadors of England, Spain, France, and Savoy, wearing the collars of various knightly orders, rode near her.
+
+With the sword, sceptre, and crown, borne, each by an earl, before him, James appeared, attended by the leading nobles of the realm. A cuirass of steel, polished like a mirror and inlaid with gold, showed to advantage his bold breast and taper waist. His doublet and trunk breeches were of white satin slashed with yellow and buttoned with diamonds, and his short mantle of azure velvet was tied over his breast with golden tassels. The collars of the Thistle, the Garter, the Golden Fleece, and the escallops of St. Michael, were hanging on his breast, and flashed in one broad blaze to the noon-day sun. His dark eyes were full of animation, and the ringlets of his rich brown hair fluttered in the breeze as he waved his plumed cap to the people who loved him well, for he was better pleased to be thought the king of the poor than king of the peers of Scotland. He was surrounded by all the great officers of state and household; Robert, abbot of Holyrood, bearing his high treasurer's mace with its beryl ball, rode beside Colville of Culross, the great chamberlain of Scotland. Then came the lord high constable and the great marischal, the former with a naked sword, and the latter with an axe, borne before him; Colville of Ochiltrie, the comptroller; the dean of Glasgow, the secretary of state; Argyle, the lord justice-general, and Colinton, the lord clerk registrar; Lord Evandale, director of the chancery, the preceptor of the Knights of St.John, the high admiral, the royal standard-bearer, the grand carver, the great cup-bearer, the masters of the horse, the hounds, and the falcons, the marshal of the household, and though last, not least, Jock Macilree, the king's jester, who has been immortalized by the Knight of the Mount; and though ignobly bestriding a sleek donkey, his parti-coloured garb, his longeared cap, jingling bells, hanging bladder, and resounding laugh, attracted more attention than the mailed chivalry and sumptuously-attired noblesse who encircled the king.
+
+James, who bowed affably to the people on every side, was scrupulous in recognising all ladies, especially if handsome, and consequently the bright group clustered round the Countess of Ashkirk could not escape his observation. Waving his bonnet, he was about to bow to his horse's mane, when his eye caught the quarterings of Douglas, and an ominous flash of undisguised anger immediately crimsoned his fine features; he was turning away, when a rose was thrown upon his breast, and a pleasant voice cried,
+
+"Heaven save your grace, and bless our fair lady the queen!"
+
+It was Jane Seton's voice, and the richness of its tone with the sweetness of her smile subdued James at once; and placing the rose in the diamond George that hung from the splendid collar of the garter, this gallant young king bowed low, and kissed his hand.
+
+"Hark you, Vipont," said he, to a handsome young man about his own age, who rode by his side; "what dame and damoiselles are these? You vailed your bonnet with more than usual reverence to them."The cavalier hesitated.
+
+"Faith," continued James, "there was a most undeniable scowl in the dark eyes of the elder lady in that outrageous English coif. Who is she, and why, i' the devil's name, does she wear <i>that</i>?"
+
+"I trust your majesty is mistaken," replied the young man, hurriedly, and with confusion; "she is the countess dowager of Ashkirk, with her daughter the Lady Jane."
+
+"Ashkirk!" reiterated James, knitting his brows; "is she not a daughter of old Greysteel, and hath more than a spark of old Bell-the-cat in her spirit? By St. Anne, this accounts for her English coif, when, out of compliment to our royal consort, the French fashions are all in vogue!"
+
+"Please your majesty," urged Vipont----
+
+"I remember the dame of old, in the days of the Douglases' tyranny, when they kept me a close captive in the old tower of Falkland. God's malison on the whole tribe; I would it had but one neck, and that it lay under my heel!"
+
+"Amen, say I;" "and I," "and I," added several courtiers, who enjoyed gifts from the forfeited estates of the banished barons.
+
+The young man sighed and bit his lips as he checked his horse a little, and permitted Sir David Lindesay of the Mount, another favourite,to assume his place by the side of the king.
+
+Tall, and finely formed, with an erect bearing and athletic figure, Sir Roland Vipont was the very model of a graceful cavalier. His features, though not strictly handsome, were pleasing, manly, and expressive of health, good humour, and the utmost frankness. His heavy moustaches were pointed sharply upwards, and his hair was shorn close (<i>à la</i> Philip II.), to permit his wearing a helmet with ease, for, as master of the royal ordnance, a week seldom passed in those turbulent times without his being engaged on the king's service. A smart bonnet of blue velvet, adorned by a single feather, by its elegant slouch gave a grace to the contour of his head; while a short mantle of the same material, lined with white satin, and furred, as usual, with miniver, waved from his left shoulder. His trunk breeches were also of white satin, and slashed with red; his doublet was cloth-of-gold, and, blazing in the sunlight, rivalled his magnificent baldrick, which, like his bugle-horn, sword, and dagger, was studded with precious stones. No knight present, not even the king himself, surpassed the master of the ordnance in the splendour of attire, the caparisons of his horse, or the grace with which he managed it; and yet poor Sir Roland, though the last representative of the Viponts of Fifeshire (the Scoto-Norman barons of Aberdour), possessed not one acre of land, and, soldier-like, carried all his riches about him.His whole features beamed with joy and ardour, as he raised his eyes to the Ashkirk balcony; his sunburned cheek grew crimson, and his heart bounded with delight. Jane trembled as she smiled, and grew pale (for, as I have said elsewhere, she grew pale when other girls would have blushed). Many months had elapsed since they had looked on each other's beaming faces, and a volume of happiness and recognition was exchanged in their mutual glances.
+
+"Brave Vipont!" exclaimed the old countess, with something of a mother's ardour, as she looked after him, "of a verity, there are few more noble among our Scottish knights. How unfortunate that he is such a minion to the will of a pampered king!"
+
+"Minion, good mother!" said Jane, faintly.
+
+"I said minion, child; and I now say slave! Didst thou not see how covertly he bowed to us, and then only when the king looked another way? A proper squire, by our Lady! and didst thou not mark how James frowned when first he saw us, nor bowed----"
+
+"Until I smiled on him," said Jane, playfully.
+
+"Naughty little varlet, methought 'twas when <i>I</i> smiled," said Alison Home, gaily, as she kissed her beautiful friend.
+
+"Poor Vipont!" continued the countess, "he dreads the loss of thy love, Jane, on one hand, and of the king's favour on the other.But for this paltry manoeuvring, child, thou hadst been the lady of his heart a year ago."
+
+"Mother, I have been the lady of his heart these <i>three</i> years; but poor Roland hath no more to give me than a heart in return. His estate----"
+
+"Consists of old Mons Meg and her marrows," said Marion Logan.
+
+"A lucrative estate he hath found them sometimes," said the countess, coldly, "when he bent their cannon-balls against the castles of the Douglases. But for this paltry fear, I repeat, thou hadst been his wedded wife a year ago, and he had been now a true man to the Earls of Ashkirk and Angus, instead of being the silken slave of James Stuart, whose poor ambition is to grind beneath his heel that Red Heart which my husband hath often bore, amid crashing spears, in the van of Scotland's battles--and ever bore victoriously!" And as she spoke, the countess struck her clenched hand upon the banner which was spread over the balcony before her.
+
+"Thou sayest well, dearest madam!" said little Sybil Douglas, whose dark eyes sparkled as she imbibed some of the countess's fiery spirit; "and again that Red Heart shall be a terror to the Lowlands, and a scourge for past injuries."
+
+At that moment Lady Jane Seton raised her eyes to a window opposite, and encountered the fixed gaze of a sickly and ghastly face; the features were rigid, the lips firmly compressed, the dark eyes were fiery and red. There was a basilisk or rattlesnake expression in them that riveted her attention.They were those of Sir Adam Otterburn of Redhall, who had been attentively observing the greeting which passed between her and Vipont--a greeting that wrung his heart with agony and jealousy; but he bowed with studied politeness, and hurriedly withdrew.
+
+Jane felt relieved by his absence, and again drew breath more freely; but her colour came and went, and her heart for a moment became filled (she knew not why) with vague apprehensions. She knew all Sir Adam's glance conveyed, and trembled for her lover; for the King's Advocate of the New Court was then vested with such powers and terrors as a romancer would alone endow a grand inquisitor.
+
+The pageant passed on to Holyrood accompanied by loud and incessant bursts of acclamation; by songs and carols of welcome and of triumph; for the people, already predisposed to loyalty and jollity, were enraptured by the return of the king, by the gallantry of his bearing, and the beauty of his young French bride. Thus the wells continued to pour forth wine and ale alternately, the castle to fire its ordnance, and the people to shout until St. Marie (a great bell with a very sweet tone, which then hung in the rood tower of St. Giles) rung the citizens to vespers and to rest.<b>CHAPTER III.</b>
+
+THE MASTER OF THE ORDNANCE.
+
+"The bride into her bower is sent,
+The ribald rhyme and jesting spent;
+The lover's whispered words and few,
+Have bade the bashful maid adieu;
+The dancing floor is silent quite,
+No foot bounds there--Good night! good night!"
+        JOANNA BAILLIE.
+
+Evening was closing, when a brilliantly-attired cavalier caracoled his horse from the palace porch, past the high Flemish gables of an ancient edifice, which was then the Mint of Scotland, past the strong round archway known as the Water Gate, because it led to the great horsepond of the palace, and throwing a handful of groats (twenty to king James's golden penny) among the poor dyvours who clustered round the girth cross of the Holy Sanctuary, rode up the Canongate. It was Sir Roland Vipont, the master of the king's ordnance.
+
+Compared to the bustle it had exhibited at noon, the street, though many still thronged it, seemed lifeless and empty. The windows were closed, the balconies deserted, the banners, pennons, and tapestry hung pendant and motionless, and the gay garlands were withering on the stone cross of St. John of Jerusalem.Casting a hasty glance around him to discover whether he was observed (for the political, feudal, and court intrigues of the time made it necessary that his visit to the family of Ashkirk should be as little noted as possible), he dismounted.
+
+A low-browed pend, or archway, opening from the street, and surmounted by a massive coat of arms within a deep square panel, gave admittance to the paved court of the mansion. He led his horse through, and was buckling the bridle to one of the numerous rings with which, for the convenience of mounted visitors, the walls of the court were furnished, when a man, who for some time before had been standing in the shadow of the archway, roughly jostled him.
+
+"How now, sirrah?" exclaimed Vipont, feeling for hie poniard, "what mean you by this?"
+
+"Pardon me--my foot tripped," replied the other, in a husky voice.
+
+"Who are you," asked Vipont, suspiciously, "and what make you here, sir?"
+
+"In the first place, I am no friend of yours; in the second, my purpose matters nothing to any man--so, keep your way, in Heaven's name, and let me keep mine, or it may fare the worse with you."
+
+"This is language rarely addressed to me."
+
+"Thou!" said the other, scornfully, "and who art thou?""Devil choke thee, rascal!" exclaimed the soldier, angrily; "I am master of the king's ordnance."
+
+"To be master of your own temper would be better; but, like your brass culverins, it seems apt to go off upon occasions."
+
+"Hark you, sir; if you deem this witty, you are labouring under a delusion; and, had I not matters of more importance in hand, by the holy mass! I would break every bone in your body."
+
+The other made no immediate reply, but his eyes gleamed like two red coals beneath the black bonnet, which he wore drawn over his brows; but he was so well muffled up by the cape of his large mantle, that Sir Roland strove in vain to discover some clue as to whom he might be, that was prowling by night near the mansion of the Setons; and there was something so startling and cat-like in the aspect of his eyes, that the soldier recoiled a pace.
+
+"Sir Roland," continued the stranger, sarcastically, "you had acted a wiser part in staying by James's side at Holyrood to-night, than in forfeiting his fickle favour by visiting those who are his avowed enemies."
+
+"Thou liest, sirrah!" said Vipont, striking him on the shoulder with his clenched hand. "The Setons of Ashkirk are loyal as any in the land, and I will meet hand to hand, and body for body, any false traitor that gainsays me. But keep your own way, in the devil's name, and trouble me no more--so, a good even, sir.""I bid thee joy of thy wooing, fair sir," replied the other, scornfully, as the master of the ordnance entered, and closed the gate behind him. It was Redhall who spoke, and a sigh of rage and bitterness escaped him as Vipont approached the turnpike tower of the mansion. "Painted wasp!" he exclaimed, as he walked hurriedly away, "by Him who died upon the rood, that blow shall cost thee dear!"
+
+Within an apartment which was completely hung with the richest arras, though the floor was bare, the Countess of Ashkirk, her daughter, and the ladies, were seated at various occupations. The old lady was slowly and laboriously endeavouring to decipher, word by word, one of those curious old tomes which, at times, issued from the shop of Chepman and Millar, two ancient bibliopoles, who established, in the Cowgate, the first printing-press in Scotland, in the time of James IV., who granted them the privilege of "imprenting all bukes" within the realm.
+
+Alison Hume and the black page were playing at chess, the fair young girl looking almost like a divinity when contrasted with the frightful African boy; while Jane Seton and her dark-eyed kinswoman, Sybil Douglas, influenced by that spirit of industry which then pervaded all ranks, were plying their busy hands in embroidering a velvet cover for a large vellum missal, which they were working in flowers of gold and silk, and which was to be a donation from Jane to her friend Josina Henrison, the lady superior of St. Catherine's Convent, near the Burghloch.The light of the setting sun streamed through the windows, and fell upon their dark hair, as it mingled together, and edged their white necks and nimble fingers with dazzling whiteness. A bell tolled at a distance; they paused, and looked up.
+
+"Eight o'clock," said the countess; "the bell is ringing for the <i>compline</i>, at St. Marie of Placentia."
+
+"And <i>he</i> tarries yet," said Jane, in a low voice, to Sybil.
+
+"Do not speak reproachfully, cousin," replied Sybil, gently; "he is not always master of his own actions, and thou knowest well----"
+
+The black page touched her arm, laid a finger on his great nether lip, and pointed towards the street.
+
+"Dear Sabrino," said Jane, "what dost thou hear?"
+
+"Horse!" replied the page, briefly.
+
+"Sabrino, thou hast the very ears of a bratch hound," said the countess. "Now spurs are jingling under the pend--'tis he," continued the old lady, whose cheek flushed, and eyes filled with joyous expectation.A manly step, and the clear ringing of silver spurs, were heard ascending the stone staircase of the mansion; a hand covered with a steel gauntlet drew back the heavy arras, and the lights flashed on the glittering doublet and jewelled baldrick of Sir Roland Vipont as he sprang blithely in.
+
+"Heaven keep you, Lady Ashkirk, and you, my dear Jane, and all fair ladies!" said he, bowing, and kissing all their hands. "Hail to thee, merry Alison, and thou, my sad little Sybil! why, I have not been long absent, and yet thou seemest quite a woman, now!"
+
+"Welcome home--a thousand welcomes to thee, Roland, and a thousand more!" said the countess, forgetting her starched dignity in her native kindliness of heart, and kissing him on the forehead--for though he was tall, they were nearly of a height--while Jane grew pale with excitement, and then blushed with pleasure to see her suitor looking so handsome in his rich attire--browned by nine months' exposure to a continental sun, and appearing, if possible, more graceful and athletic than ever. "Welcome, Roland," continued the countess, passing her hand fondly over his broad, clear, open forehead, his arched eyebrows, and his thick glossy hair; "we have all heard how thou hast been proving thy prowess on the crests of King Francis and his knights, and letting the gay tilters of Paris and Versailles feel the weight of a tough Lowland spear in a true Scottish hand."
+
+"True, madam," replied the young man, laughing, and showing a set of teeth which any of the fair belles present might have envied;"it would have gladdened your haughty Douglas spirit, Lady Ashkirk, to have seen King Francis with twenty Scottish knights keeping the old wooden bridge of St. Michael at Paris for three days against our own King James, with the best chivalry of Burgundy, Brabant, and Alsace, and with all comers who chose to try their hardiment against us. By my faith, sweet Jane, the knot of ribbands your dear hands wove in my helmet were the mark of many a sword and many a spear during these three brawling days; but they seemed to possess a charm, for thrust of lance and blow of blade were levelled at them in vain. But what think ye of the new queen we have brought you home? Is not the fair Magdalene a mirror of beauty? and may not France and Scotland too be proud of her? Jane, what sayest thou?"
+
+"Hum!" said Jane, a little piqued at her lover's excessive admiration for the queen; "methinks she is very passable."
+
+"Passable! Ah, surely you can afford to praise her more than that. I think she is like la belle Isonde, in Sir Thomas Malory's 'Romance of King Arthur,'" replied Vipont, drawing near Jane, while, as if instinctively, the other persons present withdrew to the extreme end of the apartment, and conversed with the countess. "Now tell me, thou merry wag, thy opinion of her."
+
+"I do not think her by one half so charming as my own little self," replied Jane, archly; "and thou, who oughtest to have only eyes for me, should see in her an exceedingly plain woman. When thou seemest so much pleased with her, what surety have I that I was not forgotten by her admirer, amid all the gaieties, the fêtes, and splendour of King Francis' court?""Forgotten, Jane!" responded the young man, tenderly, while his dark eyes filled with a soft expression. "Those who see and love thee will never forget! Have not our hearts been entwined for years, and am I not thy gallant brother's oldest and earliest friend? Have we not grown together from infancy to childhood, from childhood to maturity? and now, in the full flush of our love and joy, you hint that I might forget you!"
+
+"I cry you mercy! what an exordium; I spoke but in pure raillery and jest, dear Roland."
+
+"But why jest thus? Ah no, my gentle Jane, never for an instant were your fair face and sunny smiles absent from my mind, and their memory spurred me on to encounter a thousand difficulties, and enabled me to surmount a thousand dire temptations that beset the path of others; and thus I am come back to you more loving if possible, more true, and more impassioned than ever!"
+
+"Oh, Roland, I can believe it well!" sighed the girl, as her lover, borne away by the depth of his passion (though speaking in a low voice), pressed both her hands to his heart, regardless that the eyes of others saw them.
+
+"Behold what I have brought you from this far-famed city of Paris," said he, as he clasped around her delicate throat a circlet of magnificent diamonds.
+
+"Ah! my poor Vipont," exclaimed Jane; "you must have ruined yourself to bring me this. What a sum it must have cost!""Eleonora of Austria, the Queen of France and sister of the great Charles V., took it from her own fair neck and bestowed it on me as a gift for my Scottish bride; and joyously I thought of you, Jane, when I knelt to receive it from her hands. It was at a passage of arms held near the Porte Papale, just without the walls of Paris, and on the festival of St. Denis, when with a single lance I kept the barrier for an hour, successively prostrating in the dust six Italian knights who had come to France in the train of the Milanese ambassador. By my faith, sweet flower, I covered myself with glory and popularity that day; for it so happened that Sforza, duke of Milan, is the sworn foe of Francis I., and the hearts of the people were all with the victorious Scottish knight."
+
+"And did King James see thee, Sir Roland?" asked the young ladies, who crowded round the delighted girl to observe her splendid gift.
+
+"He sat by the side of Queen Eleonora, and when the sixth cavalier was unhorsed, sprang up from his seat, and throwing his blue bonnet into the air, exclaimed, 'Now, God be with thee, my valiant Vipont, thou hast well sustained our Scottish name to-day, and I will never forget it.' But his rewards are yet to come, fair ladies," added Vipont, as he sighed secretly and glanced at Jane Seton.
+
+"Roland," said the countess, who was beginning to reflect that she had been too long silent; "believe me, those who put their trust in princes are ever deceived. I heard our good King James IV say so when I was but a girl.""He referred then to his brother-in-law of England, whom the laws of neither God nor man could bind; but judge not so of James V., lady. As yet I am but the captain of his ordnance, with the pittance doled out to me monthly by the clerk of his exchequer. Many a fair promise he hath made me of some small portion of those solid gifts--the towers and acres of wold and woodland, which he lavishes on Hamilton the Inquisitor, on Abbot Robert the Treasurer, his eminence the cardinal, and others, but, to our sad experience, Jane, we find them as yet unperformed."
+
+"Better it is that they are so," said the countess, "for then, as Beaton and the abbot do, ye should brook the patrimonies of the proscribed and banished knights and nobles of my father's name."
+
+"True, lady countess; but James is so winning and courteous in manner, so generous and heroic in disposition, that no true Scottish man can behold him without feeling a glow of admiration and loyalty, and at times methinks I could lay down my life for him (ah! I see thou holdest up thy finger), were it not, Jane, dedicated to thee. I could cheerfully battle to the death against all that are his enemies."
+
+"Even the Douglases and the Setons of Ashkirk," said the countess, coldly. "Oh, thou hast become an apt bravo of this commons' king, I fear me!"
+
+"Noble lady," replied Roland, bitterly, "there, as I take God to witness, thou tasketh me sorely.I could not bend a weapon against the house of Douglas, for this dear being," and he took Jane's hand in his, "is the inheritor of their blood; and yet to fail the king even in that particular would be to prove me a mansworn knight and false traitor!"
+
+"Thou art ever by his side, Roland," said Jane, "and can say how he is affected towards us--the Setons of Ashkirk."
+
+"Implacable as ever! Thou rememberest, mine own ladyekin, of the solemn vow he swore, when, by the troopers of Angus, Sir David Falconer was slain by his side, under the ramparts of Tantallon--that solemn vow made above a crucifix and dagger, <i>never while he lived to forgive a Douglas, or one of the Douglas' blood</i>. There is no hope, for that oath I know the king will keep, even though his holiness Paul III. should offer to absolve him from it."
+
+"And let him keep it!" said the countess, with bitterness and scorn; "it matters little. There are spears by the Liddle and archers in Douglasdale who may one day absolve him, as his grandsire was absolved on the field of Sauchieburn. Let us remember the deeds of that day, and the old prophecy that a lion should be killed by its whelps. The Master of Angus, the knights of Glenbernie, Drumlanrig, Lochlevin, and Kinross," continued the countess, reckoning them on her fingers, "with two hundred gentlemen of the surname of Douglas, all died at Flodden, beneath the banner of King James IV., and thus it is his son rewards us!""Oh, lady countess, hush! and pardon me, but there seems something hateful in your hostility to James V."
+
+"By the Holy Rood, and the blessed St. Bryde to boot! I have no patience with thee, friend Roland. I warrant thee in secret a sworn foe to Angus."
+
+"On my honour, no!"
+
+"And my mind misgives me sorely anent ye and my daughter, having both had the misfortune to be born on a Friday."
+
+"I pray you hear me," said Roland, with a secret smile. "So happy was James on beholding the Scottish shore, that, in a burst of gratitude to heaven and love for his people, he was not disinclined to relax those severe statutes under which the exiled peers and barons of the house of Douglas writhe and languish----"
+
+"Say writhe, Sir Roland, for I warrant me they will never languish!" said the tall countess, folding her hands, sitting very upright, and looking disdainfully.
+
+"Something might have been achieved by his eminence the Cardinal Beaton, whom I know to be my friend--for I am come, like himself, of an old Fifeshire family--when lo!the first barge from the shore brought a packet from Sir Adam Otterburn of Redhall, containing a woeful relation of raid, hership, and hamesucken, committed on the Knight of Cessford by the Earl of Ashkirk and a band of Northumbrian troopers whom he has taken into pay. Alas! lady, is this the verity?"
+
+"Not less so than just!" responded the countess, who shook every fold of her lofty head-dress with hauteur. "Is not Cessford the hereditary foe of my son; and God's blood! Rowland Vipont, why should his sword rest? Nay, my gallant Archibald, the moths will never eat the silk of that banner which these old hands wove thee!"
+
+Roland made no immediate reply to this outburst of the old Scottish spirit, but pressed the hand of Jane, and sighed.
+
+"This event, however, is most unfortunate, Lady Ashkirk," he said, after a pause, addressing the countess, and looking with a sad smile at Jane. "It will have a most serious effect upon our fortunes and our happiness. On reading the letter of his advocate, James never spoke, but struck his sword upon the deck and turned sharply away from us. His look was dark as midnight."
+
+"Redhall was over-officious," said the ladies.
+
+"The unmitigated fool!" exclaimed the countess, shaking her clenched hand. "I would my son were here.""Mother of God--nay, at such a time as this?" said little Sybil, with her dark eyes full of tears. "And think you, Sir Roland, that James is really so much incensed?"
+
+"So much, that I came this night to visit you by--by stealth."
+
+"Stealth!" reiterated the fiery countess, rising to the full height of her five feet ten inches, exclusive of red-heeled shoes. "Now, marry, come up and away with us! Sir Roland Vipont, what will you have the assurance to tell me next?"
+
+"Forgive me, dear and nobly lady; thou knowest well how poor I am--how dependent on my sword and the precarious favour of a king, surrounded by a host of needy and rival competitors. Had I lands and vassals, as I have not; were I the son of a lord or baron instead of a poor gentleman archer of the Scottish Guard, it might have been otherwise with me--and thou, Jane, had long ere this"--he paused and pressed her hand. "Oh, lady countess, my fate is not in my own keeping; and too often have I felt bitterly how abject a thing it is to be dependent on the will of another, even though that other be a prince."
+
+"Thou hast thy rapier, Roland, and with the blood of that brave Vipont who brooked the appanage of Aberdour in the days of King David, dost inherit the spirit thy gallant father gave up to God from the battle field of Ravenno, when the Scottish Guard stood like a rampart around Gaston de Foix. Thou hast thy sword, Roland, and all the realms of Europe are before thee.""Yes," replied Roland, mournfully; "but then Jane Seton would be left behind."
+
+"Gallant Vipont, thou art indeed my other son!" said the countess, as she kissed his cheek and became quite pacified, while Jane's bright face became radiant with pleasure.
+
+The countess and her niece, Sybil, with Alison Home and Marian Logan, knowing that they could now be spared, retired to prepare for that early supper of which our late dinners have now usurped the place, and the lovers were left alone, seated together hand in hand, for the first time during nine long months.
+
+They were all eye and ear for each other, as they conversed in voices that were soft and low, and love carried them back to those days of gaiety and simplicity before the cold hand of etiquette had interposed between them. Little Sybil closed the arras as she went out, and we have no wish, by raising it, to break the spell that love and pleasure threw around them.<b>CHAPTER IV.</b>
+
+REDHALL.
+
+"The will is free; why must it then be curbed
+I would be happy, gain what I desire,
+Or feel each pulse throb pleasure in the chase--
+Yet this new teacher tells such pleasure is
+A fruit I must untasted shun."--<i>Nimrod. Act III.</i>
+
+The apartment, which was half darkened, was partly tapestried and partly wainscoted. A stone fireplace, on grotesque columns covered with carved roses, destitute of grate (for grates were not then in fashion) and of fire, for the season was summer, by its emptiness lent a somewhat dreary aspect to the chamber. The floor was without carpet, for carpets were almost unknown in Scotland till 1560 (three and twenty years after); the furniture was of massive oak. The well-grated windows, which looked to the Friar Wynd, were concealed by thick curtains, and gaudily-flowered tapestries, framed in richly-carved oak, covered most part of the walls. A brilliant suit of armour, hanging upon a nail or steel hook, and a few shelves of gigantic folios bound in vellum, edged with red, and clasped with brass, were the leading features in this chamber. A sandglass stood upon the table, for one was usually carried by fellows of colleges and other learned men about this period in lieu of a watch, as we may read in Aubrey's Memoirs.A folio lay on the black oak table, and on its closely-written leaves the light fell from a great iron lamp of grotesque form, covered by a circular shade. With his head reclined on one hand, and the other thrust into the breast of his black velvet doublet, the King's Advocate sat dreamily and moodily immersed in deep thought. His grave and classic face was of a clear olive complexion. His nose was perfectly straight, his eyes large, black, and sparkling, and his knit eyebrows now formed one complete arch above them. His smooth and lofty brow was expressive of deep thought, of watching and study, and even of tranquillity, though there were times when, it could assume a terrible expression, and his keen dark orbs would fill with fire, and every hair of his short moustaches bristle with passion. His mouth was decidedly his worst feature; but his short beard concealed those thin lips which Lavater considered the infallible sign of a mind pregnant with evil. His aspect was lofty and severe, and his eye was so penetrating that few could sustain the fire and inquiry of its glance.
+
+The pages of the <i>Forest Laws</i>, written by King William the Lion, lay before him, but his eyes were fixed on his jewelled poniard that lay on the table close by, showing how his mind wandered from the subject he had sat down to study to the irate promptings of jealousy and revenge.
+
+For Jane Seton, Sir Adam Otterburn and Ronald Vipont had long been rivals; at least so the former had viewed the latter, who had neither dreaded him nor feared his attentions, for such was his confidence in the love and truth of Jane;yet he had nothing to rely on but his sword and the somewhat precarious favour of James V., while Redhall was the proprietor of a strong baronial fortalice, a noble domain situated a few miles south of the city, and as lord advocate of Scotland was a powerful officer of state, then armed with more powers and terrors than any ten inquisitors of the Holy Office. His position was most honourable, and in virtue of it he was always addressed "My Lord." His knowledge of law was little, but his privileges were great; he was permitted to sit covered within the bar of the Court of Session like a peer of the realm, and he had the power of issuing warrants for searching, apprehending, imprisoning and putting to the torture any person in Scotland--his warrants being valid as those of the king. Such was Roland's formidable competitor for the hand of Jane Seton, to whom the young cavalier would have been wedded fully two years before the time in which this history opens, but for the fear of forfeiting king James's favour, and the implacable hostility of that prince to the house of Douglas, which formed an insuperable barrier to any of the court favourites who might be disposed (which few of them were) to form alliances with any noble family of that obnoxious surname.
+
+Aware of this, Otterburn, whose landed possessions rendered him happily independent of James's frowns or favour, had redoubled his assiduity and attentions, never once permitting the hope to die, that Jane might ultimately regard him with favour. During the nine months' absence of the master of the ordnance in France with King James, the addresses of Otterburn had been as unmistakeable as they were obnoxious to the young lady;who seeing in him only the great public prosecutor of her own and her mother's family, viewed him with horror and hostility, though she dismissed him with a cold but cautious politeness, that, strange to say, while it eclipsed his hopes, in no way extinguished his ardour.
+
+From that time forward he could visit her no more; but his inborn obstinacy of spirit and indomitable vanity would not admit of his totally resigning her--especially during the absence of Vipont, against whose safe return there were many chances, during the escapades and broils, the midnight rambles and madcap adventures, in which he and the king were constantly involved. For a time, Otterburn had again given way to the illusions of hope and the impulses of his heart; but now the safe and sudden return of his brilliant rival had swept them all away, together with a thousand bright daydreams, as a breeze does the gossamer webs; and the strong mind of the statesman and judge became a prey to anxious jealousy and furious hatred.
+
+"As a rainbow fades from the sky, so has this bright vision passed from before me!" he exclaimed, as he struck his hands together, and looked upward with something of despair. In his better moments he felt only grief, when his more generous impulses would prompt him to resign Jane Seton in peace to her more favoured lover.
+
+"Were she mine," he mused, with a face that became alternately sad and mournful, or dark and saturnine, "her happiness would be my only object; then why should I seek to mar it because she is <i>not</i>?By what glamour can this mere girl, who never once thought of me otherwise than as the persecutor of the Douglases, fascinate me thus, swaying my heart, my soul, my every purpose--being the object of every effort--the inspirer of every thought? How cometh it that her coldness, her disdain, her hate (nay, she is too gentle for <i>that</i>), all serve but to increase my love? Oh! 'tis sorcery! 'tis sorcery! .... Oh! in how many a long and weary night I have pressed a pillow sleeplessly, and courted slumber, but in vain? How often have I tried to rend her image from my heart, to supplant it by another, and in vain? I have recoiled from that other with disgust, as the more winning image of Jane came before me; and yet she loves me not. How often have I fruitlessly striven to crush this mad and besotting passion, and to nourish only hatred, indifference, or revenge? ..... God help me! I am very miserable. And shall I resign her to the arms of this upstart favourite, this cutthroat cannoneer, and gilded hireling of King James--resign, her without a struggle--I, who am so immeasurably his superior in fortune, mind, and purpose?--Never! ... How strong this passion of love is! How noble, and for how glorious a purpose has God implanted it in our hearts; but oh, may few endure like me to love an object that loves another, and yieldeth no return! Let dotard monks and deceived misanthropes, let stoics and philosophers say what they will, there is more magic and power in the single smile of a woman than in all the impulses of the human heart put together. Ambition dazzles, hatred sways, and revenge impels us--they are powerful incentives, and their triumph is delicious--but love is greater than all.Generosity urges me to leave her to the fool she loves--to avoid her path, her presence, and her spells for ever; but passion, obstinacy, and infatuation, lead me on, and, overwhelming every gentler sentiment, impel me to the pursuit. Shall I, then, be baffled and foiled by this poor caterpillar, whose wings have expanded in the brief sunshine of royal favour--this silken slave--this Roland Vipont, who, not six years since, wore an iron hongreline and brass plate, as a mere French cannoneer, under Vaudmont and Marshal Lautreque? Never! And, by the holy arm of St. Giles! this night shall end our rivalry for ever!"
+
+Thus said, or rather thought, Redhall; and, suddenly pausing, he snatched up a long metal whistle, that lay always at hand, and blew a shrill call.
+
+Almost immediately afterwards the arras was lifted, a man entered, and, making a respectful obeisance, stood at a little distance.<b>CHAPTER V.</b>
+
+THE WITCH-PRICKER.
+
+"<i>Flam.</i> Malicious fortune!
+<i>Ænob.</i> Now thou seest my meaning!"--<i>Boadicea.</i>
+
+The personage who appeared was a short, thickset, and bandy-legged man, whose malformation his chocolate-coloured stockings and white cloth breeches displayed to the utmost advantage. He had a neck and chest like a bullock, with the sinister visage of a thorough-paced ruffian. In size, his head and hands were altogether disproportioned to his body; his hair, beard, and moustaches, which appeared to have been preserved sacred from comb and scissors, were all woven into one matted mass, which was of the deepest black; while drinking and exposure to the weather had bronzed his skin to an almost oriental blackness. He wore a plain frock or gaberdine of white Galloway cloth, confined at the girdle by a broad calfskin belt and steel buckle, in which he carried a long dirk or knife. He wore rough brogues of brown leather on his broad splay feet, and a small rosary of oak beads which dangled at his left wrist evinced his wish to be deemed a respectable member of society; but arrogance, cunning, and brutality, were powerfully depicted on his otherwise stolid visage, which had a very repulsive squareness of aspect, two enormous ears, and a great mastiff mouth.
+
+This worthy was Nichol Birrel, the brodder or witch-pricker of the newly-established high court of justiciary, one of the most unscrupulous and atrocious ruffians that ever occupied this important, and, in after years,lucrative situation.
+
+Born and bred a vassal on the estate of the lord advocate, to whom he was intensely devoted, he had obtained the place of prover or witchfinder, as it peculiarly suited his ruffianly and sanguinary disposition. Several other minor officials of the new court were, like him, the immediate and devoted dependents of Redhall, for whom they acted as bravos on a hundred occasions. Nichol, though cruel, false, bitter, and treacherous to all the rest of mankind, was true, faithful, and sincerely a friend to his lord and benefactor; for he seemed to be possessed by the same instinct which attaches a ferocious hound to the hand that feeds him.
+
+"Od save us, my lord, ye look ill! Is there aught the matter wi' ye?" he asked, gruffly.
+
+"Nichol, is there none in attendance on me but thee?" asked the advocate, without regarding his inquiry; "where are all the servitors?"
+
+"At the palace, seeing the merry masquers."
+
+"Mass! where I should have been but for this accursed sickness, which, to-night, hath fallen so heavily upon me. It matters not; I am invited by the lord chamberlain to the fête to-morrow."
+
+"Ye look worse to-night, Redhall, than I have seen ye since Lententime.""I am sick at heart, Nichol."
+
+"I have been so at the stomach many a time and oft, when I mixed my ale with usquebaugh, but as for the heart----"
+
+"Psha!" exclaimed the advocate, starting abruptly, "either my brain is under the influence of insanity, or there is a spell of sorcery upon me."
+
+"Dost suspect any ill-woman of being the cause thereof, Sir Adam?" asked the brodder, whose eyes began to twinkle in anticipation of a pricking fee, while his square mouth expanded into a grin.
+
+"No, no; I spoke but in metaphor, and suspect none." He paused. "Thou sawest the procession to-day?"
+
+Nichol nodded his vast head affirmatively.
+
+"Didst mark any man there whom ye knew to be my enemy?"
+
+"I marked his eminence the cardinal, who confined a damosel of yours, among his other ladies, in the auld tower of Creich."
+
+"Tush!"
+
+"I observed the lord abbot of the Holy Cross, who won his plea against thee anent the duty on every cart entering the barriers of the town.""Thou triflest! didst mark no one else?"
+
+"Well, then, I marked the master of the king's ordnance, shining in cloth of gold and crammasie."
+
+"Good!--anything more?"
+
+"I saw him smile as he curveted, in his bravery, past the ladies of Ashkirk," replied Nichol, with a cunning leer, while the advocate gnashed his teeth; "and sweetly the lady Jane smiled on him again. It was a braw sight and a brave; and a gude ransom the master's doublet and foot-cloth would have been to any bold fellow that met him in the gloaming by Leith Loan or the Burghmuir; for they were pure cloth-of-gold, and champit with pearls, so that I marvel not the Lady Seton smiled so brightly; for, if love maketh a woman's eye bright, gold will make it brighter."
+
+"Thou art a mercenary slave!" said the advocate, bitterly; "and never felt the passion of which thou talkest so glibly. Nichol, have I not been to thee ever a friend rather than a lord and master--kind, indulgent, and liberal----"
+
+"When service was to be performed," said Nichol, parenthetically, closing one of his yellow eyes with another hideous leer.
+
+"At all times, Nichol," continued the king's advocate, striking his heel sharply on the ground. "Thou knowest that the master of the ordnance and I have long been at deadly feud about--but it recks not thee about what.""Say Jane Seton of Ashkirk, my lord, and you will shoot near the mark."
+
+Redhall's eyes flashed, and he made a fierce gesture of impatience, for he disliked to hear her name in the mouth of this ruffian, whom he despised while he fed and fostered him.
+
+"It is enough, Nichol Birrel--thou understandest me--the master of the ordnance bars my way; this must not be, and shall not be."
+
+There was a pause.
+
+"Well, Sir Adam?" growled the pricker.
+
+"Thou hast thy poniard," said the knight, hoarsely.
+
+"Ay," replied the ruffian, as a broad grin expanded his mastiff mouth, and his great teeth appeared like a row of fangs through his matted beard; "ay, the same gude knife with which I slew Maclellan, the Knight of Bombie, at the north door of St. Giles's kirk. By one backhanded stroke I dashed it into his heart, and he fell with his rosary in his uplifted hand, the name of God on his lips, and the half-signed cross on his brow, yet they saved him not."
+
+There was a pause, for Birrel, who had commenced, in a tone of ruffian irony, ended in a dismal quaver, and grew pale.
+
+"Wretch and fool!" cried the lord advocate, "why remind me of that?"He gave his dependent a terrible glance.
+
+"I crave pardon, Sir Adam; but when I bethink me that this Sir Thomas of Bombie had the lairds of Achlane, Glenshannoch, and Bourg, with nine other knights of his surname to avenge him, I surely ran some risk."
+
+"The Lords of Drumlanrig and Lochinvar were said, by common rumour, to have slain him, and so let it be; he was a foe of the house of Otterburn," hissed the advocate through his teeth, "and of the faction to which that house adhered; a foe to me in particular, and as such must Vipont, the accursed Vipont, die."
+
+Nichol uttered a sound between a growl and a laugh.
+
+"Are Dobbie the doomster, and Sanders the torturer below? I warrant they will be snoring, like gorged hounds, by the kitchen ingle."
+
+"No, they are birling their cans in the buttery."
+
+"Then see to this affair; but dost think we can rely on them?"
+
+"Like myself, Sir Adam, they and their forbears have been leal men and true to the house of Redhall, and wherefore would they fail it now? We are the servants of the law, and what matters it whether we string this soldier of the king in a tow at the cross, or pink him in the dark? 'tis death, any way;" and here the fellow uttered a ferocious laugh again."For your own sakes and mine be secret, sincere, and sure."
+
+The pricker touched his knife, bowed, and raising the arras, dropped it again, and shaking his matted head, paused irresolutely.
+
+"What is it now?" asked Redhall, taking the purse from his girdle. "Money?"
+
+"No, no, Sir Adam, I never served ye for siller, but as my bounden duty; so I crave leave to remind ye that the place of forester up at Kinleith and Bonallie is vacant, and my sister's son, Tom Trotter, a deadly shot with bow and hackbut----"
+
+"Enough; thy sister's son shall have the place of forester; and, for thee, methinks that the master's cloth-of-gold and diamond baldrick might serve for that, and to procure absolution to boot for the three of ye."
+
+"We care not for that, Sir Adam," replied the pricker, "for we are among those who have seen the new light."
+
+"And believe not in the delegated power of the priesthood; eh, is it so?"
+
+Birrel nodded.
+
+"Then why carriest thou that great rosary. I vow it looks like a fetter on thy wrist.""As a blind."
+
+"Lollards, Wickliffites--ha! ha! these new preachers of schism and heresy have made three creditable proselytes; yet, for thy soul's sake, Nichol (and there was a very perceptible sneer in the advocate's face as he said this), I hope thou art a true Catholic at heart; but away to thy comrades, for the night wears on, and Vipont hath not yet left the house of the Setons, for I have not heard the hoofs of his horse. To-morrow," continued Redhall, with a ghastly expression of ferocity, "to-morrow----"
+
+"He shall be either in Catholic purgatory or Protestant hell," grinned the pricker, as he raised the arras and retired.
+
+The ghastly smile yet played upon the thin lips of Redhall.
+
+"To-morrow I shall be freed of these fears, and for ever," he mused; "but at no distant period I must rid me of those three bloodhounds, who have stuck like burs to my skirts since first I took upon me this unhappy office of advocate to the king. Ha, and so they are heretics! Let them serve my purpose in this, and ere another week hath passed the cardinal shall have them under his inquisitorial eyes, and the stake will rid me and society of them for ever. Vipont, beware thee, now, for this night shall be the darkest in the calendar for thee and for thine!"<b>CHAPTER VI.</b>
+
+THE ILLUMINATED SPIRE.
+
+"Our pathway leads but to a precipice;
+And all must follow, fearful as it is!
+From the first step 'tis known; but--no delay!
+On, 'tis decreed. We tremble and obey."
+        ROGERS, <i>Human Life.</i>
+
+Twelve had tolled from the spire of the Netherbow Port, ere Vipont came forth from the Ashkirk Lodging, as the mansion was named (like other hotels of the Scottish noblesse), and taking his horse, rode through the archway. His heart was beating lightly, for the gentle pressure of a soft hand yet seemed to linger in his, and the kiss of a warm little lip was on his cheek. His breast was filled with joy, and his mind with the happiest anticipations of the future.
+
+There was to be a grand masque or fête given by Queen Magdalene to the ladies of the nobility on the night of the morrow, and Roland had resolved that an invitation should be sent to the ladies of Ashkirk, even should he beg it in person of the fair young sovereign; and full of pleasure at the contemplation of how his beautiful Jane would outshine all her compeers, and how surely James, when he saw her, would recal all his edicts against the Setons of Ashkirk, he put spurs to his horse, and, stooping low, made him clear the archway with one bound.The moon was up, and it rolled through a clear and starry sky. A few light and fleecy clouds that slept afar off in the bright radiance, seemed to float above the grim dark summits of the city, whose clusters of close-piled mansions, turreted, gableted and crow-stepped, tall and fantastic, stark and strong, started up ghost-like out of the depths of street and wynd, and stood in bold outline against the clear cold blue of the midnight sky.
+
+As Roland left the archway, three dark figures, which he had not observed, shrunk close together; and when he issued forth, followed him with stealthy steps. They wore short black mantles, and had their bonnets pulled well over their faces; but though they lurked on the shadowy side of the street (which the bright light above rendered yet darker), the haft of a poniard, or knife, glittered at times under their upper garments, as they followed the master of the ordnance cautiously and softly, like cats about to spring on a mouse, and as noiselessly, for they were shod with felt, or some such material, that muffled their footsteps.
+
+Vipont was about to descend towards the palace, near which he lived, in St. Anne's-yard, when a column of light in the west made him pause, and turn towards the centre of the town. A ball of fire was burning on the summit of St. Giles's steeple, and having heard that it was to be illuminated in honour of the queen's arrival and king's return, he resolved to see this unusual display; and riding up the Canongate to the strong barrier which separated the greater from the lesser burgh, he gave his horse to the care of the under-warder of the porte, and from thence walked up the High-street with his long rapier under his arm.The hour was late, but many persons were abroad, and the windows were so full of faces, all gazing at the great tower of St. Giles's, that even had Vipont known that three assassins were on his track and only seeking an opportunity to plunge their poniards in his heart, he would not have felt much alarm.
+
+The airy lantern of this magnificent church is formed by eight ribs of stone that spring from beautiful corbels, and meeting far above the bartizan of the great rood-spire, support a spacious gallery and lofty pinnacle, forming altogether an architectural feature of remarkable beauty, and which (save the church of St. Nicholas at Newcastle) is entirely peculiar to Scotland. It is a complete Gothic diadem of stone. The rich crockets on the arches rise tier above tier, and represent the pearls; the parapets from which they spring, with their row of quatrefoils, being in place of the circlet. The whole of this structure had been covered with variegated lamps, which had been brought from Italy, and were hung by the taste and skill of Father St. Bernard, one of the prebendaries, to the wonder and astonishment of the simple-minded citizens. As yet they were unlit, but a single light, we have said, was burning on the upper pinnacle, like a large red star, and to this every face was turned.
+
+The stone crown of the cathedral was all in dark outline; a faint light shone through the large stained window at the east end, and the tapers flickered at the shrine of Our Lady that stood close by. Save these, all the vast church, with its rows of massive buttresses and pointed windows, was immersed in gloom, though the moonlight silvered the edges of the crocketed pinnacles.Suddenly a volume of light burst over the whole; the ball of fire which had been burning steadily, threw out a million of sparkles which fell like a haze of brilliance over the arches of the spire, lighting up the diminutive lamps in rapid succession, until the whole structure seemed bathed in one broad sheet of coloured flame. The groined arches, the carved pinnacles, and all the airy tracery of the spire, were as plainly visible in their beautiful and grotesque detail as if the beholders had been close to them, instead of being a hundred and sixty feet below; while the lamps of variegated glass produced the most extraordinary variety of light and shadow.
+
+The devils, dragons, and other stone chimeras that projected from the battlements of the clerestory were all tipped with fiery red or ghastly blue light, and seemed to be vomiting flames; every pinnacle and tower of the cathedral stood forth in strong outline, one half being bathed in brilliant light, and the other sunk in black shadow, while a myriad prismatic hues were thrown upon the upturned and countless faces of the gaping crowds who occupied the streets below and the windows around. Into the far depths of many a close and wynd, on the square tower of St. Mary-in-the-Field, on the clustered Bastelhouses of the castle, on the spire of the Netherbow, and square belfreys of the Holy Cross, on all the countless roofs and chimneys of the town, the light fell full and redly, scaring even the coot and the swan among the sedges of the Burghloch, and the eagle and the osprey on the lofty craigs of Salisbury.Cries of astonishment and delight were heard from time to time, mingled with the murmurs of the wondering and the fearful, who, in accordance with the taste and superstition of the age, were, as usual, inclined to attribute the taste and skill which dictated this illumination to sorcery, simply because it was beyond their comprehension.
+
+"Ye say true, my lord abbot," said a voice near Roland; "I have had mine own suspicions anent the fact."
+
+"I have always secretly suspected this Father St. Bernard was a sorcerer; he studied at Padua and Salamanca, where there is more kenned of develrie than theologie."
+
+"He is confessor of the Countess of Ashkirk."
+
+"Who hath a familiar, in the shape of a black page, anent whilk my lord advocate and I have had several conferences--but hush!"
+
+Roland did not hear these last observations, which passed between the Abbot of Kinloss and one of the ten advocates of the new court.
+
+Intent on the beauty of the illumination, Roland Vipont saw not the three muffled men who still dogged him, and from behind the grotesque columns of a stone arcade, which still stands opposite the old church (but is completely obscured by modern shops), were intently observing his motions while keeping their own concealed in shadow.Having been long absent from his native capital, he gazed with admiration on the beautiful effect produced upon its picturesque and fantastic architecture, and he was just wishing that the ladies he had left were with him, to see this new and magnificent spectacle (which in their happiness he and Jane had completely forgotten), when several strong hands were laid violently upon his cloak and belt; he was suddenly dragged from the street, and hurried backwards nearly to the foot of one of those dark, narrow, and then solitary closes that descended abruptly towards the artificial lake, enclosing the city on the north.
+
+So steep was the descent, and so sudden the impetus he received, that before Sir Roland could offer the least resistance, he was beaten to the earth, and the blow of more than one poniard struck sparks of fire from his tempered corslet.
+
+Now deadly was the struggle that ensued; but the three ruffians, in their very eagerness to destroy him, impeded and wounded each other; and though prostrate on the pavement, with his poniard under him, the knees of one bent on his breast, and the hands of another pressing on his throat, which, happily, was encircled with a thick ruff, Roland resisted manfully, his great natural strength and activity being increased by despair and rage. Grasping one by the ruff, he twisted it so as nearly to strangle him, and paralyze the efforts of his right hand, which brandished a long and double-edged poniard, that gleamed ominously in the dim light of the alley."God defend me!" he panted; "must I perish here like a child, or a woman? Release me, villains, or I will spit you all like rabbits. Ho, armour! armour! treason and rescue!"
+
+"No help is nigh thee!" answered Nichol Birrel, with his hyæna-like laugh; "but curses choke thee, take thy hand from my throat!" and he raised his arm for the death-stroke, but Roland caught his descending hand by the wrist, while with a blow of his foot he hurled the third assailant, Sanders Screw, to the very bottom of the close. A howl from Birrel, at the same moment, announced that his companion had wounded him again, a mistake which raised his demon-spirit to a frightful pitch; and furiously he strove to free his wrist, and stab Roland between the joint of his corslet and gorget. His eyes filled with a yellow light; he panted rather than breathed; he seemed no longer a man, but a devil!
+
+Suddenly Roland found this maddened assailant had become too strong for him; and once again, but more feebly (for he had received a wound in the shoulder), he cried--
+
+"Armour and rescue!"
+
+"Knight and gentleman though ye be," panted Birrel--"by hell! I will have thy blood for mine! Strike again, Dobbie, thou coward and dog! Ho, my gay cannonier, ye are as a dead man now!"
+
+"Thou liest, villain! take <i>that</i>!" cried a voice; and he received a blow from a staff which hurled him to the earth.Roland sprang up with a heart full of fury and his sword unsheathed; but his two remaining assailants rushed down the close, and disappeared along the rough bank of the loch before his confusion and giddiness would admit of his following them.
+
+"By St. John, my good friend," said he, adjusting his mantle and ruff, "thou comest at a critical time; a moment later had seen my corslet riddled."
+
+"Ay, and your doublet slashed after the comely Douglas fashion," replied his preserver, whose plain coarse garb, as well as the knotty cudgel he carried, announced him a countryman or peasant.
+
+"Good fellow, I owe thee my life," said Roland, taking his purse from his girdle, "and would gladly yield some adequate recompense. Here, I fear me, there are but few Flemish ryders, and still fewer golden lions."
+
+"Tush!" replied the other with a laugh, as he drew himself haughtily up; "dost offer money to me? Roland Vipont, hast thou quite forgotten me? I am Archibald, Earl of Ashkirk."
+
+"Ashkirk!" reiterated Roland, in a faint whisper, as if he feared the very stones of the street would hear him. "My rash lord and friend," he added, taking the earl's hands within his own, "you know the risk of entering the gates of Edinburgh?"
+
+"Bah!--my head; but who will venture to take it?""There is a price set upon it, nevertheless."
+
+"A thousand merks of Scottish money?"
+
+"True: might I not be false enough to win this sum, so tempting to a soldier?"
+
+"Nay, friend Roland, for then thou wouldst lose my sister Jane."
+
+"Lord earl, if discovered by any other than myself thou art lost."
+
+"Perhaps so; but I shall take particular care to prevent all discovery. In fact, I mean to live for awhile in King James's own palace, where I do not think my enemies will ever dream of looking for me. The king's lances, and the riders of the east, west, and middle Marches, have scoured the whole land for me, from Tweedmouth to Solway sands. Besides, I am resolved to see my mother the countess, and my sister Jane, and endeavour to persuade my dear little Sybil to sojourn with me awhile at the court of England; for though it boasts of dames as fair as the world can show, I long ever for the black eyes and gentle voice of my quiet little cousin. Dost comprehend?"
+
+"Rejoiced as I am to see you, Lord Ashkirk, for the memory of our old friendship, I would rather you were a thousand miles hence than standing to-night in the streets of Edinburgh."
+
+The young noble laughed heartily."Methinks, Sir Captain of the Ordnance, it was fortunate for thee that I was not even one mile from this when those ruffians had thee at such vantage; but dost know wherefore they beset thee so?"
+
+"Nay, not I; they were some villanous cutpurses, doubtless. Mass! I gave one a rough kick in the belt that will cure him of cloak-snatching for a time!"
+
+"Nay, I opine more shrewdly thou art indebted to the third man in Scotland for this affair."
+
+"The third, say you? How?--the first is the king."
+
+"The second?" said the earl.
+
+"His eminence the cardinal; but the third--who is he?"
+
+"Who but Redhall, whom I would have sworn I heard one of those rogues cursing for sending them on such a devil's errand."
+
+"Redhall!"
+
+"Ay, doubtless; the great archpriest of judicial tyranny, the very spirit of oppression, who sits brooding over the people and the peers of Scotland--he whose villanous panders are gorged and overgorged with gifts of escheat from our forfeited possessions, and are ever needy and inexorable.""Sayest thou so? then by Heavens I will have a sure assythement of him for this."
+
+"What other assythement is requisite than a sword-thrust?"
+
+"But, 'fore God! I am in no way this man's enemy," replied Roland.
+
+"All whom the king loves are his enemies."
+
+"Still more so are those whom the king hates; witness his severe prosecution of the Douglases. But we all know, my lord, that the friendship of a Scottish king is too often a fatal gift to his subjects."
+
+"Redhall's ambition is inordinate as that of Beaton; blood-guilty as that of Finnart; and his hatred is as that of the coiled-up snake. By St. Bride! I know not which I hate most," exclaimed the rebellious earl, "James Stuart or his minion advocate."
+
+"Hush, hush! lord earl," said Roland, as they slowly ascended the dark street, "for these words, if ever heard, would bring you to the scaffold ere the sun sets to-morrow."
+
+"I crave pardon," replied the earl, with angry scorn, "I forgot that I spoke to a staunch adherent of this crowned oppressor of the Douglases, and their ally, the house of Ashkirk.""Noble earl, in this devotion to your mother's princely house you wrong our generous king, who, on his happy return to the capital of his ancestors, intended to have recalled all the lords now banished for the rebellion of Angus, and would, ere this late hour, have done so but for your recent inroad from the south, which has closed and steeled his heart against you and against them; and I know well that his able adviser, the stern Cardinal Beaton, devoted as he is to his country, and ever hostile to the grasping and aggressive spirit of England, will leave nothing unsaid to fan the king's vengeance and prompt his retaliation."
+
+"I need not to be told what all Europe says; that James of Scotland allows himself to be led by the nose just as Redlegs and the old ruffs of his council please."
+
+"<i>Redlegs!</i> soh! a ceremonious title for his eminence; I pray God, you have not become tainted by the damning heresies of this English Henry, who has so long been your patron. But where did your lordship intend to dispose of yourself to-night?"
+
+"Faith, I had not made up my mind; for in every change-house I entered, a copy of that proclamation for my apprehension was pasted over the chimneypiece; so, fearing recognition, as the summer night was short and warm, I had resolved to sleep like a mosstrooper on the green brae yonder by the loch, when your cry summoned me to the rescue, and I am here.""'Twas a bright thought, that of yours, about Holyrood," said Vipont, "so, come with me to my apartment, for I know no place where you could be safer than in the very palace. None but the devil himself would dream of looking for you <i>there</i>, under the king's very nose."
+
+"But my disguise is somewhat unlike the finery of your court gallants."
+
+"Come with me to-night, and to-morrow we will think of something else."
+
+"That will be necessary, for I am going to the queen's masque."
+
+"What, thou?"
+
+"Yes, I," replied the madcap earl. "What seest thou in that?"
+
+"Thy discovery, arrest, condemnation, and execution; for God's sake, my lord, be not so criminally rash."
+
+"Fear not, I will never compromise thee."
+
+"I have no fear of that, but----"
+
+"Fear nought else, then, for I have resolved to go, and words are useless."
+
+They had talked so long in the dark alley, that when they issued from its archway into the street opposite the church of St.

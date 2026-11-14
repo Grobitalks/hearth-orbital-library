@@ -1,0 +1,817 @@
+HOLB1	58418	2	160	80	646	150
+1	Introduction
+5	I. Cicero Attico Sal.
+7	I. Cicero To Atticus, Greeting.
+14	II. Cicero To Atticus, Greeting.
+15	III. Cicero To Atticus, Greeting.
+16	IV. Cicero Attico Sal.
+18	IV. Cicero To Atticus, Greeting.
+20	V. Cicero Attico Sal.
+22	V. Cicero To Atticus, Greeting.
+25	VI. Cicero Attico Sal.
+27	VI. Cicero To Atticus, Greeting.
+28	VII. Cicero Attico Sal.
+30	VIII. Cicero Attico Sal.
+31	VIII. Cicero To Atticus, Greeting.
+32	IX. Cicero Attico Sal.
+34	IX. Cicero To Atticus, Greeting.
+35	X. Cicero To Atticus, Greeting.
+38	XI. Cicero Attico Sal.
+39	XI. Cicero To Atticus, Greeting.
+41	XII. Cicero Attico Sal.
+42	XII. Cicero To Atticus, Greeting.
+45	XIII. Cicero Attico Sal.
+47	XIII. Cicero To Atticus, Greeting.
+53	XIV. Cicero Attico Sal.
+54	XIV. Cicero To Atticus, Greeting.
+62	XV. Cicero Attico Sal.
+63	XV. Cicero To Atticus, Greeting.
+64	XVI. Cicero Attico Sal.
+65	XVI. Cicero To Atticus, Greeting.
+81	XVII. Cicero Attico Sal.
+83	XVII. Cicero To Atticus, Greeting.
+92	XVIII. Cicero Attico Sal.
+94	XVIII. Cicero To Atticus, Greeting.
+101	XIX. Cicero Attico Sal.
+103	XIX. Cicero To Atticus, Greeting.
+112	XX. Cicero Attico Sal.
+114	XX. Cicero To Atticus, Greeting.
+120	I. Cicero Attico Sal.
+121	I. Cicero To Atticus, Greeting.
+132	II. Cicero Attico Sal.
+134	II. Cicero To Atticus, Greeting.
+135	III. Cicero Attico Sal.
+136	III. Cicero To Atticus, Greeting.
+140	IV. Cicero Attico Sal.
+141	IV. Cicero To Atticus, Greeting.
+143	V. Cicero Attico Sal.
+144	V. Cicero To Atticus, Greeting.
+148	VI. Cicero Attico Sal.
+149	VI. Cicero To Atticus, Greeting.
+151	VII. Cicero Attico Sal.
+153	VII. Cicero To Atticus, Greeting.
+157	VIII. Cicero Attico Sal.
+158	VIII. Cicero To Atticus, Greeting.
+160	IX. Ccicero Attico Sal.
+161	IX. Cicero To Atticus, Greeting.
+165	X. Cicero Attico Sal.
+167	XI. Cicero Attico Sal.
+168	XI. Cicero To Atticus, Greeting.
+169	XII. Cicero Attico Sal.
+170	XII. Cicero To Atticus, Greeting.
+172	XIII. Cicero Attico Sal.
+174	XIII. Cicero To Atticus, Greeting.
+175	XIV. Cicero Attico Sal.
+176	XIV. Cicero To Atticus, Greeting.
+178	XV. Cicero Attico Sal.
+180	XV. Cicero To Atticus, Greeting.
+183	XVI. Cicero Attico Sal.
+184	XVI. Cicero To Atticus, Greeting.
+189	XVII. Cicero Attico Sal.
+190	XVII. Cicero To Atticus, Greeting.
+192	XVIII. Cicero Attico Sal.
+193	XVIII. Cicero To Atticus, Greeting.
+196	XIX. Cicero Attico Sal.
+197	XIX. Cicero To Atticus, Greeting.
+203	XX. Cicero Attico Sal.
+204	XX. Cicero To Atticus, Greeting.
+207	XXI. Cicero Attico Sal.
+208	XXI. Cicero To Atticus; Greeting.
+213	XXII. Cicero Attico Sal.
+214	XXII. Cicero To Atticus, Greeting.
+218	XXIII. Cicero Attico Sal.
+219	XXIII. Cicero To Atticus, Greeting.
+221	XXIV. Cicero Attico Sal.
+222	XXIV. Cicero To Atticus, Greeting.
+227	XXV. Cicero Attico Sal.
+229	XXV. Cicero To Atticus, Greeting.
+234	II. Cicero To Atticus, Greeting.
+237	IV. Cicero To Atticus, Greeting.
+240	VII. Cicero Attico Sal.
+241	VII. Cicero To Atticus, Greeting.
+243	VIII. Cicero Attico Sal.
+245	VIII. Cicero To Atticus, Greeting.
+248	IX. Cicero Attico Sal.
+249	IX. Cicero To Atticus, Greeting.
+252	X. Cicero Attico Sal.
+253	X. Cicero To Atticus, Greeting.
+255	XI. Cicero Attico Sal.
+256	XI. Cicero To Atticus, Greeting.
+257	XII. Cicero Attico Sal.
+258	XII. Cicero To Atticus, Greeting.
+260	XIII. Cicero Attico Sal.
+262	XIII. Cicero To Atticus, Greeting.
+264	XIV. Cicero Attico Sal.
+265	XIV. Cicero To Atticus, Greeting.
+266	XV. Cicero Attico Sal.
+267	XV. Cicero To Atticus, Greeting.
+276	XVI. Cicero Attico Sal.
+278	XVII. Cicero Attico Sal.
+279	XVII. Cicero To Atticus, Greeting.
+280	XVIII. Cicero Attico Sal.
+282	XVIII. Cicero To Atticus, Greeting.
+283	XIX. Cicero To Atticus, Greeting.
+286	XX
+287	XX
+289	XXI. Cicero Attico Sal.
+291	XXII. Cicero Attico Sal.
+292	XXII. Cicero To Atticus, Greeting.
+294	XXIII. Cicero Attico Sal.
+295	XXIII. Cicero To Atticus, Greeting.
+300	XXIV. Cicero Attico Sal.
+301	XXIV. Cicero To Atticus, Greeting.
+307	I. Cicero Attico Sal.
+308	I. Cicero To Atticus, Greeting.
+314	II. Cicero Attico Sal.
+316	II. Cicero To Atticus, Greeting.
+323	III. Cicero Attico Sal.
+325	III. Cicero To Atticus, Greeting.
+332	IV. Cicero Attico Sal.
+334	IV. Cicero To Atticus, Greeting.
+336	V. Cicero Attico Sal.
+338	V. Cicero To Atticus, Greeting.
+340	VI. Cicero Attico Sal.
+341	VI. Cicero To Atticus, Greeting.
+345	VII. Cicero Attico Sal.
+346	VII. Cicero To Atticus, Greeting.
+348	VIII. Cicero Attico Sal.
+350	VIII. Cicero To Atticus, Greeting.
+355	IX. Cicero Attico Sal.
+357	IX. Cicero To Atticus, Greeting.
+358	X. Cicero Attico Sal.
+359	X. Cicero To Atticus, Greeting.
+361	XI. Cicero Attico Sal.
+363	XI. Cicero To Atticus, Greeting.
+364	XII. Cicero Attico Sal.
+366	XII. Cicero To Atticus, Greeting.
+367	XIII. Cicero Attico Sal.
+368	XIII. Cicero To Atticus, Greeting.
+369	XIV. Cicero Attico Sal.
+370	XIV. Cicero To Atticus Greeting.
+371	XV. Cicero To Atticus, Greeting.
+<b>IX</b>
+
+CCICERO ATTICO SAL.
+
+[Sidenote: <i>Scr. Anti medio m. Apr. a. 695</i>]
+
+Subito cum mihi dixisset Caecilius quaestor puerum se Romam mittere, haec scripsi raptim, ut tuos elicerem mirificos cum Publio dialogos cum eos, de quibus scribis, tum illum, quem abdis et ais longum esse, quae ad ea responderis, perscribere; illum vero, qui nondum habitus est, quem illa βοῶπις, cum e Solonio redierit, ad te est relatura. Sic velim putes, nihil hoc posse mihi esse iucundius. Si vero, quae
+
+general holds equally strong views, and cannot put up with the present state of affairs. We are all right. If we can put our trust in them, we need not trouble ourselves, so far as I can see. I am devoting myself to history. But, though you think me as energetic as Saufeius, I am the laziest mortal alive.
+
+But get clear about my journeys, so that you may settle where you will see me. I am intending to get to my place at Formiae on the feast of Pales; and then, since you think I ought not to stop at the delightful Crater[67] on this occasion, I shall leave Formiae on the 1st of May, so as to reach Antium on the 3rd. There are games at Antium from the 4th to the 6th of May, and Tullia wants to see them. Then I am thinking of going to Tusculum, and from there to Arpinum, reaching Rome on the 1st of June. Be sure you pay me a visit either at Formiae or at Antium, or at my place at Tusculum.Reproduce your former letter for me, and add something new to it.
+
+<b>IX</b>
+
+CICERO TO ATTICUS, GREETING.
+
+[Sidenote: <i>Antium, April</i>, B.C. <i>59</i>]
+
+Caecilius the quaestor having suddenly told me that he was sending a man to Rome, I write this note in haste to extract from you all your wonderful dialogues with Publius, those you mention in your note, and the one you keep dark, saying that your answers were too long to write; and besides the one which has not yet been held, but which that Juno[68] is going to report to you, when she returns from Solonium. Pray believe me when I say there is nothing that would please me more. If the compact about
+
+Footnote 67:
+
+The bay of Naples, where Cicero’s Pompeian villa was.
+
+Footnote 68:
+
+Clodia.
+
+de me pacta sunt, ea non servantur, in caelo sum, ut sciat hic nosier Hierosolymarius traductor ad plebem,quam bonam meis putissimis orationibus gratiam rettulerit. Quarum exspecta divinam παλινῳδίαν. Etenim, quantum coniectura auguramur, si erit nebulo iste cum his dynastis in gratia, non modo de cynico consulari, sed ne de istis quidem piscinarum Tritonibus poterit se iactare. Non enim poterimus ulla esse invidia spoliati opibus et illa senatoria potentia. Sin autem ab iis dissentiet, erit absurdum in nos invehi. Verum tamen invehatur.
+
+Festive, mihi crede, et minore sonitu, quam putaram. orbis hic in re publica est conversus; citius omnino, quam potuit, idque[69] culpa Catonis, sed rursus improbitate istorum, qui auspicia, qui Aeliam legem. qui Iuniam et Liciniam, qui Caeciliam et Didiam neglexerunt, qui omnia remedia rei publicae effuderunt, qui regna quasi praedia tetrarchis, qui immanes pecunias paucis dederunt. Video iam, quo invidia transeat et ubi sit habitatura. Nihil me existimaris neque usu neque a Theophrasto didicisse, nisi brevi tempore desiderari nostra illa tempora videris. Etenim, si fuit invidiosa senatus potentia, cum ed non ad populum, sed ad tres homines immoderatos redacta sit, quid iam censes fore? Proinde isti licet faciant, quos
+
+Footnote 69:
+
+idque <i>Wesenberg</i>: id <i>M</i>.
+
+me is not kept, I am in the seventh heaven with delight at thinking how that Jerusalemite plebeian-monger will learn what a pretty return he has made for all my choicest panegyrics: and you may expect recantation of eclipsing brilliancy;for, so far as I can see, if that good-for-nothing is in favour with our sovereigns, he will have to give up crowing over the “ex-consul with a cynic’s tongue” and those “Tritons of the fish-ponds” together: for there will be nothing to envy me for, when I have been robbed of my power and my influence in the Senate. If on the other hand he quarrels with them, then any attack on me would be absurd. However let him attack, if he likes.
+
+Upon my word the wheel of State has turned round gaily and with less noise than I had expected: more quickly to be sure than it might have done. That is Cato’s fault, but it is still more through the villainy of those who have disregarded auspices and the Aelian law, the Iunian and Licinian law and the Caecilian and Didian law, who have thrown out of the window all the physic for the State, who have given kingdoms to tetrarchs as though they were farms and immense sums of money to one or two people. I can see already which way jealousy is tending and where it will come home to roost. Count me too big a dunce to have learned anything by experience or from Theophrastus, if you do not see very shortly men mourning for the days of my government. For if the power of the Senate was unpopular, you can imagine what things will be like now, when the power has been transferred not to the people, but to three unbridled men. So let them make anyone they like consuls and tribunes,
+
+volent, consules, tribunos pl., denique etiam Vatini strumam sacerdotii διβάφῳ vestiant, videbis brevi tempore magnos non modo eos, qui nihil titubarunt, sed etiam illum ipsum, qui peccavit, Catonem. Nam nos quidem, si per istum tuum sodalem Publium licebit, σοφιστεύειν cogitamus, si ille cogit, tum[70] dumtaxat nos defendere, et, quod est proprium artis huius, ἐπαγγέλλομαιἄνδρ’ ἀπαμύνεσθαι, ὅτε τις πρότερος χαλεπήνῃ.
+
+Patria propitia sit. Habet a nobis, etiamsi non plus, quam debitum est; plus certe, quam postulatum est. Male vehi malo alio gubernante quam tam ingratis vectoribus bene gubernare. Sed haec coram commodius.
+
+Nunc audi, quod quaeris. Antium me ex Formiano recipere cogito a. d. V Nonas Maias; Antio volo Nonis Maiis proficisci in Tusculanum. Sed, cum e Formiano rediero (ibi esse usque ad pr. K. Maias volo), faciam statim te certiorem. Terentia tibi salutem, καὶ Κικέρων ὁ μικρὸς ἀσπάζεται Τίτον Ἀθηναῖον.<b>X</b>
+
+CICERO ATTICO SAL.
+
+[Sidenote: <i>Scr. in Appi Foro XII K. Apr. a. 695</i>]
+
+Volo ames meam constantiam. Ludos Anti spectare non placet; est enim ὑποσόλοικον, cum velim vitare omnium deliciarum suspicionem, repente ἀναφαίνεσθαι non solum delicate, sed etiam inepte peregrinantem.
+
+Footnote 70:
+
+cogit, tum <i>Orelli</i>: cogitat tantum <i>M</i>.
+
+let them cloak Vatinius’ wen with the double-dyed purple gown of the augur, you will see very soon not only those who have made no slip, but even Cato himself for all his mistakes exalted, to the skies. As for me, I am thinking of playing the sophist, if your comrade Publius will allow me: I shall defend myself only if he compels me. Using the ordinary trick of the trade, I shall put up a notice that I am ready to
+
+[Sidenote: Iliad xxiv, 369]
+
+Give blow for blow, if any rouse me first.If only the country will be on my side. Certainly it has had from me more than it ever asked for, if not more than I owe to it. I would rather have a bad passage with another at the helm than steer safely myself for such ungrateful passengers. But of this we can talk better when we meet.
+
+Now listen to my answer to your question. I am thinking of betaking myself to Antium from Formiae on May the 3rd: and I hope to start from Antium for Tusculum on May the 7th. But, as soon as I have returned from Formiae—and I intend to stay there till the last of April—I will send you definite news. Terentia sends her love, and little Cicero his greeting to Titus the Athenian.
+
+X
+
+CICERO TO ATTICUS, GREETING.
+
+[Sidenote: <i>Appi Forum, March 21</i>, B.C. <i>59</i>]
+
+I hope you will admire my consistency. I have decided not to see the games at Antium. For it would be rather noticeably inconsistent at a time when I am trying to avoid the suspicion of taking a pleasure trip, suddenly to appear in the character of one travelling not only for pleasure, but for very
+
+Quare usque ad Nonas Maias te in Formiano exspectabo. Nunc fac ut sciam, quo die te visuri simus. Ab Appi Foro hora quarta. Dederam aliam paulo ante a Tribus Tabernis.<b>XI</b>
+
+CICERO ATTICO SAL.
+
+[Sidenote: <i>Scr. in Formiano m. Apr. a. 695</i>]
+
+Narro tibi, plane relegatus mihi videor, posteaquam in Formiano sum. Dies enim nullus erat, Anti cum essem, quo die non melius scirem, Romae quid ageretur, quam ii, qui erant Romae. Etenim litterae tuae, non solum quid Romae, sed etiam quid in re publica, neque solum quid fieret, verum etiam quid futurum esset, indicabant. Nunc, nisi si quid ex praetereunte viatore exceptum est, scire nihil possumus. Quare, quamquam iam te ipsum exspecto, tamen isti puero, quem ad me statim iussi recurrere, da ponderosam aliquam epistulam plenam omnium non modo actorum, sed etiam opinionum tuarum, ac diem, quo Roma sis exiturus, cura ut sciam. Nos in Formiano esse volumus usque ad prid. Nonas Maias. Eo si ante eam diem non veneris, Romae te fortasse videbo; nam Arpinum quid ego te invitem?
+
+Τρηχεῖ’, ἀλλ’ ἀγαθὴ κουροτρόφος, οὔτ’ ἄρ’ ἔγωγε
+ἧς γαίης δύναμαι γλυκερώτερον ἄλλο ἰδέσθαι.
+
+Haec igitur. Cura, ut valeas.
+
+foolish pleasure too. So I shall wait for you till the 7th of May at Formiae. Now let me know what day I shall see you. From Appi Forum at 10 o’clock. I sent another letter a little earlier from the Three Taverns.<b>XI</b>
+
+CICERO TO ATTICUS, GREETING.
+
+[Sidenote: <i>Formiae, April</i>, B.C. <i>59</i>]
+
+I assure you I feel an absolute exile since I have been at Formiae. There never was a day when I was at Antium that I was not better up in the news of Rome than those who were living there. The fact is your letters used to set before me not only the city news, but all the political news, and not only what was happening, but what was going to happen too. Now I can’t get to know anything, unless I pick up chance news from a passing traveller. So, although I am expecting you here very soon, give this man of mine, who is under orders to return at once, a bulky missive, full of news of all that has happened and what you think about it: and don’t forget to say what day you are leaving Rome. I intend to stay at Formiae till the 6th of May. If you can’t get here before that date, perhaps I shall see you at Rome, for I can hardly invite you to Arpinum.
+
+[Sidenote: Odyssey ix. 27]
+
+My rugged native land, good nurse for men;
+None other would mine eyes so gladly see.
+
+That is all then. Take care of yourself.<b>XII</b>
+
+CICERO ATTICO SAL.
+
+[Sidenote: <i>Scr. Tribus Tabernis XIII K. Mai. a. 695</i>]
+
+Negent illi Publium plebeium factum esse? Hoc vero regnum est et ferri nullo pacto potest. Emittat ad me Publius, qui obsignent; iurabo Gnaeum nostrum, collegam Balbi, Anti mihi narrasse se in auspicio fuisse.
+
+O suaves epistulas tuas uno tempore mihi datas duas! Quibus εὐαγγέλια quae reddam, nescio; deberi quidem plane fateor. Sed vide συγκύρημα. Emerseram commodum ex Antiati in Appiam ad Tris Tabernas ipsis Cerialibus, cum in me incurrit Roma veniens Curio meus. Ibidem ilico puer abs te cum epistulis. Ille ex me, nihilne audissem novi. Ego negare. “Publius,” inquit, “tribunatum pl. petit.” “Quid ais?” “Et inimicissimus quidem Caesaris, et ut omnia,” inquit, “ista rescindat.” “Quid Caesar?” inquam. “Negat se quicquam de illius adoptione tulisse.” Deinde suum, Memmi, Metelli Nepotis exprompsit odium. Complexus iuvenem dimisi properans ad epistulas. Ubi sunt, qui aiunt “ζώσης φωνῆς”? quanto magis vidi ex tuis litteris quam ex illius sermone, quid ageretur, de ruminatione cotidiana, de cogitatione Publi, de lituis βοώπιδος, de signifero Athenione, de litteris missis ad Gnaeum, de<b>XII</b>
+
+CICERO TO ATTICUS, GREETING.
+
+[Sidenote: <i>Tres Tabernae, Apr. 18</i>, B.C. <i>59</i>]
+
+So they deny that Publius has been made a plebeian, do they? This is certainly sheer tyranny and not to be borne. Let Publius send some one to witness my affidavit. I will take my oath that my friend Gnaeus, Balbus’ colleague, told me at Antium that he had himself assisted at taking the auspices.
+
+Fancy two such delightful letters of yours being delivered at one and the same time! I don’t know how to pay you back for your good news, though I candidly confess my debt. Here’s a coincidence. I had just taken the turn off the road to Antium on to the Appian Way at the Three Taverns on the very day of the Cerealia, when my friend Curio met me, fresh from Rome: and at the very same moment your man with a letter. Curio inquired whether I hadn’t heard the news. “No,” said I. “Publius is standing for the tribuneship,” says he. “You don’t say so!” “And he is at deadly enmity with Caesar,” he replies, “and wants to annul all those laws of his.” “And what is Caesar doing?” I inquired. “He is denying that he ever proposed Clodius’ adoption.” Then he emptied the vials of his own wrath and that of Memmius and Metellus Nepos. I embraced the youth and said good-bye, being in a hurry to get to your letters. What a lot of nonsense is talked about “viva vox”? Why, I learned a dozen times as much about affairs from your letter as from his talk—the daily chit-chat, the designs of Publius, Juno’s war-cries, how Athenio[71] is raising the standard, his letterFootnote 71:
+
+<i>Juno</i> = Clodia, while it is probably Sex. Clodius who is referred to as <i>Athenio</i>. Athenio was one of the leaders in the insurrection of slaves in Sicily 103–101 B.C.
+
+Theophanis Memmique sermone; quantam porro mihi exspectationem dedisti convivii istius ἀσελγοῦς! Sum in curiositate ὀξύπεινος, sed tamen facile patior te id ad me συμπόσιον non scribere; praesentem audire malo.
+
+Quod me, ut scribam aliquid, hortaris, crescit mihi quidem materies, ut dicis, sed tota res etiam nunc fluctuat, κατ’ ὀπώρην τρύξ. Quae si desederit, magis erunt iam liquata,[72] quae scribam. Quae si statim a me ferre non potueris, primus habebis tamen et aliquamdiu solus. Dicaearchum recte amas; luculentus homo est et civis haud paulo melior quam isti nostri ἀδικαίαρχοι; Litteras scripsi hora decima Cerialibus, statim ut tuas legeram, sed eas eram daturus, ut putaram, postridie ei, qui mihi primus obviam venisset. Terentia delectata est tuis litteris; impertit tibi multam salutem, καὶ Κικέρων ὁ φιλόσοφος τὸν πολιτικὸν Τίτον ἀσπάζεται.<b>XIII</b>
+
+CICERO ATTICO SAL.
+
+[Sidenote: <i>Scr. in Formiano m. Apr. circ. a. d. VIII K. Mai. a. 695</i>]
+
+Facinus indignum! epistulam αὐθωρεὶ tibi a Tribus Tabernis rescriptam ad tuas suavissimas epistulas neminem reddidisse! At scito eum fasciculum, quo illam conieceram, domum eo ipso die latum esse, quo ego dederam, et ad me in Formianum relatum esse. Itaque tibi tuam epistulam iussi referri, ex qua intellegeres, quam mihi tum illae gratae fuissent. Romae
+
+Footnote 72:
+
+iudicata <i>MSS.</i>; liquata <i>Orelli</i>; iam liquata <i>Kayser</i>.
+
+to Gnaeus, the conversation with Theophanes and Memmius: and you have made me wild with inquisitiveness about that “fast” dinner. My curiosity is insatiable: but I have no grievance at your omitting to write an account of the dinner. I would much rather hear it by word of mouth.
+
+As for your exhortations to write something, my material certainly is increasing, as you say; but everything is still in a state of ferment, like must in autumn. When things have settled down, my writing will be more clarified. Though you may not get anything from me at once, you shall be the first to have it however, and no one else for a long time.You are right in admiring Dicaearchus. He is a splendid fellow and a far better patriot than any of these great men of ours to whom his name would certainly not apply.[73] I write this on the day of the Cerealia at four o’clock, as soon as I read yours: but I am thinking of giving it to the first person I meet to-morrow. Terentia is delighted with your letters. She sends you her warmest greetings, and Cicero in his new rôle of philosopher salutes Titus the politician.<b>XIII</b>
+
+CICERO TO ATTICUS, GREETING.
+
+[Sidenote: <i>Formiae, circa April 23</i>, B.C. <i>59</i>]
+
+What a shame! The letter I wrote on the spur of the moment at the Three Taverns in answer to your delightful notes never reached you! The reason was that the packet in which I had put it was taken to my town house the same day, and brought back to me at Formiae. So I have had the letter sent back to show you how pleased I was with yours.
+
+Footnote 73:
+
+Cicero puns on the name Dicaearchus (= “just ruler”).
+
+quod scribis sileri, ita putabam; at hercule in agris non siletur, nec iam ipsi agri regnum vestrum ferre possunt. Si vero in hanc Τηλέπυλον veneris Λαιστρυγονίην, Formias dico, qui fremitus hominum! quam irati animi? quanto in odio noster amicus Magnus! cuius cognomen una cum Crassi Divitis cognomine consenescit. Credas mihi velim, neminem adhuc offendi, qui haec tam lente, quam ego fero, ferret. Quare, mihi crede, φιλοσοφῶμεν. Iuratus tibi possum dicere nihil esse tanti. Tu si litteras ad Sicyonios habes, advola in Formianum, unde nos pridie Nonas Maias cogitamus.<b>XIV</b>
+
+CICERO ATTICO SAL.
+
+[Sidenote: <i>Scr. in Formiano inter XI et III K. Mai. a. 695</i>]
+
+Quantam tu mihi moves exspectationem de sermone Bibuli, quantam de colloquio βοώπιδος, quantam etiam de illo delicato convivio! Proinde ita fac venias ut ad sitientes aures. Quamquam nihil est iam, quod magis timendum nobis putem, quam ne ille noster Sampsiceramus, cum se omnium sermonibus sentiet vapulare, et cum has actiones εὐανατρέπτους videbit, ruere incipiat. Ego autem usque eo sum enervatus, ut hoc otio, quo nunc tabescimus, malim ἐντυραννεῖσθαι quam cum optima spe dimicare.
+
+De pangendo quod me crebro adhortaris, fieri nihil potest. Basilicam habeo, non villam, frequentia Formianorum
+
+Your news that the uproar has died down in Rome does not surprise me: but I can assure you it has not died down in the country, and the very country cannot endure that despotism you endure. If you come to this “Laestrygonia of the far gates,”—Formiae [Sidenote: Odyssey x. 81] I mean—you will find the people raging with indignation, and our friend Magnus—a name which is now growing as obsolete as Crassus’ surname Dives—held in the deepest abhorrence. You may not believe me, but I have not met anyone here who takes the matter as coolly as myself. So follow my advice and let us stick to philosophy. I can take my oath there is nothing like it.If you have a letter to send to the Sicyonians, hasten to Formiae. I am thinking of leaving on the 6th of May.
+
+<b>XIV</b>
+
+CICERO TO ATTICUS, GREETING.
+
+[Sidenote: <i>Formiae, between April 20 and 28</i>, B.C. <i>59</i>]
+
+You have aroused the liveliest curiosity in me as to your talk with Bibulus and your conversation with Juno, and about that “fast” dinner too. So remember my ears are thirsting for news, and come quickly. However, the thing I am most afraid of at the present moment is that our friend the Pasha may run amuck as soon as he realizes that every one is railing at him and laying it on to him, and that these new measures are quite easy to upset. For myself, however, I have grown so slack that I should prefer to waste my life in my present ease under a despotism than to take part in the struggle however bright the prospect of success. As for the writing, for which you so incessantly clamour, it is impossible. My house is so crowded with the townsfolk that it is a
+
+atque imparem basilica tribui Aemiliae.[74] Sed omitto vulgus; post horam quartam molesti ceteri non sunt. C. Arrius proximus est vicinus, immo ille quidem iam contubernalis, qui etiam se idcirco Romam ire negat, ut hic mecum totos dies philosophetur. Ecce ex altera parte Sebosus, ille Catuli familiaris. Quo me vertam? Statim mehercule Arpinum irem, ni te in Formiano commodissime exspectari viderem dumtaxat ad pr.Nonas Maias; vides enim, quibus hominibus aures sint deditae meae. O occasionem mirificam, si qui nunc, dum hi apud me sunt, emere de me fundum Formianum velit! Et tamen illud probem: “Magnum quid aggrediamur et multae cogitationis atque otii”? Sed tamen satis fiet a nobis, neque parcetur labori.<b>XV</b>
+
+CICERO ATTICO SAL.
+
+[Sidenote: <i>Scr. in Formiano inter XI et III K. Mai a. 695</i>]
+
+Ut scribis, ita video non minus incerta in re publica quam in epistula tua, sed tamen ista ipsa me varietas sermonum opinionumque delectat. Romae enim videor esse, cum tuas litteras lego, et, ut fit in tantis rebus, modo hoc, modo illud audire. Illud tamen explicare non possum, quidnam invenire possit nullo recusante ad facultatem agrariam. Bibuli autem ista magnitudo animi in comitiorum dilatione quid habet nisi ipsius iudicium sine ulla correctione rei
+
+Footnote 74:
+
+ad quam partem basilicae tribum Aemiliam <i>M: the text follows Boot’s emendation</i>.
+
+public hall rather than a private house: and too small at that for the Aemilian tribe. But—to omit the common herd, for others don’t bother me after ten o’clock—C. Arrius is my next door neighbour, or rather he lives with me, declaring that he has forborne to go to Rome, expressly for the purpose of spending his whole day philosophizing with me here. Then on the other side there is Sebosus, Catulus’ intimate friend. Which way can I turn?Upon my word I would go to Arpinum straight away, if I did not see that Formiae is the most convenient place to wait for your visit: but only up to the 6th of May, for you see what bores my ears are condemned to endure. Now’s the time to bid for my Formian estate, while these people are pestering me. And in spite of this am I to make good my promise “Let me attempt something great, requiring much thought and leisure”? Still I will satisfy you and not spare my labour.<b>XV</b>
+
+CICERO TO ATTICUS, GREETING.
+
+[Sidenote: <i>Formiae, between April 20 and 28</i>, B.C. <i>59</i>]
+
+I fully realize that, as you say, your letter only reflects the general uncertainty of public affairs: but still that very variety of talk and opinion has its charm: for I feel as though I was at Rome, when I read your letter, and was hearing first one thing and then another, as one does on questions of importance. But what I can’t make out is how Caesar can possibly find any solution of the land question which will not meet with opposition. As to Bibulus’ firmness in impeding the comitia, it amounts to nothing but an expression of his opinion and does not improve
+
+publicae? Nimirum in Publio spes est. Fiat, fiat tribunus pl., si nihil aliud, ut eo citius tu ex Epiro revertare; nam, ut illo tu careas, non video posse fieri, praesertim si mecum aliquid volet disputare. Sed id quidem non dubium est, quin, si quid erit eius modi, sis advolaturus. Verum, ut hoc non sit, tamen, sive ruet sive eriget[75] rem publicam, praeclarum spectaculum mihi propono, modo te consessore spectare liceat.
+
+Cum haec maxime scriberem, ecce tibi Sebosus! Nondum plane ingemueram, “salve,” inquit Arrius. Hoc est Roma decedere! Quos ego homines effugi cum in hos incidi! Ego vero“In montes patrios et ad incunabula nostra”
+
+pergam. Denique, si solus non potuero, cum rusticis potius quam cum his perurbanis, ita tamen, ut, quoniam tu certi nihil scribis, in Formiano tibi praestoler usque ad III Nonas Maias.
+
+Terentiae pergrata est adsiduitas tua et diligentia in controversia Mulviana. Nescit omnino te communem causam defendere eorum, qui agros publicos possideant; sed tamen tu aliquid publicanis pendis, haec etiam id recusat. Ea tibi igitur et Κικέρων, ἀριστοκρατικώτατος παῖς, salutem dicunt.
+
+Footnote 75:
+
+sive eriget <i>Corradus</i>: get <i>CZ</i>: ΔΣ. <i>omit the word</i>.
+
+the position of affairs at all. Upon my word our only hope rests in Publius. Let him by all means become tribune; if for no other reason, to make you return all the sooner from Epirus. For I don’t see how you can possibly keep away from him, especially if he should choose to quarrel with me. But of course I have no doubt that you would fly to my side, if anything of the kind were to happen. But, even if this does not happen, I am looking forward to a sight worth seeing, whether he runs amuck or saves the state, if I can watch it with you sitting by my side.
+
+Just as I was writing these words, in comes Sebosus: and I had hardly fetched a sigh, when there was Arrius saying “Good day.”This is going out of town! Is it escaping from society to run into people like this? I shall certainly be off to “My native hills, the cradle of my youth.” To put it shortly, if I can’t be alone, I would rather be with countryfolk than with these ultra-city men. However, as you send no definite date, I will wait for you at Formiae till the 5th of May.
+
+Terentia is much gratified by the attention and care you have bestowed on her dispute with Mulvius. She has not the least idea that you are supporting the common cause of all the owners of public land. However you do pay something to the tax-collectors; while she refuses to pay a penny. Accordingly she and my boy, a most conservative lad, send their respects.<b>XVI</b>
+
+CICERO ATTICO SAL.
+
+[Sidenote: <i>Scr. in Formiano in. m. Maio a. 695</i>]
+
+Cenato mihi et iam dormitanti pridie K. Maias epistula est illa reddita, in qua de agro Campano scribis. Quid quaeris? primo ita me pupugit, ut somnum mihi ademerit, sed id cogitatione magis quam molestia; cogitanti autem haec fere succurrebant. Primum ex eo, quod superioribus litteris scripseras, ex familiari te illius audisse prolatum iri aliquid, quod nemo improbaret, maius aliquid timueram. Hoc mihi eius modi non videbatur. Deinde, ut me egomet consoler, omnis exspectatio largitionis agrariae in agrum Campanum videtur esse derivata, qui ager, ut dena iugera sint, non amplius hominum quinque milia potest sustinere; reliqua omnis multitudo ab illis abalienetur necesse est. Praeterea si ulla res est, quae bonorum animos, quos iam video esse commotos, vehementius possit incendere, haec certe est et eo magis, quod portoriis Italiae sublatis, agro Campano diviso quod vectigal superest domesticum praeter vicensimam? quae mihi videtur una contiuncula clamore pedisequorum nostrorum esse peritura. Gnaeus quidem noster iam plane quid cogitet nescio;
+
+φυσᾷ γὰρ οὐ σμικροῖσιν αὐλίσκοις ἔτι,
+ἀλλ’ ἀγρίαις φύσαισι φορβειᾶς ἄτερ.
+
+qui quidem etiam istuc adduci potuerit. Nam adhuc<b>XVI</b>
+
+CICERO TO ATTICUS, GREETING.
+
+[Sidenote: <i>Formiae, May</i>, B.C. <i>59</i>]
+
+As I was taking a nap after dinner on the last of April, your letter about the Campanian land arrived. Well, at first it startled me so that it banished all desire to sleep, though it was thought rather than uneasiness that kept me awake. The result of my cogitations was something of this sort. First, when you said in your last letter you had heard from a great friend of Caesar’s that some proposal was going to be made to which no one could object, I had feared some sweeping measure; but this I don’t consider anything of the kind. Secondly—and that is some consolation to me—all hope of agrarian distribution seems to have been diverted to the Campanian land. Supposing that the allotments are about 6 acres apiece, that land will not hold more than 5,000 people; so they have to offend all the rest of the masses. Besides, if anything is calculated to arouse a fiercer pitch of indignation in the minds of the conservatives, who are obviously getting roused already, this is the very thing that will; all the more so because there won’t be any home tax left except the 5 per cent.,[76] now that the customs duties have been abolished, if the Campanian land is distributed: and that, I fancy, it would take only one petty harangue assisted by the cheers of our lacqueys to abolish. What on earth our friend Gnaeus is thinking of in letting himself be carried so far, I cannot tell:He blows no more on slender pipe of reed,
+But fierce unmodulated trumpet-blasts.
+
+Footnote 76:
+
+On manumitted slaves.
+
+haec ἐσοφίζετο, se leges Caesaris probare, actiones ipsum praestare debere; agrariam legem sibi placuisse, potuerit intercedi necne, nihil ad se pertinere; de rege Alexandrino placuisse sibi aliquando confici, Bibulus de caelo tum servasset necne, sibi quaerendum non fuisse; de publicanis voluisse se illi ordini commodare, quid futurum fuerit, si Bibulus tum in forum descendisset, se divinare non potuisse. Nunc vero, Sampsicerame, quid dices? vectigal te nobis in monte Antilibano constituisse, agri Campani abstulisse? Quid? hoc quem ad modum obtinebis? “Oppressos vos,” inquit, “tenebo exercitu Caesaris.” Non mehercule me tu quidem tam isto exercitu quam ingratis animis eorum hominum, qui appellantur boni, qui mihi non mode praemiorum, sed ne sermonum quidem umquam fructum ullum aut gratiam rettulerunt. Quodsi in eam me partem incitarem, profecto iam aliquam reperirem resistendi viam. Nunc prorsus hoc statui, ut, quoniam tanta controversia est Dicaearcho, familiari tuo, cum Theophrasto, amico meo, ut ille tuus τὸν πρακτικὸν βίον longe omnibus anteponat, hic autem τὸν θεωρητικόν, utrique a me mos gestus esse videatur. Puto enim me Dicaearcho adfatim satis fecisse; respicio nunc ad hanc familiam, quae mihi non modo, ut requiescam, permittit, sed reprehendit, quia non semper quierim. Quare incumbamus, o noster Tite, ad illa praeclara studia etFor up to now he has chopped logic about the matter, saying that he approved of Caesar’s laws, but it was for Caesar to see to their passing: that the agrarian law was sound enough to his mind, but whether it could be vetoed by a tribune or not did not matter to him: he thought it was high time the question was settled with the king of Alexandria: whether Bibulus had been watching for omens or not at that particular moment was no business of his: as for the tax-gatherers, they were a class that he wished to oblige: what was going to happen, if Bibulus came down to the forum on that occasion, he could not have prophesied. But now what has the Pasha got to say for himself? That he imposed a tax on Antilibanus and took it off the Campanian land? Well, I don’t see how he will make it good. “I will keep you in check with Caesar’s army,” he says. No, not me at least; that army will not restrain me so much as the ungrateful minds of the so-called constitutionalists, who have not repaid my services even by thanks, much less by more substantial rewards. But, if I were really to rouse myself to energy against that party, I would certainly find some means of resisting them. As it is, since there is such an endless controversy between your intimate Dicaearchus and my friend Theophrastus, Dicaearchus giving the preference to a practical life, Theophrastus to a contemplative, I have set my mind on making it clear that I have humoured them both. I take it I have fully satisfied Dicaearchus: now I am turning my eye to the other school, which not only gives me permission to take my ease now, but blames me for ever having done anything else. So, my dear Titus, let me throw myself heart and soul into those excellent studies,
+
+eo, unde discedere non oportuit, aliquando revertamur.Quod de Quinti fratris epistula scribis, ad me quoque fuit πρόσθε λέων, ὄπιθεν δὲ—[77]quid dicam, nescio; nam ita deplorat primis versibus mansionem suam, ut quemvis movere possit, ita rursus remittit, ut me roget, ut annales suos emendem et edam. Illud tamen, quod scribis, animadvertas velim de portorio circumvectionis; ait se de consilii sententia rem ad senatum reiecisse. Nondum videlicet meas litteras legerat, quibus ad eum re consulta et explorata perscripseram non deberi. Velim, si qui Graeci iam Romam ex Asia de ea causa venerunt, videas et, si tibi videbitur, iis demonstres, quid ego de ea re sentiam. Si possum discedere, ne causa optuma in senatu pereat, ego satis faciam publicanis; εἰ δὲ μή (vere tecum loquar), in hac re malo universae Asiae et negotiatoribus; nam eorum quoque vehementer interest. Hoc ego sentio valde nobis opus esse. Sed tu id videbis. Quaestores autem, quaeso, num etiam de cistophoro dubitant? Nam, si aliud nihil erit, cum erimus omnia experti, ego ne illud quidem contemnam, quod extremum est. Te in Arpinati videbimus et hospitio agresti accipiemus, quoniam maritumum hoc contempsisti.
+
+Footnote 77:
+
+Iliad vi, 181, ending δράκων, μέσση δὲ χίμαιρα.
+
+and at length seek the home that I ought never to have left.
+
+As for your complaints about my brother Quintus’ letter, to me, too, it seemed “a lion before, behind”—heaven knows what. For the groans in the first lines about his long absence would touch anybody’s heart: then afterwards he calms down sufficiently to ask me to touch up and edit his journal.Please pay some attention to the point you mention about the dues on goods transferred from port to port. He says he referred it to the Senate by the advice of his assessors. Evidently he had not read my letter, in which I told him after careful consideration and research that no tax was legally due. If any Greeks have come from Asia to Rome about it, please see them, and, it you think fit, tell them my opinion. If I can recant, I will do as the tax collectors wish, rather than see the good cause worsted in the House: but, if not, I candidly confess I prefer the interests of the whole of Asia and the merchants, for I feel it is really a matter of great importance to them. I think, however, it is a case of necessity for us. But you will see to it. Are the quaestors, then, still debating about the currency? If there is no escape from it in spite of all our efforts, I shouldn’t turn up my nose at the Asiatic coins as the last resource. I shall see you at Arpinum, and give you a country welcome, since you have despised this at the seaside.<b>XVII</b>
+
+CICERO ATTICO SAL.
+
+[Sidenote: <i>Scr. in Formiano in m. Mai. a. 695</i>]
+
+Prorsus, ut scribis, ita sentio, turbatur Sampsiceramus. Nihil est, quod non timendum sit; ὁμολογουμένως τυραννίδα συσκευάζεται. Quid enim ista repentina adfinitatis coniunctio, quid ager Campanus, quid effusio pecuniae significant? Quae si essent extrema, tamen esset nimium mali, sed ea natura rei est, ut haec extrema esse non possint. Quid enim? eos haec ipsa per se delectare possunt? Numquam huc venissent, nisi ad alias res pestiferas aditus sibi compararent. Verum, ut scribis, haec in Arpinati a. d. VI circiter Idus Maias non deflebimus, ne et opera et oleum philologiae nostrae perierit; sed conferemus tranquillo animo. Di immortales neque tam me εὐελπιστία consolatur ut antea quam ἀδιαφορία, qua nulla in re tam utor quam in hac civili et publica. Quin etiam, quod est subinane in nobis et non ἀφιλόδοξον (bellum est enim sua vitia nosse), id adficitur quadam delectatione. Solebat enim me pungere, ne Sampsicerami merita in patriam ad annos sescentos maiora viderentur quam nostra. Hac quidem cura certe iam vacuus sum; iacet enim ille sic, ut πτῶσις[78] Curiana stare videatur. Sed haec coram. Tu tamen videris mihi Romae fore ad nostrum adventum, quod sane facile patiar, si tuo commodo fieri possit; sin, ut scribis, ita venies, velim ex Theophane
+
+Footnote 78:πτῶσις <i>Bosius</i>: phocis <i>codd.</i>
+
+<b>XVII</b>
+
+CICERO TO ATTICUS, GREETING.
+
+[Sidenote: <i>Formiae, May</i>, B.C. <i>59</i>]
+
+I agree entirely with what you say in your letter. The Pasha is running amuck. We may anticipate anything: he is quite clearly setting up a tyranny. What else is the meaning of this sudden marriage-contract,[79] of the proposals about the Campanian land, of this reckless expenditure of money? If that were the end of it, it would be disastrous enough: but the nature of the case makes it impossible that this should be the end. These things in themselves cannot possibly give them any pleasure: and they would never have taken this step except as the first to other pernicious acts. But, as you say, we will discuss these questions rationally at Arpinum about the 10th of May, and not prove all the labour and the midnight oil we have spent on our studies wasted by weeping over them. Heaven help us! I derive consolation not so much from hope, as I did formerly, as from a spirit of indifference, which I call to my service especially in civic and political matters. Nay more, the little strain of vanity and thirst for fame that there is in me—it is a good thing to recognize one’s own faults—even experiences a pleasurable sensation. For the thought that the Pasha’s services to the country might in the dim future be reckoned higher than mine, used to prick me to the heart: but now I rest quite easy on that score.He has fallen so low that the fallen Curius in comparison seems to stand erect. But of this when we meet. It seems now as though you will be at Rome when I arrive: for which I shall not be at all sorry, if it is
+
+Footnote 79:
+
+Of Pompey with Caesar’s daughter.
+
+expiscere, quonam in me animo sit Arabarches. Quaeres scilicet κατὰ τὸ κηδεμονικὸν et ad me ab eo quasi ὑποθήκας adferes, quem ad modum me geram. Aliquid ex eius sermone poterimus περὶ τῶν ὅλων suspicari.<b>XVIII</b>
+
+CICERO ATTICO SAL.
+
+[Sidenote: <i>Scr. Romae m. Iun. aut in. Quint. a. 695</i>]
+
+Accepi aliquot epistulas tuas; ex quibus intellexi, quam suspenso animo et sollicito scire averes, quid esset novi. Tenemur undique neque iam, quo minus serviamus, recusamus, sed mortem et eiectionem quasi maiora timemus, quae multo sunt minora. Atque hic status, quasi[80] una voce omnium gemitur neque verbo cuiusquam sublevatur. Σκοπὸς est, ut suspicor, illis, qui tenent, nullam cuiquam largitionem relinquere. Unus loquitur et palam adversatur adulescens Curio. Huic plausus maximi, consalutatio forensis perhonorifica, signa praeterea benevolentiae permulta a bonis impertiuntur. Fufium clamoribus et conviciis et sibilis consectantur. His ex rebus non spes, sed dolor est maior, cum videas civitatis voluntatem solutam, virtutem alligatam. Ac, ne forte quaeras κατὰ λεπτὸν de singulis rebus, universa res eo est deducta, spes ut nulla sit aliquando non modo privatos, verum etiam magistratus liberos fore. Hac tamen in oppressione sermo in circulis dumtaxat
+
+Footnote 80:
+
+quasi <i>Schiche</i>: qui <i>codd.</i>
+
+convenient to you. But if you come to see me, as you promise in your note, I wish you would fish out of Theophanes how the Sheikh is disposed to me.You will of course use your usual care in inquiring, and will deliver to me a kind of Whole Duty by which to regulate my conduct. From his conversation we shall be able to get an inkling of the entire situation.
+
+<b>XVIII</b>
+
+CICERO TO ATTICUS, GREETING.
+
+[Sidenote: <i>Rome, June or July</i>, B.C. <i>59</i>]
+
+I have received several letters of yours, and from them I see with what tense anxiety you are looking forward to news. We are hemmed in on every side; yet we do not rebel at servitude, fearing death and exile as though they were greater evils, whereas they are really far lesser evils. Yes, that is the position, and though every one groans about it, not a voice is raised to relieve it. The object, I presume, of those who hold the reins is to leave nothing for anyone else to give away. One man only opens his mouth and opposes them publicly, and that is young Curio. The loyal party cheers him loudly, greets him in the forum with the highest respect, and shows its good-will to him in many other ways, while Fufius is pursued with shouts and jeers and hisses. But this raises not one’s hope so much as one’s disgust at seeing the people’s will so free and their courage so enslaved. And, not to enter into details with you, affairs have come to such a pass that there is no hope of ever again having free magistrates, let alone a free people. But in the midst of this tyranny speech is freer than ever, at any rate in clubs and over ouret in conviviis est liberior quam fuit. Vincere incipit timorem dolor, sed ita, ut omnia sint plenissima desperationis. Habet etiam Campana lex exsecrationem candidatorum, si mentionem in contione fecerint, quo aliter ager possideatur atque ut ex legibus Iuliis. Non dubitant iurare ceteri; Laterensis existimatur laute fecisse, quod tribunatum pl. petere destitit, ne iuraret.
+
+Sed de re publica non libet plura scribere. Displiceo mihi nec sine summo scribo dolore. Me tueor ut oppressis omnibus non demisse, ut tantis rebus gestis parum fortiter. A Caesare valde liberaliter invitor in legationem illam, sibi ut sim legatus, atque etiam libera legatio voti causa datur. Sed haec et praesidii apud pudorem Pulchelli non habet satis et a fratris adventu me ablegat, illa et munitior est et non impedit, quo minus adsim, cum velim. Hanc ego teneo, sed usurum me non puto, neque tamen scit quisquam. Non lubet fugere, aveo pugnare. Magna sunt hominum studia. Sed nihil adfirmo; tu hoc silebis.
+
+De Statio manu misso et non nullis aliis rebus angor equidem, sed iam prorsus occallui. Tu vellem
+
+cups. Disgust is beginning to conquer fear, though it still leaves the blankest despair everywhere. The Campanian law goes so far as to impose upon candidates a formula of execration upon themselves if they propose any different occupation of the land to that laid down by the Julian laws, to be used by them in their speech as candidates. The others showed no compunction in taking the oath: but Laterensis is thought a hero because he threw up his candidature for the tribunate rather than take it.I have no heart to write more about politics. I am disgusted with myself and it is agony to me to write. I stand my ground without losing self-respect considering the universal servility, but with less courage than I could wish considering my past record. Caesar most liberally invites me to take a place on his personal staff: and I even have an offer of a free travelling pass nominally to fulfil a vow.[81] But it is hardly safe to trust to that Beauty’s delicacy to that extent. Besides it would mean that I should not be here for my brother’s return. The other post is much safer, and does not prevent me from being here when I wish. The free pass I have, but I don’t think I shall use it. No one knows of it however. I don’t want to run away; I long to fight. I have plenty of ardent admirers. But I won’t take my oath on anything, and please don’t mention what I’ve said.
+
+I am much distressed about the manumission of Statius and some other things, but I’ve become thick-skinned by now. I wish you were here, I long for
+
+Footnote 81:
+
+The <i>libera legatio</i> was a pseudo-embassy at state expense, granted to senators who wished to pay a vow, receive an inheritance, or exact a debt.
+
+ego vel cuperem adesses; nec mihi consilium nec consolatio deesset. Sed ita te para, ut, si inclamaro, advoles.<b>XIX</b>
+
+CICERO ATTICO SAL.
+
+[Sidenote: <i>Scr. Romae m. Quint. a. 695</i>]
+
+Multa me sollicitant et ex rei publicae tanto motu et ex iis periculis, quae mihi ipsi intenduntur et sescenta sunt; sed mihi nihil est molestius quam Statium manu missum:
+
+“Nec meum imperium, ac mitto imperium non simultatem meam Revereri saltem!”
+
+Nec, quid faciam, scio, neque tantum est in re, quantus est sermo. Ego autem ne irasci possum quidem iis, quos valde amo; tantum doleo ac mirifice quidem. Cetera in magnis rebus. Minae Clodi contentionesque, quae mihi proponuntur, modice me tangunt; etenim vel subire eas videor mihi summa cum dignitate vel declinare nulla cum molestia posse. Dices fortasse: “Dignitatis ἅλις tamquam δρυός, saluti, si me amas, consule.” Me miserum! cur non ades? nihil profecto te praeteriret. Ego fortasse τυφλώττω et nimium τῷ καλῷ προσπέπονθα. Scito nihil umquam fuisse tam infame, tam turpe, tam peraeque omnibus generibus, ordinibus, aetatibus offensum quam hunc statum, qui nunc est, magis mehercule, quam vellem, non modo quam putarem. Populares isti iam etiam
+
+it. I should no longer feel the lack of advice or consolation. However, hold yourself ready to come quickly, if I call for you.<b>XIX</b>
+
+CICERO TO ATTICUS, GREETING.
+
+[Sidenote: <i>Rome, July</i>, B.C. <i>59</i>]
+
+I have many causes for anxiety, both from the troubled state of the constitution and from the innumerable personal dangers which threaten me. But nothing annoys me more than Statius’ manumission:
+
+[Sidenote: Terence, <i>Phorm.</i> 232]
+
+That my authority—nay, I let that be—
+That my displeasure should be counted nought!
+
+But what I am to do, I don’t know; and the matter is more talk than anything. I can never be angry with those I really love: I can only feel sorrow, and very deep sorrow too. My other cares are for important matters. Clodius’ threats and the struggle I have to face do not affect me much: for I think I can face the music with dignity or avoid the danger without unpleasantness. Perhaps you will say: “Hang dignity. It’s prehistoric.[82] For mercy’s sake look after your safety,” Alas! Why aren’t you here? You would notice everything: while I perhaps am blinded by my passion for high ideals. Nothing was ever so scandalous, so disgraceful, and so objectionable to every rank and class of men young or old as this present state of affairs, far more so than I expected, nay upon my soul it is more so than I could wish. The popular party have taught even theFootnote 82:
+
+Lit. “enough of the oak,” a proverb alluding to a supposed acorn diet in the days before the use of corn was discovered.
+
+modestos homines sibilare docuerunt. Bibulus in caelo est, nec, quare, scio, sed ita laudatur, quasi
+
+“Unus homo nobis cunctando restituit rem.”
+
+Pompeius, nostri amores, quod mihi summo dolori est, ipse se adflixit. Neminem tenent voluntate; ne metu necesse sit iis uti, vereor. Ego autem neque pugno cum illa causa propter illam amicitiam neque approbo, ne omnia improbem, quae antea gessi; utor via. Populi sensus maxime theatro et spectaculis perspectus est; nam gladiatoribus qua dominus qua advocati sibilis conscissi; ludis Apollinaribus Diphilus tragoedus in nostrum Pompeium petulanter invectus est:
+
+“Nostra miseria tu es magnus—”
+
+miliens coactus est dicere;
+
+“Eandem virtutem istam veniet tempus cum graviter gemes”
+
+totius theatri clamore dixit itemque cetera. Nam et eius modi sunt ii versus, uti in tempus ab inimico Pompei scripti esse videantur:“Si neque leges neque mores cogunt—,”
+
+et cetera magno cum fremitu et clamore sunt dicta. Caesar cum venisset mortuo plausu, Curio filius est insecutus. Huic ita plausum est, ut salva re publica Pompeio plaudi solebat. Tulit Caesar graviter. Litterae Capuam ad Pompeium volare dicebantur. Inimici
+
+moderate men to hiss. Bibulus is exalted to the sky, though I don’t know why. However he is as much bepraised as though
+
+“His wise delay alone did save the state.”[83]
+
+To my infinite sorrow, my pet, Pompey, has shattered his own reputation. They have no hold on anyone by affection: and I am afraid they may find it necessary to try the effect of fear. I do not quarrel with them on account of my friendship for him, though I refrain from showing approval not to stultify all my previous actions. I keep to the high-road. The popular feeling can be seen best in the theatre and at public exhibitions. For at the gladiatorial show both the leader[84] and his associates were overwhelmed with hisses: at the games in honour of Apollo the actor Diphilus made an impertinent attack on Pompey, “By our misfortunes thou art Great,” which was encored again and again. “A time will come when thou wilt rue that might” he declaimed amid the cheers of the whole audience, and so on with the rest. For indeed the verses do look as though they had been written for the occasion by an enemy of Pompey: “If neither law nor custom can constrain,” etc. was received with a tremendous uproar and outcry.At Caesar’s entry the applause dwindled away; but young Curio who followed was applauded as Pompey used to be when the constitution was still sound. Caesar was much annoyed: and it is said a letter flew post haste to Pompey at Capua.
+
+Footnote 83:
+
+So Ennius speaking of Q. Fabius Maximus.
+
+Footnote 84:
+
+Probably Pompey, Caesar being the chief of the <i>socii</i>, though some take it to refer to Gabinius, who gave the show, or to Caesar.
+
+erant equitibus, qui Curioni stantes plauserant, hostes omnibus; Rosciae legi, etiam frumentariae minitabantur. Sane res erat perturbata. Equidem malueram, quod erat susceptum ab illis, silentio transiri, sed vereor, ne non liceat. Non ferunt homines, quod videtur esse tamen ferendum; sed est iam una vox omnium magis odio firmata quam praesidio.
+
+Noster autem Publius mihi minitatur, inimicus est. Impendet negotium, ad quod tu scilicet advolabis. Videor mihi nostrum illum consularem exercitum bonorum omnium, etiam satis bonorum habere firmissimum. Pompeius significat studium erga me non mediocre; idem adfirmat verbum de me illum non esse facturum; in quo non me ille fallit, sed ipse fallitur. Cosconio mortuo sum in eius locum invitatus. Id erat vocari in locum mortui. Nihil me turpius apud homines fuisset neque vero ad istam ipsam ἀσφάλειαν quicquam alienius.Sunt enim illi apud bonos invidiosi, ego apud improbos meam retinuissem invidiam, alienam adsumpsissem. Caesar me sibi vult esse legatum. Honestior declinatio haec periculi; sed ego hoc non repudio. Quid ergo est? pugnare malo. Nihil tamen certi. Iterum dico “utinam adesses!” Sed tamen, si erit necesse, arcessemus
+
+They are annoyed with the knights who stood up and clapped Curio, and their hand is against every man’s. They are threatening the Roscian law and even the corn law. Things are in a most disturbed condition. I used to think it would be best silently to ignore their doings, but I am afraid that will be impossible. The public cannot put up with things, and yet it looks as though they would have to put up with them. The whole people speak now with one voice, but the unanimity has no foundation but common hate.
+
+Anyhow our friend Publius is threatening me and making hostile advances: there is trouble ahead, and you must fly to the rescue. I think I have at my back the same firm bodyguard of all the sound men and even the moderately sound, as I had in my consulship. The affection Pompey shows me is more than ordinary. He declares Clodius will not say a word against me: but there he is deceiving himself not me. I have been asked to fill Cosconius’ place[85] now he is dead. That would be stepping into a dead man’s shoes, with a vengeance! I should disgrace myself utterly in the world’s eyes: and nothing could be more opposed to the state of safety you keep talking of. For that board is unpopular with the loyal party, and so I should keep my unpopularity with the disloyal and take up another’s burden too. Caesar wants me to go as his lieutenant. That would be a more honourable way of getting out of danger.But I don’t want to shirk it, for the very good reason that I prefer fighting. However nothing is settled, I repeat, I wish you were here. However,
+
+Footnote 85:
+
+As one of the twenty commissioners for the distribution of public land.
+
+Quid aliud? quid? Hoc opinor. Certi sumus perisse omnia; quid enim ἀκκιζόμεθα tam diu?
+
+Sed haec scripsi properans et mehercule timide. Posthac ad te aut, si perfidelem habebo, cui dem, scribam plane omnia, aut, si obscure scribam, tu tamen intelleges. In iis epistulis me Laelium, te Furium faciam; cetera erunt ἐν αἰνιγμοῖς. Hic Caecilium colimus et observamus diligenter. Edicta Bibuli audio ad te missa. Iis ardet dolore et ira noster Pompeius.<b>XX</b>
+
+CICERO ATTICO SAL.
+
+[Sidenote: <i>Scr. Romae m. Quint. a. 695</i>]
+
+Anicato, ut te velle intellexeram, nullo loco defui. Numestium ex litteris tuis studiose scriptis libenter in amicitiam recepi. Caecilium, quibus rebus possum, tueor diligenter. Varro satis facit nobis. Pompeius amat nos carosque habet. “Credis?” inquies. Credo; prorsus mihi persuadet; sed, quia volgo pragmatici homines omnibus historiis, praeceptis, versibus denique cavere iubent et vetant credere, alterum facio, ut caveam, alterum, ut non credam, facere non possum. Clodius adhuc mihi denuntiat periculum. Pompeius adfirmat non esse periculum, adiurat; addit etiam se prius occisum iri ab eo quam me violatum iri. Tractatur
+
+if it is necessary. I will send for you. Anything else? One thing, I think: I am sure the country is lost. It is no use mincing matters[86] any longer.
+
+However I have written this in a hurry, and, I may say, in a fright too. Some time I will give you a clear account, if I find a very trusty messenger; or, if I veil my meaning, you will manage to understand it. In these letters I will call myself Laelius and you Furius: and convey the rest in riddles. Here I am cultivating Caecilius and paying him elaborate attention. I hear Bibulus’ edicts have been sent to you. Pompey is blazing with wrath and indignation at them.<b>XX</b>
+
+CICERO TO ATTICUS, GREETING.
+
+[Sidenote: <i>Rome, July</i>, B.C. <i>59</i>]
+
+I have done all I could for Anicatus, knowing you wanted me to do so, and have willingly adopted Numestius as a friend on the strength of the earnest recommendation in your letter. To Caecilius I take care to pay every suitable attention. Varro is as good as I can expect; and Pompey shows me friendship and affection. Can I believe him, you ask. I do believe him; he quite convinces me. But since men of the world are always advising one in their histories and precepts and even in their verses to beware and forbidding one to believe, I do the one and beware, but to the other—not to believe—I cannot persuade myself. Clodius is still threatening me with danger, while Pompey asserts that there is no danger. He swears it, adding even that he will not see me injured if it costs him his life. The point is under
+
+Footnote 86:
+
+Lit. “to be coy,” or “to coquet.”
+
+res. Simul et quid erit certi, scribam ad te. Si erit pugnandum, arcessam ad societatem laboris; si quies dabitur, ab Amalthea te non commovebo.De re publica breviter ad te scribam; iam enim, charta ipsa ne nos prodat, pertimesco. Itaque posthac, si erunt mihi plura ad te scribenda, ἀλληγορίαις obscurabo. Nunc quidem novo quodam morbo civitas moritur, ut, cum omnes ea, quae sunt acta, improbent, querantur, doleant, varietas nulla in re sit, aperteque loquantur et iam clare gemant, tamen medicina nulla adferatur. Neque enim resisti sine internecione posse arbitramur nec videmus, qui finis cedendi praeter exitium futurus sit. Bibulus hominum admiratione et benevolentia in caelo est; edicta eius et contiones describunt et legunt. Novo quodam genere in summam gloriam venit. Populare nunc nihil tam est quam odium popularium. Haec quo sint eruptura, timeo; sed, si dispicere quid coepero, scribam ad te apertius. Tu, si me amas tantum, quantum profecto amas, expeditus facito ut sis, si inclamaro, ut accurras; sed do operam et dabo, ne sit necesse. Quod scripseram me tibi ut[87] Furio scripturum, nihil necesse est tuum nomen mutare; me faciam Laelium et te Atticum neque utar meo chirographo neque signo, si modo erunt eius modi litterae, quas in alienum incidere nolim.
+
+Footnote 87:
+
+me tibi ut <i>Wesenberg</i>: et <i>M</i>.
+
+negotiation: as soon as any certain conclusion is reached, I will write to you. If I have to fight, I will summon you to share my labour: but if I am left in peace, I will not rout you out of your Amalthea.
+
+Political matters I shall only touch on briefly: for I am beginning to be afraid that the very paper may betray me.So in future, if I have to write in fuller detail to you, I shall hide my meaning under covert language. Now the State is dying of a new disease. The measures that have been passed cause universal discontent and grumbling and indignation: there is no disagreement on the point and people are now venting their opinion and their disapproval openly and loudly, yet no remedy is applied. Resistance seems impossible without bloodshed: nor can we see any other end to concession except destruction. Bibulus is exalted to the skies amid universal admiration and popularity. His edicts and speeches are copied out and read. He has attained the height of glory in quite a novel way. Nothing is so popular now as hatred of the popular party. I have my fears about the issue of all this. But I will write more clearly, if I get any definite views. Do you, if your affection for me is as real as I know it to be, hold yourself ready to run to my call, when it comes. But I am doing my best, and will continue to do it, to prevent any necessity. I said I would call you Furius in my letters, but there is no need to alter your name. I will call myself Laelius and you Atticus, and I won’t use my own handwriting or seal, at any rate if the letters are such that I should not like them to fall into a stranger’s hands.
+
+Diodotus mortuus est; reliquit nobis HS fortasse centiens. Comitia Bibulus cum Archilochio edicto in ante diem XV Kal. Novembr. distulit. A Vibio libros accepi. Poeta ineptus et tamen scit nihil, sed est non inutilis. Describe et remitto.<b>XXI</b>
+
+CICERO ATTICO SAL.
+
+[Sidenote: <i>Scr. Romae post VIII K. Sext., ante XV K. Nov. a. 695</i>]
+
+De re publica quid ego tibi subtiliter? Tota periit atque hoc est miserior, quam reliquisti, quod tum videbatur eius modi dominatio civitatem oppressisse, quae iucunda esset multitudini, bonis autem ita molesta, ut tamen sine pernicie, nunc repente tanto in odio est omnibus, ut, quorsus eruptura sit, horreamus. Nam iracundiam atque intemperantiam illorum sumus experti, qui Catoni irati omnia perdiderunt, sed ita lenibus uti videbantur venenis, ut posse videremur sine dolore interire; nunc vero sibilis volgi, sermonibus honestorum, fremitu Italiae vereor ne exarserint. Equidem sperabam, ut saepe etiam loqui tecum solebam, sic orbem rei publicae esse conversum, ut vix
+
+Diodotus is dead: he left me about £88,000.[88] Bibulus has written a scathing edict putting off the elections till the 18th of October. I have received the books from Vibius: he[89] is a wretched poet, and indeed has nothing in him; still he is of some use to me. I am going to copy the work out and send it back.<b>XXI</b>
+
+CICERO TO ATTICUS; GREETING.
+
+[Sidenote: <i>Rome, between July 25 and Oct. 18</i>, B.C. <i>59</i>]
+
+To enter into details about politics would be superfluous. The whole country has gone to rack and ruin: and affairs are in one respect worse than when you left. Then it looked as though we were oppressed with a tyranny which was popular with the lower classes, and, though annoying to the upper, still comparatively harmless: but now it has become suddenly so universally detested that I tremble for the issue. For we have had an experience of the wrath and recklessness of the Triumvirs, and in their indignation with Cato, they have ruined the state. The poisons they used seemed to be so slow that I thought we could die painlessly. But now I am afraid they have been roused to energy by the hisses of the crowd, the talk of the loyalists, and the murmurs of Italy. I had hopes, as I used often to say to you, that the wheel of state had turned so smoothly that we could
+
+Footnote 88:
+
+10,000,000 sesterces. But it seems too large a sum for Diodotus, a stoic who lived in Cicero’s house for some time, to have left. Tyrrell therefore suggests <i>centum</i>, <i>i.e</i>. 100,000 sesterces, about £880.
+
+Footnote 89:Not Vibius himself, but Alexander of Ephesus, author of a Cosmographia; cf. Att. II, 22, 7.
+
+sonitum audire, vix impressam orbitam videre possemus; et fuisset ita, si homines transitum tempestatis exspectare potuissent. Sed, cum diu occulte suspirassent, postea iam gemere, ad extremum vero loqui omnes et clamare coeperunt. Itaque ille amicus noster insolens infamiae, semper in laude versatus, circumfluens gloria, deformatus corpore, fractus animo, quo se conferat, nescit; progressum praecipitem, inconstantem reditum videt; bonos inimicos habet, improbos ipsos non amicos.
+
+Ac vide mollitiem animi. Non tenui lacrimas; cum illum a. d. VIII Kal. Sextiles vidi de edictis Bibuli contionantem. Qui antea solitus esset iactare se magnificentissime illo in loco summo cum amore populi, cunctis faventibus, ut ille tum humilis, ut demissus erat, ut ipse etiam sibi, non iis solum, qui aderant, displicebat! O spectaculum uni Crasso iucundum, ceteris non item! Nam, quia deciderat ex astris, lapsus quam progressus potius videbatur, et, ut Apelles, si Venerem, aut Protogenes, si Ialysum illum suum caeno oblitum videret, magnum, credo, acciperet dolorem, sic ego hunc omnibus a me pictum et politum artis coloribus subito deformatum non sine magno dolore vidi. Quamquam nemo putabat propter Clodianum negotium me illi amicum esse debere, tamen tantus fuit amor, ut exhauriri nulla posset
+
+scarcely catch the sound of its motion, and scarcely see the track of its path: and that is what would have happened, if people could only have waited for the storm to pass.But for a while they stifled their sighs; then they began to groan aloud; and finally all set about airing their grievances at the top of their voices. And so our friend, being unused to unpopularity, and having always lived in an atmosphere of flattery and glory, disfigured in person and broken in spirit, does not know what to do with himself: he sees that to advance is dangerous, to retreat a confession of weakness: the respectable parties are his enemies, the very riff-raff not his friends.
+
+Yet see how soft-hearted I am. I could not restrain my tears, when I saw him on the 25th of July delivering a speech on the subject of the edicts of Bibulus. He used to carry himself with such a lofty bearing, enjoying unbounded popularity and universal respect: and now, how humble he was, how cast down, and what discontent he aroused in himself as well as in his hearers! What a sight! Crassus may have enjoyed it, but no one else. For seeing that he had fallen from the stars, one could not but attribute his swift descent to accident rather than to voluntary motion. And, just as Apelles or Protogenes, if they had seen their Venus or Ialysus smeared with mud, would, I imagine, have been cut to the heart, so I myself could not but feel poignant grief at seeing the idol on whose adornment I had lavished all the colours of my art suddenly disfigured. For though no one looked on it as my duty to retain my friendship with him after the Clodian affair, my affection for him was such that no slight could extinguishiniuria. Itaque Archilochia in illum edicta Bibuli populo ita sunt iucunda, ut eum locum, ubi proponuntur, prae multitudine eorum, qui legunt, transire nequeamus, ipsi ita acerba, ut tabescat dolore, mihi mehercule molesta, quod et eum, quem semper dilexi, nimis excruciant, et timeo, tam vehemens vir tamque acer in ferro et tam insuetus contumeliae ne omni animi impetu dolori et iracundiae pareat.
+
+Bibuli qui sit exitus futurus, nescio. Ut nunc res se habet, admirabili gloria est. Qui cum comitia in mensem Octobrem distulisset, quod solet ea res populi voluntatem offendere, putarat Caesar oratione sua posse impelli contionem, ut iret ad Bibulum; multa cum seditiosissime diceret, vocem exprimere non potuit. Quid quaeris? sentiunt se nullam ullius partis voluntatem tenere. Eo magis vis nobis est timenda.
+
+Clodius inimicus est nobis. Pompeius confirmat eum nihil esse facturum contra me. Mihi periculosum est credere, ad resistendum me paro. Studia spero me summa habiturum omnium ordinum. Te cum ego desidero, tum vero res ad tempus illud vocat. Plurimum consilii, animi, praesidii denique mihi, si te ad tempus videro, accesserit. Varro mihi satis facit. Pompeius loquitur divinitus. Spero nos aut certe cum summa gloria aut etiam sine molestia discessuros. Tu quid agas, quem ad modum te oblectes, quid cum Sicyoniis egeris, ut sciam, cura.
+
+it. The result, is that now Bibulus’ scathing[90] edicts against him are so popular, that one can’t pass the place where they are posted up for the crowd of people reading them.Pompey finds them so distressing that he is wasting away with grief; and I myself am much annoyed with them, partly because they cause so much pain to a man whom I have always loved, and partly for fear that being so impulsive and ready to draw the sword, as well as so unused to abuse, he may give full reins to his indignation and wrath.
+
+I don’t know what will be the end of Bibulus. As things stand at present his reputation is extraordinarily high. When he put off the elections till October, which generally annoys the populace, Caesar thought he could induce the people by a speech to attack Bibulus: but in spite of all his seditious talk, he could not ring a word out of anybody. In short they feel that they have lost the good-will of all parties: and so violent action on their part is all the more to be feared.
+
+Clodius is hostile to me. Pompey assures me he will do nothing against me: but I am afraid to trust him and am getting ready for resistance. I hope I shall have very strong support from all classes. For your presence I have a longing myself and circumstances call for it to meet the crisis. If I see you in time, I shall feel it a great accession to my policy, my courage and my safety. Varro is very obliging; and Pompey talks like an angel. I hope that in the end I shall either be certain of a glorious victory, or even escape unmolested. Let me know what you are doing, how you are enjoying yourself, and what has happened as regards the Sicyonians.
+
+Footnote 90:Archilochus was a Greek poet of Paros, who wrote scathing iambic verses.
+
+<b>XXII</b>
+
+CICERO ATTICO SAL.
+
+[Sidenote: <i>Scr. Romae post VIII K. Sext., ante XV K. Nov. a. 695</i>]
+
+Quam vellem Romae! Mansisses profecto, si haec fore putassemus. Nam Pulchellum nostrum facillime teneremus aut certe, quid esset facturus, scire possemus. Nunc se res sic habet. Volitat, furit; nihil habet certi, multis denuntiat, quod fors obtulerit, id acturus videtur; cum videt, quo sit in odio status hic rerum, in eos, qui haec egerunt, impetum facturus videtur; cum autem rursus opes eorum et vim et exercitus recordatur, convertit se in bonos, nobis autem ipsis tum vim, tum iudicium minatur. Cum hoc Pompeius egit et, ut ad me ipse referebat (alium enim habeo neminem testem), vehementer egit, cum diceret in summa se perfidiae et sceleris infamia fore, si mihi periculum crearetur ab eo, quem ipse armasset, cum plebeium fieri passus esset. Fidem recepisse sibi et ipsum et Appium de me. Hanc si ille non servaret, ita laturum, ut omnes intellegerent nihil sibi antiquius amicitia nostra fuisse. Haec et in eam sententiam cum multa dixisset, aiebat illum primo sane diu multa contra, ad extremum autem<b>XXII</b>
+
+CICERO TO ATTICUS, GREETING.
+
+[Sidenote: <i>Rome, between July 25 and October 18</i>, B.C. <i>59</i>]
+
+How I wish you were in town! You would certainly have stayed, if we had thought this was going to happen. For then we could have easily kept that little Beauty in order or at any rate should have known what he was going to do. As it is he flits about in a frenzy and doesn’t know what he is doing; he threatens lots of people, but will probably do whatever turns up. When he sees the general abhorrence of the present state of affairs he seems to meditate an attack on the authors of it; but when he remembers the armed force behind them, he turns his wrath against the loyalists. As for me, he threatens me now with brute force, and now with a prosecution. Pompey spoke to him about it, and according to his own account—for he is the only witness I have—he remonstrated strongly with him, saying that he would become a byword for treachery and underhandedness, if my life were threatened by one whose weapons he himself had forged by acquiescing in his transference to the plebs: that both he and Appius had pledged their word for me: and that, unless Clodius respected their promise, he would be so annoyed that he would make it plain to the world that he prized my friendship beyond everything. He declared that after he had said this and much more to the same effect, Clodius at first persisted in arguing the point at length, but finally gave way andmanus dedisse et adfirmasse nihil se contra eius voluntatem esse facturum. Sed postea tamen ille non destitit de nobis asperrime loqui. Quodsi non faceret, tamen ei nihil crederemus atque omnia, sicut facimus, pararemus.
+
+Nunc ita nos gerimus, ut in dies singulos et studia in nos hominum et opes nostrae augeantur; rem publicam nulla ex parte attingimus, in causis atque in illa opera nostra forensi summa industria versamur; quod egregie non modo iis, qui utuntur opera, sed etiam in vulgus gratum esse sentimus. Domus celebratur, occurritur, renovatur memoria consulatus, studia significantur; in eam spem adducimur, ut nobis ea contentio; quae impendet, interdum non fugienda videatur.
+
+Nunc mihi et consiliis opus est tuis et amore et fide. Quare advola. Expedita mihi erunt omnia, si te habebo. Multa per Varronem nostrum agi possunt, quae te urgente erunt firmiora, multa ab ipso Publio elici, multa cognosci, quae tibi occulta esse non poterunt, multa etiam—sed absurdum est singula explicare, cum ego requiram te ad omnia. Unum illud tibi persuadeas velim, omnia mihi fore explicata, si te videro; sed totum est in eo, si ante, quam ille ineat magistratum. Puto Pompeium Crasso urgente, si tu aderis, qui per βοῶπιν ex ipso intellegere possis, qua fide ab illis agatur; nos aut sine molestia aut certe
+
+promised he would not do anything to offend him. Since then, however, he has not ceased to speak very unpleasantly about me: but, even if he did not, I should not believe him and should continue the preparations which I am making.At the present time I am managing things so that my popularity and the strength of my position increases daily. Politics I am not touching at all, but am busily engaged in the law courts and in my other forensic work: and thereby I find I win extraordinary favour not only with those who enjoy my services, but with the people in general too. My house is thronged with folk; processions meet me; the days of my consulship are recalled; friendships are not disguised: and my hopes are so raised that I often think there is no reason for me to shrink from the struggle which threatens.
+
+What I want now is your advice and your affection and loyalty: so fly to me. It will simplify everything, if I have you with me. Varro can render me many services, but they would be far surer if you were here to support them: a great deal of information can be extracted from Publius himself, and a great deal found out, which could not possibly be kept from your ears: besides a great deal more—but it is absurd to specify details, when I want you for everything. The one point I want you to grasp is that the mere sight of you would simplify everything for me; but it all depends on your coming before he enters on his office. I think that, though Crassus is egging on Pompey, if you were here and could find out from the enemy through Juno how far the great men are to be trusted, I should either escape molestation altogether or at any rate I should no longer be
+
+sine errore futuros. Precibus nostris et cohortatione non indiges; quid mea voluntas, quid tempus, quid rei magnitudo postulet, intellegis.De re publica nihil habeo ad te scribere nisi summum odium omnium hominum in eos, qui tenent omnia. Mutationis tamen spes nulla. Sed, quod facile sentias, taedet ipsum Pompeium vehementerque paenitet. Non provideo satis, quem exitum futurum putem; sed certe videntur haec aliquo eruptura.
+
+Libros Alexandri, neglegentis hominis et non boni poetae, sed tamen non inutilis, tibi remisi. Numerium Numestium libenter accepi in amicitiam et hominem gravem et prudentem et dignum tua commendatione cognovi.<b>XXIII</b>
+
+CICERO ATTICO SAL.
+
+[Sidenote: <i>Scr. Romae ante XV K. Nov. a. 695</i>]
+
+Numquam ante arbitror te epistulam meam legisse nisi mea manu scriptam. Ex eo colligere poteris, quanta occupatione distinear. Nam, cum vacui temporis nihil haberem, et cum recreandae voculae causa necesse esset mihi ambulare, haec dictavi ambulans. Primum igitur illud te scire volo, Sampsiceramum, nostrum amicum, vehementer sui status paenitere restituique in eum locum cupere, ex quo decidit, doloremque suum impertire nobis et medicinam interdum aperte quaerere, quam ego possum invenire nullam; deinde omnes illius partis auctores ac socios nullo adversario consenescere, consensionem universorum
+
+in a fog. There is no need of prayers and exhortations between you and me: you know what I wish and what the gravity of the occasion demands.
+
+I have no political news except that the present masters of the world have the world’s hatred: and yet there is no hope of a change. But, as you can easily imagine, Pompey is disgusted and heartily sick of it all. I can’t see what the end of it will be, but I am pretty sure there will be an explosion of some sort.
+
+I have sent back the works of Alexander, who is a careless writer and not much of a poet: still there is some use in him.Numerius Numestius I have admitted to my friendship with pleasure and find he has plenty of sober good sense and is quite worthy of your recommendation.
+
+<b>XXIII</b>
+
+CICERO TO ATTICUS, GREETING.
+
+[Sidenote: <i>Rome, before Oct. 18</i>, B.C. <i>59</i>]
+
+I don’t think you ever before read a letter of mine which I had not written myself. That will show you how I am plagued to death by business. As I haven’t a moment to spare, and must take some exercise to refresh my poor voice, I am dictating this as I walk.
+
+Well, the first thing I have to tell you, is that our friend the Pasha is heartily sick of his position and wants to be restored to the place from which he fell. He confides his sorrows to me, and at times openly looks for a remedy; but for the life of me I cannot find any. Secondly, the whole of that party, both the principals and their followers, are losing their strength, though no one opposes them; and there
+
+nec voluntatis nec sermonis maiorem umquam fuisse.
+
+Nos autem (nam id te scire cupere certo scio) publicis consiliis nullis intersumus totosque nos ad forensem operam laboremque contulimus.Ex quo, quod facile intellegi possit, in multa commemoratione earum rerum, quas gessimus, desiderioque versamur. Sed βοώπιδος nostrae consanguineus non mediocres terrores iacit atque denuntiat et Sampsiceramo negat, ceteris prae se fert et ostentat. Quam ob rem, si me amas tantum, quantum profecto amas, si dormis, expergiscere, si stas, ingredere, si ingrederis, curre, si curris, advola. Credibile non est, quantum ego in consiliis et prudentia tua, quodque maximum est, quantum in amore et fide ponam. Magnitudo rei longam orationem fortasse desiderat, coniunctio vero nostrorum animorum brevitate contenta est. Permagni nostra interest te, si comitiis non potueris, at declarato illo esse Romae. Cura, ut valeas.<b>XXIV</b>
+
+CICERO ATTICO SAL.
+
+[Sidenote: <i>Scr. Romae ante XV K. Nov. a. 695</i>]
+
+Quas Numestio litteras dedi, sic te iis evocabam, ut nihil acrius neque incitatius fieri posset. Ad illam celeritatem adde etiam, si quid potes. Ac ne sis perturbatus (novi enim te et non ignoro, “quam sit amor omnis sollicitus atque anxius”)—sed res est, ut
+
+never was a greater unanimity of sentiment or of the popular expression of it than there is now.
+
+As for me—for I am sure you want to hear about myself—I take no part in public deliberations and devote myself entirely to my law-court practice, which arouses, as you can easily conceive, many a memory of my past achievements and much regret for them. But our dear Juno’s brother is venting most alarming threats and, though he denies them to the Pasha, he openly parades them to others. So, if your affection is as real as I know it is, wake up, if you are sleeping, start moving, if you are standing still, run, if you are moving, and fly, if you are running. I set greater store than you can possibly believe by your advice and your wisdom, and, what is still more, by your love and your loyalty. The importance of the theme would perhaps demand a long disquisition; but our hearts are so united that a word is enough.It is of the highest importance to me that you should be in Rome after the elections, if you can’t get here before them. Take care of yourself.
+
+<b>XXIV</b>
+
+CICERO TO ATTICUS, GREETING.
+
+[Sidenote: <i>Rome, before Oct. 18</i>, B.C. <i>59</i>]
+
+In the letter I gave to Numestius I made a most urgent and pressing appeal to you to come. To the speed I then enjoined add something, if you possibly can. And don’t be alarmed (for I know you and don’t forget that to love “It is to be all made of sighs and tears”[91]): the matter I hope is one that will
+
+Footnote 91:
+
+<i>quam ... anxius</i> seems to be a quotation from some drama; and Jeans happily translates by this verse from Shakespeare’s <i>As you like it</i>.
+
+spero, non tam exitu molesta quam aditu. Vettius ille, ille noster index, Caesari, ut perspicimus, pollicitus est sese curaturum, ut in aliquam suspicionem facinoris Curio filius adduceretur. Itaque insinuavit in familiaritatem adulescentis et cum eo, ut res indicat, saepe congressus rem in eum locum deduxit, ut diceret sibi certum esse cum suis servis in Pompeium impetum facere eumque occidere. Hoc Curio ad patrem detulit, ille ad Pompeium. Res delata ad senatum est.Introductus Vettius primo negabat se umquam cum Curione constitisse, neque id sane diu; nam statim fidem publicam postulavit. Reclamatum est. Tum exposuit manum fuisse iuventutis duce Curione, in qua Paulus initio fuisset et Q. Caepio hic Brutus et Lentulus, flaminis filius, conscio patre; postea C. Septimium, scribam Bibuli, pugionem sibi a Bibulo attulisse. Quod totum irrisum est, Vettio pugionem defuisse, nisi ei consul dedisset, eoque magis id eiectum est, quod a. d. III Idus Mai. Bibulus Pompeium fecerat certiorem, ut caveret insidias; in quo ei Pompeius gratias egerat.
+
+Introductus Curio filius dixit ad ea, quae Vettius dixerat, maximeque in eo tum quidem Vettius est reprehensus, quod dixerat id fuisse adulescentium consilium, ut in foro gladiatoribus Gabini Pompeium adorirentur; in eo principem Paulum fuisse, quem constabat eo tempore in Macedonia fuisse. Fit senatus
+
+not be so troublesome at the end as at the beginning. That fellow Vettius, my famous informer, promised Caesar, so far as we can see, that he would get some criminal suspicion thrown on young Curio. So he wormed his way into intimacy with the young man and after meeting him often, as events prove, he went so far as to declare that he was determined to make an attack on Pompey with the assistance of his slaves, and to slay him. Curio told his father of this, and he told Pompey. The affair was reported to the Senate. Vettius was summoned before them and at first denied that he had ever had an appointment with Curio. However he did not stick to that tale long; but at once claimed the privilege of king’s evidence. Amid cries of “no,” he began to explain that there had been a confederacy of the younger men under the leadership of Curio, to which Paulus at first belonged and Q.Caepio, Brutus I mean, and Lentulus, the flamen’s son, with his father’s consent; and then that C. Septimius, Bibulus’ secretary, had brought him a dagger from Bibulus. The idea of Vettius not having a dagger, unless the consul gave him one, and the rest of it, was too much for anybody’s gravity: and the charge was scouted the more because Bibulus had warned Pompey on the 13th of May to be on his guard against plots; and Pompey had thanked him for the advice.
+
+Young Curio was brought in and repelled Vettius’ assertions: and the point for which Vettius was especially jumped on was saying that the young men’s intention was to attack Pompey in the forum at the gladiatorial show which Gabinius gave, and that Paulus was to be the leader, when it was well known that he was in Macedonia at the time. The House decreed
+
+consultum, ut Vettius, quod confessus esset se cum telo fuisse, in vincula coniceretur; qui emisisset, eum contra rem publicam esse facturum. Res erat in ea opinione, ut putarent id esse actum, ut Vettius in foro cum pugione et item servi eius comprehenderentur cum telis, deinde ille se diceret indicaturum. Idque ita factum esset, nisi Curiones rem ante ad Pompeium detulissent. Tum senatus consultum in contione recitatum est. Postero autem die Caesar, is qui olim, praetor cum esset, Q. Catulum ex inferiore loco iusserat dicere, Vettium in rostra produxit eumque in eo loco constituit, quo Bibulo consuli adspirare non liceret. Hic ille omnia, quae voluit de re publica, dixit, et qui illuc factus institutusque venisset, primum Caepionem de oratione sua sustulit, quem in senatu acerrime nominarat, ut appareret noctem et nocturnam deprecationem intercessisse. Deinde, quos in senatu ne tenuissima quidem suspicione attigerat, eos nominavit, L. Lucullum, a quo solitum esse ad se mitti C.Fannium, illum qui in P. Clodium subscripserat, L. Domitium, cuius domum constitutam fuisse, unde eruptio fieret. Me non nominavit, sed dixit consularem disertum vicinum consulis sibi dixisse Ahalam Servilium aliquem aut Brutum opus esse reperiri. Addidit ad extremum, cum iam dimissa contione revocatus a Vatinio fuisset, se audisse a Curione his de rebus conscium esse Pisonem, generum meum, et M. Laterensem.
+
+Nunc reus erat apud Crassum Divitem Vettius de vi et, cum esset damnatus, erat indicium postulaturus.
+
+that Vettius should be committed on his own confession of having carried a weapon; and that it should be high treason to release him. The view most generally held is that it was a put up job: Vettius was to be discovered in the forum with a dagger and his slaves round him with weapons, and then he was to turn king’s evidence: and it would have come off, if the Curios had not reported the matter to Pompey. Then the senatorial decree was read aloud to an assembly. On the next day, however, Caesar, the man who as praetor some years ago had bidden Q. Catulus speak from the floor, brought Vettius out on the rostra, and set him in a place which was beyond Bibulus’ aspiration, though a consul. Here he said anything he liked about public affairs; and, as he had come ready primed and tutored, he omitted all mention of Caepio, though he had named him most emphatically in the House: so it was obvious that a night and a nocturnal appeal had intervened. Then he mentioned people on whom he had not cast the slightest suspicion in the House,—L. Lucullus, who, he said, generally used to send to him C. Fannius, the man who once supported a prosecution of P. Clodius, and L. Domitius, whose house was to be the basis of operations.My name he did not mention, but he said that an eloquent ex-consul, a neighbour of the consul, had remarked to him that we stood in need of a Servilius Ahala or a Brutus. He added at the end, when he had been called back by Vatinius after the assembly was dismissed, that he had heard from Curio that Piso, my son-in-law, was in the plot, and M. Laterensis too.
+
+Now Vettius is on trial for violence before Crassus Dives, and, when he is condemned, he will claim to turn
+
+Quod si impetrasset, iudicia fore videbantur. Ea nos, utpote qui nihil contemnere soleremus, non pertimescebamus. Hominum quidem summa erga nos studia significabantur; sed prorsus vitae taedet; ita sunt omnia omnium miseriarum plenissima. Modo caedem timueramus quam oratio fortissimi senis, Q. Considi, discusserat: ea, ea, inquam, quam[92] cotidie timere potueramus, subito exorta est. Quid quaeris? nihil me infortunatius, nihil fortunatius est Catulo cum splendore vitae tum mortis tempore. Nos tamen in his miseriis erecto animo et minime perturbato sumus honestissimeque et dignitatem et auctoritatem nostram magna cura tuemur.
+
+Pompeius de Clodio iubet nos esse sine cura et summam in nos benevolentiam omni oratione significat. Te habere consiliorum auctorem, sollicitudinum socium, omni in cogitatione coniunctum cupio. Quare, ut Numestio mandavi, tecum ut ageret, item atque eo, si potest, acrius, te rogo, ut plane ad nos advoles. Respiraro, si te videro.<b>XXV</b>
+
+CICERO ATTICO SAL.
+
+[Sidenote: <i>Scr. Romae ante K. Nov. a. 695</i>]
+
+Cum aliquem apud te laudaro tuorum familiarium, volam illum scire ex te me id fecisse, ut nuper me scis scripsisse ad te de Varronis erga me officio, te ad me rescripsisse eam rem summae tibi voluptati esse. Sed ego mallem ad illum scripsisses mihi illum
+
+Footnote 92:
+
+ea inquam <i>M</i>^1; eam quam <i>M</i>^2; ea, ea inquam, quam <i>Tyrrell</i>.
+
+king’s evidence. If he is successful there may very well be some prosecutions. Of that—though to be sure I never despise anything—I’m not much afraid. Everybody is showing me the greatest kindness; but I am sick of life; the whole world is so thoroughly out of joint. Just lately we were afraid of a massacre, but it was averted by a speech of that gallant old man Q. Considius: and now the disaster of which we had been in daily fear has suddenly happened. In fact, nothing could be more deplorable than my situation, nothing more enviable than that of Catulus, considering his glorious life and his timely end. However, I keep up my heart in spite of my miseries, and don’t show the white feather, and, with an exercise of caution, I maintain my position and authority with honour.Pompey tells me to have no fear of Clodius, and shows me the greatest good-will whenever he speaks. I am longing to have you to advise my actions, to be the partner of my anxieties, to share my every thought. So I have commissioned Numestius to plead with you, and now add, if possible, even more urgent prayers of my own, that you literally fly to me. I shall breathe again when I see you.<b>XXV</b>
+
+CICERO TO ATTICUS, GREETING.
+
+[Sidenote: <i>Rome, before Nov. 1</i>, B.C. <i>59</i>]
+
+When I write to you praising any of your friends, I wish you would let them know I have done so. For example, I mentioned in a letter lately Varro’s kindness to me, and you answered that you were delighted to hear it. But I had much rather you had written to him saying he was doing all I wished—not
+
+satis facere, non quo faceret, sed ut faceret; mirabiliter enim moratus est, sicut nosti, ἑλικτὰ καὶ οὐδέν—Sed nos tenemus praeceptum illud τὰς τῶν κρατούντων—. At hercule alter tuus familiaris, Hortalus, quam plena manu, quam ingenue, quam ornate nostras laudes in astra sustulit, cum de Flacci praetura et de illo tempore Allobrogum diceret! Sic habeto, nec amantius nec honorificentius nec copiosius potuisse dici. Ei te hoc scribere a me tibi esse missum sane volo. Sed quid tu scribas? quem iam ego venire atque adesse arbitror; ita enim egi tecum superioribus litteris. Valde te exspecto, valde desidero neque ego magis, quam ipsa res et tempus poscit.
+
+His de negotiis quid scribam ad te nisi idem quod saepe? re publica nihil desperatius, iis, quorum opera, nihil maiore odio. Nos, ut opinio et spes et coniectura nostra fert, firmissima benevolentia hominum muniti sumus. Quare advola; aut expedies nos omni molestia aut eris particeps. Ideo sum brevior, quod, ut spero, coram brevi tempore conferre, quae volumus, licebit. Cura, ut valeas.that he was, but to make him do it. For, as you know, he is an odd creature, “all tortuous thoughts and no—”.[93] But I hold to the maxim, “A great man’s follies.”[94] However, your other friend, Hortalus, most certainly lauded me to the skies in the most liberal, open-hearted and elaborate manner, when he was delivering a speech on Flaccus’ praetorship and that incident of the Allobroges. You may take my word for it that he could not have expressed himself in more affectionate and laudatory terms, nor more fully. I should much like you to write and tell him that I sent you word of it. But I hope you won’t have to write, and are now on your way and quite close after the appeals in my former letter. I am eagerly looking out for you, and in sore need of you: and circumstances and the times call for you as much as I do.
+
+On these affairs I have nothing new to say: the country is in the most desperate position possible, and nothing could exceed the unpopularity of those who are responsible for it. I myself, as I think, hope and imagine, am safeguarded by the staunchest support. So hasten your coming: you will either relieve all my cares or share them with me. If I am rather brief, it is because I hope that I may soon be able to discuss anything I wish with you face to face. Take care of yourself.
+
+Footnote 93:
+
+Euripides, And. 448, ἑλικτὰ κοὐδὲν ὑγιὲς ἀλλὰ πᾶν πέριξ φρονοῦντες: “Thinking tortuous thoughts, naught honest, but all roundabout.”
+
+Footnote 94:Euripides, Phoen. 393, τὰς τῶν κρατούντων ἀμαθίας φέρειν χρεῶν. “One needs must bear the follies of those in power.”
+
+  M. TULLI CICERONIS
+EPISTULARUM AD ATTICUM
+    LIBER TERTIUS
+
+I
+
+CICERO ATTICO SAL.
+
+[Sidenote: <i>Scr. in itinere in. m. Apr. a. 696</i>]
+
+Cum antea maxime nostra interesse arbitrabar te esse nobiscum, tum vero, ut legi rogationem, intellexi ad iter id, quod constitui, nihil mihi optatius cadere posse, quam ut tu me quam primum consequerere, ut, cum ex Italia profecti essemus, sive per Epirum iter esset faciendum, tuo tuorumque praesidio uteremur, sive aliud quid agendum esset, certum consilium de tua sententia capere possemus. Quam ob rem te oro, des operam, ut me statim consequare. Facilius potes, quoniam de provincia Macedonia perlata lex est. Pluribus verbis tecum agerem, nisi pro me apud te res ipsa loqueretur.
+
+II
+
+CICERO ATTICO SAL.[Sidenote: <i>Scr. in itinere VI Id. Apr. a. 696</i>]
+
+Itineris nostri causa fuit, quod non habebam locum, ubi pro meo iure diutius esse possem quam in fundo Siccae, praesertim nondum rogatione correcta, et simul intellegebam ex eo loco, si te haberem, posse me Brundisium referre, sine te autem non esse nobis illas partes tenendas propter Autronium. Nunc, ut ad te antea scripsi, si ad nos veneris, consilium totius rei capiemus. Iter esse molestum scio, sed tota calamitas omnes molestias habet. Plura scribere non possum; ita sum animo perculso et abiecto. Cura, ut valeas. Data VI Idus Apriles Narib. Luc.
+
+CICERO’S LETTERS
+   TO ATTICUS
+    BOOK III
+
+I
+
+CICERO TO ATTICUS, GREETING.
+
+[Sidenote: <i>On a journey, Apr.</i>, B.C. <i>58</i>]
+
+I had been thinking that it would be of the greatest service to me to have you with me, but when I read the bill,[95] I saw at once that the most desirable thing in view of the journey I have undertaken would be that you should join me as soon as possible.Then I should have the benefit of your own and your friends’ protection, if I passed through Epirus, after leaving Italy; and, if I chose any other course, I could lay down fixed plans on your advice. So please be quick and join me. You can the more easily do so as the bill about the province of Macedonia has been passed. I would say more, if facts themselves did not speak for me with you.<b>II</b>
+
+CICERO TO ATTICUS, GREETING.
+
+[Sidenote: <i>On a journey, Apr. 8</i>, B.C. <i>58</i>]
+
+The reason why I moved was that there was nowhere where I could remain unmolested except on Sicca’s estate, especially as the bill has not been emended. Besides I noticed that I could get back to Brundisium from there, if I had you with me. Without you I could not stay in those districts on account of Autronius. Now, as I said in my last letter, if you will come, I can take your advice on the whole matter. I know the journey is an annoyance: but the whole of this miserable business is full of annoyances. I can’t write any more, I am so down-hearted and wretched. Take care of yourself. April 8, Nares in Lucania.
+
+Footnote 95:
+
+Clodius’ bill interdicting from fire and water anyone who had put to death a Roman citizen uncondemned.
+
+III
+
+CICERO ATTICO SAL.
+
+[Sidenote: <i>Scr. in itinere circ. Non. Apr. a. 696</i>]Utinam illum diem videam, cum tibi agam gratias, quod me vivere coegisti! adhuc quidem valde me paenitet. Sed te oro, ut ad me Vibonem statim venias, quo ego multis de causis converti iter meum. Sed, eo si veneris, de toto itinere ac fuga mea consilium capere potero. Si id non feceris, mirabor; sed confido te esse facturum.
+
+IV
+
+CICERO ATTICO SAL.
+
+[Sidenote: <i>Scr. in itinere inter Vibonem et Brundisium Id. Apr. a. 696</i>]
+
+Miseriae nostrae potius velim quam inconstantiae tribuas, quod a Vibone, quo te arcessebamus, subito discessimus. Allata est enim nobis rogatio de pernicie mea; in qua quod correctum esse audieramus, erat eius modi, ut mihi ultra quadringenta milia liceret esse, illo pervenire non liceret. Statim iter Brundisium versus contuli ante diem rogationis, ne et Sicca, apud quem eram, periret, et quod Melitae esse non licebat. Nunc tu propera, ut nos consequare, si modo recipiemur. Adhuc invitamur benigne, sed, quod superest, timemus. Me, mi Pomponi, valde paenitet vivere; qua in re apud me tu plurimum valuisti. Sed haec coram. Fac modo, ut venias.
+
+III
+
+CICERO TO ATTICUS, GREETING.[Sidenote: <i>On a journey about Apr. 5</i>, B.C. <i>58</i>]
+
+Pray God that the day may come when I shall be able to thank you for compelling me to go on living. At present I am heartily sorry for it. Please come to me at once at Vibo. For several reasons I’ve made my way thither. If you come, I shall be able to lay plans for my whole journey in exile. If you do not, I shall be surprised: but I trust you will.<b>IV</b>
+
+CICERO TO ATTICUS, GREETING.
+
+[Sidenote: <i>Between Vibo and Brundisium Apr. 13</i>, B.C. <i>58</i>]
+
+Please attribute my sudden departure from Vibo after asking you to join me there to my misery rather than to caprice. I received a copy of the bill for my destruction, and found that the alteration of which I had heard, took the form of banishment beyond four hundred miles. Since I could not go where I wished, I went straight to Brundisium before the bill was passed; for fear of involving my host Sicca in my destruction and because I am not permitted to stay at Malta. Now make haste and join me; if I can find anyone to take me in. At present I receive kind invitations: but I fear the future. I indeed, Pomponius, am heartily sick of life: and it is mainly for your sake that I consented to live. But of this when we meet. Please do come.
+
+V
+
+CICERO ATTICO SAL.
+
+[Sidenote: <i>Scr. Thuriis IIII Id. Apr., ut videtur, a. 696</i>]
+
+Terentia tibi et saepe et maximas agit gratias. Id est mihi gratissimum. Ego vivo miserrimus et maximo dolore conficior. Ad te quid scribam, nescio.Si enim es Romae, iam me adsequi non potes, sin es in via, cum eris me adsecutus, coram agemus, quae erunt agenda. Tantum te oro, ut, quoniam me ipsum semper amasti, ut nunc eodem amore sis; ego enim idem sum. Inimici mei mea mihi, non me ipsum ademerunt. Cura, ut valeas.
+
+Data IIII Idus April. Thurii.
+
+VI
+
+CICERO ATTICO SAL.
+
+[Sidenote: <i>Scr. in Tarentino XIV K. Mai. a. 696</i>]
+
+Non fuerat mihi dubium, quin te Tarenti aut Brundisi visurus essem, idque ad multa pertinuit, in eis, et ut in Epiro consisteremus et de reliquis rebus tuo consilio uteremur. Quoniam id non contigit, erit hoc quoque in magno numero nostrorum malorum. Nobis iter est in Asiam, maxime Cyzicum. Meos tibi commendo. Me vix misereque sustento.
+
+Data XIIII K. Maias de Tarentino.
+
+V
+
+CICERO TO ATTICUS, GREETING.
+
+[Sidenote: <i>Thurii, Apr. 10</i> (?), B.C. <i>58</i>]Terentia continually expresses the deepest gratitude to you: and I am very glad of it. My life is one long misery and I am crushed with the weight of my sorrows. What to write I don’t know. If you are in Rome, you will be too late to catch me: but, if you are already on the way, we will discuss all that has to be discussed, when you join me. One thing only I beg of you, since you have always loved me for myself, to preserve your affection for me. I am still the same. My enemies have robbed me of all I had; but they have not robbed me of myself. Take care of your health.
+
+At Thurium, April 10.
+
+VI
+
+CICERO TO ATTICUS, GREETING.
+
+[Sidenote: <i>Tarentum, Apr. 17</i>, B.C. <i>58</i>]
+
+I quite expected to see you at Tarentum or Brundisium, and it was important that I should for many reasons, among others for my stay in Epirus and for the advantage of your advice in other matters. That it did not happen I shall count among my many other misfortunes. I am starting for Asia, for Cyzicus in particular. I entrust my dear ones to you. It is with difficulty that I prolong my miserable existence.
+
+From the neighbourhood of Tarentum, April 17.

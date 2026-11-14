@@ -1,0 +1,808 @@
+HOLB1	60093	0	0	80	184	20
+5	Song Of The Son 21. Georgia Dusk 22
+19	Song Of The Son
+29	1. Nine.
+33	2. Sixteen.
+35	3. Esther is twenty-seven.
+39	1
+41	2
+45	3
+73	1
+83	2
+96	1
+99	2
+102	3
+106	4
+114	1
+121	2
+133	3
+145	4
+158	5
+172	6
+CANE
+
+Jean Toomer
+
+_With a Foreword
+       by_
+   Waldo Frank
+
+_Oracular.
+Redolent of fermenting syrup,
+Purple of the dusk,
+Deep-rooted cane._
+
+LIVERIGHT
+        NEW YORK
+
+COPYRIGHT © 1923 BY BONI & LIVERIGHT
+        ® 1951 BY JEAN TOOMER
+
+1.987654
+
+        STANDARD BOOK NUMBER: 87140-535-0
+LIBRARY OF CONGRESS CATALOG CARD NUMBER: 23-12749
+
+MANUFACTURED IN THE UNITED STATES OF AMERICATo my grandmother...
+
+FOREWORD
+
+Reading this book, I had the vision of a land, heretofore sunk in the mists of muteness, suddenly rising up into the eminence of song. Innumerable books have been written about the South; some good books have been written in the South. This book <i>is</i> the South. I do not mean that <i>Cane</i> covers the South or is the South’s full voice. Merely this: a poet has arisen among our American youth who has known how to turn the essences and materials of his Southland into the essences and materials of literature. A poet has arisen in that land who writes, not as a Southerner, not as a rebel against Southerners, not as a Negro, not as apologist or priest or critic: who writes as a <i>poet</i>. The fashioning of beauty is ever foremost in his inspiration: not forcedly but simply, and because these ultimate aspects of his world are to him more real than all its specific problems. He has made songs and lovely stories of his land ... not of its yesterday, but of its immediate life. And that has been enough.
+
+How rare this is will be clear to those who have followed with concern the struggle of the South toward literary expression, and the particular trial of that portion of its folk whose skin is dark. The gifted Negro has been too often thwarted from becoming a poet because his world was forever forcing him to recollect that he was a Negro. The artist must lose such lesser identities in the great well of life. The English poet is not forever protesting and recalling that he is English. It is so natural and easy for him to be English that he can sing as a man.The French novelist is not forever noting: “This is French.” It is so atmospheric for him to be French, that he can devote himself to saying: “This is human.” This is an imperative condition for the creating of deep art. The whole will and mind of the creator must go below the surfaces of race. And this has been an almost impossible condition for the American Negro to achieve, forced every moment of his life into a specific and superficial plane of consciousness.
+
+The first negative significance of <i>Cane</i> is that this so natural and restrictive state of mind is completely lacking. For Toomer, the Southland is not a problem to be solved; it is a field of loveliness to be sung: the Georgia Negro is not a downtrodden soul to be uplifted; he is material for gorgeous painting: the segregated self-conscious brown belt of Washington is not a topic to be discussed and exposed; it is a subject of beauty and of drama, worthy of creation in literary form.
+
+It seems to me, therefore, that this is a first book in more ways than one. It is a harbinger of the South’s literary maturity: of its emergence from the obsession put upon its minds by the unending racial crisis—an obsession from which writers have made their indirect escape through sentimentalism, exoticism, polemic, “problem” fiction, and moral melodrama. It marks the dawn of direct and unafraid creation. And, as the initial work of a man of twenty-seven, it is the harbinger of a literary force of whose incalculable future I believe no reader of this book will be in doubt.How typical is <i>Cane</i> of the South’s still virgin soil and of its pressing seeds! and the book’s chaos of verse, tale, drama, its rhythmic rolling shift from lyrism to narrative, from mystery to intimate pathos! But read the book through and you will see a complex and significant form take substance from its chaos. Part One is the primitive and evanescent black world of Georgia. Part Two is the threshing and suffering brown world of Washington, lifted by opportunity and contact into the anguish of self-conscious struggle. Part Three is Georgia again ... the invasion into this black womb of the ferment seed: the neurotic, educated, spiritually stirring Negro. As a broad form this is superb, and the very looseness and unexpected waves of the book’s parts make <i>Cane</i> still more <i>South</i>, still more of an æsthetic equivalent of the land.
+
+What a land it is! What an Æschylean beauty to its fateful problem! Those of you who love our South will find here some of your love. Those of you who know it not will perhaps begin to understand what a warm splendor is at last at dawn.
+
+A feast of moon and men and barking hounds,
+An orgy for some genius of the South
+With bloodshot eyes and cane-lipped scented mouth
+Surprised in making folk-songs....
+
+So, in his still sometimes clumsy stride (for Toomer is finally a poet in prose) the author gives you an inkling of his revelation. An individual force, wise enough to drink humbly at this great spring of his land ... such is the first impression of Jean Toomer.But beyond this wisdom and this power (which shows itself perhaps most splendidly in his complete freedom from the sense of persecution), there rises a figure more significant: the artist, hard, self-immolating, the artist who is not interested in races, whose domain is Life. The book’s final Part is no longer “promise”; it is achievement. It is no mere dawn: it is a bit of the full morning. These materials ... the ancient black man, mute, inaccessible, and yet so mystically close to the new tumultuous members of his race, the simple slave Past, the shredding Negro Present, the iridescent passionate dream of the To-morrow ... are made and measured by a craftsman into an unforgettable music. The notes of his counterpoint are particular, the themes are of intimate connection with us Americans. But the result is that abstract and absolute thing called Art.
+
+WALDO FRANK.
+
+Certain of these pieces have appeared in <i>Broom</i>, <i>Crisis</i>, <i>Double Dealer</i>, <i>Liberator</i>, <i>Little Review</i>, <i>Modern Review</i>, <i>Nomad</i>, <i>Prairie</i>, and <i>S 4 N</i>.
+
+To these magazines: thanks.
+
+CONTENTS
+
+PAGE
+
+FOREWORD, by <i>Waldo Frank</i> viiKARINTHA 1
+
+REAPERS 6
+
+NOVEMBER COTTON FLOWER 7
+
+BECKY 8
+
+FACE 14
+
+COTTON SONG 15
+
+CARMA 16
+
+<b>SONG OF THE SON 21</b>
+
+GEORGIA DUSK 22
+
+FERN 24
+
+NULLO 34
+
+EVENING SONG 35
+
+ESTHER 36CONVERSION 49
+
+PORTRAIT IN GEORGIA 50
+
+BLOOD-BURNING MOON 51
+
+SEVENTH STREET 71
+
+RHOBERT 73
+
+AVEY 76
+
+BEEHIVE 89
+
+STORM ENDING 90
+
+THEATER 91
+
+HER LIPS ARE COPPER WIRE 101
+
+CALLING JESUS 102
+
+BOX SEAT 104
+
+PRAYER 131HARVEST SONG 132
+
+BONA AND PAUL 134
+
+KABNIS 157
+
+KARINTHA
+
+Her skin is like dusk on the eastern horizon,
+O cant you see it, O cant you see it,
+Her skin is like dusk on the eastern horizon
+... When the sun goes down.
+
+Men had always wanted her, this Karintha, even as a child, Karintha carrying beauty, perfect as dusk when the sun goes down. Old men rode her hobby-horse upon their knees. Young men danced with her at frolics when they should have been dancing with their grown-up girls. God grant us youth, secretly prayed the old men. The young fellows counted the time to pass before she would be old enough to mate with them. This interest of the male, who wishes to ripen a growing thing too soon, could mean no good to her.
+
+Karintha, at twelve, was a wild flash that told the other folks just what it was to live. At sunset, when there was no wind, and the pine-smoke from over by the sawmill hugged the earth, and you couldnt see more than a few feet in front, her sudden darting past you was a bit of vivid color, like a black bird that flashes in light.With the other children one could hear, some distance off, their feet flopping in the two-inch dust. Karintha’s running was a whir. It had the sound of the red dust that sometimes makes a spiral in the road. At dusk, during the hush just after the sawmill had closed down, and before any of the women had started their supper-getting-ready songs, her voice, high-pitched, shrill, would put one’s ears to itching. But no one ever thought to make her stop because of it. She stoned the cows, and beat her dog, and fought the other children... Even the preacher, who caught her at mischief, told himself that she was as innocently lovely as a November cotton flower. Already, rumors were out about her. Homes in Georgia are most often built on the two-room plan. In one, you cook and eat, in the other you sleep, and there love goes on. Karintha had seen or heard, perhaps she had felt her parents loving. One could but imitate one’s parents, for to follow them was the way of God. She played “home” with a small boy who was not afraid to do her bidding. That started the whole thing. Old men could no longer ride her hobby-horse upon their knees. But young men counted faster.
+
+Her skin is like dusk,
+O cant you see it,
+Her skin is like dusk,
+When the sun goes down.
+
+Karintha is a woman. She who carries beauty, perfect as dusk when the sun goes down. She has been married many times. Old men remind her that a few years back they rode her hobby-horse upon their knees. Karintha smiles, and indulges them when she is in the mood for it. She has contempt for them.Karintha is a woman. Young men run stills to make her money. Young men go to the big cities and run on the road. Young men go away to college. They all want to bring her money. These are the young men who thought that all they had to do was to count time. But Karintha is a woman, and she has had a child. A child fell out of her womb onto a bed of pine-needles in the forest. Pine-needles are smooth and sweet. They are elastic to the feet of rabbits... A sawmill was nearby. Its pyramidal sawdust pile smouldered. It is a year before one completely burns. Meanwhile, the smoke curls up and hangs in odd wraiths about the trees, curls up, and spreads itself out over the valley... Weeks after Karintha returned home the smoke was so heavy you tasted it in water. Some one made a song:
+
+Smoke is on the hills. Rise up.
+Smoke is on the hills, O rise
+And take my soul to Jesus.
+
+Karintha is a woman. Men do not know that the soul of her was a growing thing ripened too soon. They will bring their money; they will die not having found it out... Karintha at twenty, carrying beauty, perfect as dusk when the sun goes down. Karintha...
+
+Her skin is like dusk on the eastern horizon,
+O cant you see it, O cant you see it,
+Her skin is like dusk on the eastern horizon
+... When the sun goes down.Goes down...
+
+REAPERS
+
+Black reapers with the sound of steel on stones
+Are sharpening scythes. I see them place the hones
+In their hip-pockets as a thing that’s done,
+And start their silent swinging, one by one.
+Black horses drive a mower through the weeds,
+And there, a field rat, startled, squealing bleeds,
+His belly close to ground. I see the blade,
+Blood-stained, continue cutting weeds and shade.
+
+NOVEMBER COTTON FLOWER
+
+Boll-weevil’s coming, and the winter’s cold,
+Made cotton-stalks look rusty, seasons old,
+And cotton, scarce as any southern snow,
+Was vanishing; the branch, so pinched and slow,
+Failed in its function as the autumn rake;
+Drouth fighting soil had caused the soil to take
+All water from the streams; dead birds were found
+In wells a hundred feet below the ground—
+Such was the season when the flower bloomed.
+Old folks were startled, and it soon assumed
+Significance. Superstition sawSomething it had never seen before:
+Brown eyes that loved without a trace of fear,
+Beauty so sudden for that time of year.
+
+BECKY
+
+Becky was the white woman who had two Negro sons. She’s dead; they’ve gone away. The pines whisper to Jesus. The Bible flaps its leaves with an aimless rustle on her mound.
+
+Becky had one Negro son. Who gave it to her? Damn buck nigger, said the white folks’ mouths. She wouldnt tell. Common, God-forsaken, insane white shameless wench, said the white folks’ mouths. Her eyes were sunken, her neck stringy, her breasts fallen, till then. Taking their words, they filled her, like a bubble rising—then she broke. Mouth setting in a twist that held her eyes, harsh, vacant, staring... Who gave it to her? Low-down nigger with no self-respect, said the black folks’ mouths. She wouldnt tell. Poor Catholic poor-white crazy woman, said the black folks’ mouths. White folks and black folks built her cabin, fed her and her growing baby, prayed secretly to God who’d put His cross upon her and cast her out.
+
+When the first was born, the white folks said they’d have no more to do with her. And black folks, they too joined hands to cast her out... The pines whispered to Jesus.. The railroad boss said not to say he said it, but she could live, if she wanted to, on the narrow strip of land between the railroad and the road.John Stone, who owned the lumber and the bricks, would have shot the man who told he gave the stuff to Lonnie Deacon, who stole out there at night and built the cabin. A single room held down to earth... O fly away to Jesus ... by a leaning chimney...
+
+Six trains each day rumbled past and shook the ground under her cabin. Fords, and horse- and mule-drawn buggies went back and forth along the road. No one ever saw her. Trainmen, and passengers who’d heard about her, threw out papers and food. Threw out little crumpled slips of paper scribbled with prayers, as they passed her eye-shaped piece of sandy ground. Ground islandized between the road and railroad track. Pushed up where a blue-sheen God with listless eyes could look at it. Folks from the town took turns, unknown, of course, to each other, in bringing corn and meat and sweet potatoes. Even sometimes snuff... O thank y Jesus... Old David Georgia, grinding cane and boiling syrup, never went her way without some sugar sap. No one ever saw her. The boy grew up and ran around. When he was five years old as folks reckoned it, Hugh Jourdon saw him carrying a baby. “Becky has another son,” was what the whole town knew. But nothing was said, for the part of man that says things to the likes of that had told itself that if there was a Becky, that Becky now was dead.
+
+The two boys grew. Sullen and cunning... O pines, whisper to Jesus; tell Him to come and press sweet Jesus-lips against their lips and eyes... It seemed as though with those two big fellows there, there could be no room for Becky. The part that prayed wondered if perhaps she’d really died, and they had buried her. No one dared ask. They’d beat and cut a man who meant nothing at all in mentioning that they lived along the road. White or colored?No one knew, and least of all themselves. They drifted around from job to job. We, who had cast out their mother because of them, could we take them in? They answered black and white folks by shooting up two men and leaving town. “Godam the white folks; godam the niggers,” they shouted as they left town. Becky? Smoke curled up from her chimney; she must be there. Trains passing shook the ground. The ground shook the leaning chimney. Nobody noticed it. A creepy feeling came over all who saw that thin wraith of smoke and felt the trembling of the ground. Folks began to take her food again. They quit it soon because they had a fear. Becky if dead might be a hant, and if alive—it took some nerve even to mention it... O pines, whisper to Jesus...
+
+It was Sunday. Our congregation had been visiting at Pulverton, and were coming home. There was no wind. The autumn sun, the bell from Ebenezer Church, listless and heavy. Even the pines were stale, sticky, like the smell of food that makes you sick. Before we turned the bend of the road that would show us the Becky cabin, the horses stopped stock-still, pushed back their ears, and nervously whinnied. We urged, then whipped them on. Quarter of a mile away thin smoke curled up from the leaning chimney... O pines, whisper to Jesus... Goose-flesh came on my skin though there still was neither chill nor wind. Eyes left their sockets for the cabin. Ears burned and throbbed. Uncanny eclipse! fear closed my mind. We were just about to pass... Pines shout to Jesus!.. the ground trembled as a ghost train rumbled by. The chimney fell into the cabin. Its thud was like a hollow report, ages having passed since it went off. Barlo and I were pulled out of our seats. Dragged to the door that had swung open. Through the dust we saw the bricks in a mound upon the floor. Becky, if she was there, lay under them. I thought I heard a groan.Barlo, mumbling something, threw his Bible on the pile. (No one has ever touched it.) Somehow we got away. My buggy was still on the road. The last thing that I remember was whipping old Dan like fury; I remember nothing after that—that is, until I reached town and folks crowded round to get the true word of it.
+
+Becky was the white woman who had two Negro sons. She’s dead; they’ve gone away. The pines whisper to Jesus. The Bible flaps its leaves with an aimless rustle on her mound.
+
+FACE
+
+Hair—
+silver-gray,
+like streams of stars,
+Brows—
+recurved canoes
+quivered by the ripples blown by pain,
+Her eyes—
+mist of tears
+condensing on the flesh below
+And her channeled muscles
+are cluster grapes of sorrow
+purple in the evening sun
+nearly ripe for worms.COTTON SONG
+
+Come, brother, come. Lets lift it;
+Come now, hewit! roll away!
+Shackles fall upon the Judgment Day
+But lets not wait for it.
+
+God’s body’s got a soul,
+Bodies like to roll the soul,
+Cant blame God if we dont roll,
+Come, brother, roll, roll!
+
+Cotton bales are the fleecy way
+Weary sinner’s bare feet trod,
+Softly, softly to the throne of God,
+“We aint agwine t wait until th Judgment Day!
+
+Nassur; nassur,
+Hump.
+Eoho, eoho, roll away!
+We aint agwine t wait until th Judgment Day!”
+
+God’s body’s got a soul,
+Bodies like to roll the soul,
+Cant blame God if we dont roll,
+Come, brother, roll, roll!CARMA
+
+Wind is in the cane. Come along.
+Cane leaves swaying, rusty with talk,
+Scratching choruses above the guinea’s squawk,
+Wind is in the cane. Come along.
+
+Carma, in overalls, and strong as any man, stands behind the old brown mule, driving the wagon home. It bumps, and groans, and shakes as it crosses the railroad track. She, riding it easy. I leave the men around the stove to follow her with my eyes down the red dust road. Nigger woman driving a Georgia chariot down an old dust road. Dixie Pike is what they call it. Maybe she feels my gaze, perhaps she expects it. Anyway, she turns. The sun, which has been slanting over her shoulder, shoots primitive rockets into her mangrove-gloomed, yellow flower face. Hi! Yip! God has left the Moses-people for the nigger. “Gedap.” Using reins to slap the mule, she disappears in a cloudy rumble at some indefinite point along the road.
+
+(The sun is hammered to a band of gold. Pine-needles, like mazda, are brilliantly aglow. No rain has come to take the rustle from the falling sweet-gum leaves. Over in the forest, across the swamp, a sawmill blows its closing whistle. Smoke curls up. Marvelous web spun by the spider sawdust pile. Curls up and spreads itself pine-high above the branch, a single silver band along the eastern valley. A black boy ... you are the most sleepiest man I ever seed, Sleeping Beauty ... cradled on a gray mule, guided by the hollow sound of cow-bells, heads for them through a rusty cotton field.From down the railroad track, the chug-chug of a gas engine announces that the repair gang is coming home. A girl in the yard of a whitewashed shack not much larger than the stack of worn ties piled before it, sings. Her voice is loud. Echoes, like rain, sweep the valley. Dusk takes the polish from the rails. Lights twinkle in scattered houses. From far away, a sad strong song. Pungent and composite, the smell of farmyards is the fragrance of the woman. She does not sing; her body is a song. She is in the forest, dancing. Torches flare .. juju men, greegree, witch-doctors .. torches go out... The Dixie Pike has grown from a goat path in Africa.
+
+<i>Night.</i>
+
+Foxie, the bitch, slicks back her ears and barks at the rising moon.)
+
+Wind is in the corn. Come along.
+Corn leaves swaying, rusty with talk,
+Scratching choruses above the guinea’s squawk,
+Wind is in the corn. Come along.
+
+Carma’s tale is the crudest melodrama. Her husband’s in the gang. And its her fault he got there. Working with a contractor, he was away most of the time. She had others. No one blames her for that. He returned one day and hung around the town where he picked up week-old boasts and rumors... Bane accused her. She denied. He couldnt see that she was becoming hysterical. He would have liked to take his fists and beat her. Who was strong as a man. Stronger. Words, like corkscrews, wormed to her strength. It fizzled out.Grabbing a gun, she rushed from the house and plunged across the road into a cane-brake.. There, in quarter heaven shone the crescent moon... Bane was afraid to follow till he heard the gun go off. Then he wasted half an hour gathering the neighbor men. They met in the road where lamp-light showed tracks dissolving in the loose earth about the cane. The search began. Moths flickered the lamps. They put them out. Really, because she still might be live enough to shoot. Time and space have no meaning in a canefield. No more than the interminable stalks... Some one stumbled over her. A cry went up. From the road, one would have thought that they were cornering a rabbit or a skunk... It is difficult carrying dead weight through cane. They placed her on the sofa. A curious, nosey somebody looked for the wound. This fussing with her clothes aroused her. Her eyes were weak and pitiable for so strong a woman. Slowly, then like a flash, Bane came to know that the shot she fired, with averted head, was aimed to whistle like a dying hornet through the cane. Twice deceived, and one deception proved the other. His head went off. Slashed one of the men who’d helped, the man who’d stumbled over her. Now he’s in the gang. Who was her husband. Should she not take others, this Carma, strong as a man, whose tale as I have told it is the crudest melodrama?
+
+Wind is in the cane. Come along.
+Cane leaves swaying, rusty with talk,
+Scratching choruses above the guinea’s squawk,
+Wind is in the cane. Come along.<b>SONG OF THE SON</b>
+
+Pour O pour that parting soul in song,
+O pour it in the sawdust glow of night,
+Into the velvet pine-smoke air to-night,
+And let the valley carry it along.
+And let the valley carry it along.
+
+O land and soil, red soil and sweet-gum tree,
+So scant of grass, so profligate of pines,
+Now just before an epoch’s sun declines
+Thy son, in time, I have returned to thee,
+Thy son, I have in time returned to thee.
+
+In time, for though the sun is setting on
+A song-lit race of slaves, it has not set;
+Though late, O soil, it is not too late yet
+To catch thy plaintive soul, leaving, soon gone,
+Leaving, to catch thy plaintive soul soon gone.
+
+O Negro slaves, dark purple ripened plums,
+Squeezed, and bursting in the pine-wood air,
+Passing, before they stripped the old tree bare
+One plum was saved for me, one seed becomesAn everlasting song, a singing tree,
+Caroling softly souls of slavery,
+What they were, and what they are to me,
+Caroling softly souls of slavery.
+
+GEORGIA DUSK
+
+The sky, lazily disdaining to pursue
+  The setting sun, too indolent to hold
+  A lengthened tournament for flashing gold,
+Passively darkens for night’s barbecue,
+
+A feast of moon and men and barking hounds,
+  An orgy for some genius of the South
+  With blood-hot eyes and cane-lipped scented mouth,
+Surprised in making folk-songs from soul sounds.
+
+The sawmill blows its whistle, buzz-saws stop,
+  And silence breaks the bud of knoll and hill,
+  Soft settling pollen where plowed lands fulfill
+Their early promise of a bumper crop.
+
+Smoke from the pyramidal sawdust pile
+  Curls up, blue ghosts of trees, tarrying low
+  Where only chips and stumps are left to show
+The solid proof of former domicile.Meanwhile, the men, with vestiges of pomp,
+  Race memories of king and caravan,
+  High-priests, an ostrich, and a juju-man,
+Go singing through the footpaths of the swamp.
+
+Their voices rise .. the pine trees are guitars,
+  Strumming, pine-needles fall like sheets of rain ..
+  Their voices rise .. the chorus of the cane
+Is caroling a vesper to the stars..
+
+O singers, resinous and soft your songs
+  Above the sacred whisper of the pines,
+  Give virgin lips to cornfield concubines,
+Bring dreams of Christ to dusky cane-lipped throngs.
+
+FERN
+
+Face flowed into her eyes. Flowed in soft cream foam and plaintive ripples, in such a way that wherever your glance may momentarily have rested, it immediately thereafter wavered in the direction of her eyes. The soft suggestion of down slightly darkened, like the shadow of a bird’s wing might, the creamy brown color of her upper lip. Why, after noticing it, you sought her eyes, I cannot tell you. Her nose was aquiline, Semitic. If you have heard a Jewish cantor sing, if he has touched you and made your own sorrow seem trivial when compared with his, you will know my feeling when I follow the curves of her profile, like mobile rivers, to their common delta. They were strange eyes.In this, that they sought nothing—that is, nothing that was obvious and tangible and that one could see, and they gave the impression that nothing was to be denied. When a woman seeks, you will have observed, her eyes deny. Fern’s eyes desired nothing that you could give her; there was no reason why they should withhold. Men saw her eyes and fooled themselves. Fern’s eyes said to them that she was easy. When she was young, a few men took her, but got no joy from it. And then, once done, they felt bound to her (quite unlike their hit and run with other girls), felt as though it would take them a lifetime to fulfill an obligation which they could find no name for. They became attached to her, and hungered after finding the barest trace of what she might desire. As she grew up, new men who came to town felt as almost everyone did who ever saw her: that they would not be denied. Men were everlastingly bringing her their bodies. Something inside of her got tired of them, I guess, for I am certain that for the life of her she could not tell why or how she began to turn them off. A man in fever is no trifling thing to send away. They began to leave her, baffled and ashamed, yet vowing to themselves that some day they would do some fine thing for her: send her candy every week and not let her know whom it came from, watch out for her wedding-day and give her a magnificent something with no name on it, buy a house and deed it to her, rescue her from some unworthy fellow who had tricked her into marrying him. As you know, men are apt to idolize or fear that which they cannot understand, especially if it be a woman. She did not deny them, yet the fact was that they were denied. A sort of superstition crept into their consciousness of her being somehow above them. Being above them meant that she was not to be approached by anyone. She became a virgin.Now a virgin in a small southern town is by no means the usual thing, if you will believe me. That the sexes were made to mate is the practice of the South. Particularly, black folks were made to mate. And it is black folks whom I have been talking about thus far. What white men thought of Fern I can arrive at only by analogy. They let her alone.
+
+• • • • •
+
+Anyone, of course, could see her, could see her eyes. If you walked up the Dixie Pike most any time of day, you’d be most like to see her resting listless-like on the railing of her porch, back propped against a post, head tilted a little forward because there was a nail in the porch post just where her head came which for some reason or other she never took the trouble to pull out. Her eyes, if it were sunset, rested idly where the sun, molten and glorious, was pouring down between the fringe of pines. Or maybe they gazed at the gray cabin on the knoll from which an evening folk-song was coming. Perhaps they followed a cow that had been turned loose to roam and feed on cotton-stalks and corn leaves. Like as not they’d settle on some vague spot above the horizon, though hardly a trace of wistfulness would come to them. If it were dusk, then they’d wait for the search-light of the evening train which you could see miles up the track before it flared across the Dixie Pike, close to her home. Wherever they looked, you’d follow them and then waver back. Like her face, the whole countryside seemed to flow into her eyes. Flowed into them with the soft listless cadence of Georgia’s South. A young Negro, once, was looking at her, spellbound, from the road. A white man passing in a buggy had to flick him with his whip if he was to get by without running him over.I first saw her on her porch. I was passing with a fellow whose crusty numbness (I was from the North and suspected of being prejudiced and stuck-up) was melting as he found me warm. I asked him who she was. “That’s Fern,” was all that I could get from him. Some folks already thought that I was given to nosing around; I let it go at that, so far as questions were concerned. But at first sight of her I felt as if I heard a Jewish cantor sing. As if his singing rose above the unheard chorus of a folk-song. And I felt bound to her. I too had my dreams: something I would do for her. I have knocked about from town to town too much not to know the futility of mere change of place. Besides, picture if you can, this cream-colored solitary girl sitting at a tenement window looking down on the indifferent throngs of Harlem. Better that she listen to folk-songs at dusk in Georgia, you would say, and so would I. Or, suppose she came up North and married. Even a doctor or a lawyer, say, one who would be sure to get along—that is, make money. You and I know, who have had experience in such things, that love is not a thing like prejudice which can be bettered by changes of town. Could men in Washington, Chicago, or New York, more than the men of Georgia, bring her something left vacant by the bestowal of their bodies? You and I who know men in these cities will have to say, they could not. See her out and out a prostitute along State Street in Chicago. See her move into a southern town where white men are more aggressive. See her become a white man’s concubine... Something I must do for her. There was myself. What could I do for her? Talk, of course. Push back the fringe of pines upon new horizons. To what purpose? and what for? Her? Myself? Men in her case seem to lose their selfishness. I lost mine before I touched her.I ask you, friend (it makes no difference if you sit in the Pullman or the Jim Crow as the train crosses her road), what thoughts would come to you—that is, after you’d finished with the thoughts that leap into men’s minds at the sight of a pretty woman who will not deny them; what thoughts would come to you, had you seen her in a quick flash, keen and intuitively, as she sat there on her porch when your train thundered by? Would you have got off at the next station and come back for her to take her where? Would you have completely forgotten her as soon as you reached Macon, Atlanta, Augusta, Pasadena, Madison, Chicago, Boston, or New Orleans? Would you tell your wife or sweetheart about a girl you saw? Your thoughts can help me, and I would like to know. Something I would do for her...
+
+• • • • •
+
+One evening I walked up the Pike on purpose, and stopped to say hello. Some of her family were about, but they moved away to make room for me. Damn if I knew how to begin. Would you? Mr. and Miss So-and-So, people, the weather, the crops, the new preacher, the frolic, the church benefit, rabbit and possum hunting, the new soft drink they had at old Pap’s store, the schedule of the trains, what kind of town Macon was, Negro’s migration north, boll-weevils, syrup, the Bible—to all these things she gave a yassur or nassur, without further comment. I began to wonder if perhaps my own emotional sensibility had played one of its tricks on me. “Lets take a walk,” I at last ventured. The suggestion, coming after so long an isolation, was novel enough, I guess, to surprise. But it wasnt that. Something told me that men before me had said just that as a prelude to the offering of their bodies. I tried to tell her with my eyes.I think she understood. The thing from her that made my throat catch, vanished. Its passing left her visible in a way I’d thought, but never seen. We walked down the Pike with people on all the porches gaping at us. “Doesnt it make you mad?” She meant the row of petty gossiping people. She meant the world. Through a canebrake that was ripe for cutting, the branch was reached. Under a sweet-gum tree, and where reddish leaves had dammed the creek a little, we sat down. Dusk, suggesting the almost imperceptible procession of giant trees, settled with a purple haze about the cane. I felt strange, as I always do in Georgia, particularly at dusk. I felt that things unseen to men were tangibly immediate. It would not have surprised me had I had vision. People have them in Georgia more often than you would suppose. A black woman once saw the mother of Christ and drew her in charcoal on the courthouse wall... When one is on the soil of one’s ancestors, most anything can come to one... From force of habit, I suppose, I held Fern in my arms—that is, without at first noticing it. Then my mind came back to her. Her eyes, unusually weird and open, held me. Held God. He flowed in as I’ve seen the countryside flow in. Seen men. I must have done something—what, I dont know, in the confusion of my emotion. She sprang up. Rushed some distance from me. Fell to her knees, and began swaying, swaying. Her body was tortured with something it could not let out. Like boiling sap it flooded arms and fingers till she shook them as if they burned her. It found her throat, and spattered inarticulately in plaintive, convulsive sounds, mingled with calls to Christ Jesus. And then she sang, brokenly. A Jewish cantor singing with a broken voice. A child’s voice, uncertain, or an old man’s. Dusk hid her; I could hear only her song.It seemed to me as though she were pounding her head in anguish upon the ground. I rushed to her. She fainted in my arms.
+
+• • • • •
+
+There was talk about her fainting with me in the canefield. And I got one or two ugly looks from town men who’d set themselves up to protect her. In fact, there was talk of making me leave town. But they never did. They kept a watch-out for me, though. Shortly after, I came back North. From the train window I saw her as I crossed her road. Saw her on her porch, head tilted a little forward where the nail was, eyes vaguely focused on the sunset. Saw her face flow into them, the countryside and something that I call God, flowing into them... Nothing ever really happened. Nothing ever came to Fern, not even I. Something I would do for her. Some fine unnamed thing... And, friend, you? She is still living, I have reason to know. Her name, against the chance that you might happen down that way, is Fernie May Rosen.
+
+NULLO
+
+A spray of pine-needles,
+Dipped in western horizon gold,
+Fell onto a path.
+Dry moulds of cow-hoofs.
+In the forest.
+Rabbits knew not of their falling,
+Nor did the forest catch aflame.EVENING SONG
+
+Full moon rising on the waters of my heart,
+Lakes and moon and fires,
+Cloine tires,
+Holding her lips apart.
+
+Promises of slumber leaving shore to charm the moon,
+Miracle made vesper-keeps,
+Cloine sleeps,
+And I’ll be sleeping soon.
+
+Cloine, curled like the sleepy waters where the moon-waves start,
+Radiant, resplendently she gleams,
+Cloine dreams,
+Lips pressed against my heart.
+
+ESTHER<b>1</b>
+
+<i>Nine.</i>
+
+Esther’s hair falls in soft curls about her high-cheek-boned chalk-white face. Esther’s hair would be beautiful if there were more gloss to it. And if her face were not prematurely serious, one would call it pretty. Her cheeks are too flat and dead for a girl of nine. Esther looks like a little white child, starched, frilled, as she walks slowly from her home towards her father’s grocery store. She is about to turn in Broad from Maple Street. White and black men loafing on the corner hold no interest for her. Then a strange thing happens. A clean-muscled, magnificent, black-skinned Negro, whom she had heard her father mention as King Barlo, suddenly drops to his knees on a spot called the Spittoon. White men, unaware of him, continue squirting tobacco juice in his direction. The saffron fluid splashes on his face. His smooth black face begins to glisten and to shine. Soon, people notice him, and gather round. His eyes are rapturous upon the heavens. Lips and nostrils quiver. Barlo is in a religious trance. Town folks know it. They are not startled. They are not afraid. They gather round. Some beg boxes from the grocery stores. From old McGregor’s notion shop. A coffin-case is pressed into use. Folks line the curb-stones. Business men close shop. And Banker Warply parks his car close by. Silently, all await the prophet’s voice. The sheriff, a great florid fellow whose leggings never meet around his bulging calves, swears in three deputies. “Wall, y cant never tell what a nigger like King Barlo might be up t.” Soda bottles, five fingers full of shine, are passed to those who want them. A couple of stray dogs start a fight. Old Goodlow’s cow comes flopping up the street.Barlo, still as an Indian fakir, has not moved. The town bell strikes six. The sun slips in behind a heavy mass of horizon cloud. The crowd is hushed and expectant. Barlo’s under jaw relaxes, and his lips begin to move.
+
+“Jesus has been awhisperin strange words deep down, O way down deep, deep in my ears.”
+
+Hums of awe and of excitement.
+
+“He called me to His side an said, ‘Git down on your knees beside me, son, Ise gwine t whisper in your ears.’”
+
+An old sister cries, “Ah, Lord.”
+
+“‘Ise agwine t whisper in your ears,’ he said, an I replied, ‘Thy will be done on earth as it is in heaven.’”
+
+“Ah, Lord. Amen. Amen.”
+
+“An Lord Jesus whispered strange good words deep down, O way down deep, deep in my ears. An He said, ‘Tell em till you feel your throat on fire.’ I saw a vision. I saw a man arise, an he was big an black an powerful—”
+
+Some one yells, “Preach it, preacher, preach it!”“—but his head was caught up in th clouds. An while he was agazin at th heavens, heart filled up with th Lord, some little white-ant biddies came an tied his feet to chains. They led him t th coast, they led him t th sea, they led him across th ocean an they didnt set him free. The old coast didnt miss him, an th new coast wasnt free, he left the old-coast brothers, t give birth t you an me. O Lord, great God Almighty, t give birth t you an me.”
+
+Barlo pauses. Old gray mothers are in tears. Fragments of melodies are being hummed. White folks are touched and curiously awed. Off to themselves, white and black preachers confer as to how best to rid themselves of the vagrant, usurping fellow. Barlo looks as though he is struggling to continue. People are hushed. One can hear weevils work. Dusk is falling rapidly, and the customary store lights fail to throw their feeble glow across the gray dust and flagging of the Georgia town. Barlo rises to his full height. He is immense. To the people he assumes the outlines of his visioned African. In a mighty voice he bellows:
+
+“Brothers an sisters, turn your faces t th sweet face of the Lord, an fill your hearts with glory. Open your eyes an see th dawnin of th mornin light. Open your ears—”
+
+Years afterwards Esther was told that at that very moment a great, heavy, rumbling voice actually was heard. That hosts of angels and of demons paraded up and down the streets all night. That King Barlo rode out of town astride a pitch-black bull that had a glowing gold ring in its nose.And that old Limp Underwood, who hated niggers, woke up next morning to find that he held a black man in his arms. This much is certain: an inspired Negress, of wide reputation for being sanctified, drew a portrait of a black madonna on the court-house wall. And King Barlo left town. He left his image indelibly upon the mind of Esther. He became the starting point of the only living patterns that her mind was to know.<b>2</b>
+
+<i>Sixteen.</i>
+
+Esther begins to dream. The low evening sun sets the windows of McGregor’s notion shop aflame. Esther makes believe that they really are aflame. The town fire department rushes madly down the road. It ruthlessly shoves black and white idlers to one side. It whoops. It clangs. It rescues from the second-story window a dimpled infant which she claims for her own. How had she come by it? She thinks of it immaculately. It is a sin to think of it immaculately. She must dream no more. She must repent her sin. Another dream comes. There is no fire department. There are no heroic men. The fire starts. The loafers on the corner form a circle, chew their tobacco faster, and squirt juice just as fast as they can chew. Gallons on top of gallons they squirt upon the flames. The air reeks with the stench of scorched tobacco juice. Women, fat chunky Negro women, lean scrawny white women, pull their skirts up above their heads and display the most ludicrous underclothes. The women scoot in all directions from the danger zone. She alone is left to take the baby in her arms. But what a baby! Black, singed, woolly, tobacco-juice baby—ugly as sin. Once held to her breast, miraculous thing: its breath is sweet and its lips can nibble. She loves it frantically. Her joy in it changes the town folks’ jeers to harmless jealousy, and she is left alone.
+
+<i>Twenty-two.</i>Esther’s schooling is over. She works behind the counter of her father’s grocery store. “To keep the money in the family,” so he said. She is learning to make distinctions between the business and the social worlds. “Good business comes from remembering that the white folks dont divide the niggers, Esther. Be just as black as any man who has a silver dollar.” Esther listlessly forgets that she is near white, and that her father is the richest colored man in town. Black folk who drift in to buy lard and snuff and flour of her, call her a sweet-natured, accommodating girl. She learns their names. She forgets them. She thinks about men. “I dont appeal to them. I wonder why.” She recalls an affair she had with a little fair boy while still in school. It had ended in her shame when he as much as told her that for sweetness he preferred a lollipop. She remembers the salesman from the North who wanted to take her to the movies that first night he was in town. She refused, of course. And he never came back, having found out who she was. She thinks of Barlo. Barlo’s image gives her a slightly stale thrill. She spices it by telling herself his glories. Black. Magnetically so. Best cotton picker in the county, in the state, in the whole world for that matter. Best man with his fists, best man with dice, with a razor. Promoter of church benefits. Of colored fairs. Vagrant preacher. Lover of all the women for miles and miles around. Esther decides that she loves him. And with a vague sense of life slipping by, she resolves that she will tell him so, whatever people say, the next time he comes to town. After the making of this resolution which becomes a sort of wedding cake for her to tuck beneath her pillow and go to sleep upon, she sees nothing of Barlo for five years. Her hair thins. It looks like the dull silk on puny corn ears.Her face pales until it is the color of the gray dust that dances with dead cotton leaves..
+
+<b>3</b>
+
+<i>Esther is twenty-seven.</i>
+
+Esther sells lard and snuff and flour to vague black faces that drift in her store to ask for them. Her eyes hardly see the people to whom she gives change. Her body is lean and beaten. She rests listlessly against the counter, too weary to sit down. From the street some one shouts, “King Barlo has come back to town.” He passes her window, driving a large new car. Cut-out open. He veers to the curb, and steps out. Barlo has made money on cotton during the war. He is as rich as anyone. Esther suddenly is animate. She goes to her door. She sees him at a distance, the center of a group of credulous men. She hears the deep-bass rumble of his talk. The sun swings low. McGregor’s windows are aflame again. Pale flame. A sharply dressed white girl passes by. For a moment Esther wishes that she might be like her. Not white; she has no need for being that. But sharp, sporty, with get-up about her. Barlo is connected with that wish. She mustnt wish. Wishes only make you restless. Emptiness is a thing that grows by being moved. “I’ll not think. Not wish. Just set my mind against it.” Then the thought comes to her that those purposeless, easy-going men will possess him, if she doesnt. Purpose is not dead in her, now that she comes to think of it. That loose women will have their arms around him at Nat Bowle’s place to-night. As if her veins are full of fired sun-bleached southern shanties, a swift heat sweeps them.Dead dreams, and a forgotten resolution are carried upward by the flames. Pale flames. “They shant have him. Oh, they shall not. Not if it kills me they shant have him.” Jerky, aflutter, she closes the store and starts home. Folks lazing on store window-sills wonder what on earth can be the matter with Jim Crane’s gal, as she passes them. “Come to remember, she always was a little off, a little crazy, I reckon.” Esther seeks her own room, and locks the door. Her mind is a pink mesh-bag filled with baby toes.
+
+• • • • •
+
+Using the noise of the town clock striking twelve to cover the creaks of her departure, Esther slips into the quiet road. The town, her parents, most everyone is sound asleep. This fact is a stable thing that comforts her. After sundown a chill wind came up from the west. It is still blowing, but to her it is a steady, settled thing like the cold. She wants her mind to be like that. Solid, contained, and blank as a sheet of darkened ice. She will not permit herself to notice the peculiar phosphorescent glitter of the sweet-gum leaves. Their movement would excite her. Exciting too, the recession of the dull familiar homes she knows so well. She doesnt know them at all. She closes her eyes, and holds them tightly. Wont do. Her being aware that they are closed recalls her purpose. She does not want to think of it. She opens them. She turns now into the deserted business street. The corrugated iron canopies and mule- and horse-gnawed hitching posts bring her a strange composure. Ghosts of the commonplaces of her daily life take stride with her and become her companions. And the echoes of her heels upon the flagging are rhythmically monotonous and soothing.Crossing the street at the corner of McGregor’s notion shop, she thinks that the windows are a dull flame. Only a fancy. She walks faster. Then runs. A turn into a side street brings her abruptly to Nat Bowle’s place. The house is squat and dark. It is always dark. Barlo is within. Quietly she opens the outside door and steps in. She passes through a small room. Pauses before a flight of stairs down which people’s voices, muffled, come. The air is heavy with fresh tobacco smoke. It makes her sick. She wants to turn back. She goes up the steps. As if she were mounting to some great height, her head spins. She is violently dizzy. Blackness rushes to her eyes. And then she finds that she is in a large room. Barlo is before her.
+
+“Well, I’m sholy damned—skuse me, but what, what brought you here, lil milk-white gal?”
+
+“You.” Her voice sounds like a frightened child’s that calls homeward from some point miles away.
+
+“Me?”
+
+“Yes, you Barlo.”
+
+“This aint th place fer y. This aint th place fer y.”
+
+“I know. I know. But I’ve come for you.”
+
+“For me for what?”She manages to look deep and straight into his eyes. He is slow at understanding. Guffaws and giggles break out from all around the room. A coarse woman’s voice remarks, “So thats how th dictie niggers does it.” Laughs. “Mus give em credit fo their gall.”
+
+Esther doesnt hear. Barlo does. His faculties are jogged. She sees a smile, ugly and repulsive to her, working upward through thick licker fumes. Barlo seems hideous. The thought comes suddenly, that conception with a drunken man must be a mighty sin. She draws away, frozen. Like a somnambulist she wheels around and walks stiffly to the stairs. Down them. Jeers and hoots pelter bluntly upon her back. She steps out. There is no air, no street, and the town has completely disappeared.
+
+CONVERSION
+
+African Guardian of Souls,
+Drunk with rum,
+Feasting on a strange cassava,
+Yielding to new words and a weak palabra
+Of a white-faced sardonic god—
+Grins, cries
+Amen,
+Shouts hosanna.
+
+PORTRAIT IN GEORGIAHair—braided chestnut, coiled like a lyncher’s rope,
+Eyes—fagots,
+Lips—old scars, or the first red blisters,
+Breath—the last sweet scent of cane,
+And her slim body, white as the ash of black flesh after flame.
+
+BLOOD-BURNING MOON
+
+<b>1</b>
+
+Up from the skeleton stone walls, up from the rotting floor boards and the solid hand-hewn beams of oak of the pre-war cotton factory, dusk came. Up from the dusk the full moon came. Glowing like a fired pine-knot, it illumined the great door and soft showered the Negro shanties aligned along the single street of factory town. The full moon in the great door was an omen. Negro women improvised songs against its spell.
+
+Louisa sang as she came over the crest of the hill from the white folks’ kitchen. Her skin was the color of oak leaves on young trees in fall. Her breasts, firm and up-pointed like ripe acorns. And her singing had the low murmur of winds in fig trees. Bob Stone, younger son of the people she worked for, loved her. By the way the world reckons things, he had won her. By measure of that warm glow which came into her mind at thought of him, he had won her. Tom Burwell, whom the whole town called Big Boy, also loved her. But working in the fields all day, and far away from her, gave him no chance to show it. Though often enough of evenings he had tried to. Somehow, he never got along.Strong as he was with hands upon the ax or plow, he found it difficult to hold her. Or so he thought. But the fact was that he held her to factory town more firmly than he thought for. His black balanced, and pulled against, the white of Stone, when she thought of them. And her mind was vaguely upon them as she came over the crest of the hill, coming from the white folks’ kitchen. As she sang softly at the evil face of the full moon.
+
+A strange stir was in her. Indolently, she tried to fix upon Bob or Tom as the cause of it. To meet Bob in the canebrake, as she was going to do an hour or so later, was nothing new. And Tom’s proposal which she felt on its way to her could be indefinitely put off. Separately, there was no unusual significance to either one. But for some reason, they jumbled when her eyes gazed vacantly at the rising moon. And from the jumble came the stir that was strangely within her. Her lips trembled. The slow rhythm of her song grew agitant and restless. Rusty black and tan spotted hounds, lying in the dark corners of porches or prowling around back yards, put their noses in the air and caught its tremor. They began plaintively to yelp and howl. Chickens woke up and cackled. Intermittently, all over the countryside dogs barked and roosters crowed as if heralding a weird dawn or some ungodly awakening. The women sang lustily. Their songs were cotton-wads to stop their ears. Louisa came down into factory town and sank wearily upon the step before her home. The moon was rising towards a thick cloud-bank which soon would hide it.
+
+Red nigger moon. Sinner!
+Blood-burning moon. Sinner!
+Come out that fact’ry door.<b>2</b>
+
+Up from the deep dusk of a cleared spot on the edge of the forest a mellow glow arose and spread fan-wise into the low-hanging heavens. And all around the air was heavy with the scent of boiling cane. A large pile of cane-stalks lay like ribboned shadows upon the ground. A mule, harnessed to a pole, trudged lazily round and round the pivot of the grinder. Beneath a swaying oil lamp, a Negro alternately whipped out at the mule, and fed cane-stalks to the grinder. A fat boy waddled pails of fresh ground juice between the grinder and the boiling stove. Steam came from the copper boiling pan. The scent of cane came from the copper pan and drenched the forest and the hill that sloped to factory town, beneath its fragrance. It drenched the men in circle seated around the stove. Some of them chewed at the white pulp of stalks, but there was no need for them to, if all they wanted was to taste the cane. One tasted it in factory town. And from factory town one could see the soft haze thrown by the glowing stove upon the low-hanging heavens.
+
+Old David Georgia stirred the thickening syrup with a long ladle, and ever so often drew it off. Old David Georgia tended his stove and told tales about the white folks, about moonshining and cotton picking, and about sweet nigger gals, to the men who sat there about his stove to listen to him. Tom Burwell chewed cane-stalk and laughed with the others till someone mentioned Louisa. Till some one said something about Louisa and Bob Stone, about the silk stockings she must have gotten from him. Blood ran up Tom’s neck hotter than the glow that flooded from the stove. He sprang up. Glared at the men and said, “She’s my gal.” Will Manning laughed. Tom strode over to him.Yanked him up and knocked him to the ground. Several of Manning’s friends got up to fight for him. Tom whipped out a long knife and would have cut them to shreds if they hadnt ducked into the woods. Tom had had enough. He nodded to Old David Georgia and swung down the path to factory town. Just then, the dogs started barking and the roosters began to crow. Tom felt funny. Away from the fight, away from the stove, chill got to him. He shivered. He shuddered when he saw the full moon rising towards the cloud-bank. He who didnt give a godam for the fears of old women. He forced his mind to fasten on Louisa. Bob Stone. Better not be. He turned into the street and saw Louisa sitting before her home. He went towards her, ambling, touched the brim of a marvelously shaped, spotted, felt hat, said he wanted to say something to her, and then found that he didnt know what he had to say, or if he did, that he couldnt say it. He shoved his big fists in his overalls, grinned, and started to move off.
+
+“Youall want me, Tom?”
+
+“Thats what us wants, sho, Louisa.”
+
+“Well, here I am—”
+
+“An here I is, but that aint ahelpin none, all th same.”
+
+“You wanted to say something?..”
+
+“I did that, sho. But words is like th spots on dice: no matter how y fumbles em, there’s times when they jes wont come. I dunno why.Seems like th love I feels fo yo done stole m tongue. I got it now. Whee! Louisa, honey, I oughtnt tell y, I feel I oughtnt cause yo is young an goes t church an I has had other gals, but Louisa I sho do love y. Lil gal, Ise watched y from them first days when youall sat right here befo yo door befo th well an sang sometimes in a way that like t broke m heart. Ise carried y with me into th fields, day after day, an after that, an I sho can plow when yo is there, an I can pick cotton. Yassur! Come near beatin Barlo yesterday. I sho did. Yassur! An next year if ole Stone’ll trust me, I’ll have a farm. My own. My bales will buy yo what y gets from white folks now. Silk stockings an purple dresses—course I dont believe what some folks been whisperin as t how y gets them things now. White folks always did do for niggers what they likes. An they jes cant help alikin yo, Louisa. Bob Stone likes y. Course he does. But not th way folks is awhisperin. Does he, hon?”
+
+“I dont know what you mean, Tom.”
+
+“Course y dont. Ise already cut two niggers. Had t hon, t tell em so. Niggers always tryin t make somethin out a nothin. An then besides, white folks aint up t them tricks so much nowadays. Godam better not be. Leastawise not with yo. Cause I wouldnt stand f it. Nassur.”
+
+“What would you do, Tom?”
+
+“Cut him jes like I cut a nigger.”
+
+“No, Tom—”“I said I would an there aint no mo to it. But that aint th talk f now. Sing, honey Louisa, an while I’m listenin t y I’ll be makin love.”
+
+Tom took her hand in his. Against the tough thickness of his own, hers felt soft and small. His huge body slipped down to the step beside her. The full moon sank upward into the deep purple of the cloud-bank. An old woman brought a lighted lamp and hung it on the common well whose bulky shadow squatted in the middle of the road, opposite Tom and Louisa. The old woman lifted the well-lid, took hold the chain, and began drawing up the heavy bucket. As she did so, she sang. Figures shifted, restless-like, between lamp and window in the front rooms of the shanties. Shadows of the figures fought each other on the gray dust of the road. Figures raised the windows and joined the old woman in song. Louisa and Tom, the whole street, singing:
+
+Red nigger moon. Sinner!
+Blood-burning moon. Sinner!
+Come out that fact’ry door.<b>3</b>
+
+Bob Stone sauntered from his veranda out into the gloom of fir trees and magnolias. The clear white of his skin paled, and the flush of his cheeks turned purple. As if to balance this outer change, his mind became consciously a white man’s. He passed the house with its huge open hearth which, in the days of slavery, was the plantation cookery. He saw Louisa bent over that hearth. He went in as a master should and took her. Direct, honest, bold. None of this sneaking that he had to go through now. The contrast was repulsive to him. His family had lost ground. Hell no, his family still owned the niggers, practically. Damned if they did, or he wouldnt have to duck around so. What would they think if they knew? His mother? His sister? He shouldnt mention them, shouldnt think of them in this connection. There in the dusk he blushed at doing so. Fellows about town were all right, but how about his friends up North? He could see them incredible, repulsed. They didnt know. The thought first made him laugh. Then, with their eyes still upon him, he began to feel embarrassed. He felt the need of explaining things to them. Explain hell. They wouldnt understand, and moreover, who ever heard of a Southerner getting on his knees to any Yankee, or anyone. No sir. He was going to see Louisa to-night, and love her. She was lovely—in her way. Nigger way. What way was that? Damned if he knew. Must know. He’d known her long enough to know. Was there something about niggers that you couldnt know? Listening to them at church didnt tell you anything. Looking at them didnt tell you anything. Talking to them didnt tell you anything—unless it was gossip, unless they wanted to talk. Of course, about farming, and licker, and craps—but those werent nigger. Nigger was something more. How much more? Something to be afraid of, more? Hell no.Who ever heard of being afraid of a nigger? Tom Burwell. Cartwell had told him that Tom went with Louisa after she reached home. No sir. No nigger had ever been with his girl. He’d like to see one try. Some position for him to be in. Him, Bob Stone, of the old Stone family, in a scrap with a nigger over a nigger girl. In the good old days... Ha! Those were the days. His family had lost ground. Not so much, though. Enough for him to have to cut through old Lemon’s canefield by way of the woods, that he might meet her. She was worth it. Beautiful nigger gal. Why nigger? Why not, just gal? No, it was because she was nigger that he went to her. Sweet... The scent of boiling cane came to him. Then he saw the rich glow of the stove. He heard the voices of the men circled around it. He was about to skirt the clearing when he heard his own name mentioned. He stopped. Quivering. Leaning against a tree, he listened.
+
+“Bad nigger. Yassur, he sho is one bad nigger when he gets started.”
+
+“Tom Burwell’s been on th gang three times fo cuttin men.”
+
+“What y think he’s agwine t do t Bob Stone?”
+
+“Dunno yet. He aint found out. When he does— Baby!”
+
+“Aint no tellin.”
+
+“Young Stone aint no quitter an I ken tell y that. Blood of th old uns in his veins.”“Thats right. He’ll scrap, sho.”
+
+“Be gettin too hot f niggers round this away.”
+
+“Shut up, nigger. Y dont know what y talkin bout.”
+
+Bob Stone’s ears burned as though he had been holding them over the stove. Sizzling heat welled up within him. His feet felt as if they rested on red-hot coals. They stung him to quick movement. He circled the fringe of the glowing. Not a twig cracked beneath his feet. He reached the path that led to factory town. Plunged furiously down it. Halfway along, a blindness within him veered him aside. He crashed into the bordering canebrake. Cane leaves cut his face and lips. He tasted blood. He threw himself down and dug his fingers in the ground. The earth was cool. Cane-roots took the fever from his hands. After a long while, or so it seemed to him, the thought came to him that it must be time to see Louisa. He got to his feet and walked calmly to their meeting place. No Louisa. Tom Burwell had her. Veins in his forehead bulged and distended. Saliva moistened the dried blood on his lips. He bit down on his lips. He tasted blood. Not his own blood; Tom Burwell’s blood. Bob drove through the cane and out again upon the road. A hound swung down the path before him towards factory town. Bob couldnt see it. The dog loped aside to let him pass. Bob’s blind rushing made him stumble over it. He fell with a thud that dazed him. The hound yelped. Answering yelps came from all over the countryside. Chickens cackled. Roosters crowed, heralding the bloodshot eyes of southern awakening. Singers in the town were silenced. They shut their windows down.Palpitant between the rooster crows, a chill hush settled upon the huddled forms of Tom and Louisa. A figure rushed from the shadow and stood before them. Tom popped to his feet.
+
+“Whats y want?”
+
+“I’m Bob Stone.”
+
+“Yassur—an I’m Tom Burwell. Whats y want?”
+
+Bob lunged at him. Tom side-stepped, caught him by the shoulder, and flung him to the ground. Straddled him.
+
+“Let me up.”
+
+“Yassur—but watch yo doins, Bob Stone.”
+
+A few dark figures, drawn by the sound of scuffle stood about them. Bob sprang to his feet.
+
+“Fight like a man, Tom Burwell, an I’ll lick y.”
+
+Again he lunged. Tom side-stepped and flung him to the ground. Straddled him.
+
+“Get off me, you godam nigger you.”“Yo sho has started somethin now. Get up.”
+
+Tom yanked him up and began hammering at him. Each blow sounded as if it smashed into a precious, irreplaceable soft something. Beneath them, Bob staggered back. He reached in his pocket and whipped out a knife.
+
+“Thats my game, sho.”
+
+Blue flash, a steel blade slashed across Bob Stone’s throat. He had a sweetish sick feeling. Blood began to flow. Then he felt a sharp twitch of pain. He let his knife drop. He slapped one hand against his neck. He pressed the other on top of his head as if to hold it down. He groaned. He turned, and staggered towards the crest of the hill in the direction of white town. Negroes who had seen the fight slunk into their homes and blew the lamps out. Louisa, dazed, hysterical, refused to go indoors. She slipped, crumbled, her body loosely propped against the woodwork of the well. Tom Burwell leaned against it. He seemed rooted there.
+
+Bob reached Broad Street. White men rushed up to him. He collapsed in their arms.
+
+“Tom Burwell....”
+
+White men like ants upon a forage rushed about. Except for the taut hum of their moving, all was silent. Shotguns, revolvers, rope, kerosene, torches. Two high-powered cars with glaring search-lights. They came together.The taut hum rose to a low roar. Then nothing could be heard but the flop of their feet in the thick dust of the road. The moving body of their silence preceded them over the crest of the hill into factory town. It flattened the Negroes beneath it. It rolled to the wall of the factory, where it stopped. Tom knew that they were coming. He couldnt move. And then he saw the search-lights of the two cars glaring down on him. A quick shock went through him. He stiffened. He started to run. A yell went up from the mob. Tom wheeled about and faced them. They poured down on him. They swarmed. A large man with dead-white face and flabby cheeks came to him and almost jabbed a gun-barrel through his guts.
+
+“Hands behind y, nigger.”
+
+Tom’s wrist were bound. The big man shoved him to the well. Burn him over it, and when the woodwork caved in, his body would drop to the bottom. Two deaths for a godam nigger. Louisa was driven back. The mob pushed in. Its pressure, its momentum was too great. Drag him to the factory. Wood and stakes already there. Tom moved in the direction indicated. But they had to drag him. They reached the great door. Too many to get in there. The mob divided and flowed around the walls to either side. The big man shoved him through the door. The mob pressed in from the sides. Taut humming. No words. A stake was sunk into the ground. Rotting floor boards piled around it. Kerosene poured on the rotting floor boards. Tom bound to the stake. His breast was bare. Nails scratches let little lines of blood trickle down and mat into the hair. His face, his eyes were set and stony. Except for irregular breathing, one would have thought him already dead. Torches were flung onto the pile.A great flare muffled in black smoke shot upward. The mob yelled. The mob was silent. Now Tom could be seen within the flames. Only his head, erect, lean, like a blackened stone. Stench of burning flesh soaked the air. Tom’s eyes popped. His head settled downward. The mob yelled. Its yell echoed against the skeleton stone walls and sounded like a hundred yells. Like a hundred mobs yelling. Its yell thudded against the thick front wall and fell back. Ghost of a yell slipped through the flames and out the great door of the factory. It fluttered like a dying thing down the single street of factory town. Louisa, upon the step before her home, did not hear it, but her eyes opened slowly. They saw the full moon glowing in the great door. The full moon, an evil thing, an omen, soft showering the homes of folks she knew. Where were they, these people? She’d sing, and perhaps they’d come out and join her. Perhaps Tom Burwell would come. At any rate, the full moon in the great door was an omen which she must sing to:
+
+Red nigger moon. Sinner!
+Blood-burning moon. Sinner!
+Come out that fact’ry door.
+
+SEVENTH STREET
+
+Money burns the pocket, pocket hurts,
+Bootleggers in silken shirts,
+Ballooned, zooming Cadillacs,
+Whizzing, whizzing down the street-car tracks.Seventh Street is a bastard of Prohibition and the War. A crude-boned, soft-skinned wedge of nigger life breathing its loafer air, jazz songs and love, thrusting unconscious rhythms, black reddish blood into the white and whitewashed wood of Washington. Stale soggy wood of Washington. Wedges rust in soggy wood... Split it! In two! Again! Shred it! .. the sun. Wedges are brilliant in the sun; ribbons of wet wood dry and blow away. Black reddish blood. Pouring for crude-boned soft-skinned life, who set you flowing? Blood suckers of the War would spin in a frenzy of dizziness if they drank your blood. Prohibition would put a stop to it. Who set you flowing? White and whitewash disappear in blood. Who set you flowing? Flowing down the smooth asphalt of Seventh Street, in shanties, brick office buildings, theaters, drug stores, restaurants, and cabarets? Eddying on the corners? Swirling like a blood-red smoke up where the buzzards fly in heaven? God would not dare to suck black red blood. A Nigger God! He would duck his head in shame and call for the Judgment Day. Who set you flowing?
+
+Money burns the pocket, pocket hurts,
+Bootleggers in silken shirts,
+Ballooned, zooming Cadillacs,
+Whizzing, whizzing down the street-car tracks.
+
+RHOBERT
+
+Rhobert wears a house, like a monstrous diver’s helmet, on his head. His legs are banty-bowed and shaky because as a child he had rickets. He is way down.Rods of the house like antennæ of a dead thing, stuffed, prop up in the air. He is way down. He is sinking. His house is a dead thing that weights him down. He is sinking as a diver would sink in mud should the water be drawn off. Life is a murky, wiggling, microscopic water that compresses him. Compresses his helmet and would crush it the minute that he pulled his head out. He has to keep it in. Life is water that is being drawn off.
+
+Brother, life is water that is being drawn off.
+Brother, life is water that is being drawn off.
+
+The dead house is stuffed. The stuffing is alive. It is sinful to draw one’s head out of live stuffing in a dead house. The propped-up antennæ would cave in and the stuffing be strewn .. shredded life-pulp .. in the water. It is sinful to have one’s own head crushed. Rhobert is an upright man whose legs are banty-bowed and shaky because as a child he had rickets. The earth is round. Heaven is a sphere that surrounds it. Sink where you will. God is a Red Cross man with a dredge and a respiration-pump who’s waiting for you at the opposite periphery. God built the house. He blew His breath into its stuffing. It is good to die obeying Him who can do these things.
+
+A futile something like the dead house wraps the live stuffing of the question: how long before the water will be drawn off? Rhobert does not care. Like most men who wear monstrous helmets, the pressure it exerts is enough to convince him of its practical infinity. And he cares not two straws as to whether or not he will ever see his wife and children again.Many a time he’s seen them drown in his dreams and has kicked about joyously in the mud for days after. One thing about him goes straight to the heart. He has an Adam’s-apple which strains sometimes as if he were painfully gulping great globules of air .. air floating shredded life-pulp. It is a sad thing to see a banty-bowed, shaky, ricket-legged man straining the raw insides of his throat against smooth air. Holding furtive thoughts about the glory of pulp-heads strewn in water.. He is way down. Down. Mud, coming to his banty knees, almost hides them. Soon people will be looking at him and calling him a strong man. No doubt he is for one who has had rickets. Lets give it to him. Lets call him great when the water shall have been all drawn off. Lets build a monument and set it in the ooze where he goes down. A monument of hewn oak, carved in nigger-heads. Lets open our throats, brother, and sing “Deep River” when he goes down.
+
+Brother, Rhobert is sinking.
+Lets open our throats, brother,
+Lets sing Deep River when he goes down.
+
+AVEY
+
+For a long while she was nothing more to me than one of those skirted beings whom boys at a certain age disdain to play with. Just how I came to love her, timidly, and with secret blushes, I do not know. But that I did was brought home to me one night, the first night that Ned wore his long pants. Us fellers were seated on the curb before an apartment house where she had gone in. The young trees had not outgrown their boxes then. V Street was lined with them.When our legs grew cramped and stiff from the cold of the stone, we’d stand around a box and whittle it. I like to think now that there was a hidden purpose in the way we hacked them with our knives. I like to feel that something deep in me responded to the trees, the young trees that whinnied like colts impatient to be let free... On the particular night I have in mind, we were waiting for the top-floor light to go out. We wanted to see Avey leave the flat. This night she stayed longer than usual and gave us a chance to complete the plans of how we were going to stone and beat that feller on the top floor out of town. Ned especially had it in for him. He was about to throw a brick up at the window when at last the room went dark. Some minutes passed. Then Avey, as unconcerned as if she had been paying an old-maid aunt a visit, came out. I don’t remember what she had on, and all that sort of thing. But I do know that I turned hot as bare pavements in the summertime at Ned’s boast: “Hell, bet I could get her too if you little niggers weren’t always spying and crabbing everything.” I didnt say a word to him. It wasnt my way then. I just stood there like the others, and something like a fuse burned up inside of me. She never noticed us, but swung along lazy and easy as anything. We sauntered to the corner and watched her till her door banged to. Ned repeated what he’d said. I didnt seem to care. Sitting around old Mush-Head’s bread box, the discussion began. “Hang if I can see how she gets away with it,” Doc started. Ned knew, of course. There was nothing he didnt know when it came to women. He dilated on the emotional needs of girls. Said they werent much different from men in that respect. And concluded with the solemn avowal: “It does em good.” None of us liked Ned much. We all talked dirt; but it was the way he said it.And then too, a couple of the fellers had sisters and had caught Ned playing with them. But there was no disputing the superiority of his smutty wisdom. Bubs Sanborn, whose mother was friendly with Avey’s, had overheard the old ladies talking. “Avey’s mother’s ont her,” he said. We thought that only natural and began to guess at what would happen. Some one said she’d marry that feller on the top floor. Ned called that a lie because Avey was going to marry nobody but him. We had our doubts about that, but we did agree that she’d soon leave school and marry some one. The gang broke up, and I went home, picturing myself as married.
+
+• • • • •
+
+Nothing I did seemed able to change Avey’s indifference to me. I played basket-ball, and when I’d make a long clean shot she’d clap with the others, louder than they, I thought. I’d meet her on the street, and there’d be no difference in the way she said hello. She never took the trouble to call me by my name. On the days for drill, I’d let my voice down a tone and call for a complicated maneuver when I saw her coming. She’d smile appreciation, but it was an impersonal smile, never for me. It was on a summer excursion down to Riverview that she first seemed to take me into account. The day had been spent riding merry-go-rounds, scenic-railways, and shoot-the-chutes. We had been in swimming and we had danced. I was a crack swimmer then. She didnt know how. I held her up and showed her how to kick her legs and draw her arms. Of course she didnt learn in one day, but she thanked me for bothering with her. I was also somewhat of a dancer. And I had already noticed that love can start on a dance floor. We danced. But though I held her tightly in my arms, she was way away.That college feller who lived on the top floor was somewhere making money for the next year. I imagined that she was thinking, wishing for him. Ned was along. He treated her until his money gave out. She went with another feller. Ned got sore. One by one the boys’ money gave out. She left them. And they got sore. Every one of them but me got sore. This is the reason, I guess, why I had her to myself on the top deck of the <i>Jane Mosely</i> that night as we puffed up the Potomac, coming home. The moon was brilliant. The air was sweet like clover. And every now and then, a salt tang, a stale drift of sea-weed. It was not my mind’s fault if it went romancing. I should have taken her in my arms the minute we were stowed in that old lifeboat. I dallied, dreaming. She took me in hers. And I could feel by the touch of it that it wasnt a man-to-woman love. It made me restless. I felt chagrined. I didnt know what it was, but I did know that I couldnt handle it. She ran her fingers through my hair and kissed my forehead. I itched to break through her tenderness to passion. I wanted her to take me in her arms as I knew she had that college feller. I wanted her to love me passionately as she did him. I gave her one burning kiss. Then she laid me in her lap as if I were a child. Helpless. I got sore when she started to hum a lullaby. She wouldnt let me go. I talked. I knew damned well that I could beat her at that. Her eyes were soft and misty, the curves of her lips were wistful, and her smile seemed indulgent of the irrelevance of my remarks. I gave up at last and let her love me, silently, in her own way. The moon was brilliant. The air was sweet like clover, and every now and then, a salt tang, a stale drift of sea-weed....
+
+• • • • •The next time I came close to her was the following summer at Harpers Ferry. We were sitting on a flat projecting rock they give the name of Lover’s Leap. Some one is supposed to have jumped off it. The river is about six hundred feet beneath. A railroad track runs up the valley and curves out of sight where part of the mountain rock had to be blasted away to make room for it. The engines of this valley have a whistle, the echoes of which sound like iterated gasps and sobs. I always think of them as crude music from the soul of Avey. We sat there holding hands. Our palms were soft and warm against each other. Our fingers were not tight. She would not let them be. She would not let me twist them. I wanted to talk. To explain what I meant to her. Avey was as silent as those great trees whose tops we looked down upon. She has always been like that. At least, to me. I had the notion that if I really wanted to, I could do with her just what I pleased. Like one can strip a tree. I did kiss her. I even let my hands cup her breasts. When I was through, she’d seek my hand and hold it till my pulse cooled down. Evening after evening we sat there. I tried to get her to talk about that college feller. She never would. There was no set time to go home. None of my family had come down. And as for hers, she didnt give a hang about them. The general gossips could hardly say more than they had. The boarding-house porch was always deserted when we returned. No one saw us enter, so the time was set conveniently for scandal. This worried me a little, for I thought it might keep Avey from getting an appointment in the schools. She didnt care. She had finished normal school. They could give her a job if they wanted to. As time went on, her indifference to things began to pique me; I was ambitious. I left the Ferry earlier than she did. I was going off to college.The more I thought of it, the more I resented, yes, hell, thats what it was, her downright laziness. Sloppy indolence. There was no excuse for a healthy girl taking life so easy. Hell! she was no better than a cow. I was certain that she was a cow when I felt an udder in a Wisconsin stock-judging class. Among those energetic Swedes, or whatever they are, I decided to forget her. For two years I thought I did. When I’d come home for the summer she’d be away. And before she returned, I’d be gone. We never wrote; she was too damned lazy for that. But what a bluff I put up about forgetting her. The girls up that way, at least the ones I knew, havent got the stuff: they dont know how to love. Giving themselves completely was tame beside just the holding of Avey’s hand. One day I received a note from her. The writing, I decided, was slovenly. She wrote on a torn bit of note-book paper. The envelope had a faint perfume that I remembered. A single line told me she had lost her school and was going away. I comforted myself with the reflection that shame held no pain for one so indolent as she. Nevertheless, I left Wisconsin that year for good. Washington had seemingly forgotten her. I hunted Ned. Between curses, I caught his opinion of her. She was no better than a whore. I saw her mother on the street. The same old pinch-beck, jerky-gaited creature that I’d always known.
+
+• • • • •
+
+Perhaps five years passed. The business of hunting a job or something or other had bruised my vanity so that I could recognize it. I felt old. Avey and my real relation to her, I thought I came to know. I wanted to see her. I had been told that she was in New York. As I had no money, I hiked and bummed my way there.I got work in a ship-yard and walked the streets at night, hoping to meet her. Failing in this, I saved enough to pay my fare back home. One evening in early June, just at the time when dusk is most lovely on the eastern horizon, I saw Avey, indolent as ever, leaning on the arm of a man, strolling under the recently lit arc-lights of U Street. She had almost passed before she recognized me. She showed no surprise. The puff over her eyes had grown heavier. The eyes themselves were still sleepy-large, and beautiful. I had almost concluded—indifferent. “You look older,” was what she said. I wanted to convince her that I was, so I asked her to walk with me. The man whom she was with, and whom she never took the trouble to introduce, at a nod from her, hailed a taxi, and drove away. That gave me a notion of what she had been used to. Her dress was of some fine, costly stuff. I suggested the park, and then added that the grass might stain her skirt. Let it get stained, she said, for where it came from there are others.
+
+• • • • •
+
+I have a spot in Soldier’s Home to which I always go when I want the simple beauty of another’s soul. Robins spring about the lawn all day. They leave their footprints in the grass. I imagine that the grass at night smells sweet and fresh because of them. The ground is high. Washington lies below. Its light spreads like a blush against the darkened sky. Against the soft dusk sky of Washington. And when the wind is from the South, soil of my homeland falls like a fertile shower upon the lean streets of the city. Upon my hill in Soldier’s Home. I know the policeman who watches the place of nights. When I go there alone, I talk to him.I tell him I come there to find the truth that people bury in their hearts. I tell him that I do not come there with a girl to do the thing he’s paid to watch out for. I look deep in his eyes when I say these things, and he believes me. He comes over to see who it is on the grass. I say hello to him. He greets me in the same way and goes off searching for other black splotches upon the lawn. Avey and I went there. A band in one of the buildings a fair distance off was playing a march. I wished they would stop. Their playing was like a tin spoon in one’s mouth. I wanted the Howard Glee Club to sing “Deep River,” from the road. To sing “Deep River, Deep River,” from the road... Other than the first comments, Avey had been silent. I started to hum a folk-tune. She slipped her hand in mine. Pillowed her head as best she could upon my arm. Kissed the hand that she was holding and listened, or so I thought, to what I had to say. I traced my development from the early days up to the present time, the phase in which I could understand her. I described her own nature and temperament. Told how they needed a larger life for their expression. How incapable Washington was of understanding that need. How it could not meet it. I pointed out that in lieu of proper channels, her emotions had overflowed into paths that dissipated them. I talked, beautifully I thought, about an art that would be born, an art that would open the way for women the likes of her. I asked her to hope, and build up an inner life against the coming of that day. I recited some of my own things to her. I sang, with a strange quiver in my voice, a promise-song. And then I began to wonder why her hand had not once returned a single pressure. My old-time feeling about her laziness came back. I spoke sharply. My policeman friend passed by. I said hello to him.As he went away, I began to visualize certain possibilities. An immediate and urgent passion swept over me. Then I looked at Avey. Her heavy eyes were closed. Her breathing was as faint and regular as a child’s in slumber. My passion died. I was afraid to move lest I disturb her. Hours and hours, I guess it was, she lay there. My body grew numb. I shivered. I coughed. I wanted to get up and whittle at the boxes of young trees. I withdrew my hand. I raised her head to waken her. She did not stir. I got up and walked around. I found my policeman friend and talked to him. We both came up, and bent over her. He said it would be all right for her to stay there just so long as she got away before the workmen came at dawn. A blanket was borrowed from a neighbor house. I sat beside her through the night. I saw the dawn steal over Washington. The Capitol dome looked like a gray ghost ship drifting in from sea. Avey’s face was pale, and her eyes were heavy. She did not have the gray crimson-splashed beauty of the dawn. I hated to wake her. Orphan-woman...
+
+BEEHIVE
+
+Within this black hive to-night
+There swarm a million bees;
+Bees passing in and out the moon,
+Bees escaping out the moon,
+Bees returning through the moon,
+Silver bees intently buzzing,
+Silver honey dripping from the swarm of bees
+Earth is a waxen cell of the world comb,
+And I, a drone,Lying on my back,
+Lipping honey,
+Getting drunk with silver honey,
+Wish that I might fly out past the moon
+And curl forever in some far-off farmyard flower.
+
+STORM ENDING
+
+Thunder blossoms gorgeously above our heads,
+Great, hollow, bell-like flowers,
+Rumbling in the wind,
+Stretching clappers to strike our ears ..
+Full-lipped flowers
+Bitten by the sun
+Bleeding rain
+Dripping rain like golden honey—
+And the sweet earth flying from the thunder.
+
+THEATER
+
+Life of nigger alleys, of pool rooms and restaurants and near-beer saloons soaks into the walls of Howard Theater and sets them throbbing jazz songs. Black-skinned, they dance and shout above the tick and trill of white-walled buildings. At night, they open doors to people who come in to stamp their feet and shout. At night, road-shows volley songs into the mass-heart of black people.Songs soak the walls and seep out to the nigger life of alleys and near-beer saloons, of the Poodle Dog and Black Bear cabarets. Afternoons, the house is dark, and the walls are sleeping singers until rehearsal begins. Or until John comes within them. Then they start throbbing to a subtle syncopation. And the space-dark air grows softly luminous.
+
+John is the manager’s brother. He is seated at the center of the theater, just before rehearsal. Light streaks down upon him from a window high above. One half his face is orange in it. One half his face is in shadow. The soft glow of the house rushes to, and compacts about, the shaft of light. John’s mind coincides with the shaft of light. Thoughts rush to, and compact about it. Life of the house and of the slowly awakening stage swirls to the body of John, and thrills it. John’s body is separate from the thoughts that pack his mind.
+
+Stage-lights, soft, as if they shine through clear pink fingers. Beneath them, hid by the shadow of a set, Dorris. Other chorus girls drift in. John feels them in the mass. And as if his own body were the mass-heart of a black audience listening to them singing, he wants to stamp his feet and shout. His mind, contained above desires of his body, singles the girls out, and tries to trace origins and plot destinies.
+
+A pianist slips into the pit and improvises jazz. The walls awake. Arms of the girls, and their limbs, which .. jazz, jazz .. by lifting up their tight street skirts they set free, jab the air and clog the floor in rhythm to the music. (Lift your skirts, Baby, and talk t papa!) Crude, individualized, and yet .. monotonous...John: Soon the director will herd you, my full-lipped, distant beauties, and tame you, and blunt your sharp thrusts in loosely suggestive movements, appropriate to Broadway. (O dance!) Soon the audience will paint your dusk faces white, and call you beautiful. (O dance!) Soon I... (O dance!) I’d like...
+
+Girls laugh and shout. Sing discordant snatches of other jazz songs. Whirl with loose passion into the arms of passing show-men.
+
+John: Too thick. Too easy. Too monotonous. Her whom I’d love I’d leave before she knew that I was with her. Her? Which? (O dance!) I’d like to...
+
+Girls dance and sing. Men clap. The walls sing and press inward. They press the men and girls, they press John towards a center of physical ecstasy. Go to it, Baby! Fan yourself, and feed your papa! Put .. nobody lied .. and take .. when they said I cried over you. No lie! The glitter and color of stacked scenes, the gilt and brass and crimson of the house, converge towards a center of physical ecstasy. John’s feet and torso and his blood press in. He wills thought to rid his mind of passion.
+
+“All right, girls. Alaska. Miss Reynolds, please.”
+
+The director wants to get the rehearsal through with.
+
+The girls line up. John sees the front row: dancing ponies. The rest are in shadow. The leading lady fits loosely in the front. Lack-life, monotonous. “One, two, three—” Music starts.The song is somewhere where it will not strain the leading lady’s throat. The dance is somewhere where it will not strain the girls. Above the staleness, one dancer throws herself into it. Dorris. John sees her. Her hair, crisp-curled, is bobbed. Bushy, black hair bobbing about her lemon-colored face. Her lips are curiously full, and very red. Her limbs in silk purple stockings are lovely. John feels them. Desires her. Holds off.
+
+John: Stage-door johnny; chorus-girl. No, that would be all right. Dictie, educated, stuck-up; show-girl. Yep. Her suspicion would be stronger than her passion. It wouldnt work. Keep her loveliness. Let her go.
+
+Dorris sees John and knows that he is looking at her. Her own glowing is too rich a thing to let her feel the slimness of his diluted passion.
+
+“Who’s that?” she asks her dancing partner.
+
+“Th manager’s brother. Dictie. Nothin doin, hon.”
+
+Dorris tosses her head and dances for him until she feels she has him. Then, withdrawing disdainfully, she flirts with the director.
+
+Dorris: Nothin doin? How come? Aint I as good as him? Couldnt I have got an education if I’d wanted one? Dont I know respectable folks, lots of em, in Philadelphia and New York and Chicago? Aint I had men as good as him? Better. Doctors an lawyers. Whats a manager’s brother, anyhow?Two steps back, and two steps front.
+
+“Say, Mame, where do you get that stuff?”
+
+“Whatshmean, Dorris?”
+
+“If you two girls cant listen to what I’m telling you, I know where I can get some who can. Now listen.”
+
+Mame: Go to hell, you black bastard.
+
+Dorris: Whats eatin at him, anyway?
+
+“Now follow me in this, you girls. Its three counts to the right, three counts to the left, and then you shimmy—”
+
+John: —and then you shimmy. I’ll bet she can. Some good cabaret, with rooms upstairs. And what in hell do you think you’d get from it? Youre going wrong. Here’s right: get her to herself—(Christ, but how she’d bore you after the first five minutes)—not if you get her right she wouldnt. Touch her, I mean. To herself—in some room perhaps. Some cheap, dingy bedroom. Hell no. Cant be done. But the point is, brother John, it can be done. Get her to herself somewhere, anywhere. Go down in yourself—and she’d be calling you all sorts of asses while you were in the process of going down. Hold em, bud. Cant be done. Let her go. (Dance and I’ll love you!) And keep her loveliness.“All right now, Chicken Chaser. Dorris and girls. Where’s Dorris? I told you to stay on the stage, didnt I? Well? Now thats enough. All right. All right there, Professor? All right. One, two, three—”
+
+Dorris swings to the front. The line of girls, four deep, blurs within the shadow of suspended scenes. Dorris wants to dance. The director feels that and steps to one side. He smiles, and picks her for a leading lady, one of these days. Odd ends of stage-men emerge from the wings, and stare and clap. A crap game in the alley suddenly ends. Black faces crowd the rear stage doors. The girls, catching joy from Dorris, whip up within the footlights’ glow. They forget set steps; they find their own. The director forgets to bawl them out. Dorris dances.
+
+John: Her head bobs to Broadway. Dance from yourself. Dance! O just a little more.
+
+Dorris’ eyes burn across the space of seats to him.
+
+Dorris: I bet he can love. Hell, he cant love. He’s too skinny. His lips are too skinny. He wouldnt love me anyway, only for that. But I’d get a pair of silk stockings out of it. Red silk. I got purple. Cut it, kid. You cant win him to respect you that away. He wouldnt anyway. Maybe he would. Maybe he’d love. I’ve heard em say that men who look like him (what does he look like?) will marry if they love. O will you love me? And give me kids, and a home, and everything? (I’d like to make your nest, and honest, hon, I wouldnt run out on you.) You will if I make you. Just watch me.Dorris dances. She forgets her tricks. She dances.
+
+Glorious songs are the muscles of her limbs.
+
+And her singing is of canebrake loves and mangrove feastings.
+
+The walls press in, singing. Flesh of a throbbing body, they press close to John and Dorris. They close them in. John’s heart beats tensely against her dancing body. Walls press his mind within his heart. And then, the shaft of light goes out the window high above him. John’s mind sweeps up to follow it. Mind pulls him upward into dream. Dorris dances... John dreams:
+
+Dorris is dressed in a loose black gown splashed with lemon ribbons. Her feet taper long and slim from trim ankles. She waits for him just inside the stage door. John, collar and tie colorful and flaring, walks towards the stage door. There are no trees in the alley. But his feet feel as though they step on autumn leaves whose rustle has been pressed out of them by the passing of a million satin slippers. The air is sweet with roasting chestnuts, sweet with bonfires of old leaves. John’s melancholy is a deep thing that seals all senses but his eyes, and makes him whole.
+
+Dorris knows that he is coming. Just at the right moment she steps from the door, as if there were no door. Her face is tinted like the autumn alley. Of old flowers, or of a southern canefield, her perfume. “Glorious Dorris.” So his eyes speak. And their sadness is too deep for sweet untruth. She barely touches his arm.They glide off with footfalls softened on the leaves, the old leaves powdered by a million satin slippers.
+
+They are in a room. John knows nothing of it. Only, that the flesh and blood of Dorris are its walls. Singing walls. Lights, soft, as if they shine through clear pink fingers. Soft lights, and warm.
+
+John reaches for a manuscript of his, and reads. Dorris, who has no eyes, has eyes to understand him. He comes to a dancing scene. The scene is Dorris. She dances. Dorris dances. Glorious Dorris. Dorris whirls, whirls, dances...
+
+Dorris dances.
+
+The pianist crashes a bumper chord. The whole stage claps. Dorris, flushed, looks quick at John. His whole face is in shadow. She seeks for her dance in it. She finds it a dead thing in the shadow which is his dream. She rushes from the stage. Falls down the steps into her dressing-room. Pulls her hair. Her eyes, over a floor of tears, stare at the whitewashed ceiling. (Smell of dry paste, and paint, and soiled clothing.) Her pal comes in. Dorris flings herself into the old safe arms, and cries bitterly.
+
+“I told you nothin doin,” is what Mame says to comfort her.
+
+HER LIPS ARE COPPER WIREwhisper of yellow globes
+gleaming on lamp-posts that sway
+like bootleg licker drinkers in the fog
+
+and let your breath be moist against me
+like bright beads on yellow globes
+
+telephone the power-house
+that the main wires are insulate
+
+(her words play softly up and down
+dewy corridors of billboards)
+
+then with your tongue remove the tape
+and press your lips to mine
+till they are incandescent
+
+CALLING JESUS
+
+Her soul is like a little thrust-tailed dog that follows her, whimpering. She is large enough, I know, to find a warm spot for it. But each night when she comes home and closes the big outside storm door, the little dog is left in the vestibule, filled with chills till morning. Some one ... eoho Jesus ... soft as a cotton boll brushed against the milk-pod cheek of Christ, will steal in and cover it that it need not shiver, and carry it to her where she sleeps upon clean hay cut in her dreams.• • • • •
+
+When you meet her in the daytime on the streets, the little dog keeps coming. Nothing happens at first, and then, when she has forgotten the streets and alleys, and the large house where she goes to bed of nights, a soft thing like fur begins to rub your limbs, and you hear a low, scared voice, lonely, calling, and you know that a cool something nozzles moisture in your palms. Sensitive things like nostrils, quiver. Her breath comes sweet as honeysuckle whose pistils bear the life of coming song. And her eyes carry to where builders find no need for vestibules, for swinging on iron hinges, storm doors.
+
+• • • • •
+
+Her soul is like a little thrust-tailed dog, that follows her, whimpering. I’ve seen it tagging on behind her, up streets where chestnut trees flowered, where dusty asphalt had been freshly sprinkled with clean water. Up alleys where niggers sat on low door-steps before tumbled shanties and sang and loved. At night, when she comes home, the little dog is left in the vestibule, nosing the crack beneath the big storm door, filled with chills till morning. Some one ... eoho Jesus ... soft as the bare feet of Christ moving across bales of southern cotton, will steal in and cover it that it need not shiver, and carry it to her where she sleeps: cradled in dream-fluted cane.
+
+BOX SEAT<b>1</b>
+
+Houses are shy girls whose eyes shine reticently upon the dusk body of the street. Upon the gleaming limbs and asphalt torso of a dreaming nigger. Shake your curled wool-blossoms, nigger. Open your liver lips to the lean, white spring. Stir the root-life of a withered people. Call them from their houses, and teach them to dream.
+
+Dark swaying forms of Negroes are street songs that woo virginal houses.
+
+Dan Moore walks southward on Thirteenth Street. The low limbs of budding chestnut trees recede above his head. Chestnut buds and blossoms are wool he walks upon. The eyes of houses faintly touch him as he passes them. Soft girl-eyes, they set him singing. Girl-eyes within him widen upward to promised faces. Floating away, they dally wistfully over the dusk body of the street. Come on, Dan Moore, come on. Dan sings. His voice is a little hoarse. It cracks. He strains to produce tones in keeping with the houses’ loveliness. Cant be done. He whistles. His notes are shrill. They hurt him. Negroes open gates, and go indoors, perfectly. Dan thinks of the house he’s going to. Of the girl. Lips, flesh-notes of a forgotten song, plead with him...
+
+Dan turns into a side-street, opens an iron gate, bangs it to. Mounts the steps, and searches for the bell. Funny, he cant find it. He fumbles around. The thought comes to him that some one passing by might see him, and not understand. Might think that he is trying to sneak, to break in.Dan: Break in. Get an ax and smash in. Smash in their faces. I’ll show em. Break into an engine-house, steal a thousand horse-power fire truck. Smash in with the truck. I’ll show em. Grab an ax and brain em. Cut em up. Jack the Ripper. Baboon from the zoo. And then the cops come. “No, I aint a baboon. I aint Jack the Ripper. I’m a poor man out of work. Take your hands off me, you bull-necked bears. Look into my eyes. I am Dan Moore. I was born in a canefield. The hands of Jesus touched me. I am come to a sick world to heal it. Only the other day, a dope fiend brushed against me— Dont laugh, you mighty, juicy, meat-hook men. Give me your fingers and I will peel them as if they were ripe bananas.”
+
+Some one might think he is trying to break in. He’d better knock. His knuckles are raw bone against the thick glass door. He waits. No one comes. Perhaps they havent heard him. He raps again. This time, harder. He waits. No one comes. Some one is surely in. He fancies that he sees their shadows on the glass. Shadows of gorillas. Perhaps they saw him coming and dont want to let him in. He knocks. The tension of his arms makes the glass rattle. Hurried steps come towards him. The door opens.
+
+“Please, you might break the glass—the bell—oh, Mr. Moore! I thought it must be some stranger. How do you do? Come in, wont you? Muriel? Yes. I’ll call her. Take your things off, wont you? And have a seat in the parlor. Muriel will be right down. Muriel! Oh Muriel! Mr. Moore to see you. She’ll be right down. You’ll pardon me, wont you? So glad to see you.”Her eyes are weak. They are bluish and watery from reading newspapers. The blue is steel. It gimlets Dan while her mouth flaps amiably to him.
+
+Dan: Nothing for you to see, old mussel-head. Dare I show you? If I did, delirium would furnish you headlines for a month. Now look here. Thats enough. Go long, woman. Say some nasty thing and I’ll kill you. Huh. Better damned sight not. Ta-ta, Mrs. Pribby.
+
+Mrs. Pribby retreats to the rear of the house. She takes up a newspaper. There is a sharp click as she fits into her chair and draws it to the table. The click is metallic like the sound of a bolt being shot into place. Dan’s eyes sting. Sinking into a soft couch, he closes them. The house contracts about him. It is a sharp-edged, massed, metallic house. Bolted. About Mrs. Pribby. Bolted to the endless rows of metal houses. Mrs. Pribby’s house. The rows of houses belong to other Mrs. Pribbys. No wonder he couldn’t sing to them.
+
+Dan: What’s Muriel doing here? God, what a place for her. Whats she doing? Putting her stockings on? In the bathroom. Come out of there, Dan Moore. People must have their privacy. Peeping-toms. I’ll never peep. I’ll listen. I like to listen.
+
+Dan goes to the wall and places his ear against it. A passing street car and something vibrant from the earth sends a rumble to him. That rumble comes from the earth’s deep core. It is the mutter of powerful underground races. Dan has a picture of all the people rushing to put their ears against walls, to listen to it. The next world-savior is coming up that way. Coming up.A continent sinks down. The new-world Christ will need consummate skill to walk upon the waters where huge bubbles burst... Thuds of Muriel coming down. Dan turns to the piano and glances through a stack of jazz music sheets. “Ji-ji-bo, JI-JI-BO!”..
+
+“Hello, Dan, stranger, what brought you here?”
+
+Muriel comes in, shakes hands, and then clicks into a high-armed seat under the orange glow of a floor-lamp. Her face is fleshy. It would tend to coarseness but for the fresh fragrant something which is the life of it. Her hair like an Indian’s. But more curly and bushed and vagrant. Her nostrils flare. The flushed ginger of her cheeks is touched orange by the shower of color from the lamp.
+
+“Well, you havent told me, you havent answered my question, stranger. What brought you here?”
+
+Dan feels the pressure of the house, of the rear room, of the rows of houses, shift to Muriel. He is light. He loves her. He is doubly heavy.
+
+“Dont know, Muriel—wanted to see you—wanted to talk to you—to see you and tell you that I know what you’ve been through—what pain the last few months must have been—”
+
+“Lets dont mention that.”“But why not, Muriel? I—”
+
+“Please.”
+
+“But Muriel, life is full of things like that. One grows strong and beautiful in facing them. What else is life?”
+
+“I dont know, Dan. And I dont believe I care. Whats the use? Lets talk about something else. I hear there’s a good show at the Lincoln this week.”
+
+“Yes, so Harry was telling me. Going?”
+
+“To-night.”
+
+Dan starts to rise.
+
+“I didnt know. I dont want to keep you.”
+
+“Its all right. You dont have to go till Bernice comes. And she wont be here till eight. I’m all dressed. I’ll let you know.”
+
+“Thanks.”
+
+Silence. The rustle of a newspaper being turned comes from the rear room.Muriel: Shame about Dan. Something awfully good and fine about him. But he don’t fit in. In where? Me? Dan, I could love you if I tried. I dont have to try. I do. O Dan, dont you know I do? Timid lover, brave talker that you are. Whats the good of all you know if you dont know that? I wont let myself. I? Mrs. Pribby who reads newspapers all night wont. What has she got to do with me? She is me, somehow. No she’s not. Yes she is. She is the town, and the town wont let me love you, Dan. Dont you know? You could make it let me if you would. Why wont you? Youre selfish. I’m not strong enough to buck it. Youre too selfish to buck it, for me. I wish you’d go. You irritate me. Dan, please go.
+
+“What are you doing now, Dan?”
+
+“Same old thing, Muriel. Nothing, as the world would have it. Living, as I look at things. Living as much as I can without—”
+
+“But you cant live without money, Dan. Why dont you get a good job and settle down?”
+
+Dan: Same old line. Shoot it at me, sister. Hell of a note, this loving business. For ten minutes of it youve got to stand the torture of an intolerable heaviness and a hundred platitudes. Well, damit, shoot on.
+
+“To what? my dear. Rustling newspapers?”
+
+“You mustnt say that, Dan. It isnt right. Mrs. Pribby has been awfully good to me.”“Dare say she has. Whats that got to do with it?”
+
+“Oh, Dan, youre so unconsiderate and selfish. All you think of is yourself.”
+
+“I think of you.”
+
+“Too much—I mean, you ought to work more and think less. Thats the best way to get along.”
+
+“Mussel-heads get along, Muriel. There is more to you than that—”
+
+“Sometimes I think there is, Dan. But I dont know. I’ve tried. I’ve tried to do something with myself. Something real and beautiful, I mean. But whats the good of trying? I’ve tried to make people, every one I come in contact with, happy—”
+
+Dan looks at her, directly. Her animalism, still unconquered by zoo-restrictions and keeper-taboos, stirs him. Passion tilts upward, bringing with it the elements of an old desire. Muriel’s lips become the flesh-notes of a futile, plaintive longing. Dan’s impulse to direct her is its fresh life.
+
+“Happy, Muriel? No, not happy. Your aim is wrong. There is no such thing as happiness. Life bends joy and pain, beauty and ugliness, in such a way that no one may isolate them. No one should want to. Perfect joy, or perfect pain, with no contrasting element to define them, would mean a monotony of consciousness, would mean death. Not happy, Muriel.

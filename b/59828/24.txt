@@ -1,0 +1,861 @@
+HOLB1	59828	24	1920	58	1978	150
+1	Preface.
+3	Chapter I. The Strange Customer At Sweeney Tod…
+18	Chapter II. The Spectacle-maker's Daughter.
+31	Chapter III. A Man Is Lost.
+46	Chapter IV. The Pie-shop, Bell-yard.
+57	Chapter V. The Meeting In The Temple.
+70	Chapter VI.
+86	Chapter VII. The Barber And The Lapidary.
+95	Chapter VIII. The Thieves' Home.
+113	Chapter IX. Johanna At Home, And The Resolutio…
+129	Chapter X. The Colonel And His Friend.
+152	Chapter XI. The Stranger At Lovett's.
+165	Chapter XII.
+185	Chapter XIII.
+199	Chapter XIV. Tobias's Threat, And Its Conseque…
+225	Chapter XIV.
+234	Chapter XV.
+245	Chapter XVI.
+263	Chapter XVIII.
+271	Chapter XIX. The Madhouse Cell.
+280	Chapter XX.
+291	Chapter XXI. The Night At The Madhouse.
+299	Chapter XXII.
+338	Chapter XXV.
+344	Chapter XXVI.
+354	Chapter XXVII.
+363	Chapter XXVIII.
+393	Chapter XXIX. Tobias's Rapid Journey To London…
+398	Chapter XXX.
+411	Chapter XXXI. Shows How Tobias Got To London.
+423	Chapter XXII. Tobias Has A Mind Diseased.
+432	Chapter XXXIII. Johanna Walks Abroad In Disgui…
+447	Chapter XXXIV.
+460	Chapter XXXV. Mrs. Lovett's New Lover.
+472	Chapter XXXVI.
+485	Chapter XXXVII. The Search At Todd's.
+497	Chapter XXXVIII. Sir Richard Pries Into Todd's…
+508	Chapter XXXIX. The Mysterious Cupboard.
+518	Chapter XL. Crotchet Astonishes Mr. Todd.
+530	Chapter XLI. Todd's Vision.
+541	Chapter XLII. The Great Sacrifice.
+553	Chapter XLIII. An Old Acquaintance.
+564	Chapter XLIV. Todd And The Silversmith.
+576	Chapter XLV. Johanna's New Situation.
+588	Chapter XLVI. Tobias's Heart Is Touched.
+601	Chapter XLVII. Tobias Recovers His Intellect.
+612	Chapter XLVIII. Johanna Makes A New Confidant.
+627	Chapter XLIX. The Vaults Of St. Dunstan's.
+635	Chapter L. The Descent To The Vaults.
+647	Chapter LI. Johanna Rushes To Her Destiny.
+657	Chapter LII. Todd's Announcement.
+668	Chapter LIII. The Murder Of The Usurer.
+678	Chapter LIV. Sir Richard Blunt's Progress.
+685	Chapter LV. Mrs. Lovett's Walk.
+694	Chapter LVI. Tobias Unbosoms Himself.
+705	Chapter LVII.
+715	Chapter LVII. Big Ben Makes A Discovery.
+726	Chapter LVIII. The Grand Consultation In The T…
+740	Chapter LIX. The Proposal Of Arabella.
+748	Chapter LX. Todd Finds A Boy.
+756	Chapter LXI.
+765	Chapter LXII. Todd Clears Off Circumstances.
+781	Chapter LXIII. Johanna Starts For Todd's.
+790	Chapter LXIV. Todd Commences Packing Up.
+798	Chapter LXV.
+809	Chapter LXVI. The Cook's Visitors.
+819	Chapter LXVII. The Revelations In The Vaults.
+829	Chapter LXVIII. Returns To Johanna.
+842	Chapter LXIX. Takes A Peep At Arabella.
+852	Chapter LXX. Returns To Johanna.
+865	Chapter LXXI. The Mysterious Letter.
+875	Chapter LXXII. Another Victim.
+888	Chapter LXXIII. Startling Events.
+898	Chapter LXXIV. Big Ben Creates A Sensation.
+910	Chapter LXXV. Colonel Jeffery Opens His Eyes.
+923	Chapter LXXVI. Arabella And The Colonel.
+935	Chapter LXXVII. Mrs. Lovett Visits The Bank.
+945	Chapter LXXVIII. Mutual Defiance.
+957	Chapter LXXIX.
+969	Chapter LXXX. Todd Takes A Journey To The Temp…
+980	Chapter LXXXI. Johanna Is Encouraged.
+992	Chapter LXXXII. Todd Plans.
+1001	Chapter LXXXII. Todd Visits The Colonel
+1013	Chapter LXXXIII. Tobias In Jeopardy.
+1025	Chapter LXXXIV. Todd's Wonderful Escape.
+1037	Chapter LXXXV. Sir Richard Makes Plans.
+1050	Chapter LXXXVI.
+1063	Chapter LXXXVII.
+1074	Chapter LXXXVIII. Todd Astonishes Mrs. Lovett'…
+1082	Chapter LXXXIX.
+1093	Chapter XC. Morning In Fleet Street Again.
+1102	Chapter XCI. Mr. Todd's First Customers.
+1112	Chapter XCII. Mr. Oakley's Anxieties Much Dimi…
+1122	Chapter XCIII.
+1132	Chapter XCIV. In The Vaults.
+1142	Chapter XCV. Mrs. Lovett Is Very Intractable I…
+1151	Chapter XCVI. The Boat On The River.
+1161	Chapter XCVII. The Attempted Murder On The Tha…
+1172	Chapter XCVIII.
+1194	Chapter C.
+1205	Chapter CI.
+1215	Chapter CII.
+1225	Chapter CIII.
+1255	Chapter CVI.
+1265	Chapter CVII. Mrs. Oakley Dissembles.
+1287	Chapter CIX. Johanna Has Plenty Of Company At…
+1303	Chapter CX. Todd's Hour Has Come.
+1316	Chapter CXI. Mrs. Lovett Plans.
+1325	Chapter CXII.
+1337	Chapter CXIII.
+1343	Chapter CXIV.
+1356	Chapter CXV.
+1367	Chapter CXVI.
+1387	Chapter CXVIII.
+1396	Chapter CXIX.
+1416	Chapter CXXI.
+1427	Chapter CXXII.
+1438	Chapter CXXIII. The Beasts At The Tower.
+1448	Chapter CXXIV.
+1459	Chapter CXXV.
+1469	Chapter CXXVI. Sweeney Todd Is Placed Upon His…
+1479	Chapter CXXVII. The Trial Of Sweeney Todd Cont…
+1489	Chapter CXXVIII.
+1499	Chapter CXXIX. The Trial Of Sweeney Todd Conti…
+1509	Chapter CXXX.
+1518	Chapter CXXXI. Todd Makes An Attempt Upon His…
+1530	Chapter CXXXII.
+1540	Chapter CXXXIII.
+1551	Chapter CXXXIV.
+1562	Chapter CXXXV.
+1572	Chapter CXXXVI. Todd And Lupin Escape To Caen…
+1583	Chapter CXXXVII. The Murder At Caen Wood, Hamp…
+1594	Chapter CXXXVIII.
+1606	Chapter CXXXIX.
+1629	Chapter CXLI.
+1640	Chapter CXLII.
+1649	Chapter CXLIII.
+1661	Chapter CXLIV. Todd Makes His Way Into His Own…
+1671	Chapter CXLV.
+1684	Chapter CXLVI.
+1705	Chapter CXLVIII.
+1715	Chapter CXLIX.
+1727	Chapter CL.
+1738	Chapter CLI.
+1748	Chapter CLII.
+1759	Chapter CLIII.
+1770	Chapter CLIV.
+1781	Chapter CLV.
+1792	Chapter CLVI.
+1815	Chapter CLVIII. Todd's Fearful Adventures On T…
+The captain now left Todd to himself and to his own thoughts, and as he really felt fatigued, he got into the state berth of the Lively William, which, to tell the truth, would have been very comfortable if it had only been a little wider and a little longer, and the roof higher, and not quite so damp and hard as it was.
+
+But, after all, what where all these little disagreeables, provided he, Todd, fairly escaped? If he once set his foot upon the shores of France, he felt that, with the great continent before him, he should be free, and he did not doubt for a moment getting in any capital a ready enough market among the Jews for the watches and jewellery that he had about him.
+
+The ship as the tide washed slowly by it, moved to and fro with a sluggish motion that rocked Todd to sleep, and he dropped off from a perception of the world and all its cares.
+
+How long he slept he knew not, but when he awoke all was darkness around him, and the first attempt he made to move brought his head into violent contact with the partition of his berth.
+
+Then Todd felt that the ship was tossing upon the water, and he could hear the dash and ripple of the sea pass her sides, while every now and then a loud splash against the closed shutter of the cabin-window warned him that that sea was not in one of its quietest moods."We are off!" cried Todd, in the exultation of his spirits at that fact. "We are off, and I am all but free."
+
+He attempted to get out of the berth, and he was materially assisted by a roll of the sea that sent him to the other side of the cabin, accompanied by a couple of stools and several articles that happened to be lying loose upon the floor.
+
+"Murder!" cried Todd.
+
+"Hilloa!" cried a gruff voice from the companion-way. "Hilloa! What now?"
+
+"Oh, nothing," said Todd. "Nothing. Where are we now? Oh, dear, what a thing it is to live in a cupboard that won't stand still."
+
+The gleam of a lantern flashed in Todd's eyes, and the captain came below with it swinging in his hand. He steadied himself against the table, which was firmly screwed to the floor, and hung the lantern to a short chain dependent from the cabin-roof.
+
+"There," said the captain. "The chandelier is alight now, and you will be able to see about you. Hilloa! Where are you now?"
+
+"Why, I rather think I fell off the shelf," said Todd. "I beg your pardon, the state berth, I mean.""Then you had better turn in again, for we shall have, I think, a squally sort of night rather. There are symptoms of a sou wester, and if so, you will know a little of what weather is in the Channel."
+
+"Where are we now?" said Todd, mournfully.
+
+"About fifteen miles off the North Foreland, so we are tolerably quiet just yet; but when we turn the head of the land, it's likely enough we may find out what the wind means to say to us."
+
+While the captain spoke, he tugged on a complete suit of waterproof apparel, that seemed as thick and inflexible as so much armour covered with tar, and then up he went upon deck again, leaving Todd to the society of his own reflections and the chandelier.
+
+The Lively William was going on just then with a flowing sheet, so that she was carrying a tolerably even keel, and Todd was able to get up and reach his berth; but at the moment that he laid hold of the side of it to clamber in, the ship was tacked, and away went Todd to the opposite side of the state-cabin with the rug in his grasp that did duty as a counterpane in the berth.
+
+"This will kill me," he groaned. "Oh, this will kill me. But yet--yet I am escaping, and that is something. There will be a storm, but all ships are not lost that encounter storms."Todd made up his mind to remain where he was, jammed up against the cabin partition, until the ship should right itself sufficiently for him to make another effort to reach his berth.
+
+After a few minutes he thought he would make the attempt.
+
+"Now," he said. "Now, surely, I can do it. I will try. How the wind howls, to be sure, and how the waves dash against the ship's sides, as though they would stave in her timbers; but all is well, no doubt. I will try again."
+
+Very cautiously now Todd crept to his berth, and this time the winds and the waves were kind enough only to move the ship so that he knocked his head right and left a little, and managed then to scramble on to the little inconvenient shelf, with its damp mattress that served for a bed.
+
+"Ah," said Todd, "and there are people who might, if they liked, stay on land all their lives, and yet they pretend to prefer the sea. There's no accounting for tastes."
+
+By dint of jerking it a little from under him, Todd propped the mattress against the outer edge of the berth; so that provided the vessel did lurch in that direction, it was not so likely to tumble him out, and there he lay listening to the winds and the waves.
+
+"A storm in the Channel!" he muttered. "From what that beast of a captain said, it appears we are to have one.Well, well, I have weathered many a storm on land, and now I must put up with one at sea."
+
+At this moment, there was a tremendous bustle upon deck, and some orders were issued that were quite unintelligible to Todd. There was, however, a great flapping of canvas, and a rattling of chains.
+
+The Lively William was weathering the South Foreland, and just going to do battle with half a gale of wind in the Channel.
+
+Up to this point, Todd had, with something approaching to resignation, put up with the disagreeables about him; and upon the principle of the song which states that--
+
+"When a man travels, he mustn't look queer,
+If he meets a few rubs that he does not meet here,"
+
+he regarded his position with philosophy; but now there came over him a dreadful sensation. A cold clammy dew burst out upon his face--all strength fled from his limbs, and with a deep groan, Todd began to feel the real horror of sea sickness.
+
+Nothing can be like sea sickness but death, and nothing can be like death but sea sickness. Todd had never suffered from that calamity before;and now that it came upon him, in all its aggravated horrors, he could not believe that it was a mere passing indisposition, but concluded that he must have been poisoned by the captain of the ship, and that his last hour was come.
+
+And now Todd would fain have made a noise, and called for help. He would have liked to fire one of his pistols in the face of that captain, provided he could but have got him to the side of his berth; but he had not strength left to utter a word above a whisper; and as for moving his hand to his pockets to get out his fire-arms, he could not so much as lift a finger.
+
+All Todd could do was to go on, and to get each moment worse and worse with that awful sensation of sickness, which resembles the sickness of the soul at parting from its mortal house, to which it had clung so long.
+
+The wind howled upon the deck and through the cordage of the vessel--the spray dashed over her bulwarks, and each moment the storm increased in fury.<b>CHAPTER CLXVIII.</b>
+<b>TODD GETS A WORLD OF MARITIME EXPERIENCE.</b>
+
+The idea that he was poisoned grew upon Todd each moment, and to such a man, it was truly terrific to think that he should come to so fearful an end.
+
+"Help! Help!" he groaned; but after all, it was only a groan and not a cry--not that that mattered; for if he had had the lungs of ten men all concentrated in his own person, and had so been able to cry out with a superhuman voice, it would have been most completely lost amid the roar of the wind, and the wild dashing of the waves.
+
+The storm was certainly increasing.
+
+"Oh, this sickness!" groaned Todd. "Oh, dear--oh, dear!"
+
+At the moment that he was so bad that, in his want of experience of what sea sickness really was, he thought every moment would be his last, he heard some one coming down into the cabin, and one of the crew rolled rather than walked into it.
+
+"Help!" said Todd; "oh, help!"
+
+"You go to the d--l!" said the man. "The captain is washed overboard, and we are all going to the bottom, so I am one who likes to take a little spirits with him to qualify the water that one may be obliged to swallow. That's it.Steady, craft, steady."
+
+Practised as this man no doubt was in the art of keeping his footing upon an undulating surface, the pitching of the ship was so tremendous, that even he was thrown to the cabin floor with considerable violence, and had no easy task to rise again.
+
+"No!" cried Todd, finding that positive fright lent him strength, "you do not mean that?"
+
+"Mean what, you old sinner?"
+
+"That we shall be lost?"
+
+The man nodded, and having opened a little cupboard, he brought out a little bladder of spirits, and placing it to his lips, he drank a large quantity, while he held by the cupboard door to keep himself from falling.
+
+"That will do," he said, as he dropped the bladder to the floor, and then, after several unsuccessful efforts to do so, he scrambled upon deck again.
+
+"I, too, will drink," said Todd; "oh, yes, I will drink. I feel that if anything will give me strength to bear the horrors of the night, it will be my old and well-tried friend, brandy."He cast his eyes upon the bladder of spirits that the sailor had thrown to the floor. The spirit was slowly weltering out of the bladder, and running in a stream across the cabin. As the odour of it saluted the nose of Todd, he exclaimed,--
+
+"It is brandy! I must and will have some!"
+
+It was all very well for Todd to say that he must and would have some of the brandy, but the difficulty of getting at it was one by no means easy to surmount. He recollected what a job he had to get into his berth again upon the occasion that he had got out of it before, and he dreaded to place himself in a similar predicament; yet he found the vessel was more steady, although the wind had not at all abated. Yes, it certainly was more steady.
+
+"I will try," said Todd. "I must have some."
+
+With a determination, then, to get at the choice liquor, which was wasting what Todd considered its sweetness upon the cabin floor, he slid out of his little bed-place, and the ship giving a sudden roll in a trough of the sea, he fell sprawling to the floor.
+
+"Oh, I shall be killed!" he yelled. "This frightful voyage will be the death of me! It is too terrible! Oh, Heaven! It is much too terrible! Help!--mercy!"
+
+Todd lay upon his back on the cabin floor, with his arms and legs stretched out like a gigantic St. Andrew's cross.Something touched his hand; it was the bladder of brandy, that, as the ship rolled, had moved towards him. He clutched it with a feeling of despair, and brought it to his lips.
+
+With the exception of about half a pint, the brandy had made its way on to the cabin floor; but it was strong, pure spirit--such brandy, in fact, as smugglers might well reserve for their own private drinking; so that the half pint was a very tolerable dose to take at once, and Todd drained it to the last drop.
+
+"Better!" he said; "oh, yes, I am better, now."
+
+The fumes of the strong spirit mounted to his brain, and got the better, for the time, of that frightful feeling of sickness which had been so like death, that Todd had mistaken it for the last pangs that he was likely to feel in this world.
+
+"Oh, yes, I am better. How the wind howls now, and how the waves dash the ship hither and thither. The deck, yes, the deck will be the place for me. Oh, gracious! what was that?"
+
+A loud crash, and a scream from some drowning wretches who had gone overboard along with a mast, had broken upon his ears. Terror sat at his very heart, and unable any longer to endure the frightful suspense of being below, he tried, upon his hands and knees, to crawl upon the deck.By no other mode could Todd have had the slightest hope or expectation of reaching the deck of that fated vessel, but as he tried it, he did, after a time, succeed in dragging himself up from the cabin. The sea was washing over the deck, and for a few moments he could see no one. He watched for a lull in the wind, and then he cried--
+
+"Help! help! Oh, help!"
+
+"Who's that?" shouted a voice.
+
+"I!" said Todd.
+
+"Go to blazes, then!"
+
+"Oh, how kind!" groaned Todd. "How very considerate at such a time as this, too."
+
+The wind that had lulled for a few moments, now came with a frightful gush, and Todd was glad to find the fragments of a quantity of cordage, belonging to some of the top parts of the mast that had gone overboard, to cling to till the gust had passed over the ship. Then there came some tons of salt water over him, and he was nearly bereft of the power of breathing.
+
+"Oh, this is dreadful!" he said. "This is truly dreadful!"
+
+"Hands off!" growled a voice. "Everybody for himself here. Hands off, I say.""What do you mean?" said Todd. "Do you speak to me?"
+
+The voice had sounded close to him; and now again, with an angry tone, it cried--
+
+"Some one has got hold of my leg!"
+
+"Oh, I dare say I have," said Todd, "but I didn't know. There, I have left go. Who are you, sir, eh?"
+
+"Oh! don't bother!"
+
+"Well, but is there any danger?"
+
+"Danger! I rather think there is. I suppose you are the love of a passenger that the captain brought on board?"
+
+"Yes, I am the passenger," said Todd. Why he should be called a love of a passenger he did not exactly know; but he repeated his question concerning the condition of the ship; and at the next lull of wind, for it came now very strangely in gusts, he got a not very consolatory reply.
+
+"Why, as to danger," said the man, "that's rather past, I reckon; but, perhaps, you are a landsman, and have not yet thoroughly made up your mind."
+
+"To what?""To be drowned, some day or night, as I have."
+
+"Oh, no--no! Don't say that. Drowning is a very dreadful death, indeed. I am sure it is."
+
+"It may, or it may not be so," said the man, "but whether it is or not, you and I are very likely soon to find out, for the old craft is going at last."
+
+"Going?"
+
+"Yes. It's all up with her, and it will soon be all down with her, likewise."
+
+"But the ship goes easier through the sea."
+
+"Oh, ah, she's filling, you see, and settling lower down in the water, so you can't have quite so much pitching and tossing as you had an hour ago, hardly."
+
+"You can't mean that? You do not mean to tell me that there is no hope? Oh, say not so!"
+
+"Well, you can please yourself. I can tell you that the rudder has gone.--We have not a mast standing. There is already five feet of water in the hold, and we are drifting as hard as we can upon a lee-shore, so if you can make anything satisfactory out of that, I leave you to do it."
+
+"Did you say we were drifting to shore?""A lee-shore."
+
+"Oh, dear. I'm glad to hear it. Any shore will do for me, if I can but get out of this confounded ship. What is that afar off? Is it a light? Oh, yes, it is a light."
+
+"It is. We are on the Sussex coast, somewhere, but I can't take upon myself to say where; but it don't matter a bit, for we shall go to pieces long before we reach the surf, and then in such a sea as this you might as well try to swallow the Channel at a few draughts as to swim."
+
+"But I can't swim at all."
+
+"It don't matter a bit."
+
+"But, my dear friend--"
+
+"Hold your row--I am not your dear friend nor anybody else's, just now. I tell you we shall be all drowned, and the best thing you can do, is to take it as easy as possible. What can be the good of making a fuss about it?"
+
+This information was to Todd of so deplorable a character--for to none is death so terrible as to the guilty--that he wept aloud and screamed with terror as the spray of the sea struck him on the face, and the wind roared and whistled over him."Oh, no--no!" he cried. "I cannot die yet--I must not. Spare me--spare me! I am afraid to die!"
+
+"Oh, you stupid," said the sailors. "That comes now of not having had a proper sort of education. I make no doubt but your howling will pretty soon be put an end to."
+
+The situation of the ship was undoubtedly one of the greatest possible peril. Having by the violence of the tempest lost all her masts, and having had her rudder torn away, she was quite at the mercy of the winds and the waves; and the set of the sea, as well as the direction of the wind, carried her sometimes stern foremost and at other times head foremost, and at times broadside, on to the coast of Sussex, upon which the lights were at intervals dimly visible through the thick haze of the storm.
+
+It was truly a dreadful night, and such as fully merited the worst apprehensions of the sailor, who had spoken so coolly to Todd of his coming fate.
+
+There was but one chance for those on board of the vessel, and that was that the wind might abate sufficiently to enable some boats to put off from the Sussex coast, provided they happened to be off a part of it where such accommodation was to be had, and rescue those upon the wreck. The lights that at intervals were visible, rather favoured the supposition that it was a populous part of the coast that the ill-starred struggling ship was driving fast upon.Todd, however, did not know of that slender hope, and he gave himself up to despair.
+
+To a landsman nothing could exceed the real horrors of the scene on board the ship, and, indeed, to one well accustomed to the sea, there was quite enough to produce much terror. All but three persons connected with the working of the ship had been washed overboard during the gale. Both of the men with whom Todd had had the meeting in the cart were at the bottom of the sea, and all their struggles and smugglings were over. Todd did not know that, though.
+
+It was quite evident to practical observers that the gale was abating, for it no longer was so steady and so continuous a wind that blew with fury over the fated ship; and although the sea still ran high, it did not break over the vessel with such thundering impetuosity.
+
+A very faint glow of daylight, too, began to come over the sea.
+
+If Todd had had mind enough left to look about him now, he would have seen that there was some food for hope, although not much; but the fact was, that he had so thoroughly made up his mind that all was lost, that he did not look for consolation.
+
+How poor and how miserable appeared to him, at this moment, all his struggles for wealth--that wealth, for the attainment of which he had struggled through such gigantic crimes!How much happier, he could not help thinking, it would have been for him to have gone on all his life in plodding industry, than to endeavour as he had done to find a short road to fortune, and only to end in finding a short one to death.
+
+One of the seamen cried out in a loud voice--
+
+"Save themselves who can! We shall be on shore, now, in less than five minutes! We are all going now as safe as nuts!"<b>CHAPTER CLXIX.</b>
+<b>TAKES A PEEP AT SOME FRIENDS OF THE READER.</b>
+
+For a brief space, now, in order to connect more closely the events of this narrative, we will leave Sweeney Todd to the perils and chances of the disabled ship, and the storm in the Channel, while we conduct the reader to the society of other persons, in whom it is to be presumed we are largely interested.
+
+In the most cheerful room of one of the prettiest houses at Brighton, facing the beach upon the Esplanade, which is unrivalled, was a rather select party.
+
+That party consisted of old and well-tried friends of the reader, and when we announce of whom it was composed, it will be seen that their society is decidedly good.
+
+First of all, there was Ben the beef-eater. Poor Ben had never before been at a sea-coast town, and everything was consequently to him new and strange. Yet he felt amazingly happy, because he was surrounded by those whom he loved with all his heart; and if he had now and then a wandering thought, it was to the animals in the Tower, to whom he was accustomed, and who, no doubt, missed Ben quite as much, if not more, than he missed them.
+
+Then there was Tobias. Yes, Tobias was there, looking so fresh and so well, notwithstanding that he knew Sweeney Todd was at large, that it was quite a congratulation for those who felt that they were his friends to see him. The rest of the party consisted of Mr. and Mrs.Ingestrie, and Colonel Jeffrey and his young bride, and Mr. and Mrs. Oakley, so that there was really quite an assemblage in that room.
+
+The colonel holds a letter in his hands, and is speaking, while all eyes are turned upon him.
+
+"Yes," said the colonel, "this letter is from Sir Richard Blunt, and I will read it to you, if you will be so good as to listen to it."
+
+"Oh, yes--yes," said everybody.
+
+"Very well. Here it is, then."
+
+Upon this, the colonel read as follows:--
+
+"Craven Street, London.
+
+"MY DEAR COLONEL,--No news of Todd. We are sparing neither pains nor expense in tracking him; and it is an absolute impossibility that he should escape us long. Accident, I am convinced, much more than any design or luck upon his part, has had the effect as yet of keeping him out of our hands. But I do not think that it would be very difficult to count the time, in hours, between this and the period when he must be dead or a prisoner.
+
+"I hope that all our dear friends with you are quite well, and that they will banish from their minds all fear of the revenge of Todd.Nothing is more improbable than that he should dream of finding his way to the obscure little village where you are. I hope all of you are benefiting much by the health-giving breezes of the ocean.
+
+"With kind regard to all, I am, my dear colonel,
+
+"Yours very truly,
+
+"RICHARD BLUNT."
+
+"Still at large!" said Mark Ingestrie, upon the conclusion of the letter. "So the rascal is still at large?"
+
+"Yes," said the colonel; "but you hear what the magistrate says, that he will soon have him."
+
+"Yes, but that is rather a hope than a certainty."
+
+Tobias changed colour, and Johanna turned to him, saying, in a kind tone--
+
+"Nay, now, Tobias, you have nothing to fear from Todd. Did you not hear what the letter said upon that point?"
+
+"Yes oh, yes!" replied Tobias. "I will fear nothing while you are all so good to me.""I tell's you what it is," said Ben. "That 'ere fellow is for all the world just like one of the wild beastesses as declines being tamed. We had one once as got away one night, and he swam over the river, you see."
+
+"And did you catch him?" said Tobias.
+
+"After a time, yes. Easy did it."
+
+"Who did it, sir?"
+
+"Easy--It ain't a who. It's a way of doing things. You take it easy, you know."
+
+"Oh, yes, I understand now."
+
+"Well, I went arter the fellow, and traced him up and down the streets on the Surrey side, till I got him into a court where there was no thoroughfare, and then I nabbed him."
+
+"And he did no mischief?"
+
+"None to signify. He settled a couple of old women and five or six children, that was all."
+
+Tobias shuddered, and the colonel said--"I cannot but be surprised that Sir Richard has not yet found out the retreat of Todd, and my own opinion is that he is dead."
+
+"It is more than probable," said Ingestrie; "I have thought so several times. When he found that there was no hope for him, and that he was in a state of destitution, or something near it, which must be the fact, it is likely enough that he has laid violent hands upon himself, and his body may not be found for a long time."
+
+"Well," said the colonel "let us get out for a stroll upon the beach. It will be dark in another half hour, and as there is no moon to-night, we shall not like to remain out."
+
+They all rose upon this suggestion, but the evening dropped so rapidly, and several black clouds piled themselves up in the sky, that Ingestrie, after stepping out upon the balcony and looking at the weather, came back again, and said--
+
+"You had better remain in, all of you. I have seen enough of the sea, and heard enough of the wind, to prophesy that this will be a rough night in the Channel."
+
+"Will there be a storm, Mark?" said Johanna.
+
+"There will be a very good imitation of one, you may depend, if not a real one.""If there should be," said the colonel, "you will be rather surprised, for, I can tell you, that a gale off this coast is no joke. You would be truly amazed at the violence with which a regular south-western sets upon this shore."
+
+"I can easily imagine it," said Mark Ingestrie. "See, it darkens every minute, and what an angry look that small cloud right away in the horizon has."
+
+"It has, indeed," said Johanna, as she clung to the arm of her husband. "Do you think, Mark, that any poor souls will be wrecked to-night?"
+
+"Probably enough; but the coast of Suffolk and the Irish Channel will be the worst. It will be child's play here in comparison."
+
+A strange booming noise came across the sea at this moment, and the colonel cried out--
+
+"Is that a gun, or is it thunder?"
+
+"Thunder!" said Ingestrie; "hark! there it is again! There is a storm some forty or fifty miles off. It's right away in the German Ocean, most likely; but only look now even, dark as it is getting, how the sea is rising, and what an odd seething condition it is getting into."
+
+They all stood on the balcony and looked out towards the sea. The surface of it was to the eye only undulating quite gently, and yet, strange to say, it was rapidly covering with white foam, and that from no perceptible cause,for as yet the wind was a mere trifle.
+
+"How is that?" said Johanna. "The sea is not very rough, and yet it is all white."
+
+"It is the worst sign of bad weather," said Ingestrie. "The commotion has begun below the surface in some mysterious way, and that white foam which you see each moment rapidly increasing is cast up; but soon the whole surface will begin to heave, and then you will find out what a storm is."
+
+"We may hear it," said the colonel; "but if this darkness continues, I doubt very much if we shall be able to bring any other of our senses into requisition upon the occasion."
+
+"Hush!" said Tobias, "what is that?"
+
+He held up his hand as he spoke, and as they were then all profoundly still, a strange, low, wailing sound came over the water.
+
+"What can it be?" said Johanna.
+
+"Only the gale," smiled Ingestrie. "It's coming, now. That's the sigh of the wind over the water. You will soon hear it, I can tell you. Now, only notice how still everything is. There, look how that bird flies in a terrified manner close to the ground. It knows that the gale is coming.The sound you heard with intense listening, you will be able now to hear without listening at all. It will force itself upon your notice. Hilloa! There it comes! Look at the sea!"
+
+A few miles out from the shore the sea seemed to rise like a wall of water, tipped with a ridge of foam, and then down it came with such a splash and a roar, that it was plainly heard on the shore, and then, in a moment or two, the impulse so given communicated itself to the whole of the sea, and it was fearfully agitated. With a roar and a shriek, the gale swept on, and from that moment conversation was almost out of the question.
+
+The ladies of the party were glad to get into the house again, and in a little time the colonel and Ingestrie found it anything but comfortable to remain in the balcony; and as the night had fairly set in, they likewise retreated.
+
+The gale lasted the whole of the evening, and when our friends retired to rest it seemed to be rather increasing than otherwise. It was still dark when Ingestrie was awakened from his sleep by a knocking at the door of his room.
+
+"Hilloa!" he said; "who's there?"
+
+"It is I," said Colonel Jeffrey. "Will you get up, Mr. Ingestrie? It is nearly morning, and they say a ship is going down about a couple of miles off the coast.""I'm coming!" cried Ingestrie, as he sprang out of bed and dressed himself with amazing rapidity. "If it does go down, it will not be the only one that finds the bottom of the Channel to-night."
+
+When he reached the lower part of the house, he found the colonel and Ben waiting for him.
+
+"This has been an awful night," said the colonel.
+
+"Well, I don't know," said Ingestrie; "for I have been fast asleep."
+
+"Asleep!" cried Ben; "I couldn't get a wink of sleep but once, and then I dreamt I was a mermaid. Why, what with the howling of the wind, which is a great deal worse than our lioness when she wants her knuckle of beef, and the washing of the water, I couldn't rest at all."
+
+"The voice of the wind," said Ingestrie, "always has the effect of sending me fast asleep. But you said something of a ship in distress, did you not?"
+
+"Yes. They say that in the offing there is a large ship, and that she is evidently water-logged, and must go down, unless she drives ashore."
+
+"The deuce she must! Let us run down to the beach at once, and see what we can do."With this, they all three left the house, and made the best of their way to the beach along the execrable shingle of the Brighton coast. It was far from being an easy task to proceed, for the wind was terrific, and now and then, when they did reach the beach, there came a sea washing in, that drenched them with spray.
+
+A crowd of people had collected upon the coast; some were holding up lanterns on the end of poles, and many were prepared with ropes to cast to the aid of any of the crew of the vessel that might swim to the shore.
+
+"There she is," said Ingestrie; "I see her! It's a small craft, and she is a wreck already."
+
+"She must go down, then?" said the colonel.
+
+"I don't know. She is drifting in shore, but evidently quite unmanageable. She is a sheer hulk. If they had the least control over her, they could run her in in ten minutes on to the beach; but she is going about like a log."
+
+"Then, she may go down in deep water yet?"
+
+"In truth, she may."
+
+"Here are plenty of boats?""Boats? My dear friend, there never was a boat yet that could live in such a sea as this. It is out of the question. You find no one makes the attempt, and I am quite sure that among the hardy fishermen of this place, there are many would do so if it were at all practicable; but it is most certain that death in the surf would be the result."
+
+"I fear it would, indeed."
+
+"There she goes!" cried a voice.
+
+"Eh?" said Ben, turning round and round, "I don't see anybody in the female line."
+
+"The ship!" cried Ingestrie. "They mean the ship. But she is not gone yet. There she is, still. Do you see her, colonel, like a tub upon the water? There, right away, by yon light-coloured cloud."
+
+"I do--I do!"
+
+The ship had not gone down. She had only settled for a moment or two in the trough of the sea; and it was now quite evident that the wreck was rapidly drifting towards the shore, so that there was an expectation that it might strike in shallow water, and so give the crew a chance of escape from death.<b>CHAPTER CLXX.</b>
+<b>MARK INGESTRIE RESCUES A SHIPWRECKED MAN.</b>
+
+The scene now upon the beach at Brighton was one of the most exciting that can well be imagined. No one who has not stood upon a beach under such circumstances, and seen a brave ship battling with the waters, can have any real idea of it.
+
+Language is too weak to paint the feelings of such a conjunction of circumstances. It is so hopeless a thing to stand upon the shore, and listen to the wind roaring in its fury, and to see the waves dashing in mad gyrations hither and thither, while a few frail and creaking timbers only keep some poor mortals from sinking into the sea, which, like a seething cauldron, seems ready to devour them, that it is enough to unman the stoutest heart.
+
+No wonder that persons with kindly sympathies and gentle feelings towards human nature, such as Colonel Jeffrey and Mark Ingestrie undoubtedly had, should suffer acutely to see others so suffer.
+
+If there had been any likelihood of a boat reaching the ill-fated ship, Ingestrie would have been the first to propose such a measure, and the first, with hand and heart, to carry it out; but there was no such likelihood. Our friend had seen too much of service afloat, and was by far too good a sailor to suppose for an instant that any boat could live for a cable's length from the shore in such a sea as that!"Is it quite impossible to aid them?" said the colonel.
+
+"Quite," said Ingestrie, "unless they strike close in shore. Then, something may, perhaps, be done."
+
+"Ay, sir," said a weather-beaten boatman who stood close to Ingestrie, "you are right there. If they only drift a little further in, and are still afloat, when the keel touches ground they may get ashore some of them."
+
+"No boat," said the colonel, "could reach her?"
+
+"Boat, sir! My little bit of a craft will do now and then things that one ought not to expect, from anything in the shape of a boat; but that surf would toss it up like a piece of cork, and it would only be making bad worse to draw a few brave fellows from land here, because others are going down at sea."
+
+"You are right," said Ingestrie. "Do you happen to know the craft out yonder?"
+
+"No, sir. She is so swept clear, that it would be hard to know her if she were one's own; but I don't think she belongs to this port at all."
+
+"The gale is going down a bit."
+
+"It is, sir. Don't you see it's coming in puffs like--It won't last much longer.""Gone!" cried a hundred voices at once.
+
+"No--no!" cried Ingestrie. "Don't say that."
+
+A wild shriek came across the surface of the water, and the ship that had been doing battle with the winds and the waves, disappeared.
+
+"Oh, this is, indeed, terrible," said Colonel Jeffrey. "It is too horrible!"
+
+"It is, indeed!" cried Ingestrie. "There is but one chance now of doing any good, and that is in case any poor fellow should get washed on shore through the surf with a few sparks of life in him. Hilloa, my men! Get out your tackle, and let us look out for the survivors. Some one may try to fight for it yet."
+
+The sailors and boatmen upon the beach were charmed with the idea that they might be able to do some good in this way; and as they soon found that Ingestrie knew perfectly well what he was about, they listened to his orders, in the course they should take, and obeyed them with alacrity and skill.
+
+He had some of the long line connected with the fishing-nets, and to which corks were attached, cast out into the sea by the aid of little kedge anchors, so that the waves did not bring them back again, and as the other ends of the lines were held firmly on the shore, any one might be struggling for life amid the surf, would have had a good chance of preservation by laying hold of one of those lines."We may do some good," said Ingestrie, as he tied one end of one of the ropes round his waist.
+
+"What are you about?" said the colonel.
+
+"Oh, nothing. Do not fancy I am going to throw myself into the waves. But if I should chance to see any poor soul struggling for life, it would take something to prevent me from going after him."
+
+"But think of yourself."
+
+"Oh, I cannot come to any sort of harm, you know. They will easily be able to haul me on shore, you perceive, by the other end of the rope, and I have been rather used to fighting my way through the waves."
+
+"Heaven speed you, if the occasion for your doing so again should arise, my gallant friend. Far be it from me to dissuade you against such an attempt; and I am sure that even she who loves you best of all, would be the first to encourage you."
+
+"Of course she would."
+
+"All lost, sir," said a sailor.
+
+"No, don't say that!" cried Ingestrie. "Where is that night glass that some one had here a little while ago?""Here, sir."
+
+Ingestrie placed the telescope to his eye, and looked fixedly in the direction of the wreck. He then handed it to the sailor, and said--
+
+"Who has a good hold of the end of this rope that is about me?"
+
+"All's right, sir. There will be no lack of hands with that. But you don't mean to go through the surf, sir?"
+
+"I see a human being struggling with the foam, and from his actions he is no swimmer. I cannot stand here and see him die, while there is a chance of saving him. Hark you! Don't wait for me to sing out, but use your own eyes, and begin to pull in the moment you see me close with him. The dawn is coming rapidly, and you will see better each moment. Now, I'm off."
+
+"For the love of Heaven be careful!" cried the colonel.
+
+Ingestrie smiled, and then dashed into the roaring, bubbling surf of the sea, with the rope round his waist.
+
+A loud cheer burst from the throats of all present, as the heroic action was witnessed. If anything had been wanting, which it was not, to urge the gallant Mark Ingestrie on his brave and noble adventure, that cheer would have done it; but amid the roar and din of the water about his ears, it is doubtful if he could have heard it at all, or any noise of ten times the intensity.The figure in the sea, that had attracted the attention of Ingestrie, was now plainly perceived by the colonel, and by all who were upon the beach. To the practised eyes of the sailors then present, it was evident that the body must be lashed to some very buoyant substance, which enabled it to keep afloat, not-withstanding the roll of the sea, and the breaking of the waves over it. The person was evidently not swimming, although, by the wash of the tide, and the set of the wind, he was being driven into shore.
+
+Mark Ingestrie felt that his only chance of getting through the surf was to dive under it, and that manoeuvre he executed with a skill that few could have commanded and to the admiration and delight of all the spectators of his heroic conduct, he appeared outside the roaring edge of the sea, quite able to swim gallantly towards the shipwrecked man.
+
+As he had said, the dawn was coming fast now, so that there was no great difficulty in seeing him, and in watching, with some degree of accuracy, his movements.
+
+"He will do it!" said the colonel.
+
+"Do it?" said the sailor who had the first hold of the rope that was round the body of Mark Ingestrie. "Do it? Of course he will. The man who has the heart and hand to try these sort of things, always does them."
+
+"I believe you are right, my friend," said the colonel."I know I am, sir. I have seen too much of this sort of thing, and if I had not been a little out of sorts in my larboard leg, I should have gone; but I'm not all right, you see, sir, so it won't do. Ah, there he has him! It's all right enough--I told you so."
+
+The progress of Ingestrie was watched by many eyes with the most intense interest. Under no circumstances was distance so deceiving as at sea; and although the black object in the water, which the practised eye of Ingestrie had shown him, was a man, appeared to be only just without the line of the surf, he (Ingestrie) knew that the distance was, in reality, much greater, and that he would have a good swim through those troubled waters before he could get within arm's-length of the shipwrecked person. To be sure, as the body was drifting to the shore, he made better progress, and the distance between him and it was diminished much more rapidly than as if it had been stationary.
+
+Colonel Jeffrey distinctly saw Ingestrie reach the body, at length, and the sailor who had hold of the rope, likewise saw him, and he sung out--
+
+"Now, pull away; but easy, my lads--a steady pull, and no jerking, or you will hinder him instead of helping. That's it--easy now, easy."
+
+"Ah!" said Ben, who had come down to the beach to see what was going on. "Easy does everything, as I always said. Pray, Colonel Jeffrey, what unfortunate animal is that you are dragging out of the water?"
+
+"Don't you know, Ben?""Not I. But I suppose it is some poor half-drowned fellow from the ship."
+
+"It is that, as well, I hope; but the person who is with him, and who is being hauled to the shore, is no other than our friend, Mr. Ingestrie."
+
+"What, Johanna's husband?"
+
+"The same."
+
+"Oh, lor! oh, lor! I'm afraid easy won't do it then, and that my little girl will be a widow. Give me hold of the rope. If pulling will do it, I'll soon have him on shore again all right. The idea, now, of a man, with the nicest young creature of a wife in the world, going into the sea at the end of a rope, and covering himself all over with froth and sea-weed! Oh, dear! oh, dear! It's truly dreadful, it is; and easy certainly don't do it."
+
+Ben would have lent his aid to pull the rope, but the colonel kept him back, as it was not strength but skill and tact that in the process was required, and the rope was in the hands of men who had both.
+
+It was clear that Ingestrie had got hold of the floating object, whatever it was, and that, as he was pulled into shore, he brought it with him. When he reached the edge of the surf again, a quick pull brought him at once through it, and a couple of the sailors, dashing into the waters, got a hold of him, and drew him right up on to the beach between them.Half a dozen more brought to the shore the body of a man, tied to a plank of wood.
+
+Poor Mark was nearly exhausted. He was just able only to smile faintly in answer to the colonel's anxious inquiries.
+
+"He must be carried home," said the colonel. "Lend me some assistance, my brave fellows, to do so."
+
+"No--no!" Ingestrie managed just to say faintly. "Take him--take him!"
+
+He pointed to the man whom he had rescued, and the colonel immediately said,
+
+"Make yourself easy about him, my dear friend. The sailors will carry him to the house, and if the vital spark has not quite fled, you shall have the pleasure of knowing that you have saved him. But it is yourself that I wish to have got home."
+
+"Can you walk?" said Ben.
+
+"I--don't think--I will try."
+
+Poor Ingestrie did try, but he was really so completely exhausted by the efforts he had made, that it was quite evident that he was unequal to the task of walking along the shingle."Give it up," said Ben. "You can't do it."
+
+"He must be carried," said the colonel.
+
+"To be sure he must," said Ben; "and this is the way to do it."
+
+With these words, Ben did not hesitate another moment, but taking Mark Ingestrie in his arms as though he had been an infant, he walked over the pebbly beach with him as easily as though he had been only a very ordinary kind of bundle to carry.
+
+As he went on, it occurred to Ben that Johanna might see him carrying her husband home, and might imagine that some fearful accident had happened to him, so, by way of putting an end to that idea, he kept crying out as he got near the house--
+
+"Here we are! All alive and kicking! It's only a joke. All alive--alive O! Here we are! it's only a joke! All alive! alive! and ready for feeding time!"<b>CHAPTER CLXXI.</b>
+<b>A RATHER IMPORTANT DISCOVERY IS MADE.</b>
+
+The man, who appeared to be the only one at all--dead or alive--who was preserved from the wreck of the ship off the coast of Sussex, was carried to the house where all our friends were staying, and being taken into the kitchen, was there placed in the care of a couple of medical men, who were hastily sent for, and who quickly restored animation to the seemingly drowned person. It was reported to Ingestrie that the stranger was all right, and as he himself had by that time thoroughly recovered, and had changed his saturated apparel for a dry suit, the news gave him the liveliest satisfaction.
+
+"Well," he said, "it is something that I have not gone through that tremendous surf in vain."
+
+"Yes, Mark," said Johanna, with the tears starting to her eyes, "but we must, indeed, get away from the sea-coast, and then you cannot be tempted to expose your life in such adventures. Only think of what might be the consequences!"
+
+"Yes," said the colonel. "It is hardly fair, although, at the moment, one cannot help admiring the heroism of the act."
+
+"I don't know how it can be avoided," said Ingestrie. "If you see a poor fellow struggling for his life, and you feel that you may save him at a little risk to yourself, it seems a strange thing not to do it.""It does," said old Mr. Oakley, "and I should be the last to say no to the noble impulse; only if there are to be many storms off his coast, I shall second the resolution of Johanna that you ought to live somewhere else."
+
+"And so shall I," said Arabella.
+
+"And I," said Tobias.
+
+"He's better, they say," cried Ben, popping his head into the room. "The doctors say he is better, and that, after he has had a sleep, he will be all right."
+
+"The sailor belonging to the ship you mean?" said the colonel, "What sort of a person is he, Ben?"
+
+"Haven't seen him yet, so can't tell; but they have made up a good fire in the back kitchen, and he is lying on a sofa there, and going to sleep, and the doctor says it will do him no good to disturb him, or bother him by talking."
+
+"It certainly will not," said Ingestrie. "It matters very little to us who he is, poor fellow. He is saved--that is the principal thing."
+
+"Yes," said Johanna, "that is everything; and, at all events, Mark, there is one human being who through life, let his position and prospects be what they may, must look upon you as his friend and preserver.""Ah!" said poor Tobias, "We should all be very happy if Sweeney Todd were but in the hands of justice. It is very strange why I tremble so to-day at the thought of him; and I did not tremble yesterday."
+
+"You have no occasion to tremble to-day, nor yesterday either, Tobias," said Arabella. "Remember how surrounded you are by your best friends, and remember, likewise, that, after all, Todd is but a man, and by this time he must be but a poor, weak, dispirited one, and much more intent upon devising means for his own safety, than in carrying out his revenges."
+
+"If, indeed, he lives," said the colonel.
+
+"Just so," said Ingestrie. "My opinion will very much incline to the idea that he is dead, if Sir Richard Blunt does not very shortly get some news of him."
+
+"That will be a pity," said Tobias, "unless it can be proved past all dispute, for while it continues only a likely thing, the dread of him will still cling to my heart, and I shall never be happy."
+
+"Nay, Tobias," said the colonel, "you must pluck up a spirit. The probability is now, that Sweeney Todd, let him be where he may, is much more afraid of meeting you than you can possibly be of meeting him."
+
+"I wish I thought so," said Tobias. "But only look now how sweetly the sun is peeping out on the water after the storm there. This is very beautiful."Tobias walked to the window; and his praise of the beauty of the morning caused the breakfast-table to be, in a very few minutes, completely deserted. To be sure, the praise that the imaginative boy had lavished upon the young day, was by no means misapplied; for a more lovely day than that which broke over Brighton, after that terrific gale in the Channel, could not be conceived. It seemed as if the good genii of earth, sea, and sky, were striving to banish from the minds of all the inhabitants of that place the recollections of the frightful storm that had made the world dismal and terrific.
+
+"Indeed, it is lovely," said Johanna, "Who, now, to look at that placid sheet of water, with scarce a ripple upon its surface to reflect the sunbeams, would think that only a few hours ago, it presented a scene of such fury that it was a shuddering terror to look upon it?"
+
+"And yet," said Ingestrie, "it is these varieties that make the great world beautiful."
+
+"Not a doubt of it; but they require more stern minds than mine, Mark, to stand them."
+
+The party now, finding that the day was so delightful, sallied out to the beach to make some inquiry among the sailors and boatmen, concerning the damage that the gale had done. The moment Mark Ingestrie appeared with his friends, he was recognised as the person who had performed the gallant exploit of going through the surf to the rescue of the shipwrecked man, and he became immediately the observed of all observers.This sort of homage was at once flattering and embarrassing to Johanna. She felt proud that it was her husband who was entitled to so much popular consideration and respect, and yet, with her natural timidity of disposition, she shrank from sharing it with him.
+
+Some eager inquiries were made of Ingestrie now, regarding the man he had saved, and it was a great gratification to him to be enabled to state that he was doing well, although he had not himself seen him since he grappled with him in the water, and brought him to the beach.
+
+A few fragments only of the wreck had been washed to the shore, but nothing that could in any way enable them to identify the vessel; so that that was a species of information that must come from the man who had been saved, whenever he should be able to go through the fatigue of an interview with his friend and his deliverer.
+
+After an hour's stroll upon the beach, the party, at a slow pace, returned to the house they had hired during their stay at Brighton. The moment they got to the door, the colonel's servant appeared with his horse, which he had ordered to be ready for him at twelve o'clock.
+
+"Just walk him up and down," said the colonel, to the man; "I shall be ready in a few minutes. Hilloa! my friend, Hector, are you here?"
+
+The dog was with the horse, and the man said, touching his hat--"We were half a mind, sir, to let Hector loose last night during the storm, for he is a famous fellow in the water; but knowing how much you valued him, we were afraid to do so."
+
+"I am glad you didn't," said the colonel. "You were quite right to keep him shut up. I would not have him come to any mischief for any money."
+
+The colonel entered the house, and when he and all his friends had got into the drawing-room, they sent for a servant to inquire how the poor wrecked man was getting on; and after a little time, one of the domestics of the house came to say that he was up and sitting, dressed, in the front kitchen, and would be happy to see, and to thank those who had saved him from death in the raging sea.
+
+"Shall we have him up here?" said the colonel.
+
+"Yes, if you please," said Ingestrie; "and, I daresay, a glass of wine won't hurt him, while he tells us the name of his ship, poor fellow, and who and what he is."
+
+"Certainly not," said Mr. Oakley. "I will get out the decanter."
+
+"Allow me, my dear," said Mrs. Oakley. "You know you always break every glass that you interfere with."
+
+"Oh, stuff!""But I say, Mr. Oakley, that you do."
+
+"Easy does it," said Ben, in his deepest bass voice. "Easy does it, I say--Easy!"
+
+"How cold I am," said Tobias.
+
+"Cold, Tobias!" said Ingestrie. "My good fellow, we will have a fire if you are cold."
+
+"Oh, no--no. Not on my account, Mr. Ingestrie, I shall be better soon; but I feel as if something were going to happen. My heart beats so fearfully, and at the same time, I shake as if--as if--I know not what."
+
+"Give him a glass of wine," said Ingestrie to Johanna.
+
+Tobias took the glass of wine, and it evidently did him some good; but yet he looked ill and uneasy. Orders were given that the shipwrecked man should be shown up to the drawing-room, for they were all curious to know to what ship he had belonged, and how many had fallen victims to the frightful gale that had made the vessel such a complete wreck.
+
+"He is coming, poor fellow," said the colonel. "I hear his footsteps on the stairs. He comes slowly. No doubt he is weak yet.""Poor fellow!" sighed Johanna. "Have the wine ready to give him at once, mother. It will put some heart into him. What must be his feelings towards you, Mark?"
+
+"Come now," said Ingestrie; "don't plague him, any of you, about his being saved by me, and all that sort of thing. Just say nothing about it. Sailors are no great orators, at the best of times, and if he begins to make a speech about his gratitude, you may depend he will never get to the end of it."
+
+"Yes; but he ought to know," said Mrs. Oakley, "who he owes his life to, under providence."
+
+"Hem!" said Ben. He never liked to hear Mrs. Oakley begin to use religious phrases, as they had a tendency to remind him of the late Mr. Lupin.
+
+The door of the drawing-room opened, and all eyes were eagerly bent in that direction. A servant came in, and said--
+
+"The poor man is here, if you please. Is he to come in, now? He seems rather timid."
+
+"Oh, yes," said Ingestrie, "let him come in, by all manner of means, poor fellow. He and I made acquaintance in the sea, and we ought to be good friends, now."
+
+A tall, gigantic figure marched three paces into the room."<i>Todd!</i>" shouted Tobias. "<i>It is Todd!</i>"
+
+It was Sweeney Todd! With one glance round the room, he recognised an enemy in every face. With a perfect yell of fear and rage, he turned, and dashed down the staircase. The servant who had conducted him up to the drawing-room, and whom he met in his way, he knocked down with one blow, and in another moment he was in the street. The colonel's horse was close to the door. Todd felled the man who held it by a blow on the top of the head, that took him so suddenly, he could not guard against it, and then springing upon the horse, the murderer raised another wild unearthly kind of shout, and set off at a gallop.
+
+So sudden--so totally unexpected, and so appalling had been the presence of Todd in the drawing-room, that if a spectre had appeared among the people there assembled, and they had had no possible means of escaping from the belief that it was a spectre, they could not have been more confounded than they were upon this occasion.
+
+Poor Tobias, after uttering the exclamation that we have recorded, fell flat upon the floor. Ben swung backwards in his chair, and went with a tremendous crash right away into a corner. Ingestrie and the colonel rose together, and impeded each other in their efforts to follow Todd. Johanna, shrieking, clung to Ingestrie, and Arabella made a vain attempt to delay the colonel.
+
+"By Heaven he is off!" cried the colonel, as he heard the clatter of the horse's feet."No!" shouted Ingestrie; "it cannot be!"
+
+"Easy does it," said Ben, from the corner into which he had fallen. "Easy--Easy!"
+
+"Johanna, unhand me, I implore you," cried Mark Ingestrie. "Do you wish the murderer to be lost sight of? Come on, colonel--you and I must engage in this pursuit. God of Heaven! the idea of me saving Todd from the waves!"
+
+The colonel and Ingestrie seized their hats, and rushed down the stairs, tumbling over the servant in the hall. The next object they came across was the groom who had had charge of the horse. They found him sitting on the pavement, looking as confused as possible.
+
+"Which way has he gone?" cried the colonel.
+
+"The--the man. Round that corner, and Hector has gone after him, like mad, sir. Oh, dear!"
+
+"Hector? Then he will be taken, for I will back Hector to hang upon him like grim death. Come with me to the nearest stable, Ingestrie, and let us get horses! Come--come!"<b>CHAPTER CLXXII.</b>
+<b>THE PURSUIT OF TODD ON THE LONDON ROAD.</b>
+
+The whole of these proceedings had really come with such a rush upon the senses of Mark Ingestrie, that he might well have been excused had he not been able to act with the energy that he did; but the strong desire to capture Sweeney Todd, and so to put an end to all the doubts and fears that were felt concerning him, upon the parts of those to whom he was fondly attached, roused the young man to action.
+
+Colonel Jeffrey was cooler than Ingestrie in the affair; but he was not a whit the less determined upon that account.
+
+In the course of seven or eight minutes at the outside, they were both mounted, and as there were plenty of people who could tell them in which direction Todd had gone, they were soon upon his track.
+
+Todd had taken the London Road, and had really got a considerable distance onward, and if he had been, which he was far from being, a good horseman, there is very little doubt but that he would either have led his pursuers a long distance, or possibly escaped them altogether, for the animal that he rode was one that in skilful hands would have done wonders.
+
+It was no small aggravation to Colonel Jeffrey to be pursuing his own horse, while he himself was mounted upon a hack that was by no means equal to it.Skill, however, will get more work out of an indifferent steed than absolute ignorance will achieve from a first-rate one, so that after getting to the top of a rising ground about three miles out of Brighton, our friends saw Todd not three quarters of a mile in advance, coasting a little water-course to find a safe place to cross at. Notwithstanding the distance was great, the colonel knew his own horse in a moment.
+
+"Come on, Ingestrie," he said. "There he is!"
+
+"Are you sure?"
+
+"Quite. That's the rascal. Ah, there he goes through the water! The horse will carry him well across it, but he did not know that, so it is a bold step. On--on!"
+
+They had let their horses come rather easy up the ascent, for the colonel was too good a horseman to break down his steed, merely with an useless burst, when there might be a chase before it of some twenty or thirty miles yet, for all he knew to the contrary; and so, as the country, from the hill-top, sloped very gently right away to the north, they got on wonderfully, and without giving the cattle too much to do.
+
+To keep Todd in sight was everything now, for in that case they felt certain that they must eventually have him. From his actions, it did not seem that he was at all aware of his being so closely pursued,but suddenly they saw him pull up on an eminence and turn his horse's head in the direction of Brighton. They saw him shade his eyes with his hands, and take a long look, and then by the sudden start that he gave, and which caused the horse to plunge in alarm, they knew that he had seen them, and that from that moment he would strain every nerve to escape.
+
+The slight pause that Todd had made in order to look back and see if he were pursued or not, had given his foes the advantage of about one hundred yards, for they had pushed on during that pause with renewed vigour; but now bending low in the saddle, it was evident that he was doing his best to urge the colonel's horse onwards, and it went like the wind.
+
+"There he goes, colonel!" cried Ingestrie. "That pace will do for us pretty quickly. He is leaving us behind fast enough."
+
+"He is, by Heaven, and if he gets to a turn of the road, there is no knowing what fox-like trick he may play us. On--on, Ingestrie! There is no help for it, but to do our very best."
+
+For another minute and a half, now, not a word was exchanged between the friends. The road did take a turn, and for some time they were out of all sight of Todd, but the moment they themselves got round the elbow of the road, the colonel raised a shout of gratification, and then cried--
+
+"There he is! He has had a fall. On--on!"Todd was in the middle of the road-way trying to mount the horse, from which it would appear as though he had been thrown, for the creature was rearing in evident alarm, and swerving every time that Todd put his foot in the stirrup. Maddened, then, at the idea that each moment his foes were gaining upon him, Todd made such a vigorous effort to mount, that he succeeded in doing so, although both his feet were out of the stirrups. He clung to the horse with desperation, and kicked it violently with his heels, striking it at the same time on the head violently with his clenched fist.
+
+The animal was driven half crazy by such unusual treatment, and after plunging and rearing for a few seconds, set off at such a gallop as no one could have believed any mortal horse could have achieved.
+
+"Off again!" cried the colonel. "I could have shot him, I think, Ingestrie, just now."
+
+"Then, why, in the name of all that's tantalising, did you not do so?"
+
+"Why, to tell the truth, I was afraid of hitting the horse. If it had kept still for a moment, it would have been all right; but I could not be certain of my aim as it was. Now, mind, we must have him, and I think he begins to find that fact out."
+
+Certainly, if any judgment could be come to, by the desperate manner in which Todd rode, it would appear as though he considered his career as all but at an end.Oh, how at that time he roared and raved that he had no fire-arms, by the aid of which he might turn and cope with his foes! If he had only had but a pair of pistols, he thought that not only would he have escaped, but escaped likewise with the intense gratification of destroying two of his enemies; but, then, he was totally unarmed, and if they should succeed in coming up with him, he had not even the means of self-destruction about him.
+
+Indifferent horseman, however, as Todd was, even he could not help seeing that he was far better mounted than those who were pursuing him and so, from that circumstance, he gathered just a faint hope that he might distance them by knocking up their steeds. From what he had already experienced of the mettle of the horse he had got hold of so providentially for him, he felt certain that if his pursuers were obliged to come to a pause only for a quarter of an hour, he should be able to place such a distance between him and them, that he might consider himself to be in comparative, if not absolute safety.
+
+To accomplish such a result, then, he felt that his plan was to keep right on within their sight, and let them sooner be tired out by the unwonted exertions that they would compel their inefficient cattle to make, with the vain hope of overtaking him. But Todd had to do with a man, in Colonel Jeffrey, who was quite equal to such an emergency.
+
+A stern chace is a long chace, but an escape even at considerable speed is a weary affair, with a foe directly behind; and the colonel calculated that allowing Todd all the difference in speed between the horses,it would be yet a long distance before he could throw them back so far that they would not be in a position to take advantage of any accident that might occur to him.
+
+"Cool and easy, Ingestrie," he said; "it's a question of time, now. The longer we can keep our horses on their legs, the better for us. Don't urge your horse too much."
+
+Todd had now reached a very wild and romantic part of the road. It wound through a cutting in a mass of chalk, which, as it would be impossible to surmount, and a tedious thing to go round, had been very roughly levelled to the width of a road, and the sides were covered with rank vegetation, for successive rains had washed down upon the face of the chalk a facing of loam, from which had sprung up gigantic weeds, and innumerable wild flowers.
+
+Todd had got about half way through this place, when, from the other end of it, there came a party of five horsemen.
+
+One man rode at the head of the party upon a black horse, which had evidently gone far that day. Todd and this man met face to face, and they simultaneously pronounced each other's names.
+
+"Sir Richard Blunt!" shrieked Todd.
+
+"Sweeney Todd!" said the magistrate."Stop him!" shouted Ingestrie, as he and the colonel just got a sight of the horsemen beyond Todd. "Stop him!"
+
+With a yell, like that which might be supposed to come from a fiend, Todd swerved from the grasp of Sir Richard Blunt, who made a dart at his throat, and then, drawing up his knees, he gave his horse the rein, and darting past Sir Richard, he dashed right into the midst of the party of officers, who were behind, and fairly broke his way through them.
+
+"Not yet--not yet!" he shouted. "Ha!--ha! not yet!"
+
+"Fire!" cried Sir Richard Blunt.
+
+The sharp report of four holster-pistols sounded in the narrow road-way. Todd fell from his horse, and, terrified by the shots, the steed went off without him at a mad gallop.
+
+Twice Todd rolled over, and grasped handfuls of chalk and dust from the road; and then he lay upon his back profoundly still. In an instant, Sir Richard Blunt dismounted; and then Colonel Jeffrey and Mark Ingestrie rode up to the spot.
+
+"You have--have--" cried Ingestrie.
+
+"Yes, at last, Mr. Ingestrie," said Sir Richard. "I had some information that he was hovering about the coast, and came here to see you all.I am sorry to defraud the gallows of its due: but there lies Todd!"
+
+A couple of the officers now dismounted, while the others held their horses, and they dragged the wretched man to the side of the road.
+
+"Is he dead?" said Ingestrie.
+
+"No," said Todd, opening his eyes. "He still lives to curse you all! I--"
+
+It was evident that he wished to say more; but he was bleeding internally, and he began to struggle with the volumes of blood that rose to his throat. With a horrible shriek, he rolled over on to his face, and then, after one sharp convulsion of his limbs, he lay perfectly still.
+
+One of the officers turned him round again. One glance at the face was sufficient. The guilty spirit of Sweeney Todd had fled at last to its account!
+
+"Dead," said Sir Richard Blunt. "Let the body lie here, and we will all ride on to Brighton, and from there send some conveyance for it. Mr. Ingestrie and you, Colonel Jeffrey, are witnesses of his end, and I can only say that I feel now as if a heavy weight were lifted off my breast. The good, and the kind, and true, need no longer live in fear of the wild vengeance of this man. Let us hope that Heaven will have more mercy upon his guilty soul than ever he had consideration for the sufferings of others."<b>CHAPTER CLXXIII.</b>
+<b>THE CONCLUSION.</b>
+
+We have little to say in conclusion, now that the chief actor in the fearful Domestic Drama it has been our fate to record, is no more. Todd was buried in the old church-yard at Brighton, but no record of the spot where the murderer's bones decayed was preserved.
+
+Sir Richard Blunt lived long to enjoy the respect and the admiration of all who knew him, and died full of years and honours.
+
+The sunshine of the existence of Johanna and Mark was perfectly unclouded, and the colonel and Arabella, likewise, presented a true picture of connubial felicity. In due time Tobias was married to her whom he loved so well; and as he got older and more used to the world, that timidity of disposition that Todd by his cruelties had induced, entirely left him.
+
+Ben did not marry after all, and he never ceased to congratulate himself upon his escape. Mr. and Mrs. Oakley were happy in the happiness of Johanna.
+
+The mad-house at Peckham was completely pulled down, and in the well at the back of it was found the skeleton of the wretched victim of Fogg's villany. It was by his own hand that Fogg really died.
+
+Often as Johanna would sit on a winter's evening, with her children climbing upon her knee, she would, with a faltering voice,tell them what their dear father had suffered to procure for her and for them THE STRING OF PEARLS.
+
+PUBLISHED BY E. LLOYD, SALISBURY-SQUARE, FLEET-STREET.
+
+* * * * * *
+
+Transcriber's note:
+
+Archaic and colloquial spelling and punctuation were retained.
+
+Chapter numbers were retained, even when mis-numbered.
+
+Missing or obscured punctuation was corrected.
+
+Typographical errors were silently corrected. Three unpaired double quotation marks could not be corrected with confidence.
