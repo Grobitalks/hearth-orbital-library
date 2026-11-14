@@ -1,0 +1,676 @@
+HOLB1	2811	0	0	80	430	150
+20	Letters Gaius Plinius Caecilius Secundus
+20	I -- To SEPTITTUS
+21	II -- To ARRIANUS
+22	III -- To VOCONIUS ROMANUS
+26	IV -- To CORNELIUS TACITUS
+27	V -- To POMPEIUS SATURNINUS
+31	VI -- To ATRIUS CLEMENS
+34	VII -- To FABIUS JUSTUS
+35	VIII -- To CALESTRIUS TIRO
+38	IX -- To SOCIUS SENECIO
+40	X -- To JUNSUS MAURICUS
+42	XI -- To SEPTITIUS CLARUS
+43	XII -- To SUETONIUS TRANQUILLUS
+45	XIII -- To ROMANUS FIRMUS
+46	XIV -- To Cornelius Tacitus
+52	XV -- To PATERNUS
+53	XVI -- To CATILIUS SEVERUS [27]
+56	XVII -- To VOCONIUS ROMANUS
+59	XVIII -- To NEPOS
+62	XIX -- To AVITUS
+64	XX -- To MACRINUS
+66	XXI -- To PAISCUS
+68	XXII -- To MAIMUS
+71	XXIII -- To GALLUS
+78	XXIV -- To CEREALIS
+80	XXV -- To CALVISIUS
+83	XXVI -- To CALVISIUS
+86	XXVII -- To BAEBIUS MACER
+90	XXVIII -- To ANNIUS SEVERUS
+92	XXIX -- To CANINIUS RUFUS
+95	XXX -- To SPURINNA AND COTTIA[53]
+97	XXXI -- To JULIUS GENITOR
+99	XXXII -- To CATILIUS SEVERUS
+100	XXXIII -- To ACILIUS
+102	XXXIV -- To NEPOS
+105	XXXV -- To SEVERUS
+108	XXXVI -- To CALVISIUS RUFUS
+110	XXXVII -- To CORNELIUS PRISCUS
+112	XXXVIII -- To FABATUS (HIS WIFE'S GRANDFATHER)
+113	XXXIX -- To ATTIUS CLEMENS
+115	XL -- To CATIUS LEPIDUS
+117	XLI -- To MATURUS ARRIANUS
+118	XLII -- To STATIUS SABINUS
+119	XLIII -- To CORNELIUS MINICIANUS
+122	XLV -- To ASINIUS
+125	XLVI -- To HISPULLA
+127	XLVII -- To ROMATIUS FIASIUS
+128	XLVIII -- To LICINIUS SURA
+130	XLIX -- To ANNIUS SEVERUS
+133	L -- To TITIUS ARISTO
+136	LI -- To NONIUS MAXIMUS
+138	LII -- To DOMITIUS APOLLINARIS
+147	LIII -- To CALVISIUS
+148	LIV -- To MARCELLINUS
+150	LV -- To SPURINNA
+152	LVI -- To PAULINUS
+154	LVII -- To RUFUS
+156	LVIII -- To ARRIANUS
+158	LIX -- To CALPURNIA[88]
+159	LX -- To CALPURNIA
+160	LXI -- To PRISCUS
+162	LXII -- To ALBINUS
+163	LXIII -- To MAXIMUS
+164	LXIV -- To ROMANUS
+165	LXV -- To TACITUS
+170	LXVI -- To CORNELIUS TACITUS
+174	LX VII -- To MACER
+175	LXVIII -- To SERVIANUS
+176	LXIX -- To SEVERUS
+177	LXX -- To FABATUS
+178	LXXI -- To CORNELIANUS
+182	LXXII -- To MAXIMUS
+183	LXXIII -- To RESTITUTUS
+184	LXXIV -- To CALPURNIA[111]
+185	LXXV -- To MACRINUS
+188	LXXVI -- To TUSCUS
+191	LXX VII -- To FABATUS (HIS WIFE'S GRANDFATHER)
+193	LXXVIII -- To CORELLIA
+194	LXXIX -- To CELER
+198	LXXX -- To PRISCUS
+201	LXXXI -- To GEMINIUS
+203	LXXXII -- To MAXIMUS
+204	LXXXIII -- To SURA
+208	LXXXIV -- To SEPTITIUS
+209	LXXXV -- To TACITUS
+211	LXXX VI -- To SEPTITIUS
+212	LXXXVII -- To CALVISIUS
+214	LXXX VIII -- To ROMANUS
+216	LXXXIX -- To ARISTO
+224	XC -- To PATERNUS
+225	XCI -- To MACRINUS
+227	XCII -- To RUFINUS
+230	XCIII -- To GALLUS
+233	XCIV -- To ARRIANUS
+235	XCV -- To MAXIMUS
+238	XCVI -- To PAULINUS
+239	XCVII -- To CALVISIUS
+240	XCVIII -- To ROMANUS
+241	XCIX -- To GEMINUS
+242	C -- To JUNIOR
+243	CI -- To QUADRATUS
+250	CII -- To GENITOR
+251	CIII -- To SABINIANUS
+252	CIV -- To MAXIMUS
+254	CV -- To SABINIANUS
+255	CVI -- To LUPERCUS
+260	CVII -- To CANINIUS
+263	CVIII -- To Fuscus
+265	CIX -- To PAULINUS
+266	CX -- To FUSCUS
+291	Correspondence With The Emperor Trajan
+291	I -- To The Emperor Trajan[1001]
+292	II -- To THE EMPEROR TRAJAN
+293	III -- To THE EMPEROR TRAJAN
+294	IV -- To THE EMPEROR TRAJAN
+295	V -- Trajan To Pliny
+295	VI -- To THE EMPEROR TRAJAN
+296	VII -- To THE EMPEROR TRAJAN
+297	VIII -- Trajan To Pliny
+298	X -- To THE EMPEROR TRAJAN
+299	XI -- To THE EMPEROR TRAJAN
+301	XII -- Trajan To Pliny
+302	XIII -- To THE EMPEROR TRAJAN
+303	XIV -- To THE EMPEROR TRAJAN
+304	XV -- Trajan To Pliny
+305	XVI -- To THE EMPEROR TRAJAN
+306	XVII -- Trajan To Pliny
+307	XVIII -- To THE EMPEROR TRAJAN
+308	XIX -- To THE EMPEROR TRAJAN
+309	XX -- To THE EMPEROR TRAJAN
+309	XXI -- To THE EMPEROR TRAJAN
+310	XXII -- To THE EMPEROR TRAJAN
+311	XXIII -- To THE EMPEROR TRAJAN
+312	XXIV -- To THE EMPEROR TRAJAN
+313	XXV -- To THE EMPEROR TRAJAN
+314	XXVI -- To THE EMPEROR TRAJAN
+315	XXVII -- To THE EMPEROR TRAJAN
+316	XXVIII -- To THE EMPEROR TRAJAN
+317	XXIX -- To THE EMPEROR TRAJAN
+318	XXX -- To THE EMPEROR TRAJAN
+319	XXXI -- Trajan To Pliny
+320	XXXII -- To THE EMPEROR TRAJAN
+321	XXXIII -- Trajan To Pliny
+322	XXXIV -- To THE EMPEROR TRAJAN
+323	XXXV -- Trajan To Pliny
+324	XXXVI -- To THE EMPEROR TRAJAN
+325	XXX VII -- Trajan To Pliny
+326	XXXVIII To THE EMPEROR TRAJAN
+327	XXXIX -- Trajan To Pliny
+328	XL -- To THE EMPEROR TRAJAN
+LETTERS OF PLINY
+
+By Gaius Plinius Caecilius Secundus
+
+Translated by William Melmoth
+
+Revised by F. C. T. Bosanquet
+
+GAIUS PLINIUS CAECILIUS SECUNDUS, usually known as Pliny the Younger, was born at Como in 62 A. D. He was only eight years old when his father Caecilius died, and he was adopted by his uncle, the elder Pliny, author of the Natural History. He was carefully educated, studying rhetoric under Quintilian and other famous teachers, and he became the most eloquent pleader of his time. In this and in much else he imitated Cicero, who had by this time come to be the recognized master of Latin style. While still young he served as military tribune in Syria, but he does not seem to have taken zealously to a soldier's life. On his return he entered politics under the Emperor Domitian; and in the year 100 A. D. was appointed consul by Trajan and admitted to confidential intercourse with that emperor. Later while he was governor of Bithynia, he was in the habit of submitting every point of policy to his master, and the correspondence between Trajan and him, which forms the last part of the present selection, is of a high degree of interest, both on account of the subjects discussed and for the light thrown on the characters of the two men. He is supposed to have died about 113 A. D. Pliny's speeches are now lost, with the exception of one, a panegyric on Trajan delivered in thanksgiving for the consulate.This, though diffuse and somewhat too complimentary for modern taste, became a model for this kind of composition. The others were mostly of two classes, forensic and political, many of the latter being, like Cicero's speech against Verres, impeachments of provincial governors for cruelty and extortion toward their subjects. In these, as in his public activities in general, he appears as a man of public spirit and integrity; and in his relations with his native town he was a thoughtful and munificent benefactor.
+
+The letters, on which to-day his fame mainly rests, were largely written with a view to publication, and were arranged by Pliny himself. They thus lack the spontaneity of Cicero's impulsive utterances, but to most modern readers who are not special students of Roman history they are even more interesting. They deal with a great variety of subjects: the description of a Roman villa; the charms of country life; the reluctance of people to attend author's readings and to listen when they were present; a dinner party; legacy-hunting in ancient Rome; the acquisition of a piece of statuary; his love for his young wife; ghost stories; floating islands, a tame dolphin, and other marvels. But by far the best known are those describing the great eruption of Vesuvius in which his uncle perished, a martyr to scientific curiosity, and the letter to Trajan on his attempts to suppress Christianity in Bithynia, with Trajan's reply approving his policy. Taken altogether, these letters give an absorbingly vivid picture of the days of the early empire, and of the interests of a cultivated Roman gentleman of wealth.Occasionally, as in the last letters referred to, they deal with important historical events; but their chief value is in bringing before us, in somewhat the same manner as "The Spectator" pictures the England of the age of Anne, the life of a time which is not so unlike our own as its distance in years might indicate. And in this time by no means the least interesting figure is that of the letter-writer himself, with his vanity and self-importance, his sensibility and generous affection, his pedantry and his loyalty.
+
+CONTENTS
+
+LETTERS GAIUS PLINIUS CAECILIUS SECUNDUS
+
+I -- To SEPTITTUS
+
+II -- To ARRIANUS
+
+III -- To VOCONIUS ROMANUS
+
+IV -- To CORNELIUS TACITUS
+
+V -- To POMPEIUS SATURNINUS
+
+VI -- To ATRIUS CLEMENS
+
+VII -- To FABIUS JUSTUSVIII -- To CALESTRIUS TIRO
+
+IX -- To SOCIUS SENECIO
+
+X -- To JUNSUS MAURICUS
+
+XI -- To SEPTITIUS CLARUS
+
+XII -- To SUETONIUS TRANQUILLUS
+
+XIII -- To ROMANUS FIRMUS
+
+XIV -- TO CORNELIUS TACITUS
+
+XV -- To PATERNUS
+
+XVI -- To CATILIUS SEVERUS [27]
+
+XVII -- To VOCONIUS ROMANUS
+
+XVIII -- To NEPOS
+
+XIX -- To AVITUS
+
+XX -- To MACRINUSXXI -- To PAISCUS
+
+XXII -- To MAIMUS
+
+XXIII -- To GALLUS
+
+XXIV -- To CEREALIS
+
+XXV -- To CALVISIUS
+
+XXVI -- To CALVISIUS
+
+XXVII -- To BAEBIUS MACER
+
+XXVIII -- To ANNIUS SEVERUS
+
+XXIX -- To CANINIUS RUFUS
+
+XXX -- To SPURINNA AND COTTIA[53]
+
+XXXI -- To JULIUS GENITOR
+
+XXXII -- To CATILIUS SEVERUS
+
+XXXIII -- To ACILIUSXXXIV -- To NEPOS
+
+XXXV -- To SEVERUS
+
+XXXVI -- To CALVISIUS RUFUS
+
+XXXVII -- To CORNELIUS PRISCUS
+
+XXXVIII -- To FABATUS (HIS WIFE'S GRANDFATHER)
+
+XXXIX -- To ATTIUS CLEMENS
+
+XL -- To CATIUS LEPIDUS
+
+XLI -- To MATURUS ARRIANUS
+
+XLII -- To STATIUS SABINUS
+
+XLIII -- To CORNELIUS MINICIANUS
+
+XLV -- To ASINIUS
+
+XLVI -- To HISPULLA
+
+XLVII -- To ROMATIUS FIASIUSXLVIII -- To LICINIUS SURA
+
+XLIX -- To ANNIUS SEVERUS
+
+L -- To TITIUS ARISTO
+
+LI -- To NONIUS MAXIMUS
+
+LII -- To DOMITIUS APOLLINARIS
+
+LIII -- To CALVISIUS
+
+LIV -- To MARCELLINUS
+
+LV -- To SPURINNA
+
+LVI -- To PAULINUS
+
+LVII -- To RUFUS
+
+LVIII -- To ARRIANUS
+
+LIX -- To CALPURNIA[88]
+
+LX -- To CALPURNIALXI -- To PRISCUS
+
+LXII -- To ALBINUS
+
+LXIII -- To MAXIMUS
+
+LXIV -- To ROMANUS
+
+LXV -- To TACITUS
+
+LXVI -- To CORNELIUS TACITUS
+
+LX VII -- To MACER
+
+LXVIII -- To SERVIANUS
+
+LXIX -- To SEVERUS
+
+LXX -- To FABATUS
+
+LXXI -- To CORNELIANUS
+
+LXXII -- To MAXIMUS
+
+LXXIII -- To RESTITUTUSLXXIV -- To CALPURNIA[111]
+
+LXXV -- To MACRINUS
+
+LXXVI -- To TUSCUS
+
+LXX VII -- To FABATUS (HIS WIFE'S GRANDFATHER)
+
+LXXVIII -- To CORELLIA
+
+LXXIX -- To CELER
+
+LXXX -- To PRISCUS
+
+LXXXI -- To GEMINIUS
+
+LXXXII -- To MAXIMUS
+
+LXXXIII -- To SURA
+
+LXXXIV -- To SEPTITIUS
+
+LXXXV -- To TACITUS
+
+LXXX VI -- To SEPTITIUSLXXXVII -- To CALVISIUS
+
+LXXX VIII -- To ROMANUS
+
+LXXXIX -- To ARISTO
+
+XC -- To PATERNUS
+
+XCI -- To MACRINUS
+
+XCII -- To RUFINUS
+
+XCIII -- To GALLUS
+
+XCIV -- To ARRIANUS
+
+XCV -- To MAXIMUS
+
+XCVI -- To PAULINUS
+
+XCVII -- To CALVISIUS
+
+XCVIII -- To ROMANUS
+
+XCIX -- To GEMINUSC -- To JUNIOR
+
+CI -- To QUADRATUS
+
+CII -- To GENITOR
+
+CIII -- To SABINIANUS
+
+CIV -- To MAXIMUS
+
+CV -- To SABINIANUS
+
+CVI -- To LUPERCUS
+
+CVII -- To CANINIUS
+
+CVIII -- To Fuscus
+
+CIX -- To PAULINUS
+
+CX -- To FUSCUS
+
+FOOTNOTES TO THE LETTERS OF PLINY]
+
+CORRESPONDENCE WITH THE EMPEROR TRAJANI -- TO THE EMPEROR TRAJAN[1001]
+
+II -- To THE EMPEROR TRAJAN
+
+III -- To THE EMPEROR TRAJAN
+
+IV -- To THE EMPEROR TRAJAN
+
+V -- TRAJAN TO PLINY
+
+VI -- To THE EMPEROR TRAJAN
+
+VII -- To THE EMPEROR TRAJAN
+
+VIII -- TRAJAN TO PLINY
+
+X -- To THE EMPEROR TRAJAN
+
+XI -- To THE EMPEROR TRAJAN
+
+XII -- TRAJAN TO PLINY
+
+XIII -- To THE EMPEROR TRAJAN
+
+XIV -- To THE EMPEROR TRAJANXV -- TRAJAN TO PLINY
+
+XVI -- To THE EMPEROR TRAJAN
+
+XVII -- TRAJAN TO PLINY
+
+XVIII -- To THE EMPEROR TRAJAN
+
+XIX -- To THE EMPEROR TRAJAN
+
+XX -- To THE EMPEROR TRAJAN
+
+XXI -- To THE EMPEROR TRAJAN
+
+XXII -- To THE EMPEROR TRAJAN
+
+XXIII -- To THE EMPEROR TRAJAN
+
+XXIV -- To THE EMPEROR TRAJAN
+
+XXV -- To THE EMPEROR TRAJAN
+
+XXVI -- To THE EMPEROR TRAJAN
+
+XXVII -- To THE EMPEROR TRAJANXXVIII -- To THE EMPEROR TRAJAN
+
+XXIX -- To THE EMPEROR TRAJAN
+
+XXX -- To THE EMPEROR TRAJAN
+
+XXXI -- TRAJAN TO PLINY
+
+XXXII -- To THE EMPEROR TRAJAN
+
+XXXIII -- TRAJAN TO PLINY
+
+XXXIV -- To THE EMPEROR TRAJAN
+
+XXXV -- TRAJAN TO PLINY
+
+XXXVI -- To THE EMPEROR TRAJAN
+
+XXX VII -- TRAJAN TO PLINY
+
+XXXVIII To THE EMPEROR TRAJAN
+
+XXXIX -- TRAJAN TO PLINY
+
+XL -- To THE EMPEROR TRAJANXLI -- TRAJAN TO PLINY
+
+XLII -- To THE EMPEROR TRAJAN
+
+XLIII -- TRAJAN TO PLINY
+
+XLIV -- To THE EMPEROR TRAJAN
+
+XLV -- TRAJAN TO PLINY
+
+XLVI -- To THE EMPEROR TRAJAN
+
+XLVII -- TRAJAN TO PLINY
+
+XLVIII -- To THE EMPEROR TRAJAN
+
+XLIX -- TRAJAN TO PLINY
+
+L -- To THE EMPEROR TRAJAN
+
+LI -- TRAJAN TO PLINY
+
+LII -- To THE EMPEROR TRAJAN
+
+LIII -- TRAJAN TO PLINYLIV -- To THE EMPEROR TRAJAN
+
+LV -- TRAJAN TO PLINY
+
+LVI -- To THE EMPEROR TRAJAN
+
+LVII -- TRAJAN TO PLINY
+
+LVIII -- To THE EMPEROR TRAJAN
+
+LIX -- TRAJAN TO PLINY
+
+LX -- To THE EMPEROR TRAJAN
+
+LXI -- TRAJAN TO PLINY
+
+LXII -- To THE EMPEROR TRAJAN
+
+LXIII -- TRAJAN TO PLINY
+
+LXIV -- To THE EMPEROR TRAJAN
+
+LXV -- TRAJAN TO PLINY
+
+LXVI -- To THE EMPEROR TRAJANLXVII -- To THE EMPEROR TRAJAN
+
+LX VIII -- TRAJAN TO PLINY
+
+LXIX -- To THE EMPEROR TRAJAN
+
+LXX -- TRAJAN TO PLINY
+
+LXXI -- To THE EMPEROR TRAJAN
+
+LXXII TRAJAN TO PLINY
+
+LXXIII -- To THE EMPEROR TRAJAN
+
+LXX IV -- TRAJAN TO PLINY
+
+LXXV -- To THE EMPEROR TRAJAN
+
+LXXVI -- TRAJAN TO PLINY
+
+LXXVII -- To THE EMPEROR TRAJAN
+
+LXXVIII -- TRAJAN TO PLINY
+
+LXXIX -- To THE EMPEROR TRAJANLXXX -- TRAJAN TO PLINY
+
+LXXXI -- To THE EMPEROR TRAJAN
+
+LXXXII -- TRAJAN TO PLINY
+
+LXXXIII -- To THE EMPEROR TRAJAN
+
+LXXXIV -- TRAJAN TO PLINY
+
+LXXXV -- To THE EMPEROR TRAJAN
+
+LXXXVI -- TRAJAN TO PLINY
+
+LXXXVII -- To THE EMPEROR TRAJAN
+
+LXXXVIII -- TRAJAN TO PLINY
+
+LXXXIX -- To THE EMPEROR TRAJAN
+
+XC -- TRAJAN TO PLINY
+
+XCI -- To THE EMPEROR TRAJAN
+
+XCII -- TRAJAN TO PLINYXCIII -- To THE EMPEROR TRAJAN
+
+XCIV -- TRAJAN TO PLINY
+
+XCV -- To THE EMPEROR TRAJAN
+
+XCVI -- TRAJAN TO PLINY
+
+XCVII To THE EMPEROR TRAJAN
+
+XCVIII -- TRAJAN TO PLINY
+
+XCIX -- To THE EMPEROR TRAJAN
+
+C -- TRAJAN TO PLINY
+
+CI To THE EMPEROR TRAJAN
+
+CII -- TRAJAN TO PLINY
+
+CIII -- To THE EMPEROR TRAJAN
+
+CIV -- TRAJAN TO PLINY
+
+CV -- To TIlE EMPEROR TRAJANCVI -- TRAJAN TO PLINY
+
+CVII -- To THE EMPEROR TRAJAN
+
+CVIII -- TRAJAN TO PLINY
+
+CIX -- To THE EMPEROR TRAJAN
+
+CX -- TRAJAN TO PLINY
+
+CXI -- To THE EMPEROR TRAJAN
+
+CXII -- TRAJAN TO PLINY
+
+CXIII -- To THE EMPEROR TRAJAN
+
+CXIV -- TRAJAN TO PLINY
+
+CXV -- To THE EMPEROR TRAJAN
+
+CXVI -- TRAJAN TO PLINY
+
+CXVII -- To THE EMPEROR TRAJAN
+
+CXVIII -- TRAJAN TO PLINYCXIX -- To THE EMPEROR TRAJAN
+
+CXX -- TRAJAN TO PLINY
+
+CXXI -- To THE EMPEROR TRAJAN
+
+CXXII -- TRAJAN TO PLINY
+
+FOOTNOTES TO THE CORRESPONDENCE WITH THE EMPEROR TRAJAN
+
+<b>LETTERS GAIUS PLINIUS CAECILIUS SECUNDUS</b>
+
+<b>I -- To SEPTITTUS</b>
+
+YOU have frequently pressed me to make a select collection of my Letters (if there really be any deserving of a special preference) and give them to the public. I have selected them accordingly; not, indeed, in their proper order of time, for I was not compiling a history; but just as each came to hand. And now I have only to wish that you may have no reason to repent of your advice, nor I of my compliance: in that case, I may probably enquire after the rest, which at present be neglected, and preserve those I shall hereafter write. Farewell.<b>II -- To ARRIANUS</b>
+
+I FORESEE your journey in my direction is likely to be delayed, and therefore send you the speech which I promised in my former; requesting you, as usual, to revise and correct it. I desire this the more earnestly as I never, I think, wrote with the same empressment in any of my former speeches; for I have endeavoured to imitate your old favourite Demosthenes and Calvus, who is lately become mine, at least in the rhetorical forms of the speech; for to catch their sublime spirit, is given, alone, to the "inspired few." My subject, indeed, seemed naturally to lend itself to this (may I venture to call it?) emulation; consisting, as it did, almost entirely in a vehement style of address, even to a degree sufficient to have awakened me (if only I am capable of being awakened) out of that indolence in which I have long reposed. I have not however altogether neglected the flowers of rhetoric of my favourite Marc-Tully, wherever I could with propriety step out of my direct road, to enjoy a more flowery path: for it was energy, not austerity, at which I aimed. I would not have you imagine by this that I am bespeaking your indulgence: on the contrary, to make your correcting pen more vigorous, I will confess that neither my friends nor myself are averse from the publication of this piece, if only you should join in the approval of what is perhaps my folly. The truth is, as I must publish something, I wish it might be this performance rather than any other, because it is already finished: (you hear the wish of laziness.) At all events, however, something I must publish, and for many reasons; chiefly because of the tracts which I have already sent in to the world, though they have long since lost all their recommendation from novelty, are still, I am told, in request; if, after all, the booksellers are not tickling my ears.And let them; since, by that innocent deceit, I am encouraged to pursue my studies. Farewell.
+
+<b>III -- To VOCONIUS ROMANUS</b>
+
+DID YOU ever meet with a more abject and mean-spirited creature than Marcus Regulus since the death of Domitian, during whose reign his conduct was no less infamous, though more concealed, than under Nero's? He began to be afraid I was angry with him, and his apprehensions were perfectly correct; I was angry. He had not only done his best to increase the peril of the position in which Rusticus Arulenus[1] stood, but had exulted in his death; insomuch that he actually recited and published a libel upon his memory, in which he styles him "The Stoics' Ape": adding, "stigmated[2] with the Vitellian scar."[3] You recognize Regulus' eloquent strain! He fell with such fury upon the character of Herennius Senecio that Metius Carus said to him, one day, "What business have you with my dead? Did I ever interfere in the affair of Crassus[4] or Camerinus?"[5] Victims, you know, to Regulus, in Nero's time. For these reasons he imagined I was highly exasperated, and so at the recitation of his last piece, I got no invitation. Besides, he had not forgotten, it seems, with what deadly purpose he had once attacked me in the Court of the Hundred.[6] Rusticus had desired me to act as counsel for Arionilla, Titnon's wife: Regulus was engaged against me. In one part of the case I was strongly insisting upon a particular judgment given by Metius Modestus, an excellent man, at that time in banishment by Domitian's order. Now then for Regulus. "Pray," says he, "what is your opinion of Modestus?"You see what a risk I should have run had I answered that I had a high opinion of him, how I should have disgraced myself on the other hand if I had replied that I had a bad opinion of him. But some guardian power, I am persuaded, must have stood by me to assist me in this emergency. "I will tell you my opinion," I said, "if that is a matter to be brought before the court." "I ask you," he repeated, "what is your opinion of Modestus?" I replied that it was customary to examine witnesses to the character of an accused man, not to the character of one on whom sentence had already been passed. He pressed me a third time. "I do not now enquire," said he, "your opinion of Modestus in general, I only ask your opinion of his loyalty." "Since you will have my opinion then," I rejoined, "I think it illegal even to ask a question concerning a person who stands convicted." He sat down at this, completely silenced; and I received applause and congratulation on all sides, that without injuring my reputation by an advantageous, perhaps, though ungenerous answer, I had not entangled myself in the toils of so insidious a catch-question. Thoroughly frightened upon this then, he first seizes upon Caecilius Celer, next he goes and begs of Fabius Justus, that they would use their joint interest to bring about a reconciliation between us. And lest this should not be sufficient, he sets off to Spurinna as well; to whom he came in the humblest way (for he is the most abject creature alive, where he has anything to be afraid of) and says to him, "Do, I entreat of you, call on Pliny to-morrow morning, certainly in the morning, no later (for I cannot endure this anxiety of mind longer), and endeavour by any means in your power to soften his resentment." I was already up, the next day, when a message arrived from Spurinna, "I am coming to call on you."I sent word back, "Nay, I will wait upon you;" however, both of us setting out to pay this visit, we met under Livia's portico. He acquainted me with the commission he had received from Regulus, and interceded for him as became so worthy a man in behalf of one so totally dissimilar, without greatly pressing the thing. "I will leave it to you," was my reply, "to consider what answer to return Regulus; you ought not to be deceived by me. I am waiting for Mauricus'[7] return" (for he had not yet come back out of exile), "so that I cannot give you any definite answer either way, as I mean to be guided entirely by his decision, for he ought to be my leader here, and I simply to do as he says." Well, a few days after this, Regulus met me as I was at the praetor's; he kept close to me there and begged a word in private, when he said he was afraid I deeply resented an expression he had once made use of in his reply to Satrius and myself, before the Court of the Hundred, to this effect, "Satrius Rufus, who does not endeavour to rival Cicero, and who is content with the eloquence of our own day." I answered, now I perceived indeed, upon his own confession, that he had meant it ill-naturedly; otherwise it might have passed for a compliment. "For I am free to own," I said, "that I do endeavour to rival Cicero, and am not content with the eloquence of our own day. For I consider it the very height of folly not to copy the best models of every kind. But, how happens it that you, who have so good a recollection of what passed upon this occasion, should have forgotten that other, when you asked me my opinion of the loyalty of Modestus?" Pale as he always is, he turned simply pallid at this, and stammered out, "I did not intend to hurt you when I asked this question, but Modestus."Observe the vindictive cruelty of the fellow, who made no concealment of his willingness to injure a banished man. But the reason he alleged in justification of his conduct is pleasant. Modestus, he explained, in a letter of his, which was read to Domitian, had used the following expression, "Regulus, the biggest rascal that walks upon two feet:" and what Modestus had written was the simple truth, beyond all manner of controversy. Here, about, our conversation came to an end, for I did not wish to proceed further, being desirous to keep matters open until Mauricus returns. It is no easy matter, I am well aware of that, to destroy Regulus; he is rich, and at the head of a party; courted[8] by many, feared by more: a passion that will sometimes prevail even beyond friendship itself. But, after all, ties of this sort are not so strong but they may be loosened; for a bad man's credit is as shifty as himself. However (to repeat), I am waiting until Mauricus comes back. He is a man of sound judgment and great sagacity formed upon long experience, and who, from his observations of the past, well knows how to judge of the future. I shall talk the matter over with him, and consider myself justified either in pursuing or dropping this affair, as he shall advise. Meanwhile I thought I owed this account to our mutual friendship, which gives you an undoubted right to know about not only all my actions but all my plans as well. Farewell.<b>IV -- To CORNELIUS TACITUS</b>
+
+You will laugh (and you are quite welcome) when I tell you that your old acquaintance is turned sportsman, and has taken three noble boars. "What!" you exclaim, "Pliny!"--Even he. However, I indulged at the same time my beloved inactivity; and, whilst I sat at my nets, you would have found me, not with boar spear or javelin, but pencil and tablet, by my side. I mused and wrote, being determined to return, if with all my hands empty, at least with my memorandums full. Believe me, this way of studying is not to be despised: it is wonderful how the mind is stirred and quickened into activity by brisk bodily exercise. There is something, too, in the solemnity of the venerable woods with which one is surrounded, together with that profound silence which is observed on these occasions, that forcibly disposes the mind to meditation. So for the future, let me advise you, whenever you hunt, to take your tablets along with you, as well as your basket and bottle, for be assured you will find Minerva no less fond of traversing the hills than Diana. Farewell.<b>V -- To POMPEIUS SATURNINUS</b>
+
+NOTHING could be more seasonable than the letter which I received from you, in which you so earnestly beg me to send you some of my literary efforts: the very thing I was intending to do. So you have only put spurs into a willing horse and at once saved yourself the excuse of refusing the trouble, and me the awkwardness of asking the favour. Without hesitation then I avail myself of your offer; as you must now take the consequence of it without reluctance. But you are not to expect anything new from a lazy fellow, for I am going to ask you to revise again the speech I made to my fellow-townsmen when I dedicated the public library to their use. You have already, I remember, obliged me with some annotations upon this piece, but only in a general way; and so I now beg of you not only to take a general view of the whole speech, but, as you usually do, to go over it in detail. When you have corrected it, I shall still be at liberty to publish or suppress it: and the delay in the meantime will be attended with one of these alternatives; for, while we are deliberating whether it is fit for publishing, a frequent revision will either make it so, or convince me that it is not. Though indeed my principal difficulty respecting the publication of this harangue arises not so much from the composition as out of the subject itself, which has something in it, I am afraid, that will look too like ostentation and self-conceit. For, be the style ever so plain and unassuming, yet, as the occasion necessarily led me to speak not only of the munificence of my ancestors, but of my own as well, my modesty will be seriously embarrassed. A dangerous and slippery situation this, even when one is led into it by plea of necessity!For, if mankind are not very favourable to panegyric, even when bestowed upon others, how much more difficult is it to reconcile them to it when it is a tribute which we pay to ourselves or to our ancestors? Virtue, by herself, is generally the object of envy, but particularly so when glory and distinction attend her; and the world is never so little disposed to detract from the rectitude of your conduct as when it passes unobserved and unapplauded. For these reasons, I frequently ask myself whether I composed this harangue, such as it is, merely from a personal consideration, or with a view to the public as well; and I am sensible that what may be exceedingly useful and proper in the prosecution of any affair may lose all its grace and fitness the moment the business is completed: for instance, in the case before us, what could be more to my purpose than to explain at large the motives of my intended bounty? For, first, it engaged my mind in good and ennobling thoughts; next, it enabled me, by frequent dwelling upon them, to receive a perfect impression of their loveliness, while it guarded at the same time against that repentance which is sure to follow on an impulsive act of generosity. There arose also a further advantage from this method, as it fixed in me a certain habitual contempt of money. For, while mankind seem to be universally governed by an innate passion to accumulate wealth, the cultivation of a more generous affection in my own breast taught me to emancipate myself from the slavery of so predominant a principle: and I thought that my honest intentions would be the more meritorious as they should appear to proceed, not from sudden impulse, but from the dictates of cool and deliberate reflection.I considered, besides, that I was not engaging myself to exhibit public games or gladiatorial combats, but to establish an annual fund for the support and education of young men of good families but scanty means. The pleasures of the senses are so far from wanting the oratorical arts to recommend them that we stand in need of all the powers of eloquence to moderate and restrain rather than stir up their influence. But the work of getting anybody to cheerfully undertake the monotony and drudgery of education must be effected not by pay merely, but by a skilfully worked- up appeal to the emotions as well. If physicians find it expedient to use the most insinuating address in recommending to their patients a wholesome though, perhaps, unpleasant regimen, how much more occasion had he to exert all the powers of persuasion who, out of regard to the public welfare, was endeavouring to reconcile it to a most useful though not equally popular benefaction? Particularly, as my aim was to recommend an institution, calculated solely for the benefit of those who were parents to men who, at present, had no children; and to persuade the greater number to wait patiently until they should be entitled to an honour of which a few only could immediately partake. But as at that time, when I attempted to explain and enforce the general design and benefit of my institution, I considered more the general good of my countrymen, than any reputation which might result to myself; so I am apprehensive lest, if I publish that piece, it may perhaps look as if I had a view rather to my own personal credit than the benefit of others. Besides, I am very sensible how much nobler it is to place the reward of virtue in the silent approbation of one's own breast than in the applause of the world.Glory ought to be the consequence, not the motive, of our actions; and although it happen not to attend the worthy deed, yet it is by no means the less fair for having missed the applause it deserved. But the world is apt to suspect that those who celebrate their own beneficent acts performed them for no other motive than to have the pleasure of extolling them. Thus, the splendour of an action which would have been deemed illustrious if related by another is totally extinguished when it becomes the subject of one's own applause. Such is the disposition of mankind, if they cannot blast the action, they will censure its display; and whether you do what does not deserve particular notice, or set forth yourself what does, either way you incur reproach. In my own case there is a peculiar circumstance that weighs much with me: this speech was delivered not before the people, but the Decurii;[9] not in the forum, but the senate; I am afraid therefore it will look inconsistent that I, who, when I delivered it, seemed to avoid popular applause, should now, by publishing this performance, appear to court it: that I, who was so scrupulous as not to admit even these persons to be present when I delivered this speech, who were interested in my benefaction, lest it might be suspected I was actuated in this affair by any ambitious views, should now seem to solicit admiration, by forwardly displaying it to such as have no other concern in my munificence than the benefit of example. These are the scruples which have occasioned my delay in giving this piece to the public; but I submit them entirely to your judgment, which I shall ever esteem as a sufficient sanction of my conduct. Farewell.<b>VI -- To ATRIUS CLEMENS</b>
+
+IF ever polite literature flourished at Rome, it certainly flourishes now; and I could give you many eminent instances: I will content myself, however, with naming only Euphrates[10] the philosopher. I first became acquainted with this excellent person in my youth, when I served in the army in Syria. I had an opportunity of conversing with him familiarly, and took some pains to gain his affection: though that, indeed, was not very difficult, for he is easy of access, unreserved, and actuated by those social principles he professes to teach. I should think myself extremely happy if I had as fully answered the expectations he, at that time, conceived of me, as he exceeds everything I had imagined of him. But, perhaps, I admire his excellencies more now than I did then, because I know better how to appreciate them; not that I sufficiently appreciate them even now. For as none but those who are skilled in painting, statuary, or the plastic art, can form a right judgment of any performance in those respective modes of representation, so a man must, himself, have made great advances in philosophy before he is capable of forming a just opinion of a philosopher. However, as far as I am qualified to determine, Euphrates is possessed of so many shining talents that he cannot fail to attract and impress the most ordinarily educated observer. He reasons with much force, acuteness, and elegance; and frequently rises into all the sublime and luxuriant eloquence of Plato. His style is varied and flowing, and at the same time so wonderfully captivating that he forces the reluctant attention of the most unwilling hearer. For the rest, a fine stature, a comely aspect, long hair, and a large silver beard; circumstances which, though they may probably be thought trifling and accidental, contribute, however, to gain him much reverence.There is no affected negligence in his dress and appearance; his countenance is grave but not austere; and his approach commands respect without creating awe. Distinguished as he is by the perfect blamelessness of his life, he is no less so by the courtesy and engaging sweetness of his manner. He attacks vices, not persons, and, without severity, reclaims the wanderer from the paths of virtue. You follow his exhortations with rapt attention, hanging, as it were, upon his lips; and even after the heart is convinced, the ear still wishes to listen to the harmonious reasoner. His family consists of three children (two of which are sons), whom he educates with the utmost care. His father-in-law, Pompeius Julianus, as he greatly distinguished himself in every other part of his life, so particularly in this, that though he was himself of the highest rank in his province, yet, among many considerable matches, he preferred Euphrates for his son-in-law, as first in merit, though not in dignity. But why do I dwell any longer upon the virtues of a man whose conversation I am so unfortunate as not to have time sufficiently to enjoy? Is it to increase my regret and vexation that I cannot enjoy it? My time is wholly taken up in the execution of a very honourable, indeed, but equally troublesome, employment; in hearing cases, signing petitions, making up accounts, and writing a vast amount of the most illiterate literature. I sometimes complain to Euphrates (for I have leisure at least to complain) of these unpleasing occupations. He endeavours to console me, by affirming that, to be engaged in the public service, to hear and determine cases, to explain the laws, and administer justice, is a part, and the noblest part, too, of philosophy; as it is reducing to practice what her professors teach in speculation.But even his rhetoric will never be able to convince me that it is better to be at this sort of work than to spend whole days in attending his lectures and learning his precepts. I cannot therefore but strongly recommend it to you, who have the time for it, when next you come to town (and you will come, I daresay, so much the sooner for this), to take the benefit of his elegant and refined instructions. For I do not (as many do) envy others the happiness I cannot share with them myself: on the contrary, it is a very sensible pleasure to me when I find my friends in possession of an enjoyment from which I have the misfortune to be excluded. Farewell.<b>VII -- To FABIUS JUSTUS</b>
+
+IT is a long time since I have had a letter from you, "There is nothing to write about," you say: well then write and let me know just this, that "there is nothing to write about," or tell me in the good old style, <i>If you are well that's right, I am quite well</i>. This will do for me, for it implies everything. You think I am joking? Let me assure you I am in sober earnest. Do let me know how you are; for I cannot remain ignorant any longer without growing exceedingly anxious about you. Farewell.<b>VIII -- To CALESTRIUS TIRO</b>
+
+I HAVE suffered the heaviest loss; if that word be sufficiently strong to express the misfortune which has deprived me of so excellent a man. Corellius Rufus is dead; and dead, too, by his own act! A circumstance of great aggravation to my affliction: as that sort of death which we cannot impute either to the course of nature, or the hand of Providence, is, of all others, the most to be lamented. It affords some consolation in the loss of those friends whom disease snatches from us that they fall by the general destiny of mankind; but those who destroy themselves leave us under the inconsolable reflection, that they had it in their power to have lived longer. It is true, Corellius had many inducements to be fond of life; a blameless conscience, high reputation, and great dignity of character, besides a daughter, a wife, a grandson, and sisters; and, amidst these numerous pledges of happiness, faithful friends. Still, it must be owned he had the highest motive (which to a wise man will always have the force of destiny), urging him to this resolution. He had long been tortured by so tedious and painful a complaint that even these inducements to living on, considerable as they are, were over-balanced by the reasons on the other side. In his thirty- third year (as I have frequently heard him say) he was seized with the gout in his feet. This was hereditary; for diseases, as well as possessions, are sometimes handed down by a sort of inheritance. A life of sobriety and continence had enabled him to conquer and keep down the disease while he was still young, latterly as it grew upon him with advancing years, he had to manfully bear it, suffering meanwhile the most incredible and undeserved agonies; for the gout was now not only in his feet, but had spread itself over his whole body.I remember, in Domitian's reign, paying him a visit at his villa, near Rome. As soon as I entered his chamber, his servants went out: for it was his rule, never to allow them to be in the room when any intimate friend was with him; nay, even his own wife, though she could have kept any secret, used to go too. Casting his eyes round the room, "Why," he exclaimed, "do you suppose I endure life so long under these cruel agonies? It is with the hope that I may outlive, at least for one day, that villain." Had his bodily strength been equal to his resolution, he would have carried his desire into practical effect. God heard and answered his prayer; and when he felt that he should now die a free, un-enslaved, Roman, he broke through those other great, but now less forcible, attachments to the world. His malady increased; and, as it now grew too violent to admit of any relief from temperance, he resolutely determined to put an end to its uninterrupted attacks, by an effort of heroism. He had refused all sustenance during four days when his wife Hispulla sent our common friend Geminius to me, with the melancholy news, that Corellius was resolved to die; and that neither her own entreaties nor her daughter's could move him from his purpose; I was the only person left who could reconcile him to life. I ran to his house with the utmost precipitation. As I approached it, I met a second messenger from Hispulla, Julius Atticus, who informed me there was nothing to be hoped for now, even from me, as he seemed more hardened than ever in his purpose. He had said, indeed to his physician, who pressed him to take some nourishment, "'Tis resolved": an expression which, as it raised my admiration of the greatness of his soul, so it does my grief for the loss of him. I keep thinking what a friend, what a man, I am deprived of.That he had reached his sixty-seventh year, an age which even the strongest seldom exceed, I well know; that he is released from a life of continual pain; that he has left his dearest friends behind him, and (what was dearer to him than all these) the state in a prosperous condition: all this I know. Still I cannot forbear to lament him, as if he had been in the prime and vigour of his days; and I lament him (shall I own my weakness?) on my account. And--to confess to you as I did to Calvisius, in the first transport of my grief--I sadly fear, now that I am no longer under his eye, I shall not keep so strict a guard over my conduct. Speak comfort to me then, not that he was old, he was infirm; all this I know: but by supplying me with some reflections that are new and resistless, which I have never heard, never read, anywhere else. For all that I have heard, and all that I have read, occur to me of themselves; but all these are by far too weak to support me under so severe an affliction. Farewell.<b>IX -- To SOCIUS SENECIO</b>
+
+This year has produced a plentiful crop of poets: during the whole month of April scarcely a day has passed on which we have not been entertained with the recital of some poem. It is a pleasure to me to find that a taste for polite literature still exists, and that men of genius do come forward and make themselves known, notwithstanding the lazy attendance they got for their pains. The greater part of the audience sit in the lounging-places, gossip away their time there, and are perpetually sending to enquire whether the author has made his entrance yet, whether he has got through the preface, or whether he has almost finished the piece. Then at length they saunter in with an air of the greatest indifference, nor do they condescend to stay through the recital, but go out before it is over, some slyly and stealthily, others again with perfect freedom and unconcern. And yet our fathers can remember how Claudius Cæsar walking one day in the palace, and hearing a great shouting, enquired the cause: and being informed that Nonianus[11] was reciting a composition of his, went immediately to the place, and agreeably surprised the author with his presence. But now, were one to bespeak the attendance of the idlest man living, and remind him of the appointment ever so often, or ever so long beforehand; either he would not come at all, or if he did would grumble about having "lost a day!" for no other reason but because he had not lost it. So much the more do those authors deserve our encouragement and applause who have resolution to persevere in their studies, and to read out their compositions in spite of this apathy or arrogance on the part of their audience.Myself indeed, I scarcely ever miss being present upon any occasion; though, to tell the truth, the authors have generally been friends of mine, as indeed there are few men of literary tastes who are not. It is this which has kept me in town longer than I had intended. I am now, however, at liberty to go back into the country, and write something myself; which I do not intend reciting, lest I should seem rather to have lent than given my attendance to these recitations of my friends, for in these, as in all other good offices, the obligation ceases the moment you seem to expect a return. Farewell.<b>X -- To JUNSUS MAURICUS</b>
+
+You desire me to look out a proper husband for your niece: it is with justice you enjoin me that office. You know the high esteem and affection I bore that great man her father, and with what noble instructions he nurtured my youth, and taught me to deserve those praises he was pleased to bestow upon me. You could not give me, then, a more important, or more agreeable, commission; nor could I be employed in an office of higher honour, than that of choosing a young man worthy of being father of the grandchildren of Rusticus Arulenus; a choice I should be long in determining, were I not acquainted with Minutius Aemilianus, who seems formed for our purpose. He loves me with all that warmth of affection which is usual between young men of equal years (as indeed I have the advance of him but by a very few), and reveres me at the same time, with all the deference due to age; and, in a word, he is no less desirous to model himself by my instructions than I was by those of yourself and your brother.
+
+He is a native of Brixia, one of those provinces in Italy which still retain much of the old modesty, frugal simplicity, and even rusticity, of manner. He is the son of Minutius Macrinus, whose humble desires were satisfied with standing at the head of the equestrian order: for though he was nominated by Vespasian in the number of those whom that prince dignified with the praetorian office, yet, with an inflexible greatness of mind, he resolutely preferred an honourable repose, to the ambitious, shall I call them, or exalted, pursuits, in which we public men are engaged.His grandmother, on the mother's side, is Serrana Procula, of Patavium:[12] you are no stranger to the character of its citizens; yet Serrana is looked upon, even among these correct people, as an exemplary instance of strict virtue. Acilius, his uncle, is a man of almost exceptional gravity, wisdom, and integrity. In short, you will find nothing throughout his family unworthy of yours. Minutius himself has plenty of vivacity, as well as application, together with a most amiable and becoming modesty. He has already, with considerable credit, passed through the offices of quaestor, tribune, and praetor; so that you will be spared the trouble of soliciting for him those honourable employments. He has a fine, well-bred, countenance, with a ruddy, healthy complexion, while his whole person is elegant and comely and his mien graceful and senatorian: advantages, I think, by no means to be slighted, and which I consider as the proper tribute to virgin innocence. I think I may add that his father is very rich. When I contemplate the character of those who require a husband of my choosing, I know it is unnecessary to mention wealth; but when I reflect upon the prevailing manners of the age, and even the laws of Rome, which rank a man according to his possessions, it certainly claims some regard; and, indeed, in establishments of this nature, where children and many other circumstances are to be duly weighed, it is an article that well deserves to be taken into the account. You will be inclined, perhaps, to suspect that affection has had too great a share in the character I have been drawing, and that I have heightened it beyond the truth: but I will stake all my credit, you will find everything far beyond what I have represented.I love the young fellow indeed (as he justly deserves) with all the warmth of a most ardent affection; but for that very reason I would not ascribe more to his merit than I know it will bear. Farewell.
+
+<b>XI -- To SEPTITIUS CLARUS</b>
+
+Ah! you are a pretty fellow! You make an engagement to come to supper and then never appear. Justice shall be exacted;--you shall reimburse me to the very last penny the expense I went to on your account; no small sum, let me tell you. I had prepared, you must know, a lettuce a-piece, three snails, two eggs, and a barley cake, with some sweet wine and snow, (the snow most certainly I shall charge to your account, as a rarity that will not keep.) Olives, beet-root, gourds, onions, and a thousand other dainties equally sumptuous. You should likewise have been entertained either with an interlude, the rehearsal of a poem, or a piece of music, whichever you preferred; or (such was my liberality) with all three. But the oysters, sows'-bellies, sea-urchins, and dancers from Cadiz of a certain--I know not who, were, it seems, more to your taste. You shall give satisfaction, how, shall at present be a secret.
+
+Oh! you have behaved cruelly, grudging your friend,--had almost said yourself;--and upon second thoughts I do say so;--in this way: for how agreeably should we have spent the evening, in laughing, trifling, and literary amusements! You may sup, I confess, at many places more splendidly; but nowhere with more unconstrained mirth, simplicity, and freedom: only make the experiment, and if you do not ever after excuse yourself to your other friends, to come to me, always put me off to go to them. Farewell.<b>XII -- To SUETONIUS TRANQUILLUS</b>
+
+You tell me in your letter that you are extremely alarmed by a dream; apprehending that it forebodes some ill success to you in the case you have undertaken to defend; and, therefore, desire that I would get it adjourned for a few days, or, at least, to the next. This will be no easy matter, but I will try:
+
+"For dreams descend from Jove."
+
+Meanwhile, it is very material for you to recollect whether your dreams generally represent things as they afterwards fall out, or quite the reverse. But if I may judge of yours by one that happened to myself, this dream that alarms you seems to portend that you will acquit yourself with great success. I had promised to stand counsel for Junius Pastor; when I fancied in my sleep that my mother-in-law came to me, and, throwing herself at my feet, earnestly entreated me not to plead. I was at that time a very young man; the case was to be argued in the four centumviral courts; my adversaries were some of the most important personages in Rome, and particular favourites of Cæsar;[13] any of which circumstances were sufficient, after such an inauspicious dream, to have discouraged me. Notwithstanding this, I engaged in the cause, reflecting that,
+
+"Without a sign, his sword the brave man draws, And asks no omen but his country's cause."‹a href="#linknote-14" name="linknoteref-14" id="linknoteref-14"›[14]‹/a›for I looked upon the promise I had given to be as sacred to me as my country, or, if that were possible, more so. The event happened as I wished; and it was that very case which first procured me the favourable attention of the public, and threw open to me the gates of Fame. Consider then whether your dream, like this one I have related, may not pre-signify success. But, after all, perhaps you will think it safer to pursue this cautious maxim: "Never do a thing concerning the rectitude of which you are in doubt;" if so, write me word. In the interval, I will consider of some excuse, and will so plead your cause that you may be able to plead it your self any day you like best. In this respect, you are in a better situation than I was: the court of the centumviri, where I was to plead, admits of no adjournment: whereas, in that where your case is to be heard, though no easy matter to procure one, still, however, it is possible. Farewell.<b>XIII -- To ROMANUS FIRMUS</b>
+
+As you are my towns-man, my school-fellow, and the earliest companion of my youth; as there was the strictest friendship between my mother and uncle and your father (a happiness which I also enjoyed as far as the great inequality of our ages would admit); can I fail (thus biassed as I am by so many and weighty considerations) to contribute all in my power to the advancement of your honours? The rank you bear in our province, as decurio, is a proof that you are possessed, at least, of an hundred thousand sesterces;[15] but that we may also have the satisfaction of seeing you a Roman Knight,[16] I present you with three hundred thousand, in order to make up the sum requisite to entitle you to that dignity. The long acquaintance we have had leaves me no room to apprehend you will ever be forgetful of this instance of my friendship. And I know your disposition too well to think it necessary to advise you to enjoy this honour with the modesty that becomes a person who receives it from me; for the advanced rank we possess through a friend's kindness is a sort of sacred trust, in which we have his judgment, as well as our own character, to maintain, and therefore to be guarded with the greater caution. Farewell.<b>XIV -- TO CORNELIUS TACITUS</b>
+
+I HAVE frequent debates with a certain acquaintance of mine, a man of skill and learning, who admires nothing so much in the eloquence of the bar as conciseness. I agree with him, that where the case will admit of this precision, it may with propriety be adopted; but insist that, to leave out what is material to be mentioned,--or only briefly and cursorily to touch upon those points which should be inculcated, impressed, and urged well home upon the minds of the audience, is a downright fraud upon one's client. In many cases, to deal with the subject at greater length adds strength and weight to our ideas, which frequently produce their impression upon the mind, as iron does upon solid bodies, rather by repeated strokes than a single blow. In answer to this, he usually has recourse to authorities, and produces Lysias[17] amongst the Grecians, together with Cato and the two Gracchi, among our own countrymen, many of whose speeches certainly are brief and curtailed. In return, I name Demosthenes, Aeschines, Hyperides,[18] and many others, in opposition to Lysias; while I confront Cato and the Gracchi with Cæsar, Pollio,[19] Caelius,[20] but, above all, Cicero, whose longest speech is generally considered his best. Why, no doubt about it, in good compositions, as in everything else that is valuable, the more there is of them, the better. You may observe in statues, basso-relievos, pictures, and the human form, and even in animals and trees, that nothing is more graceful than magnitude, if accompanied with proportion. The same holds true in pleading; and even in books a large volume carries a certain beauty and authority in its very size.My antagonist, who is extremely dexterous at evading an argument, eludes all this, and much more, which I usually urge to the same purpose, by insisting that those very individuals, upon whose works I found my opinion, made considerable additions to their speeches when they published them. This I deny; and appeal to the harangues of numberless orators, particularly to those of Cicero, for Murena and Varenus, in which a short, bare notification of certain charges is expressed under mere heads. Whence it appears that many things which he enlarged upon at the time he delivered those speeches were retrenched when he gave them to the public. The same excellent orator informs us that, agreeably to the ancient custom, which allowed only of one counsel on a side, Cluentius had no other advocate than himself; and he tells us further that he employed four whole days in defence of Cornelius; by which it plainly appears that those speeches which, when delivered at their full length, had necessarily taken up so much time at the bar were considerably cut down and pruned when he afterwards compressed them into a single volume, though, I must confess, indeed, a large one. But good pleading, it is objected, is one thing, just composition another. This objection, I am aware, has had some favourers; nevertheless, I am persuaded (though I may, perhaps, be mistaken) that, as it is possible you may have a good pleading which is not a good speech, so a good speech cannot be a bad pleading; for the speech on paper is the model and, as it were, the archetype of the speech that was delivered. It is for this reason we find, in many of the best speeches extant, numberless extemporaneous turns of expression; and even in those which we are sure were never spoken; as, for instance, in the following passage from the speech against Verres: --"A certain mechanic--what's his name?Oh, thank you for helping me to it: yes, I mean Polyclitus." It follows, then, that the nearer approach a speaker makes to the rules of just composition, the more perfect will he be in his art; always supposing, however, that he has his due share of time allowed him; for, if he be limited of that article, no blame can justly be fixed upon the advocate, though much certainly upon the judge. The sense of the laws, I am sure, is on my side, which are by no means sparing of the orator's time; it is not conciseness, but fulness, a complete representation of every material circumstance, which they recommend. Now conciseness cannot effect this, unless in the most insignificant cases. Let me add what experience, that unerring guide, has taught me: it has frequently been my province to act both as an advocate and a judge; and I have often also attended as an assessor.[21] Upon those occasions, I have ever found the judgments of mankind are to be influenced by different modes of application, and that the slightest circumstances frequently produce the most important consequences. The dispositions and understandings of men vary to such an extent that they seldom agree in their opinions concerning any one point in debate before them; or, if they do, it is generally from different motives. Besides, as every man is naturally partial to his own discoveries, when he hears an argument urged which had previously occurred to himself, he will be sure to embrace it as extremely convincing. The orator, therefore, should so adapt himself to his audience as to throw out something which every one of them, in turn, may receive and approve as agreeable to his own particular views.I recollect, once when Regulus and I were engaged on the same side, his remarking to me, "You seem to think it necessary to go into every single circumstance: whereas I always take aim at once at my adversary's throat, and there I press him closely." ('Tis true, he keeps a tight hold of whatever part he has once fixed upon; but the misfortune is, he is extremely apt to fix upon the wrong place.) I replied, it might possibly happen that what he called the throat was, in reality, the knee or the ankle. As for myself, said I, who do not pretend to direct my aim with so much precision, I test every part, I probe every opening; in short, to use a vulgar proverb, I leave no stone unturned. And as in agriculture, it is not my vineyards or my woods only, but my fields as well, that I look after and cultivate, and (to carry on the metaphor) as I do not content myself with sowing those fields simply with corn or white wheat, but sprinkle in barley, pulse, and the other kinds of grain; so, in my pleadings at the bar, I scatter broadcast various arguments like so many kinds of seed, in order to reap whatever may happen to come up. For the disposition of your judges is as hard to fathom as uncertain, and as little to be relied on as that of soils and seasons. The comic writer Eupolis,[22] I remember, mentions it in praise of that excellent orator Pericles, that
+
+"On his lips Persuasion hung, And powerful Reason rul'd his tongue: Thus he alone could boast the art To charm at once, and pierce the heart."[23] But could Pericles, without the richest variety of expression, and merely by the force of the concise or the rapid style, or both (for they are very different), have thus charmed and pierced the heart. To delight and to persuade requires time and great command of language; and to leave a sting in the minds of the audience is an effect not to be expected from an orator who merely pinks, but from him, and him only, who thrusts in. Another comic poet,[24] speaking of the same orator, says:
+
+"His mighty words like Jove's own thunder roll; Greece hears, and trembles to her inmost soul."
+
+But it is not the close and reserved; it is the copious, the majestic, and the sublime orator, who thunders, who lightens, who, in short, bears all before him in a confused whirl. There is, undeniably, a just mean in everything; but he equally misses the mark who falls short of it, as he who goes beyond it; he who is too limited as he who is too unrestrained. Hence it is as common a thing to hear our orators condemned for being too jejune and feeble as too excessive and redundant. One is said to have exceeded the bounds of his subject, the other not to have reached them. Both, no doubt, are equally in fault, with this difference, however, that in the one the fault arises from an abundance, in the other, from a deficiency; an error, in the former case, which, if it be not the sign of a more correct, is certainly of a more fertile genius. When I say this, I would not be understood to approve that everlasting talker[25] mentioned in Homer, but that other' described in the following lines:"Frequent and soft, as falls the winter snow, Thus from his lips the copious periods flow."
+
+Not but that I extremely admire him,[26] too, of whom the poet says,
+
+"Few were his words, but wonderfully strong."
+
+Yet, if the choice were given me, I should give the preference to that style resembling winter snow, that is, to the full, uninterrupted, and diffusive; in short, to that pomp of eloquence which seems all heavenly and divine. But (it is replied) the harangue of a more moderate length is most generally admired. It is:--but only by indolent people; and to fix the standard by their laziness and false delicacy would be simply ridiculous. Were you to consult persons of this cast, they would tell you, not only that it is best to say little, but that it is best to say nothing at all. Thus, my friend, I have laid before you my opinions upon this subject, and I am willing to change them if not agreeable to yours. But should you disagree with me, pray let me know clearly your reasons why. For, though I ought to yield in this case to your more enlightened judgment, yet, in a point of such consequence, I had rather be convinced by argument than by authority. So if I don't seem to you very wide of the mark, a line or two from you in return, intimating your concurrence, will be sufficient to confirm me in my opinion: on the other hand, if you should think me mistaken, let me have your objections at full length. Does it not look rather like bribery, my requiring only a short letter, if you agree with me; but a very long one if you should be of a different opinion. Farewell.<b>XV -- To PATERNUS</b>
+
+As I rely very much upon the soundness of your judgment, so I do upon the goodness of your eyes: not because I think your discernment very great (for I don't want to make you conceited), but because I think it as good as mine: which, it must be confessed, is saying a great deal. Joking apart, I like the look of the slaves which were purchased for me on your recommendation very well; all I further care about is, that they be honest: and for this I must depend upon their characters more than their countenances. Farewell.<b>XVI -- To CATILIUS SEVERUS [27]</b>
+
+I AM at present (and have been a considerable time) detained in Rome, under the most stunning apprehensions. Titus Aristo,[28] whom I have a singular admiration and affection for, is fallen into a long and obstinate illness, which troubles me. Virtue, knowledge, and good sense, shine out with so superior a lustre in this excellent man that learning herself, and every valuable endowment, seem involved in the danger of his single person. How consummate his knowledge, both in the political and civil laws of his country! How thoroughly conversant is he in every branch of history or antiquity? In a word, there is nothing you might wish to know which he could not teach you. As for me, whenever I would acquaint myself with any abstruse point, I go to him as my store-house. What an engaging sincerity, what dignity in his conversation! how chastened and becoming is his caution! Though he conceives, at once, every point in debate, yet he is as slow to decide as he is quick to apprehend; calmly and deliberately sifting and weighing every opposite reason that is offered, and tracing it, with a most judicious penetration, from its source through all its remotest consequences. His diet is frugal, his dress plain; and whenever I enter his chamber, and view him reclined upon his couch, I consider the scene before me as a true image of ancient simplicity, to which his illustrious mind reflects the noblest ornament. He places no part of his happiness in ostentation, but in the secret approbation of his conscience, seeking the reward of his virtue, not in the clamorous applauses of the world, but in the silent satisfaction which results from having acted well. In short, you will not easily find his equal, even among our philosophers by outward profession.No, he does not frequent the gymnasia or porticoes[29] nor does he amuse his own and others' leisure with endless controversies, but busies himself in the scenes of civil and active life. Many has he assisted with his interest, still more with his advice, and withal in the practice of temperance, piety, justice, and fortitude, he has no superior. You would be astonished, were you there to see, at the patience with which he bears his illness, how he holds out against pain, endures thirst, and quietly submits to this raging fever and to the pressure of those clothes which are laid upon him to promote perspiration. He lately called me and a few more of his particular friends to his bedside, requesting us to ask his physicians what turn they apprehended his distemper would take; that, if they pronounced it incurable, he might voluntarily put an end to his life; but if there were hopes of a recovery, how tedious and difficult soever it might prove, he would calmly wait the event; for so much, he thought, was due to the tears and entreaties of his wife and daughter, and to the affectionate intercession of his friends, as not voluntarily to abandon our hopes, if they were not entirely desperate. A true hero's resolution this, in my estimation, and worthy the highest applause. Instances are frequent in the world, of rushing into the arms of death without reflection and by a sort of blind impulse but deliberately to weigh the reasons for life or death, and to be determined in our choice as either side of the scale prevails, shows a great mind. We have had the satisfaction to receive the opinion of his physicians in his favour: may heaven favour their promises and relieve me at length from this painful anxiety. Once easy in my mind, I shall go back to my favourite Laurentum, or, in other words, to my books, my papers and studious leisure.Just now, so much of my time and thoughts are taken up in attendance upon my friend, and anxiety for him, that I have neither leisure nor inclination for any reading or writing whatever. Thus you have my fears, my wishes, and my after-plans. Write me in return, but in a gayer strain, an account not only of what you are and have been doing, but of what you intend doing too. It will be a very sensible consolation to me in this disturbance of mind, to be assured that yours is easy. Farewell.<b>XVII -- To VOCONIUS ROMANUS</b>
+
+ROME has not for many years beheld a more magnificent and memorable spectacle than was lately exhibited in the public funeral of that great, illustrious, and no less fortunate man, Verginius Rufus. He lived thirty years after he had reached the zenith of his fame. He read poems composed in his honour, he read histories of his achievements, and was himself witness of his fame among posterity. He was thrice raised to the dignity of consul, that he might at least be the highest of subjects, who[30] had refused to be the first of princes. As he escaped the resentment of those emperors to whom his virtues had given umbrage and even rendered him odious, and ended his days when this best of princes, this friend of mankind[31] was in quiet possession of the empire, it seems as if Providence had purposely preserved him to these times, that he might receive the honour of a public funeral. He reached his eighty- fourth year, in full tranquillity and universally revered, having enjoyed strong health during his lifetime, with the exception of a trembling in his hands, which, however, gave him no pain. His last illness, indeed, was severe and tedious, but even that circumstance added to his reputation. As he was practising his voice with a view of returning his public acknowledgements to the emperor, who had promoted him to the consulship, a large volume he had taken into his hand, and which happened to be too heavy for so old a man to hold standing up, slid from his grasp. In hastily endeavouring to recover it, his foot slipped on the smooth pavement, and he fell down and broke his thigh- bone, which being clumsily set, his age as well being against him, did not properly unite again. The funeral obsequies paid to the memory of this great man have done honour to the emperor, to the age, and to the bar.The consul Cornelius Tacitus[32] pronounced his funeral oration and thus his good fortune was crowned by the public applause of so eloquent an orator. He has departed from our midst, full of years, indeed, and of glory; as illustrious by the honours he refused as by those he accepted. Yet still we shall miss him and lament him, as the shining model of a past age; I, especially, shall feel his loss, for I not only admired him as a patriot, but loved him as a friend. We were of the same province, and of neighbouring towns, and our estates were also contiguous. Besides these accidental connections, he was left my guardian, and always treated me with a parent's affection. Whenever I offered myself as a candidate for any office in the state, he constantly supported me with his interest; and although he had long since given up all such services to friends, he would kindly leave his retirement and come to give me his vote in person. On the day on which the priests nominate those they consider most worthy of the sacred office[33] he constantly proposed me. Even in his last illness, apprehending the possibility of the senate's appointing him one of the five commissioners for reducing the public expenses, he fixed upon me, young as I am, to bear his excuses, in preference to so many other friends, elderly men too, and of consular rank and said to me, "Had I a son of my own, I would entrust you with this matter." And so I cannot but lament his death, as though it were premature, and pour out my grief into your bosom; if indeed one has any right to grieve, or to call it death at all, which to such a man terminates his mortality, rather than ends his life. He lives, and will live on for ever; and his fame will extend and be more celebrated by posterity, now that he is gone from our sight. I had much else to write to you but my mind is full of this.I keep thinking of Verginius: I see him before me: I am for ever fondly yet vividly imagining that I hear him, am speaking to him, embrace him. There are men amongst us, his fellow-citizens, perhaps, who may rival him in virtue; but not one that will ever approach him in glory. Farewell.<b>XVIII -- To NEPOS</b>
+
+THE great fame of Isaeus had already preceded him here; but we find him even more wonderful than we had heard. He possesses the utmost readiness, copiousness, and abundance of language: he always speaks extempore, and his lectures are as finished as though he had spent a long time over their written composition. His style is Greek, or rather the genuine Attic. His exordiums are terse, elegant, attractive, and occasionally impressive and majestic. He suggests several subjects for discussion, allows his audience their choice, sometimes to even name which side he shall take, rises, arranges himself, and begins. At once he has everything almost equally at command. Recondite meanings of things are suggested to you, and words--what words they are! exquisitely chosen and polished. These extempore speeches of his show the wideness of his reading, and how much practice he has had in composition. His preface is to the point, his narrative lucid, his summing up forcible, his rhetorical ornament imposing. In a word, he teaches, entertains, and affects you; and you are at a loss to decide which of the three he does best. His reflections are frequent, his syllogisms also are frequent, condensed, and carefully finished, a result not easily attainable even with the pen. As for his memory, you would hardly believe what it is capable of. He repeats from a long way back what he has previously delivered extempore, without missing a single word. This marvellous faculty he has acquired by dint of great application and practice, for night and day he does nothing, hears nothing, says nothing else. He has passed his sixtieth year and is still only a rhetorician, and I know no class of men more single-hearted, more genuine, more excellent than this class.We who have to go through the rough work of the bar and of real disputes unavoidably contract a certain unprincipled adroitness. The school, the lecture-room, the imaginary case, all this, on the other hand, is perfectly innocent and harmless, and equally enjoyable, especially to old people, for what can be happier at that time of life than to enjoy what we found pleasantest in our young days? I consider Isaeus then, not only the most eloquent, but the happiest, of men, and if you are not longing to make his acquaintance, you must be made of stone and iron. So, if not upon my account, or for any other reason, come, for the sake of hearing this man, at least. Have you never read of a certain inhabitant of Cadiz who was so impressed with the name and fame of Livy that he came from the remotest corner of the earth on purpose to see him, and, his curiosity gratified, went straight home again. It is utter want of taste, shows simple ignorance, is almost an actual disgrace to a man, not to set any high value upon a proficiency in so pleasing, noble, refining a science. "I have authors," you will reply, "here in my own study, just as eloquent." True: but then those authors you can read at any time, while you cannot always get the opportunity of hearing eloquence. Besides, as the proverb says, "The living voice is that which sways the soul;" yes, far more. For notwithstanding what one reads is more clearly understood than what one hears, yet the utterance, countenance, garb, aye and the very gestures of the speaker, alike concur in fixing an impression upon the mind; that is, unless we disbelieve the truth of Aeschines' statement, who, after he had read to the Rhodians that celebrated speech of Demosthenes, upon their expressing their admiration of it, is said to have added, "Ah! what would you have said, could you have heard the wild beast himself?"And Aeschines, if we may take Demosthenes' word for it, was no mean elocutionist; yet, he could not but confess that the speech would have sounded far finer from the lips of its author. I am saying all this with a view to persuading you to hear Isaeus, if even for the mere sake of being able to say you have heard him. Farewell.<b>XIX -- To AVITUS</b>
+
+IT would be a long story, and of no great importance, to tell you by what accident I found myself dining the other day with an individual with whom I am by no means intimate, and who, in his own opinion, does things in good style and economically as well, but according to mine, with meanness and extravagance combined. Some very elegant dishes were served up to himself and a few more of us, whilst those placed before the rest of the company consisted simply of cheap dishes and scraps. There were, in small bottles, three different kinds of wine; not that the guest might take their choice, but that they might not have any option in their power; one kind being for himself, and for us; another sort for his lesser friends (for it seems he has degrees of friends), and the third for his own freedmen and ours. My neighbour,[34] reclining next me, observing this, asked me if I approved the arrangement. Not at all, I told him. "Pray then," he asked, "what is your method upon such occasions?" "Mine," I returned, "is to give all my visitors the same reception; for when I give an invitation, it is to entertain, not distinguish, my company: I place every man upon my own level whom I admit to my table." "Not excepting even your freedmen?" "Not excepting even my freedmen, whom I consider on these occasions my guests, as much as any of the rest." He replied, "This must cost you a great deal." "Not in the least." "How can that be?" "Simply because, although my freedmen don't drink the same wine as myself, yet I drink the same as they do." And, no doubt about it, if a man is wise enough to moderate his appetite, he will not find it such a very expensive thing to share with all his visitors what he takes himself. Restrain it, keep it in, if you wish to be true economist.You will find temperance a far better way of saving than treating other people rudely can be. Why do I say all this? Why, for fear a young man of your high character and promise should be imposed upon by this immoderate luxury which prevails at some tables, under the specious notion of frugality. Whenever any folly of this sort falls under my eye, I shall, just because I care for you, point it out to you as an example you ought to shun. Remember, then, nothing is more to be avoided than this modern alliance of luxury with meanness; odious enough when existing separate and distinct, but still more hateful where you meet with them together. Farewell.<b>XX -- To MACRINUS</b>
+
+THE senate decreed yesterday, on the emperor's motion, a triumphal statue to Vestricius Spurinna: not as they would to many others, who never were in action, or saw a camp, or heard the sound of a trumpet, unless at a show; but as it would be decreed to those who have justly bought such a distinction with their blood, their exertions, and their deeds. Spurinna forcibly restored the king of the Bructeri[35] to his throne; and this by the noblest kind of victory; for he subdued that warlike people by the terror of the mere display of his preparation for the campaign. This is his reward as a hero, while, to console him for the loss of his son Cottius, who died during his absence upon that expedition, they also voted a statue to the youth; a very unusual honour for one so young; but the services of the father deserved that the pain of so severe a wound should be soothed by no common balm. Indeed Cottius himself evinced such remarkable promise of the highest qualities that it is but fitting his short limited term of life should be extended, as it were, by this kind of immortality. He was so pure and blameless, so full of dignity, and commanded such respect, that he might have challenged in moral goodness much older men, with whom he now shares equal honours. Honours, if I am not mistaken, conferred not only to perpetuate the memory of the deceased youth, and in consolation to the surviving father, but for the sake of public example also.This will rouse and stimulate our young men to cultivate every worthy principle, when they see such rewards bestowed upon one of their own years, provided he deserve them: at the same time that men of quality will be encouraged to beget children and to have the joy and satisfaction of leaving a worthy race behind, if their children survive them, or of so glorious a consolation, should they survive their children. Looking at it in this light then, I am glad, upon public grounds, that a statue is decreed Cottius: and for my own sake too, just as much; for I loved this most favoured, gifted, youth, as ardently as I now grievously miss him amongst us. So that it will be a great satisfaction to me to be able to look at this figure from time to time as I pass by, contemplate it, stand underneath, and walk to and fro before it. For if having the pictures of the departed placed in our homes lightens sorrow, how much more those public representations of them which are not only memorials of their air and countenance, but of their glory and honour besides? Farewell.<b>XXI To PAISCUS</b>
+
+As I know you eagerly embrace every opportunity of obliging me, so there is no man whom I had rather be under an obligation to. I apply to you, therefore, in preference to anyone else, for a favour which I am extremely desirous of obtaining. You, who are commander-in-chief of a very considerable army, have many opportunities of exercising your generosity; and the length of time you have enjoyed that post must have enabled you to provide for all your own friends. I hope you will now turn your eyes upon some of mine: as indeed they are but a few Your generous disposition, I know, would be better pleased if the number were greater, but one or two will suffice my modest desires; at present I will only mention Voconius Romanus. His father was of great distinction among the Roman knights, and his father-in-law, or, I might more properly call him, his second father, (for his affectionate treatment of Voconius entitles him to that appellation) was still more conspicuous. His mother was one of the most considerable ladies of Upper Spain: you know what character the people of that province bear, and how remarkable they are for their strictness of their manners. As for himself, he lately held the post of flamen.[36] Now, from the time when we were first students together, I have felt very tenderly attached to him. We lived under the same roof, in town and country, we joked together, we shared each other's serious thoughts: for where indeed could I have found a truer friend or pleasanter companion than he? In his conversation, and even in his very voice and countenance, there is a rare sweetness; as at the bar he displays talents of a high order; acuteness, elegance, ease, and skill: and he writes such letters too that were you to read them you would imagine they had been dictated by the Muses themselves.I have a very great affection for him, as he has for me. Even in the earlier part of our lives, I warmly embraced every opportunity of doing him all the good services which then lay in my power, as I have lately obtained for him from our most gracious prince[37] the privilege[38] granted to those who have three children: a favour which, though Cæsar very rarely bestows, and always with great caution, yet he conferred, at my request, in such a matter as to give it the air and grace of being his own choice.
+
+The best way of showing that I think he deserves the kindnesses he has already received from me is by increasing them, especially as he always accepts my services so gratefully as to deserve more. Thus I have shown you what manner of man Romanus is, how thoroughly I have proved his worth, and how much I love him. Let me entreat you to honour him with your patronage in a way suitable to the generosity of your heart, and the eminence of your station. But above all let him have your affection; for though you were to confer upon him the utmost you have in your power to bestow, you can give him nothing more valuable than your friendship- That you may see he is worthy of it, even to the closest degree of intimacy, I send you this brief sketch of his tastes, character, his whole life, in fact. I should continue my intercessions in his behalf, but that I know you prefer not being pressed, and I have already repeated them in every line of this letter: for, to show a good reason for what one asks is true intercession, and of the most effectual kind. Farewell.<b>XXII -- To MAIMUS</b>
+
+You guessed correctly: I am much engaged in pleading before the Hundred. The business there is more fatiguing than pleasant. Trifling, inconsiderable cases, mostly; it is very seldom that anything worth speaking of, either from the importance of the question or the rank of the persons concerned, comes before them. There are very few lawyers either whom I take any pleasure in working with. The rest, a parcel of impudent young fellows, many of whom one knows nothing whatever about, come here to get some practice in speaking, and conduct themselves so forwardly and with such utter want of deference that my friend Attilius exactly hit it, I think, when he made the observation that "boys set out at the bar with cases in the Court of the Hundred as they do at school with Homer," intimating that at both places they begin where they should end. But in former times (so my elders tell me) no youth, even of the best families, was allowed in unless introduced by some person of consular dignity. As things are now, since every fence of modesty and decorum is broken down, and all distinctions are levelled and confounded, the present young generation, so far from waiting to be introduced, break in of their own free will. The audience at their heels are fit attendants upon such orators; a low rabble of hired mercenaries, supplied by contract. They get together in the middle of the court, where the dole is dealt round to them as openly as if they were in a dining-room: and at this noble price they run from court to court. The Greeks have an appropriate name in their language for this sort of people, importing that they are applauders by profession, and we stigmatize them with the opprobrious title of table-flatterers: yet the dirty business alluded to increases every day.It was only yesterday two of my domestic officers, mere striplings, were hired to cheer somebody or other, at three denarii apiece:[39] that is what the highest eloquence goes for. Upon these terms we fill as many benches as we please, and gather a crowd; this is how those rending shouts are raised, as soon as the individual standing up in the middle of the ring gives the signal. For, you must know, these honest fellows, who understand nothing of what is said, or, if they did, could not hear it, would be at a loss without a signal, how to time their applause: for many of them don't hear a syllable, and are as noisy as any of the rest. If, at any time, you should happen to be passing by when the court is sitting, and feel at all interested to know how any speaker is acquitting himself, you have no occasion to give yourself the trouble of getting up on the judge's platform, no need to listen; it is easy enough to find out, for you may be quite sure he that gets most applause deserves it the least. Largius Licinus was the first to introduce this fashion; but then he went no farther than to go round and solicit an audience. I know, I remember hearing this from my tutor Quinctilian. "I used," he told me, "to go and hear Domitius Afer, and as he was pleading once before the Hundred in his usual slow and impressive manner, hearing, close to him, a most immoderate and unusual noise, and being a good deal surprised at this, he left off: the noise ceased, and he began again: he was interrupted a second time, and a third. At last he enquired who it was that was speaking? He was told, Licinus. Upon which, he broke off the case, exclaiming, 'Eloquence is no more!'" The truth is it had only begun to decline then, when in Afer's opinion it no longer existed -- whereas now it is almost extinct.I am ashamed to tell you of the mincing and affected pronunciation of the speakers, and of the shrill- voiced applause with which their effusions are received; nothing seems wanting to complete this sing-song performance except claps, or rather cymbals and tambourines. Howlings indeed (for I can call such applause, which would be indecent even in the theatre, by no other name) abound in plenty. Up to this time the interest of my friends and the consideration of my early time of life have kept me in this court, as I am afraid they might think I was doing it to shirk work rather than to avoid these indecencies, were I to leave it just yet: however, I go there less frequently than I did, and am thus effecting a gradual retreat. Farewell.<b>XXIII -- To GALLUS</b>
+
+You are surprised that I am so fond of my Laurentine, or (if you prefer the name) my Laurens: but you will cease to wonder when I acquaint you with the beauty of the villa, the advantages of its situation, and the extensive view of the sea-coast. It is only seventeen miles from Rome: so that when I have finished my business in town, I can pass my evenings here after a good satisfactory day's work. There are two different roads to it: if you go by that of Laurentum, you must turn off at the fourteenth mile-stone; if by Astia, at the eleventh. Both of them are sandy in places, which makes it a little heavier and longer by carriage, but short and easy on horseback. The landscape affords plenty of variety, the view in some places being closed in by woods, in others extending over broad meadows, where numerous flocks of sheep and herds of cattle, which the severity of the winter has driven from the mountains, fatten in the spring warmth, and on the rich pasturage. My villa is of a convenient size without being expensive to keep up. The courtyard in front is plain, but not mean, through which you enter porticoes shaped into the form of the letter D, enclosing a small but cheerful area between. These make a capital retreat for bad weather, not only as they are shut in with windows, but particularly as they are sheltered by a projection of the roof. From the middle of these porticoes you pass into a bright pleasant inner court, and out of that into a handsome hall running out towards the sea-shore; so that when there is a south-west breeze, it is gently washed with the waves, which spend themselves at its base.On every side of this hall there are either folding-doors or windows equally large, by which means you have a view from the front and the two sides of three different seas, as it were: from the back you see the middle court, the portico, and the area; and from another point you look through the portico into the courtyard, and out upon the woods and distant mountains beyond. On the left hand of this hall, a little farther from the sea, lies a large drawing-room, and beyond that, a second of a smaller size, which has one window to the rising and another to the setting sun: this as well has a view of the sea, but more distant and agreeable. The angle formed by the projection of the dining-room with this drawing-room retains and intensifies the warmth of the sun, and this forms our winter quarters and family gymnasium, which is sheltered from all the winds except those which bring on clouds, but the clear sky comes out again before the warmth has gone out of the place. Adjoining this angle is a room forming the segment of a circle, the windows of which are so arranged as to get the sun all through the day: in the walls are contrived a sort of cases, containing a collection of authors who can never be read too often. Next to this is a bed-room, connected with it by a raised passage furnished with pipes, which supply, at a wholesome temperature, and distribute to all parts of this room, the heat they receive. The rest of this side of the house is appropriated to the use of my slaves and freedmen; but most of the rooms in it are respectable enough to put my guests into. In the opposite wing is a most elegant, tastefully fitted up bed-room; next to which lies another, which you may call either a large bed-room or a modified dining-room; it is very warm and light, not only from the direct rays of the sun, but by their reflection from the sea.Beyond this is a bed-room with an ante-room, the height of which renders it cool in summer, its thick walls warm in winter, for it is sheltered, every way from the winds. To this apartment another anteroom is joined by one common wall. From thence you enter into the wide and spacious cooling-room belonging to the bath, from the opposite walls of which two curved basins are thrown out, so to speak; which are more than large enough if you consider that the sea is close at hand. Adjacent to this is the anointing-room, then the sweating-room, and beyond that the bath- heating room: adjoining are two other little bath-rooms, elegantly rather than sumptuously fitted up: annexed to them is a warm bath of wonderful construction, in which one can swim and take a view of the sea at the same time. Not far from this stands the tennis-court, which lies open to the warmth of the afternoon sun. From thence you go up a sort of turret which has two rooms below, with the same number above, besides a dining-room commanding a very extensive look-out on to the sea, the coast, and the beautiful villas scattered along the shore line. At the other end is a second turret, containing a room that gets the rising and setting sun. Behind this is a large store-room and granary, and underneath, a spacious dining-room, where only the murmur and break of the sea can be heard, even in a storm: it looks out upon the garden, and the gestatio,[40] running round the garden. The gestatio is bordered round with box, and, where that is decayed, with rosemary: for the box, wherever sheltered by the buildings, grows plentifully, but where it lies open and exposed to the weather and spray from the sea, though at some distance from the latter, it quite withers up.Next the gestatio, and running along inside it, is a shady vine plantation, the path of which is so soft and easy to the tread that you may walk bare-foot upon it. The garden is chiefly planted with fig and mulberry trees, to which this soil is as favourable as it is averse from all others. Here is a dining-room, which, though it stands away from the sea enjoys the garden view which is just as pleasant: two apartments run round the back part of it, the windows of which look out upon the entrance of the villa, and into a fine kitchen-garden. From here extends an enclosed portico which, from its great length, you might take for a public one. It has a range of windows on either side, but more on the side facing the sea, and fewer on the garden side, and these, single windows and alternate with the opposite rows. In calm, clear, weather these are all thrown open; but if it blows, those on the weather side are closed, whilst those away from the wind can remain open without any inconvenience. Before this enclosed portico lies a terrace fragrant with the scent of violets, and warmed by the reflection of the sun from the portico, which, while it retains the rays, keeps away the north-east wind; and it is as warm on this side as it is cool on the side opposite: in the same way it is a protection against the wind from the south-west; and thus, in short, by means of its several sides, breaks the force of the winds, from whatever quarter they may blow. These are some of its winter advantages, they are still more appreciable in the summer time; for at that season it throws a shade upon the terrace during the whole of the forenoon, and upon the adjoining portion of the gestatio and garden in the afternoon, casting a greater or less shade on this side or on that as the day increases or decreases.But the portico itself is coolest just at the time when the sun is at its hottest, that is, when the rays fall directly upon the roof. Also, by opening the windows you let in the western breezes in a free current, which prevents the place getting oppressive with close and stagnant air. At the upper end of the terrace and portico stands a detached garden building, which I call my favourite; my favourite indeed, as I put it up myself. It contains a very warm winter-room, one side of which looks down upon the terrace, while the other has a view of the sea, and both lie exposed to the sun. The bed-room opens on to the covered portico by means of folding-doors, while its window looks out upon the sea. On that side next the sea, and facing the middle wall, is formed a very elegant little recess, which, by means of transparent[41] windows, and a curtain drawn to or aside, can be made part of the adjoining room, or separated from it. It contains a couch and two chairs: as you lie upon this couch, from where your feet are you get a peep of the sea; looking behind you see the neighbouring villas, and from the head you have a view of the woods: these three views may be seen either separately, from so many different windows, or blended together in one. Adjoining this is a bed-room, which neither the servants' voices, the murmuring of the sea, the glare of lightning, nor daylight itself can penetrate, unless you open the windows. This profound tranquillity and seclusion are occasioned by a passage separating the wall of this room from that of the garden, and thus, by means of this intervening space, every noise is drowned. Annexed to this is a tiny stove-room, which, by opening or shutting a little aperture, lets out or retains the heat from underneath, according as you require.Beyond this lie a bed-room and ante-room, which enjoy the sun, though obliquely indeed, from the time it rises, till the afternoon. When I retire to this garden summer-house, I fancy myself a hundred miles away from my villa, and take especial pleasure in it at the feast of the Saturnalia,[42] when, by the licence of that festive season, every other part of my house resounds with my servants' mirth: thus I neither interrupt their amusement nor they my studies. Amongst the pleasures and conveniences of this situation, there is one drawback, and that is, the want of running water; but then there are wells about the place, or rather springs, for they lie close to the surface. And, altogether, the quality of this coast is remarkable; for dig where you may, you meet, upon the first turning up of the ground, with a spring of water, quite pure, not in the least salt, although so near the sea. The neighbouring woods supply us with all the fuel we require, the other necessaries Ostia furnishes. Indeed, to a moderate man, even the village (between which and my house there is only one villa) would supply all ordinary requirements. It has three public baths, which are a great convenience if it happen that friends come in unexpectedly, or make too short a stay to allow time in preparing my own. The whole coast is very pleasantly sprinkled with villas either in rows or detached, which whether looking at them from the sea or the shore, present the appearance of so many different cities. The strand is, sometimes, after a long calm, perfectly smooth, though, in general, through the storms driving the waves upon it, it is rough and uneven.I cannot boast that our sea is plentiful in choice fish; however, it supplies us with capital soles and prawns; but as to other kinds of provisions, my villa aspires to excel even inland countries, particularly in milk: for the cattle come up there from the meadows in large numbers, in pursuit of water and shade. Tell me, now, have I not good reason for living in, staying in, loving, such a retreat, which, if you feel no appetite for, you must be morbidly attached to town? And I only wish you would feel inclined to come down to it, that to so many charms with which my little villa abounds, it might have the very considerable addition of your company to recommend it. Farewell.<b>XXIV -- To CEREALIS</b>
+
+You advise me to read my late speech before an assemblage of my friends. I shall do so, as you advise it, though I have strong scruples. Compositions of this sort lose, I well know, all their force and fire, and even their very name almost, by a mere recital. It is the solemnity of the tribunal, the concourse of advocates, the suspense of the event, the fame of the several pleaders concerned, the different parties formed amongst the audience; add to this the gestures, the pacing, aye the actual running, to and fro, of the speaker, the body working[43] in harmony with every inward emotion, that conspire to give a spirit and a grace to what he delivers. This is the reason that those who plead sitting, though they retain most of the advantages possessed by those who stand up to plead, weaken the whole force of their oratory. The eyes and hands of the reader, those important instruments of graceful elocution, being engaged, it is no wonder that the attention of the audience droops, without anything extrinsic to keep it up, no allurements of gesture to attract, no smart, stinging impromptus to enliven. To these general considerations I must add this particular disadvantage which attends the speech in question, that it is of the argumentative kind; and it is natural for an author to infer that what he wrote with labour will not be read with pleasure. For who is there so unprejudiced as not to prefer the attractive and sonorous to the sombre and unornamented in style? It is very unreasonable that there should be any distinction; however, it is certain the judges generally expect one style of pleading, and the audience another; whereas an auditor ought to be affected only by those parts which would especially strike him, were he in the place of the judge.Nevertheless it is possible the objections which lie against this piece may be surmounted in consideration of the novelty it has to recommend it: the novelty I mean with respect to us; for the Greek orators have a method of reasoning upon a different occasion, not altogether unlike that which I have employed. They, when they would throw out a law, as contrary to some former one unrepealed, argue by comparing those together; so I, on the contrary, endeavour to prove that the crime, which I was insisting upon as falling within the intent and meaning of the law relating to public extortions, was agreeable, not only to that law, but likewise to other laws of the same nature. Those who are ignorant of the jurisprudence of their country can have no taste for reasonings of this kind, but those who are not ought to be proportionably the more favourable in the judgments they pass upon them. I shall endeavour, therefore, if you persist in my reciting it, to collect as learned an audience as I can. But before you determine this point, do weigh impartially the different considerations I have laid before you, and then decide as reason shall direct; for it is reason that must justify you; obedience to your commands will be a sufficient apology for me. Farewell.

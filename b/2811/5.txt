@@ -1,0 +1,332 @@
+HOLB1	2811	5	400	30	430	150
+20	Letters Gaius Plinius Caecilius Secundus
+20	I -- To SEPTITTUS
+21	II -- To ARRIANUS
+22	III -- To VOCONIUS ROMANUS
+26	IV -- To CORNELIUS TACITUS
+27	V -- To POMPEIUS SATURNINUS
+31	VI -- To ATRIUS CLEMENS
+34	VII -- To FABIUS JUSTUS
+35	VIII -- To CALESTRIUS TIRO
+38	IX -- To SOCIUS SENECIO
+40	X -- To JUNSUS MAURICUS
+42	XI -- To SEPTITIUS CLARUS
+43	XII -- To SUETONIUS TRANQUILLUS
+45	XIII -- To ROMANUS FIRMUS
+46	XIV -- To Cornelius Tacitus
+52	XV -- To PATERNUS
+53	XVI -- To CATILIUS SEVERUS [27]
+56	XVII -- To VOCONIUS ROMANUS
+59	XVIII -- To NEPOS
+62	XIX -- To AVITUS
+64	XX -- To MACRINUS
+66	XXI -- To PAISCUS
+68	XXII -- To MAIMUS
+71	XXIII -- To GALLUS
+78	XXIV -- To CEREALIS
+80	XXV -- To CALVISIUS
+83	XXVI -- To CALVISIUS
+86	XXVII -- To BAEBIUS MACER
+90	XXVIII -- To ANNIUS SEVERUS
+92	XXIX -- To CANINIUS RUFUS
+95	XXX -- To SPURINNA AND COTTIA[53]
+97	XXXI -- To JULIUS GENITOR
+99	XXXII -- To CATILIUS SEVERUS
+100	XXXIII -- To ACILIUS
+102	XXXIV -- To NEPOS
+105	XXXV -- To SEVERUS
+108	XXXVI -- To CALVISIUS RUFUS
+110	XXXVII -- To CORNELIUS PRISCUS
+112	XXXVIII -- To FABATUS (HIS WIFE'S GRANDFATHER)
+113	XXXIX -- To ATTIUS CLEMENS
+115	XL -- To CATIUS LEPIDUS
+117	XLI -- To MATURUS ARRIANUS
+118	XLII -- To STATIUS SABINUS
+119	XLIII -- To CORNELIUS MINICIANUS
+122	XLV -- To ASINIUS
+125	XLVI -- To HISPULLA
+127	XLVII -- To ROMATIUS FIASIUS
+128	XLVIII -- To LICINIUS SURA
+130	XLIX -- To ANNIUS SEVERUS
+133	L -- To TITIUS ARISTO
+136	LI -- To NONIUS MAXIMUS
+138	LII -- To DOMITIUS APOLLINARIS
+147	LIII -- To CALVISIUS
+148	LIV -- To MARCELLINUS
+150	LV -- To SPURINNA
+152	LVI -- To PAULINUS
+154	LVII -- To RUFUS
+156	LVIII -- To ARRIANUS
+158	LIX -- To CALPURNIA[88]
+159	LX -- To CALPURNIA
+160	LXI -- To PRISCUS
+162	LXII -- To ALBINUS
+163	LXIII -- To MAXIMUS
+164	LXIV -- To ROMANUS
+165	LXV -- To TACITUS
+170	LXVI -- To CORNELIUS TACITUS
+174	LX VII -- To MACER
+175	LXVIII -- To SERVIANUS
+176	LXIX -- To SEVERUS
+177	LXX -- To FABATUS
+178	LXXI -- To CORNELIANUS
+182	LXXII -- To MAXIMUS
+183	LXXIII -- To RESTITUTUS
+184	LXXIV -- To CALPURNIA[111]
+185	LXXV -- To MACRINUS
+188	LXXVI -- To TUSCUS
+191	LXX VII -- To FABATUS (HIS WIFE'S GRANDFATHER)
+193	LXXVIII -- To CORELLIA
+194	LXXIX -- To CELER
+198	LXXX -- To PRISCUS
+201	LXXXI -- To GEMINIUS
+203	LXXXII -- To MAXIMUS
+204	LXXXIII -- To SURA
+208	LXXXIV -- To SEPTITIUS
+209	LXXXV -- To TACITUS
+211	LXXX VI -- To SEPTITIUS
+212	LXXXVII -- To CALVISIUS
+214	LXXX VIII -- To ROMANUS
+216	LXXXIX -- To ARISTO
+224	XC -- To PATERNUS
+225	XCI -- To MACRINUS
+227	XCII -- To RUFINUS
+230	XCIII -- To GALLUS
+233	XCIV -- To ARRIANUS
+235	XCV -- To MAXIMUS
+238	XCVI -- To PAULINUS
+239	XCVII -- To CALVISIUS
+240	XCVIII -- To ROMANUS
+241	XCIX -- To GEMINUS
+242	C -- To JUNIOR
+243	CI -- To QUADRATUS
+250	CII -- To GENITOR
+251	CIII -- To SABINIANUS
+252	CIV -- To MAXIMUS
+254	CV -- To SABINIANUS
+255	CVI -- To LUPERCUS
+260	CVII -- To CANINIUS
+263	CVIII -- To Fuscus
+265	CIX -- To PAULINUS
+266	CX -- To FUSCUS
+291	Correspondence With The Emperor Trajan
+291	I -- To The Emperor Trajan[1001]
+292	II -- To THE EMPEROR TRAJAN
+293	III -- To THE EMPEROR TRAJAN
+294	IV -- To THE EMPEROR TRAJAN
+295	V -- Trajan To Pliny
+295	VI -- To THE EMPEROR TRAJAN
+296	VII -- To THE EMPEROR TRAJAN
+297	VIII -- Trajan To Pliny
+298	X -- To THE EMPEROR TRAJAN
+299	XI -- To THE EMPEROR TRAJAN
+301	XII -- Trajan To Pliny
+302	XIII -- To THE EMPEROR TRAJAN
+303	XIV -- To THE EMPEROR TRAJAN
+304	XV -- Trajan To Pliny
+305	XVI -- To THE EMPEROR TRAJAN
+306	XVII -- Trajan To Pliny
+307	XVIII -- To THE EMPEROR TRAJAN
+308	XIX -- To THE EMPEROR TRAJAN
+309	XX -- To THE EMPEROR TRAJAN
+309	XXI -- To THE EMPEROR TRAJAN
+310	XXII -- To THE EMPEROR TRAJAN
+311	XXIII -- To THE EMPEROR TRAJAN
+312	XXIV -- To THE EMPEROR TRAJAN
+313	XXV -- To THE EMPEROR TRAJAN
+314	XXVI -- To THE EMPEROR TRAJAN
+315	XXVII -- To THE EMPEROR TRAJAN
+316	XXVIII -- To THE EMPEROR TRAJAN
+317	XXIX -- To THE EMPEROR TRAJAN
+318	XXX -- To THE EMPEROR TRAJAN
+319	XXXI -- Trajan To Pliny
+320	XXXII -- To THE EMPEROR TRAJAN
+321	XXXIII -- Trajan To Pliny
+322	XXXIV -- To THE EMPEROR TRAJAN
+323	XXXV -- Trajan To Pliny
+324	XXXVI -- To THE EMPEROR TRAJAN
+325	XXX VII -- Trajan To Pliny
+326	XXXVIII To THE EMPEROR TRAJAN
+327	XXXIX -- Trajan To Pliny
+328	XL -- To THE EMPEROR TRAJAN
+<b>CX -- TRAJAN TO PLINY</b>
+
+THE right which the cities either of Pontus or Bithynia claim relating to the recovery of debts of whatever kind, due to their several communities, must be determined agreeably to their respective laws. Where any of these communities enjoy the privilege of being preferred to other creditors, it must be maintained; but, where no such privilege prevails, it is not just I should establish one, in prejudice of private property.<b>CXI -- To THE EMPEROR TRAJAN</b>
+
+THE solicitor to the treasury of the city of Amisis instituted a claim, Sir, before me against Julius Piso of about forty thousand denarii,[1072] presented to him by the public above twenty years ago, with the consent of the general council and assembly of the city: and he founded his demand upon certain of your edicts, by which donations of this kind are prohibited. Piso, on the other hand, asserted that he had conferred large sums of money upon the community, and, indeed, had thereby expended almost the whole of his estate. He insisted upon the length of time which had intervened since this donation, and hoped that he should not be compelled, to the ruin of the remainder of his fortunes, to refund a present which had been granted him long since, in return for many good offices he had done the city. For this reason, Sir, I thought it necessary to suspend giving any judgment in this cause till I shall receive your directions.<b>CXII -- TRAJAN TO PLINY</b>
+
+THOUGH by my edicts I have ordained that no largesses shall be given out of the public money, yet, that numberless private persons may not be disturbed in the secure possession of their fortunes, those donations which have been made long since ought not to be called in question or revoked. We will not therefore enquire into anything that has been transacted in this affair so long ago as twenty years; for I would be no less attentive to secure the repose of every private man than to preserve the treasure of every public community.<b>CXIII -- To THE EMPEROR TRAJAN</b>
+
+THE Pompeian law, Sir, which is observed in Pontus and Bithynia, does not direct that any money for their admission shall be paid in by those who are elected into the senate by the censors. It has, however, been usual for such members as have been admitted into those assemblies, in pursuance of the privilege which you were pleased to grant to some particular cities, of receiving above their legal number, to pay one[1073] or two thousand denarii[1074] on their election. Subsequent to this, the proconsul Anicius Maximus ordained (though indeed his edict related to some few cities only) that those who were elected by the censors should also pay into the treasury a certain sum, which varied in different places. It remains, therefore, for your consideration whether it would not be proper to settle a certain sum for each member who is elected into the councils to pay upon his entrance; for it well becomes you, whose every word and action deserves to be immortalized, to establish laws that shall endure for ever.<b>CXIV -- TRAJAN TO PLINY</b>
+
+I CAN give no general directions applicable to all the cities of Bithynia, in relation to those who are elected members of their respective councils, whether they shall pay an honorary fee upon their admittance or not. I think that the safest method which can be pursued is to follow the particular laws of each city; and I also think that the censors ought to make the sum less for those who are chosen into the senate contrary to their inclinations than for the rest.<b>CXV -- To THE EMPEROR TRAJAN</b>
+
+THE Pompeian law, Sir, allows the Bithynians to give the freedom of their respective cities to any person they think proper, provided he is not a foreigner, but native of some of the cities of this province. The same law specifies the particular causes for which the censors may expel any member of the senate, but makes no mention of foreigners. Certain of the censors therefore have desired my opinion whether they ought to expel a member if he should happen to be a foreigner. But I thought it necessary to receive your instructions in this case; not only because the law, though it forbids foreigners to be admitted citizens, does not direct that a senator shall be expelled for the same reason, but because I am informed that in every city in the province a great number of the senators are foreigners. If, therefore, this clause of the law, which seems to be antiquated by a long custom to the contrary, should be enforced, many cities, as well as private persons, must be injured by it. I have annexed the heads of this law to my letter.<b>CXVI -- TRAJAN TO PLINY</b>
+
+You might well be doubtful, my dearest Secundus, what reply to give to the censors, who consulted you concerning their right to elect into the senate foreign citizens, though of the same province. The authority of the law on one side, and long custom prevailing against it on the other, might justly occasion you to hesitate, The proper mean to observe in this case will be to make no change in what is past, but to allow those senators who are already elected, though contrary to law, to keep their seats, to whatever city they may belong; in all future elections, however, to pursue the directions of the Pompeian law: for to give it a retrospective operation would necessarily introduce great confusion.<b>CXVII -- To THE EMPEROR TRAJAN</b>
+
+IT is customary here upon any person taking the manly robe, solemnising his marriage, entering upon the office of a magistrate, or dedicating any public work, to invite the whole senate, together with a considerable part of the commonalty, and distribute to each of the company one or two denarii.[1075] I request you to inform me whether you think proper this ceremony should be observed, or how far you approve of it. For myself, though I am of opinion that upon some occasions, especially those of public festivals, this kind of invitation may be permitted, yet, when carried so far as to draw together a thousand persons, and sometimes more, it seems to be going beyond a reasonable number, and has somewhat the appearance of ambitious largesses.<b>CXVIII -- TRAJAN TO PLINY</b>
+
+You very justly apprehended that those public invitations which extend to an immoderate number of people, and where the dole is distributed, not singly to a few acquaintances, but, as it were, to whole collective bodies, may be turned to the factious purposes of ambition. But I appointed you to your present government, fully relying upon your prudence, and in the persuasion that you would take proper measures for regulating the manners and settling the peace of the province.<b>CXIX -- To THE EMPEROR TRAJAN</b>
+
+THE athletic victors, Sir, in the Iselastic[1076] games, conceive that the stipend you have established for the conquerors becomes due from the day they are crowned: for it is not at all material, they say, what time they were triumphantly conducted into their country, but when they merited that honour. On the contrary, when I consider the meaning of the term Iselastic, I am strongly inclined to think that it is intended the stipend should commence from the time of their public entry. They likewise petition to be allowed the treat you give at those combats which you have converted into Iselastic, though they were conquerors before the appointment of that institution: for it is but reasonable, they assert, that they should receive the reward in this instance, as they are deprived of it at those games which have been divested of the honour of being Iselastic, since their victory. But I am very doubtful, whether a retrospect should be admitted in the case in question, and a reward given, to which the claimants had no right at the time they obtained the victory. I beg, therefore, you would be pleased to direct my judgment in these points, by explaining the intention of your own benefactions.<b>CXX -- TRAJAN TO PLINY</b>
+
+THE stipend appointed for the conqueror in the Iselastic games ought not, I think, to commence till he makes his triumphant entry into his city. Nor are the prizes, at those combats which I thought proper to make Iselastic, to be extended backwards to those who were victors before that alteration took place. With regard to the plea which these athletic combatants urge, that they ought to receive the Iselastic prize at those combats which have been made Iselastic subsequent to their conquests, as they are denied it in the same case where the games have ceased to be so, it proves nothing in their favour; for notwithstanding any new arrangements which has been made relating to these games, they are not called upon to return the recompense which they received prior to such alteration.<b>CXXI -- To THE EMPEROR TRAJAN</b>
+
+I HAVE hitherto never, Sir, granted an order for post-chaises to any person, or upon any occasion, but in affairs that relate to your administration. I find myself, however, at present under a sort of necessity of breaking through this fixed rule. My wife having received an account of her grandfather's death, and being desirous to wait upon her aunt with all possible expedition, I thought it would be unkind to deny her the use of this privilege; as the grace of so tender an office consists in the early discharge of it, and as I well knew a journey which was founded in filial piety could not fail of your approbation. I should think myself highly ungrateful therefore, were I not to acknowledge that, among other great obligations which I owe to your indulgence, I have this in particular, that, in confidence of your favour, I have ventured to do, without consulting you, what would have been too late had I waited for your consent.<b>CXXII -- TRAJAN TO PLINY</b>
+
+You did me justice, my dearest Secundus, in confiding in my affection towards you. Without doubt, if you had waited for my consent to forward your wife in her journey by means of those warrants which I have entrusted to your care, the use of them would not have answered your purpose; since it was proper this visit to her aunt should have the additional recommendation of being paid with all possible expedition.
+
+FOOTNOTES TO THE CORRESPONDENCE WITH THE EMPEROR TRAJAN 1001 (return) [ The greater part of the following letters were written by Pliny during his administration in the province of Bithynia. They are of a style and character extremely different from those in the preceding collection; whence some critics have injudiciously inferred that they are the production of another hand: not considering that the occasion necessarily required a different manner. In letters of business, as these chiefly are, turn and sentiment would be foreign and impertinent; politeness and elegance of expression being the essentials that constitute perfection in this kind: and in that view, though they may be less entertaining, they have not less merit than the former. But besides their particular excellence as letters, they have a farther recommendation as so many valuable pieces of history, by throwing a strong light upon the character of one of the most amiable and glorious princes in the Roman annals. Trajan appears throughout in the most striking attitude that majesty can be placed in; in the exertion of power to the godlike purposes of justice and benevolence: and what one of the ancient historians has said of him is here clearly verified, that "he rather chose to be loved than flattered by his people."To have been distinguished by the favour and friendship of a monarch of so exalted a character is an honour that reflects the brightest lustre upon our author; as to have been served and celebrated by a courtier of Pliny's genius and virtues is the noblest monunient of glory that could have been raised to Trajan. M.]
+
+1002 (return) [ Nerva, who succeeded Domitian, reigned but sixteen months and a few days. Before his death he not only adopted Trajan, and named him for his successor, but actually admitted him into a share of the government; giving him the titles of Cæsar, Germanicus and Imperator. Vid. Plin. Paneg. M.]
+
+1003 (return) [ $16,000.]
+
+1004 (return) [ One of the four governments of Lower Egypt. M.]
+
+1005 (return) [ The extensive power of paternal authority was (as has been observed in the notes above) peculiar to the Romans. But after Chrysippus was made a denizen of Rome, he was not, it would seem, consequentially entitled to that privilege over those children which were born before his denization. On the other hand, if it was expressly granted him, his children could not preserve their right of patronage over their own freedmen, because that right would of course devolve to their father, by means of this acquired dominion over them. The denization therefore of his children is as expressly solicited as his own. But both parties becoming quirites, the children by this creation, and not pleading in right of their father, would be patres fam.To prevent which the clause is added, "ita ut sint in patris potestate:" as there is another to save to them their rights of patronage over their freedmen, though they were reduced in patriam potestate. M.]
+
+1006 (return) [ Pliny enjoyed the office of treasurer in conjunction with Cornutus Tertullus. It was the custom at Rome for those who had colleagues to administer the duties of their posts by monthly turns. Buchner. M.]
+
+1007 (return) [ About $16,000; the annual income of Pliny's estate in Tuscany. He mentions another near Comum in Milan, the yearly value of which does not appear. We find him likewise meditating the purchase of an estate, for which he was to give about $117,000 of our money; but whether he ever completed that purchase is uncertain. This, however, we are sure of, that his fortunes were but moderate, considering his high station and necessary expenses: and yet, by the advantage of a judicious economy, we have seen him in the course of these letters, exercising a liberality of which after ages have furnished no parallel. M.]
+
+1008 (return) [ The senators were not allowed to go from Rome into the provinces without having first obtained leave of the emperor. Sicily, however, had the privilege to be excepted out of that law; as Gallia Narbonensis afterwards was, by Claudius Cæsar. Tacit. Ann. XII. C. 23. M.]
+
+1009 (return) [ One of the seven priests who presided over the feasts appointed in honour of Jupiter and the other gods, an office, as appears, of high dignity, since Pliny ranks it with the augurship.]1010 (return) [ Bithynia, a province in Anatolia, or Asia Minor, of which Pliny was appointed governor by Trajan, in the sixth year of his reign, A. D. 103, not as an ordinary proconsul, but as that emperor's own lieutenant, with powers extraordinary. (See Dio.) The following letters were written during his administration of that province. M.]
+
+1011 (return) [ A north wind in the Grecian seas, which rises yearly some time in July, and continues to the end of August; though others extend it to the middle of September. They blow only in the day-time. Varenius's Geogr. V.I. p. 513. M.]
+
+1012 (return) [ The inhabitants of Prusa (Brusa), a principal city of Bithynia.]
+
+1013 (return) [ In the sixth year of Trajan's reign, A. D. 103, and the 41st of our author's age: he continued in this province about eighteen months. Vid. Mass, in Vit. Phin. 129. M.]
+
+1014 (return) [ Among other noble works which this glorious emperor executed, the forum or square which went by his name seems to have been the most magnificent. It was built with the foreign spoils he had taken in war. The covering of this edifice was all brass, the porticoes exceedingly beautiful and magnificent, with pillars of more than ordinary height and dimensions. In the centre of this forum was erected the famous pillar which has been already described.]1015 (return) [ It is probable the victory here alluded to was that famous one which Trajan gained over the Daciaiss; some account of which has been given in the notes above. It is certain, at least, Pliny lived to see his wish accomplished, this emperor having carried the Roman splendour to its highest pitch, and extended the dominions of the empire farther than any of his predecessors; as after his death it began to decline. M.]
+
+1016 (return) [ The capital of Bithynia; its modern name is Izmid.]
+
+1017 (return) [ The town of Panticapoeum, also called Bosporus, standing on the European side of the Cimmerian Bosporus (Straits of Kaffa), in the modern Crimea.]
+
+1018 (return) [ Nicea (as appears by the 15th letter of this book), a city in Bithynia, now called Iznik. M.]
+
+1019 (return) [ Sarmatia was divided into European, Asiatic, and German Sarmatia. It is not exactly known what bounds the ancients gave to this extensive region; however, in general, it comprehended the northern part of Russia, and the greater part of Poland, &c. M.]
+
+1020 (return) [ The first invention of public couriers is ascribed to Cyrus, who, in order to receive the earliest intelligence from the governors of the several provinces, erected post-houses throughout the kingdom of Persia, at equal distances, which supplied men and horses to forward the public despatches.Augustus was the first who introduced this most useful institution among the Romans, by employing post- chaises, disposed at convenient distances, for the purpose of political intelligence. The magistrates of every city were obliged to furnish horses for these messengers, upon producing a diploma, or a kind of warrant, either from the emperor himself or from those who had that authority under him. Sometimes, though upon very extraordinary occasions, persons who travelled upon their private affairs, were allowed the use of these post-chaises. It is surprising they were not sooner used for the purposes of commerce and private communication. Louis XI. first established them in France, in the year 1414; but it was not till later (date uncertain) that the post-office was settled in England by Act of Parliament, M.]
+
+1021 (return) [ Particular temples, altars, and statues were allowed among the Romans as places of privilege and sanctuary to slaves, debtors and malefactors. This custom was introduced by Romulus, who borrowed it probably from the Greeks; but during the free state of Rome, few of these asylums were permitted. This custom prevailed most under the emperors, till it grew so scandalous that the Emperor Pius found it necessary to restrain those privileged places by an edict. See Lipsii Excurs. ad Taeiti Ann. III, C. 36, M.]
+
+1022 (return) [ General under Deeebalus, king of the Dacians. M.]
+
+1023 (return) [ A province in Daeia, comprehending the southern parts of Servia and part of Bulgaria. M.]1024 (return) [ The second expedition of Trajan against Decebalus was undertaken the same year that Pliny went governor into this province; the reason therefore why Pliny sent this Calhidromus to the emperor seems to be that some use might possibly be made of him in favour of that design, M.]
+
+1025 (return) [ Receiver of the finances. M.]
+
+1026 (return) [ The coast round the Black Sea.]
+
+1027 (return) [ The text calls him primipilarem, that is, one who had been Prirnipilus, in officer in the army, whose post was both highly honourable and profitable; among other parts of his office he had the care of the eagle, or chief standard of the legion. M.]
+
+1028 (return) [ Slaves who were purchased by the public. M.]
+
+1029 (return) [ The most probable conjecture (for it is a point of a good deal of obscurity) concerning the beneficiary seems to be that they were a certain number of soldiers exempted from the usual duty of their office, in order to be employed as a sort of body-guards to the general. These were probably foot; as the equites here mentioned were perhaps of the same nature, only that they served on horseback. Equites singulares Cæsaris Augusti, &c., are frequently met with upon ancient inscriptions, and are generally supposed to mean the bodyguards of the emperor. M.]1030 (return) [ A province in Asia Minor, bounded by the Black Sea on the north, Bithynia on the west, Pontus on the east, and Phrygia on the south.]
+
+1031 (return) [ The Roman policy excluded slaves from entering into military service, and it was death if they did so. However, upon cases of great necessity, this maxim was dispensed with; but then they were first made free before they were received into the army, excepting only (as Servius in his notes upon Virgil) observes after the fatal battle of Cannae; when the public distress was so great that the Romans recruited their army with their slaves, though they had not time to give them their freedom. One reason, perhaps, of this policy might be that they did not think it safe to arm so considerable a body of men, whose numbers, in the times when the Roman luxury was at its highest, we may have some idea of by the instance which Pun the naturalist mentions of Claudius Isodorus, who at the time of his death was possessed of no less than 4,116 slaves, notwithstanding he had lost great numbers in the civil wars. Pun. Hist. Nat. XXXIII. 10. M.]
+
+1032 (return) [ A punishment among the Romans, usually inflicted upon slaves, by which they were to engage with wild beasts, or perform the part of gladiators, in the public shows. M.]
+
+1033 (return) [ It has been generally imagined that the ancients had not the art of raising water by engines; but this passage seems to favour the contrary opinion. The word in the original is sipho, which Hesychius explains (as one of the commentators observes) "instrumentuns ad jaculandas aquas adversas incendia; an instrument to throw up water against fires."But there is a passage in Seneca which seems to put this matter beyond conjecture, though none of the critics upon this place have taken notice of it: "Solemiss," says he, "duabus manibus inter se junctis aguam concipere, et com pressa utrinque palma in modum ciphonis exprimere" (Q. N. 1. II. 16) where we plainly see the use of this sipho was to throw UP water, and consequently the Romans were acquainted with that art. The account which Pliny gives of his fountains at Tuscum is likewise another evident proof. M.]
+
+1034 (return) [ This was an anniversary custom observed throughout the empire on the 30th of December. M.]
+
+1035 (return) [ About $132,000.]
+
+1036 (return) [ About $80,000.]
+
+1037 (return) [ About $400,000. To those who are not acquainted with the immense riches of the ancients, it may seem incredible that a city, and not the capital one either, of a conquered province should expend so large a sum of money upon only the shell (as it appears to be) of a theatre: but Asia was esteemed the most considerable part of the world for wealth; its fertility and exportations (as Tully observes) exceeding that of all other countries. M.]
+
+1038 (return) [ The word carte, in the original, comprehends more than what we call the pit in our theatres, as at means the whole space lit which the spectators sat. These theatres being open at the top, the galleries here mentioned were for the convenience of retiring in bad weather. M.]1039 (return) [ A place in which the athletic exercises were performed, and where the philosophers also used to read their lectures. M.]
+
+1040 (return) [ The Roman foot consisted of 11.71 inches of our standard, M.]
+
+1041 (return) [ A colony in the district of Cataonia, in Cappadocia.]
+
+1042 (return) [ The honorary senators, that is, such who were not received into the council of the city by election, but by the appointment of the emperor, paid a certain sum of money upon their admission into the senate. M.]
+
+1043 (return) [ "Graeculi. Even under the empire, with its relaxed morality and luxurious tone, the Romans continued to apply this contemptuous designation to people to whom they owed what taste for art and culture they possessed." Church and Brodribb.]
+
+1044 (return) [ A Roman cubit is equal to a foot 5.406 inches of our measure. Arbuthanot's Tab. M.]
+
+1045 (return) [ About $480.]
+
+1046 (return) [ About $120.]
+
+1047 (return) [ A diploma is properly a grant of certain privileges either to particular places or persons. It signifies also grants of other kinds; and it sometimes means post-warrants, as, perhaps, it does in this place. M.]1048 (return) [ A city in Bithynia. M.]
+
+1049 (return) [ Cybele, Rhea, or Ops, as she is otherwise called; from whom, according to the pagan creed, the rest of the gods are supposed to have descended. M.]
+
+1040b (return) [ Whatever was legally consecrated was ever afterwards unapplicable to profane uses. M.]
+
+1041b (return) [ That is, a city not admitted to enjoy the laws and privileges of Rome. M.]
+
+1042b (return) [ The reason why they did not choose to borrow of the public at the same rate of interest which they paid to private persons was (as one of the Commentators observes) because in the former instance they were obliged to give security, whereas in the latter they could raise money upon their personal credit. M.]
+
+1043b (return) [ These, in the original institution as settled by Augustus, were only commanders of his body-guards; but in the later times of the Roman empire they were next in authority under the emperor, to whom they seem to have acted as a sort of prime ministers. M.]
+
+1044b (return) [ The provinces were divided into, a kind of circuits called conventus, whither the proconsuls used to go in order to administer justice.The judges here mentioned must not be understood to mean the same sort of judicial officers as with us: they rather answered to our juries. M.]
+
+1045b (return) [ By the imperial constitutions the philosophers were exempted from all public functions. Catariscus. M.]
+
+1046b (return) [ About $24,000.]
+
+1047b (return) [ Geographers are not agreed where to place this city; Cellarius conjectures it may possibly be the same with Prusa ad Olympum, Prusa at the foot of Mount Olympus in Mysia.]
+
+1048b (return) [ Domitian.]
+
+1049b (return) [ That is, whether they should be considered in a state of freedom or slavery. M.]
+
+1050 (return) [ "Parents throughout the entire ancient world had the right to expose their children and leave them to their fate. Hence would sometimes arise the question whether such a child, if found and brought up by another, was entitled to his freedom, whether also the person thus adopting him must grant him his freedom without repayment for the cost of maintenance." Church and Brodribb.]
+
+1051 (return) [ "This decision of Trajan, the effect of which would be that persons would be slow to adopt an abandoned child which, when brought up,its natural parents could claim back without any compensation for its nurture, seems harsh, and we find that it was disregarded by the later emperors in their legal decisions on the subject." Church and Brodribb.]
+
+1052 (return) [ And consequently by the Roman laws unapplicable to any other purpose. M.]
+
+1053 (return) [ The Roman provinces in the times of the emperors were of two sorts: those which were distinguished by the name of the provinciae Cæsaris and the provinciae senatus. The provinciae Cæsaris, or imperial provinces, were such as the emperor, for reasons of policy, reserved to his own immediate administration, or of those whom he thought proper to appoint: the provinciae senatus, or proconsular provinces, were such as he left to the government of proconsuls or praetors, chosen in the ordinary method of election. (Vid. Suet, in Aug. V. 47.) Of the former kind was Bithynis, at the time when our author presided there. (Vid. Masson. Vit. Plin. p. 133.) M.]
+
+1054 (return) [ A province in Asia, bordering upon the Black Sea, and by some ancient geographers considered as one province with Bithynia. M.]
+
+1055 (return) [ About $2,000. M.]
+
+1056 (return) [ Cities of Pontus near the Euxine or Black Sea. M.]
+
+1057 (return) [ Gordium, the old capital of Phrygia. It afterwards, in the reign of the Emperor Augustus, received the name of Juliopolis.(See Smith's Classical Diet.)]
+
+1058 (return) [ Pompey the Great having subdued Mithridates, and by that means enlarged the Roman empire, passed several laws relating to the newly conquered provinces, and, among others, that which is here mentioned. M.]
+
+1059 (return) [ The right of electing Senators did not originally belong to the censors, who were only, as Cicero somewhere calls them, guardians of the discipline and manners of the city; but in process of time they engrossed the whole privilege of conferring that honour. M.]
+
+1060 (return) [ This, probably, was some act whereby the city was to ratify and confirm the proceedings of Dion under the commission assigned to him.]
+
+1061 (return) [ It was a notion which generally prevailed with the ancients, in the Jewish as well as heathen world, that there was a pollution in the contact of dead bodies, and this they extended to the very house in which the corpse lay, and even to the uncovered vessels that stood in the same room. (Vid. Pot. Antiq. V. II. 181.) From some such opinion as this it is probable that the circumstance, here mentioned, of placing Trajan's statue where these bodies were deposited, was esteemed as a mark of disrespect to his person.]
+
+1062 (return) [ A thriving Greek colony in the territory of Sinopis, on the Euxine.]1063 (return) [ A colony of Athenians in the province of Pontus. Their town, Amisus, on the coast, was one of the residences of Mithridates.]
+
+1064 (return) [ Casaubon, in his observations upon Theophrastus (as cited by one of the commentators) informs us that there were at Athens and other cities of Greece Certain fraternities which paid into a common chest a monthly contribution towards the support of such of their members who had fallen into misfortunes; upon condition that, if ever they arrived to more prosperous circumstances, they should repay into the general fund the money so advanced. M.]
+
+1065 (return) [ By the law for encouragement of matrimony (some account of which has already been given in the notes above), as a penalty upon those who lived bachelors, they were declared incapable of inheriting any legacy by will; so likewise, if being married, they had no children, they could not claim the full advantage of benefactions of that kind.]
+
+1066 (return) [ This letter is esteemed as almost the only genuine monument of ecclesiastical antiquity relating to the times immediately succeeding the Apostles, it being written at most not above forty years after the death of St. Paul. It was preserved by the Christians themselves as a clear and unsuspicious evidence of the purity of their doctrines, and is frequently appealed to by the early writers of the Church against the calumnies of their adversaries. M.]1067 (return) [ It was one of the privileges of a Roman citizen, secured by the Semprorian law, that he could not be capitally convicted but by the suffrage of the people; which seems to have been still so far in force as to make it necessary to send the persons here mentioned to Rome. M.]
+
+1068 (return) [ These women, it is supposed, exercised the same office as Phoebe mentioned by St. Paul, whom he styles deaconess of the church of Cenchrea. Their business was to tend the poor and sick, and other charitable offices; as also to assist at the ceremony of female baptism, for the more decent performance of that rite: as Vossius observes upon this passage. M.]
+
+1069 (return) [ If we impartially examine this prosecution of the Christians, we shall find it to have been grounded on the ancient constitution of the state, and not to have proceeded from a cruel or arbitrary temper in Trajan. The Roman legislature appears to have been early jealous of any innovation in point of public worship; and we find the magistrates, during the old republic frequently interposing in cases of that nature. Valerius Maximus has collected some instances to that purpose (L. I. C. 3), and Livy mentions it as an established principle of the earlier ages of the commonwealth, to guard against the introduction of foreign ceremonies of religion. It was an old and fixed maxim likewise of the Roman government not to suffer any unlicensed assemblies of the people. From hence it seems evident that the Christians had rendered themselves obnoxious not so much to Trajan as to the ancient and settled laws of the state, by introducing a foreign worship, and assembling themselves without authority. M.]1070 (return) [ On the coast of Paphlagonia.]
+
+1071 (return) [ By the Papian law, which passed in the consulship of M. Papius Mutilus and Q. Poppeas Secundus, u. c. 761, if a freedman died worth a hundred thousand sesterces (or about $4,000 of our money), leaving only one child, his patron (that is, the master from whom he received his liberty) was entitled to half his estate; if he left two children, to one-third; but if more than two, then the patron was absolutely excluded. This was afterwards altered by Justinian, Inst. 1. III. tit. 8. M.]
+
+1072 (return) [ About $7,000.]
+
+1073 (return) [ About $175]
+
+1074 (return) [ About $350.]
+
+1075 (return) [ The denarius=7 cents. The sum total, then, distributed among one thousand persons at the rate of, say, two denara a piece would amount to about $350.]
+
+1076 (return) [ These games are called Iselastic from the Greek word invehor, because the victors, drawn by white horses, and wearing crowns on their heads, were conducted with great pomp into their respective cities, which they entered through a breach in the walls made for that purpose; intimating, as Plutarch observes, that a City which produced such able and victorious citizens, had little occasion for the defence of walls (Catanaeus).They received also annually a certain honourable stipend from the public. M.]

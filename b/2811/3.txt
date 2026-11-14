@@ -1,0 +1,568 @@
+HOLB1	2811	3	240	80	430	150
+20	Letters Gaius Plinius Caecilius Secundus
+20	I -- To SEPTITTUS
+21	II -- To ARRIANUS
+22	III -- To VOCONIUS ROMANUS
+26	IV -- To CORNELIUS TACITUS
+27	V -- To POMPEIUS SATURNINUS
+31	VI -- To ATRIUS CLEMENS
+34	VII -- To FABIUS JUSTUS
+35	VIII -- To CALESTRIUS TIRO
+38	IX -- To SOCIUS SENECIO
+40	X -- To JUNSUS MAURICUS
+42	XI -- To SEPTITIUS CLARUS
+43	XII -- To SUETONIUS TRANQUILLUS
+45	XIII -- To ROMANUS FIRMUS
+46	XIV -- To Cornelius Tacitus
+52	XV -- To PATERNUS
+53	XVI -- To CATILIUS SEVERUS [27]
+56	XVII -- To VOCONIUS ROMANUS
+59	XVIII -- To NEPOS
+62	XIX -- To AVITUS
+64	XX -- To MACRINUS
+66	XXI -- To PAISCUS
+68	XXII -- To MAIMUS
+71	XXIII -- To GALLUS
+78	XXIV -- To CEREALIS
+80	XXV -- To CALVISIUS
+83	XXVI -- To CALVISIUS
+86	XXVII -- To BAEBIUS MACER
+90	XXVIII -- To ANNIUS SEVERUS
+92	XXIX -- To CANINIUS RUFUS
+95	XXX -- To SPURINNA AND COTTIA[53]
+97	XXXI -- To JULIUS GENITOR
+99	XXXII -- To CATILIUS SEVERUS
+100	XXXIII -- To ACILIUS
+102	XXXIV -- To NEPOS
+105	XXXV -- To SEVERUS
+108	XXXVI -- To CALVISIUS RUFUS
+110	XXXVII -- To CORNELIUS PRISCUS
+112	XXXVIII -- To FABATUS (HIS WIFE'S GRANDFATHER)
+113	XXXIX -- To ATTIUS CLEMENS
+115	XL -- To CATIUS LEPIDUS
+117	XLI -- To MATURUS ARRIANUS
+118	XLII -- To STATIUS SABINUS
+119	XLIII -- To CORNELIUS MINICIANUS
+122	XLV -- To ASINIUS
+125	XLVI -- To HISPULLA
+127	XLVII -- To ROMATIUS FIASIUS
+128	XLVIII -- To LICINIUS SURA
+130	XLIX -- To ANNIUS SEVERUS
+133	L -- To TITIUS ARISTO
+136	LI -- To NONIUS MAXIMUS
+138	LII -- To DOMITIUS APOLLINARIS
+147	LIII -- To CALVISIUS
+148	LIV -- To MARCELLINUS
+150	LV -- To SPURINNA
+152	LVI -- To PAULINUS
+154	LVII -- To RUFUS
+156	LVIII -- To ARRIANUS
+158	LIX -- To CALPURNIA[88]
+159	LX -- To CALPURNIA
+160	LXI -- To PRISCUS
+162	LXII -- To ALBINUS
+163	LXIII -- To MAXIMUS
+164	LXIV -- To ROMANUS
+165	LXV -- To TACITUS
+170	LXVI -- To CORNELIUS TACITUS
+174	LX VII -- To MACER
+175	LXVIII -- To SERVIANUS
+176	LXIX -- To SEVERUS
+177	LXX -- To FABATUS
+178	LXXI -- To CORNELIANUS
+182	LXXII -- To MAXIMUS
+183	LXXIII -- To RESTITUTUS
+184	LXXIV -- To CALPURNIA[111]
+185	LXXV -- To MACRINUS
+188	LXXVI -- To TUSCUS
+191	LXX VII -- To FABATUS (HIS WIFE'S GRANDFATHER)
+193	LXXVIII -- To CORELLIA
+194	LXXIX -- To CELER
+198	LXXX -- To PRISCUS
+201	LXXXI -- To GEMINIUS
+203	LXXXII -- To MAXIMUS
+204	LXXXIII -- To SURA
+208	LXXXIV -- To SEPTITIUS
+209	LXXXV -- To TACITUS
+211	LXXX VI -- To SEPTITIUS
+212	LXXXVII -- To CALVISIUS
+214	LXXX VIII -- To ROMANUS
+216	LXXXIX -- To ARISTO
+224	XC -- To PATERNUS
+225	XCI -- To MACRINUS
+227	XCII -- To RUFINUS
+230	XCIII -- To GALLUS
+233	XCIV -- To ARRIANUS
+235	XCV -- To MAXIMUS
+238	XCVI -- To PAULINUS
+239	XCVII -- To CALVISIUS
+240	XCVIII -- To ROMANUS
+241	XCIX -- To GEMINUS
+242	C -- To JUNIOR
+243	CI -- To QUADRATUS
+250	CII -- To GENITOR
+251	CIII -- To SABINIANUS
+252	CIV -- To MAXIMUS
+254	CV -- To SABINIANUS
+255	CVI -- To LUPERCUS
+260	CVII -- To CANINIUS
+263	CVIII -- To Fuscus
+265	CIX -- To PAULINUS
+266	CX -- To FUSCUS
+291	Correspondence With The Emperor Trajan
+291	I -- To The Emperor Trajan[1001]
+292	II -- To THE EMPEROR TRAJAN
+293	III -- To THE EMPEROR TRAJAN
+294	IV -- To THE EMPEROR TRAJAN
+295	V -- Trajan To Pliny
+295	VI -- To THE EMPEROR TRAJAN
+296	VII -- To THE EMPEROR TRAJAN
+297	VIII -- Trajan To Pliny
+298	X -- To THE EMPEROR TRAJAN
+299	XI -- To THE EMPEROR TRAJAN
+301	XII -- Trajan To Pliny
+302	XIII -- To THE EMPEROR TRAJAN
+303	XIV -- To THE EMPEROR TRAJAN
+304	XV -- Trajan To Pliny
+305	XVI -- To THE EMPEROR TRAJAN
+306	XVII -- Trajan To Pliny
+307	XVIII -- To THE EMPEROR TRAJAN
+308	XIX -- To THE EMPEROR TRAJAN
+309	XX -- To THE EMPEROR TRAJAN
+309	XXI -- To THE EMPEROR TRAJAN
+310	XXII -- To THE EMPEROR TRAJAN
+311	XXIII -- To THE EMPEROR TRAJAN
+312	XXIV -- To THE EMPEROR TRAJAN
+313	XXV -- To THE EMPEROR TRAJAN
+314	XXVI -- To THE EMPEROR TRAJAN
+315	XXVII -- To THE EMPEROR TRAJAN
+316	XXVIII -- To THE EMPEROR TRAJAN
+317	XXIX -- To THE EMPEROR TRAJAN
+318	XXX -- To THE EMPEROR TRAJAN
+319	XXXI -- Trajan To Pliny
+320	XXXII -- To THE EMPEROR TRAJAN
+321	XXXIII -- Trajan To Pliny
+322	XXXIV -- To THE EMPEROR TRAJAN
+323	XXXV -- Trajan To Pliny
+324	XXXVI -- To THE EMPEROR TRAJAN
+325	XXX VII -- Trajan To Pliny
+326	XXXVIII To THE EMPEROR TRAJAN
+327	XXXIX -- Trajan To Pliny
+328	XL -- To THE EMPEROR TRAJAN
+<b>XCVIII -- To ROMANUS</b>
+
+I AM pleased to find by your letter that you are engaged in building; for I may now defend my own conduct by your example. I am myself employed in the same sort of work; and since I have you, who shall deny I have reason on my side? Our situations too are not dissimilar; your buildings are carried on upon the sea-coast, mine are rising upon the side of the Larian lake. I have several villas upon the borders of this lake, but there are two particularly in which, as I take most delight, so they give me most employment. They are both situated like those at Baiae:[135] one of them stands upon a rock, and overlooks the lake; the other actually touches it. The first, supported as it were by the lofty buskin,[136] I call my tragic; the other, as resting upon the humble rock, my comic villa. Each has its own peculiar charm, recommending it to its possessor so much more on account of this very difference. The former commands a wider, the latter enjoys a nearer view of the lake. One, by a gentle curve, embraces a little bay; the other, being built upon a greater height, forms two. Here you have a strait walk extending itself along the banks of the lake; there, a spacious terrace that falls by a gentle descent towards it. The former does not feel the force of the waves; the latter breaks them; from that you see the fishing- vessels; from this you may fish yourself, and throw your line out of your room, and almost from your bed, as from off a boat. It is the beauties therefore these agreeable villas possess that tempt me to add to them those which are wanting.--But I need not assign a reason to you; who, undoubtedly, will think it a sufficient one that I follow your example. Farewell.<b>XCIX -- To GEMINUS</b>
+
+YOUR letter was particularly acceptable to me, as it mentioned your desire that I would send you something of mine, addressed to you, to insert in your works. I shall find a more appropriate occasion of complying with your request than that which you propose, the subject you point out to me being attended with some objections; and when you reconsider it, you will think so.--As I did not imagine there were any booksellers at Lugdunum,[137] I am so much the more pleased to learn that my works are sold there. I rejoice to find they maintain the character abroad which they raised at home, and I begin to flatter myself they have some merit, since persons of such distant countries are agreed in their opinion with regard to them. Farewell.<b>C -- To JUNIOR</b>
+
+A CERTAIN friend of mine lately chastised his son, in my presence, for being somewhat too expensive in the matter of dogs and horses. "And pray," I asked him, when the youth had left us, "did you never commit a fault yourself which deserved your father's correction? Did you never? I repeat. Nay, are you not sometimes even now guilty of errors which your son, were he in your place, might with equal gravity reprove? Are not all mankind subject to indiscretions? And have we not each of us our particular follies in which we fondly indulge ourselves?"[138]
+
+The great affection I have for you induced me to set this instance of unreasonable severity before you--a caution not to treat your son with too much harshness and severity. Consider, he is but a boy, and that there was a time when you were so too. In exerting, therefore, the authority of a father, remember always that you are a man, and the parent of a man. Farewell.<b>CI -- To QUADRATUS</b>
+
+THE pleasure and attention with which you read the vindication I published of Helvidius,[139] has greatly raised your curiosity, it seems, to be informed of those particulars relating to that affair, which are not mentioned in the defence; as you were too young to be present yourself at that transaction. When Domitian was assassinated, a glorious opportunity, I thought, offered itself to me of pursuing the guilty, vindicating the injured, and advancing my own reputation. But amidst an infinite variety of the blackest crimes, none appeared to me more atrocious than that a senator, of praetorian dignity, and invested with the sacred character of a judge, should, even in the very senate itself, lay violent hands upon a member[140] of that body, one of consular rank, and who then stood arraigned before him. Besides this general consideration, I also happened to be on terms of particular intimacy with Helvidius, as far as this was possible with one who, through fear of the times, endeavoured to veil the lustre of his fame, and his virtues, in obscurity and retirement. Arria likewise, and her daughter Fannia, who was mother-in-law to Helvidius, were in the number of my friends. But it was not so much private attachments as the honour of the public, a just indignation at the action, and the danger of the example if it should pass unpunished, that animated me upon the occasion. At the first restoration of liberty every man singled out his own particular enemy (though it must be confessed, those only of a lower rank), and, in the midst of much clamour and confusion, no sooner brought the charge than procured the condemnation. But for myself, I thought it would be more reasonable and more effectual, not to take advantage of the general resentment of the public, but to crush this criminal with the single weight of his own enormous guilt.When therefore the first heat of public indignation began to cool, and declining passion gave way to justice, though I was at that time under great affliction for the loss of my wife,[142] I sent to Anteia, the widow of Helvidius, and desired her to come to me, as my late misfortune prevented me from appearing in public. When she arrived, I said to her, "I am resolved not to suffer the injuries your husband has received, to pass unrevenged; let Arria and Fannia" (who were just returned from exile) "know this; and consider together whether you would care to join with me in the prosecution. Not that I want an associate, but I am not so jealous of my own glory as to refuse to share it with you in this affair." She accordingly carried this message; and they all agreed to the proposal without the least hesitation. It happened very opportunely that the senate was to meet within three days. It was a general rule with me to consult, in all my affairs, with Corellius, a person of the greatest far-sightedness and wisdom this age has produced. However, in the present case, I relied entirely upon my own discretion, being apprehensive he would not approve of my design, as he was very cautious and deliberate. But though I did not previously take counsel with him (experience having taught me, never to do so with a person concerning a question we have already determined, where he has a right to expect that one shall be decided by his judgment), yet I could not forbear acquainting him with my resolution at the time I intended to carry it into execution. The senate being assembled, I came into the house, and begged I might have leave to make a motion; which I did in few words, and with general assent. When I began to touch upon the charge, and point out the person I intended to accuse (though as yet without mentioning him by name), I was attacked on all sides."Let us know," exclaims one, "who is the subject of this informal motion?" "Who is it," (asked another) "that is thus accused, without acquainting the house with his name, and his crime?" "Surely," (added a third) "we who have survived the late dangerous times may expect now, at least, to remain in security." I heard all this with perfect calmness, and without being in the least alarmed. Such is the effect of conscious integrity; and so much difference is there with respect to inspiring confidence or fear, whether the world had only rather one should forbear a certain act, or absolutely condemn it. It would be too tedious to relate all that was advanced, by different parties, upon this occasion. At length the consul said, "You will be at liberty, Secundus, to propose what you think proper when your turn comes to give your opinion upon the order of the day."[143] I replied, "You must allow me a liberty which you never yet refused to any;" and so sat down: when immediately the house went upon another business. In the meanwhile, one of my consular friends took me aside, and, with great earnestness telling me he thought I had carried on this affair with more boldness than prudence, used every method of reproof and persuasion to prevail with me to desist; adding at the same time that I should certainly, if I persevered, render myself obnoxious to some future prince. "Be it so," I returned, "should he prove a bad one." Scarcely had he left me when a second came up: "Whatever," said he, "are you attempting? Why ever will you ruin yourself? Do you consider the risks you expose yourself to? Why will you presume too much on the present situation of public affairs, when it is so uncertain what turn they may hereafter take? You are attacking a man who is actually at the head of the treasury, and will shortly be consul.Besides, recollect what credit he has, and with what powerful friendships he is supported?" Upon which he named a certain person, who (not without several strong and suspicious rumours) was then at the head of a powerful army in the east. I replied,
+
+"'All I've foreseen, and oft in thought revolv'd;[144] and am willing, if fate shall so decree, to suffer in an honest cause, provided I can draw vengeance down upon a most infamous one." The time for the members to give their opinions was now arrived. Domitius Apollinaris, the consul elect, spoke first; after him Fabricius Vejento, then Fabius Maximinus, Vettius Proculus next (who married my wife's mother, and who was the colleague of Publicius Certus, the person on whom the debate turned), and last of all Ammius Flaccus. They all defended Certus, as if I had named him (though I had not yet so much as once mentioned him), and entered upon his justification as if I had exhibited a specific charge. It is not necessary to repeat in this place what they respectively said, having given it all at length in their words in the speech above- mentioned. Avidius Quietus and Cornutus Tertullus answered them. The former observed, "that it was extremely unjust not to hear the complaints of those who thought themselves injured, and therefore that Arria and Fannia ought not to be denied the privilege of laying their grievances before the house; and that the point for the consideration of the senate was not the rank of the person, but the merit of the cause."Then Cornutus rose up and acquainted the house, "that, as he was appointed guardian to the daughter of Helvidius by the consuls, upon the petition of her mother and her father-in-law, he felt himself compelled to fulfil the duty of his trust. In the execution of which, however, he would endeavour to set some bounds to his indignation by following that great example of moderation which those excellent women[145] had set, who contented themselves with barely informing the senate of the cruelties which Certus committed in order to carry on his infamous adulation; and therefore," he said, "he would move only that, if a punishment due to a crime so notoriously known should be remitted, Certus might at least be branded with some mark of the displeasure of that august assembly." Satrius Rufus spoke next, and, meaning to steer a middle course, expressed himself with considerable ambiguity. "I am of opinion," said he, "that great injustice will be done to Certus if he is not acquitted (for I do not scruple to mention his name, since the friends of Arria and Fannia, as well as his own, have done so too), nor indeed have we any occasion for anxiety upon this account. We who think well of the man shall judge him with the same impartiality as the rest; but if he is innocent, as I hope he is, and shall be glad to find, I think this house may very justly deny the present motion till some charge has been proved against him." Thus, according to the respective order in which they were called upon, they delivered their several opinions. When it came to my turn, I rose up, and, using the same introduction to my speech as I have published in the defence, I replied to them severally.It is surprising with what attention, what clamorous applause I was heard, even by those who just before were loudest against me: such a wonderful change was wrought either by the importance of the affair, the successful progress of the speech, or the resolution of the advocate. After I had finished, Vejento attempted to reply; but the general clamour raised against him not permitting him to go on, "I entreat you, conscript fathers,"[146] said he, "not to oblige me to implore the assistance of the tribunes."[147] Immediately the tribune Murena cried out, "You have my permission, most illustrious Vejento, to go on." But still the clamour was renewed. In the interval, the consul ordered the house to divide, and having counted the voices, dismissed the senate, leaving Vejento in the midst, still attempting to speak. He made great complaints of this affront (as he called it), applying the following lines of Homer to himself:
+
+"Great perils, father, wait the unequal fight; Those younger champions will thy strength o'ercome."‹a href="#linknote-148" name="linknoteref- 148" id="linknoteref-148"›[148]‹/a›
+
+There was hardly a man in the senate that did not embrace and kiss me, and all strove who should applaud me most, for having, at the cost of private enmities, revived a custom so long disused, of freely consulting the senate upon affairs that concern the honour of the public; in a word, for having wiped off that reproach which was thrown upon it by other orders in the state, "that the senators mutually favoured the members of their own body, while they were very severe in animadverting upon the rest of their fellow-citizens."All this was transacted in the absence of Certus; who kept out of the way either because he suspected something of this nature was intended to be moved, or (as was alleged in his excuse) that he was really unwell. Cæsar, however, did not refer the examination of this matter to the senate. But I succeeded, nevertheless, in my aim, another person being appointed to succeed Certus in the consulship, while the election of his colleague to that office was confirmed. And thus, the wish with which I concluded my speech, was actually accomplished: "May he be obliged," said I, "to renounce, under a virtuous prince,[149] that reward he received from an infamous one!"[150] Some time after I recollected, as well as I could, the speech I had made upon this occasion; to which I made several additions. It happened (though indeed it had the appearance of being something more than casual) that a few days after I had published this piece, Certus was taken ill and died. I was told that his imagination was continually haunted with this affair, and kept picturing me ever before his eyes, as a man pursuing him with a drawn sword. Whether there was any truth in this rumour, I will not venture to assert; but, for the sake of example, however, I could wish it might gain credit. And now I have sent you a letter which (considering it is a letter) is as long as the defence you say you have read: but you must thank yourself for not being content with such information as that piece could afford you. Farewell.<b>CII -- To GENITOR</b>
+
+I HAVE received your letter, in which you complain of having been highly disgusted lately at a very splendid entertainment, by a set of buffoons, mummers, and wanton prostitutes, who were dancing about round the tables.[151] But let me advise you to smooth your knitted brow somewhat. I confess, indeed, I admit nothing of this kind at my own house; however, I bear with it in others. "And why, then," you will be ready to ask, "not have them yourself?"
+
+The truth is, because the gestures of the wanton, the pleasantries of the buffoon, or the extravagancies of the mummer, give me no pleasure, as they give me no surprise. It is my particular taste, you see, not my judgment, that I plead against them. And indeed, what numbers are there who think the entertainments with which you and I are most delighted no better than impertinent follies! How many are there who, as soon as a reader, a lyrist, or a comedian is introduced, either take their leave of the company or, if they remain, show as much dislike to this sort of thing as you did to those monsters, as you call them! Let us bear therefore, my friend, with others in their amusements, that they, in return, may show indulgence to ours. Farewell.<b>CIII -- To SABINIANUS</b>
+
+YOUR freedman, whom you lately mentioned to me with displeasure, has been with me, and threw himself at my feet with as much submission as he could have fallen at yours. He earnestly requested me with many tears, and even with all the eloquence of silent sorrow, to intercede for him; in short, he convinced me by his whole behaviour that he sincerely repents of his fault. I am persuaded he is thoroughly reformed, because he seems deeply sensible of his guilt. I know you are angry with him, and I know, too, it is not without reason; but clemency can never exert itself more laudably than when there is the most cause for resentment. You once had an affection for this man, and, I hope, will have again; meanwhile, let me only prevail with you to pardon him. If he should incur your displeasure hereafter, you will have so much the stronger plea in excuse for your anger as you show yourself more merciful to him now. Concede something to his youth, to his tears, and to your own natural mildness of temper: do not make him uneasy any longer, and I will add too, do not make yourself so; for a man of your kindness of heart cannot be angry without feeling great uneasiness. I am afraid, were I to join my entreaties with his, I should seem rather to compel than request you to forgive him. Yet I will not scruple even to write mine with his; and in so much the stronger terms as I have very sharply and severely reproved him, positively threatening never to interpose again in his behalf. But though it was proper to say this to him, in order to make him more fearful of offending, I do not say so to you. I may perhaps, again have occasion to entreat you upon this account, and again obtain your forgiveness; supposing, I mean, his fault should be such as may become me to intercede for, and you to pardon. Farewell.<b>CIV -- To MAXIMUS</b>
+
+IT has frequently happened, as I have been pleading before the Court of the Hundred, that these venerable judges, after having preserved for a long period the gravity and solemnity suitable to their character, have suddenly, as though urged by irresistible impulse, risen up to a man and applauded me. I have often likewise gained as much glory in the senate as my utmost wishes could desire: but I never felt a more sensible pleasure than by an account which I lately received from Cornelius Tacitus. He informed me that, at the last Circensian games, he sat next to a Roman knight, who, after conversation had passed between them upon various points of learning, asked him, "Are you an Italian, or a provincial?" Tacitus replied, "Your acquaintance with literature must surely have informed you who I am." "Pray, then, is it Tacitus or Pliny I am talking with?" I cannot express how highly I am pleased to find that our names are not so much the proper appellatives of men as a kind of distinction for learning herself; and that eloquence renders us known to those who would otherwise be ignorant of us. An accident of the same kind happened to me a few days ago. Fabius Rufinus, a person of distinguished merit, was placed next to me at table; and below him a countryman of his, who had just then come to Rome for the first time. Rufinus, calling his friend's attention to me, said to him, "You see this man?" and entered into a conversation upon the subject of my pursuits: to whom the other immediately replied, "This must undoubtedly be Pliny." To confess the truth, I look upon these instances as a very considerable recompense of my labours. If Demosthenes had reason to be pleased with the old woman of Athens crying out, "This is Demosthenes!" may not I, then, be allowed to congratulate myself upon the celebrity my name has acquired?Yes, my friend, I will rejoice in it, and without scruple admit that I do. As I only mention the judgment of others, not my own, I am not afraid of incurring the censure of vanity; especially from you, who, whilst envying no man's reputation, are particularly zealous for mine. Farewell.<b>CV -- To SABINIANUS</b>
+
+I GREATLY approve of your having, in compliance with my letter,[152] received again into your favour and family a discarded freedman, who you once admitted into a share of your affection. This will afford you, I doubt not, great satisfaction. It certainly has me, both as a proof that your passion can be controlled, and as an instance of your paying so much regard to me, as either to yield to my authority or to comply with my request. Let me, therefore, at once both praise and thank you. At the same time I must advise you to be disposed for the future to pardon the faults of your people, though there should be none to intercede in their behalf. Farewell.<b>CVI -- To LUPERCUS</b>
+
+I SAID once (and, I think, not inaptly) of a certain orator of the present age, whose compositions are extremely regular and correct, but deficient in grandeur and embellishment, "His only fault is that he has none." Whereas he, who is possessed of the true spirit of oratory, should be bold and elevated, and sometimes even flame out, be hurried away, and frequently tread upon the brink of a precipice: for danger is generally near whatever is towering and exalted. The plain, it is true, affords a safer, but for that reason a more humble and inglorious, path: they who run are more likely to stumble than they who creep; but the latter gain no honour by not slipping, while the former even fall with glory. It is with eloquence as with some other arts; she is never more pleasing than when she risks most. Have you not observed what acclamations our rope-dancers excite at the instant of imminent danger? Whatever is most entirely unexpected, or as the Greeks more strongly express it, whatever is most perilous, most excites our admiration. The pilot's skill is by no means equally proved in a calm as in a storm: in the former case he tamely enters the port, unnoticed and unapplauded; but when the cordage cracks, the mast bends, and the rudder groans, then it is that he shines out in all his glory, and is hailed as little inferior to a sea-god.
+
+The reason of my making this observation is, because, if I mistake not, you have marked some passages in my writings for being tumid, exuberant, and over-wrought, which, in my estimation, are but adequate to the thought, or boldly sublime. But it is material to consider whether your criticism turns upon such points as are real faults, or only striking and remarkable expressions.Whatever is elevated is sure to be observed; but it requires a very nice judgment to distinguish the bounds between true and false grandeur; between loftiness and exaggeration. To give an instance out of Homer, the author who can, with the greatest propriety, fly from one extreme of style to another.
+
+"Heav'n in loud thunder bids the trumpet sound; And wide beneath them groans the rending ground."‹a href="#linknote-153" name="linknoteref- 153" id="linknoteref-153"›[153]‹/a›
+
+Again,
+
+"Reclin'd on clouds his steed and armour lay."‹a href="#linknote-154" name="linknoteref-154" id="linknoteref-154"›[154]‹/a›
+
+So in this passage:
+
+"As torrents roll, increas'd by numerous rills, With rage impetuous down their echoing hills, Rush to the vales, and pour'd along the plain, Roar through a thousand channels to the main."
+
+It requires, I say, the nicest balance to poise these metaphors, and determine whether they are incredible and meaningless, or majestic and sublime. Not that I think anything which I have written, or can write, admits of comparison with these. I am not quite so foolish; but what I would be understood to contend for is, that we should give eloquence free rein, and not restrain the force and impetuosity of genius within too narrow a compass.But it will be said, perhaps, that one law applies to orators, another to poets. As if, in truth, Marc Tully were not as bold in his metaphors as any of the poets! But not to mention particular instances from him, in a point where, I imagine, there can be no dispute; does Demosthenes[155] himself, that model and standard of true oratory, does Demosthenes check and repress the fire of his indignation, in that well-known passage which begins thus: "These wicked men, these flatterers, and these destroyers of mankind," &c. And again: "It is neither with stones nor bricks that I have fortified this city," &c. -- And afterwards: "I have thrown up these out-works before Attica, and pointed out to you all the resources which human prudence can suggest," &c.--And in another place: "O Athenians, I swear by the immortal gods that he is intoxicated with the grandeur of his own actions," &c.[156] - - But what can be more daring and beautiful than that long digression, which begins in this manner: "A terrible disease?" -- The following passage likewise, though somewhat shorter, is equally boldly conceived: -- "Then it was I rose up in opposition to the daring Pytho, who poured forth a torrent of menaces against you," &c.[157] -- The subsequent stricture is of the same stamp: "When a man has strengthened himself, as Philip has, in avarice and wickedness, the first pretence, the first false step, be it ever so inconsiderable, has overthrown and destroyed all," &c.[158]--So in the same style with the foregoing is this: -- "Railed off, as it were, from the privileges of society, by the concurrent and just judgments of the three tribunals in the city." -- And in the same place: "O Aristogiton! you have betrayed that mercy which used to be shown to offences of this nature, or rather, indeed, you have wholly destroyed it.In vain then would you fly for refuge to a port, which you have shut up, and encompassed with rocks."--He has said before: "I am afraid, therefore, you should appear in the judgment of some, to have erected a public seminary of faction: for there is a weakness in all wickedness which renders it apt to betray itself!" -- And a little lower: "I see none of these resources open to him; but all is precipice gulf, and profound abyss."--And again: "Nor do I imagine that our ancestors erected those courts of judicature that men of his character should be planted there, but on the contrary', eradicated, that none may emulate their evil actions."--And afterwards: "If he is then the artificer of every wickedness, if he only makes it his trade and traffic," &c.--And a thousand other passages which I might cite to the same purpose; not to mention those expressions which Aeschines calls not words, but wonders.--You will tell me, perhaps, I have unwarily mentioned Aeschines, since Demosthenes is condemned even by him, for running into these figurative expressions. But observe, I entreat you, how far superior the former orator is to his critic, and superior too in the very passage to which he objects; for in others, the force of his genius, in those above quoted, its loftiness, makes itself manifest. But does Aeschines himself avoid those errors which he reproves in Demosthenes? "The orator," says he, "Athenians, and the law, ought to speak the same language; but when the voice of the law declares one thing, and that of the orator another we should give our vote to the justice of the law, not to the impudence of the orator."[159]--And in another place: "He afterwards manifestly discovered the design he had, of concealing his fraud under cover of the decree, having expressly declared therein that the ambassadors sent to the Oretae gave the five talents, not to you, but to Callias.And that you may be convinced of the truth of what I say (after having stripped the decree of its gallies, its trim, and its arrogant ostentation) the clause itself." -- And in another part: "Suffer him not to break cover and escape out of the limits of the question." A metaphor he is so fond of that he repeats it again. "But remaining firm and confident in the assembly, drive him into the merits of the question, and observe well how he doubles."--Is his style more reserved and simple when he says: "But you are ever wounding our ears, and are more concerned in the success of your daily harangues than for the salvation of the city?"--What follows is conceived in a yet higher strain of metaphor: "Will you not expel this man as the common calamity of Greece? Will you not seize and punish this pirate of the state, who sails about in quest of favourable conjunctures," &c.--With many other passages of a similar nature. And now I expect you will make the same attacks upon certain expressions in this letter as you did upon those I have been endeavouring to defend. The rudder that groans, and the pilot compared to a sea-god, will not, I imagine, escape your criticism: for I perceive, while I am suing for indulgence to my former style, I have fallen into the same kind of figurative diction which you condemn. But attack them if you please provided you will immediately appoint a day when we may meet to discuss these matters in person: you will then either teach me to be less daring or I shall teach you to be more bold. Farewell.<b>CVII -- To CANINIUS</b>
+
+I HAVE met with a story, which, although authenticated by undoubted evidence, looks very like fable, and would afford a worthy field for the exercise of so exuberant, lofty, and truly poetical a genius as your own. It was related to me the other day over the dinner table, where the conversation happened to run upon various kinds of marvels. The person who told the story was a man of unsuspected veracity:--but what has a poet to do with truth? However, you might venture to rely upon his testimony, even though you had the character of a faithful historian to support. There is in Africa a town called Hippo, situated not far from the sea-coast: it stands upon a navigable lake, communicating with an estuary in the form of a river, which alternately flows into the lake, or into the ocean, according to the ebb and flow of the tide. People of all ages amuse themselves here with fishing, sailing, or swimming; especially boys, whom love of play brings to the spot. With these it is a fine and manly achievement to be able to swim the farthest; and he that leaves the shore and his companions at the greatest distance gains the victory. It happened, in one of these trials of skill, that a certain boy, bolder than the rest, launched out towards the opposite shore. He was met by a dolphin, who sometimes swam before him, and sometimes behind him, then played round him, and at last took him upon his back, and set him down, and afterwards took him up again; and thus he carried the poor frightened fellow out into the deepest part; when immediately he turns back again to the shore, and lands him among his companions. The fame of this remarkable accident spread through the town, and crowds of people flocked round the boy (whom they viewed as a kind of prodigy) to ask him questions and hear him relate the story.The next day the shore was thronged with spectators, all attentively watching the ocean, and (what indeed is almost itself an ocean) the lake. Meanwhile the boys swam as usual, and among the rest, the boy I am speaking of went into the lake, but with more caution than before. The dolphin appeared again and came to the boy, who, together with his companions, swam away with the utmost precipitation. The dolphin, as though to invite and call them back, leaped and dived up and down, in a series of circular movements. This he practised the next day, the day after, and for several days together, till the people (accustomed from their infancy to the sea) began to be ashamed of their timidity. They ventured, therefore, to advance nearer, playing with him and calling him to them, while he, in return, suffered himself to be touched and stroked. Use rendered them courageous. The boy, in particular, who first made the experiment, swam by the side of him, and, leaping upon his back, was carried backwards and forwards in that manner, and thought the dolphin knew him and was fond of him, while he too had grown fond of the dolphin. There seemed, now, indeed, to be no fear on either side, the confidence of the one and tameness of the other mutually increasing; the rest of the boys, in the meanwhile, surrounding and encouraging their companion. It is very remarkable that this dolphin was followed by a second, which seemed only as a spectator and attendant on the former; for he did not at all submit to the same familiarities as the first, but only escorted him backwards and forwards, as the boys did their comrade. But what is further surprising, and no less true than what I have already related, is that this dolphin, who thus played with the boys and carried them upon his back, would come upon the shore, dry himself in the sand, and, as soon as he grew warm, roll back into the sea.It is a fact that Octavius Avitus, deputy governor of the province, actuated by an absurd piece of superstition, poured some ointment[160] over him as he lay on the shore: the novelty and smell of which made him retire into the ocean, and it was not till several days after that he was seen again, when he appeared dull and languid; however, he recovered his strength and continued his usual playful tricks. All the magistrates round flocked hither to view this sight, whose arrival, and prolonged stay, was an additional expense, which the slender finances of this little community would ill afford; besides, the quiet and retirement of the place was utterly destroyed. It was thought proper, therefore, to remove the occasion of this concourse, by privately killing the poor dolphin. And now, with what a flow of tenderness will you describe this affecting catastrophe![161] and how will your genius adorn and heighten this moving story! Though, indeed, the subject does not require any fictitious embellishments; it will be sufficient to describe the actual facts of the case without suppression or diminution. Farewell.<b>CVIII -- TO FUSCUS</b>
+
+You want to know how I portion out my day, in my summer villa at Tuscum? I get up just when I please; generally about sunrise, often earlier, but seldom later than this. I keep the shutters closed, as darkness and silence wonderfully promote meditation. Thus free and abstracted from these outward objects which dissipate attention, I am left to my own thoughts; nor suffer my mind to wander with my eyes, but keep my eyes in subjection to my mind, which, when they are not distracted by a multiplicity of external objects, see nothing but what the imagination represents to them. If I have any work in hand, this is the time I choose for thinking it out, word for word, even to the minutest accuracy of expression. In this way I compose more or less, according as the subject is more or less difficult, and I find myself able to retain it. I then call my secretary, and, opening the shutters, dictate to him what I have put into shape, after which I dismiss him, then call him in again, and again dismiss him. About ten or eleven o'clock (for I do not observe one fixed hour), according to the weather, I either walk upon my terrace or in the covered portico, and there I continue to meditate or dictate what remains upon the subject in which I am engaged. This completed, I get into my chariot, where I employ myself as before, when I was walking, or in my study; and find this change of scene refreshes and keeps up my attention. On my return home, I take a little nap, then a walk, and after that repeat out loud and distinctly some Greek or Latin speech, not so much for the sake of strengthening my voice as my digestion;[162] though indeed the voice at the same time is strengthened by this practice. I then take another walk, am anointed, do my exercises, and go into the bath.At supper, if I have only my wife or a few friends with me, some author is read to us; and after supper we are entertained either with music or an interlude. When that is finished, I take my walk with my family, among whom I am not without some scholars. Thus we pass our evenings in varied conversation; and the day, even when at the longest, steals imperceptibly away. Upon some occasions I change the order in certain of the articles abovementioned. For instance, if I have studied longer or walked more than usual, after my second sleep, and reading a speech or two aloud, instead of using my chariot I get on horseback; by which means I ensure as much exercise and lose less time. The visits of my friends from the neighbouring villages claim some part of the day; and sometimes, by an agreeable interruption, they come in very seasonably to relieve me when I am feeling tired. I now and then amuse myself with hunting, but always take my tablets into the field, that, if I should meet with no game, I may at least bring home something. Part of my time too (though not so much as they desire) is allotted to my tenants; whose rustic complaints, along with these city occupations, make my literary studies still more delightful to me. Farewell. --<b>CIX -- To PAULINUS</b>
+
+As you are not of a disposition to expect from your friends the ordinary ceremonial observances of society when they cannot observe them without inconvenience to themselves, so I love you too steadfastly to be apprehensive of your taking otherwise than I wish you should my not waiting upon you on the first day of your entrance upon the consular office, especially as I am detained here by the necessity of letting my farms upon long leases. I am obliged to enter upon an entirely new plan with my tenants: for under the former leases, though I made them very considerable abatements, they have run greatly in arrear. For this reason several of them have not only taken no sort of care to lessen a debt which they found themselves incapable of wholly discharging, but have even seized and consumed all the produce of the land, in the belief that it would now be of no advantage to themselves to spare it. I must therefore obviate this increasing evil, and endeavour to find out some remedy against it. The only one I can think of is, not to reserve my rent in money, but in kind, and so place some of my servants to overlook the tillage, and guard the stock; as indeed there is no sort of revenue more agreeable to reason than what arises from the bounty of the soil, the seasons, and the climate. It is true, this method will require great honesty, sharp eyes, and many hands. However, I must risk the experiment, and, as in an inveterate complaint, try every change of remedy. You see, it is not any pleasurable indulgence that prevents my attending you on the first day of your consulship. I shall celebrate it nevertheless, as much as if I were present, and pay my vows for you here, with all the warmest tokens of joy and congratulation. Farewell.<b>CX -- To FUSCUS</b>
+
+You are much pleased, I find, with the account I gave you in my former letter of how I spend the summer season at Tuscum, and desire to know what alteration I make in my method when I am at Laurentum in the winter. None at all, except abridging myself of my sleep at noon, and borrowing a good piece of the night before daybreak and after sunset for study: and if business is very urgent (which in winter very frequently happens), instead of having interludes or music after supper, I reconsider whatever I have previously dictated, and improve my memory at the same time by this frequent mental revision. Thus I have given you a general sketch of my mode of life in summer and winter; to which you may add the intermediate seasons of spring and autumn, in which, while losing nothing out of the day, I gain but little from the night. Farewell.
+
+]
+
+FOOTNOTES TO THE LETTERS OF PLINY] 1 (return) [ A pupil and intimate friend of Paetus Thrasea, the distinguished Stoic philosopher. Arulenus was put to death by Domitian for writing a panegyric upon Thrasea.]
+
+2 (return) [ The impropriety of this expression, in the original, seems to be in the word stigmosum, which Regulus, probably either coined through affectation or used through ignorance. It is a word, at least, which does not occur in any author of authority: the translator has endeavoured, therefore, to preserve the same sort of impropriety, by using an expression of like unwarranted stamp in his own tongue. M.]3 (return) [ An allusion to a wound he had received in the war between Vitellius and Vespasian.]
+
+4 (return) [ A brother of Piso Galba's adopted son. He was put to death by Nero.]
+
+5 (return) [ Sulpicius Camerinus, put to death by the same emperor, upon some frivolous charge.]
+
+6 (return) [ A select body of men who formed a court of judicature, called the centurnviral court. Their jurisdiction extended chiefly, if not entirely, to questions of wills and intestate estates. Their number, it would seem, amounted to 100. M.]
+
+7 (return) [ Junius Mauricus, the brother of Rusticus Arulenus. Both brothers were sentenced on the same day, Arulenue to execution and Mauricui to banishment.]
+
+8 (return) [ There seems to have been a cast of uncommon blackness in the character of this Regulus; otherwise the benevolent Pliny would scarcely have singled him out, as he has in this and some following letters, for the subject of his warmest contempt and indignation. Yet, infamous as he was, he had his flatterers and admirers; and a contemporary poet frequently represents him as one of the most finished characters of the age, both in eloquence and virtue. M.]9 (return) [ The Decurii were a sort of senators in the municipal or corporate cities of Italy. M.]
+
+10 (return) [ "Euphrates was a native of Tyre, or, according to others, of Byzantium. He belonged to the Stoic school of philosophy. In his old age he became tired of life, and asked and obtained from Hadrian permission to put an end to himself by poison." Smith's Dict. of Greek and Roman Biog.]
+
+11 (return) [ A pleader and historian of some distinction, mentioned by Tacitus, Ann. XIV. 19, and by Quintilian, X, I, 102.]
+
+12 (return) [ Padua.]
+
+13 (return) [ Domitian]
+
+14 (return) [ Iliad, XII. 243. Pope.]
+
+15 (return) [ Equal to about $4,000 of our money. After the reign of Augustus the value of the sesterces.]
+
+16 (return) [ "The equestrian dignity, or that order of the Roman people which we commonly call knights, had nothing in it analogous to any order of modern knighthood, but depended entirely upon a valuation of their estates;and every citizen, whose entire fortune amounted to 400,000 sesterces, that is, to about $16,000 of our money, was enrolled, of course, in the list of knights, who were considered as a middle order between the senators and common people, yet, without any other distinction than the privilege of wearing a gold ring, which was the peculiar badge of their order." Life of Cicero, Vol. I. III. in note. M.]
+
+17 (return) [ An elegant Attic orator, remarkable for the grace and lucidity of his style, also for his vivid and accurate delineations of character.]
+
+18 (return) [ A graceful and powerful orator, and friend of Densosthenes.]
+
+19 (return) [ A Roman orator of the Augustan age. He was a poet and historian as well, but gained most distinction as an orator.]
+
+20 (return) [ A man of considerable taste, talent, and eloquence, but profligate and extravagant. He was on terms of some intimacy with Cicero.]
+
+21 (return) [ The praetor was assisted by ten assessors, five of whom were senators, and the rest knights. With these he was obliged to consult before he pronounced sentence. M.]
+
+22 (return) [ A contemporary and rival of Aristophanes.]
+
+23 (return) [ Aristophanes, Ach. 531]24 (return) [ Thersites. Iliad, II. V. 212.]
+
+25 (return) [ Ulysses. Iliad, III. V. 222.]
+
+26 (return) [ Menelaua. Iliad, III. V. 214.]
+
+27 (return) [ Great-grandfather of the Emperor M. Aurelius.]
+
+28 (return) [ An eminent lawyer of Trajan's reign.]
+
+29 (return) [ The philosophers used to hold their disputations in the gymnasia and porticoes, being places of the most public resort for walking, &c. M.]
+
+30 (return) [ "Verginius Rufus was governor of Upper Germany at the time of the revolt of Julius Vindex in Gaul. A.D. 68. The soldiers of Verginius wished to raise him to the empire, but he refused the honour, and marched against Vindex, who perished before Vesontio. After the death of Nero, Verginius supported the claims of Galba, and accompanied him to Rome. Upon Otho's death, the soldiers again attempted to proclaim Verginius emperor, and in consequence of his refusal of the honour, he narrowly escaped with his life." (See Smith's Dict. of Greek and Rom. Biog., &c.)]
+
+31 (return) [ Nerva.]
+
+32 (return) [ The historian,]33 (return) [ Namely, of augurs. "This college, as regulated by Sylla, consisted of fifteen, who were all persons of the first distinction in Rome; it was a priesthood for life, of a character indelible, which no crime or forfeiture could efface; it was necessary that every candidate should be nominated to the people by two augurs, who gave a solemn testimony upon, oath of his dignity and fitness for that office." Middleton's Life of Cicero, I. 547. M.]
+
+34 (return) [ The ancient Greeks and Romans did not sit up at the table as we do, but reclined round it on couches, three and sometimes even four occupying one conch, at least this latter was the custom among the Romans. Each guest lay flat upon his chest while eating, reaching out his hand from time to time to the table, for what he might require. As soon as he had made a sufficient meal, he turned over upon his left side, leaning on the elbow.]
+
+35 (return) [ A people of Germany.]
+
+36 (return) [ "Any Roman priest devoted to the service of one particular god was designated Flamen, receiving a distinguishing epithet from the deity to whom he ministered. The office was understood to last for life; but a flamen might be compelled to resign for a breach of duty, or even on account of the occurrence of an ill-omened accident while discharging his functions." Smith's Dictionary of Antiquities.]
+
+37 (return) [ Trajan.]38 (return) [ By a law passed A. D. 76, it was enacted that every citizen of Rome who had three children should be excused from all troublesome offices where he lived. This privilege the emperors sometimes extended to those who were not legally entitled to it.]
+
+39 (return) [ About 54 cents.]
+
+40 (return) [ Avenue]
+
+41 (return) [ "Windows made of a transparent stone called lapis specularis (mica), which was first found in Hispania Citerior, and afterwards in Cyprus, Cappadocia, Sicily, and Africa; but the best caine from Spain and Cappadocia. It was easily split into the thinnest sheets. Windows, made of this stone were called specularia." Smith's Dictionary of Antiquities.]
+
+42 (return) [ A feast held in honour of the god Saturn, which began on the 19th of December, and continued as some say, for seven days. It was a time of general rejoicing, particularly among the slaves, who had at this season the privilege of taking great liberties with their masters. M.]
+
+43 (return) [ Cicero and Quintilian have laid down rules how far, and in what instances, this liberty was allowable, and both agree it ought to be used with great sagacity and judgment. The latter of these excellent critics mentions a witticism of Flavius Virginius, who asked one of these orators, "Quot nillia assuum deciamassett." How many miles he had declaimed. M.]44 (return) [ This was an act of great ceremony; and if Aurelia's dress was of the kind which some of the Roman ladies used, the legacy must have been considerable which Regulus had the impudence to ask. M.]
+
+45 (return) [ $3,350,000.]
+
+46 (return) [ A poet to whom Quintilian assigns the highest rank, as a Writer of tragedies, among his contemporaries (book X. C. I. 98). Tacitus also speaks of him in terms of high appreciation (Annals, v. 8).]
+
+47 (return) [ Stepson of Augustus and brother to Tiberius. An amiable and popular prince. He died at the close of his third campaign, from a fracture received by falling from his horse.]
+
+48 (return) [ A historian under Augustus and Tiberius. He wrote part of a history of Rome, which was continued by the elder Pliny; also an account of the German war, to which Quintilian makes allusion (Inst. X. 103), pronouncing him, as a historian, "estimable in all respects, yet in some things failing to do himself justice."]
+
+49 (return) [ The distribution of time among the Romans was very different from ours. They divided the night into four equal parts, which they called watches, each three hours in length; and part of these they devoted either to the pleasures of the table or to study.The natural day they divided into twelve hours, the first beginning with sunrise, and the last ending with sunset; by which means their hours were of unequal length, varying according to the different seasons of the year. The time for business began with sunrise, and continued to the fifth hour, being that of dinner, which with them was only a slight repast. From thence to the seventh hour was a time of repose; a custom which still prevails in Italy. The eighth hour was employed in bodily exercises; after which they constantly bathed, and from thence went to supper. M.]
+
+50 (return) [ $16,000.]
+
+51 (return) [ Born about A. D. 25. He acquired some distinction as an advocate. The only poem of his which has come down to us is a heavy prosaic performance in seventeen books, entitled "Tunica," and containing an account of the events of the Second Punic War, from the capture of Saguntum to the triumph of Scipio Africanus. See Smith's Dict. of Gr. and Roin. Biog.]
+
+52 (return) [ Trajan.]
+
+53 (return) [ Spurinna's wife.]
+
+54 (return) [ Domitian banished the philosophers not only from Rome, but Italy, as Suetonius (Dom. C. X.) and Aulus Gellius (Noct. Att. b. XV. CXI. 3, 4, 5) Inform us among these was the celebrated Epictetus. M.]55 (return) [ The following is the story, as related by several of the ancient historians. Paetus, having joined Scribonianus, who was in arms, in Illyria, against Claudius, was taken after the death of Scribonianus, and condemned to death. Arria having, in vain, solicited his life, persuaded him to destroy himself, rather than suffer the ignominy of falling by the executioner's hands; and, in order to encourage him to an act, to which, it seems, he was not particularly inclined, she set him the example in the manner Pliny relates. M.]
+
+56 (return) [ Trajan.]
+
+57 (return) [ The Roman, used to employ their criminals in the lower ones of husbandry, such as ploughing, &c. Pun. H. N. 1. 18, 3. M.]
+
+58 (return) [ About $500,000.]
+
+59 (return) [ About $800,000.]
+
+60 (return) [ One of the famous seven hills upon which Rome was situated.]
+
+61 (return) [ Mart. LX. 19.]
+
+62 (return) [ Calpurnia, Pliny's wife.]
+
+63 (return) [ Now Citta di Castello.]64 (return) [ The Romans had an absolute power over their children, of which no age or station of the latter deprived them.]
+
+65 (return) [ Their business was to interpret dreams, oracles, prodigies, &c., and to foretell whether any action should be fortunate or prejudicial, to particular persons, or to the whole commonwealth. Upon this account, they very often occasioned the displacing of magistrates, the deferring of public assemblies, &c. Kennet's Ron,. Antig. M.]
+
+66 (return) [ Trajan.]
+
+67 (return) [ A slave was incapable of property; and, therefore, whatever he acquired became the right of his master. M.]
+
+68 (return) [ "Their office was to attend upon the rites of Vests, the chief part of which was the preservation of the holy fire. If this fire happened to go out, it was considered impiety to light it at any common flame, but they made use of the pure and unpolluted rays of the sun for that purpose. There were various other duties besides connected with their office. The chief rules prescribed them were, to vow the strictest chastity, for the space of thirty years. After this term was completed, they had liberty to leave the order. If they broke their vow of virginity, they were buried alive in a place allotted to that peculiar use." Kennet's Antiq. Their reputation for sanctity was so high that Livy mentions the fact of two of those virgins having violated their vows, as a prodigy that, threatened destruction to the Roman state. Lib. XXII. C. 57.And Suetonius inform, us that Augiastus had so high an opinion of this religious order, that he consigned the care of his will to the Vestal Virgins. Suet, in vit. Aug. C. XCI. M.]
+
+69 (return) [ It was usual with Domitian to triumph, not only without a victory, but even after a defeat, M.]
+
+70 (return) [ Euripides' Hecuba,]
+
+71 (return) [ The punishment inflicted upon the violators of Vestal chastity was to be scourged to death. M.]
+
+72 (return) [ Calpurnia, Pliny's wife.]
+
+73 (return) [ Gratilla was the wife of Rusticus: Rusticus was put to death by Domitian, and Gratilla banished. It was sufficient crime in the reign of that execrable prince to be even a friend of those who were obnoxious to him. M.]
+
+74 (return) [ In the original, scrinium, box for holding MSS.]
+
+75 (return) [ The hippodromus, in its proper signification, was a place, among the Grecians, set apart for horse-racing and other exercises of that kind. But it seems here to be nothing more than a particular walk, to which Pliny perhaps gave that name, from its bearing some resemblance in its form to the public places so called. M.]76 (return) [ Now called Frascati, Tivoli, and Palestrina, all of them situated in the Campagna di Roma, and at no great distance from Rome. M.]
+
+77 (return) [ "This is said in allusion to the idea of Nemesis supposed to threaten excessive prosperity." (Church and Brodribb.)]
+
+78 (return) [ About $15,000.]
+
+79 (return) [ About $42,000.]
+
+80 (return) [ None had the right of using family pictures or statues but those whose ancestors or themselves had borne some of the highest dignities. So that the jus imaginis was much the same thing among the Romans as the right of bearing a coat of arms among us. Ken. Antiq. M.]
+
+81 (return) [ The Roman physicians used to send their patients in consumptive cases into Egypt, particularly to Alexandria. M.]
+
+82 (return) [ Frejus, in Provence, the southern part of France. M.]
+
+83 (return) [ A court of justice erected by Julius Cæsar in the forum, and opposite to the basilica Aemilia.]
+
+84 (return) [ The deceniviri seem to have been magistrates for the administration of justice, subordinate to the praetors, who (to give the English reader a general notion of their office) may be termed lords chief justices,as the judges here mentioned were something in the nature of our juries. M.]
+
+85 (return) [ About $400.]
+
+86 (return) [ This silly piece of superstition seems to have been peculiar to Regulus, and not of any general practice; at least it is a custom of which we find no other mention in antiquity. M.]
+
+87 (return) [ "We gather from Martial that the wearing of these was not an unusual practice with fops and dandies." See Epig. II. 29, in which he ridicules a certain Rufus, and hints that if you were to "strip off the 'splenia (plasters)' from his face, you would find out that he was a branded runaway slave." (Church and Brodribb.)]
+
+88 (return) [ His wife.]
+
+89 (return) [ Hom. II. lib, I. V. 88.]
+
+90 (return) [ Now Alzia, not far from Corno.]
+
+91 (return) [ Nevertheless, Javolentis Priscus was one of the most eminent lawyers of his time, and is frequently quoted in the Digesta of Justinian.]
+
+92 (return) [ In the Bay of Naples.]93 (return) [ The Romans used to lie or walk naked in the sun, after anointing their bodies with oil, which was esteemed as greatly contributing to health, and therefore daily practised by them. This custom, however, of anointing themselves, is inveighed against by the Satirists as in the number of their luxurious indulgences: but since we find the elder Pliny here, and the amiable Spurinna in a former letter, practising this method, we can not suppose the thing itself was esteemed unmanly, but only when it was attended with some particular circumstances of an over-refined delicacy. M.]
+
+94 (return) [ Now called Castelamare, in the Bay of Naples. M.]
+
+95 (return) [ The Stoic and Epicurean philosophers held that the world was to be destroyed by fire, and all things fall again into original chaos; not excepting even the national gods themselves from the destruction of this general conflagration. M.]
+
+96 (return) [ The lake Larius.]
+
+97 (return) [ Those families were styled patrician whose ancestors had been members of the senate in the earliest times of the regal or consular government. M.]
+
+98 (return) [ Trajan]
+
+99 (return) [ The consuls, though they were chosen in August, did not enter upon their office till the first of January,during which interval they were styled consules designati, consuls elect. It was usual for them upon that occasion to compliment the emperor, by whose appointment, after the dissolution of the republican government, they were chosen. M.]
+
+100 (return) [ So called, because it formerly belonged to Camillus. M.]
+
+101 (return) [ Civita Vecchia.]
+
+102 (return) [ Trajan.]
+
+103 (return) [ An officer in the Roman legions, answering in some sort to a captain In our companies. M.]
+
+104 (return) [ This law was made by Augustus Cæsar; but it nowhere clearly appears what was the peculiar punishment it inflicted. M.]
+
+105 (return) [ An officer employed by the emperor to receive and regulate the public revenue in the provinces. M.]
+
+106 (return) [ Comprehending Transylvania, Moldavia, and Walaehia. M.]
+
+107 (return) [ Polycletus was a freedman, and great favourite of Nero. M.]
+
+108 (return) [ Memmius, or Rhemmius (the critics are not agreed which),was author of a law by which it was enacted that whosoever was convicted of calumny and false accusation should be stigmatised with a mark in his forehead; and by the law of the twelve tables, false accusers were to suffer the same punishment as would have been inflicted upon the person unjustly accused if the crime had been proved. M.]
+
+109 (return) [ Trajan.]
+
+110 (return) [ Unction was much esteemed and prescribed by the ancients. Celsus expressly recommends it in the remission of acute distempers: "ungi leniterque pertractari corpus, etiam in acutic et recentibus niorbis opartet; us rernissione fumen," &c. Celsi Med. ed. Aliucloveen, p. 88. M.]
+
+111 (return) [ His wife.]
+
+112 (return) [ See book V. letter XX.]
+
+113 (return) [ Trajan.]
+
+114 (return) [ One of the Bithynians employed to manage the trial. M.]
+
+115 (return) [ About $28,000.]
+
+116 (return) [ About $26,000.]117 (return) [ There is a kind of witticism in this expression, which will be lost to the mere English reader unless he be informed that the Romans had a privilege, confirmed to them by several laws which passed in the earlier ages of the republic, of appealing from the decisions of the magistrates to the general assembly of the people: and they did so in the form of words which Pomponius here applies to a different purpose. M.]
+
+118 (return) [ The priests, as well as other magistrates, exhibited public games to the people when they entered upon their office. M.]
+
+119 (return) [ A famous lawyer who flourished in the reign of the emperor Claudius: those who followed his opinions were said to be Cassians, or of the school of Cassius. M.]
+
+120 (return) [ A Stoic philosopher and native of Tarsus. He was tutor for some time to Octavius, afterwards Augustus, Cæsar.]
+
+121 (return) [ Balzac very prettily observes: "Il y a des riviere: qui ne font jamais tact de bien que quand elles se dibordent; de eneme, l'amitie n'a mealleur quo l'exces." M.]
+
+122 (return) [ Persons of rank and literature among the Romans retained in their families a domestic whose sole business was to read to them. M.]
+
+123 (return) [ It was a doctrine maintained by the Stoics that all crimes are equal M.]124 (return) [ About $400.]
+
+125 (return) [ About $600.]
+
+126 (return) [ About $93.]
+
+127 (return) [ Hom. II. lib. IX. V. 319.]
+
+128 (return) [ Those of Nero and Domitian. M.]
+
+129 (return) [ When Nerva and Trajan received the empire. M.]
+
+130 (return) [ A slave could acquire no property, and consequently was incapable bylaw of making a will. M.]
+
+131 (return) [ Now called Amelia, a town in Ombria. M.]
+
+132 (return) [ Now Laghetto di Bassano. M.]
+
+133 (return) [ A province in Anatolia, or Asia Minor. M.]
+
+134 (return) [ The performers at these games were divided into companies, distinguished by the particular colour of their habits; the principal of which were the white, the red, the blue, and the green. Accordingly the spectators favoured one or the other colour, as humour and caprice inclined them.In the reign of Justinian a tumult arose in Constantinople, occasioned merely by a contention among the partisans of these several colours, wherein no less than 30,000 men lost their lives. M.]
+
+135 (return) [ Now called Castello di Baia, in Terra di Lavoro. It was the place the Romans chose for their winter retreat; and which they frequented upon account of its warm baths. Some few ruins of the beautiful villas that once covered this delightful coast still remain; and nothing can give one a higher idea of the prodigious expense and magnificence of the Romans in their private buildings than the manner in which some of these were situated. It appears from this letter, as well as from several other passages in the classic writers, that they actually projected into the sea, being erected upon vast piles, sunk for that purpose.]
+
+136 (return) [ The buskin was a kind of high shoe worn upon the stage by the actors of tragedy, in order to give them a more heroical elevation of stature; as the sock was something between a shoe and stocking, it was appropriated to the comic players. M.]
+
+137 (return) [ Lyons.]
+
+138 (return) [ He was accused of treason, under pretence that in a dramatic piece which he composed he had, in the characters of Paris and Oenone, reflected upon Domitian for divorcing his wife Domitia. Suet, in Vit. Domit. C. 10. M.]
+
+139 (return) [ Helvidius.]140 (return) [ Upon the accession of Nerva to the empire, after the death of Domitian. M.]
+
+142 (return) [ Our authors first wife; of whom we have no particular account. After her death, he married his favourite Calpurnia. M.]
+
+143 (return) [ It is very remarkable that, when any senator was asked his opinion in the house, he had the privilege of speaking as long as he pleased upon any other affair before he came to the point in question. Aul. Gell. IV. C. 10. M.]
+
+144 (return) [ Aeneid, LIB. VI. V. 105.]
+
+145 (return) [ Arria and Fannia.]
+
+146 (return) [ The appellation by which the senate was addressed. M.]
+
+147 (return) [ The tribunes were magistrates chosen at first out of the body of the commons, for the defence of their liberties, and to interpose in all grievances offered by their superiors. Their authority extended even to the deliberations of the senate. M.]
+
+148 (return) [ Diomed's speech to Nestor, advising him to retire from the field of battle. Iliad, VIII. 302. Pope. M.]
+
+149 (return) [ Nerva.]150 (return) [ Domitian; by whom he had been appointed consul elect, though he had not yet entered upon that office. M.]
+
+151 (return) [ These persons were introduced at most of the tables of the great, for the purposes of mirth and gaiety, and constituted an essential part in all polite entertainments among the Romans. It is surprising how soon this great people fell off from their original severity of manners, and were tainted with the stale refinements of foreign luxury. Livy dates the rise of this and other unmanly delicacies from the conquest of Scipio Asiaticus over Antiochus; that is when the Roman name had scarce subsisted above a hundred and threescore years. "Luxuriae peregrinae origio," says he, "exercitu Asiatico in urbem invecta est." This triumphant army caught, it seems, the contagious softness of the people it subdued; and, on its return to Rome, spread an infection among their countrymen, which worked by slow degrees, till it effected their total destruction. Thus did Eastern luxury revenge itself on Roman arms. It may be wondered that Pliny should keep his own temper, and check the indignation of his friends at a scene which was fit only for the dissolute revels of the infamous Trimalchio. But it will not, perhaps, be doing justice to our author to take an estimate of his real sentiments upon this point from the letter before us. Genitor, it seems, was a man of strict, but rather of too austere morals for the free turn of the age: "emendatus et gravis: paulo etiam horridior et durior ut in hac licentia teniporuni" (Ep. III. 1. 3).But as there is a certain seasonable accommodation to the manners of the times, not only extremely Consistent with, but highly conducive to, the interests of virtue, Pliny, probably, may affect a greater latitude than he in general approved, in order to draw off his friend from that stiffness and unyielding disposition which might prejudice those of a gayer turn against him, and consequently lessen the beneficial influence of his virtues upon the world. M.]
+
+152 (return) [ See letter CIII.]
+
+153 (return) [ Iliad, XXI. 387. Pope. M.]
+
+154 (return) [ Iliad, V. 356, speaking of Mars. M.; Iliad, IV. 452. Pope.]
+
+155 (return) [ The design of Pliny in this letter is to justify the figurative expressions he had employed, probably, in same oration, by instances of the same warmth of colouring from those great masters of eloquence, Demosthenes and his rival Aesehines. But the force of the passages which he produces from those orators must necessarily be greatly weakened to a mere modern reader, some of them being only hinted at, as generally well known; and the metaphors in several of the others have either lost much of their original spirit and boldness, by being introduced and received in Common language, or cannot, perhaps, he preserved in an English translation. M.]
+
+156 (return) [ See 1st Philippic.]
+
+157 (return) [ See Demosthenes' speech in defence of Cteisphon.]158 (return) [ See end Olynthiac.]
+
+159 (return) [ See Aesehines' speech against Ctesiphon.]
+
+160 (return) [ It was a religious ceremony practised by the ancients to pour precious ointments upon the statues of their gods: Avitus, it is probable, imagined this dolphin was some sea-divinity, and therefore expressed his veneration of him by the solemnity of a sacred unction. M.]
+
+161 (return) [ The overflowing humanity of Pliny's temper breaks out upon all occasions, but he discovers it in nothing more strongly than by the impression which this little story appears to have made upon him. True benevolence, indeed, extends itself through the whole compass of existence, and sympathises with the distress of every creature of sensation. Little minds may be apt to consider a compassion of this inferior kind as an instance of weakness; but it is undoubtedly the evidence of a noble nature. Homer thought it not unbecoming the character even of a hero to melt into tears at a distress of this sort, and has given us a most amiable and affecting picture of Ulysses weeping over his faithful dog Argus, when he expires at his feet:
+
+"Soft pity touch'd the mighty master's soul; Adown his cheek the tear unbidden stole, Stole unperceived; he turn'd his head and dry'd The drop humane.". (Odyss. XVII. Pope.) M.]
+
+162 (return) [ By the regimen which Pliny here follows, one would imagine, if he had not told us who were his physicians,that the celebrated Celsus was in the number. That author expressly recommends reading aloud, and afterwards walking, as beneficial in disorders of the stomach: "Si quis stomacho laborat, leqere clare debet; post lectionem ambulare," &c. Celsi Medic. 1. I. C. 8. M.]<b>CORRESPONDENCE WITH THE EMPEROR TRAJAN</b>
+
+<b>I -- TO THE EMPEROR TRAJAN[1001]</b>
+
+THE pious affection you bore, most sacred Emperor, to your august father induced you to wish it might be late ere you succeeded him. But the immortal gods thought proper to hasten the advancement of those virtues to the helm of the commonwealth which had already shared in the steerage.[1002] May you then, and the world through your means, enjoy every prosperity worthy of your reign: to which let me add my wishes, most excellent Emperor, upon a private as well as public account, that your health and spirits may be preserved firm and unbroken.<b>II -- To THE EMPEROR TRAJAN</b>
+
+You have occasioned me, Sir, an inexpressible pleasure in deeming me worthy of enjoying the privilege which the laws confer on those who have three children. For although it was from an indulgence to the request of the excellent Julius Servianus, your own most devoted servant, that you granted this favour, yet I have the satisfaction to find by the words of your rescript that you complied the more willingly as his application was in my behalf. I cannot but look upon myself as in possession of my utmost wish, after having thus received, at the beginning of your most auspicious reign, so distinguishing a mark of your peculiar favour; at the same time that it considerably heightens my desire of leaving a family behind me. I was not entirely without this desire even in the late most unhappy times: as my two marriages will induce you to believe. But the gods decreed it better, by reserving every valuable privilege to the bounty of your generous dispensations. And indeed the pleasure of being a father will be so much more acceptable to me now, that I can enjoy it in full security and happiness.<b>III -- To THE EMPEROR TRAJAN</b>
+
+THE experience, most excellent Emperor, I have had of your unbounded generosity to me, in my own person, encourages me to hope I may be yet farther obliged to it, in that of my friends. Voconius Romanus (who was my schoolfellow and companion from our earliest years) claims the first rank in that number; in consequence of which I petitioned your sacred father to promote him to the dignity of the senatorial order. But the completion of my request is reserved to your goodness; for his mother had not then advanced, in the manner the law directs, the liberal gift[1003] of four hundred thousand sesterces, which she engaged to give him, in her letter to the late emperor, your father. This, however, by my advice she has since done, having made over certain estates to him, as well as completed every other act necessary to make the conveyance valid. The difficulties therefore being removed which deferred the gratification of our wishes, it is with full confidence I venture to assure you of the worth of my friend Romanus, heightened and adorned as it is not only by liberal culture, but by his extraordinary tenderness to his parents as well. It is to that virtue he owes the present liberality of his mother; as well as his immediate succession to his late father's estate, and his adoption by his father-in-law. To these personal qualifications, the wealth and rank of his family give additional lustre; and I persuade myself it will be some further recommendation that I solicit in his behalf. Let me, then, entreat you, Sir, to enable me to congratulate Romanus on so desirable an occasion, and at the same time to indulge an eager and, I hope, laudable ambition, of having it in my power to boast that your favourable regards are extended not only to myself, but also to my friend.<b>IV -- To THE EMPEROR TRAJAN</b>
+
+WHEN by your gracious indulgence, Sir, I was appointed to preside at the treasury of Saturn, I immediately renounced all engagements of the bar (as indeed I never blended business of that kind with the functions of the state), that no avocations might call off my attention from the post to which I was appointed. For this reason, when the province of Africa petitioned the senate that I might undertake their cause against Marius Priscus, I excused myself from that office; and my excuse was allowed. But when afterwards the consul elect proposed that the senate should apply to us again, and endeavour to prevail with us to yield to its inclinations, and suffer our names to be thrown into the urn, I thought it most agreeable to that tranquillity and good order which so happily distinguishes your times not to oppose (especially in so reasonable an instance) the will of that august assembly. And, as I am desirous that all my words and actions may receive the sanction of your exemplary virtue, I hope you approve of my compliance.<b>V -- TRAJAN TO PLINY</b>
+
+You acted as became a good citizen and a worthy senator, by paying obedience to the just requisition of that august assembly: and I have full confidence you will faithfully discharge the business you have undertaken.
+
+<b>VI -- To THE EMPEROR TRAJAN</b>
+
+HAVING been attacked last year by a very severe and dangerous illness, I employed a physician, whose care and diligence, Sir, I cannot sufficiently reward, but by your gracious assistance. I entreat you therefore to make him a denizen of Rome; for as he is the freedman of a foreign lady, he is, consequently, himself also a foreigner. His name is Harpocras; his patroness (who has been dead a considerable time) was Thermuthis, the daughter of Theon. I further entreat you to bestow the full privileges of a Roman citizen upon Hedia and Antonia Harmeris, the freedwomen of Antonia Maximilla, a lady of great merit. It is at her desire I make this request.<b>VII -- To THE EMPEROR TRAJAN</b>
+
+I RETURN YOU thanks, Sir, for your ready compliance with my desire, in granting the complete privileges of a Roman to the freedwomen of a lady to whom I am allied and also for making Harpocras, my physician, a denizen of Rome. But when, agreeably to your directions, I gave in an account of his age, and estate, I was informed by those who are better skilled in the affairs than I pretend to be that, as he is an Egyptian, I ought first to have obtained for him the freedom of Alexandria before he was made free of Rome. I confess, indeed, as I was ignorant of any difference in this case between those of Egypt and other countries, I contented myself with only acquainting you that he had been manumitted by a foreign lady long since deceased. However, it is an ignorance I cannot regret, since it affords me an opportunity of receiving from you a double obligation in favour of the same person. That I may legally therefore enjoy the benefit of your goodness, I beg you would be pleased to grant him the freedom of the city of Alexandria, as well as that of Rome. And that your gracious intentions may not meet with any further obstacles, I have taken care, as you directed, to send an account to your freedman of his age and possessions.<b>VIII -- TRAJAN TO PLINY</b>
+
+IT is my resolution, in pursuance of the maxim observed by the princes my predecessors, to be extremely cautious in granting the freedom of the city of Alexandria: however, since you have obtained of me the freedom of Rome for your physician Harpocras, I cannot refuse you this other request. You must let me know to what district he belongs, that I may give you a letter to my friend Pompeius Planta, governor of Egypt.<b>IX -- To THE EMPEROR TRAJAN</b>
+
+I CANNOT express, Sir, the pleasure your letter gave me, by which I am informed that you have made my physician Harpocras a denizen of Alexandria; notwithstanding your resolution to follow the maxim of your predecessors in this point, by being extremely cautious in granting that privilege. Agreeably to your directions, I acquaint you that Harpocras belongs to the district of Memphis.[1004] I entreat you then, most gracious Emperor, to send me, as you promised, a letter to your friend Pompeius Planta, governor of Egypt. As I purpose (in order to have the earliest enjoyment of your presence, so ardently wished for here) to come to meet you, I beg, Sir, you would permit me to extend my journey as far as possible.<b>X -- To THE EMPEROR TRAJAN</b>
+
+I WAS greatly obliged, Sir, in my late illness, to Posthumius Marinus, my physician; and I cannot make him a suitable return, but by the assistance of your wonted gracious indulgence. I entreat you then to make Chrysippus Mithridates and his wife Stratonica (who are related to Marinus) denizens of Rome. I entreat likewise the same privilege in favour of Epigonus and Mithridates, the two sons of Chrysippus; but with this restriction [1005] that they may remain under the dominion of their father, and yet reserve their right of patronage over their own freedmen. I further entreat you to grant the full privileges of a Roman to L. Satrius Abascantius, P. Caesius Phosphorus, and Pancharia Soteris. This request I make with the consent of their patrons.[1005]
+
+XI -- To THE EMPEROR TRAJAN
+
+AFTER your late sacred father, Sir, had, in a noble speech, as well as by his own generous example, exhorted and encouraged the public to acts of munificence, I implored his permission to remove the several statues which I had of the former emperors to my corporation, and at the same time requested permission to add his own to the number. For as I had hitherto let them remain in the respective places in which they stood when they were left to me by several different inheritances, they were dispersed in distant parts of my estate. He was pleased to grant my request, and at the same time to give me a very ample testimony of his approbation.I immediately, therefore, wrote to the decurii, to desire they would allot a piece of ground, upon which I might build a temple at my own expense; and they, as a mark of honour to my design, offered me the choice of any site I might think proper. However, my own ill-health in the first place, and later that of your father, together with the duties of that employment which you were both pleased to entrust me, prevented my proceeding with that design. But I have now, I think, a convenient opportunity of making an excursion for the purpose, as my monthly attendances ends on the 1st of September, and there are several festivals in the month following. My first request, then, is that you would permit me to adorn the temple I am going to erect with your statue, and next (in order to the execution of my design with all the expedition possible) that you would indulge me with leave of absence. It would ill become the sincerity I profess, were I to dissemble that your goodness in complying with this desire will at the same time be extremely serviceable to me in my own private affairs. It is absolutely necessary I should not defer any longer the letting of my lands in that province; for, besides that they amount to above four hundred thousand sesterces,[1006] the time for dressing the vineyards is approaching, and that business must fall upon my new tenants.[1007] The unfruitfulness of the seasons besides, for several years past, obliges me to think of making some abatements in my rents; which I cannot possibly settle unless I am present. I shall be indebted then to your indulgence, Sir, for the expedition of my work of piety, and the settlement of my own private affairs, if you will be pleased to grant me leave of absence[1008] for thirty days. I cannot give myself a shorter time, as the town and the estate of which I am speaking lie above a hundred and fifty miles from Rome.<b>XII -- TRAJAN TO PLINY</b>
+
+You have given me many private reasons, and every public one, why you desire leave of absence; but I need no other than that it is your desire: and I doubt not of your returning as soon as possible to the duty of an office which so much requires your attendance. As I would not seem to check any instance of your affection towards me, I shall not oppose your erecting my statue in the place you desire; though in general I am extremely cautious in giving any encouragement to honours of that kind.<b>XIII -- To THE EMPEROR TRAJAN</b>
+
+[1009] As I am sensible, Sir, that the highest applause my actions can receive is to be distinguished by so excellent a prince, I beg you would be graciously pleased to add either the office of augur or septemvir [1009] (both which are now vacant) to the dignity I already enjoy by your indulgence; that I may have the satisfaction of publicly offering up those vows for your prosperity, from the duty of my office, which I daily prefer to the gods in private, from the affection of my heart.<b>XIV -- To THE EMPEROR TRAJAN</b>
+
+HAVING safely passed the promontory of Malea, I am arrived at Ephesus with all my retinue, notwithstanding I was detained for some time by contrary winds: a piece of information, Sir, in which, I trust, you will feel yourself concerned. I propose pursuing the remainder of my journey to the province[1010] partly in light vessels, and partly in post- chaises: for as the excessive heats will prevent my travelling altogether by land, so the Etesian winds,[1011] which are now set in, will not permit me to proceed entirely by sea.<b>XV -- TRAJAN TO PLINY</b>
+
+YOUR information, my dear Pliny, was extremely agreeable to mc, as it does concern me to know in what manner you arrive at your province. It is a wise intention of yours to travel either by sea or land, as you shall find most convenient.<b>XVI -- To THE EMPEROR TRAJAN</b>
+
+As I had a very favourable voyage to Ephesus, so in travelling by post- chaise from thence I was extremely troubled by the heats, and also by some slight feverish attacks, which kept me some time at Pergamus. From there, Sir, I got on board a coasting vessel, but, being again detained by contrary winds, did not arrive at Bithynia so soon as I had hoped. However, I have no reason to complain of this delay, since (which indeed was the most auspicious circumstance that could attend me) I reached the province in time to celebrate your birthday. I am at present engaged in examining the finances of the Prusenses,[1012] their expenses, revenues, and credits; and the farther I proceed in this work, the more I am convinced of the necessity of my enquiry. Several large sums of money are owing to the city from private persons, which they neglect to pay upon various pretences; as, on the other hand, I find the public funds are, in some instances, very unwarrantably applied. This, Sir, I write to you immediately on my arrival. I entered this province on the 17th of September,[1013] and found in it that obedience and loyalty towards yourself which you justly merit from all mankind. You will consider, Sir, whether it would not be proper to send a surveyor here; for I am inclined to think much might be deducted from what is charged by those who have the conduct of the public works if a faithful admeasurement were to be taken: at least I am of that opinion from what I have already seen of the accounts of this city, which I am now going into as fully as is possible.<b>XVII -- TRAJAN TO PLINY</b>
+
+I SHOULD have rejoiced to have heard that you arrived at Bithynia without the smallest inconvenience to yourself or any of your retinue, and that your journey from Ephesus had been as easy as your voyage to that place was favourable. For the rest, your letter informs me, my dearest Secundus, on what day you reached Bithynia. The people of that province will be convinced, I persuade myself, that I am attentive to their interest: as your conduct towards them will make it manifest that I could have chosen no more proper person to supply my place. The examination of the public accounts ought certainly to be your first employment, as they are evidently in great disorder. I have scarcely surveyors sufficient to inspect those works[1014] which I am carrying on at Rome, and in the neighbourhood; but persons of integrity and skill in this art may be found, most certainly, in every province, so that they will not fail you if only you will make due enquiry.<b>XVIII -- To THE EMPEROR TRAJAN</b>
+
+THOUGH I am well assured, Sir, that you, who never omit any opportunity of exerting your generosity, are not unmindful of the request I lately made to you, yet, as you have often indulged me in this manner, give me leave to remind and earnestly entreat you to bestow the praetorship now vacant upon Attius Sura. Though his ambition is extremely moderate, yet the quality of his birth, the inflexible integrity he has preserved in a very narrow fortune, and, more than all, the felicity of your times, which encourages conscious virtue to claim your favour, induce him to hope he may experience it in the present instance.<b>XIX -- To THE EMPEROR TRAJAN</b>
+
+I CONGRATULATE both you and the public, most excellent Emperor, upon the great and glorious victory you have obtained; so agreeable to the heroism of ancient Rome. May the immortal gods grant the same happy success to all your designs, that, under the administration of so many princely virtues, the splendour of the empire may shine out, not only in its former, but with additional lustre.[1015]<b>XX -- To THE EMPEROR TRAJAN</b>
+
+Mv lieutenant, Servilius Pudens, came to Nicomedia,[1016] Sir, on the 24th of November, and by his arrival freed me, at length, from the anxiety of a very uneasy expectation.
+
+<b>XXI -- To THE EMPEROR TRAJAN</b>
+
+YOUR generosity to me, Sir, was the occasion of uniting me to Rosianus Geminus, by the strongest ties; for he was my quaestor when I was consul. His behaviour to me during the continuance of our offices was highly respectful, and he has treated me ever since with so peculiar a regard that, besides the many obligations I owe him upon a public account, I am indebted to him for the strongest pledges of private friendship. I entreat you, then, to comply with my request for the advancement of one whom (if my recommendation has any weight) you will even distinguish with your particular favour; and whatever trust you shall repose in him, he will endeavour to show himself still deserving of an higher. But I am the more sparing in my praises of him, being persuaded his integrity, his probity, and his vigilance are well known to you, not only from those high posts which he has exercised in Rome within your immediate inspection, but from his behaviour when he served under you in the army. One thing, however, my affection for him inclines me to think, I have not yet sufficiently done; and therefore, Sir, I repeat my entreaties that you will give me the pleasure, as early as possible, of rejoicing in the advancement of my quaestor, or, in other words, of receiving an addition to my own honours, in the person of my friend.<b>XXII -- To THE EMPEROR TRAJAN</b>
+
+IT is not easy, Sir, to express the joy I received when I heard you had, in compliance with the request of my mother-in-law and myself, granted Coelius Clemens the proconsulship of this province after the expiration of his consular office; as it is from thence I learn the full extent of your goodness towards me, which thus graciously extends itself through my whole family. As I dare not pretend to make an equal return to those obligations I so justly owe you, I can only have recourse to vows, and ardently implore the gods that I may not be found unworthy of those favours which you are repeatedly conferring upon me.<b>XXIII -- To THE EMPEROR TRAJAN</b>
+
+I RECEIVED, Sir, a dispatch from your freedman, Lycormas, desiring me, if any embassy from Bosporus[1017] should come here on the way to Rome, that I would detain it till his arrival. None has yet arrived, at least in the city[1018] where I now am. But a courier passing through this place from the king of Sarmatia,[1019] I embrace the opportunity which accidentally offers itself, of sending with him the messenger which Lycormas despatched hither, that you might be informed by both their letters of what, perhaps, it may be expedient you should be acquainted with at one and the same time.<b>XXIV -- To THE EMPEROR TRAJAN</b>
+
+I AM informed by a letter from the king of Sarmatia that there are certain affairs of which you ought to be informed as soon as possible. In order, therefore, to hasten the despatches which his courier was charged with to you, I granted him an order to make use of the public post.[1020]<b>XXV -- To THE EMPEROR TRAJAN</b>
+
+THE ambassador from the king of Sarmatia having remained two days, by his own choice, at Nicea, I did not think it reasonable, Sir, to detain him any longer: because, in the first place, it was still uncertain when your freedman, Lycormas, would arrive, and then again some indispensable affairs require my presence in a different part of the province. Of this I thought it necessary that you should be informed, because I lately acquainted you in a letter that Lycormas had desired, if any embassy should come this way from Bosporus, that I would detain it till his arrival. But I saw no plausible pretext for keeping him back any longer, especially as the despatches from Lycormas, which (as I mentioned before) I was not willing to detain, would probably reach you some days sooner than this ambassador.<b>XXVI -- To THE EMPEROR TRAJAN</b>
+
+I RECEIVED a letter, Sir, from Apuleius, a military man, belonging to the garrison at Nicomedia, informing me that one Callidromus, being arrested by Maximus and Dionysius (two bakers, to whom he had hired himself), fled for refuge to your statue;[1021] that, being brought before a magistrate, he declared he, was formerly slave to Laberius Maximus, but being taken prisoner by Susagus[1022] in Moesia,[1023] he was sent as a present from Decebalus to Pacorus, king of Parthia, in whose service he continued several years, from whence he made his escape, and came to Nicomedia. When he was examined before me, he confirmed this account, for which reason I thought it necessary to send[1024] him to you. This I should have done sooner, but I delayed his journey in order to make an inquiry concerning a seal ring which he said was taken from him, upon which was engraven the figure of Pacorus in his royal robes; I was desirous (if it could have been found) of transmitting this curiosity to you, with a small gold nugget which he says he brought from out of the Parthian mines. I have affixed my seal to it, the impression of which is a chariot drawn by four horses.<b>XXVII -- To THE EMPEROR TRAJAN</b>
+
+YOUR freedman and procurator,[1025] Maximus, behaved, Sir, during all the time we were together, with great probity, attention, and diligence; as one strongly attached to your interest, and strictly observant of discipline. This testimony I willingly give him; and I give it with all the fidelity I owe you.<b>XXVIII -- To THE EMPEROR TRAJAN</b>
+
+AFTER having experienced, Sir, in Gabius Bassus, who commands on the Pontic[1026] coast, the greatest integrity, honour, and diligence, as well as the most particular respect to myself, I cannot refuse him my best wishes and suffrage; and I give them to him with all that fidelity which is due to you. I have found him abundantly qualified by having served in the army under you; and it is owing to the advantages of your discipline that he has learned to merit your favour. The soldiery and the people here, who have had full experience of his justice and humanity, rival each other in that glorious testimony they give of his conduct, both in public and in private; and I certify this with all the sincerity you have a right to expect from me.<b>XXIX -- To THE EMPEROR TRAJAN</b>
+
+NYMPHIDIUS Lupus,[1027] Sir, and myself, served in the army together; he commanded a body of the auxiliary forces at the same time that I was military tribune; and it was from thence my affection for him began. A long acquaintance has since mutually endeared and strengthened our friendship. For this reason I did violence to his repose, and insisted upon his attending me into Bithynia, as my assessor in council. He most readily granted me this proof of his friendship; and without any regard to the plea of age, or the ease of retirement, he shared, and continues to share, with me, the fatigue of public business. I consider his relations, therefore, as my own; in which number Nymphidius Lupus, his son, claims my particular regard. He is a youth of great merit and indefatigable application, and in every respect well worthy of so excellent a father. The early proof he gave of his merit, when he commanded a regiment of foot, shows him to be equal to any honour you may think proper to confer upon him; and it gained him the strongest testimony of approbation from those most illustrious personages, Julius Ferox and Fuscus Salinator. And I will add, Sir, that I shall rejoice in any accession of dignity which he shall receive as an occasion of particular satisfaction to myself.<b>XXX -- To THE EMPEROR TRAJAN</b>
+
+I BEG your determination, Sir, on a point I am exceedingly doubtful about: it is whether I should place the public slaves[1028] as sentries round the prisons of the several cities in this province (as has been hitherto the practice) or employ a party of soldiers for that purpose? On the one hand, I am afraid the public slaves will not attend this duty with the fidelity they ought; and on the other, that it will engage too large a body of the soldiery. In the meanwhile I have joined a few of the latter with the former. I am apprehensive, however, there may be some danger that this method will occasion a general neglect of duty, as it will afford them a mutual opportunity of throwing the blame upon each other.<b>XXXI -- TRAJAN TO PLINY</b>
+
+THERE is no occasion, my dearest Secundus, to draw off any soldiers in order to guard the prisons. Let us rather persevere in the ancient customs observed in this province, of employing the public slaves for that purpose; and the fidelity with which they shall execute their duty will depend much upon your care and strict discipline. It is greatly to be feared, as you observe, if the soldiers should be mixed with the public slaves, they will mutually trust to each other, and by that means grow so much the more negligent. But my principal objection is that as few soldiers as possible should be withdrawn from their standard.

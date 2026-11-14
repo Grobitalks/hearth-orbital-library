@@ -1,0 +1,1549 @@
+HOLB1	28299	0	0	80	455	115
+5	C. W. Bardeen.
+11	I. A. Comenii opera Didactica par. 1. p. 6, Am…
+30	I.
+37	II.
+41	IV.
+43	V.
+49	VIII.
+55	XII.
+58	XIII.
+61	XIV.
+64	XV.
+68	XVII.
+70	XVIII.
+73	XIX.
+75	XX.
+78	XXI.
+80	XXII.
+93	XXIX.
+95	XXX.
+97	XXXI.
+100	XXXII.
+105	XXXIV.
+109	XXXV.
+114	XXXVIII.
+118	XXXIX.
+122	XL.
+126	XLI.
+130	XLII.
+134	XLIII.
+138	XLIV.
+140	XLV.
+144	XLVI.
+148	XLVII.
+155	L.
+159	LII.
+161	LIII.
+164	LIV.
+166	LV.
+170	LVI.
+173	LVII.
+175	LVIII.
+179	LIX.
+184	LXII.
+188	LXIV.
+193	LXVI.
+196	LXVII.
+201	LXIX.
+203	LXX.
+207	LXXII.
+209	LXXIII.
+214	LXXV.
+217	LXXVI.
+219	LXXVII.
+222	LXXVIII.
+224	LXXIX.
+228	LXXXI.
+232	LXXXIII.
+235	LXXXIV.
+238	LXXXV.
+241	LXXXVI.
+244	LXXXVII.
+249	XC.
+253	XCI.
+255	XCII.
+258	XCIII.
+260	XCIV.
+264	XCVI.
+268	XCVIII.
+270	XCIX.
+273	C.
+276	CI.
+281	CII.
+285	CIV.
+290	CIV.
+293	CV.
+295	CVI.
+302	CVIII.
+304	CIX.
+308	CX.
+311	CXI.
+315	CXII.
+319	CXIV.
+321	CXV.
+324	CXVI.
+328	CXVII.
+331	CXVIII.
+335	CXIX.
+339	CXX.
+342	CXXI.
+344	CXXII.
+347	CXXIII.
+350	CXXIV.
+353	CXXV.
+357	CXXVI.
+360	CXXVII.
+363	CXXVIII.
+365	CXXIX.
+367	CXXX.
+371	CXXXII.
+375	CXXXIV.
+377	CXXXV.
+381	CXXXVII.
+386	CXXXIX.
+390	CXL.
+392	CXLI.
+396	CXLII.
+398	CXLIII.
+401	CXLIV.
+404	CXLV.
+408	CXLVI.
+412	CXLVII.
+419	CXLVIII.
+423	CXLIX.
+426	CL.
+428	CLI.
+[Transcriber's Note:
+
+This text is intended for users whose text readers cannot use the "real" (Unicode/UTF-8) version of the file. There are two main changes:
+
+--The "oe" ligature, used in the original Latin text, has been unpacked to its separate letters. The "oe" sequence (words such as "coeuntia") does not occur. --The two sections numbered CIV used astrological symbols. When a symbol was used <i>in addition to</i> text such as a planet name, it is shown as empty brackets in its original location: Mercury []. When a symbol was used <i>instead of</i> text it is shown in brackets: [Mercury].
+
+In the <i>Orbis Pictus</i> text, apparent errors in punctuation and typography (such as Italic type where Roman is expected) were unchanged except in chapter headers. Other errors, whether corrected or not, are listed at the end of the e-text. Note that "Dutch" generally means "German".
+
+The original text was printed in parallel columns with English on the left. For this e-text the English and the Latin are shown in small blocks with differing indentation. Line breaks are approximately but not exactly the same as in the original.]
+
+The
+
+ORBIS PICTUSof
+
+JOHN AMOS COMENIUS.
+
+This work is, indeed, the first children's picture book.
+  --ENCYCLOPÆDIA BRITANNICA, 9TH EDITION, vi. 182.
+
+[Publisher's Device:
+School Bulletin Publications 1874]
+
+SYRACUSE, N.Y.:
+C. W. BARDEEN, PUBLISHER,
+1887.
+
+Copyright, 1887, by C. W. BARDEEN.
+
+It may not be generally known that Comenius was once solicited to become President of Harvard College. The following is a quotation from Vol. II, p. 14, of Cotton Mather's MAGNALIA:
+
+"That brave old man, Johannes Amos Commenius, the fame of whose worth has been TRUMPETTED as far as more than three languages (whereof everyone is indebted unto his JANUA) could carry it, was indeed agreed withal, by one Mr. Winthrop in his travels through the LOW COUNTRIES, to come over to New England, and illuminate their Colledge and COUNTRY, in the quality of a President, which was now become vacant.But the solicitations of the Swedish Ambassador diverting him another way, that incomparable Moravian became not an American."
+
+This was on the resignation of President Dunster, in 1654--Note of Prof. PAYNE, Compayre's History of Education, Boston, 1886, p. 125.
+
+EDITOR'S PREFACE.
+
+When it is remembered that this work is not only an educational classic of prime importance, but that it was the first picture-book ever made for children and was for a century the most popular text-book in Europe, and yet has been for many years unattainable on account of its rarity, the wonder is, not that it is reproduced now but that it has not been reproduced before. But the difficulty has been to find a satisfactory copy. Many as have been the editions, few copies have been preserved. It was a book children were fond of and wore out in turning the leaves over and over to see the pictures. Then as the old copper-plates became indistinct they were replaced by wood-engravings, of coarse execution, and often of changed treatment. Von Raumer complains that the edition of 1755 substitutes for the original cut of the Soul, (No. 43, as here given,) a picture of an eye, and in a table the figures I. I. II. I. I. II., and adds that it is difficult to recognize in this an expressive psychological symbol, and to explain it. In an edition I have, published in Vienna in 1779, this cut is omitted altogether, and indeed there are but 82 in place of the 157 found in earlier editions, the following, as numbered in this edition, being omitted:1, the alphabet, 2, 36, 43, 45, 66, 68, 75, 76, 78-80, 87, 88, 92-122, 124, 126, 128, 130-141.
+
+On the other hand, the Vienna edition contains a curious additional cut. It gives No. 4, the Heaven, practically as in this edition, but puts another cut under it in which the earth is revolving about the sun; and after the statement of Comenius, "<i>Coelum rotatur, et ambit terram, in medio stantem</i>" interpolates: "<i>prout veteres crediderunt; recentiores enim defendunt motum terrae circa solem</i>" [as the ancients used to think; for later authorities hold that the motion of the earth is about the sun.]
+
+Two specimen pages from another edition are inserted in Payne's Compayré's History of Education (between pp. 126, 127). The cut is the representative of No. 103 in this edition, but those who compare them will see not only how much coarser is the execution of the wood-cut Prof. Payne has copied, but what liberties have been taken with the design. The only change in the Latin text, however, is from <i>Designat Figuras rerum</i> in the original, to <i>Figuram rerum designat</i>.
+
+In this edition the cuts are unusually clear copies of the copper-plates of the first edition of 1658, from which we have also taken the Latin text. The text for the English translation is from the English edition of 1727, in which for the first time the English words were so arranged as to stand opposite their Latin equivalents.The cuts have been reproduced with great care by the photographic process. I thought best not to permit them to be retouched, preferring occasional indistinctness to modern tampering with the originals that would make them less authentic.
+
+The English text is unchanged from that of the 1727 edition, except in rare instances where substitutions have been made for single words not now permissible. The typography suggests rather than imitates the quaintness of the original, and the paper was carefully selected to produce so far as practicable the impression of the old hand-presses.
+
+In short my aim has been to put within the reach of teachers at a moderate price a satisfactory reproduction of this important book; and if the sale of the <i>Orbis Pictus</i> seems to warrant it, I hope subsequently to print as a companion volume the <i>Vestibulum</i> and <i>Janua</i> of the same author, of which I have choice copies.<b>C. W. BARDEEN.</b>
+
+<i>Syracuse, Sept. 28, 1887</i>.
+
+COMMENTS UPON THE ORBIS PICTUS.
+
+During four years he here prosecuted his efforts in behalf of education with commendable success, and wrote, among other works, his celebrated Orbis Pictus, which has passed through a great many editions, and survived a multitude of imitations. --SMITH'S HISTORY OF EDUCATION, N.Y., 1842, p. 129.
+
+The most eminent educator of the seventeenth century, however, was John Amos Comenius...... His Orbis Sensualium Pictus, published in 1657, enjoyed a still higher renown. The text was much the same with the Janua, being intended as a kind of elementary encyclopædia; but <i>it differed from all previous text-books</i>, in being illustrated with pictures, on copper and wood, of the various topics discussed in it. This book was universally popular. In those portions of Germany where the schools had been broken up by the "Thirty years' war," mothers taught their children from its pages. Corrected and amended by later editors, it continued for nearly two hundred years, to be a text-book of the German schools. --HISTORY AND PROGRESS OF EDUCATION, BY PHILOBIBLIUS, N.Y., 1860, p. 210.
+
+The "Janua" would, therefore, have had but a short-lived popularity with teachers, and a still shorter with learners, if Comenius had not carried out his principle of appealing to the senses, and called in the artist.The result was the "Orbis Pictus," a book which proved a favorite with young and old, and maintained its ground in many a school for more than a century.... I am sorry I cannot give a specimen of this celebrated book with its quaint pictures. The artist, of course, was wanting in the technical skill which is now commonly displayed even in the cheapest publications, but this renders his delineations none the less entertaining. As a picture of the life and manners of the seventeenthcentury, the work has great historical interest, which will, I hope, secure for it another English edition. --QUICK'S EDUCATIONAL REFORMERS, 1868; Syracuse edition, p. 79.
+
+But the principle on which he most insisted is that the teaching of words and things must go together, hand in hand. When we consider how much time is spent over new languages, what waste of energy is lavished on mere preparation, how it takes so long to lay a foundation that there is no time to lay a building upon it, we must conclude that it is in the acceptance and development of this principle that the improvement of education will in the future consist. Any one who attempts to inculcate this great reform will find that its first principles are contained in the writings of Comenius. --ENCYCLOPAEDIA BRITANNICA, 9th edition, vii. 674.
+
+The first edition of this celebrated book was published at Nuremberg in 1657; soon after a translation was made into English by Charles Hoole. The last English edition appeared in 1777, and this was reprinted in America in 1812. This was the first illustrated school-book, and was the first attempt at what now passes under the name of "object lessons." --SHORT HISTORY OF EDUCATION, W. H. PAYNE, Syracuse, 1881, p. 103.Of these, the "Janua" and the "Orbis" were translated into most European and some of the Oriental languages. It is evident that these practices of Comenius contain the germs of things afterwards connected with the names of Pestalozzi and Stow. It also may be safely assumed that many methods that are now in practical use, were then not unknown to earliest teachers. --GILL'S SYSTEMS OF EDUCATION, London, 1876, p. 13.
+
+The more we reflect on the method of Comenius, the more we shall see it is replete with suggestiveness, and we shall feel surprised that so much wisdom can have lain in the path of schoolmasters for two hundred and fifty years, and that they have never stooped to avail themselves of its treasures. --BROWNING'S INTRODUCTION TO THE HISTORY OF EDUCATIONAL THEORIES, 1882, New York edition, p. 67.
+
+The "Orbis Pictus," the first practical application of the intuitive method, had an extraordinary success, and has served as a model for the innumerable illustrated books which for three centuries have invaded the schools. --COMPAYRE'S HISTORY OF PEDAGOGY, Payne's translation, Boston, 1886, p. 127.
+
+He remained at Patak four years, which were characterized by surprising literary activity. During this short period he produced no less than fifteen different works, among them his "World Illustrated" (<i>Orbis Pictus</i>), the most famous of all his writings. It admirably applied the principle that words and things should be learned together.... The "World Illustrated" had an enormous circulation, and remained for a long time the most popular text-book in Europe. --PAINTER'S HISTORY OF EDUCATION, N.Y., 1886, p. 206.Or, si ce livre n'est qu'un équivalent se la véritable intuition; si, ensuite, le contenu du tout paraît fort défectueux, au point de vue de la science de nos jours; si, enfin, un effort exagéré pour l'intégrité de la conception de l'enfant a créé, pour les choses modernes, trop de dénominations latines qui paraissent douteuses, l'Orbis pictus était pourtant, pour son temps, une oeuvre très originale et très spirituelle, qui fit faire un grand progrès à la pédagogie et servit longtemps de livre d'école utile et de modèle à d'innombrables livres d'images, souvent pires. --HISTOIRE D' ÉDUCATION, FREDERICK DITTES, Redolfi's French translation, Paris, 1880, p. 178.
+
+Here Comenius wrote, among others, his second celebrated work the "Orbis Pictus." He was not, however, able to finish it in Hungary for want of a skilful engraver on copper. For such a one he carried it to Michael Endter, the bookseller at Nuremberg, but the engraving delayed the publication of the book for three years more. In 1657 Comenius expressed the hope that it would appear during the next autumn. With what great approbation the work was received at its first appearance, is shown by the fact that within two years, in 1659, Endter had published a second enlarged edition. --KARL VON RAUMER, translated in Barnard's Journal of Education, v. 260.
+
+The "Janua" had an enormous sale, and was published in many languages, but the editions and sale of the "Orbis Pictus" far exceeded those of the "Janua," and, indeed, for some time it was the most popular text-book in Europe, and deservedly so. --LAURIE'S JOHN AMOS COMENIUS, Boston edition, p. 185.
+
+Joh. Amos ComeniiORBIS SENSUALIUM PICTUS:
+
+hoc est
+
+Omnium principalium in Mundo
+Rerum, & in Vita Actionum,
+
+PICTURA & NOMENCLATURA.
+
+Joh. Amos Comenius's
+
+VISIBLE WORLD:
+
+or, a
+
+NOMENCLATURE, AND PICTURES
+
+of all the
+
+CHIEF THINGS that are in the WORLD, and
+  of MENS EMPLOYMENTS therein;
+
+In above 150 COPPER CUTS.
+
+WrittenBy the Author in Latin and High Dutch, being
+  one of his last ESSAYS; and the most suitable to
+  Childrens Capacity of any he hath hitherto made.
+
+Translated into English
+By CHARLES HOOLE, M.A.
+For the Use of Young Latin Scholars.
+
+The ELEVENTH EDITION Corrected, and the English made to answer Word for Word to the Latin.
+
+<i>Nihil est in intellectu, quod non prius fuit in sensu.</i> Arist.
+
+<i>London</i>; Printed for, and sold by <i>John</i> and <i>Benj.</i> <i>Sprint</i>, at the <i>Bell</i> in <i>Little Britain</i>, 1728.
+
+<i>Gen.</i> ii. 19, 20.
+
+The Lord God brought unto <i>Adam</i> every Beast of the Field, and every Fowl of the Air, to see what he would call them. And <i>Adam</i> gave Names to all Cattle, and to the Fowl of the Air, and to every Beast of the Field.
+
+Gen. ii. 19, 20.
+
+_Adduxit Dominus Deus ad <i>Adam</i> cuncta Animantia Terræ, & universa volatilia Coeli, ut videret quomodo vocaret illa.Appellavitque <i>Adam</i> Nominibus suis cuncta Animantia, & universa volatilia Coeli, & omnes Bestias Agri._
+
+<b>I. A. Comenii opera Didactica par. 1. p. 6, Amst. 1657. fol.</b>
+
+Didacticæ nostræ prora & puppis esto: Investigare, & invenire modum, quo Docentes minus doceant, Discentes vero plus discant: Scholæ minus habeant Strepitus, nauseæ, vani laboris; plus autem otii, deliciarum, solidique profectus: Respublica Christiana minus tenebrarum confusionis dissidiorum; plus lucis, ordinis, pacis & tranquilitatis.
+
+THE AUTHOR'S PREFACE TO THE READER.
+
+<i>Instruction is the means to expel Rudeness</i>, with which young wits ought to be well furnished in Schools: But so, as that the teaching be 1. <i>True</i>, 2. <i>Full</i>, 3. <i>Clear</i>, and 4. <i>Solid</i>.
+
+1. It will be <i>true</i>, if nothing be taught but such as is beneficial to ones life; lest there be a cause of complaining afterwards. We know not necessary things, because we have not learned things necessary.
+
+2. It will be <i>full</i>, if the mind be polished for wisdom, the tongue for eloquence, and the hands for a neat way of living. This will be that <i>grace</i> of one's life, <i>to be wise, to act, to speak</i>.3, 4. It will be <i>clear</i>, and by that, firm and <i>solid</i>, if whatever is taught and learned, be not obscure, or confused, but apparent, distinct, and articulate, as the fingers on the hands.
+
+The ground of this business, is, that sensual objects may be rightly presented to the senses, for fear they may not be received. I say, and say it again aloud, that this last is the foundation of all the rest: because we can neither act nor speak wisely, unless we first rightly understand all the things which are to be done, and whereof we are to speak. Now there is nothing in the understanding, which was not before in the sense. And therefore to exercise the senses well about the right perceiving the differences of things, will be to lay the grounds for all wisdom, and all wise discourse, and all discreet actions in ones course of life. Which, because it is commonly neglected in schools, and the things which are to be learned are offered to scholars, without being understood or being rightly presented to the senses, it cometh to pass, that the work of teaching and learning goeth heavily onward, and affordeth little benefit.
+
+See here then a new help for schools, A Picture and Nomenclature of all the chief things in the world, and of men's actions in their way of living: Which, that you, good Masters, may not be loath to run over with your scholars, I will tell you, in short, what good you may expect from it.
+
+It is <i>a little Book</i>, as you see, of no great bulk, yet a brief of the whole world, and a whole language: full of Pictures, Nomenclatures, and Descriptions of things.I. <i>The Pictures</i> are the representation of all visible things, (to which also things invisible are reduced after their fashion) of the whole world. And that in that very order of things, in which they are described in the <i>Janua Latinæ Linguæ</i>; and with that fulness, that nothing very necessary or of great concernment is omitted.
+
+II. <i>The Nomenclatures</i> are the Inscriptions, or Titles set every one over their own Pictures, expressing the whole thing by its own general term.
+
+III. <i>The Descriptions</i> are the explications of the parts of the Picture, so expressed by their own proper terms, as that same figure which is added to every piece of the picture, and the term of it, always sheweth what things belongeth one to another.
+
+Which such Book, and in such a dress may (I hope) serve,
+
+I. To entice witty children to it, that they may not conceit a torment to be in the school, but dainty fare. For it is apparent, that children (even from their infancy almost) are delighted with Pictures, and willingly please their eyes with these lights: And it will be very well worth the pains to have once brought it to pass, that scare-crows may be taken away out of Wisdom's Gardens.
+
+II. This same little Book will serve to stir up the Attention, which is to be fastened upon things, and even to be sharpened more and more: which is also a great matter.For the Senses (being the main guides of childhood, because therein the mind doth not as yet raise up itself to an abstracted contemplation of things) evermore seek their own objects, and if they be away, they grow dull, and wry themselves hither and thither out of a weariness of themselves: but when their objects are present, they grow merry, wax lively, and willingly suffer themselves to be fastened upon them, till the thing be sufficiently discerned. This Book then will do a good piece of service in taking (especially flickering) wits, and preparing them for deeper studies.
+
+III. Whence a third good will follow; that children being won hereunto, and drawn over with this way of heeding, may be furnished with the knowledge of the prime things that are in the world, by sport and merry pastime. In a word, this Book will serve for the more pleasing using of the <i>Vestibulum</i> and <i>Janua Linguarum</i>, for which end it was even at the first chiefly intended. Yet if it like any, that it be bound up in their native tongues also, it promiseth three good thing of itself.
+
+I. First it will afford a device for learning to read more easily than hitherto, especially having a symbolical alphabet set before it, to wit, the characters of the several letters, with the image of that creature, whose voice that letter goeth about to imitate, pictur'd by it. For the young <i>Abc</i> scholar will easily remember the force of every character by the very looking upon the creature, till the imagination being strengthened by use, can readily afford all things; and then having looked over a <i>table of the chief syllables</i> also (which yet was not thought necessary to be added to this book) he may proceed to the viewing of the Pictures, and the inscriptions set over 'em.Where again the very looking upon the thing pictured suggesting the name of the thing, will tell him how the title of the picture is to be read. And thus the whole book being gone over by the bare titles of the pictures, reading cannot but be learned; and indeed too, which thing is to be noted, without using any ordinary tedious spelling, that most troublesome torture of wits, which may wholly be avoided by this method. For the often reading over the Book, by those larger descriptions of things, and which are set after the Pictures, will be able perfectly to beget a habit of reading.
+
+II. The same book being used in English, in English Schools, will serve for the perfect learning of the whole English tongue, and that from the bottom; because by the aforesaid descriptions of things, the words and phrases of the whole language are found set orderly in their own places. And a short English Grammar might be added at the end, clearly resolving the speech already understood into its parts; shewing the declining of the several words, and reducing those that are joined together under certain rules.
+
+III. Thence a new benefit cometh, that that very English Translation may serve for the more ready and pleasant learning of the Latin tongue: as one may see in this Edition, the whole book being so translated, that every where one word answereth to the word over against it, and the book is in all things the same, only in two idioms, as a man clad in a double garment. And there might be also some observations and advertisements added in the end, touching those things only, wherein the use of the Latin tongue differeth from the English. For where there is no difference, there needeth no advertisement to be given.But, because the first <i>tasks of learners ought to be little and single</i>, we have filled this first book of training one up to see a thing of himself, with nothing but rudiments, that is, with the chief of things and words, or with the grounds of the whole world, and the whole language, and of all our understanding about things. If a more perfect description of things, and a fuller knowledge of a language, and a clearer light of the understanding be sought after (as they ought to be) they are to be found somewhere whither there will now be an easy passage by this our <i>little Encyclopædia</i> of things subject to the senses. Something remaineth to be said touching the more chearful use of this book.
+
+I. Let it be given to children into their hands to delight themselves withal as they please, with the sight of the pictures, and making them as familiar to themselves as may be, and that even at home before they be put to school.
+
+II. Then let them be examined ever and anon (especially now in the school) what this thing or that thing is, and is called, so that they may see nothing which they know not how to name, and that they can name nothing which they cannot shew.
+
+III. And let the things named them be shewed, not only in the Picture, but also in themselves; for example, the parts of the body, clothes, books, the house, utensils, &c.
+
+IV. Let them be suffered also to imitate the Pictures by hand, if they will, nay rather, let them be encouraged, that they may be willing:first, thus to quicken the attention also towards the things; and to observe the proportion of the parts one towards another; and lastly to practise the nimbleness of the hand, which is good for many things.
+
+V. If anything here mentioned, cannot be presented to the eye, it will be to no purpose at all to offer them by themselves to the scholars; as colours, relishes, &c., which cannot here be pictured out with ink. For which reason it were to be wished, that things rare and not easy to be met withal at home, might be kept ready in every great school, that they may be shewed also, as often as any words are to be made of them, to the scholars.
+
+Thus at last this school would indeed become a school of things obvious to the senses, and an entrance to the school intellectual. But enough: Let us come to the thing it self.
+
+THE TRANSLATOR, TO ALL JUDICIOUS AND INDUSTRIOUS SCHOOL-MASTERS.
+
+Gentlemen.
+
+There are a few of you (I think) but have seen, and with great willingness made use of (or at least perused,) many of the Books of this well-deserving Author Mr. John Comenius, which for their profitableness to the speedy attainment of a language, have been translated in several countries, out of Latin into their own native tongue.Now the general verdict (after trial made) that hath passed, touching those formerly extant, is this, that they are indeed of singular use, and very advantageous to those of more discretion, (especially to such as already have a smattering of Latin) to help their memories to retain what they have scatteringly gotten here and there, to furnish them with many words, which (perhaps) they had not formerly read, or so well observed; but to young children (whom we have chiefly to instruct) as those that are ignorant altogether of things and words, and prove rather a meer toil and burthen, than a delight and furtherance.
+
+For to pack up many words in memory, of things not conceived in the mind, is to fill the head with empty imaginations, and to make the learner more to admire the multitude and variety (and thereby, to become discouraged,) than to care to treasure them up, in hopes to gain more knowledge of what they mean.
+
+He hath therefore in some of his latter works seemed to move retrograde, and striven to come nearer the reach of tender wits: and in this present Book, he hath, according to my judgment, descended to the very bottom of what is to be taught, and proceeded (as nature it self doth) in an orderly way; first to exercise the senses well, by representing their objects to them, and then to fasten upon the intellect by impressing the first notions of things upon it, and linking them on to another by a rational discourse.Whereas indeed, we, generally missing this way, do teach children as we do parrots, to speak they know not what, nay which is worse, we, taking the way of teaching little ones by Grammar only at the first, do puzzle their imaginations with abstractive terms and secondary intentions, which till they be somewhat acquainted with things, and the words belonging to them, in the language which they learn, they cannot apprehend what they mean. And this I guess to be the reason, why many great persons do resolve sometimes not to put a child to school till he be at least eleven or twelve years of age, presuming that he having then taken notice of most things, will sooner get the knowledge of the words which are applyed to them in any language. But the gross misdemeanor of such children for the most part, have taught many parents to be hasty enough to send their own to school, if not that they may learn, yet (at least) that they might be kept out of harm's way; and yet if they do not profit for the time they have been at school, (no respect at all being had for their years) the Master shall be sure enough to bear the blame.
+
+So that a School-master had need to bend his wits to come within the compass of a child's capacity of six or seven years of age (seeing we have now such commonly brought to our Grammar-schools to learn the Latin Tongue) and to make that they may learn with as much delight and willingness, as himself would teach with dexterity and ease. And at present I know no better help to forward his young scholars than this little Book, which was for this purpose contrived by the Author in the German and Latin Tongues.What profitable use may be had thereof, respecting chiefly that his own country and language, he himself hath told you in his preface; but what use we may here make of it in our Grammar-schools, as it is now translated into English, I shall partly declare; leaving all other men, according to my wont, to their own discretion and liberty, to use or refuse it, as they please. So soon then as a child can read English perfectly, and is brought to us to school to learn Latin, I would have him together with his Accidence, to be provided of this Book, in which he may at least once a day (beside his Accidence) be thus exercised.
+
+I. Let him look over the pictures with their general titles and inscriptions, till he be able to turn readily to any one of them, and to tell its name either in English or Latin. By this means he shall have the method of the Book in his head; and be easily furnished with the knowledge of most things; and instructed how to call them, when at any time he meeteth with them elsewhere, in their real forms.
+
+II. Let him read the description at large: First in English, and afterward in Latin, till he can readily read, and distinctly pronounce the words in both Languages, ever minding how they are spelled. And withal, let him take notice of the figures inserted, and to what part of the picture they direct by their like till he be well able to find out every particular thing of himself, and to name it on a sudden, either in English or Latin.Thus he shall not only gain the most primitive words, but be understandingly grounded in Orthography, which is a thing too generally neglected by us; partly because our English schools think that children should learn it at the Latin, and our Latin schools suppose they have already learn'd it at the English; partly, because our common Grammar is too much defective in this part, and scholars so little exercised therein, that they pass from schools to the Universities and return from thence (some of them) more unable to write true English, than either Latin or Greek. Not to speak of our ordinary Tradesmen, many of whom write such false English, that none but themselves can interpret what they scribble in their bills and shop-books.
+
+III. Then let him get the Titles and Descriptions by heart, which he will more easily do, by reason of these impressions which the viewing of the pictures hath already made in his memory. And now let him also learn, 1. To construe, or give the words one by one, as they answer one another in Latin and English. 2. To Parse, according to the rules, (which I presume by this time) he hath learn'd in the first part of his Accidence; where I would have him tell what part of Speech any word is, and then what accidents belong to it; but especially to decline the nouns and conjugate the verbs according to the Examples in his Rudiments; and this doing will enable him to know the end and use of his Accidence. As for the Rules of Genders of Nouns, and the Præter-perfect-tenses and Supines of Verbs, and those of Concordance and Construction in the latter part of the Accidence, I would not have a child much troubled with them, till by the help of this Book he can perfectly practise so much of Etymology, as concerns the first part of his Accidence only.For that, and this book together, being thoroughly learn'd by at least thrice going them over, will much prepare children to go chearfully forward in their Grammar and School-Authors, especially, if whilst they are employed herein, they be taught also to write a fair and legible hand.
+
+There is one thing to be given notice of, which I wish could have been remedied in this Translation; that the Book being writ in high-Dutch doth express many things in reference to that Country and Speech, which cannot without alteration of some Pictures as well as words be expressed in ours: for the Symbolical Alphabet is fitted for German children rather than for ours. And whereas the words of that Language go orderly one for one with the Latin, our English propriety of Speech will not admit the like. Therefore it will behove those Masters that intend to make use of this Book, to construe it verbatim to their young Scholars, who will quickly learn to do it of themselves, after they be once acquainted with the first words of Nouns, and Verbs, and their manner of variation.
+
+Such a work as this, I observe to have been formerly much desired by some experienced Teachers, and I my self had some years since (whilst my own Child lived) begun the like, having found it most agreeable to the best witted Children, who are most taken up with Pictures from their Infancy, because by them the knowledge of things which they seem to represent (and whereof Children are as yet ignorant) are most easily conveyed to the Understanding. But for as much as the work is now done, though in some things not so completely as it were to be wished, I rejoyce in the use of it, and desist in my own undertakings for the present.And because any good thing is the better, being the more communicated; I have herein imitated a Child who is forward to impart to others what himself has well liked. You then that have the care of little Children, do not much trouble their thoughts and clog their memories with bare Grammar Rudiments, which to them are harsh in getting, and fluid in retaining; because indeed to them they signifie nothing, but a mere swimming notion of a general term, which they know not what it meaneth, till they comprehend particulars, but by this or the like subsidiary, inform them, first with some knowledge of things and words wherewith to express them, and then their Rules of speaking will be better understood and more firmly kept in mind. Else how should a Child conceive what a Rule meaneth, when he neither knoweth what the Latin word importeth, nor what manner of thing it is which is signified to him in his own native Language, which is given him thereby to understand the Rule? For Rules consisting of generalities, are delivered (as I may say) at a third hand, presuming first the things, and then the words to be already apprehended touching which they are made. I might indeed enlarge upon this Subject, it being the very Basis of our Profession, to search into the way of Childrens taking hold by little and little of what we teach them, that so we may apply ourselves to their reach: But I leave the observation thereof to your own daily exercise, and experience got thereby.And I pray God, the fountain and giver of all wisdom, that hath bestowed upon us this gift of Teaching, so to inspire and direct us by his Grace, that we may train up Children in his Fear and in the knowledge of his Son Jesus Christ our Lord; and then no doubt our teaching and their learning of other things subordinate to these, will by the assistance of his blessed Spirit make them able and willing to do him faithful Service both in Church and Commonwealth, as long as they live here, that so they may be eternally blessed with him hereafter. This, I beseech you, beg for me and mine, as I shall daily do for you and yours, at the throne of God's heavenly grace; and remain while I live
+
+Ready to serve you, as I truly love and honour you, and labour willingly in the same Profession with you,
+
+CHARLES HOOLE.
+
+From my School, in
+
+<i>Lothbury, London, Jan. 25, 1658</i>.
+
+<i>N.B.</i> Those Heads or Descriptions which concern things beyond the present apprehension of Children's wits, as, those of Geography, Astronomy, or the like, I would have omitted, till the rest be learned, and a Child be <i>better able to understand them</i>.
+
+_The Judgment of Mr. <i>Hezekiah Woodward</i>, sometimes an <i>eminent Schoolmaster in LONDON</i>, touching a work of this Nature; in his <i>Gate to Science</i>, chap. 2._Certainly <i>the use of Images or Representations is great</i>: If we could make our words as legible to Children as Pictures are, their information therefrom would be quickned and surer. But so we cannot do, though we must do what we can. And if we had Books, wherein are the Pictures of all Creatures, Herbs, Beasts, Fish, Fowls, they would stand us in great stead. For Pictures are the most intelligible Books that Children can look upon. They come closest to Nature, nay, saith Scaliger, Art exceeds her.
+
+AN ADVERTISEMENT CONCERNING THIS EDITION.
+
+As there are some considerable Alterations in the present Edition of this Book from the former, it may be expected an Account should be given of the Reasons for them. 'Tis certain from the Author's Words, that when it was first published, which was in Latin and Hungary, or in Latin and High-Dutch; every where one word answer'd to another over-against it: This might have been observ'd in our English Translation, which wou'd have fully answer'd the design of COMENIUS, and have made the Book much more useful: But Mr.Hoole, (whether out of too much scrupulousness to disturb the Words in some places from the order they were in, or not sufficiently considering the Inconveniences of having the Latin and English so far asunder) has made them so much disagree, that a Boy has sometimes to seek 7 or 8 lines off for the corresponding Word; which is no small trouble to Young Learners who are at first equally unacquainted with all Words, in a Language they are strangers to, except it be such as have Figures of Reference, or are very like in sound; and thus may perhaps, innocently enough join an Adverb in one Tongue, to a Noun in the other; whence may appear the Necessity of the Translation's being exactly literal, and the two Languages fairly answering one another, Line for Line.
+
+If it be objected, such a thing cou'd not be done (considering the difference of the Idioms) without transplacing Words here and there, and putting them into an order which may not perhaps be exactly classical; it ought to be observed, this is design'd for Boys chiefly, or those who are just entering upon the Latin Tongue, to whom every thing ought to be made as plain and familiar as possible, who are not, at their first beginning, to be taught the elegant placing of Latin, nor from such short Sentences as these, but from Discourses where the Periods have a fuller Close. Besides, this way has already taken (according to the Advice of very good Judges,) in some other School-Books of Mr. Hoole's translating, and found to succeed abundantly well.Such Condescensions as these, to the capacities of young Learners are certainly very reasonable, and wou'd be most agreeable to the Intentions of the Ingenious and worthy Author, and his design to suit whatever he taught, to their manner of apprehending it. Whose Excellency in the art of Education made him so famous all over Europe, as to be solicited by several States and Princes to go and reform the Method of their Schools; and whose works carried that Esteem, that in his own Life-time some part of them were not only translated into 12 of the usual Languages of Europe, but also into the <i>Arabic</i>, <i>Turkish</i>, <i>Persian</i>, and <i>Mogolic</i> (the common Tongue of all that part of the <i>East-Indies</i>) and since his death, into the <i>Hebrew</i>, and some others. Nor did they want their due Encouragement here in <i>England</i>, some Years ago; 'till by an indiscreet use of them, and want of a thorow acquaintance with his Method, or unwillingness to part from their old road, they began to be almost quite left off: Yet it were heartily to be wish'd, some Persons of Judgment and Interest, whose Example might have an influence upon others, and bring them into Reputation again, wou'd revive the COMENIAN METHOD, which is no other, than to make our Scholars learn with Delight and chearfulness, and to convey a solid and useful Knowledge of Things, with that of Languages, in an easy, natural and familiar way. <i>Didactic Works</i> (as they are now collected into one volume) for a speedy attaining the Knowledge of Things and Words, join'd with the Discourses of Mr. Lock[A] and 2 or 3 more out of our own Nation, for forming the Mind and settling good Habits, may doubtless be look'd upon to contain the most reasonable, orderly, and completed System of the Art of Education, that can be met with.
+
+[Footnote A: Mr. Lock's Essay upon Education.Dr. Tabor's Christian Schoolmaster.
+
+Dr. Ob. Walker of Education.
+
+Mr. Monro's Essay on Education.
+
+--His just Measures of the pious Institutions of Youth, &c.]
+
+Yet, alas! how few are there, who follow the way they have pointed out? tho' every one who seriously considers it, must be convinc'd of the Advantage; and the generality of Schools go on in the same old dull road, wherein a great part of Children's time is lost in a tiresome heaping up a Pack of dry and unprofitable, or pernicious Notions (for surely little better can be said of a great part of that Heathenish stuff they are tormented with; like the feeding them with hard Nuts, which when they have almost broke their teeth with cracking, they find either deaf or to contain but very rotten and unwholesome Kernels) whilst Things really perfected of the understanding, and useful in every state of Life, are left unregarded, to the Reproach of our Nation, where all other Arts are improved and flourish well, only this of Education of Youth is at a stand; as if that, the good or ill management of which is of the utmost consequence to all, were a thing not worth any Endeavors to improve it, or was already so perfect and well executed that it needed none, when many of the greatest Wisdom and Judgment in several Nations, have with a just indignation endeavor'd to expose it, and to establish a more easy and useful way in its room.'Tis not easy to say little on so important a subject, but thus much may suffice for the present purpose. The Book has merit enough to recommend it self to those who know how to make a right use of it. It was reckon'd one of the Author's best performances; and besides the many Impressions and Translations it has had in parts beyond Sea, has been several times reprinted here. It was endeavor'd no needless Alterations shou'd be admitted in this Edition, and as little of any as cou'd consist with the design of making it plain and useful; to shun the offence it might give to some; and only the Roman and Italic Character alternately made use of, where transplacing of Words cou'd be avoided.
+
+J. H.
+
+London,
+July 13, 1727.
+
+Orbis Sensualium Pictus,
+
+A World of Things Obvious to the Senses drawn in Pictures.<b>I.</b>
+
+Invitation.
+  Invitatio.
+
+<i>The Master and the Boy.</i>
+  <i>Magister & Puer.</i>
+
+M. Come, Boy, learn to be wise.
+  M. Veni, Puer, disce sapere.
+
+P. What doth this mean, <i>to be wise</i>?
+  P. Quid hoc est, <i>Sapere</i>?
+
+M. To understand rightly,
+to do rightly,
+and to speak out rightly
+all that are necessary.
+  M. Intelligere recte,
+  agere recte,
+  et eloqui recte
+  omnia necessaria.
+
+P. Who will teach me this?
+  P. Quis docebit me hoc?M. I, by God's help.
+  M. Ego, cum DEO.
+
+P. How?
+  P. Quomodo?
+
+M. I will guide thee thorow all.
+  M. Ducam te per omnia.
+
+I will shew thee all.
+  Ostendam tibi omnia.
+
+I will name thee all.
+  Nominabo tibi omnia.
+
+P. See, here I am;
+lead me in the name of God.
+  P. En, adsum;
+  duc me in nomine DEI.
+
+M. Before all things,
+thou oughtest to learn
+the plain <i>sounds</i>,
+of which man's <i>speech</i>
+consisteth;
+  M. Ante omnia,  debes discere
+  simplices <i>Sonos</i>
+  ex quibus <i>Sermo</i> humanus
+  constat;
+which <i>living creatures</i>
+know how <i>to make</i>,
+and thy <i>Tongue</i>
+knoweth how to <i>imitate</i>,
+and thy <i>hand</i>
+can <i>picture out</i>.
+  quos <i>Animalia</i>
+  sciunt <i>formare</i>,
+  & tua <i>Lingua</i>
+  scit <i>imitari</i>,
+  & tua <i>Manus</i>
+  potest <i>pingere</i>.
+
+Afterwards we will go
+into the <i>World</i>,
+and we will view all things.
+  Postea ibimus
+  Mundum,
+  & spectabimus omnia.
+
+Here thou hast a lively
+and Vocal Alphabet.  Hic habes vivum
+  et vocale Alphabetum.
+
+[Transcriber's Note: Each item has a separate small illustration. Note that the letters of the alphabet refer to the sound, not to the English or Latin word.]
+
+<i>Cornix</i> cornicatur, à à
+The <i>Crow</i> crieth.
+    A a
+
+<i>Agnus</i> balat, b è è è
+The <i>Lamb</i> blaiteth.
+    B b
+
+<i>Cicàda</i> stridet, cì cì
+The <i>Grasshopper</i> chirpeth.
+    C c
+
+<i>Upupa</i> dicit, du du
+The <i>Whooppoo</i> saith.
+    D d
+
+<i>Infans</i> ejulat, è è è
+The <i>Infant</i> crieth.
+    E e<i>Ventus</i> flat, fi fi
+The <i>Wind</i> bloweth.
+    F f
+
+<i>Anser</i> gingrit, ga ga
+The <i>Goose</i> gagleth.
+    G g
+
+<i>Os</i> halat, hà'h hà'h
+The <i>Mouth</i> breatheth.
+    H h
+
+<i>Mus</i> mintrit, ì ì ì
+The <i>Mouse</i> chirpeth.
+    I i
+
+<i>Anas</i> tetrinnit, kha, kha
+The <i>Duck</i> quaketh.
+    K k
+
+<i>Lupus</i> ululat, lu ulu
+The <i>Wolf</i> howleth.
+    L
+
+<i>Ursus</i> murmurat, mum mum
+The <i>Bear</i> grumbleth.    M m
+
+<i>Felis</i> clamat, nau nau
+The <i>Cat</i> crieth.
+    N n
+
+<i>Auriga</i> clamat, ò ò ò
+The <i>Carter</i> crieth.
+    O o
+
+<i>Pullus</i> pipit, pi pi
+The <i>Chicken</i> peepeth.
+    P p
+
+<i>Cúculus</i> cuculat, kuk ku
+The <i>cuckow</i> singeth.
+    Q q
+
+<i>Canis</i> ringitur, err
+The <i>dog</i> grinneth.
+    R r
+
+<i>Serpens</i> sibilat, si
+The <i>Serpent</i> hisseth.
+    S s<i>Graculus</i> clamat, tac tac
+The <i>Jay</i> crieth.
+    T t
+
+<i>Bubo</i> ululat, ù ù
+The <i>Owl</i> hooteth.
+    U u
+
+<i>Lepus</i> vagit, va
+The <i>Hare</i> squeaketh.
+    W w
+
+<i>Rana</i> coaxat, coax
+The <i>Frog</i> croaketh.
+    X x
+
+<i>Asinus</i> rudit, y y y
+The <i>Asse</i> brayeth.
+    Y y
+
+<i>Tabanus</i> dicit, ds ds
+The <i>Breeze</i> or <i>Horse-flie</i> saith.
+    Z z<b>II.</b>
+
+God.
+  Deus.
+
+<i>God</i> is of himself
+from everlasting to everlasting.
+  <i>Deus</i> est ex seipso,
+  ab æterno in æternum.
+
+A most perfect
+and a most blessed <i>Being</i>.
+  Perfectissimum
+  & beatissimum <i>Ens</i>.
+
+In his <i>Essence</i> Spiritual,
+and One.
+  <i>Essentiâ</i> Spiritualis
+  & unus.
+
+In his <i>Personality</i>, Three.
+  <i>Hypostasi</i> Trinus.
+
+In his <i>Will</i>, Holy, Just,
+Merciful and True.
+  <i>Voluntate</i>, Sanctus, Justus,  Clemens, Verax.
+
+In his <i>Power</i> very great.
+  <i>Potentiâ</i> maximus.
+
+In his <i>Goodness</i>, very good.
+  <i>Bonitate</i> Optimus.
+
+In his <i>Wisdom</i>, unmeasurable.
+  <i>Sapientiâ</i>, immensus.
+
+A <i>Light</i> inaccessible;
+and yet all in all.
+  <i>Lux</i> inaccessa;
+  & tamen omnia in omnibus.
+
+Every where, and no where.
+  Ubique & nullibi.
+
+The chiefest <i>Good</i>, and
+the only and inexhausted
+Fountain of all good things.
+  Summum <i>Bonum</i>, et
+  solus et inexhaustus
+  Fons omnium Bonorum.As the <i>Creator</i>, so the
+<i>Governour</i> and <i>Preserver</i>
+of all things, which we call
+the <i>World</i>.
+  Ut <i>Creator</i>, ita
+  <i>Gubernator</i> et <i>Conservator</i>
+  omnium rerum, quas vocamus
+  <i>Mundum</i>.
+
+III.
+
+The World.
+  Mundus.
+
+The <i>Heaven</i>, 1.
+hath <i>Fire</i>, and <i>Stars</i>.
+  <i>Coelum</i>, 1.
+  habet <i>Ignem</i> & <i>Stellas</i>.
+
+The <i>Clouds</i>, 2.
+hang in the <i>Air</i>.
+  <i>Nubes</i>, 2.
+  pendent in <i>Aere</i>.
+
+<i>Birds</i>, 3.
+fly under the Clouds.  <i>Aves</i>, 3.
+  volant sub nubibus.
+
+<i>Fishes</i>, 4.
+swim in the <i>Water</i>.
+  <i>Pisces</i>, 4.
+  natant in <i>Aqua</i>.
+
+The <i>Earth</i> hath <i>Hills</i>, 5.
+<i>Woods</i>, 6. <i>Fields</i>, 7.
+<i>Beasts</i>, 8. and <i>Men</i>, 9.
+  <i>Terra</i> habet <i>Montes</i>, 5.
+  <i>Sylvas</i>, 6. <i>Campos</i>, 7.
+  <i>Animalia</i>, 8. <i>Homines</i>, 9.
+
+Thus the greatest <i>Bodies</i>
+of the World,
+the four <i>Elements</i>,
+are full of
+their own Inhabitants.
+  Ita maxima <i>Corpora</i>
+  Mundi,
+  quatuor <i>Elementa</i>,
+  sunt plena
+  Habitatoribus suis.<b>IV.</b>
+
+The Heaven.
+  Coelum.
+
+<i>The Heaven</i>, 1.
+is wheeled about, and
+encompasseth the <i>Earth</i>, 2.
+standing in the middle.
+  <i>Coelum</i>, 1.
+  rotatur, &
+  ambit <i>Terram</i>, 2.
+  stantem in medio.
+
+The <i>Sun</i>, 3.
+wheresoever it is,
+shineth perpetually,
+howsoever dark <i>Clouds</i>, 4.
+may take it from us;
+  <i>Sol</i>, 3.
+  ubi ubi est,
+  fulget perpetuo,
+  ut ut <i>densa Nubila</i>, 4.
+  eripiant eum a nobis;
+and causeth by his <i>Rays</i>, 5.
+<i>Light</i>, and the Light, <i>Day</i>.  facitque suis <i>Radiis</i>, 5.
+  <i>Lucem</i>, Lux <i>Diem</i>.
+
+On the other side, over against it,
+is <i>Darkness</i>, 6.
+and thence <i>Night</i>.
+  Ex opposito,
+  sunt <i>Tenebræ</i>, 6.
+  inde <i>Nox</i>.
+
+In the Night
+shineth the <i>Moon</i>, 7.
+and the <i>Stars</i>, 8.
+glister and twinkle.
+  Nocte
+  splendet <i>Luna</i>, 7.
+  & <i>Stellæ</i>, 8.
+  micant, scintillant.
+
+In the Evening, 9.
+is <i>Twilight</i>:
+  Vesperi, 9.
+  est <i>Crepusculum</i>:
+
+In the <i>Morning</i>, 10.
+the breaking,and dawning of the Day.
+  Manè
+  Aurora, 10.
+  & Diluculum.
+
+<b>V.</b>
+
+Fire.
+  Ignis.
+
+The <i>Fire</i> gloweth, burneth
+and consumeth to ashes.
+  <i>Ignis</i> ardet, urit,
+  cremat.
+
+A <i>spark</i> of it struck out
+of a <i>Flint</i> (or Firestone), 2.
+by means of a <i>Steel</i>, 1.
+and taken by <i>Tynder</i>
+in a <i>Tynder-box</i>, 3.
+lighteth a <i>Match</i>, 4.
+  <i>Scintilla</i> ejus elisa
+  e <i>Silice</i>, (Pyrite) 2.
+  Ope <i>Chalybis</i>, 1.
+  et excepta a <i>Fomite</i>
+  in <i>Suscitabulo</i>, 3.  accendit <i>Sulphuratum</i>, 4.
+and after that a <i>Candle</i>, 5.
+or <i>stick</i>, 6.
+and causeth a <i>flame</i>, 7.
+or <i>blaze</i>, 8.
+which catcheth hold of
+the Houses.
+  et inde <i>Candelam</i>, 5.
+  vel <i>Lignum</i>, 6.
+  et excitat <i>Flammam</i>, 7.
+  vel <i>Incendium</i>, 8.
+  quod corripit
+  Ædificia.
+
+<i>Smoak</i>, 9.
+ascendeth therefrom,
+which, sticking to
+the <i>Chimney</i>, 10.
+turneth into <i>Soot</i>.
+  <i>Fumus</i>, 9.
+  ascendit inde,
+  qui, adhærans
+  <i>Camino</i>, 10.
+  abit in <i>Fuliginem</i>.Of a <i>Fire-brand</i>,
+(or burning stick)
+is made a <i>Brand</i>, 11.
+(or quenched stick).
+  Ex <i>Torre</i>,
+  (ligno ardente,)
+  fit <i>Titio</i>, 11.
+  (lignum extinctum.)
+
+Of a <i>hot Coal</i>
+(red hot piece
+of a Fire-brand)
+is made a <i>Coal</i>, 12.
+(or a <i>dead Cinder</i>).
+  Ex <i>Pruna</i>,
+  (candente particulâ
+  Torris,)
+  fit <i>Carbo</i>, 12.
+  (<i>Particula mortua</i>.)
+
+That which remaineth,
+is at last <i>Ashes</i>, 13.
+and <i>Embers</i> (or hot <i>Ashes</i>).
+  Quod remanet,
+  tandem est <i>Cinis</i>, 13.
+  & <i>Favilla</i> (ardens <i>Cinis</i>.)VI.
+
+The Air.
+  Aër.
+
+A cool <i>Air</i>, 1.
+breatheth gently.
+  <i>Aura</i>, 1.
+  spirat leniter.
+
+The <i>Wind</i>, 2.
+bloweth strongly.
+  <i>Ventus</i>, 2.
+  flat valide.
+
+A <i>Storm</i>, 3.
+throweth down Trees.
+  <i>Procella</i>, 3.
+  sternit Arbores.
+
+A <i>Whirl-wind</i>, 4.
+turneth it self
+in a round compass.
+  <i>Turbo</i>, 4.
+  agit se
+  in gyrum.A Wind <i>under Ground</i>, 5.
+causeth an <i>Earthquake</i>.
+  Ventus <i>subterraneus</i>, 5.
+  excitat <i>Terræ motum</i>.
+
+An Earthquake causeth
+gapings of the Earth,
+(and falls of Houses.) 6.
+  Terræ motus facit
+  Labes (& ruinas.) 6.
+
+VII.
+
+The Water.
+  Aqua.
+
+The <i>Water</i> springeth
+out of a <i>Fountain</i>, 1.
+floweth downwards
+in a <i>Brook</i>, 2.
+runneth in a <i>Beck</i>, 3.
+  <i>Aqua</i> scatet
+  è <i>Fonte</i>, 1.
+  defluit
+  in <i>Torrente</i>, 2.
+  manat in <i>Rivo</i>, 3.standeth in a <i>Pond</i>, 4.
+glideth in a <i>Stream</i>, 5.
+is whirled about
+in a <i>Whirl-pit</i>, 6.
+and causeth <i>Fens</i>, 7.
+  stat in <i>Stagno</i>, 4.
+  fluit in <i>Flumine</i>, 5.
+  gyratur
+  in <i>Vortice</i>, 6.
+  & facit <i>Paludes</i>, 7.
+
+The <i>River</i> hath <i>Banks</i>, 8.
+  Flumen habet <i>Ripas</i>.
+
+The <i>Sea</i> maketh <i>Shores</i>, 9.
+<i>Bays</i>, 10. <i>Capes</i>, 11.
+<i>Islands</i>, 12.
+<i>Almost Islands</i>, 13.
+  <i>Mare</i> facit <i>Littora</i>, 9.
+  <i>Sìnus</i>, 10. <i>Promontoria</i>, 11.
+  <i>Insulas</i>, 12.
+  <i>Peninsulas</i>, 13.
+<i>Necks of Land</i>, 14.
+<i>Straights</i>, 15.
+and hath in it <i>Rocks</i>, 16.
+  <i>Isthmos</i>, 14.  <i>Freta</i>, 15.
+  & habet <i>Scopulos</i>, 16.
+
+<b>VIII.</b>
+
+The Clouds.
+  Nubes.
+
+A <i>Vapour</i>, 1. ascendeth
+from the <i>Water</i>.
+  <i>Vapor</i>, 1. ascendit
+  ex <i>Aquâ</i>.
+
+From it a <i>Cloud</i>, 2.
+is made, and a <i>white Mist</i>, 3.
+near the Earth.
+  Inde <i>Nubes</i>, 2.
+  fit, et <i>Nebula</i>, 3.
+  prope terram.
+
+<i>Rain</i>, 4.
+and a small <i>Shower</i>
+distilleth out of a <i>Cloud</i>,
+drop by drop.
+  <i>Pluvia</i>, 4.
+  et <i>Imber</i>,  stillat e <i>Nube</i>,
+  guttatim.
+
+Which being frozen, is <i>Hail</i>, 5.
+half frozen is <i>Snow</i>, 6.
+being warm is <i>Mel-dew</i>.
+  Quæ gelata, <i>Grando</i>, 5.
+  semigelata, <i>Nix</i>, 6.
+  calefacta, <i>Rubigo</i> est.
+
+In a rainy Cloud,
+set over against the Sun
+the <i>Rainbow</i>, 7. appeareth.
+  In nube pluviosâ,
+  oppositâ soli
+  <i>Iris</i>, 7. apparet.
+
+A <i>drop</i> falling into the water
+maketh a <i>Bubble</i>, 8.
+many <i>Bubbles</i> make
+froth, 9.
+  <i>Gutta</i> incidens in aquam,
+  facit <i>Bullam</i>, 8.
+  multæ <i>Bullæ</i> faciunt
+  spumam, 9.Frozen Water
+is called <i>Ice</i>, 10.
+<i>Dew</i> congealed,
+is called a <i>white Frost</i>.
+  Aqua congelata
+  <i>Glacies</i>, 10.
+  <i>Ros</i> congelatus,
+  dicitur <i>Pruina</i>.
+
+<i>Thunder</i> is made of
+a brimstone-like <i>vapour</i>,
+which breaking out of a Cloud,
+with <i>Lightning</i>, 11.
+thundereth and
+striketh with lightning.
+  <i>Tonitru</i> fit ex
+  <i>Vapore</i> sulphureo,
+  quod erumpens è Nube
+  cum <i>Fulgure</i>, 11.
+  tonat &
+  fulminat.
+
+IX.
+
+The Earth.
+  Terra.In the <i>Earth</i>
+are high <i>Mountains</i>, 1.
+Deep <i>Vallies</i>, 2.
+<i>Hills</i> rising, 3.
+  In <i>Terra</i>
+  sunt Alti <i>Montes</i>, 1.
+  Profundæ <i>valles</i>, 2.
+  Elevati Colles, 3.
+Hollow Caves, 4.
+Plain <i>Fields</i>, 5.
+Shady <i>Woods</i>, 6.
+  cavæ Speluncæ, 4.
+  Plani <i>campi</i>, 5.
+  Opacæ Sylvæ, 6.
+
+X.
+
+The Fruits of the Earth.
+  Terræ Foetus.
+
+A <i>meadow</i>, 1.
+yieldeth <i>grass</i>
+with <i>Flowers</i> and <i>Herbs</i>,
+which being cut down,
+are made <i>Hay</i>, 2.
+  <i>Pratum</i>, 1.  fert <i>Gramina</i>,
+  cum <i>Floribus</i> & <i>Herbis</i>
+  quæ defecta
+  fiunt <i>Fænum</i>, 2.
+
+A <i>Field</i>, 3. yieldeth <i>Corn</i>,
+and <i>Pot-herbs</i>, 4.
+  <i>Arvum</i>, 3. fert <i>Fruges</i>,
+  & <i>Olera</i>, 4.
+
+<i>Mushrooms</i>, 5.
+<i>Straw-berries</i>, 6.
+<i>Myrtle-trees</i>, &c.
+<i>come up</i> in Woods.
+  <i>Fungi</i>, 5.
+  <i>Fraga</i>, 6.
+  <i>Myrtilli</i>, &c.
+  <i>Proveniunt</i> in Sylvis.
+
+<i>Metals</i>, <i>Stones</i>, and
+<i>Minerals</i>
+grow <i>under the earth</i>.
+  <i>Metalla</i>, <i>Lapides</i>,
+  <i>Mineralia</i>,
+  <i>nascuntur sub terra</i>.XI.
+
+Metals.
+  Metalla.
+
+<i>Lead</i>, 1.
+is soft, and heavy.
+  <i>Plumbum</i>, 1.
+  est molle & grave.
+
+<i>Iron</i>, 2. is hard,
+and <i>Steel</i>, 3. harder.
+  <i>Ferrum</i>, 2. est durum,
+  & <i>Calybs</i>, 3. durior.
+
+They make <i>Tankards</i>
+(or <i>Cans</i>), 4. of <i>Tin</i>.
+<i>Kettles</i>, 5. of <i>Copper</i>,
+<i>Candlesticks</i>, 6. of <i>Latin</i>,
+  Faciunt <i>Cantharos</i>, 4.
+  e <i>Stanno</i>.
+  <i>Ahena</i>, 5, e <i>Cupro</i>,
+  <i>Candelabra</i>, 6. ex <i>Orichalco</i>,
+<i>Dollers</i>, 7. of <i>Silver</i>,
+<i>Ducats</i> and <i>Crown-pieces</i>, 8.
+of Gold.  <i>Thaleros</i>, 7. ex <i>Argento</i>,
+  <i>Scutatos</i> et <i>Coronatos</i>, 8.
+  Ex, <i>Auro</i>.
+
+<i>Quick-silver</i>
+is always liquid,
+and eateth thorow <i>Metals</i>.
+  <i>Argentum Vivum</i>,
+  semper liquet,
+  & corrodit <i>Metalla</i>.
+
+<b>XII.</b>
+
+Stones.
+  Lapides.
+
+<i>Sand</i>, 1. and <i>Gravel</i>, 2.
+is <i>Stone</i> broken into bits.
+  <i>Arena</i>, 1. & <i>Sabulum</i>, 2.
+  est <i>Lapis</i> comminutus.
+
+A <i>great Stone</i>, 3.
+is a piece of
+a <i>Rock</i> (or Crag) 4.
+  <i>Saxum</i>, 3.
+  est pars  <i>Petræ</i> (Cautis) 4.
+
+A <i>Whetstone</i>, 5.
+a <i>Flint</i>, 6. a <i>Marble</i>, 7. &c.
+are ordinary Stones.
+  <i>Cos</i>, 5.
+  <i>Silex</i>, 6. <i>Marmor</i>, 7. &c.
+  sunt obscuri Lapides.
+
+A <i>Load-stone</i>, 8.
+draweth Iron to it.
+  <i>Magnes</i>, 8.
+  adtrahit ferrum.
+
+<i>Jewels</i>, 9.
+are clear Stones, as
+  <i>Gemmæ</i>, 9.
+  sunt pellucidi Lapilli,
+
+The <i>Diamond</i> white
+  ut <i>Adamas</i> candidus,
+
+The <i>Ruby</i> red,
+  <i>Rubinus</i> rubeus,The <i>Sapphire</i> blue,
+  <i>Sapphirus</i> cæruleus,
+
+The <i>Emerald</i> green,
+  <i>Smaragdus</i> viridis,
+
+The <i>Jacinth</i> yellow, &c.
+  <i>Hyacynthus</i> luteus, &c.
+
+And they glister
+being cut into corners.
+  et micant
+  angulati.
+
+<i>Pearls</i> and <i>Unions</i>, 10.
+grow in Shell-fish.
+  <i>Margaritæ</i> & <i>Uniones</i>, 10.
+  crescunt in Conchis.
+
+<i>Corals</i>, 11.
+in a Sea-shrub.
+  <i>Corallia</i>, 11.
+  in Marinâ arbusculâ.
+
+<i>Amber</i>, 12. is gathered
+from the Sea.  <i>Succinum</i>, 12. colligitur
+  è mari.
+
+<i>Glass</i>, 13, is like
+<i>Chrystal</i>.
+  <i>Vitrum</i>, 13. simile est
+  <i>Chrystallo</i>.
+
+<b>XIII.</b>
+
+Tree.
+  Arbor.
+
+A <i>Plant</i>, 1. groweth
+from a <i>Seed</i>.
+  <i>Planta</i>, 1. procrescit
+  e <i>Semine</i>.
+
+A plant waxeth
+to a <i>Shoot</i>, 2.
+  Planta abit
+  in <i>Fruticem</i>, 2.
+
+A <i>Shoot</i> to a <i>Tree</i>, 3.
+  <i>Frutex</i> in <i>Arborem</i>, 3.The <i>Root</i>, 4.
+beareth up the Tree.
+  <i>Radix</i>, 4.
+  Sustentat arborem.
+
+The <i>Body</i> or <i>Stem</i>, 5.
+riseth from the Root.
+  <i>Stirps</i> (<i>Stemma</i>) 5.
+  Surgit e radice.
+
+The <i>Stem</i> divideth it self
+into <i>Boughs</i>, 6.
+and green <i>Branches</i>, 7.
+made of <i>Leaves</i>, 8.
+  <i>Stirps</i> se dividit
+  in <i>Ramos</i>, 6.
+  & <i>Frondes</i>, 7.
+  factas e <i>Foliis</i>, 8.
+
+The <i>top</i>, 9.
+is in the height.
+  <i>Cacumen</i>, 9.
+  est in summo.
+
+The <i>Stock</i>, 10.
+is close to the roots.  <i>Truncus</i>, 10.
+  adhærat radicibus.
+
+A <i>Log</i>, 11.
+is the body fell'd down
+without Boughs; having
+<i>Bark</i> and <i>Rind</i>, 12.
+<i>Pith</i> and <i>Heart</i>, 13.
+  <i>Caudex</i>, 11.
+  est Stipes dejectus,
+  sine ramis; habens
+  <i>Corticem</i> & <i>Librum</i>, 12.
+  <i>pulpam</i> & <i>medullam</i>, 13.
+
+<i>Bird-lime</i>, 14.
+groweth upon the boughs,
+which also sweat
+<i>Gumm</i>,
+<i>Rosin</i>,
+<i>Pitch</i>, &c.
+  <i>Viscum</i>, 14.
+  adnascitur <i>ramis</i>,
+  qui etiam sudant,
+  <i>Gummi</i>,
+  <i>Resinam</i>,
+  <i>Picem</i>, &c.<b>XIV.</b>
+
+Fruits of Trees.
+  Fructus Arborum.
+
+<i>Fruits</i> that have no shells
+are pull'd from
+fruit-bearing trees.
+  <i>Poma</i>
+  decerpuntur, a
+  fructiferis arboribus.
+
+The <i>Apple</i>, 1. is round.
+  <i>Malum</i>, 1. est rotundum.
+
+The <i>Pear</i>, 2. and <i>Fig</i>, 3.
+are something long.
+  <i>Pyrum</i>, 2. & <i>Ficus</i>, 3.
+  sunt oblonga.
+
+The <i>Cherry</i>, 4.
+hangeth by a long start.
+  <i>Cerasum</i>, 4.
+  pendet longo <i>Pediolo</i>.The <i>Plumb</i>, 5.
+and <i>Peach</i>, 6.
+by a shorter.
+  <i>Prunum</i>, 5.
+  & <i>Persicum</i>, 6.
+  breviori.
+
+The <i>Mulberry</i>, 7.
+by a very short one.
+  <i>Morum</i>, 7.
+  brevissimo.
+
+The <i>Wall-nut</i>, 8.
+the <i>Hazel-nut</i>, 9.
+and <i>Chest-nut</i>, 10.
+are wrapped in a <i>husk</i>
+and a <i>Shell</i>.
+  <i>Nux Juglans</i>, 8.
+  <i>Avellana</i>, 9.
+  & <i>Castanea</i>, 10.
+  involuta sunt <i>Cortici</i>
+  & <i>Putamini</i>.
+
+Barren trees are 11.
+The <i>Firr</i>, the <i>Alder</i>,
+The <i>Birch</i>, the <i>Cypress</i>,The <i>Beech</i>, the <i>Ash</i>,
+  Steriles arbores sunt 11.
+  <i>Abies</i>, <i>Alnus</i>,
+  <i>Betula</i>, <i>Cupressus</i>,
+  <i>Fagus</i>, <i>Fraxinus</i>,
+The <i>Sallow</i>, the <i>Linden-tree</i>,
+&c., but most of them
+affording shade.
+  <i>Salix</i>, <i>Tilia</i>,
+  &c. sed pleræque
+  umbriferæ.
+
+But the <i>Juniper</i>, 12.
+and <i>Bay-tree</i>, 13.
+yield <i>Berries</i>.
+  At <i>Juniperus</i>, 12.
+  & <i>Laurus</i>, 13.
+  ferunt <i>Baccas</i>.
+
+The <i>Pine</i>, 14. <i>Pine-apples</i>.
+  <i>Pinus</i>, 14. <i>Strobilos</i>.
+
+The <i>Oak</i>, 15.
+<i>Acorns</i> and <i>Galls</i>.
+  <i>Quercus</i>, 15.
+  <i>Glandes</i> & <i>Gallas</i>.<b>XV.</b>
+
+Flowers.
+  Flores.
+
+Amongst the Flowers
+the most noted,
+  Inter flores
+  notissimi,
+
+In the beginning
+of the Spring are
+the <i>Violet</i>, 1. the <i>Crow-toes</i>, 2.
+the <i>Daffodil</i>, 3.
+  Primo vere,
+  <i>Viola</i>, 1. <i>Hyacinthus</i>, 2.
+  <i>Narcissus</i>, 3.
+
+Then the <i>Lillies</i>, 4.
+white and yellow
+and blew, 5.
+and the <i>Rose</i>, 6. and the
+<i>Clove-gilliflowers</i>, 7. &c.
+  Tum <i>Lilia</i>, 4.
+  alba & lutea,
+  & coerulea, 5.  tandem <i>Rosa</i>, 6. &
+  <i>Caryophillum</i>, 7. &c.
+
+Of these <i>Garlands</i>, 8.
+and <i>Nosegays</i>, 9.
+are tyed round with twigs.
+  Ex his <i>Serta</i>, 8.
+  & <i>Serviæ</i>, 9.
+  vientur.
+
+There are added also
+<i>sweet herbs</i>, 10.
+as <i>Marjoram</i>,
+<i>Flower gentle</i>, <i>Rue</i>,
+<i>Lavender</i>,
+<i>Rosemary</i>.
+  Adduntur etiam
+  <i>Herbæ odoratæ</i>, 10.
+  ut <i>Amaracus</i>,
+  <i>Amaranthus</i>, <i>Ruta</i>,
+  <i>Lavendula</i>,
+  <i>Rosmarinus</i>, (Libanotis).
+<i>Hysop</i>, <i>Spike</i>,
+<i>Basil</i>, <i>Sage</i>,
+<i>Mints</i>, &c.
+  <i>Hypossus</i>, <i>Nard</i>,  <i>Ocymum</i>, <i>Salvia</i>,
+  <i>Menta</i>, &c.
+
+Amongst Field-flowers, 11.
+the most noted are
+the <i>May-lillie</i>,
+<i>Germander</i>, the <i>Blew-Bottle</i>,
+<i>Chamomel</i>, &c.
+  Inter Campestres Flores, 11.
+  notissimi sunt
+  <i>Lilium Convallium</i>,
+  <i>Chamædrys</i>, <i>Cyanus</i>,
+  <i>Chamæmelum</i>, &c.
+
+And amongst Herbs,
+<i>Trefoil</i>.
+<i>Wormwood</i>, <i>Sorrel</i>,
+the <i>Nettle</i>, &c.
+  Et Herbæ,
+  <i>Cytisus</i> (Trifolium)
+  <i>Absinthium</i>, <i>Acetosa</i>,
+  <i>Urtica</i>, &c.
+
+The <i>Tulip</i>, 12.
+is the grace of flowers,
+but affording no smell.  <i>Tulipa</i>, 12.
+  est decus Florum,
+  sed expers odoris.
+
+XVI.
+
+Potherbs.
+  Olera.
+
+<i>Pot-herbs</i>
+grow in Gardens,
+as <i>Lettice</i>, 1.
+<i>Colewort</i>, 2.
+<i>Onions</i>, 3. <i>Garlick</i>, 4.
+<i>Gourd</i>, 5.
+  <i>Olera</i>
+  nascuntur in hortis,
+  ut <i>Lactuca</i>, 1.
+  <i>Brassica</i>, 2.
+  <i>Cepa</i>, 3. <i>Allium</i>, 4.
+  <i>Cucurbita</i>, 5.
+The <i>Parsnep</i>, 6.
+The <i>Turnep</i>, 7.
+The <i>Radish</i>, 8.
+<i>Horse-radish</i>, 9.
+  <i>Siser</i>, 6.  <i>Rapa</i>, 7.
+  <i>Raphanus minor</i>, 8.
+  <i>Raphanus major</i>, 9.
+<i>Parsly</i>, 10.
+<i>Cucumbers</i>, 11.
+and <i>Pompions</i>, 12.
+  <i>Petroselinum</i>, 10.
+  <i>Cucumeres</i>, 11.
+  <i>Pepones</i>, 12.
+
+<b>XVII.</b>
+
+Corn.
+  Fruges.
+
+Some <i>Corn</i> grows
+upon a <i>straw</i>,
+parted by <i>knots</i>,
+  <i>Frumenta</i> quædam crescunt
+  super <i>culmum</i>,
+  distinctum <i>geniculis</i>,
+as <i>Wheat</i>, 1.
+<i>Rie</i>, 2, <i>Barley</i>, 3.
+in which the <i>Ear</i> hath <i>awnes</i>,
+  ut, <i>Triticum</i>, 1.
+  <i>Siligo</i>, 2. <i>Hordeum</i>, 3.  in quibus <i>Spica</i> habet <i>Aristas</i>,
+or else it is without awnes,
+and it nourisheth the <i>Corn</i>
+in the <i>Husk</i>.
+  aut est mutica,
+  fovetque <i>grana</i>
+  in <i>gluma</i>.
+
+Some instead of an ear,
+have a <i>rizom</i> (or plume)
+containing the corn
+by bunches,
+as <i>Oats</i>, 4. <i>Millet</i>, 5.
+<i>Turkey-wheat</i>, 6.
+  Quædam pro Spica,
+  habent <i>Paniculam</i>,
+  continentem grana
+  fasciatim,
+  ut, <i>Avena</i>, 4. <i>Milium</i>, 5.
+  <i>Frumentum Saracenicum</i>, 6.
+
+<i>Pulse</i> have <i>Cods</i>,
+which enclose the corns
+in two <i>Shales</i>,
+  <i>Legumina</i> habent <i>Siliquas</i>,
+  quæ includunt grana  <i>valvulis</i>,
+as <i>Pease</i>, 7.
+<i>Beans</i>, 8. <i>Vetches</i>, 9. and
+those that are less than these
+<i>Lentils</i> and <i>Urles</i>
+(or Tares).
+  ut, <i>Pisum</i>, 7.
+  <i>Fabæ</i>, 8. <i>Vicia</i>, 9. &
+  minores his
+  <i>Lentes</i> & <i>Cicera</i>.
+
+<b>XVIII.</b>
+
+Shrubs.
+  Frutices.
+
+A plant being greater,
+and harder than an herb,
+is called a <i>Shrub</i>:
+such as are
+  Planta major
+  & durior herba,
+  dicitur <i>Frutex</i>:
+  ut suntIn Banks and Ponds,
+the <i>Rush</i>, 1.
+the <i>Bulrush</i>, 2.
+or Cane without knots
+  In ripis & stagnis,
+  <i>Juncus</i>, 1.
+  <i>Scirpus</i>, 2.
+  [Canna] <i>enodis</i>
+bearing <i>Cats-tails</i>,
+and the <i>Reed</i>, 3.
+which is knotty and hollow
+within.
+  ferens <i>Typhos</i>,
+  & <i>Arundo</i>, 3.
+  nodosa et cava
+  intus.
+
+Elsewhere, 4. the <i>Rose</i>,
+the <i>Bastard-Corinths</i>,
+the <i>Elder</i>, the <i>Juniper</i>.
+  Alibi, 4. <i>Rosa</i>,
+  <i>Ribes</i>,
+  <i>Sambucus</i>, <i>Juniperus</i>,
+
+Also the <i>Vine</i>, 5. which
+putteth forth <i>branches</i>, 6.and these <i>tendrels</i>, 7.
+  Item <i>Vitis</i>, 5. quæ
+  emittit <i>Palmites</i>, 6.
+  et hi <i>Capreolos</i>, 7.
+<i>Vine-leaves</i>, 8.
+and Bunches of grapes, 9.
+on the stock whereof
+hang <i>Grapes</i>,
+which contain <i>Grape-stones</i>.
+  <i>Pampinos</i>, 8.
+  et <i>Racemos</i>, 9.
+  quorum Scapo
+  pendent <i>Uvæ</i>,
+  continentes <i>Acinos</i>.<b>XIX.</b>
+
+Living-Creatures: and First, Birds.
+  Animalia: & primum, Aves
+
+A <i>living Creature</i> liveth,
+perceiveth, moveth it self;
+is born, dieth,
+is nourished, and groweth:
+standeth, or sitteth,
+or lieth, or goeth.
+  <i>Animal</i> vivit,
+  sentit, movet se;
+  nascitur, moritur,
+  nutritur, & crescit;
+  stat, aut sedet,
+  aut cubat, aut graditur.
+
+A <i>Bird</i>,
+(here the King's <i>Fisher</i>, 1.
+making her nest in the Sea.)
+  <i>Avis</i>,
+  (hic <i>Halcyon</i>, 1.
+  in mari nidulans.)
+is covered with <i>Feathers</i>, 2.
+flyeth with <i>Wings</i>, 3.hath two <i>Pinions</i>, 4.
+as many <i>Feet</i>, 5.
+a <i>Tail</i>, 6.
+and a <i>Bill</i>, 7.
+  tegitur <i>Plumis</i>, 2.
+  volat <i>Pennis</i>, 3.
+  habet duas <i>Alas</i>, 4.
+  totidem <i>Pedes</i>, 5.
+  <i>Caudam</i>, 6.
+  & <i>Rostrum</i>, 7.
+
+The <i>Shee</i>, 8.
+<i>layeth</i> Eggs, 10.
+in a nest, 9.
+and sitting upon them,
+hatcheth <i>young ones</i>, 11.
+  <i>Fæmella</i>, 8.
+  <i>ponit</i> Ova, 10.
+  in nido, 9.
+  et incubans iis,
+  excludit <i>Pullos</i>, 11.
+
+An <i>Egg</i> is cover'd
+with a <i>Shell</i>, 12.
+under which is
+the <i>White</i>, 13.in this the <i>Yolk</i>, 14.
+  <i>Ovum</i> tegitur
+  <i>testa</i>, 12.
+  sub qua est
+  <i>Albumen</i>, 13.
+  in hoc <i>Vitellus</i>, 14.
+
+<b>XX.</b>
+
+Tame Fowls.
+  Aves Domesticæ.
+
+The <i>Cock</i>, 1. (which
+croweth in the Morning.)
+hath a <i>Comb</i>, 2.
+and <i>Spurs</i>, 3.
+  <i>Gallus</i>, 1. (qui
+  cantat mane.)
+  habet <i>Cristam</i>, 2.
+  & <i>Calcaria</i>, 3.
+being gelded, he is called
+a <i>Capon</i>, and is crammed
+in a <i>Coop</i>, 4.
+  castratus dicitur
+  <i>Capo</i> & saginatur
+  in <i>Ornithotrophico</i>, 4.A <i>Hen</i>, 5.
+scrapeth the <i>Dunghil</i>,
+and picketh up Corns:
+  <i>Gallina</i>, 5.
+  ruspatur <i>fimetum</i>,
+  & colligit grana:
+as also the <i>Pigeons</i>, 6.
+(which are brought up in
+a <i>Pigeon-house</i>, 7.)
+and the <i>Turkey-cock</i>, 8.
+with his <i>Turkey-hen</i>, 9.
+  sicut & <i>Columbæ</i>, 6,
+  (quæ educantur in
+  <i>Columbario</i>, 7.)
+  & <i>Gallopavus</i>, 8.
+  cum sua <i>Meleagride</i>, 9.
+
+The gay <i>Peacock</i>, 10.
+prideth in his Feathers.
+  Formosus <i>Pavo</i>, 10.
+  superbit pennis.
+
+The <i>Stork</i>, 11.
+buildeth her nest
+on the top of the House.
+  <i>Ciconia</i>, 11.  nidificat
+  in tecto.
+
+The <i>Swallow</i>, 12.
+the <i>Sparrow</i>, 13.
+the <i>Mag-pie</i>, 14.
+the <i>Jackdaw</i>, 15.
+  <i>Hirundo</i>, 12.
+  <i>Passer</i>, 13.
+  <i>Pica</i>, 14.
+  <i>Monedula</i>, 15.
+and the <i>Bat</i>, 16.
+(or Flettermouse)
+use to flie about Houses.
+  & <i>Vespertilio</i>, 16.
+  (Mus alatus)
+  volitant circa Domus.<b>XXI.</b>
+
+Singing-Birds.
+  Oscines.
+
+The <i>Nightingal</i>, 1.
+singeth the sweetlyest of all.
+  <i>Luscinia</i> (<i>Philomela</i>), 1.
+  cantat suavissime omnium.
+
+The <i>Lark</i>, 2. singeth
+as she flyeth in the Air.
+  <i>Alauda</i>, 2. cantillat
+  volitans in aere;
+
+The <i>Quail</i>, 3.
+sitting on the ground;
+  <i>Coturnix</i>, 3.
+  sedens humi;
+
+others on the boughs of trees, 4.
+as the <i>Canary-bird</i>,
+the <i>Chaffinch</i>,
+the <i>Goldfinch</i>,
+  Cæteræ, in ramis arborum, 4.
+  ut <i>Luteola</i> peregrina.  <i>Fringilla</i>,
+  <i>Carduelis</i>,
+the <i>Siskin</i>,
+the <i>Linnet</i>,
+the little <i>Titmouse</i>,
+the <i>Wood-wall</i>,
+the <i>Robin-red-breast</i>,
+the <i>Hedge-sparrow</i>, &c.
+  <i>Acanthis</i>,
+  <i>Linaria</i>,
+  parvus <i>Parus</i>,
+  <i>Galgulus</i>,
+  <i>Rubecula</i>,
+  <i>Curruca</i>, &c.
+
+The party colour'd <i>Parret</i>, 5.
+the <i>Black-bird</i>, 6.
+the <i>Stare</i>, 7.
+with the <i>Mag-pie</i>
+and the <i>Jay</i>, learn
+to frame men's words.
+  Discolor <i>Psittacus</i>, 5.
+  <i>Merula</i>, 6.
+  <i>Sturnus</i>, 7.
+  cum <i>Pica</i>,
+  & <i>Monedula</i>, discunt
